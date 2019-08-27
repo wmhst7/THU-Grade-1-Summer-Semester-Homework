@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>icon/reload.svg</file>
+        <file>icon/play-circle.svg</file>
+        <file>icon/right-circle.svg</file>
+        <file>icon/left-circle.svg</file>
+        <file>icon/sound.svg</file>
+        <file>icon/plus-circle.svg</file>
+        <file>icon/poweroff.svg</file>
+        <file>icon/setting.svg</file>
+        <file>Sound/1.wav</file>
+        <file>Sound/Move.wav</file>
+        <file>Sound/Merge.wav</file>
+        <file>Sound/2.wav</file>
+    </qresource>
+</RCC>
