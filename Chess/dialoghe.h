@@ -15,6 +15,13 @@ public:
     explicit DialogHe(QWidget *parent = nullptr);
     ~DialogHe();
 
+    bool Accept = true;
+
+private slots:
+    void on_pushButton_2_clicked();
+
+    void on_pushButton_clicked();
+
 private:
     Ui::DialogHe *ui;
 };

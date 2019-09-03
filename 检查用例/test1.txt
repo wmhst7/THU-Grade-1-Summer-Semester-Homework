@@ -1,0 +1,7 @@
+white
+king 1 d1
+pawn 1 b7
+queen 1 g6
+black
+king 1 h8
+rook 1 c8

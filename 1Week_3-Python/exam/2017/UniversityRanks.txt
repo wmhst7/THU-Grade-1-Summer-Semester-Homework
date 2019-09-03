@@ -1,0 +1,624 @@
+Massachusetts Institute of Technology: 1.0
+Stanford University: 2.0
+Massachusetts Institute of Technology (MIT): 2.0
+University of Oxford: 3.0
+University of California - Berkeley: 4
+Harvard University: 4.0
+Carnegie Mellon University: 5.0
+University of Texas--Austin: 5.0
+University of Cambridge: 6.0
+University of California--Berkeley: 7.0
+University of California, Berkeley: 7.0
+The University of Texas at Austin: 7.0
+ETH Zurich - Swiss Federal Institute of Technology: 8.0
+National University of Singapore: 9.0
+City University Hong Kong: 9.0
+University of California - San Diego: 10
+Princeton University: 10.0
+University of Toronto: 11.0
+Hong Kong University of Science and Technology: 12.0
+Imperial College London: 12.0
+ETH Zurich: 13
+The University of Melbourne: 13.0
+The Hong Kong University of Science and Technology: 14.0
+Nanyang Technological University, Singapore: 14.0
+University of Michigan-Ann Arbor: 15.0
+University of California, Los Angeles: 16.0
+Tsinghua University: 17.0
+University of California--San Diego: 17.0
+Swiss Federal Institute of Technology Zurich: 17.0
+Technion-Israel Institute of Technology: 18.0
+Ecole Polytechnique Fédérale de Lausanne: 18.0
+University of Maryland - College Park: 19
+The Ohio State University - Columbus: 19.0
+The University of Hong Kong: 19.0
+The University of Edinburgh: 20.0
+Purdue University - West Lafayette: 21.0
+The University of Tokyo: 21.0
+EPFL: 22
+University of California - Los Angeles: 22
+Chinese University Hong Kong: 22.0
+The Chinese University of Hong Kong: 22.0
+Peking University: 23.0
+University of British Columbia: 24.0
+Georgia Institute of Technology: 25.0
+Cornell University: 26.0
+University of Waterloo: 26.0
+University of California--Los Angeles: 26.0
+The Imperial College of Science, Technology and Medicine: 26.0
+École Polytechnique Federale of Lausanne: 27.0
+University of Washington: 28.0
+Max Planck Institute: 28
+California Institute of Technology: 28.0
+Technical University Munich: 28.0
+University of Illinois at Urbana-Champaign: 30.0
+Columbia University: 31.0
+Hong Kong Polytechnic University: 31.0
+The Australian National University: 31.0
+Catholic University of Leuven: 32.0
+Nanyang Technological University: 33.0
+UCL: 33.0
+University of Texas at Austin: 34.0
+University of Edinburgh: 34.0
+University of California - Irvine: 35
+The University of New South Wales: 35.0
+Technical University of Munich: 36.0
+University of Illinois--Urbana-Champaign: 36.0
+Swiss Federal Institute of Technology Lausanne: 36.0
+KAIST - Korea Advanced Institute of Science & Technology: 36.0
+Yale University: 38.0
+University of Maryland--College Park: 38.0
+University of Pennsylvania: 39.0
+University of California - Santa Barbara: 40
+Hebrew University of Jerusalem: 40
+Seoul National University: 40.0
+University of North Carolina at Chapel Hill: 40.0
+The University of Sydney: 40.0
+University of Hong Kong: 41.0
+University of Minnesota, Twin Cities: 41.0
+New York University: 42.0
+Ohio State University: 42
+University of Melbourne: 43.0
+Politecnico di Milano: 43.0
+Shanghai Jiao Tong University: 44.0
+University College London: 44.0
+Rutgers University: 44
+University of California, San Diego: 44.0
+National Taiwan University: 46.0
+University of California--Irvine: 46.0
+University of Michigan: 47.0
+University of Michigan--Ann Arbor: 47.0
+University of Chicago: 48.0
+City University of Hong Kong: 49.0
+The Hong Kong Polytechnic University: 49.0
+University of California - Riverside: 52
+University of North Carolina: 52
+Royal Institute of Technology: 52.0
+Chinese University of Hong Kong: 55
+University of California - Davis: 55
+Purdue University--West Lafayette: 56.0
+Polytechnic University of Milan: 57.0
+TU Darmstadt: 61
+Indiana University: 61
+Australian National University: 61.0
+University of New South Wales: 62.0
+University of Queensland Australia: 63.0
+King Abdullah University of Science and Technology: 63.0
+Pennsylvania State University - University Park: 63.0
+Rutgers, The State University of New Jersey - New Brunswick: 63.0
+University of Colorado at Boulder: 63.0
+University of Delaware: 63.0
+University of Jaen: 63.0
+Xian Jiao Tong University: 63.0
+University of California - Santa Cruz: 64
+Pennsylvania State University--University Park: 64.0
+University of Tokyo: 67.0
+Oregon State University: 68
+Technion Israel Institute of Technology: 68.0
+TU Munich: 69
+Karlsruhe Institute of Technology: 69.0
+UNSW: 70
+University of Wisconsin--Madison: 70.0
+University of California--Davis: 72.0
+Ecole Normale Superieure: 73
+University of Texas at Dallas: 73
+Xi'an Jiaotong University: 74.0
+Arizona State University--Tempe: 75.0
+University of Southern California: 75.5
+University of Massachusetts Amherst: 75.5
+Purdue University: 75.5
+Technion - Israel Institute of Technology: 75.5
+McGill University: 75.5
+Duke University: 75.5
+Johns Hopkins University: 75.5
+Zhejiang University: 75.5
+Delft University of Technology: 75.5
+National Chiao Tung University: 75.5
+Humboldt-Universität zu Berlin: 75.5
+University of Technology Sydney: 75.5
+National Tsing Hua University: 75.5
+King's College London: 75.5
+RWTH Aachen University: 75.5
+University of Southampton: 75.5
+University of Maryland, College Park: 75.5
+University of California, Irvine: 75.5
+KU Leuven: 75.5
+The University of Manchester: 75.5
+Sapienza University of Rome: 75.5
+KTH Royal Institute of Technology: 75.5
+Monash University: 75.5
+University of Amsterdam: 75.5
+Vienna University of Technology: 75.5
+Ecole normale supérieure, Paris: 75.5
+Ecole Polytechnique: 75.5
+Fudan University: 75.5
+Indian Institute of Technology Bombay: 75.5
+Indian Institute of Technology Delhi: 75.5
+KIT, Karlsruhe Institute of Technology: 75.5
+Korea University: 75.5
+Kyoto University: 75.5
+Lomonosov Moscow State University: 75.5
+London School of Economics and Political Science: 75.5
+Ludwig-Maximilians-Universität München: 75.5
+Pohang University of Science And Technology: 75.5
+Politecnico di Torino: 75.5
+Technische Universität Berlin: 75.5
+The University of Auckland: 75.5
+The University of Queensland: 75.5
+Tokyo Institute of Technology: 75.5
+Universidade de São Paulo: 75.5
+Universidade Estadual de Campinas: 75.5
+Alma Mater Studiorum - University of Bologna: 75.5
+Universitat Politècnica de Catalunya: 75.5
+Universiti Malaya: 75.5
+Universiti Sains Malaysia: 75.5
+University of Glasgow: 75.5
+University of Wisconsin-Madison: 75.5
+University of Minnesota--Twin Cities: 76.0
+University of Manchester: 77.0
+CentraleSupelec: 78.0
+University of Sydney: 80.0
+Virginia Tech: 81
+IISc Bangalore: 83
+RWTH Aachen: 83
+Amirkabir University of Technology (AUT): 85.0
+KAIST: 87
+IIT Bombay: 87
+TU Delft: 87
+IST Austria: 87
+University of Texas at Arlington: 87
+University at Buffalo: 87
+Central South University: 92.0
+Rutgers, The State University of New Jersey--New Brunswick: 96.0
+University of Sheffield: 96.0
+University of Freiburg: 99
+University of Tennessee: 99
+IIT Delhi: 99
+TU Dresden: 99
+University of Wisconsin - Madison: 125.5
+Tel Aviv University: 125.5
+Pennsylvania State University: 125.5
+Rice University: 125.5
+Brown University: 125.5
+Simon Fraser University: 125.5
+Northwestern University: 125.5
+University of Illinois at Chicago: 125.5
+Boston University: 125.5
+University of Alberta: 125.5
+Nanjing University: 125.5
+Korea Advanced Institute of Science and Technology: 125.5
+National Cheng Kung University: 125.5
+University of Science and Technology of China: 125.5
+Aalto University: 125.5
+Eindhoven University of Technology: 125.5
+National Taiwan University of Science and Technology: 125.5
+University of California, Davis: 125.5
+University of Copenhagen: 125.5
+New Jersey Institute of Technology: 125.5
+University of Bristol: 125.5
+Indiana University Bloomington: 125.5
+The University of Adelaide: 125.5
+University of Oslo: 125.5
+Virginia Polytechnic Institute and State University: 125.5
+Aarhus University: 125.5
+Chalmers University of Technology: 125.5
+Indian Institute of Technology Kanpur: 125.5
+Indian Institute of Technology Kharagpur: 125.5
+Indian Institute of Technology Madras: 125.5
+Instituto Politécnico Nacional: 125.5
+Lancaster University: 125.5
+National Technical University of Athens: 125.5
+Osaka University: 125.5
+Pontificia Universidad Católica de Chile: 125.5
+Queensland University of Technology: 125.5
+RMIT University: 125.5
+Ruprecht-Karls-Universität Heidelberg: 125.5
+Sungkyunkwan University: 125.5
+Technische Universität Darmstadt: 125.5
+The University of Warwick: 125.5
+Trinity College Dublin, The University of Dublin: 125.5
+Universidad de Chile: 125.5
+Universidad Nacional Autónoma de México: 125.5
+University of Pisa: 125.5
+Universität des Saarlandes: 125.5
+Université de Montréal: 125.5
+University College Dublin: 125.5
+University of Birmingham: 125.5
+University of North Carolina, Chapel Hill: 125.5
+University of York: 125.5
+University of Zurich: 125.5
+Vrije Universiteit Amsterdam: 125.5
+Yonsei University: 125.5
+Stony Brook University: 175.5
+University of Minnesota: 175.5
+Texas A&M University: 175.5
+North Carolina State University: 175.5
+University of Virginia: 175.5
+Michigan State University: 175.5
+Polytechnic University of Catalonia: 175.5
+University of California, Santa Barbara: 175.5
+Technical University of Denmark: 175.5
+The Hebrew University of Jerusalem: 175.5
+Weizmann Institute of Science: 175.5
+Amirkabir University of Technology: 175.5
+Ben-Gurion University of the Negev: 175.5
+De Montfort University: 175.5
+Indian Institute of Science: 175.5
+National Cheng Kung University (NCKU): 175.5
+National University of Defense Technology: 175.5
+North Carolina State University - Raleigh: 175.5
+Northeastern University(China): 175.5
+Polytechnic University of Madrid: 175.5
+Polytechnic University of Turin: 175.5
+Polytechnic University of Valencia: 175.5
+Sharif University of Technology: 175.5
+Temple University: 175.5
+University of Bordeaux: 175.5
+University of Campinas: 175.5
+University of Montreal: 175.5
+University of Nebraska - Lincoln: 175.5
+University of Pittsburgh, Pittsburgh Campus: 175.5
+University of Technology, Sydney: 175.5
+University of Warwick: 175.5
+University Rovira i Virgili: 175.5
+Utrecht University: 175.5
+Aalborg University: 175.5
+CentraleSupélec: 175.5
+Czech Technical University in Prague: 175.5
+Hanyang University: 175.5
+Keio University: 175.5
+King Fahd University of Petroleum & Minerals: 175.5
+King Saud University: 175.5
+Kyushu University: 175.5
+Lund University: 175.5
+National Central University: 175.5
+National Sun Yat-sen University: 175.5
+Norwegian University of Science And Technology: 175.5
+The Ohio State University: 175.5
+Rheinische Friedrich-Wilhelms-Universität Bonn: 175.5
+Singapore Management University: 175.5
+Technische Universität Dresden: 175.5
+The University of Nottingham: 175.5
+Tohoku University: 175.5
+Universidad Carlos III de Madrid: 175.5
+Universidade Federal de Minas Gerais: 175.5
+Universidade Federal do Rio de Janeiro: 175.5
+Universidade Federal do Rio Grande Do Sul: 175.5
+University of Milan: 175.5
+Universitat de Barcelona: 175.5
+Universität Stuttgart: 175.5
+University of Vienna: 175.5
+Université catholique de Louvain: 175.5
+Université Pierre et Marie Curie: 175.5
+Universiti Putra Malaysia: 175.5
+Universiti Teknologi Malaysia: 175.5
+University of Calgary: 175.5
+University of Canterbury: 175.5
+University of Helsinki: 175.5
+The University of Newcastle, Australia: 175.5
+University of Otago: 175.5
+University of South Australia: 175.5
+Uppsala University: 175.5
+Victoria University of Wellington: 175.5
+Waseda University: 175.5
+University of Colorado Boulder: 225.5
+Arizona State University: 225.5
+Huazhong University of Science and Technology: 225.5
+Harbin Institute of Technology: 225.5
+Beihang University: 225.5
+Ghent University: 225.5
+Wuhan University: 225.5
+Deakin University: 225.5
+Auckland University of Technology: 225.5
+Beijing Institute of Technology: 225.5
+Chulalongkorn University: 225.5
+Curtin University: 225.5
+Dublin City University: 225.5
+Freie Universitaet Berlin: 225.5
+Illinois Institute of Technology: 225.5
+Johannes Kepler University Linz: 225.5
+Kyung Hee University: 225.5
+Macquarie University: 225.5
+National and Kapodistrian University of Athens: 225.5
+National University of Ireland Galway: 225.5
+Politécnica de Madrid: 225.5
+Pontifícia Universidade Católica do Rio de Janeiro: 225.5
+Queen Mary University of London: 225.5
+Queen's University at Kingston: 225.5
+Rutgers University - New Brunswick: 225.5
+Saint Petersburg State University: 225.5
+Swinburne University of Technology: 225.5
+TU Dortmund University: 225.5
+Graz University of Technology: 225.5
+Instituto Tecnológico y de Estudios Superiores de Monterrey: 225.5
+The University of Sheffield: 225.5
+The University of Western Australia: 225.5
+University Complutense Madrid: 225.5
+Universidad de Buenos Aires: 225.5
+Universidade Federal de Pernambuco: 225.5
+University of Trento: 225.5
+Albert-Ludwigs-Universitaet Freiburg: 225.5
+Universite libre de Bruxelles: 225.5
+Universiti Kebangsaan Malaysia: 225.5
+University College Cork: 225.5
+University of Geneva: 225.5
+University of Illinois, Chicago: 225.5
+University of Liverpool: 225.5
+University of Pittsburgh: 225.5
+University of Waikato: 225.5
+University of Warsaw: 225.5
+University of Wollongong: 225.5
+Warsaw University of Technology: 225.5
+The University of Western Ontario: 225.5
+Xi’an Jiaotong University: 225.5
+University of Florida: 275.5
+Dartmouth College: 275.5
+University of Granada: 275.5
+University of Twente: 275.5
+University of Surrey: 275.5
+Vanderbilt University: 275.5
+Aristotle University of Thessaloniki: 275.5
+Ben Gurion University of The Negev: 275.5
+Bogaziçi Üniversitesi: 275.5
+Brunel University London: 275.5
+Budapest University of Technology and Economics: 275.5
+Cardiff University: 275.5
+Charles University: 275.5
+City, University of London: 275.5
+Concordia University: 275.5
+Indian Institute of Technology Roorkee: 275.5
+King Abdullah University of Science & Technology: 275.5
+Leiden University: 275.5
+Linköping University: 275.5
+Massey University: 275.5
+McMaster University: 275.5
+Middle East Technical University: 275.5
+Nagoya University: 275.5
+National Chung Hsing University: 275.5
+National University of Sciences And Technology: 275.5
+Newcastle University: 275.5
+Queen's University Belfast: 275.5
+Rensselaer Polytechnic Institute: 275.5
+Stockholm University: 275.5
+Tampere University of Technology: 275.5
+TELECOM ParisTech: 275.5
+Universitat Politècnica de València: 275.5
+University of Genoa: 275.5
+University of Naples - Federico II: 275.5
+Università di Padova: 275.5
+University of Rome "Tor Vergata": 275.5
+Friedrich-Alexander-Universität Erlangen-Nürnberg: 275.5
+Universität Leipzig: 275.5
+Université du Québec: 275.5
+Université Paris-Sud: 275.5
+The University of Arizona: 275.5
+University of California, Santa Cruz: 275.5
+University of Coimbra: 275.5
+University of Groningen: 275.5
+University of Leeds: 275.5
+University of Porto: 275.5
+University of St Andrews: 275.5
+University of Texas Dallas: 275.5
+University of Victoria: 275.5
+Beijing University of Posts and Telecommunications: 325.5
+King Abdulaziz University: 325.5
+Xidian University: 325.5
+University of Notre Dame: 325.5
+Hong Kong Baptist University: 325.5
+Sun Yat-sen University: 325.5
+AGH University of Science and Technology: 325.5
+Athens University of Economics and Business: 325.5
+Beijing University of Technology: 325.5
+Bilkent University: 325.5
+Brno University of Technology: 325.5
+Durham University: 325.5
+Eberhard Karls Universität Tübingen: 325.5
+Ecole Normale Supérieure de Cachan: 325.5
+Florida State University: 325.5
+Institut polytechnique de Grenoble - Grenoble Institute of Technology: 325.5
+Hokkaido University: 325.5
+Indian Statistical Institute: 325.5
+Istanbul Technical University: 325.5
+La Trobe University: 325.5
+Loughborough University: 325.5
+Maastricht University: 325.5
+Multimedia University: 325.5
+National Chengchi University: 325.5
+National Chung Cheng University: 325.5
+National Taipei University of Technology: 325.5
+Novosibirsk State University: 325.5
+Renmin: 325.5
+Royal Holloway University of London: 325.5
+Shanghai University: 325.5
+Sogang University: 325.5
+Stony Brook University, State University of New York: 325.5
+University of Florence: 325.5
+Universität Hamburg: 325.5
+Université Joseph Fourier - Grenoble 1: 325.5
+Université Paris 1 Panthéon-Sorbonne: 325.5
+Universiti Teknologi Petronas: 325.5
+University of Aberdeen: 325.5
+University of Antwerp: 325.5
+University of Bath: 325.5
+University of Lisbon: 325.5
+University of Bergen: 325.5
+University of Bern: 325.5
+University of California, Riverside: 325.5
+University of Cape Town: 325.5
+University of Ottawa: 325.5
+University of Strathclyde: 325.5
+The University of Tennessee, Knoxville: 325.5
+University of Tsukuba: 325.5
+Victoria University: 325.5
+Vrije Universiteit Brussel: 325.5
+Wroclaw University of Technology: 325.5
+York University: 325.5
+University of Utah: 375.5
+Bar-Ilan University: 375.5
+Washington University in St. Louis: 375.5
+Southeast University: 375.5
+Beijing Jiaotong University: 375.5
+Tongji University: 375.5
+Asian Institute of Technology, Thailand: 375.5
+Beijing Normal University: 375.5
+Cairo University: 375.5
+Carleton University: 375.5
+City University of New York: 375.5
+Cranfield University: 375.5
+Feng Chia University: 375.5
+University of Göttingen: 375.5
+George Washington University: 375.5
+Georgetown University: 375.5
+Griffith University: 375.5
+Iowa State University: 375.5
+Jadavpur University: 375.5
+Kingston University, London: 375.5
+Lahore University of Management Sciences: 375.5
+Moscow Institute of Physics and Technology: 375.5
+National Taiwan Normal University: 375.5
+Oxford Brookes University: 375.5
+Pusan National University: 375.5
+Quaid-i-Azam University: 375.5
+Ruhr-Universität Bochum: 375.5
+Universidad Técnica Federico Santa María: 375.5
+Universidade Federal de Santa Catarina: 375.5
+University of Turin: 375.5
+Universität Bremen: 375.5
+Universität Duisburg-Essen: 375.5
+Universität Innsbruck: 375.5
+Université Lille 1, Sciences et Technologies: 375.5
+Université Paris Dauphine: 375.5
+Université Paul Sabatier Toulouse III: 375.5
+Universiti Teknologi MARA - UiTM: 375.5
+University at Buffalo SUNY: 375.5
+University of Limerick: 375.5
+University of Milano-Bicocca: 375.5
+University of Oulu: 375.5
+University of Patras: 375.5
+University of Pretoria: 375.5
+University of Sussex: 375.5
+University of Texas Arlington: 375.5
+Western Sydney University: 375.5
+Washington State University: 375.5
+Westfälische Wilhelms-Universität Münster: 375.5
+WU: 375.5
+Northeastern University: 450.5
+University of Rochester: 450.5
+George Mason University: 450.5
+University of Electronic Science and Technology of China: 450.5
+Dalian University of Technology: 450.5
+University of Houston: 450.5
+Academy of Sciences of the Czech Republic: 450.5
+American University of Beirut: 450.5
+Anna University: 450.5
+Aston University: 450.5
+Babes-Bolyai University: 450.5
+Bandung Institute of Technology: 450.5
+Bauman Moscow State Technical University: 450.5
+Boston College: 450.5
+Brigham Young University: 450.5
+Chang Gung University: 450.5
+Christian-Albrechts-University zu Kiel: 450.5
+Chung-Ang University: 450.5
+Clemson University: 450.5
+College of William & Mary: 450.5
+Colorado State University: 450.5
+COMSATS Institute of Information Technology: 450.5
+Dalhousie University: 450.5
+Drexel University: 450.5
+Dublin Institute of Technology: 450.5
+Eötvös Lorànd University: 450.5
+Ewha Womans University: 450.5
+École Normale Supérieure de Lyon: 450.5
+Heriot-Watt University: 450.5
+Indian Institute of Information Technology: 450.5
+Indian Institute of Technology Guwahati: 450.5
+International Islamic University Malaysia: 450.5
+Jagiellonian University: 450.5
+Kasetsart University: 450.5
+King Mongkut's University of Technology Thonburi: 450.5
+Kyungpook National University: 450.5
+Leibniz Universität Hannover: 450.5
+Mahidol University: 450.5
+Masaryk University: 450.5
+Maynooth University: 450.5
+Nanjing University of Science and Technology: 450.5
+National Research University Higher School of Economics: 450.5
+Pontifícia Universidade Católica do Rio Grande do Sul: 450.5
+Radboud University: 450.5
+Sejong University: 450.5
+Slovak University of Technology in Bratislava: 450.5
+Peter the Great Saint-Petersburg Polytechnic University: 450.5
+Syracuse University: 450.5
+Tamkang University: 450.5
+Technische Universität Braunschweig: 450.5
+Thammasat University: 450.5
+The Open University: 450.5
+Tianjin University: 450.5
+Universidad de Guadalajara: 450.5
+Universidad de los Andes: 450.5
+Universidad de Sevilla: 450.5
+Universidade de Brasília: 450.5
+UNESP: 450.5
+Universidade Federal de São Carlos: 450.5
+Universidade Federal do Paraná - UFPR: 450.5
+Università degli Studi di Pavia: 450.5
+Universität Bielefeld: 450.5
+Universität Frankfurt am Main: 450.5
+Universität Konstanz: 450.5
+Universität Potsdam: 450.5
+University Ulm: 450.5
+Université de Rennes 1: 450.5
+Université de Strasbourg: 450.5
+Université Nice Sophia Antipolis: 450.5
+Université Paris Descartes: 450.5
+Université Paris Diderot - Paris 7: 450.5
+USI Università della Svizzera italiana / USI University of Lugano: 450.5
+University of Basel: 450.5
+University of Belgrade: 450.5
+University of Bucharest: 450.5
+University of Central Florida: 450.5
+University of Connecticut: 450.5
+University of Crete: 450.5
+University of Delhi: 450.5
+University of Essex: 450.5
+Universitas Indonesia: 450.5
+University of Kent: 450.5
+University of Leicester: 450.5
+University of Ljubljana: 450.5
+University of Luxembourg: 450.5
+University of Maryland, Baltimore County: 450.5
+University of Massachusetts - Boston: 450.5
+University of Nebraska-Lincoln: 450.5
+University of New Mexico: 450.5
+University of Reading: 450.5
+University of Science and Technology Beijing: 450.5
+University of South Florida: 450.5
+University of Southern Denmark: 450.5
+University of Tartu: 450.5
+Ulster University: 450.5
+Universitatea de Vest din Timisoara / West University of Timisoara: 450.5
+Worcester Polytechnic Institute: 450.5
+Xiamen University: 450.5
+Yeungnam University: 450.5
+Yuan Ze University: 450.5

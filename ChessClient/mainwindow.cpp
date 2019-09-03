@@ -28,7 +28,11 @@ MainWindow::MainWindow(QWidget *parent) :
     connect(kernel, SIGNAL(MoveSignal(QPoint, QPoint)), this, SLOT(SendMove(QPoint, QPoint)));
 
 
+}
 
+void MainWindow::Dis(){
+    QMessageBox::information(this, "QTcpSocket","Sucess!");
+    kernel->status = 4;
 }
 
 MainWindow::~MainWindow()
@@ -129,12 +133,17 @@ void MainWindow::on_actionServer_triggered()
     Dialog * dialog = new Dialog();
     if(dialog->exec() ==  QDialog::Accepted) {
         socket = new QTcpSocket();
+
         if(dialog->ServerAddress == ""){
+            QMessageBox::information(this, "QTcpSocket","Falied!");
+
             return;
         }
+        kernel->status = 0;
         socket->connectToHost(dialog->ServerAddress, 9898);
+        connect(socket, SIGNAL(connected()), this, SLOT(Dis()));
         connect(socket, SIGNAL(readyRead()), this, SLOT(ReadData()));
-        QMessageBox::information(this, "QTcpSocket","Success!");
+        //QMessageBox::information(this, "QTcpSocket","Success!");
     }
 }
 
@@ -190,16 +199,19 @@ void MainWindow::ReadData(){
             //qDebug()<<str;
             if(str.indexOf("black") > -1){
                 blacking = true;
+                kernel->black = false;
                 kernel->status = 4;
                 continue;
             }else if(str.indexOf("white") > -1){
                 kernel->status = 3;
                 blacking = false;
+                kernel->black = true;
                 continue;
             }
             ls = str.split(" ");
             kind = Getkind(ls[0]);
-            for(int i = 2;i<ls.size()-1;i++){
+            for(int i = 2;i<ls.size();i++){
+                if(ls[i] == "\n") break;
                 int x = ls[i][0].toLatin1() - 'a' + 1;
                 int y = 9 - ls[i][1].toLatin1() + '0';
                 kernel->Cubes[x][y].kind = kind;
@@ -226,7 +238,11 @@ void MainWindow::ReadData(){
 }
 
 void MainWindow::mousePressEvent(QMouseEvent* event){
-
+    if(kernel->status == 3){
+        kernel->black = true;
+    }else if(kernel->status == 4){
+        kernel->black = false;
+    }
     if(kernel->status != 4) return;
     if(event->button() == Qt::LeftButton){
         QPoint p = event->pos();
@@ -544,7 +560,7 @@ void MainWindow::on_pushButton_clicked()
         }
     }
     QString t;
-    if(kernel->status == 4)
+    if(kernel->status == 3)
     {
         out<<"black\n";
         if(bking.size()>0){
@@ -933,15 +949,19 @@ void MainWindow::LoadChess(){
         if(str.indexOf("black") > -1){
             blacking = true;
             kernel->status = 4;
+            kernel->black = false;
             continue;
         }else if(str.indexOf("white") > -1){
             kernel->status = 3;
             blacking = false;
+            kernel->black = true;
             continue;
         }
         ls = str.split(" ");
         kind = Getkind(ls[0]);
-        for(int i = 2;i<ls.size()-1;i++){
+        for(int i = 2;i<ls.size();i++){
+            if(ls[i] == "\n") break;
+            //qDebug()<<ls[i];
             int x = ls[i][0].toLatin1() - 'a' + 1;
             int y = 9 - ls[i][1].toLatin1() + '0';
             kernel->Cubes[x][y].kind = kind;
@@ -962,6 +982,9 @@ chess MainWindow::Getkind(QString str){
 }
 
 void MainWindow::ClearAll(){
+    kernel->NowPoint = QPoint(0, 0);
+    kernel->AblePoints.clear();
+    kernel->MovePoints.clear();
     for(int i = 1;i <9;i++){
         for(int j = 1;j<9;j++){
             kernel->Cubes[i][j].kind = null;

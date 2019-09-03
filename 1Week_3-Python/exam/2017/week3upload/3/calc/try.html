@@ -1,0 +1,15 @@
+
+<form method="post" action="/">
+    {% csrf_token %}
+    <table>
+    <tr><td>用户名: </td><td><input type="text" name="name" value=""></td></tr>
+    <tr><td>密码: </td><td><input type="password" name="pwd" value=""></td></tr>
+    <tr><select name="qx">
+    <option value="gly">管理员</option>
+    <option value="pt">普通用户</option>
+    </select></tr>
+    <tr><td><input type="submit" value="登录" name="dl"></td></tr>
+    <tr><td><input type="submit" value="注册" name="zc1"></td></tr>
+    <tr><td>Login Failure</td></tr>
+    <table>
+</form>

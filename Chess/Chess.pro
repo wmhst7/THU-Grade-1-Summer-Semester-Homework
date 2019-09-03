@@ -25,13 +25,24 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        dialog.cpp \
+        dialog1.cpp \
+        dialoghe.cpp \
+        kernel.cpp \
         main.cpp \
         mainwindow.cpp
 
 HEADERS += \
+        dialog.h \
+        dialog1.h \
+        dialoghe.h \
+        kernel.h \
         mainwindow.h
 
 FORMS += \
+        dialog.ui \
+        dialog1.ui \
+        dialoghe.ui \
         mainwindow.ui
 
 # Default rules for deployment.
@@ -41,3 +52,30 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     res.qrc
+
+DISTFILES += \
+    Material/Normal/black_bishop.png \
+    Material/Normal/black_king.png \
+    Material/Normal/black_knight.png \
+    Material/Normal/black_pawn.png \
+    Material/Normal/black_queen.png \
+    Material/Normal/black_rook.png \
+    Material/Normal/white_bishop.png \
+    Material/Normal/white_king.png \
+    Material/Normal/white_knight.png \
+    Material/Normal/white_pawn.png \
+    Material/Normal/white_queen.png \
+    Material/Normal/white_rook.png \
+    Material/Transparent/black_bishop.png \
+    Material/Transparent/black_king.png \
+    Material/Transparent/black_knight.png \
+    Material/Transparent/black_pawn.png \
+    Material/Transparent/black_queen.png \
+    Material/Transparent/black_rook.png \
+    Material/Transparent/white_bishop.png \
+    Material/Transparent/white_king.png \
+    Material/Transparent/white_knight.png \
+    Material/Transparent/white_pawn.png \
+    Material/Transparent/white_queen.png \
+    Material/Transparent/white_rook.png \
+    Material/sample_input.txt

@@ -66,6 +66,7 @@ private slots:
     chess Getkind(QString);
 
     void ClearAll();
+    void Dis();
 
 private:
     Ui::MainWindow *ui;

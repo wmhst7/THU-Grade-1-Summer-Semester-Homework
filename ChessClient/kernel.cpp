@@ -249,25 +249,24 @@ void Kernel::UpdateAblePoints(){
                 MovePoints<<QPoint(x+i, y);
                 break;
             }
-
         }
         for(int i = 1;i<9;i++){
-            if(Cubes[x-i][y].kind != null && In(x-i, y))
+            if(Cubes[x-i][y].kind != null && In(x-i, y)){
                 MovePoints<<QPoint(x-i, y);
-
                 break;
+            }
         }
         for(int i = 1;i<9;i++){
-            if(Cubes[x][y+i].kind != null && In(x, y+i))
+            if(Cubes[x][y+i].kind != null && In(x, y+i)){
                 MovePoints<<QPoint(x, y+i);
-
                 break;
+            }
         }
         for(int i = 1;i<9;i++){
-            if(Cubes[x][y-i].kind != null && In(x, y-i))
+            if(Cubes[x][y-i].kind != null && In(x, y-i)){
                 MovePoints<<QPoint(x, y-i);
-
                 break;
+            }
         }
     }else if(c.kind == bishop){
         for(int i = 1;i<9;i++){
