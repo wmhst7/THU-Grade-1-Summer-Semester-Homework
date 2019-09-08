@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方制图祝贺魔术师约翰逊荣获NBA终身成就奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1143353956246020097?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 13:36:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方制图祝贺魔术师约翰逊荣获NBA终身成就奖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/6d71d33822e648c22d6f4ddb488f72f4150e8279.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，魔术师约翰逊和拉里-伯德获得终生成就奖。湖人官方也制图发推对球队名宿魔术师约翰逊表达祝贺。
+   </p>
+   <p>
+    “3届MVP，3届总决赛MVP，5届总冠军得主，12届全明星球员，奥运冠军得主。一份配得上@NBA 终身成就奖的履历。恭喜您，@魔术师约翰逊 ！#NBA颁奖典礼”湖人官方写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

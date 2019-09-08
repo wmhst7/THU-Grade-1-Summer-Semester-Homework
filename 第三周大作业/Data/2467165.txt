@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝恩斯：塔特姆和杰伦-布朗将会取得很大进步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NbaNews365_247/status/1163330265160155136" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 06:44:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝恩斯：塔特姆和杰伦-布朗将会取得很大进步" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/af8be082a2f606fda9e846eca8b4d797f5414160.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 近日，太阳球员、澳大利亚男篮成员阿隆-贝恩斯接受了记者的采访。
+   </p>
+   <p>
+    作为前凯尔特人球员，贝恩斯表示，杰森-塔特姆和杰伦-布朗将会取得很大进步。
+   </p>
+   <p>
+    “塔特姆肯定会到达超级明星球员的状态。”
+   </p>
+   <p>
+    “塔特姆很有天赋，从他新秀赛季的第一天我就看出来了，他在进攻端天赋满满并且想要提高防守技术——这在NBA并不多见，有些球员只想靠进攻立足，但塔特姆想要全方位的提升。”
+   </p>
+   <p>
+    “塔特姆的未来肯定很值得期待。”
+   </p>
+   <p>
+    “塔特姆和杰伦-布朗都很渴望提升自己，而今夏参加国际比赛对他们是最好的提升方式，因为他们能和一些世界上最棒的球员们对阵。”
+   </p>
+   <p>
+    “他们都还在新秀合同里，并且在过去几个赛季都证明过自己，他们肯定能继续进步。他们很好胜，我在训练赛里对阵过他们，我知道。在他们身边打球也很有趣，但是他们现在是我的对手，我不会让步。”
+   </p>
+   <p>
+    此外贝恩斯表示，他对于两人的了解能帮助澳大利亚备战。
+   </p>
+   <p>
+    “我们的球探工作做得很好。我们知道球员们的倾向，知道他们习惯怎么做。我会和队员们分享一些事情，但总的来说，我们会看他们的比赛，我们知道大多数球员想怎么做。”
+   </p>
+   <p>
+    “我们不能让他们有轻松的出手机会，要尽力干扰。如果我们能40分钟都做到这一点，那我们会有很好的机会。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

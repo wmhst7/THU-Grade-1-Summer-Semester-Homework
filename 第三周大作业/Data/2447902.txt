@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德更新Ins分享自己参加中国行照片：微笑
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzPGi0dHPqp/?igshid=ljhf59mpe6ah" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 13:56:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德更新Ins分享自己参加中国行照片：微笑" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/d40d1cc810714dde9c875fb343f6d2a42c3b388c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日，前NBA球员德维恩-韦德更新了个人Instagram，上传了一张自己开心大笑的照片（见新闻配图），定位显示在北京。
+   </p>
+   <p>
+    并配文说道：“我从来不为了别人的赞美而活，尽管那让人感觉很好，Lil Duval，你唱的歌就是我永远的心情，微笑＃韦德中国行2019。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  若成为完全自由球员，罗齐尔对签短约持开放态度
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/06/28/knicks-and-terry-rozier-have-mutual-interest-in-short-term-deal/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 03:30:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="若成为完全自由球员，罗齐尔对签短约持开放态度" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/91b5cb6f9c19321f06ea318b1d94c590a2e15d76.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据《纽约邮报》尼克斯记者Marc Berman报道，联盟消息人士透露，如果凯尔特人控卫特里-罗齐尔成为一名完全自由球员，那他对接受1年或者2年的短期合同持开放态度。
+   </p>
+   <p>
+    自有报道称凯尔特人是最有望得到自由球员后卫肯巴-沃克的球队之后，尼克斯对罗齐尔的兴趣水准得到了提升。
+   </p>
+   <p>
+    由于凯尔特人有望得到沃克，这意味着他们可能会不得不放弃罗齐尔的权利，让他成为一名完全自由球员。
+   </p>
+   <p>
+    消息人士透露，尼克斯和罗齐尔相互有意，不过这一切都得取决于沃克。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

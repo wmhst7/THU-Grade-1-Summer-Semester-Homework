@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  向你致敬！赛迪斯-杨今日更新社媒致敬科里森并表达不舍
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/yungsmoove21/status/1144839117471125504" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 16:50:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="向你致敬！赛迪斯-杨今日更新社媒致敬科里森并表达不舍" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/bdb5180491019ce344777367c21e58e4373829cf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据此前报道，步行者球员达伦-科里森在今日宣布退役。
+   </p>
+   <p>
+    随后，步行者前锋赛迪斯-杨连发两条推特，表达了自己对于听到科里森退役消息的震惊之情。
+   </p>
+   <p>
+    赛迪斯-杨在第一条推文中写道：“听到这个消息我非常震惊，但非常幸运的是，我有幸作为科里森的队友与他在球场上并肩作战，并将他视作我的兄弟。他是一个非常优秀的球员，并且他在赛场上的每一个夜晚都会全力以赴。”
+   </p>
+   <p>
+    之后，赛迪斯-杨在第二条推特中发出了一张自己与科里森的合影，并配文：“致敬。”
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

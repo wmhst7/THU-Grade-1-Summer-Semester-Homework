@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗宾-罗伯茨获2018-19赛季赛格坚强奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BleacherReport/status/1143344138567372800" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:15:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗宾-罗伯茨获2018-19赛季赛格坚强奖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/81a38c980a6e180e2e62a0dd975356a1628f06a3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，美国ABC电视台早安美国节目的主持人罗宾-罗伯茨获得本赛季的赛格坚强奖。
+   </p>
+   <p>
+    罗宾-罗伯茨出生于密西西比州，毕业于东南路易斯安那大学。罗伯茨曾是地方电视台的体育记者，也曾在ESPN工作15年之久。
+   </p>
+   <p>
+    在获奖后，罗伯茨说：“我相信在座的各位都有自己已经形成的信念，或是即将形成的，或是现在还没有但准备去形成的信念。我不知道大部分人的经历和故事，但我知道，所有人都比他们自己认为的要更强大。赛格是一个斗士，无论他与谁打交道，他都展现出最积极的一面，并试图影响别人。为什么我们不像赛格这样做呢，这样的我们的生活会多不少愉悦。”
+   </p>
+   <p>
+    赛格坚强奖以于2016年12月16日逝世的著名记者克雷格-赛格命名，他在和白血病斗争了很久之后与世长辞。该奖项旨在颁发给“一个诠释了勇士、信念、热情和优雅的先驱者”。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

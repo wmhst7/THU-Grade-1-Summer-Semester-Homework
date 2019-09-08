@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴雷特谈个人首场夏联比赛：我有信心下一场找回手感
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IanBegley/status/1147361498030698503" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 12:40:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴雷特谈个人首场夏联比赛：我有信心下一场找回手感" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/b78dfa29411aac42915e99c50c9c81f9586bea76.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 纽约尼克斯队今天对阵新奥尔良鹈鹕队的比赛因地震而被推迟，本场比赛，尼克斯新秀前锋RJ-巴雷特手感不佳，18投仅4中。
+   </p>
+   <p>
+    赛后，巴雷特在谈及自己的首场夏季联赛比赛时说道：“这是一段很棒的经历，上场和这群家伙一起打球的感觉很不错。今晚我没有找到我的手感，但是我有信心下一场我一定会找回自己的手感。”
+   </p>
+   <p>
+    此外，在谈及此次地震时巴雷特说道：“我甚至都没有感受到地震，我甚至都不知道它发生了。”
+   </p>
+   <p>
+    本场比赛，巴雷特出场25分钟，18投4中得到10分5篮板。尼克斯下一场夏联比赛的对手则是太阳，时间原定为北京时间7月8日上午9点30分。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

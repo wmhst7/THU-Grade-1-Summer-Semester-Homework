@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才公布2019-20赛季布鲁克斯教练组成员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-coaching-staff-additions-longabardi-gaines-christian-oliver-brooks" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 07:38:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才公布2019-20赛季布鲁克斯教练组成员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/f2f005c058e3b8b72b621d03764c7247eabd1a05.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 奇才官方今日宣布，迈克-隆加巴迪、科里-盖恩斯、贾雷尔-克里斯蒂安和迪恩-奥利弗加入主帅斯科特-布鲁克斯的教练组。
+   </p>
+   <p>
+    “我们期待着迈克、科里、贾雷尔和迪恩的经验、知识和全面的技术想法能提升我们的教练组，并且还能提升我们的球队，迈克会用他丰富的经验和冠军血统提升我们的防守，科里是一名在NBA征战过的球员，他还在WNBA担任过教练和高管，并且有过夺冠经历，他会带来一种独特的看法，迪恩会为我们带来绝无仅有的知识，并且会把数据运用带到我们的工作中，贾雷尔上赛季在发展联盟与我们的球员们建立了很好的关系。”布鲁克斯说道。
+   </p>
+   <p>
+    奇才总经理汤米-谢泼德说：“布鲁克斯教练与我之前紧密合作，明确指出了我们需要提升哪些地方，并且为了做出合适的改变，我们从内部和外部找到了最合适的人选，我们相信我们有一个强大的教练团队，他们身上有着我们想重建球队文化的那种观点，并且会专注于培养我们的球员们。”
+   </p>
+   <p>
+    另外，助教罗伯特-帕克和Mike Terpstra会回到球队，并且球员培养主管David Adkins和球员发展助教克里斯蒂-托利弗、Kamran Sufi、亚历克斯-麦克莱恩、Landon Tatum、Ryan Lumpkin、吉米-布拉德肖、艾萨克-詹金斯和迈克-威廉姆斯都会回到球队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

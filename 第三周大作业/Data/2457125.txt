@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大金链子大金表！卡罗尔更新社媒晒出个人帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 13:43:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大金链子大金表！卡罗尔更新社媒晒出个人帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/4aeca2f299bfebe9784d2c378c0067d7370c59a9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，马刺球员德马雷-卡罗尔更新社媒Instagram，晒出照片并配文。
+   </p>
+   <p>
+    卡罗尔配文道：“我依然记得被枪击的时刻，那时我不知道还能不能再打球…好在上帝保佑能让我继续在最高水平的联赛里继续打球，上帝也保佑我获得了之前从来没有想过能拥有的东西，因此我想说‘感谢上帝’我每天都在祈祷。”
+   </p>
+   <p>
+    今年夏天，德马雷-卡罗尔以3年2100万美元与马刺达成协议。2018-19赛季常规赛，卡罗尔代表篮网出场67次，场均出场25.4分钟，能够得到11.1分5.2篮板1.3助攻0.46抢断；季后赛出场5次，场均出场23.8分钟，能够得到6.6分4.0篮板0.4助功0.80抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/13/b489c8df22cb2c665eb16229b9c98ddd.jpg"/>
+    ​
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

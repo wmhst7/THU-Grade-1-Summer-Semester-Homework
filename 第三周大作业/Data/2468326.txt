@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多米尼加后卫埃德加-索萨因球队医疗保障不利退出国家队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LaGuerradelBSN/status/1164328115977555968" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 11:21:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多米尼加后卫埃德加-索萨因球队医疗保障不利退出国家队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/a8123ab9966e191d0a4729016b97fd73cffccf29.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 多米尼加男篮后卫埃德加-索萨在社交媒体上宣布，不会代表多米尼加男篮参加本届男篮世界杯。
+   </p>
+   <p>
+    索萨表示在参加国家队训练之前，球队不允许他绑绷带来保护自己之前受伤的脚踝，他要求国家队队医提供包裹绷带，但遭到了拒绝。在此之前，索萨曾公开谴责多米尼加男篮在训练中不允许球员用绷带保护脚踝。
+   </p>
+   <p>
+    索萨毕业于路易斯维尔大学，身高1.88米，司职控球后卫，曾效力于亚特兰大老鹰队。
+   </p>
+   <p>
+    本届世界杯，多米尼加与法国、德国、约旦同处G组，小组赛在深圳举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

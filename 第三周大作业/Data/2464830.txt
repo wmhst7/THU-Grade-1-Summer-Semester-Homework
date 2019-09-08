@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士新赛季赛程：1月将踏上6连客之旅，共6个连客背靠背
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/cavs/status/1161002050731352070" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 09:35:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士新赛季赛程：1月将踏上6连客之旅，共6个连客背靠背" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/f7b4a2f41ca9e617585823e586f1474110e54c7e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 今日，骑士官推公布2019-20赛季球队的完整赛程。揭幕战将于北京时间10月24日客场挑战魔术，收官战则将于4月16日客场挑战老鹰。新赛季共有1场ESPN直播的比赛和2场NBATV直播的比赛。
+   </p>
+   <p>
+    骑士新赛季共有13个背靠背的比赛日，其中包括6个客场前往客场的背靠背比赛日。在1月10日至19日的六连客过程中包括两场背靠背的比赛（14日客场挑战湖人、15日客场挑战快船；18日客场挑战灰熊、19日客场挑战公牛）。
+   </p>
+   <p>
+    重点比赛：（均为北京时间）
+   </p>
+   <p>
+    11月26日主场迎战篮网；
+   </p>
+   <p>
+    12月21日主场迎战灰熊；
+   </p>
+   <p>
+    3月27日主场迎战湖人。
+   </p>
+   <p>
+    以下为骑士新赛季的完整赛程：
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5xsrfhcblj20u01hcwlo.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

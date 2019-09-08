@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  酷炫嘻哈客！利拉德发布新专辑第一支MV
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/watch-damian-lillard-drops-new-music-video" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 12:07:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="酷炫嘻哈客！利拉德发布新专辑第一支MV" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/70283c79fe6194d71ee374aae5b464381072ed5b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，NBA球员达米安-利拉德在视频网站Youtube上上传了新专辑的MV。（已截取部分镜头）
+   </p>
+   <p>
+    这支MV是达米安-利拉德的第三张专辑《Big D.O.L.L.A.》的第一支MV，由利拉德和歌手Brookfield Duece合作演唱。
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德场均出场35.5分钟，得到25.8分4.6篮板6.9助攻1.10抢断0.43盖帽。今夏，利拉德与开拓者完成4年1.94亿美元提前续约。
+   </p>
+   <p>
+    <img alt="3.39M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/5b6ef6cde749ffa502fb78765d1c20eb.gif"/>
+   </p>
+   <p>
+    <img alt="3.44M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/01266213480838ee72a6de2ca5d5758f.gif"/>
+   </p>
+   <p>
+    <img alt="4.70M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/58036ebba6bdc801a23d18c3166dd978.gif"/>
+   </p>
+   <p>
+    <img alt="4.25M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/172de3367b0c75052e37df40e4ede2d9.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

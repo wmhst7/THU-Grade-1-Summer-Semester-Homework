@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯塔德迈尔：我能在球队需要的任何方面提供帮助
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/former-knick-amare-stoudemire-on-comeback-i-still-have-a-lot-of-game-left/308920260" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:48:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯塔德迈尔：我能在球队需要的任何方面提供帮助" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/30839e4f439a7e1056f8a510b668a53a97bb8b2e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 近日阿马雷-斯塔德迈尔接受了多支球队的试训，尝试重返NBA。斯塔德迈尔希望自己能在场上场下的多个方面帮助球队。
+   </p>
+   <p>
+    “帮助一只球队从季后赛水平提升至冠军争夺者水平，领导力扮演着重要角色。从这个角度来说，我可以为球队提供很多帮助。”斯塔德迈尔说道，“同时作为一名篮球运动员，我还有能力打很多比赛。我可以在球队需要的任何地方提供帮助。”
+   </p>
+   <p>
+    2010年斯塔德迈尔与尼克斯签下5年9900万美元的合同，加盟尼克斯的第一个赛季（2010-11赛季）他还能出战78场常规赛，场均得到25.3分8.2篮板1.9盖帽。但此后的几个赛季他因伤数据全面下滑，2010-11之后的几个赛季，他场均只能得到11.9分5.5篮板。
+   </p>
+   <p>
+    斯塔德迈尔认为自己2016年退出NBA的原因，很大一部分是自己不能保持健康。如今他的身体状态已经恢复：“这是我保持的最轻的体重。”
+   </p>
+   <p>
+    “我的身体感觉很棒，所以我们就看看机会能否变成现实吧。”斯塔德迈尔说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

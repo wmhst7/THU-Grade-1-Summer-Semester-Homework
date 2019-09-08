@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡特回复网友：艾弗森是联盟中让我对位最吃力的后卫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ComplexSports/status/1160220500917927937" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 11:00:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡特回复网友：艾弗森是联盟中让我对位最吃力的后卫" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/8faca8053ea825be8fa650aafc14c1ffefd120b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今日，老鹰后卫文斯-卡特在接受采访时回答了众多网友对他的提问。
+   </p>
+   <p>
+    <strong>
+     网友：你在对位过程中感觉到最吃力的后卫是谁？
+    </strong>
+   </p>
+   <p>
+    卡特：我认为在联盟当中这个后卫是阿伦-艾弗森，因为他的速度真的太快了。
+   </p>
+   <p>
+    <strong>
+     网友：除了勒布朗-詹姆斯，说出一个你指导过的新秀，在你指导结束后就认为他一定能成为明星球员的新秀。
+    </strong>
+   </p>
+   <p>
+    卡特：多诺万-米切尔。他是我指导过后，我就觉得他将来一定能成为明星球员的新秀。
+   </p>
+   <p>
+    <strong>
+     网友：如果你能得到机会，你能否重新向我们展示出当年全明星扣篮大赛时的扣篮？
+    </strong>
+   </p>
+   <p>
+    卡特：我不会再参加明年的全明星扣篮大赛，我不想再讨论19年前的事情啦。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡特：能回猛龙当然很酷，但得看球队是否需要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0YmS5Mg24i/?utm_source=ig_embed&amp;utm_campaign=embed_video_watch_again" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 09:59:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡特：能回猛龙当然很酷，但得看球队是否需要" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/7b931c314145e594dbaaabb6f90e876aa3f98393.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 自由球员文斯-卡特今天接受采访时谈到了为回猛龙打球的话题。
+   </p>
+   <p>
+    卡特表示：（回猛龙打球）当然会是件很酷的事，不过这得看猛龙队是否需要我，我知道那里的球迷都想看到我回去。不过这还是得取决于球队想要什么，他们是否需要我的贡献，就算不能回去，我对猛龙的感觉仍在，他们都是冠军了。”
+   </p>
+   <p>
+    卡特为猛龙效力7个赛季，1999年卡特在猛龙获得了最佳新秀奖。在猛龙时期，卡特场均能得到23.4分5.2篮板3.9助攻。
+   </p>
+   <p>
+    18-19赛季，卡特为老鹰出战76场常规赛，场均上场17.5分钟，贡献7.4分2.6篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

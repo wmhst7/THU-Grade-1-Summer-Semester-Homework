@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Haynes：阿米达-布里马与步行者签下1年合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1151950048567021568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 04:22:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Haynes：阿米达-布里马与步行者签下1年合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/fe926beb6fa07f23a3fdb57288875061bb04e24c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 根据雅虎记者Chris Haynes报道，经纪人透露，中锋阿米达-布里马与步行者签下一份1年合同。
+   </p>
+   <p>
+    布里马此前代表篮网参加了拉斯维加斯夏季联赛，共上场6次，场均上场12.5分钟，得到6.2分4.5篮板2.2盖帽。
+   </p>
+   <p>
+    布里马来自于康涅狄格大学，2018-19赛季效力于马刺发展联盟附属球队奥斯汀马刺队，场均上场23.3分钟，得到8.8分8.0篮板1.4助攻3.1盖帽。他在2018年当选了发展联盟最佳防守球员，并帮助奥斯汀马刺队获得了发展联盟冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

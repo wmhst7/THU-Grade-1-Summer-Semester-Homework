@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比：若奥尼尔有我这般职业精神，我们就能拿到12枚戒指
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/27/kobe-bryant-shaquille-oneal-lakers-12-rings-lazy/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 06:53:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比：若奥尼尔有我这般职业精神，我们就能拿到12枚戒指" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/6a7e8d47bcc62d9b93aad2e7a475948193e7a91c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近日，科比做客一档电视节目，被问及当年和沙奎尔-奥尼尔一起为湖人效力的感受。
+   </p>
+   <p>
+    被问及如果奥尼尔有着自己的职业精神的话，其职业生涯将达到怎样的高度，科比说道：“他可以成为史上最佳球员的（The greatest of all time)，我很确信，他自己就会成为第一个告诉你他会成为史上最佳的人。他有着我从未见过的力量，他太疯狂了。通常他那个体型的人会有一点点羞怯，他们不想变得那么大只。但奥尼尔却不这么觉得，他不在乎这个，他很凶狠、富有竞争性。”
+   </p>
+   <p>
+    “我希望他能够出现在健身房里，这样我们就能拿到12个总冠军戒指了。”科比补充道。
+   </p>
+   <p>
+    谈及奥尼尔是否有着自己一样的职业投入，科比说道：“我通常对没能拥有我这种职业精神的人不感冒。我们在进行折返跑，我都跑了两三个来回了，你还在跑第一个回合，兄弟，你在干啥呢？所以我们很多关系紧张的来源于此。”
+   </p>
+   <p>
+    奥尼尔曾在1996-2004年期间为湖人效力，与科比一起为湖人夺得1999-00赛季、2000-01赛季、2001-02赛季的三连冠。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

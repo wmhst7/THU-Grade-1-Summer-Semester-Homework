@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黄蜂对得到保罗不感兴趣，主要是因为他的合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rick_bonnell/status/1150410209598353408" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 13:39:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黄蜂对得到保罗不感兴趣，主要是因为他的合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/b342e251288afb0e97e0ed18afa24321831df55c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 黄蜂记者Rick Bonnell今天在推特和网友互动，有网友提出了“尼古拉斯-巴图姆换克里斯-保罗”的设想。
+   </p>
+   <p>
+    对此Bonnell表示：“我被告知黄蜂不想要保罗的合同，他的合同比巴图姆的还有大，而且更长。并且罗齐尔已经在这了，那这桩交易的意义何在？”
+   </p>
+   <p>
+    黄蜂今年夏天通过先签后换的方式得到罗齐尔，后者的合同为3年5800万美元。上赛季，罗齐尔场均22.7分钟的出场时间，得到9分3.9篮板2.9助攻。
+    <br/>
+    <br/>
+    巴图姆曾在2016年与黄蜂签下5年1.2亿合同，2021年夏天到期。上赛季，巴图姆场均上场31.4分钟，得到9.3分5.2篮板3.3助攻。
+   </p>
+   <p>
+    而保罗是在18年夏天签下4年1.6亿美元的合同，要到2022年夏天才到期。上赛季，保罗场均上场32分钟，得到15.6分4.6篮板8.2助攻1.9抢断。
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人将与谢克-米尔顿签下一份4年合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PompeyOnSixers/status/1146179288011612162" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 06:42:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人将与谢克-米尔顿签下一份4年合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/aba374df9aa5dc77016474723cf7d85e2da54c9f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据《费城问询报》记者Keith Pompey的报道，消息人士透露，76人将与谢克-米尔顿签下一份4年合同。
+   </p>
+   <p>
+    谢克-米尔顿上赛季与76人签订的是双向合同，辗转于NBA和发展联盟之间，他在发展联盟场均能得到24.9分4.9助攻4.9篮板，三项命中率分别为48.4%、36.9%和81.0%。
+   </p>
+   <p>
+    今夏他与76人签订的是一份正式合同，不再受双向合同的各种条件限制。
+   </p>
+   <p>
+    米尔顿2018-19赛季与76人签下了一份双向合同，2018-19赛季常规赛场均出战13.4分钟可以拿到4.4分1.8篮板0.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

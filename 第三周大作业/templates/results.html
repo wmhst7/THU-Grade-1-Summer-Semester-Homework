@@ -1,0 +1,132 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style>
+        h1 {
+            color: white;
+        }
+
+        body {
+            background-color: tomato;
+        }
+
+        li {
+            color: white;
+            text-align: center;
+            font-size: 18px;
+        }
+        li.ab
+        {
+            color: white;
+            text-align: center;
+            font-size: 13px;
+            
+        }
+
+        a:link {
+            color: white;
+        }
+
+        /* 未访问链接*/
+        a:visited {
+            color: lightgray;
+        }
+
+        /* 已访问链接 */
+        a:hover {
+            color: yellow;
+        }
+
+        /* 鼠标移动到链接上 */
+        a:active {
+            color: #0000FF;
+        }
+
+        /* 鼠标点击时 */
+        a {
+            text-decoration: none;
+        }
+
+        input {
+            outline-style: none;
+            border: 0px;
+            border-color: white;
+            border-radius: 5px;
+            padding: 23px, 24px;
+            width: 620px;
+            font-size: 20px;
+            font-color: tomato;
+            font-family: "Microsoft soft";
+        }
+
+        div {
+            text-align: center;
+            font-size: 10px;
+            color: lightgray
+        }
+
+        ul {
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            list-style: none;
+            vertical-align: "center";
+
+        }
+        div.main
+        {
+        text-align: center;
+        font-size: 18px;
+        color: lightgray
+        }
+    </style>
+    <div class="navbar" align='center'>
+        <div class="navbar-inner">
+            <a class="brand" href="../">搜索</a>
+            <a class="brand" href="/teamlist/">球队热度榜</a>
+            <a class="brand" href="/spy/">爬虫管理</a>
+
+        </div>
+    </div>
+    <br>
+    <form action="/find/" align="center" method="get">
+        <table align="center" style="width:34em">
+            <tr>
+                <td>
+                    <input placeholder="输点什么吧" type="search" name='q'>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <title>搜索：<font color=mediumaquamarine>{{searchtext}}</font>
+    </title>
+
+<body>
+    <h1 align="center">虎扑新闻搜索：<font color=mediumaquamarine>{{searchtext}}</font>
+    </h1>
+    <div>搜索用时：{{second}}秒</div>
+    <div>搜索条数：{{newsnumber}}条</div>
+    </head>
+    <br>
+    <br>
+    <br>
+    <div class='main'>
+        <ul>
+            {% for each in newslist %}
+            <li><a href="/news/{{each.0}}">{{each.1|safe}}</a></li>
+            <li class='ab'>{{each.2|safe}}</li>
+            <br>
+            {% endfor %}
+        </ul>
+        <br>
+        <a href={{beforelink}}>上一页</a>
+        <a href={{nextlink}}>下一页</a>
+    </div>
+    <br><br><br><br><br><br><br>
+</body>
+
+</html>

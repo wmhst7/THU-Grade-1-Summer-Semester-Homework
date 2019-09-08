@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  资深NBA球探：我敢打赌热火会是一支季后赛球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article232663277.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 11:45:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="资深NBA球探：我敢打赌热火会是一支季后赛球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/fe48379046be1b01593d9579b5e5550768b3f641.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 《迈阿密先驱报》记者Barry Jackson近日采访了一位资深NBA球探，后者谈到了热火下赛季的前景。
+   </p>
+   <p>
+    “我认为费城76人队、密尔沃基雄鹿队、波士顿凯尔特人队、布鲁克林篮网队和印第安纳步行者队显然比热火更出色，多伦多猛龙队的表现也要更好一些，”这位球探说道，“奥兰多魔术队目前仍没有称职的控球后卫，我并不认为魔术和活塞比热火更出色。”
+   </p>
+   <p>
+    谈到热火的季后赛前景，这位球探说：“我敢打赌热火会是一支季后赛球队，以一个比较靠后的排名进入季后赛。如果他们最终能够排名东部第六，这将会是一个适度的惊喜，但他们也可能排名第九。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

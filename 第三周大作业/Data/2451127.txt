@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：篮网宣布签下德安德烈-乔丹
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/2019/07/06/brooklyn-nets-sign-deandre-jordan" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 12:01:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：篮网宣布签下德安德烈-乔丹" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/bc4a46fd436839dd0b7afadbbf346a46976daea0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 篮网官方今天宣布，球队正式签下德安德烈-乔丹，双方达成4年4000万美元的合同。
+   </p>
+   <p>
+    篮网总经理肖恩-马克斯表示：“我们很高兴欢迎德安德烈和他的家人来布鲁克林，作为拥有最佳阵容和最佳防守阵容荣誉的老将中锋，德安德尔将为我们提供在NBA最高级别比赛所需的防守心态，韧性和领导能力。“
+   </p>
+   <p>
+    今年7月，小乔丹将年满30岁，2018-19赛季，他在独行侠和尼克斯共出战69场比赛，场均能够得到11分13.1篮板1.1盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

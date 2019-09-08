@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  托拜厄斯-哈里斯谈签下顶薪合同：我对此信心十足
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/darrenrovell/status/1151310256376569856" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 11:53:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="托拜厄斯-哈里斯谈签下顶薪合同：我对此信心十足" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/e8792767051d69b659d29267663fd83fadc4b05e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 托比亚斯-哈里斯在休赛期与费城76人签下了顶薪合同，他能在接下来的五个赛季中获得1.8亿美元，哈里斯之所以能签下如此大的合同，因为他对自己下了非常有计划且非常有风险的赌注。
+   </p>
+   <p>
+    去年夏天，哈里斯可以选择接受快船给他提供4年8000万美元的提前续约合同。他在前七年的职业生涯中共获得了5580万美元的薪资。但哈里斯拒绝了这一报价并决定试水自由市场，因为他着眼于在2019年夏天成为自由球员并获得一份顶薪合同，这笔合同将达到五年1.8亿美元。
+   </p>
+   <p>
+    “我和我父亲谈过这件事，他说，'听着，明年夏天我知道我可以让你拿到接近顶薪的合同。我看到了你今年夏天的努力，'对我来说，我信心十足。”哈里斯在The Action Network节目The Favorites’ Podcast中说道。
+   </p>
+   <p>
+    值得一提的是，哈里斯的父亲托雷尔不仅是他的父亲，也是他的经纪人。
+   </p>
+   <p>
+    2018-19赛季常规赛，托拜厄斯-哈里斯场均出场34.7分钟，可以得到20.0分7.9篮板2.8助攻0.62抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我住球哥家楼下)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

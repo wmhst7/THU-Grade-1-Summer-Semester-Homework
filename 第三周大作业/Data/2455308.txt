@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：爵士签约斯坦顿-基德和威廉-霍华德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/E_Woodyard/status/1151610687396954112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 07:44:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：爵士签约斯坦顿-基德和威廉-霍华德" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/373442467d46e20536715ba4a247495d7cfbe27b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 爵士官方今日宣布，他们已经与斯坦顿-基德和威廉-霍华德签约，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    25岁的霍华德身高2.03米，体重94公斤，他是2015年选秀大会的落选秀，来自法国，2018-19赛季，霍华德在法国联赛的Limoges CSP俱乐部场均出战24.6分钟，可以拿到9.5分3.8篮板2.2助攻1.4抢断。
+   </p>
+   <p>
+    27岁的基德身高2.01米，体重98公斤，他是2015年选秀大会的落选秀，来自科罗拉多州立大学，2018-19赛季，基德在Darussafaka Basketbol Istanbul俱乐部场均出战22.5分钟，可以拿到7.9分3.3篮板1.1助攻。
+   </p>
+   <p>
+    根据The Athletic记者托尼-琼斯的报道，基德和霍华德新赛季的合同都是部分受保障的。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

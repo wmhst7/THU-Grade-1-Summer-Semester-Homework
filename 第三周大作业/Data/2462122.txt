@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  福克斯：能入选美国男篮训练营是一种荣幸
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/James_HamNBCS/status/1158499031300972545" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 08:02:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="福克斯：能入选美国男篮训练营是一种荣幸" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/8164c60ec5792f4cf1967471d8a5d49fc8446f03.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今天，国王球员达龙-福克斯在美国男篮训练营接受了记者的采访。
+   </p>
+   <p>
+    谈到自己的感受，福克斯说：“这感觉当然很棒。来到这里和这些球员们打球感觉还有点陌生，我们在尽可能快地熟悉彼此。这里的每个人都热爱篮球，我们之间的关系在不断增进。我们来这里是为了竞争，也是为了享受比赛。这就是我们现在的重点。”
+   </p>
+   <p>
+    谈到从陪练队升至选拔队，福克斯说：“我对训练营还有些不了解，但能来到这里，能为一个名额竞争，这真的很荣幸。”
+   </p>
+   <p>
+    谈到入选正队的可能性，福克斯说：“我没真的想过这个。我之前没计划过参加世界杯。如果入选，这会是值得铭记一生的经历，会改变我夏天的计划。”
+   </p>
+   <p>
+    “我觉得我有机会入选。能出战世界杯是很大的荣誉，全国人都会看。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  穆迪埃社媒发鸡汤：生活往往后知后觉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0MnN7XgNNx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 10:07:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="穆迪埃社媒发鸡汤：生活往往后知后觉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/00189359a196555f487d3073c49efe0c4e6531ca.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 犹他爵士队后卫伊曼纽尔-穆迪埃今天在个人Instagram上传了一张自己的投篮照（见新闻配图）。
+   </p>
+   <p>
+    “生活往往后知后觉，但在此之前你必须得去经历生活，在生活中学习。”穆迪埃写道。
+   </p>
+   <p>
+    根据此前的报道，穆迪埃在本赛季休赛期与爵士达成一份一年协议，并于昨天正式被官宣加盟爵士。2018-19赛季常规赛，穆迪埃场均上场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

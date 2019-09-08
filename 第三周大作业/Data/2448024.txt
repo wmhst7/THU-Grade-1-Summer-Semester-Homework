@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管谈乐福的交易价值：今夏可能有失意球队报价他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1051844/2019/06/28/cavaliers-have-few-free-agency-options-save-for-trading-kevin-love/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 22:38:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管谈乐福的交易价值：今夏可能有失意球队报价他" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/a126e97c019881417556c3cce0d35a6927a470a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据The Athletic记者Joe Vardon报道，三名并非来自骑士的联盟高管接受匿名采访谈到了骑士前锋凯文-乐福的交易价值。
+   </p>
+   <p>
+    当被问到乐福是否可能成为一些今夏在自由球员市场中失意球队的交易目标时，一位联盟高管表示：“是的，没有捞到大鱼的大市场球队之一将为凯文开出交易报价。”
+   </p>
+   <p>
+    另一位高管说道：“他的合同很难消化，除非他是球队所急需的那个人。”
+   </p>
+   <p>
+    第三位联盟高管认为：“假如凯文打完一个不受伤病困扰的赛季，他将会在这个市场中得到一份4年价值1.2亿美元的合同报价。我想说，艾尔-霍弗德可能就会得到类似的合同。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

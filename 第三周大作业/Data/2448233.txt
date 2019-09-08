@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师：如果NBA说我只能和伦纳德私下会面，我也愿意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/la-sp-lakers-free-agency-kawhi-leonard-magic-johnson-20190628-story.html?outputType=amp&amp;__twitter_impression=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 12:55:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师：如果NBA说我只能和伦纳德私下会面，我也愿意" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/0a2a296d734253355fa4b5a0730a42e46ac46982.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 湖人名宿魔术师约翰逊今天接受采访表示，自由球员科怀-伦纳德的阵营已经联系到他，希望他出席湖人与伦纳德的正式会面。
+   </p>
+   <p>
+    然而，魔术师表示他应该与伦纳德私下进行一对一的会面，而不是与湖人官员一起参加会面，因为NBA不允许他这么做。
+   </p>
+   <p>
+    “我会尽己所能地帮助湖人，”魔术师说道，“如果NBA要求我只能单独会面科怀，不能跟湖人官员们一起出现，我愿意那么做。我爱湖人，我想做最有利于湖人和珍妮-巴斯的事。”
+   </p>
+   <p>
+    “我聆听了科怀那边的人的请求，”魔术师说，“我说，只要湖人方面不介意，我愿意与他面谈。听着，无论如何，我希望湖人赢得总冠军，我会为帮助珍妮、勒布朗（詹姆斯）和AD（安东尼-戴维斯）出自己的一份力。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

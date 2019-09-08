@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马特-巴恩斯晒出昨日出席考辛斯婚礼现场照并祝福新人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1m-_8IpJar/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 09:58:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马特-巴恩斯晒出昨日出席考辛斯婚礼现场照并祝福新人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/8cdbae8ab85d4bceeb0873cc1bf944ffdc13fc06.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 昨日，湖人中锋德马库斯-考辛斯在亚特兰大举行了婚礼。根据报道，考辛斯目前是两个孩子的父亲，29岁的他迎娶了他28岁的未婚妻摩根。
+   </p>
+   <p>
+    出席婚礼的NBA球员包括奇才后卫约翰-沃尔、雄鹿后卫埃里克-布莱索、勇士前锋德雷蒙德-格林、前勇士球员肖恩-利文斯顿、灰熊球员安德烈-伊格达拉、湖人球员安东尼-戴维斯和奎因-库克以及前NBA球员马特-巴恩斯。
+   </p>
+   <p>
+    今日，前NBA球员马特-巴恩斯更新了个人社交媒体Instagram晒出自己与女友昨日出席婚礼时的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“昨天是我兄弟考辛斯大喜的日子！就像Jon在婚礼上所说的神明给了考辛斯磨难让他最终成为最坚强的战士。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

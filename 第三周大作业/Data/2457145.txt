@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔更新社媒晒出女儿生日照片并配文：我们永远爱你
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0OhmEsJ2Zd/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 15:44:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔更新社媒晒出女儿生日照片并配文：我们永远爱你" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/d77f05b7dc2b48a39a12c95b797cc984434e5a5c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯  鹈鹕后卫朗佐-鲍尔更新社媒Instagram晒出为女儿庆祝的生日的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“这是你人生篇章的第一年，你可能不会记得但我们永远不会忘记。生日快乐我们永远爱你。(比心）”
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.9分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

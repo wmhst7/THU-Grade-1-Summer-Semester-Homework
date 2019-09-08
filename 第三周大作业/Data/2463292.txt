@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  理查德森：想要赢下对阵热火的比赛，霍弗德很成熟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/philadelphia/76ers/josh-richardson-bonds-al-horford-wants-kill-heat" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 08:53:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="理查德森：想要赢下对阵热火的比赛，霍弗德很成熟" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/589701b2ac23c92fbc67bc2999b9dedfa981ecfb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 近日，76人球员约什-理查德森接受了记者的采访。
+   </p>
+   <p>
+    此前，理查德森在一笔多方交易中被热火交易到76人。
+   </p>
+   <p>
+    谈到新赛季对阵前东家热火，理查德森说：“老实说，等我回到迈阿密，我想要击败热火（I want to kill the Heat）。我想要赢热火20分，这就是我的性格。如果我还是热火的球员，我会想赢76人50分，因为这就是球队之间的对决。”
+   </p>
+   <p>
+    谈到新队友艾尔-霍弗德，理查德森说：“和他吃了一顿饭我就能看出了他有多么成熟和多么好胜。这就是我全部想要的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯谈教育子女：作为父母要以身作则，日积月累
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.wkyc.com/mobile/article/sports/nba/lebron-james/lebron-james-discusses-family-says-parenting-is-about-setting-an-example/95-19098165-2d7f-4365-b704-5b26405e8e03" target="_blank">
+     wkyc
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 21:18:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯谈教育子女：作为父母要以身作则，日积月累" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/62753a011305ed21dafe5b719f7f0b27a108337b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 湖人前锋勒布朗-詹姆斯今日回到家乡阿克伦，在其投资建设的I Promise学校内接受当地媒体专访。
+   </p>
+   <p>
+    谈到自己身为父亲的教育理念，詹姆斯说道：“我认为这是一个日积月累的过程，并不是说我需要坐下来和子女谈话，‘听着，我这么要求你，你应该这样做’之类的说辞，不。这是每天积累的过程，重要的是每天你如何教养你的小孩，每天你为他们传授怎样的蓝图。有时你会当面教育他们，有时又是自然而然地体现在他们走路的方式，他们如何起床，如何尊重家里的人，还有当我认为我的孩子没在身边观看时，我的行为举止又是如何。”
+   </p>
+   <p>
+    “我相信不止我自己，还有我的妻子，我的母亲，我的岳父岳母，我家里的所有人，我们都在以身作则，向他们树立好的榜样，不仅在于家里的行为，还在于离家后的举止。作为父母我得到过的最好的一些称赞来自于我朋友的父母，或者说身边朋友的孩子们的父母，他们夸赞说，‘你的女儿或你的儿子举止得体，教养很好。’那意义重大，因为那得益于家教。”詹姆斯补充道。
+   </p>
+   <p>
+    “我还有许多宝贵经验准备分享，”詹姆斯说道，“但我认为这需要循序渐进，伴随时间进展和他们的成长而逐步传授，不能一下子就把这些道理全部讲给他们。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

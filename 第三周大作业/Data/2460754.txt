@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小范甘迪：已等不及想看威少哈登在一起的表现了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1157058877034303488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 07:04:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小范甘迪：已等不及想看威少哈登在一起的表现了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/975ba17de944cd5c04fac8b94e66fe75fc1c21a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 杰夫-范甘迪接受采访时谈到了詹姆斯-哈登和拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    “我已经等不及想看看会是什么样的结果了，保罗在火箭的这两个赛季很棒，我不想忽略这一点，我认为威斯布鲁克正在巅峰期，人们在预测情况会如何，好与不好。”小范甘迪说道。
+   </p>
+   <p>
+    小范甘迪接着说：“我倾向于看看情况如何，我已经等不及看看会怎么样了。”
+   </p>
+   <p>
+    小范甘迪对此的直觉是什么？小范甘迪说：“我认为你必须要在正确的时间得到心态正确的球星，我认为哈登和威斯布鲁克都处在他们职业生涯里的正确时刻，愿意做出牺牲，不仅仅是愿意为彼此做出牺牲，他们也愿意为了让球队更好而做出牺牲。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

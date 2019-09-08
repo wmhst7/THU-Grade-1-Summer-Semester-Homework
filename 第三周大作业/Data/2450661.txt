@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯将和安东尼-戴维斯一起观看夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ByTimReynolds/status/1147219801510748160" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 03:28:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯将和安东尼-戴维斯一起观看夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/8fb929fd5d4bb9d44f76e9e6a55f0ea2504b265e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据NBA记者Tim Reynolds报道，湖人球员勒布朗-詹姆斯和即将被交易到湖人的鹈鹕球员安东尼-戴维斯今晚将一同在拉斯维加斯观看夏季联赛。
+   </p>
+   <p>
+    根据之前詹姆斯所发的社媒状态，
+    <a href="https://voice.hupu.com/nba/2450617.html">
+     也可以看出詹姆斯目前正在拉斯维加斯
+    </a>
+    。
+   </p>
+   <p>
+    根据之前的报道，
+    <a href="https://voice.hupu.com/nba/2443836.html">
+     戴维斯已经通过一笔交易加盟了湖人
+    </a>
+    ，戴维斯的交易预计将在当地时间7月6日正式完成。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

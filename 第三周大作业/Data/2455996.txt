@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才篮球运营副总裁谢泼德将成为球队新任总经理
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FredKatz/status/1152353722091155456" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 07:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才篮球运营副总裁谢泼德将成为球队新任总经理" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/24f39492331fe4bceefd5fb5660906226f1f003d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据The Athletic记者Fred Katz的报道，多位消息人士透露，所有迹象都显示奇才的临时总经理汤米-谢泼德将成为奇才的新任总经理，虽然目前双方还没有达成合同。
+   </p>
+   <p>
+    奇才预计将在接下来的这一周内官方宣布此事，随后多位奇才记者确认了这一报道。
+   </p>
+   <p>
+    谢泼德是奇才的篮球运营副总裁，在今年4月初，奇才解雇了厄尼-格伦费尔德，谢泼德成为了奇才的临时总经理。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

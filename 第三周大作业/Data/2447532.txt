@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乐福更新Ins分享多张和德罗赞一起参加活动照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzMKmH8g8Hq/?igshid=wb7mtpchxmmo" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 11:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乐福更新Ins分享多张和德罗赞一起参加活动照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/2a428c5d96076b5c1e4d203665feffb3bf05be67.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，克利夫兰骑士球员凯文-乐福更新了个人Instagram，上传了多张和圣安东尼奥马刺后卫德马尔-德罗赞一起参加活动的照片。
+   </p>
+   <p>
+    并配文说道：“专题讨论：'体育如何解决世界上的问题'。一个关于青少年体育运动的发展方向和运动员在改变世界中拥有强大影响力的伟大对话。＃不止是运动员。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/97b332c37e8bbe5dcb84a358c7497afb.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/0fbc62770d21b51033008f8227726e98.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/267c0ef6fa7e5a69570dbb96fdaad7d4.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/a1693cda2278d86045efec4a668379fd.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/8c4d308d96c548d3b47b1c46f540ecbb.png"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，乐福场均出场27.2分钟，得到17.0分10.9篮板2.2助攻；德罗赞场均出场34.9分钟，得到21.2分6.0篮板6.2助攻1.12抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

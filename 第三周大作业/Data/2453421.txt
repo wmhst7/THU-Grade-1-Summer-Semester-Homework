@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  活塞有意签下老将保罗-加索尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/pistons-rumors-detroit-has-interest-in-pau-gasol/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 11:43:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="活塞有意签下老将保罗-加索尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/19a375e22039c0d7a7806601db1b6b4d9dd2838f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据美媒记者Vincent Ellis报道，底特律活塞队有意自由球员保罗-加索尔。
+   </p>
+   <p>
+    目前39岁的保罗-加索尔是完全自由球员。据之前报道，加索尔的伤病恢复顺利，并有望在8月进行篮球活动，加索尔十分渴望在2019-20赛季回归NBA赛场。
+   </p>
+   <p>
+    保罗-加索尔曾在2017-18赛季和现活塞球员德里克-罗斯，托尼-斯内尔在公牛队做过队友。目前活塞希望给他们的中锋安德烈-德拉蒙德寻找到一个合适的替补。
+   </p>
+   <p>
+    上赛季加索尔先后代表圣安东尼奥马刺队和密尔沃基雄鹿队出战，共上场30场比赛，场均拿下3.9分4.6篮板1.7助攻，投篮命中率为44.7%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

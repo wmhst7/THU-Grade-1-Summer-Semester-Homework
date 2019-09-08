@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士新赛季球衣和队标谍照曝光，90年代末复古风格
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1158617499174182913" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 13:51:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士新赛季球衣和队标谍照曝光，90年代末复古风格" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/fa4d54b8a9d4da479756c04f8ada05daa1b5eda8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 近日，爵士2019-20赛季新球衣和队标谍照曝光。这套球衣曾是爵士在1996-97赛季到2003-04赛季间使用的客场球衣。
+   </p>
+   <p>
+    2018-19赛季，爵士的常规赛战绩为50胜32负，排名西部第五，胜率为61%。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/13/c3c48bb41df0cbc1ede5d279648f5a19.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/13/e7a0c5abc411686c99363e4bf18e9f5d.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/13/3063610fc5ad427a9d9313f18bba1b07.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/13/9b9ba8d620c6f77e2f27b1ddf5c4064e.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰弗森：若安东尼继续保持这种谦虚心态，他会得到机会的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=FQWefK85aX8&amp;feature=youtu.be" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 09:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰弗森：若安东尼继续保持这种谦虚心态，他会得到机会的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/53b1add0f4e3b029f387f6cbb619ee7ce2a466a3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 理查德-杰弗森参加节目时谈到了卡梅罗-安东尼。
+   </p>
+   <p>
+    “看到这样的结果，这很不幸，因为很多球员今夏都拒绝了为美国男篮国家队出战的机会，所以有一个参加过这样比赛的球员加入，即使是扮演一个像杰森-基德生涯末期那样的老将角色，安东尼为美国男篮做过所有的这些事情，但是他们就是不想让他加入。”杰弗森说道。
+   </p>
+   <p>
+    那么NBA呢？杰弗森说：“他现在说的这些话，他在2年前就该说，说自己做球队需要的事情，说自己愿意打替补，我认为对他来说，这就是成熟的问题，看看他的职业生涯，他一直都是一个赢家，一个得分手。”
+   </p>
+   <p>
+    “在之前的节目里，他说自己本可以成为三巨头里的一部分，但是他想要更多的钱，于是他续约尼克斯，如果他在生涯早期搭档另外一名球星的话，这会改变人们对他的看法，在我看来，之前续约尼克斯是让他在生涯这个时刻落到如此处境的原因。”杰弗森说道。
+   </p>
+   <p>
+    那么安东尼还能回到NBA么？杰弗森说：“如果像他这样能力的球员想的话，保持投入，我相信他会再次得到机会，你永远不知道伤病何时发生，交易截止日，球队想在季后赛的时候变得尽可能强，如果他继续保持这种谦虚的心态，他会再次得到一个机会的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

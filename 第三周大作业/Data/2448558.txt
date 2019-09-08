@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  感情不错！比永博今日更新社媒晒出与迈克尔-乔丹合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzTwKlvjQUk/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 11:01:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="感情不错！比永博今日更新社媒晒出与迈克尔-乔丹合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/ee92d7c47f58cadeb4412099c1fb5ee5e4f37851.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，黄蜂中锋俾斯麦-比永博更新了个人社交媒体Instagram晒出自己与球队老板迈克尔-乔丹的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“感谢迈克尔邀请我参加这周的聚会。”
+   </p>
+   <p>
+    根据此前消息报道，北京时间5月2日，比永博成功接受了关节镜手术，处理了其左膝长期的伤病问题。
+   </p>
+   <p>
+    2018-19赛季常规赛，比永博场均出场14.5分钟，可以得到4.4分4.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

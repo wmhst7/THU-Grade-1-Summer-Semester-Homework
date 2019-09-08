@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勒韦尔：杜兰特是我的老大哥，会与他交流观点和经历
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.netsdaily.com/2019/8/1/20749743/caris-levert-nets-identity-wont-change-with-roster-turnover" target="_blank">
+     NetsDaily
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 18:10:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勒韦尔：杜兰特是我的老大哥，会与他交流观点和经历" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/ed5756fe96c0014827dbfc63cab20ac6f1b546b6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 近日，篮网球员卡里斯-勒韦尔在一档节目中接受了采访。
+   </p>
+   <p>
+    谈到篮网应该是否能将凯文-杜兰特和凯里-欧文融入其文化时，勒韦尔给出了肯定回答，并说：“我们就是这样的人，这对我们来说很容易。我们就是这样的球员，就是这样一支队伍。我认为在他们加入之前，球队从第一人到第十五人每个人都有强烈的好胜心，我知道他们亦是如此。我认为对于每一名达到了NBA水准的球员来说，都想要拥有这种心态来成为最顶尖的球员之一。这是我们的身份。我知道未来我们不会失去这种心态的。”
+   </p>
+   <p>
+    谈到对篮网下赛季的期望时，勒韦尔说：“球队中有很多人们没怎么谈论的球员，他们将会在下赛季对球队有所帮助。所以，我们当然期望最大化我们的潜力，无论我们的潜力能达到什么样的程度，我们还不知道，但是显然，我们有很强的火力。”
+   </p>
+   <p>
+    “显然，罗季翁斯-库鲁茨上赛季作为一名新秀表现出色，托里恩-普林斯是联盟中一名非常优秀的球员，很多人忽略了他，因为他之前效力于老鹰，人们很少在电视上看到他的表现。加莱特-坦普尔是一名证明过自己的老将。而斯潘塞-丁威迪上赛季本该被纳入最佳第六人的讨论中。”
+   </p>
+   <p>
+    勒韦尔还提到了自己是如何从上赛季右脚脱臼的伤势中复出的。他称赞了篮网运动表现团队对他康复过程的帮助，并称自己对自己季后赛时的出色表现并不惊讶。
+   </p>
+   <p>
+    杜兰特曾经受过右脚骨折的大伤。两人的骨科医生是同一人。勒韦尔称他与杜兰特就伤后复出相关事宜有过交流。
+   </p>
+   <p>
+    “他显然对于如何处理这些事情有很好的见解。但是他对我来说就像老大哥一样，我们会交流彼此的观点和经历。”
+   </p>
+   <p>
+    勒韦尔承认他对篮网在自由市场中的成功感到惊讶，并说当杜兰特和欧文将加入篮网的消息公布时，他正在家中。他与他的新老队友得知消息后建了一个短信群，分享彼此的联系方式。
+   </p>
+   <p>
+    “显然，我们都很兴奋，对下赛季感到迫不及待了。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  全新主场！勇士新赛季主场地板4款设计图出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://imgur.com/a/tWlbdMB" target="_blank">
+     imgur
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 16:00:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="全新主场！勇士新赛季主场地板4款设计图出炉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/0a6c3b97923eab6b260cf41360dca47766af7988.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 一位Reddit网友今日在imgur上分享了NBA全部30支球队将在2019-20赛季推出的主场地板设计效果图。
+   </p>
+   <p>
+    以下为勇士将在新赛季启用的大通中心主场比赛中推出的主要版本、城市版、两款复古版球场设计效果图：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/15/0b6bb96086b8241f892613dd126f7f56.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/15/6874a25c4c8050ea95aa4eea87e6da74.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/15/acdc58064b52b3fa82f6ad908db59985.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/15/b9033d63264b2cc72c4e9cd930326462.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

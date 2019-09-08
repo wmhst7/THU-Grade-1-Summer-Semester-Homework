@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  打抱不平！约什-哈特更新社交媒体为兄弟们发声
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/joshhart/status/1146292117800701952" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 13:57:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="打抱不平！约什-哈特更新社交媒体为兄弟们发声" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/2e3a0c2e529e7b7629676a2eb64ec41d3198abf7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 鹈鹕队后卫约什-哈特今日更新社交媒体Twitter，为前队友发声。
+   </p>
+   <p>
+    “贾维尔-麦基，肯塔维厄斯-考德威尔-波普，拉简-隆多应该被注意了！签了他们！”
+   </p>
+   <p>
+    2018-19赛季常规赛，约什-哈特场均出场25.6分钟，得到7.8分3.7篮板1.4助攻；贾维尔-麦基场均出场22.3分钟，得到12.0分7.6篮板1.97盖帽；肯塔维厄斯-考德威尔-波普场均出场24.8分钟，得到11.4分2.9篮板1.3助攻；拉简-隆多场均出场29.8分钟，得到9.2分5.3篮板8.0助攻。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

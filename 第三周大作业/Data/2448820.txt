@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  公牛以3年4100万与赛迪斯-杨达成协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1145452047656869888" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 06:03:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="公牛以3年4100万与赛迪斯-杨达成协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/2ec5a0321e0162c14b3af3168f17ea3dc10a02ea.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据雅虎体育记者Chris Haynes报道，联盟消息人士透露，赛迪斯-杨与公牛达成协议，将以3年4100万加盟公牛。
+   </p>
+   <p>
+    2018-19赛季常规赛，赛迪斯-杨代表步行者场均出场30.7分钟，得到12.6分6.5篮板2.5助攻1.52抢断0.44盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

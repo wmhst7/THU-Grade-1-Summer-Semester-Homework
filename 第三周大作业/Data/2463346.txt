@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  27年前的今天：美国男篮梦之队巴塞罗那夺金
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn/status/1159501037000110080" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 10:30:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="27年前的今天：美国男篮梦之队巴塞罗那夺金" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/56212a170a807016742c587c853fe5bb33c21f96.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 当地时间1992年8月8日，美国男篮梦之队在巴塞罗那奥运会男子篮球决赛中以117-85战胜克罗地亚，以8场比赛全胜的战绩赢得奥运会金牌。
+   </p>
+   <p>
+    当时美国队中的球员有大卫-罗宾逊、帕特里克-尤因、拉里-伯德、斯科蒂-皮蓬、迈克尔-乔丹、克莱德-德雷克斯勒、卡尔-马龙、约翰-斯托克顿、克里斯-穆林、查尔斯-巴克利、埃尔文-约翰逊、克里斯蒂-莱特纳等人。
+   </p>
+   <p>
+    1992年以前奥运会禁止NBA之类的商业联盟职业球员参加比赛，巴塞罗那奥运会解除了限制，美国派出NBA最高水平的职业选手参加比赛，因而1992年的这支美国男篮也被称为“梦之队（梦一队）”。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

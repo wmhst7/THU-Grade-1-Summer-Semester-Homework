@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科林斯谈增重：不会操之过急，要使身体保持正确的状态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/big-zs-big-summer-zach-collins-still-preparing-play-multiple-positions" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 23:56:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科林斯谈增重：不会操之过急，要使身体保持正确的状态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/5051b9c4dfc20d148bb394d85a5d9b627a143cdd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 近日，开拓者球员扎克-科林斯接受了记者的采访。
+   </p>
+   <p>
+    科林斯进入联盟时的登记体重是215磅，他知道为了自己在NBA的进步，他需要增重：“我会增重到220磅。”
+   </p>
+   <p>
+    他谈到了自己会以一种全面的方式来增重，不会操之过急：“对我来说最重要的是，通过在力量房里的训练使我的身体处于正确的状态，并将这种状态转化为场上的表现。这样，我的运球、投射和动作才不会极大地受到体重的影响。”
+   </p>
+   <p>
+    谈到自己的饮食时，科林斯说：“显然，我每天会吃四到五顿饭。上赛季前我请了一名厨师，在赛前赛后为我备餐。就这样我摄入了正确数量的热量以及蛋白质……我会持续这样做。”
+   </p>
+   <p>
+    “我认为赛季开始时，250磅的体重是一个良好的目标——250磅到255磅之间。我认为这是非常现实的，赛季结束后，我已经增重了四到五磅了。”
+   </p>
+   <p>
+    柯林斯还对开拓者的运动表现专家Todd Forcier和Ben Kenyon表示了赞赏：“我认为我们的Todd和Ben Kenyon是联盟中最好的力量教练之一，甚至没有之一。他们非常积极主动……它们同时接纳了传统的训练方法和新式的训练方法，他们从不反对尝试新事物，始终在寻找一种更好的方法去做一些事。所以，每天与这样的人共事是我发展过程中的重要部分。”
+   </p>
+   <p>
+    柯林斯称这两人对他的恢复起到了重要作用。
+   </p>
+   <p>
+    “你一直可以说那就是‘前进、前进、前进’，但是Ben和Todd对我的恢复帮助很大。即便有的时候你在力量房做的不是力量训练，而是机动性训练，他们的帮助依然很大。所以持续地做这些训练，确保正确饮食，对我来说是很重要的。”
+   </p>
+   <p>
+    柯林斯在今夏一直通过短信与Forcier保持联络，开拓者的训练师们也确保了柯林斯没有过快地增重。
+   </p>
+   <p>
+    “他们理解，如果我在两周之内增加了10磅体重，那样我是不可能在场上感觉良好的。我们所努力的不仅仅是增重，还有保持我依然能做到我先前所做的事，那就是利用我的脚步和速度。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

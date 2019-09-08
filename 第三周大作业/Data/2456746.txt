@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  路威：即使你击败了很多人，但必须知道人外有人天外有天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SLAMonline/status/1152287999293612034" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 11:04:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="路威：即使你击败了很多人，但必须知道人外有人天外有天" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/e38498337ce618c225cc5e6317764824cd614362.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 近日，快船后卫路易斯-威廉姆斯接受了美国媒体SLAM的采访。
+   </p>
+   <p>
+    在谈及名人堂成员阿伦-艾弗森对自己的影响时，路威对记者说道：“他对我来说就像是一位大哥哥，在此之前，他还是我的偶像。我之前从未亲眼见过他，但是在我的比赛中我一直在模仿他的比赛风格。就连我身上的文身也是受到他的影响。他的文身代表了比赛，代表了他自己。”
+   </p>
+   <p>
+    在谈及自己从加入联盟到现在所有的经历过后的感想时，路威表示：“当我第一次加入联盟，职业生涯的第一场比赛时，我表现得不好，投篮很糟糕。在此之后的5年，我开始渐渐了解比赛。现在过去15年了，我打得节奏变慢了，找得相对系统的方法，在我有了自己的节奏后，你们就不能再阻止我，因此在这些年里面我不断在进化提升自己的能力，尤其是在得分方面。当我成为那些得分手之一时，人们并没有一直在聊与我相关的话题，但是人们都知道我就在这儿。无论在我前面有多少全明星，而我就是要努力成为那些人中的一个。这样我就会成为人们口中谈论的对象。因此我就像此刻一样虎视眈眈地希望成为全明星。即使在赛场上你已经击败了很对对手，但是你必须知道人外有人，天外有天。我就是这样的人。”
+   </p>
+   <p>
+    2018-19赛季常规赛，路易斯-威廉姆斯场均出场26.6分钟，可以得到20.0分3.0篮板5.4助攻，并且获得了上赛季常规赛最佳第六人奖项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

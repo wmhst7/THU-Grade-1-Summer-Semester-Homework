@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希伯特发表今日随想：邓肯和奥尼尔是我最喜欢的两名球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Roy_Meets_World/status/1155196810824056832" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 13:09:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希伯特发表今日随想：邓肯和奥尼尔是我最喜欢的两名球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/c271d1a99be5c6c3e81ab592999b5712514b0668.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 前NBA球员罗伊-希伯特今天更新了个人推特。
+   </p>
+   <p>
+    “在我8年级的时候，我就长到了6英尺8英寸（2.03米）。我最喜欢的球员永远都是沙奎尔-奥尼尔和蒂姆-邓肯，他们是我最欢的两名球员。很高兴能够在我还是个孩子的时候就能见到他们，和他们在NBA的对位真的太艰难了。这些只是我今天的随机感想。”希伯特写道。
+   </p>
+   <p>
+    希伯特职业生涯共在NBA出战662场常规赛，场均出场24.8分钟，得到10.0分6.3篮板1.73盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

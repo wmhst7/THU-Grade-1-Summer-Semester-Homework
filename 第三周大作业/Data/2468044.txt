@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉18+15，率瑞士66年来首次晋级欧锦赛正赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/En24News/status/1164271249079578624" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 15:47:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉18+15，率瑞士66年来首次晋级欧锦赛正赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/d1662152856b5d696bf9253ee1ecfad732efd0a6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 在今日结束的一场欧锦赛预选赛中，瑞士以109-85战胜冰岛，顺利拿到2021年欧锦赛入场券，这是他们自1955年以来首次跻身欧锦赛正赛。
+   </p>
+   <p>
+    在这组预选赛中，瑞士与冰岛、葡萄牙分别进行了主客场对决，胜者将进入欧锦赛正赛E组，与芬兰、格鲁吉亚和塞尔维亚展开对决。
+   </p>
+   <p>
+    本场比赛，卡佩拉出场33分钟，得到18分15篮板，正负值达到+23。卡佩拉曾代表瑞士成年国家队出战过2015年欧锦赛预选赛。
+   </p>
+   <p>
+    值得一提的是，本场比赛前，冰岛战绩为2胜1负，瑞士的战绩为1胜2负，瑞士必须净胜21分才能凭小分优势晋级，而他们最后净胜24分，有惊无险地达成晋级目标。
+   </p>
+   <p>
+    卡佩拉出生于1994年，在2014年第1轮第25顺位被火箭选中。2018-19赛季常规赛，卡佩拉代表火箭场均出场33.6分钟，得到16.6分12.7篮板1.4助攻0.66抢断1.52盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

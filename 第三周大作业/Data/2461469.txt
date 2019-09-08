@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔：不确定恢复进展但不会仓促复出，相信比尔会续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sportingnews.com/us/nba/news/wizards-john-wall-not-willing-sit-out-2019-20-after-achilles-injury/7gqqob2r8v8i179mwpok2dydj" target="_blank">
+     Sporting News
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 05:30:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔：不确定恢复进展但不会仓促复出，相信比尔会续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/5d98994eccd227f6d43de75cf36c94772492cd6b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 近日，奇才后卫约翰-沃尔及其基金会约翰-沃尔家庭基金会举办了第六届Annual Back to School Backpack Giveaway活动，该活动旨在回馈校园，向孩子们赠与书包。期间，沃尔接受了采访。
+   </p>
+   <p>
+    沃尔在今年二月遭遇了跟腱部分撕裂的伤病，在被问及是否“愿意”缺阵整个2019-20赛季进行恢复时，沃尔说：“不，我不愿意，但这取决于医生和球队的意见。所以我会听从他们的意见，不会试图自作主张。”
+   </p>
+   <p>
+    谈到恢复进程时，沃尔说：“我现在不知道，我不知道我恢复到了哪个阶段。我感觉很棒，过去几天里我一直在慢跑，在球场上做篮球训练，每天举重，所以我不知道我现在处于哪个恢复阶段。我不想对你们说谎，我一直努力向你们坦白。所以我确实不知道我恢复到了哪个阶段，但我知道我正在不断进步，我正朝着应该的方向发展，但我不会仓促复出。”
+   </p>
+   <p>
+    谈到奇才后卫布拉德利-比尔的续约问题时，沃尔说：“布拉德利-比尔是一个非常聪明的人，他会做出对他自己和球队来说最好的决定。他很喜欢华盛顿特区。因为他在这里所做的一切，他还赢得了NBA社区协助奖。同时他也喜欢和我一起打球。”
+   </p>
+   <p>
+    2018-19赛季常规赛，沃尔共出场32次，场均出场34.5分钟，得到20.7分3.6篮板8.7助攻1.53抢断0.91盖帽。比尔场均出场36.9分钟，得到25.6分5.0篮板5.5助攻1.48抢断。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2458390.html">
+     相关链接：奇才今日正式向比尔提供3年1.11亿顶薪续约合同报价
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

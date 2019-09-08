@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格雷格-门罗将加盟德国联赛拜仁慕尼黑俱乐部
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Carchia/status/1154132734803140608" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 05:13:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格雷格-门罗将加盟德国联赛拜仁慕尼黑俱乐部" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/ead3d0ad7abbf87f0c5fcba49c5cb0f94f802cb9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据Sportando记者Emiliano Carchia报道，格雷格-门罗将加盟德国联赛拜仁慕尼黑俱乐部。
+   </p>
+   <p>
+    门罗在2010年选秀大会上首轮第7顺位被活塞选中，职业生涯曾效力于活塞、雄鹿、凯尔特人、太阳、猛龙和76人，共上场632次常规赛，场均上场27.7分钟，得到13.2分8.3篮板你2.1助攻1.06抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，门罗共代表凯尔特人、76人和猛龙上场43次，场均上场11.2分钟，得到5.3分4.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

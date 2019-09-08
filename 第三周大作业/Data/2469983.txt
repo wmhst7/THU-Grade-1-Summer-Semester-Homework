@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回馈社区！兰德尔举办社区活动送球迷书包和商场购物券
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nyknicks/status/1166404380574322688" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 10:29:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回馈社区！兰德尔举办社区活动送球迷书包和商场购物券" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/1b34cdb0aad5970e265a099f93523bbc322ec6d1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 据尼克斯队官方推特报道，NBA球员朱利叶斯-兰德尔上周末在纽约哈林区洛克公园上举办了社区活动，以此来回馈社区。
+   </p>
+   <p>
+    据报道，每一个到场的人都会收到一个装满上学用品的书包，同时在抽奖活动中会有20名中奖者收到尼克斯新赛季商城的购物券。
+   </p>
+   <p>
+    今夏，兰德尔与尼克斯签下了一份3年6300万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/10/adba2e881299179e28a07c051e73cd91.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/10/baf011f9458ec4cc6916c7e31c044dfe.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/10/370fa6188bbf6241a15d320a5908da25.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

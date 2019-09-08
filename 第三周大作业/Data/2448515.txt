@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船已联系贝弗利和马库斯-莫里斯的经纪人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AndrewGreif/status/1145143117118496769" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 09:38:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船已联系贝弗利和马库斯-莫里斯的经纪人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/2040fd12a8fa38de8f1f93831064db378ccef8f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据《洛杉矶时报》记者Andrew Greif的报道，多位消息人士透露，快船已经联系了帕特里克-贝弗利和马库斯-莫里斯的经纪人。
+   </p>
+   <p>
+    Greif在推特上写道，贝弗利和莫里斯都是不屈不挠的球员，他们适合快船的特质，并且快船非常了解贝弗利。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

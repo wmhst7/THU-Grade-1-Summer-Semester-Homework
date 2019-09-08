@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老友重聚！帕金斯晒出和加内特皮尔斯隆多聚餐合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzgm6lDlO94/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 08:31:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老友重聚！帕金斯晒出和加内特皮尔斯隆多聚餐合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/6d829bf555f507f382975ba1ecdc99e26047189d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日，前NBA球员肯德里克-帕金斯更新个人Instagram，上传了一张与凯文-加内特，保罗-皮尔斯、拉简-隆多等老友的合影（见新闻配图）。
+   </p>
+   <p>
+    图片从左至右依次为：凯文-加内特、拉简-隆多、保罗-皮尔斯、萨姆-卡塞尔、帕金斯。
+   </p>
+   <p>
+    2008年，凯尔特人夺得总冠军，当时主力阵容就包括在座的加内特、隆多、皮尔斯、帕金斯等人，帕金斯是球队的的首发中锋。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  投篮姿势修正？网友发布富尔茨最新训练片段
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheMisterMarcus/status/1159106200786677760" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 23:25:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="投篮姿势修正？网友发布富尔茨最新训练片段" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/d8a210d5bf68017ca68b71450df6c3d4a5299315.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 今天账号为@TheMisterMarcus的推特网友在推特上发布了几条视频，记录魔术球员马克尔-富尔茨的最新训练情况。
+   </p>
+   <p>
+    网友写道：“我有视频证明马克尔-富尔茨现在的跳投和其他篮球运动员一样了，NBA下个赛季会很精彩。（笑哭的表情）”
+   </p>
+   <p>
+    富尔茨此前遭遇了神经性胸廊出口综合症，2018-19赛季富尔茨因伤共出场19场，场均出场22.5分钟，贡献8.2分3.7篮板3.1助攻。
+   </p>
+   <p>
+    <img alt="GIF 4.0M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/91b13bdfb0546f0d5c35618c3c066f1c.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4.0M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/85e93c38e391b7347093d33bb474fddd.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/4238894d145f66eede03ca8eef7cc1f8.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3.0M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/648810004d07caf444de5a89726b6e52.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

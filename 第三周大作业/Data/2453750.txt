@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  天赋满满！奇才官方今日晒出八村垒与特洛伊-布朗合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz4N3pXn2N1/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 10:20:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="天赋满满！奇才官方今日晒出八村垒与特洛伊-布朗合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/a1405a019a5d68e2a6751337918fb491a52180ba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 今日，奇才官方更新了社交媒体Instagram晒出球队今年新秀八村垒和二年级秀特洛伊-布朗的合照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“多产的。”
+   </p>
+   <p>
+    奇才前锋八村垒来自于冈萨加大学于今年以首轮第9顺位被奇才选中，根据此前消息报道，八村垒已经与奇才正式签约，其第一年薪水最大可以达到446.9万美元，第二赛季和第三赛季可以达到469.3万美元，第四年为第三年薪水54%的涨幅，并且最后两年均有球队选项。并且根据报道，八村垒已经同意将代表日本出战今夏在中国举办的2019FIBA男篮世界杯。
+   </p>
+   <p>
+    奇才前锋特洛伊-布朗来自于俄勒冈大学，于2018年以首轮第15顺位被奇才选中。2018-19赛季常规赛，布朗场均出场14.0分钟，可以得到4.8分2.8篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

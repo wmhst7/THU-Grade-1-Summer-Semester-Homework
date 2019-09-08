@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加里-尼尔加盟陶森大学老虎队教练组
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/goodmanhoops/status/1166136933900308480?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 08:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加里-尼尔加盟陶森大学老虎队教练组" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/23d27386b35a403d99c037029bd5d25239036b7d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 陶森大学老虎队主帅Pat Skerry透露，前NBA球员加里-尼尔已经加盟他的教练组。
+   </p>
+   <p>
+    34岁的尼尔之前在NBA征战7个赛季，为马刺、雄鹿、黄蜂、森林狼、奇才和老鹰效力过。
+   </p>
+   <p>
+    尼尔NBA生涯出战352场常规赛，场均出战21.3分钟可以拿到9.9分2.2篮板1.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  指导新人！西蒙斯发布和新秀加兰训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1c1y8MHJSI/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 12:43:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="指导新人！西蒙斯发布和新秀加兰训练照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/fed1c0518956b3e5b30c958aa0de508e17c67f58.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 76人球员本-西蒙斯今日通过Instagram发布数张自己与骑士球员达里厄斯-加兰的训练照。加兰和西蒙斯的经纪人均为Klutch Sports公司创始人里奇-保罗。
+   </p>
+   <p>
+    “和我的兄弟@达里厄斯-加兰 完成了一些很好的训练。”西蒙斯写道。
+   </p>
+   <p>
+    新秀加兰在本届选秀中以第5顺位被骑士选中。2018-19赛季常规赛，西蒙斯场均上场34.2分钟，得到16.9分8.8篮板7.7助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/12/abfbb81d15097883b1b4fe2b861299f0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/12/c330c507f5d3827ca41b54e20366474b.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

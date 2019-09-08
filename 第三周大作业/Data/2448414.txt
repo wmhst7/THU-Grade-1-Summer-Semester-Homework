@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：掘金为莱尔斯提供资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145023485598732289" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 01:45:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：掘金为莱尔斯提供资质报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/adef46a70f1f8d04c2f92193474ba3ebda74420a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 NBA记者Adrian Wojnarowski报道，联盟消息人士透露，掘金为前锋特雷-莱尔斯提供了资质报价，后者将成为受限制自由球员。
+   </p>
+   <p>
+    提供资质报价后，掘金有权匹配其他球队给莱尔斯开出的任何合同报价。
+   </p>
+   <p>
+    2018-19赛季常规赛，莱尔斯场均出场17.5分钟，得到8.5分3.8篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

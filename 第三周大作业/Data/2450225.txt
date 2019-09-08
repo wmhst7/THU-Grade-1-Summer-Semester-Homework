@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  朗尼-沃克：我是一个节奏型得分手，投进后就会继续出手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mysanantonio.com/sports/spurs/article/Spurs-Lonnie-Walker-aims-to-improve-aim-from-14071078.php" target="_blank">
+     mySA
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 16:47:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="朗尼-沃克：我是一个节奏型得分手，投进后就会继续出手" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/3bf08a84ce9aa412124389bc7849e66eda6b8fb4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 今日马刺以81-84不敌爵士的夏季联赛中，马刺二年级后卫朗尼-沃克出场29分钟，17投7中，三分4中1，罚球5中4，得到19分8篮板1抢断。赛后，他接受了媒体采访。
+   </p>
+   <p>
+    谈及自己休赛期的目标，沃克说道：“我这个休赛期的一大重点是提升我外线投篮的手感，并在我的腿部力量上下功夫，确保我在篮筐附近能保持平衡、游刃有余。”
+   </p>
+   <p>
+    谈及自己的投篮表现，沃克表示：“我是一个节奏型投手，我一旦命中了一个球，我就会继续去出手。我外线出手感觉很不错，我今天命中了一些，也投丢了一些。但这都是比赛的一部分。”
+   </p>
+   <p>
+    沃克在2018年第1轮第18顺位被马刺选中，上赛季常规赛代表马刺出场17次，场均出场6.9分钟，得到2.6分1.0篮板0.5助攻0.41抢断0.18盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

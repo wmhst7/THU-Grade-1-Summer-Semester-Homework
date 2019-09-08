@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔登-约翰逊谈夏联砍29分：从防守做起为比赛奠定基调
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tom_orsborn/status/1146231256251633664" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:13:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔登-约翰逊谈夏联砍29分：从防守做起为比赛奠定基调" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/4a54b92cbe0487c19636f593b71935a3a60d090a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 在今日马刺以99-84战胜灰熊的犹他夏季联赛次日比赛中，马刺阵中今年29号秀凯尔登-约翰逊表现抢眼，出场25分钟，17投10中，三分4中3，罚球6中6，得到全场最高的29分，其中第四节单节砍下14分，同时全场得到7篮板（4个前场篮板）1助攻3抢断1盖帽，率领马刺取胜。赛后，约翰逊接受了记者采访。
+   </p>
+   <p>
+    谈及自己本场比赛出色的表现，约翰逊说道：“很显然，我只是尽力打好比赛，并从防守做起，为比赛奠定基调。”
+   </p>
+   <p>
+    “你在场上必须保持交流，你要发出你的声音，和队友们进行沟通。确保你知道在防守的时候知道如何换防，确保你换防时没有延误。如果你动作慢了一些，你要飞奔过去，持续拿出高强度的防守表现。”约翰逊补充道。
+   </p>
+   <p>
+    约翰逊今年19岁，身高1.98米，体重98公斤，司职得分后卫。2018-19赛季在NCAA代表肯塔基大学出场37次，场均出场30.7分钟，得到13.5分5.9篮板1.6助攻0.8抢断0.2盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

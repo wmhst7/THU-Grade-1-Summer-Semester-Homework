@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  青涩又稚嫩！小奥尼尔更新社媒晒和蒂姆-托马斯旧照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0rW4BxHn3A/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 11:33:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="青涩又稚嫩！小奥尼尔更新社媒晒和蒂姆-托马斯旧照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/b99740d4e05826c879f41942a02f6e0344d62ce1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，前NBA球员杰梅因-奥尼尔更新个人社交媒体Instagram晒出与蒂姆-托马斯合照。（见新文配图）
+   </p>
+   <p>
+    奥尼尔配文道：“在麦当劳全明星赛上的两个年轻的公牛，在我们见面并开始对位的那一天开始我们便成为了兄弟。”
+   </p>
+   <p>
+    前NBA球员蒂姆-托马斯回复道：“爱就是爱（Love is Love）96”
+   </p>
+   <p>
+    杰梅因-奥尼尔是96黄金一代的17号新秀，2002-2007年曾6次入选NBA全明星阵容，还获得过2002年NBA最快进步球员奖。杰梅因-奥尼尔职业生涯常规赛场均上场27.1分钟，得到13.2分7.2篮板1.8盖帽；季后赛他场均上场26.6分钟，得到11.6分6.5篮板1.72盖帽。
+   </p>
+   <p>
+    蒂姆-托马斯是1997年的7号秀，生涯出战824场，场均25.9分钟得到11.5分4.1篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

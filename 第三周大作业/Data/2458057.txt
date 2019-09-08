@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮官方公布参加美国男篮训练营与陪练队名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/usabasketball/status/1154440560951697408" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 01:55:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮官方公布参加美国男篮训练营与陪练队名单" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/fbf728ba40785a0fde81a34f7a7ad42a36634514.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，美国男篮官方公布参加美国男篮训练营名单。
+   </p>
+   <p>
+    美国男篮官方公布确认参加拉斯维加斯美国男篮训练营的球员：哈里森-巴恩斯、安德烈-德拉蒙德、凯尔-库兹马、布鲁克-洛佩兹、凯尔-洛瑞、克里斯-米德尔顿、多诺万-米切尔、杰森-塔特姆、PJ-塔克、迈尔斯-特纳、肯巴-沃克、杰伦-布朗、蒙特雷兹-哈勒尔、梅森-普拉姆利、朱利叶斯-兰德尔、马库斯-斯马特、赛迪斯-杨。
+   </p>
+   <p>
+    同时，社交媒体欢迎13位球员入选美国男篮陪练队。
+   </p>
+   <p>
+    “欢迎13位球员加入2019美国男篮陪练队，@贾勒特-阿伦、@马文-巴格利、@米卡尔-布里奇斯、@杰伦-布伦森、@约翰-科林斯、@帕特-康诺顿、@达龙-福克斯、@乔纳森-艾萨克、@米切尔-罗宾逊、@兰德里-沙梅特、@德里克-怀特、特雷-杨、以及乔-哈里斯。”配文写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,75 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：湖人计划与诺阿、霍华德和斯贝茨进行试训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1163839568044580867" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 23:47:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：湖人计划与诺阿、霍华德和斯贝茨进行试训" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/77ec523426dacb4eb89082a79c8fc535f3afb853.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，本周湖人计划与乔金-诺阿、德怀特-霍华德和马利斯-斯贝茨在拉斯维加斯进行试训。
+   </p>
+   <p>
+    多位消息人士透露，湖人目前也在考虑马尔钦-戈塔特，球队希望了解他的身体状态，以及可能加盟的意向。
+   </p>
+   <p>
+    根据Woj报道，霍华德目前与灰熊仍有合同在身，但灰熊允许霍华德探索在别队效力的可能性，球队也愿意与他进行合同买断事宜的讨论。多位消息人士透露，霍华德不太可能会代表灰熊出战。
+   </p>
+   <p>
+    下赛季灰熊本应付霍华德560万美元作为薪酬，如果灰熊在没有买断霍华德的情况裁掉他，而霍华德又以260万美元的老将底薪签约另一支球队，灰熊将会得到55.9万美元的补偿。
+   </p>
+   <p>
+    诺阿在2018-19赛季效力于灰熊，共上场42次，场均上场16.5分钟，得到7.1分5.7篮板2.1助攻。
+   </p>
+   <p>
+    霍华德在今年夏天被奇才交易至灰熊，但根据此前的报道，灰熊计划将他裁掉，并已经给予湖人许可与他进行沟通。2018-19赛季常规赛，霍华德受困于背部伤势，接受了腰椎手术，共上场9次，场均上场25.6分钟，得到12.8分9.2篮板。
+   </p>
+   <p>
+    斯贝茨在2018-19赛季效力于CBA联赛广州龙狮队，他上一次效力NBA是在2017-18赛季效力于魔术。
+   </p>
+   <p>
+    戈塔特在2018-19赛季曾效力于快船，共上场47次，场均上场16.0分钟，得到5.0分5.6篮板1.4助攻，他在二月份时被快船裁掉。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466700.html">
+     Shams：湖人与霍华德互相有意，球队期待能与其沟通
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466833.html">
+     Shams：灰熊已经给予湖人许可与霍华德沟通
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

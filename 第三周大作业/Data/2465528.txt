@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼最近一直在洛杉矶与篮网的球员们一起训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/nets/news/sources-former-knick-carmelo-anthony-has-been-working-out-with-nets-players/309984912" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 06:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼最近一直在洛杉矶与篮网的球员们一起训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/b5f2925e951196a6633ecb193077f69cd8b27a80.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 根据SNY记者Ian Begley和Anthony Puccio的联合报道，多位消息人士透露，卡梅罗-安东尼最近一直在洛杉矶与篮网的球员们一起训练，参加他们的非正式训练和对抗训练赛。
+   </p>
+   <p>
+    凯里-欧文之前组织了篮网的这次训练，最近篮网球员们都在洛杉矶集训。
+   </p>
+   <p>
+    现在还不清楚安东尼和他的阵营是否与篮网交流过签约的事情，现在也不清楚篮网签约安东尼的兴趣有多少。
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼共上场10次，场均上场29.4分钟得到13.4分5.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特及其经纪人目前为止没有向各支球队给出任何暗示
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1047095/2019/06/26/charanias-inside-pass-rockets-move-forward-top-free-agents-in-decision-mode-plus-more-nba-notes/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 08:00:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特及其经纪人目前为止没有向各支球队给出任何暗示" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/e200875d16331fa7714655f911bee3114793b733.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据the Athletic记者Shams Charania报道，消息人士透露，即将成为自由球员的勇士前锋凯文-杜兰特及其经纪人Rich Kleiman目前为止采取了疏远的方式，他们没有向几支最有意杜兰特的球队尼克斯、篮网、快船和勇士给出任何暗示。
+   </p>
+   <p>
+    消息人士透露，杜兰特与Rich Kleiman目前都在纽约，他们一度讨论了前往洛杉矶展开自由球员会面的可能性，但杜兰特团队预计将留在纽约进行会面。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，消息人士透露，勇士前锋凯文-杜兰特不会执行下赛季的球员选项（3150万美元），他将成为一名完全自由球员。杜兰特的经纪人Rich Kleiman最近通知了勇士总经理鲍勃-迈尔斯这一消息。
+   </p>
+   <p>
+    杜兰特和其经纪人Rich Kleiman目前正在纽约，评估自由市场选项。截至目前，这一过程仍保持着私密状态。
+   </p>
+   <p>
+    杜兰特在考虑多种选项，其中包括重返勇士。消息人士透露，他们相信尼克斯、篮网和快船也在杜兰特的考虑之中。
+   </p>
+   <p>
+    杜兰特在今年总决赛期间遭遇了跟腱断裂，目前仍在养伤之中。2018-19赛季常规赛，杜兰特共出战78场比赛，场均出战34.6分钟，能够得到26分6.4篮板5.9助攻。季后赛共出战12场比赛，场均出战36.8分钟，能够得到32.2分4.9篮板4.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

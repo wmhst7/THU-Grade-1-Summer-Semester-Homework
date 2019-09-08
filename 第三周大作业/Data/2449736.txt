@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波格丹诺维奇曾同意与步行者续约，随后爵士增加筹码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1059676/2019/07/02/kravitz-pacers-didnt-hit-the-jackpot-in-nba-free-agency-but-they-did-just-fine/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:09:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波格丹诺维奇曾同意与步行者续约，随后爵士增加筹码" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/8d3af5f2b2c353965b87ca4684e2bb555f277e62.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据The Athletic记者Bob Kravitz报道，消息人士透露，前锋博扬-波格丹诺维奇在加盟爵士之前，实际上已经同意与步行者达成一份四年合同。
+   </p>
+   <p>
+    这位消息人士表示，步行者为波格丹诺维奇提供的四年合同为部分保障合同，随后爵士增加了筹码，为其提供了一份四年全额保障合同，步行者就此出局。步行者方面认为为波格丹诺维奇提供这样的合同存在风险，特别是考虑到他已经年满30岁。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski此前的相关报道，消息人士透露，前锋博扬-波格丹诺维奇将以4年7300万的合同加盟爵士。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

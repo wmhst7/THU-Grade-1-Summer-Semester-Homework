@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普雷斯蒂谈保罗：他是位经验丰富的组织者和领导者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Jonathan_Feigen/status/1151293579718987776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 11:52:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普雷斯蒂谈保罗：他是位经验丰富的组织者和领导者" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/dda1c5d88b1d1286eb77c649a623707165c047d0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今天雷霆官方宣布，将后卫拉塞尔-威斯布鲁克送至火箭，换来克里斯-保罗、两个首轮签和两个首轮互换权。
+   </p>
+   <p>
+    对于老将克里斯-保罗，雷霆总经理给出了自己的评价：“能得到保罗这样的球员，让我们拥有了一位经验丰富的组织者和领导者，而那些额外的选秀权，可以让我们进一步致力于我们为球队开始的长期计划。”
+   </p>
+   <p>
+    保罗在为火箭效力的两年间，共为火箭打了116场常规赛，场均31.9分钟可以得到17.1分8.0助攻1.8抢断；出场季后赛23场，场均35.2分钟，得到19.4分5.7助攻2.1抢断，在2017-18赛季帮助火箭进入了西部决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

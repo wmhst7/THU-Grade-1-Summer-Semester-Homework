@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：考辛斯一年350万加盟湖人，戴维斯等球员参与招募
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://twitter.com/wojespn" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 02:40:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：考辛斯一年350万加盟湖人，戴维斯等球员参与招募" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/945e216d4da8cb3df649bda30bff4992a28817f3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    根据记者Adrian Wojnarowski的报道，自由球员德马库斯-考辛斯与湖人达成了一年350万美元合同的协议（之前Woj报道为230万美元，现已修正）。
+   </p>
+   <p>
+    消息源透露，热火等一些球队也对考辛斯有兴趣，但是一些湖人球员（包括安东尼-戴维斯）成功说服了考辛斯加盟湖人。
+   </p>
+   <p>
+    消息源透露，戴维斯对考辛斯的招募说辞十分简短扼要：让我们一起赢得一切（Let's win it all）。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯场均出场25.7分钟，能够得到16.3分8.2篮板3.6助攻1.3抢断1.5封盖；季后赛场均出场16.6分钟，能够得到7.6分4.9篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大胜公牛！贾克森-海斯全场砍下28分4篮板3封盖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 12:08:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大胜公牛！贾克森-海斯全场砍下28分4篮板3封盖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/b817b0e20ab2a5c4d459554d97a54dc470d4e2ee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日，拉斯维加斯夏季联赛，鹈鹕夏联队以109-72大胜公牛夏联队。
+   </p>
+   <p>
+    在本场比赛中，鹈鹕新秀贾克森-海斯表现出色，出场21分钟，15投10中，砍下28分4篮板3封盖。
+   </p>
+   <p>
+    贾克森-海斯于今年首轮8号顺位被老鹰选中，随后被交易至鹈鹕。海斯今年只有19岁，来自德克萨斯大学，其身高为2.11米，体重为100公斤，臂展达到了2.22米。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

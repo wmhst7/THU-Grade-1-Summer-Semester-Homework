@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚历山大：加里纳利有出色的技巧，期待与亚当斯的合作
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/08/22/thunder-shai-gilgeous-alexander-russell-westbrook" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 12:12:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚历山大：加里纳利有出色的技巧，期待与亚当斯的合作" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/22ead050807b924b8c8964ae55a9e4848112a1b8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 雷霆新援谢伊-吉尔杰斯-亚历山大今天接受了《体育画报》的采访，谈到了他的队友达尼罗-加里纳利和史蒂文-亚当斯。
+   </p>
+   <p>
+    对于加里纳利，吉尔杰斯-亚历山大说：“他的技巧很出色，很有竞争精神，人也很好。他是在我新秀赛季教导我的老将之一，我很高兴他依然在我身边。”
+   </p>
+   <p>
+    吉尔杰斯-亚历山大还对与史蒂文-亚当斯合作表示期待：“说实话，他是非常恼人的（annoying）。他的掩护很结实——很难挤过他的掩护。和他一起在场会使我下赛季的表现有很大提升。”
+   </p>
+   <p>
+    谢伊-吉尔杰斯-亚历山大和达尼罗-加里纳利是雷霆在保罗-乔治的交易从快船得到的，2018-19赛季常规赛，亚历山大场均出场26.5分钟，得到10.8分2.8篮板3.3助攻1.17抢断。加里纳利场均出场30.3分钟，得到19.8分6.1篮板2.6助攻0.72抢断。亚当斯场均出场33.4分钟，得到13.9分9.5篮板。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

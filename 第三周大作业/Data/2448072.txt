@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德阵营计划与珍妮-巴斯和魔术师约翰逊下周会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BA_Turner/status/1144710536480772096" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 04:56:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德阵营计划与珍妮-巴斯和魔术师约翰逊下周会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/855800a9aafceefe99e83006b2e095b46d48d339.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《洛杉矶时报》记者Brad Turner报道，多位消息人士透露，科怀-伦纳德的阵营计划与湖人总裁珍妮-巴斯和魔术师约翰逊在下周自由球员市场开启后会面，双方很有可能在洛杉矶会面。
+   </p>
+   <p>
+    根据The Athletic记者Sam Amick报道，一位消息人士透露，勒布朗-詹姆斯和安东尼-戴维斯计划参加双方的正式会面。
+   </p>
+   <p>
+    根据此前的报道，伦纳德倾向于在自由市场开始后与湖人和快船会面。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断，季后赛场均上场39.1分钟，得到30.5分9.1篮板3.9助攻1.67抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

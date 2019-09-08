@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  灰熊官方声明：将会在未来退役康利的灰熊11号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/memgrizz/status/1147568081180483584" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 02:48:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="灰熊官方声明：将会在未来退役康利的灰熊11号球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/a5c8d0d26fa86890b2b3e7ab4d3677a5140567cd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今日灰熊发布官方声明，表示将会在未来退役迈克-康利的灰熊11号球衣。
+   </p>
+   <p>
+    灰熊老板Robert J. Pera在声明中表示：“康利是灰熊和孟菲斯的城市象征，他在为灰熊效力的12个赛季里奉献了他的真心。他的天赋、决心和努力使我们的球队成为了季后赛的竞争者，他的体育精神和意志是我们球队精神的重要组成部分。为了表示对他为球队以及社区贡献的尊重，康利会一直是一个孟菲斯人。我们很骄傲康利的11号球衣会有一天飘扬在FedEx球场上空。”
+   </p>
+   <p>
+    康利2007年首轮第4顺位被灰熊选中，之后一直效力到灰熊到2018-19赛季结束，他在今年夏天被交易到了爵士。职业生涯至今，康利共代表灰熊出战788场常规赛，场均32.6分钟可以得到14.9分3.0篮板5.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

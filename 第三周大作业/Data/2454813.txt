@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：爵士与布兰特利和赖特-福尔曼签下双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/jazz/news/jazz-sign-brantley-and-wright-foreman-two-way-contracts" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 07:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：爵士与布兰特利和赖特-福尔曼签下双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/742b58f661b975812a46256f277967cc6ad77f80.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 爵士官方今日宣布，他们已经与今年选秀大会的50号秀贾雷尔-布兰特利和53号秀贾斯廷-赖特-福尔曼签下了双向合同，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得更多的工资，此举的目的是希望他们不要前往海外打球。
+   </p>
+   <p>
+    21岁的贾斯廷-赖特-福尔曼身高1.88米，体重86公斤，来自霍夫斯特拉大学，上赛季场均出战37.7分钟可以拿到27.1分4篮板2.9助攻。
+   </p>
+   <p>
+    23岁的贾雷尔-布兰特利身高2.01米，体重116公斤，来自查尔斯顿学院，上赛季场均出战33.9分钟可以拿到19.4分8.4篮板2.4助攻1.4抢断0.9盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士即将与杰夫-格林、穆迪埃和埃德-戴维斯签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Tjonesonthenba/status/1152259048290443265" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 09:11:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士即将与杰夫-格林、穆迪埃和埃德-戴维斯签约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/cc200bd184f1fe554388c7607683721e10f4b23a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据The Athletic记者Tony Jones的报道，多位联盟消息人士透露，爵士即将签下杰夫-格林、伊曼纽尔-穆迪埃和埃德-戴维斯。
+   </p>
+   <p>
+    根据之前的报道，在签约格林、戴维斯和穆迪埃之前，爵士想重组球队替补席末端的阵容，他们已经签下了奈杰尔-威廉姆斯-戈斯、斯坦顿-基德、威廉-霍华德、贾雷尔-布兰特利、贾斯廷-赖特-福尔曼和米耶-奥尼。
+   </p>
+   <p>
+    格林已经与爵士达成一份一年250万美元底薪协议，2018-19赛季常规赛，格林场均出战27.2分钟，得到12.3分4篮板1.8助攻。
+   </p>
+   <p>
+    穆迪埃已经与爵士达成一份一年协议，2018-19赛季常规赛，穆迪埃场均上场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <p>
+    戴维斯已经与爵士达成2年1000万美元的协议，2018-19赛季常规赛，戴维斯场均上场17.9分钟，得到5.8分8.6篮板0.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

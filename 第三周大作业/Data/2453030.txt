@@ -1,0 +1,83 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  群星荟萃！詹姆斯戴维斯西蒙斯库兹马鲍尔等昨日出席派对
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzy844igMOh/?igshid=13q602w1p0d19" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 09:30:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="群星荟萃！詹姆斯戴维斯西蒙斯库兹马鲍尔等昨日出席派对" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/3a117a6547d7ef63a96f1f50de6c7bfdd2f662e1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 湖人前锋勒布朗-詹姆斯创办的传媒平台Uninterrupted官方今日发布了一组他们昨日于洛杉矶组织的纪念派对活动组图。
+   </p>
+   <p>
+    包括湖人球员詹姆斯、安东尼-戴维斯、凯尔-库兹马，鹈鹕球员朗佐-鲍尔、约什-哈特，76人球员本-西蒙斯，NBA名宿保罗-皮尔斯以及自由球员德怀特-霍华德在内的娱乐体育各界人士出席了这次派对。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/10/0848a1143099b8f94fb5b976ae1082d4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/012f1505054ebf82cd8a1443ba324514.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/12/437d1d47f524f742ca7c4b1b96932010.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/aeaebf3c9968cb22330218bb4387216f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/f79227c8ae9c9827541a7f0d8697cd0a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/49669215fbedf42838d88f27d25bfdb2.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/983e6397c091cbb3fa3a9e872f591040.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/a9c37b3eebb5f5f6fac8ada5df3f1d2b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/5447477afeed8d592a1c35e8db2f7ed7.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/e6da9bf61cb730ca40b75fbf1c74457f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/e0965a907cd8e3b1e0bbf08d8968d9f0.jpg"/>
+   </p>
+   <p>
+    库兹马也通过Instagram发布了他在派对上与两位前队友鲍尔、哈特的合照。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/09/483322de9ab1e1d593a26c34f7ccb54b.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

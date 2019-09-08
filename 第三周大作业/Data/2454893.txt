@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔：希望重拾习惯的打球风格，鹈鹕防守会是顶尖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WillGuillory/status/1151225416796950528" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 11:01:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔：希望重拾习惯的打球风格，鹈鹕防守会是顶尖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/32c3b53cebfcec288d7d7f018a0bc4bbcd3679d8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今天鹈鹕召开新闻发布会，介绍新加入的朗佐-鲍尔、布兰登-英格拉姆、约什-哈特和德里克-费沃斯等人。
+   </p>
+   <p>
+    鲍尔在接受采访时说道：“我会重拾我习惯的打球风格。”，同时鲍尔也对球队新赛季的防守非常有信心：“我觉得我们会是联盟里防守最好的队伍之一。”，布兰登-英格拉姆和约什-哈特都肯定了鲍尔给防守端带来的努力和投入程度。
+   </p>
+   <p>
+    谈到与后场搭档朱-霍乐迪的关系，鲍尔表示自己与他暂时没有很多联系，但他非常熟悉霍乐迪的弟弟阿龙-霍乐迪，鲍尔在UCLA的队友。鲍尔表示自己非常期待与朱-霍乐迪并肩作战，同时也非常尊重霍乐迪一家。
+   </p>
+   <p>
+    英格拉姆和鲍尔都表示他们已经接近能恢复篮球训练，鲍尔表示自己还有一周或两周就能解除限制。
+   </p>
+   <p>
+    英格拉姆谈到了自己对健康的渴望，他说到：“我非常渴望重拾篮球，上一次我打球已经是今年三月份了。”
+   </p>
+   <p>
+    在此前涉及安东尼-戴维斯的交易中，湖人将鲍尔、英格拉姆和哈特打包交易至鹈鹕。
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.9分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断；英格拉姆场均出场33.8分钟，得到18.3分5.1篮板3.0助攻0.54抢断0.60盖帽；哈特场均出场25.6分钟，得到7.8分3.7篮板1.4助攻0.96抢断0.60盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

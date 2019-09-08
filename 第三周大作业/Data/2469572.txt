@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼科勒-梅利：我两年前拒绝了老鹰2年800万美元报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sportando.basketball/en/melli-when-i-got-pelicans-proposal-i-felt-same-vibration-i-had-first-time-i-spoke-with-obradovic/" target="_blank">
+     Sportando
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 07:49:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼科勒-梅利：我两年前拒绝了老鹰2年800万美元报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/a7aa72fb6f63d89a6d6c18dc47b99a3553c99380.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 尼科勒-梅利今夏决定离开欧洲加盟NBA，他与鹈鹕签下了一份2年800万美元的合同。
+   </p>
+   <p>
+    “土耳其联赛6月21日结束了，我在米克诺斯岛与Katrhina待了2天，她现在是我妻子了，这是我今夏唯一的假期，随后我回到意大利然后在蒙扎接受了膝盖手术，然后回家听取来自欧洲球队的所有报价，有米兰的，也有海外的。”梅利说道。
+   </p>
+   <p>
+    梅利接着说：“在6月29日，我在父母家吃晚饭，我很早就睡了，晚上11点，我的经纪人Matteo Comellini给我发了一个信息，上面是鹈鹕的报价，我感觉到了强烈的共鸣，这与我两年前首次与奥布拉多维奇教练（费内巴切主帅）交流时的感受一样，我两年前也收到了来自老鹰的同样报价，但是我决定以更少的钱签约费内巴切，我的选择从不基于钱，今夏同样的事情再次发生了。”
+   </p>
+   <p>
+    梅利目前28岁，身高2.05米，司职大前锋，来自意大利，上赛季效力于费内巴切篮球俱乐部，场均出战25.4分钟可以拿到8.7分4.4篮板1.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

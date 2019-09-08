@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马文-巴格利退出美国国家队，专注于下赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1160672985952542720" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 06:06:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马文-巴格利退出美国国家队，专注于下赛季" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/9e148bdd92a2d74b81cba49bc63c26050de62c29.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 根据NBA记者Marc Stein报道，联盟消息源称，上周由于其出色的表现被提拔入美国国家队初选阵容名单的国王球员马文-巴格利已经退出美国队，专注于下赛季。
+   </p>
+   <p>
+    目前，美国队初选阵容名单里还有两名国王球员，分别是2016年FIBA金牌得主哈里森-巴恩斯和已被提拔入美国队初选阵容名单的达龙-福克斯。
+   </p>
+   <p>
+    据Marc Stein此前报道，赛迪斯-杨和巴姆-阿德巴约将离开美国国家队训练营。
+   </p>
+   <p>
+    在刚刚结束的美国队蓝白对抗赛中，马文-巴格利得到8分。
+   </p>
+   <p>
+    目前美国队初选阵容为：
+   </p>
+   <p>
+    德里克-怀特、达龙-福克斯、哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、PJ-塔克、马库斯-斯马特、杰伦-布朗、乔-哈里斯和梅森-普拉姆利。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

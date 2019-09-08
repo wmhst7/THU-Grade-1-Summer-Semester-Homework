@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波什造访《空中大灌篮2》拍摄现场，詹姆斯晒两人合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/kingjames/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 11:00:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波什造访《空中大灌篮2》拍摄现场，詹姆斯晒两人合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/0d82fd64ad06eb6d31406f3c0389cb2bac492f7e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 湖人前锋勒布朗-詹姆斯今天在个人Instagram story上晒出了一张与前队友克里斯-波什的合影（见新闻配图），地点为《空中大灌篮2》的拍摄现场。
+   </p>
+   <p>
+    “十分感谢我的兄弟@克里斯-波什的造访，爱你，兄弟！和你在一起总是充满欢笑，还有那些美好的回忆。”詹姆斯写道。
+   </p>
+   <p>
+    此外，詹姆斯还分享了一些《空中大灌篮2》的片场动态。“片场生活。#空中大灌篮2 ”詹姆斯写道。
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190702/11/8a9fc6677124a81a0df0a8a15e226650.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/11/39ab5a508d70154e62f2c4462c644582.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/11/1e76e9b908ceac5d6bee2411f1c19029.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

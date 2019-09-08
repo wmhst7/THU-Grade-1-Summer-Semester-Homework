@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：普罗霍罗夫将篮网股份以及巴克莱中心出售给蔡崇信
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/2019/08/16/mikhail-prokhorov-sell-full-ownership-barclays-center-and-controlling-interest-brooklyn-nets" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 23:21:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：普罗霍罗夫将篮网股份以及巴克莱中心出售给蔡崇信" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/c6530719919327a98d43ce9dd3c18016ed69180e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 布鲁克林篮网队官方今日宣布，球队前老板米哈伊尔-普罗霍罗夫已经与蔡崇信达成了一份出售巴克莱中心所有权以及篮网剩余51%股份的协议。
+   </p>
+   <p>
+    2018年，蔡崇信以10亿美元的价格买下了篮网49%的股权，协议中带有蔡崇信在2021-22赛季前以13.5亿美元收购篮网剩余股权的选项。23.5亿美元的价格也刷新了体育球队出售价格的新纪录，蒂尔曼-费尔蒂塔曾在2017年花费22亿美元买下了火箭。
+   </p>
+   <p>
+    根据今年3月的报道，蔡崇信已经在商讨从普罗霍罗夫手中收购巴克莱中心（篮网主场）和拿骚体育馆（长岛篮网队主场）的事情。
+   </p>
+   <p>
+    那次谈判为蔡崇信成为篮网的新老板铺平道路，因为NBA喜欢球队老板是他们主场球馆的老板，所以这是蔡崇信买下巴克莱中心的原因。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

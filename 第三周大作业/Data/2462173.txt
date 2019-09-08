@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕特森回应自己倾向加盟快船的报道：这是谣传
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tarullotweets/status/1158517393536311298" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 11:05:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕特森回应自己倾向加盟快船的报道：这是谣传" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/cd27d5a64adbcc2cfbb0b5dd482d27f1a2af64c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 帕特里克-帕特森近日在亨廷顿举办了个人训练营，训练营期间他接受了记者Anna Maria Tarullo的采访。
+   </p>
+   <p>
+    帕特森此前已经与雷霆完成买断，在澄清期结束后他将成为一名完全自由球员。而根据NBA记者Adrian Wojnarowski此前的报道，帕特森在澄清期结束后倾向于加盟快船。
+   </p>
+   <p>
+    在谈到自己倾向加盟快船的报道时，帕特森说道：“这是谣传。”
+   </p>
+   <p>
+    帕特森职业生涯至今效力雷霆2个赛季，共为雷霆出战145场常规赛，场均出场14.7分钟，得到3.8分2.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

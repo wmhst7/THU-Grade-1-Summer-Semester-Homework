@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭为了得到巴特勒努力安排交易，预计不会放弃塔克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Confident-Rockets-lining-up-deals-to-land-Jimmy-14057177.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 07:41:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭为了得到巴特勒努力安排交易，预计不会放弃塔克" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/d0b28017c645c4c69cad93727efdbfd359eef7d2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据《休斯顿纪事报》记者Jonathan Feigen的报道，随着得到吉米-巴特勒的信心在增长，火箭今日准备在招募巴特勒时告知巴特勒他们已经谈好了需要的交易，如果巴特勒想加盟，他们可以完成这样的操作。
+   </p>
+   <p>
+    一位了解火箭想法的消息人士透露，火箭预计会有机会得到巴特勒，火箭已经提升了他们的努力程度来安排需要的交易，如果巴特勒选择火箭，火箭可以给巴特勒提供先签后换的选择。
+   </p>
+   <p>
+    消息人士透露，火箭对于他们得到巴特勒的机会感到不错，但是现在还太早无法得知巴特勒的感觉，巴特勒和他的经纪人Bernie Lee本周已经从巴西回到了美国准备自由球员市场开启后的会面。
+   </p>
+   <p>
+    为了得到巴特勒，火箭很可能不得不放弃克林特-卡佩拉和埃里克-戈登，预计PJ-塔克不会被火箭交易。
+   </p>
+   <p>
+    火箭之前希望能像得到克里斯-保罗（先执行球员选项）那样得到巴特勒，但是一位了解巴特勒想法的消息人士透露，巴特勒不会执行球员选项，他将在今夏成为一名完全自由球员。
+   </p>
+   <p>
+    两位了解他们想法的消息人士透露，巴特勒和詹姆斯-哈登关系特别紧密。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

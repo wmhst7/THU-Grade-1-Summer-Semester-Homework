@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  成功入选！篮网官方晒出乔-哈里斯身穿国家队球衣照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1mNPBshLXb/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 04:50:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="成功入选！篮网官方晒出乔-哈里斯身穿国家队球衣照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/b365b8b4bc18bfe04ecade59030df02afdbe431e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今日，篮网官方更新了自己的社交媒体Instagram，晒出了球员乔-哈里斯身穿国家队队服的照片。（见新闻配图）
+   </p>
+   <p>
+    美国国家队世界杯12人大名单已在昨日公布，库兹马因伤缺席本次世界杯。
+   </p>
+   <p>
+    2018-19赛季常规赛，乔-哈里斯场均出场30.2分钟，得到13.7分3.8篮板2.4助攻。
+   </p>
+   <p>
+    美国男篮被分在E组，小组赛将在上海进行，美国队将在9月1日对阵捷克，9月3日对阵土耳其，9月5日对阵日本。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2468758&amp;type=1">
+     库兹马因脚踝伤势缺席世界杯，美国队12人大名单确定
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/04/74b7509b840c6119a71c380d9c344821.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/04/bc33979f2bf5b6d54430982f5ab738ee.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/04/844c694d201a7f11e9508b4f057ac0ac.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/04/355495c21f073245122510143e953ac1.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/04/87b85ac0aa3cfcc2a0dc02573d0e42be.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

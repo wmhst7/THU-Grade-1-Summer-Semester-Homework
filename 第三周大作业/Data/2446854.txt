@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡罗尔：成为自由球员会非常有趣，拉塞尔配得上顶薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1042957/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 15:51:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡罗尔：成为自由球员会非常有趣，拉塞尔配得上顶薪" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/b802c64fd143c50e33380b94a86cb92e8fd390c6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 篮网球员德马雷-卡罗尔在近日接受了The Athletic记者Michael Scotto采访，他谈到即将到来的自由球员市场和近期的交易传闻。
+   </p>
+   <p>
+    卡罗尔的合同将于今年夏天到期，谈到成为自由球员的心态，卡罗尔说：“我认为最重要的事情是努力去享受它，这或许会是我职业生涯最后一次获得大合同的机会，所以我必须努力享受这个过程，我也会让我的妻子享受同样的乐趣，因为上一次我成为自由球员时，她没有机会经历这些。她可能会为我做出选择，所以未来将会发生什么，这会非常有趣，我对于成为自由球员感到非常兴奋。总而言之，我只是在寻求稳定性，我希望我们的家人能够开心。就像我刚才所说的那样，这可能会是我的最后一份大合同，所以我必须确保我能够在这份合同中得到足够的薪水。未来将会发生什么，我们拭目以待吧。”
+   </p>
+   <p>
+    如何看待球队与凯里-欧文、凯文-杜兰特的交易流言，卡罗尔说：“我认为这座城市配得上这一切，他们配得上拥有一名超级球星，或许不止一位。我一直是一名现实主义者，我知道NBA的本质是一门生意。球队为了这一刻的到来等待了很久，他们始终想要为球队引进一些超级球星，帮助布鲁克林篮网队更进一步。”
+   </p>
+   <p>
+    谈到队友丹吉洛-拉塞尔今年夏天的去向，卡罗尔说：“我不会预测，我们拭目以待吧。总之不是这里，就是其它地方。我认为他配得上顶薪，他配得上一份顶薪来照顾自己的家人，来享受自己的人生。无论他去哪里，我都希望他能够享受当下。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

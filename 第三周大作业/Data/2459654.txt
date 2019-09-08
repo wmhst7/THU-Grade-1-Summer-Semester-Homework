@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔-罗宾逊：努力在休赛期打磨跳投、持球和罚球技术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1085008/2019/07/29/what-kevin-knox-allonzo-trier-mitchell-robinson-and-the-knicks-young-players-are-working-on-for-next-season/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:14:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔-罗宾逊：努力在休赛期打磨跳投、持球和罚球技术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/d09735572f80b110df5357e85ae03d449e29e729.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 尼克斯球员米切尔-罗宾逊在近日接受The Athletic记者Mike Vorkunov采访时谈到了休赛期的训练规划。
+   </p>
+   <p>
+    罗宾逊上赛季证明了自己在篮筐附近的威慑力，场均2.4封盖排名联盟第二，内线命中率69.8%也达到了精英级别。罗宾逊90%的投篮得分来自于禁区，他的中远距离投篮能力仍需挖掘。
+   </p>
+   <p>
+    罗宾逊表示自己想要投篮，也有能力命中。夏季联赛期间，罗宾逊一度想要尝试三分球，但最终没有选择出手，他说自己是出于谨慎。
+   </p>
+   <p>
+    “我把它（三分球）放在我的武器库里，”罗宾逊说道，“我不想总是把它拿出来。”
+   </p>
+   <p>
+    罗宾逊表示他曾与尼克斯助理教练进行8到10英尺的跳投训练，并且打磨自己的持球技术和罚球。
+   </p>
+   <p>
+    “下赛季我会出手三分球，”罗宾逊说道，“我有能力命中，我在高中时期经常投三分，尽管那个时候的三分线不像现在这么远。我会继续努力提升自己的三分球能力。”
+   </p>
+   <p>
+    2018-19赛季常规赛，罗宾逊场均出场20.6分钟，能够得到7.3分6.4篮板2.4封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

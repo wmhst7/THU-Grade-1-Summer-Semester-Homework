@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  镜头感十足！詹姆斯躺在健身垫上录制自嗨片段
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2114704772790592150?utm_source=ig_story_item_share&amp;igshid=1lfhanusm27fv" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 23:28:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="镜头感十足！詹姆斯躺在健身垫上录制自嗨片段" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/c18ec4a4405c8d02fa10aee964d9dffcde1fd659.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 湖人前锋勒布朗-詹姆斯今日更新Instagram Story晒出自己在训练结束后的自嗨动态。
+   </p>
+   <p>
+    在这些视频片段中，结束训练后的詹姆斯躺在健身垫上放松身心，跟随音乐节奏摇头晃脑，眨眼挥拳，显得心情不错。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4407504035057249">
+     视频：詹姆斯今日训练后自嗨集锦
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/44a106cd22c5ffed80dc3288c2c6d1df.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/8d2f498495f1d47acf78ff0844c7976e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/1c65f03ad416ae4dcfdbca65faaaf0e0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/9704529c32179e7ca1732d35677a1268.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：阿米奴3年2900万加盟魔术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145456765531820032" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 06:21:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：阿米奴3年2900万加盟魔术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/f294490dfb1bc46bb0dc0ae004210bb96e1d582d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，前锋艾尔-法鲁克-阿米奴将以3年2900万的合同加盟魔术。
+   </p>
+   <p>
+    2018-19赛季常规赛，阿米奴共出战了81场比赛，场均上场28.3分钟得到9.4分7.5个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

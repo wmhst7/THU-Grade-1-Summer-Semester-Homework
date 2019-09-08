@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德安德烈-艾顿与克劳福德合影：珍贵的经历
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CONZmHOp3/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 03:19:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德安德烈-艾顿与克劳福德合影：珍贵的经历" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/4731ffe84bb1b86637576c83f00936fee29ff9df.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 太阳中锋德安德烈-艾顿今天在Instagram上传了自己和自由球员贾马尔-克劳福德的合影。
+   </p>
+   <p>
+    艾顿写道：“珍贵的经历。（双手合十的表情）”
+   </p>
+   <p>
+    克劳福德转发了艾顿的动态，并写道：“年轻的国王！”
+   </p>
+   <p>
+    2018-19赛季常规赛，克劳福德为太阳出战64场常规赛，场均出场18.9分钟，可以得到7.9分1.3篮板3.6助攻。
+   </p>
+   <p>
+    艾顿在2018年选秀大会上被太阳在首轮第1顺位选中，2018-19赛季常规赛，他场均出场30.7分钟，得到16.3分10.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

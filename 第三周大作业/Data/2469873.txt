@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人就考辛斯死亡威胁事件声明：认真对待并在收集信息
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NotoriousOHM/status/1166421023895511045" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 03:05:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人就考辛斯死亡威胁事件声明：认真对待并在收集信息" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/5dfea866a5cc7c9c24c2a9eb5da801266815ccb2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，湖人官方就德马库斯-考辛斯对前女友Christy West发出死亡威胁的事情作出回应。
+   </p>
+   <p>
+    根据Shams Charania报道，NBA官方发言人迈克-巴斯声明道：“我们已经注意到关于考辛斯的报道，并且在调查相关指控。”
+   </p>
+   <p>
+    湖人官方发布声明称：“我们已知晓对考辛斯的指控，我们会严肃对待此事，在认真收集信息，并且这次将不会给出进一步的评论。”
+   </p>
+   <p>
+    根据此前报道，
+    <a href="http://lite.hupu.com/s?u=nba/news/2469800&amp;type=1&amp;entrance=26">
+     因对前女友发出死亡威胁，考辛斯被对方报案并起诉。
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿里纳斯：90年代的球员总是希望用犯规来防守对手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/gswchris/status/1144010481167790080/video/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 12:39:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿里纳斯：90年代的球员总是希望用犯规来防守对手" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/571fa4866b6fb4556c59b37141f4a6ac22b32f90.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 前NBA球员吉尔伯特-阿里纳斯在今日参加一档播客节目时谈到了当今NBA和上世纪90年代的对比。
+   </p>
+   <p>
+    “当你和那些经历过90年代的人交谈，他们总是会说90年代是最棒的时代，那个时候的音乐是最棒的，迈克尔-杰克逊，Prince，在他们口中，90年代的所有事物都是最棒的。”阿里纳斯说道。
+   </p>
+   <p>
+    “那个时代的球员总是会吹嘘自己的防守强度，我认为他们根本没有，他们根本无法限制住对手，他们无法防住迈克尔-乔丹，他们的想法是，‘你比我出色得多，我防不住你，那我就犯规好了。’这可不是出色的防守，我感觉你从沙滩上拉一个人也能做这件事，邮递员也能做这件事情。”阿里纳斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

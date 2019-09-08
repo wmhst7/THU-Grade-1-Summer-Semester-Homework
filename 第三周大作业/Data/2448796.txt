@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：德安德烈-乔丹将加盟篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145435852476243968" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 04:57:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：德安德烈-乔丹将加盟篮网" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/eb1115b1b6980057be039257dddd941074ef2d60.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，德安德烈-乔丹将与篮网签订一份4年4000万美元的全额保障合同。此前由于凯文-杜兰特和凯里-欧文同意降薪加盟篮网，因此篮网有足够的薪资空间签下德安德烈-乔丹。
+   </p>
+   <p>
+    2018-19赛季常规赛，德安德烈-乔丹场均上场29.7分钟，得到11.0分13.1篮板2.3助攻1.06盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

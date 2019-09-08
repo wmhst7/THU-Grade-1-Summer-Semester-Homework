@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里打趣Uber评分4.8星：会找到拉低我评分的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sfgate.com/warriors/article/uber-rating-warriors-sf-stephen-curry-14119521.php" target="_blank">
+     旧金山纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 03:33:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里打趣Uber评分4.8星：会找到拉低我评分的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/06b0502f03188fd3c22662e258dae0453aa902b1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 近日，库里接受了House of Highlights的一次名为“21 Questions”的采访，采访中，他被问及了自己在叫车软件Uber上的评分。
+   </p>
+   <p>
+    库里说：“我的评分是4.8星（满分为5星），我不知道谁给了我四星，但我会找到那些人的。”
+   </p>
+   <p>
+    库里还说，他在叫车时会用假名，出人意料地，这种方法对他来说还算有效：“我会用假名叫车，大概半数的时候他们会在路上发现我的身份。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库里场均出场33.8分钟，得到27.3分5.3篮板5.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

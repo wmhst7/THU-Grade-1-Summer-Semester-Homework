@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯相信他们非常可能签下莫里斯并与布洛克达成新合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/sources-knicks-view-landing-free-agents-marcus-morris-and-reggie-bullock-as-likely/308961936" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 06:55:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯相信他们非常可能签下莫里斯并与布洛克达成新合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/11b15255317558676f1333548c019cc9f2eaa16d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 根据SNY记者Ian Begley的报道，多位消息人士透露，在当地时间周四下午的时候，尼克斯相信签下马库斯-莫里斯并且与雷吉-布洛克重新商讨一份新合同是一个非常可能发生的情况。
+   </p>
+   <p>
+    多位消息人士透露，在布洛克出现了一项医学问题后，尼克斯和布洛克仍然都有兴趣重新商讨一份新的合同，布洛克的经纪人David Bauman和尼克斯仍然在继续商讨一份新合同，目前并不清楚这项医学问题是什么。
+   </p>
+   <p>
+    一位消息人士透露，尼克斯一直都对莫里斯感兴趣，如果莫里斯不再打算与马刺签约的话，尼克斯对莫里斯会非常感兴趣。
+   </p>
+   <p>
+    根据之前的报道，此前和马刺达成2年2000万美元口头加盟协议的莫里斯正在重新考虑协议。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

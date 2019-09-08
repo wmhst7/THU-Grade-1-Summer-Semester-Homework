@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  休斯顿市长：哈登在场上和社区里都是MVP
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1165369359558164480" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 07:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="休斯顿市长：哈登在场上和社区里都是MVP" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/8c3d7b1b5a44e947a0dab8f3b183347b10989ab6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 火箭的詹姆斯-哈登举办了“詹姆斯-哈登休城周末”活动，期间休斯顿市长Sylvester Turner接受了采访。
+   </p>
+   <p>
+    Turner宣布，他们将翻新休斯顿的一些篮球场，费用全部由哈登的3 The Harden Way基金会承担。
+   </p>
+   <p>
+    “我很感激，我们能拥有场上的MVP，我们还有社区里的MVP，詹姆斯-哈登在场上和社区里都是MVP，我个人想感激他的贡献。”Turner说道。
+   </p>
+   <p>
+    Turner接着说：“我想让哈登知道，他热爱这座城市，这座城市也爱他，社区里的这些孩子们和他们的家人们感激他们得到的关怀，他们感觉自己没有被遗忘。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

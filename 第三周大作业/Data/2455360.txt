@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥尼尔做客脱口秀节目：我是一名湖人，终生紫金
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.thescore.com/news/1799127" target="_blank">
+     The Score
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 10:06:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥尼尔做客脱口秀节目：我是一名湖人，终生紫金" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/6a60c54282dc20c867e4358753c0149d729f9dc5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 当地时间本周二的晚上，前NBA球员沙奎尔-奥尼尔参加了Jimmy Kimmel脱口秀。
+   </p>
+   <p>
+    在节目上，当谈到是否想要为如今的湖人与快船打球时，奥尼尔说道：“这两支队伍一个也不想，我来自那样一个时代，在那个时代球员们更想要互相竞争并且想要打败彼此。因此我打算等等看，看看哪支队伍正在组建超级队伍，而我则会去一支需要我的队伍，然后我会教我的队友们如何打败这些超级队伍。”
+   </p>
+   <p>
+    在被问到湖人与快船哪支队伍下赛季会更出色时，奥尼尔说道：“听着，我支持湖人。虽然洛杉矶一直是一座让人兴奋的城市，但下赛季这座城市的篮球会让人变得极度兴奋，非常非常的让人兴奋。但是，我是一名湖人，终生紫金。”
+   </p>
+   <p>
+    奥尼尔职业生涯常规赛共效力湖人8个赛季，场均出场37.6分钟，得到27.0分11.8篮板3.1助攻2.5盖帽，并带领湖人在2000-2002年间连续3年获得总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

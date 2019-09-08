@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  笑逐颜开！NBA官方晒出美国男篮训练营首日全队笑脸照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0zDOhWAHpg/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 16:06:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="笑逐颜开！NBA官方晒出美国男篮训练营首日全队笑脸照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/55175720b0957d560c463c3d305269a2387d4de7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 NBA官方Instagram今日发布一组美国男篮训练营首日的队内成员笑脸照。
+   </p>
+   <p>
+    “美国男篮拉斯维加斯训练营首日的一些面庞！”NBA官方写道。
+   </p>
+   <p>
+    出现在这组照片中的成员包括凯尔特人球员肯巴-沃克和马库斯-斯马特、雄鹿球员克里斯-米德尔顿和布鲁克-洛佩斯、国王球员达龙-福克斯、爵士球员多诺万-米切尔、火箭球员PJ-塔克、公牛球员赛迪斯-杨、步行者球员迈尔斯-特纳以及马刺主帅格雷格-波波维奇。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/b56234a253d199da1e922255a2e8098c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/0ac3210bc04156bb387a07f00952839a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/9102d8afe18cb89f18e8b74572326b1e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/66d9ea9f97e6c952e46750d5a3d70c78.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/79ab3b631d33f4ead54d36722f319814.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/ad2249a5fe78e95800072fe1684ead9f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/65c4055502b1abdef384671c08a009e2.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/9ef2745c6c708461208c04e91fcbf648.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/16/8656a18a72083f096a07f7903df3c227.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

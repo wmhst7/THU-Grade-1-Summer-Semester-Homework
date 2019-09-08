@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA 2K20辉煌生涯模式电影公布，名为《光芒万丈时》
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 00:08:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA 2K20辉煌生涯模式电影公布，名为《光芒万丈时》" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/88bbce79a1c997fd9e6190d8c13d012495403591.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 今天，2K官方公布了NBA 2K20的辉煌生涯模式电影——《光芒万丈时》。
+   </p>
+   <p>
+    “《光芒万丈时》讲述了现代球员的故事。” SpringHill娱乐公司和数字媒体公司Uninterrupted的首席执行官Maverick Carter说，“从处理名气带来的压力，球场内外的需求以及外界的影响来看，球员面临着巨大的障碍。 SpringHill娱利用与詹姆斯和其他运动员合作的的经验创造了一个真实且值得略微窥探的故事。 NBA 2K20的粉丝们会对我们在这部电影中达到的细节水准感到惊讶。“
+   </p>
+   <p>
+    SpringHill 娱乐公司这次专注于深入研究主角的个人故事，因此，今年辉煌生涯模式的玩家将体验更真实、更感性的故事。玩家可在2019年9月6日全球发布的NBA 2K20中，亲身体验完整版的辉煌模式电影《光芒万丈时》
+   </p>
+   <p>
+    今年的剧情，是一个名叫Che的未来NBA球员，渴望在球场内外寻求机遇的故事。内容关于导师的重要性、如何处理场外压力以及当前的社交问题。在此次游戏设置中，成为明星的道路牢牢掌握在游戏玩家手中。
+   </p>
+   <p>
+    这部电影的演员阵容众星云集，包括伊德瑞斯-艾尔巴、罗莎里奥-道森，以及从过去到现在的NBA全明星真容。
+    <br/>
+    <br/>
+    “整部电影完全利用游戏场景制作，这在之前是为所未闻的，”NBA 2K全球营销副总裁Alfie Brody说。 “我们决定与SpringHill娱乐公司合作合作，是因为作为由运动员主导的制作公司，他们真实地了解篮球文化，同时也有能力创造完全独特的电影体验，这种独特性，也是我们对未来游戏的一种展望。在电影和游戏中皆体现了“下一程”的概念，便是我们在今年的辉煌生涯模式中所取得的成就。”
+   </p>
+   <p>
+    <a href="http://t.cn/AiQbZ4JJ?m=4407153706172334&amp;u=6553536243">
+     视频：NBA 2K20辉煌生涯模式电影公布，名为《光芒万丈时》（2分9秒）&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

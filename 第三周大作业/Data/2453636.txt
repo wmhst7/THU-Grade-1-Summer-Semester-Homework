@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火官方：巴特勒新赛季将身披22号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MiamiHEAT/status/1150063027322019840" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 23:54:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火官方：巴特勒新赛季将身披22号球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/9d7a07f209d7899581a446a29ef024e560181ce9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 今日，热火官方推特更新，宣布球队新援吉米-巴特勒新赛季将身披22号球衣为热火出战。
+   </p>
+   <p>
+    热火官推晒出已退役球员德维恩-韦德与巴特勒上赛季交换球衣的视频（视频最后巴特勒的蓝色76人23号球衣被后期修改成黑色热火22号球衣），并配文：“3号与22号的交换。尽力帮@韦德扩大收集，热火现在拥有巴特勒的22号球衣了。”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2451025&amp;type=1&amp;entrance=26">
+     官方：巴特勒先签后换加盟热火，怀特塞德加盟开拓者
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2451471&amp;type=1&amp;entrance=26">
+     巴特勒：热火的球队文化很适合我，韦德地位无可取代
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

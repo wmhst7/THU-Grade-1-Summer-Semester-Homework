@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯：哈登威少的组合会成功，威少已证明自己能打无球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1154457626052182021" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 08:32:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯：哈登威少的组合会成功，威少已证明自己能打无球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/f20ae230852a656bcf003f0433366c732baa133c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 肯德里克-帕金斯接受采访时谈到了拉塞尔-威斯布鲁克加盟火箭的事情。
+   </p>
+   <p>
+    “我认为这会完美地成功，我认为他们会成功，如果你研究一下的话，火箭有2个前MVP，他们在巅峰期联手，他们从童年开始就是朋友，他们之前在雷霆一起效力多个赛季。”帕金斯说道。
+   </p>
+   <p>
+    帕金斯接着说：“人们说他们不知道威少能否打无球，他可以，他已经证明了这一点，上赛季的时候，他在雷霆就让乔治主打，乔治是上赛季很有可能当选MVP的球员之一，威少让乔治主打，如果你看看在美国男篮的时候，看看威少为老K教练打球的时候，他们让威少打得分后卫，威少很适合那样的角色，我认为他与哈登的组合很可能是NBA历史上最有活力的后场组合，看他们打球会很有意思。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

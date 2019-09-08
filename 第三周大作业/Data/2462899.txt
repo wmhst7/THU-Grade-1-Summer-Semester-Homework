@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兄弟情深！盖伊晒照，祝队友德罗赞生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B04NZlYlPEr/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 09:49:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兄弟情深！盖伊晒照，祝队友德罗赞生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/5412a3ca961a457666acec6f34c5266e11f86727.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，马刺球员鲁迪-盖伊更新社交媒体Instagram，晒照祝队友德马尔-德罗赞生日快乐（见新闻配图）。
+   </p>
+   <p>
+    “什么都不用解释了，生日快乐兄弟！”他写道。
+   </p>
+   <p>
+    马刺球员德马尔-德罗赞出生于1989年8月7日，美国时间的今天是德罗赞的30岁生日。
+   </p>
+   <p>
+    2018-19赛季常规赛，盖伊场均上场26.7分钟，得到13.7分6.8篮板2.6助攻；德罗赞场均出场34.9分钟，得到21.2分6.0篮板6.2助攻1.12抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/09/c1fe3c5548ad94d0afa2b247faee0298.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

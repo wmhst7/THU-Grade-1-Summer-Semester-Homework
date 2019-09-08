@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兄弟重逢！詹姆斯发布训练视频：保罗来陪我训练了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2105952987406013466?utm_source=ig_story_item_share&amp;igshid=yvsq88ovcmfy" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 21:28:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兄弟重逢！詹姆斯发布训练视频：保罗来陪我训练了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/7b88f3952419e7e8112cdada6d81fc339c5b69a3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新了自己和雷霆后卫克里斯-保罗的训练动态。
+   </p>
+   <p>
+    “我兄弟@克里斯-保罗 今天来陪我训练了！第一天总是最关键的！喜欢我们相聚的时刻。”詹姆斯配文道。在视频中，保罗正在詹姆斯私人训练师的指导下进行核心力量训练。
+   </p>
+   <p>
+    目前詹姆斯正在拍摄电影《空中大灌篮2》，他会在电影片场内设置的临时健身房和球场内完成每日训练任务。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/21/edcb6aaf97314b25a8656bd510ff3860.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/21/4b4e6591d12081084b8d34c70ee4ba94.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/21/4bac61816ae2fcc77020f5410523afee.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德：过去几个赛季里，快船一直是更好的洛杉矶球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FoxSportsWest/status/1154118295890456576" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 05:52:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德：过去几个赛季里，快船一直是更好的洛杉矶球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/9cf099dedfcee7599f8c048631a6e5c9a3e8503e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日快船为保罗-乔治和科怀-伦纳德举办了介绍新援的新闻发布会。
+   </p>
+   <p>
+    在谈到在自由球员市场开启时一直保持低调时，伦纳德说道：“因为如今许多网站和博客的出现，NBA很多事情都能被大众所知和被编造谣传，很多人会议论，‘伦纳德在做什么。’对我来说，拥有互相坦诚的信任是很重要的，这将会建立起我们之间很棒的关系。快船管理层遵守了诺言，没有走漏风声。正如我所说的，他们有我想要的教练，有想要赢球的老板，有非常出色的管理层，所以加盟快船是个不错的决定。”
+   </p>
+   <p>
+    在谈到带领快船摆脱湖人在洛杉矶的影响时，伦纳德说道：“从过去几个赛季来看，仅从篮球的角度上来看，快船一直是更好的球队。如果我们赢得了总冠军，但没有媒体报道，我没有意见。”
+   </p>
+   <p>
+    在谈到自己的健康状态时，伦纳德说道：“新赛季我将会完全恢复，目前我的伤势严重程度只是每日观察。目前的目标是出战新赛季。”
+   </p>
+   <p line="8WR5">
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

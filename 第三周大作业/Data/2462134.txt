@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爱德华兹：很期待在凯尔特人开启我的职业生涯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/celtics-rookie-carsen-edwards-explains-why-boston-one-best-organizations-start" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 09:31:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爱德华兹：很期待在凯尔特人开启我的职业生涯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/50d31c7ecf49ba0ac38a42a08e12c68e4134fc30.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 凯尔特人新秀卡森-爱德华兹前不久接受了记者Corey Porter的采访，他谈到了刚进入联盟加入凯尔特人的心情。
+   </p>
+   <p>
+    “从团队方面出发，我认为凯尔特人是最好的开启职业生涯的球队之一，”爱德华兹说道，“他们有赢球的心态……这里所有的技术能力……这座城市、这里的体育运动基础，包括波士顿的球迷基础等等。我认为这对我来说是一个特别好的开端，所有我要努力在这里赢得一席之地，并继续留下来。”
+   </p>
+   <p>
+    今年夏天凯尔特人还签下了另一位全明星后卫肯巴-沃克，爱德华兹表示，他可以从沃克身上学到很多。
+   </p>
+   <p>
+    “这是最疯狂的地方，过去我就研究和学习过很多他的比赛，现在能在他身边打球了，对我来说还有点不真实……我希望自己能从他身上学到更多东西。”爱德华兹如此说道。
+   </p>
+   <p>
+    爱德华兹在今夏次轮共第33顺位被凯尔特人选中，目前他已经与绿衫军签下了一份四年合同。
+   </p>
+   <p>
+    拉斯维加斯夏季联赛中，卡森-爱德华兹出场了5场比赛，场均得到19.4分3.8篮板，投篮命中率48%，三分命中率接近47%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

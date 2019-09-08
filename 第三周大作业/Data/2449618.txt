@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多里安-芬尼-史密斯与独行侠达成3年1200万续约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1146107280666038272" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 01:30:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多里安-芬尼-史密斯与独行侠达成3年1200万续约协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/4ca9349771f074ab68372164f28a489277623a07.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据NBA记者Shams Charania报道，消息人士透露，多里安-芬尼-史密斯与独行侠达成3年1200万美元续约协议。
+   </p>
+   <p>
+    在与多里安-芬尼-史密斯达成3年续约协议后，目前独行侠阵中有7人的合同在3年或3年以上。独行侠目前仍有薪资空间可以追求自由球员丹尼-格林。
+   </p>
+   <p>
+    多里安-芬尼-史密斯在2016年进入联盟，生涯前三个赛季都在独行侠效力。上赛季常规赛，他出战81场，场均出场24.5分钟，得到7.5分4.8篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科兰杰洛：澳大利亚男篮非常出色，我们还有很长的路要走
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1154800/2019/08/24/usa-basketball-loses-exhibition-game-to-australia-fiba-world-cup/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 14:17:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科兰杰洛：澳大利亚男篮非常出色，我们还有很长的路要走" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/77f7255ec702deaa76ca3a4c9c6e7e284ad3f020.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 在昨日结束的一场热身赛中，美国男篮以94-98不敌澳大利亚男篮，国际赛场78连胜遭到终结。美国男篮总经理杰里-科兰杰洛在球队输球后接受了媒体采访。
+   </p>
+   <p>
+    “我们想要称赞对手的表现，他们配得上赞扬，我们对阵的是一支非常优秀的澳大利亚队，”科兰杰洛说道，“他们彼此非常了解，他们中的很多人已经并肩作战很长时间了，他们是一个非常非常出色的对手。我们尽可能地在热身赛阶段安排与一些出色的球队对阵，西班牙、澳大利亚、加拿大，当世界杯拉开帷幕时，我们认为这些球队将会是实力非常强劲的球队。”
+   </p>
+   <p>
+    谈到球队的失利，科兰杰洛说：“一路以来发生了很多事情，我们必须面对现实。好消息是这并不是世界杯的比赛，但我们对待它的态度比一场普通的热身赛要严肃得多。生活中不可能没有失败，你会尽可能地将失利的影响降到最低。就目前为止，我们做得不错。”
+   </p>
+   <p>
+    谈到外界对于这支美国男篮的担忧，科兰杰洛说：“继续努力工作，继续激励他们，这支球队相处的时间越长，他们也就会越出色。在我看来，篮球是所有运动中的终极团队运动，比赛不是一个人或两个人的，当你看到澳大利亚男篮的执行力时，情况不言而喻。球员们需要相互之间感觉很舒适，我们还没有走到那一步，我们还有很长的路要走。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

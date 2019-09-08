@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网球员表示对杜兰特的即将到来感到很兴奋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/04/one-net-cant-hold-back-kevin-durant-joy-kd-is-my-favorite-player/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 11:33:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网球员表示对杜兰特的即将到来感到很兴奋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/faae5432395af2996da511637d7525daf2c0629d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 2019-2020赛季
+    <a href="https://voice.hupu.com/nba/2448684.html">
+     NBA自由市场
+    </a>
+    于7月1日开启，球员可自由与球队会面展开谈判并达成口头协议，但正式签约须要等到“七月冻结期”结束后，今年的七月冻结期为7月1日至7月6日。
+   </p>
+   <p>
+    据此前报道，
+    <a href="https://voice.hupu.com/nba/2448794.html">
+     杜兰特和篮网达成4年1.64亿美元的口头协议
+    </a>
+    ，正式签约要等到7月6日之后。篮网球员罗季翁斯-库鲁茨和贾勒特-阿伦在接受采访时谈到此处。
+   </p>
+   <p>
+    库鲁茨：“KD是我最爱的球员，你想知道我感觉如何？我当然很兴奋了，这感觉太好了，他是我的队友，我可以从他身上学到很多很多东西。凯里（欧文）也是个很优秀的人，能在这些人身边打球真的很棒，他们都是优秀的球员，他们会教给我很多东西，我对下赛季真的很兴奋。”
+   </p>
+   <p>
+    阿伦：“我告诉所有人这很疯狂，我们听到的所有声音都在说，这是一个新的布鲁克林。以前发生的事情没有改变，我知道我们曾经有加内特，他是我最爱的球员之一，但即将发生或者可能发生的事完全是另外一个层次的，这将会变得很有趣很有趣，我只能说这么多。”
+   </p>
+   <p>
+    篮网在周一（美国时间周日）举行了一次派对，来庆祝这些他们不能谈论太多的消息。阿伦说：“这是个鸡尾酒派对，所有人都在，就像我说的，这对布鲁克林是个重大时刻，所以我们只是在那里庆祝未来，我们一起跳舞，这就是一个聚会。”
+   </p>
+   <p>
+    记者问到，是否会担心KD的到来影响他的上场时间，阿伦说：“我真没想过这个，这取决与教练组，取决于肯尼（篮网主教练肯尼-阿特金森）。”
+   </p>
+   <p>
+    阿伦于2017年首轮第22顺位被篮网选中，已为篮网效力两个赛季，上赛季场均出战26.2分钟，拿到10.9分8.4篮板1.4助攻。
+   </p>
+   <p>
+    库鲁茨于2018年次轮第10顺位被篮网选中，上赛季场均出战20.5分钟，拿到8.5分3.9篮板0.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

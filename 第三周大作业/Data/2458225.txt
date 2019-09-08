@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕杜克队？美媒晒出鹈鹕阵容内的杜克球员名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0WDeQ_liRr/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 13:41:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕杜克队？美媒晒出鹈鹕阵容内的杜克球员名单" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/932c5d418b55f95d136cab3831f70c9ab5ced307.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，美国媒体在Instagram发布一张图片，列举了目前鹈鹕阵容内来自杜克大学的球员（见新闻配图）。
+   </p>
+   <p>
+    图上的球员分别为：后卫弗兰克-杰克逊，2016-17赛季代表杜克大学出场36次，场均出场24.9分钟，得到10.9分2.5篮板1.7助攻，在2017年选秀2轮第1顺位被鹈鹕选中，因伤缺席2017-18赛季，2018-19赛季常规赛出场61次，场均出场19.2分钟，得到8.1分2.2篮板1.1助攻。
+   </p>
+   <p>
+    后卫JJ-雷迪克，休赛期与鹈鹕达成2年2650万美元合同，2018-19赛季常规赛为76人出场76次，场均上场31.3分钟，得到18.1分2.5篮板2.7助攻。
+   </p>
+   <p>
+    前锋布兰登-英格拉姆，2016年首轮第2顺位，作为戴维斯交易的一部分从湖人来到鹈鹕，2018-19赛季因深静脉血栓缺席3月4日之后的比赛，共出场52次，场均上场33.8分钟，得到18.3分5.1篮板3.0助攻。
+   </p>
+   <p>
+    前锋蔡恩-威廉森，2019年状元秀，2018-19赛季代表杜克场均上场30分钟，得到22.6分8.9篮板2.1助攻2.1抢断1.8封盖。
+   </p>
+   <p>
+    中锋贾利尔-奥卡福，2015年首轮第3顺位，2018-19赛季常规赛场均上场15.8分钟，得到8.2分4.7篮板0.7助攻，据消息人士透露，鹈鹕将执行奥卡福下赛季的球队选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

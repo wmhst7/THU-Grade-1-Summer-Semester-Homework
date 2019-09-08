@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]魔术VS公牛集锦，杰弗森19+12轻取公牛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 13:08:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/1883881851/HDpOcaHSE" onclick="openVideo('https://weibo.com/1883881851/HDpOcaHSE');return false;" target="_blank">
+    <img alt="[视频]魔术VS公牛集锦，杰弗森19+12轻取公牛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/384f96172218263933f06b8eb47c04243c7b757e.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯
+    <a href="https://weibo.com/1883881851/HDpOcaHSE" target="_blank">
+     视频: [视频]魔术VS公牛集锦，杰弗森19+12轻取公牛»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

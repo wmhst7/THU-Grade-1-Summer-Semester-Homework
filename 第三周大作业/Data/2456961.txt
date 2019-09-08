@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：湖人宣布认领科斯塔斯-阿德托昆博
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Lakers/status/1153359482237272064" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 01:53:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：湖人宣布认领科斯塔斯-阿德托昆博" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/29cb2f4f4275dd58d55c151c668ab2ed2614d5bd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，湖人官方推特更新，宣布球队正式认领此前被独行侠裁掉的科斯塔斯-阿德托昆博。
+   </p>
+   <p>
+    科斯塔斯此前与独行侠签订的是一份双向合同，因此他将继续以双向合同球员的身份加盟湖人。
+   </p>
+   <p>
+    湖人官推配文：“从雅典到洛杉矶，@科斯塔斯-阿德托昆博的旅程还在继续。欢迎加入#LakeShow”
+   </p>
+   <p>
+    科斯塔斯是雄鹿球员扬尼斯-阿德托昆博的弟弟，于2018年选秀大会第60顺位被选中。2018-19赛季常规赛，科斯塔斯在独行侠出战2场，场均5.5分钟，可以得到1.0分0.5篮板1.0抢断。
+   </p>
+   <p>
+    科斯塔斯代表独行侠出战了今年夏天的拉斯维加斯夏季联赛，共出战5场比赛，场均出战13.4分钟，能得到5.8分2.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

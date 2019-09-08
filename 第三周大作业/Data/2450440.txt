@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  萧华：夏季联赛关注度很高，拉斯维加斯的人们享受篮球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.reviewjournal.com/sports/basketball/nba-summer-league/nba-expansion-relocation-not-being-considered-adam-silver-says-1700687/NBA" target="_blank">
+     Las Vegas RJ
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 10:38:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="萧华：夏季联赛关注度很高，拉斯维加斯的人们享受篮球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/78a2f5a7b156cb82824a3440eadbe1d633939f3d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 NBA总裁亚当-萧华近日在拉斯维加斯参加夏季联赛相关活动时接受了媒体采访。
+   </p>
+   <p>
+    自2004年以来，NBA夏季联赛都在拉斯维加斯举行，这逐渐吸引了越来越多的球迷关注。2019年夏季联赛将于当地时间7月5日-7月15日举行，据报道，前两个比赛日的门票已售罄。
+   </p>
+   <p>
+    “拉斯维加斯目前还没有NBA球队，这似乎是下一个值得关注的事情，”萧华说道，“在七月的前两周，这里的夏季联赛的关注度很高，我相信我们在此期间大概预定了30000个酒店房间。”
+   </p>
+   <p>
+    “这里的每个人似乎都非常享受篮球，非常享受这座城市。”萧华补充道。
+   </p>
+   <p>
+    但萧华同时指出，到目前为之，NBA并没有扩张计划，如果拉斯维加斯想要拥有自己的球队，只会是其他球队搬到这里。
+   </p>
+   <p>
+    “我始终对于这座城市充满好感，”萧华说道，“但目前没有任何迹象表明有哪支球队在考虑搬迁。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

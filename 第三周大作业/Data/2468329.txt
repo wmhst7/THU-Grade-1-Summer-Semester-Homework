@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热身赛西班牙102-70大胜多米尼加，卢比奥20分6助攻
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/922444/rubio-paces-spain-to-convincing-win-over-dominican-republic/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 11:33:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热身赛西班牙102-70大胜多米尼加，卢比奥20分6助攻" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/624240157d32c2ee5f5f81ffd481d7179a507bb8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 在今天结束的一场世界杯男篮热身赛上，西班牙队以102-70大胜多米尼加。
+   </p>
+   <p>
+    本场比赛，西班牙后卫里基-卢比奥砍下全场最高的20分，另外还贡献了6助攻；马克-加索尔得到12分5篮板；胡安-埃尔南戈麦斯11分7篮板。
+   </p>
+   <p>
+    多米尼加方面：小罗纳德-罗伯茨和埃洛伊-巴尔加斯均得到11分，欧柳斯-巴埃斯贡献10分。
+   </p>
+   <p>
+    本届世界杯上，西班牙和突尼斯、伊朗和波多黎各同分到了C组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  欧文上周组织了勒韦尔等数名篮网球员一起训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/APOOCH/status/1159268156814368768" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 12:11:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="欧文上周组织了勒韦尔等数名篮网球员一起训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/b8329ff597af31069eaca6b927625e9c9ca00a3b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 据布鲁克林篮网队记者Anthony Puccio今天报道，凯里-欧文以及卡里斯-勒韦尔等数名篮网球员上周一直在一起训练。
+   </p>
+   <p>
+    据记者进一步报道，勒韦尔表示是欧文组织了这次训练。本赛季休赛期，欧文与篮网签下了一份4年1.41亿美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断。勒韦尔因伤仅出战40场常规赛，场均出场26.6分钟，得到13.7分3.8篮板3.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

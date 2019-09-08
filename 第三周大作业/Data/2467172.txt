@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃克萨姆收购东南墨尔本凤凰队的一部分股份
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.foxsports.com.au/basketball/nbl/dante-exum-joins-ownership-group-of-south-east-melbourne-phoenix/news-story/1258b4af7499e215d92a13006ca492da" target="_blank">
+     福克斯体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 07:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃克萨姆收购东南墨尔本凤凰队的一部分股份" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/b8f2afbfec0b5055a2c01b947144d808a646e938.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 爵士的丹特-埃克萨姆已经收购了澳大利亚NBL篮球联赛新军东南墨尔本凤凰队的一部分股份。
+   </p>
+   <p>
+    “能加入东南墨尔本凤凰队的投资集团，这是我的殊荣，在我的篮球征程里，墨尔本扮演了一个关键角色，有机会参与到东南墨尔本凤凰队的投资中，这是一个进一步加强我与这座城市联系的完美途径，我期待着见证NBL的继续成长，见证这座城市的发展，还有球队的精彩表现。”埃克萨姆说道。
+   </p>
+   <p>
+    之前扎克-兰多夫、艾尔-哈林顿与约什-柴尔德里斯都收购了东南墨尔本凤凰队的一些股份。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

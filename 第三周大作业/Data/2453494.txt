@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利：如果每个人都保持健康，詹眉会是联盟最强二人组
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KlutchNews/status/1149882329655128064" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 18:26:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利：如果每个人都保持健康，詹眉会是联盟最强二人组" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/5d9ed5433df5968b5cec7110cd751539e18086e7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 NBA名宿查尔斯-巴克利在今日接受采访时谈到了今夏自由球员市场的变化。
+   </p>
+   <p>
+    谈到得知拉塞尔-威斯布鲁克被交易至火箭时的反应，巴克利说：“我有些震惊，我认为大多数人都感觉他更可能去迈阿密。两三年之前，我曾建议拉塞尔-威斯布鲁克打双能卫，这也是我认为威斯布鲁克和詹姆斯-哈登的搭档将会奏效的原因，Russ（威斯布鲁克）应该努力成为一名双能卫，而不是一名控球后卫，因为球权会大量集中在哈登手上。所以，如果Russ愿意打得分后卫，我认为这支球队有机会取得成功，但这一切都取决于Russ打双能卫的效果。”
+   </p>
+   <p>
+    谈到西部的形势，巴克利说：“你知道的，人们已经开始争论哪支球队能够从西部脱颖而出，但现在说这些还为时尚早，因为他们还没有真正在一起打球。我认为独行侠和犹他今年夏天的操作很棒，显而易见，湖人和快船的操作也很棒，但我不认为西部存在一支统治级的球队，新奥尔良的阵容也不错。”
+   </p>
+   <p>
+    当被问及哪支球队拥有联盟最出色的双人组，巴克利说：“哇哦，这是一个很棒的问题，我认为如果每个人都保持健康，你应该选择勒布朗（詹姆斯）和AD（安东尼-戴维斯）的组合，我之前就曾说过，我认为AD是联盟实力前五的球员，但他必须保持健康，他和勒布朗的搭档不容小觑。勒布朗是一个训练狂魔，AD需要做好打满82场比赛的准备，是否能够保持健康是AD最需要面临的问题。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

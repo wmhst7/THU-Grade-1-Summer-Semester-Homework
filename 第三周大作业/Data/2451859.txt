@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  有情有义！拉塞尔晒出个人球场旧照并发文向篮网表示感谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzrGjlcA9Ss/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 10:24:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="有情有义！拉塞尔晒出个人球场旧照并发文向篮网表示感谢" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/aecc69ae2fc50a79fe4244996e57fdc21d15459d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据此前消息报道，丹吉洛-拉塞尔在一笔先签后换交易中被布鲁克林篮网队交易至金州勇士队。
+   </p>
+   <p>
+    今日，丹吉洛-拉塞尔更新了个人社交媒体Instagram晒出一张个人赛场旧照并发文致谢布鲁克林篮网队。
+   </p>
+   <p>
+    他发文说道：“谢谢你，布鲁克林！”
+   </p>
+   <p>
+    NBA球员丹吉洛-拉塞尔在篮网有着两年的职业生涯，并于2018-19赛季入选了NBA全明星。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均出场30.2分钟，可以得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2451411&amp;type=1&amp;entrance=26">
+     官方：篮网送出拉塞尔、内皮尔和格雷厄姆，从勇士得到KD
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

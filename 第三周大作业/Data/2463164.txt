@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  气定神闲！摄影师发布塔特姆特纳塔克美国队训练营帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/jim_ice/2105661385997683717?utm_source=ig_story_item_share&amp;igshid=3as4wx8df8jq" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 22:51:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="气定神闲！摄影师发布塔特姆特纳塔克美国队训练营帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/1df475cebec46171b0fa1b9b947be452582bf3ad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 著名摄影师Jim Poorten今日在个人Instagram Story上分享一组他在美国男篮拉斯维加斯训练营内拍摄到的球员肖像。
+   </p>
+   <p>
+    出现在这组照片中的球员包括凯尔特人球员杰森-塔特姆、步行者球员迈尔斯-特纳、火箭球员PJ-塔克以及猛龙球员凯尔-洛瑞。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/22/4cda9a1e60cac060306bb1fd03ed184c.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/22/e792b3baf45c0bd3bd0d533aec71907f.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/22/d8fede997a2a4ccfa54febb4148d0c4b.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

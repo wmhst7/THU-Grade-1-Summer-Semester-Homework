@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气迷人！库兹马更新社媒晒出多张个人帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/2114468571561549277?utm_source=ig_story_item_share&amp;igshid=pzu881txnrim" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 21:22:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气迷人！库兹马更新社媒晒出多张个人帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/b69d3fbe9b74b04edfbc378e381b8951aa4cc79d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 湖人前锋凯尔-库兹马今天更新Instagram Story，连续发布或转发多张个人帅照。
+   </p>
+   <p>
+    库兹马发布了一张微笑自拍照，随后转发NBA官方和美国男篮官方发布的自己参加活动时的时尚照。
+   </p>
+   <p>
+    2018-19赛季，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/21/30d9d4c62d99ca21b9de1bb8ec89e4f0.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/21/7c7edaf9043a44d11e02ebc7d5161170.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/21/f34c0efddc0d39492dc62a882c2ee90e.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

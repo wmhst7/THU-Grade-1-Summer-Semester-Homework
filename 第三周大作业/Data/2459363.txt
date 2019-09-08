@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  某对手球队高管：雷霆会烂上一两年，然后可能会再现辉煌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://basketball.realgm.com/analysis/255028/2019-Western-Conference-Offseason-Chatter-From-Summer-League" target="_blank">
+     RealGM
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 16:20:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="某对手球队高管：雷霆会烂上一两年，然后可能会再现辉煌" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190729/1cb7f0c687fecf335fc1e1b5626c71306cc7da7e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 RealGM记者Keith Smith近日发文总结了他在夏季联赛期间收集到的部分联盟高管、教练等业内人士对于今夏NBA动向的看法。以下为涉及雷霆的言论：
+   </p>
+   <p>
+    一位对手球队的高管对拉塞尔-威斯布鲁克的交易评价道：“当保罗-乔治被交易后，这是下一步情有可原的举措。话说回来，他是那个留下来的人。这是一次正确的运作，特别是考虑到他们得到的回报。但其中一部分在于吃下保罗的合同，不过我笃定萨姆（普雷斯蒂）也会将保罗换成一些有用的资产。”
+   </p>
+   <p>
+    一位雷霆教练对新赛季评价道：“现在回答这个问题有点太早。NBA的时钟从不停歇。我们必须解决问题。我们仍然拥有许多不错的球员，有一些战绩斐然的球员加盟，还有一些赢过许多比赛的球员留队。我认为我们会没事的。”
+   </p>
+   <p>
+    一位雷霆高管表示：“当我们坐下来制定今夏计划时，没有任何一项计划包括交易保罗-乔治，当然更不会包括交易拉塞尔（威斯布鲁克）。但这个联盟就是如此运作的。有时你被迫去做一些事情。当那种情况发生，你要尽量做好，我认为我们应对得非常出色。未来我们相比联盟历史上的任何一支球队都要做更多的工作，现在我们必须从中做出成效。”
+   </p>
+   <p>
+    一位对手球队的高管谈及雷霆的未来时表示：“拥有那么多个选秀权的感觉真的很好，不是吗？（笑）我想说，你可以用它们来做任何事。而且他们可能得到了下一个当家球星——谢伊-吉尔杰斯-亚历山大。我们曾致电询价他，因为谁都可以被问价，快船断然回绝了我们。那发生在自由市场开启的初期，所以显然他们很看好他。我认为雷霆会没事的，他们将烂上一两年，不过在那之后，他们可能会再现辉煌。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

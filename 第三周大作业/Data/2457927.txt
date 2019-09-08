@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威斯布鲁克点赞乔治发布的与伦纳德一同出席发布会的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0UHLPel0cV/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 18:38:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威斯布鲁克点赞乔治发布的与伦纳德一同出席发布会的合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/b3a80988dbc6484ad9e50b3cfba9b93d23dfd117.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 快船前锋保罗-乔治今日在Instagram上发布了两张他与新队友科怀-伦纳德一同出席加盟发布会的照片。
+   </p>
+   <p>
+    “2号和13号。”乔治写道。
+   </p>
+   <p>
+    值得一提的是，前雷霆球员、现火箭球员拉塞尔-威斯布鲁克，雷霆球员安德烈-罗伯森，篮网球员凯文-杜兰特也点赞了这条Ins。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/18/a4a5eec00a7e45490c918bb748db6969.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/18/dc701bb31a8a0ff76b494b9ef865315a.jpg"/>
+   </p>
+   <p>
+    雷霆今夏将保罗-乔治交易到快船，得到谢伊-吉尔杰斯-亚历山大、达尼罗-加里纳利、4个无保护的首轮签、1个受保护的首轮签和2个选秀权互换的权利。
+   </p>
+   <p>
+    随后雷霆将拉塞尔-威斯布鲁克交易到火箭，得到克里斯-保罗，火箭的2024年和2026年的首轮签和2021年和2025年首轮签互换权。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断；乔治场均上场36.9分钟，得到28.0分8.2篮板4.1助攻2.21抢断。威斯布鲁克场均上场36分钟，得到22.9分11.1篮板10.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

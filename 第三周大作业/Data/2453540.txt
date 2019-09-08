@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰将裁掉杰伦-亚当斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ajc.com/sports/basketball/hawks-release-jaylen-adams/puxKp0cECt6st4ODEd2xzJ/" target="_blank">
+     亚特兰大宪政报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 20:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰将裁掉杰伦-亚当斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/f43d17f320f3d53f4f9537e1c458cdda3c4ded64.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据《亚特兰大宪政报》记者Chris Vivlamore的报道，一位了解情况的消息人士透露，老鹰将在当地时间周六裁掉杰伦-亚当斯。
+   </p>
+   <p>
+    如果亚当斯不被裁掉，那么他2019-20赛季价值145万美元的合同将在当地时间7月19日转为全额受保障。
+   </p>
+   <p>
+    老鹰在2018-19赛季与亚当斯签下了一份双向合同，随后将他的合同转为常规合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，亚当斯场均出战12.6分钟，可以拿到3.2分1.9助攻1.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

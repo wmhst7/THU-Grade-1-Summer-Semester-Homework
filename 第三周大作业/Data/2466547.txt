@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：特拉维夫马卡比篮球俱乐部签约泰勒-多西
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.talkbasket.net/50331-tyler-dorsey-officially-joins-maccabi-tel-aviv" target="_blank">
+     TalkBasket.net
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 07:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：特拉维夫马卡比篮球俱乐部签约泰勒-多西" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/94206a96f9f859e18fda4eb7a614f7a38aff8e7b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 以色列的特拉维夫马卡比篮球俱乐部今日宣布，他们已经与泰勒-多西签下了一份两年合同，第二年合同带有选项。
+   </p>
+   <p>
+    “我听过很多关于这座城市和这里球迷的好话，我已经等不及与所有人互动了，我很兴奋，期待着打出一个出色的赛季，大赞所有马卡比球迷，我们很快会与你们见面。”多西说道。
+   </p>
+   <p>
+    NBA生涯至今，多西出战过104场常规赛的比赛，场均出战16.1分钟可以拿到6.7分2.3篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

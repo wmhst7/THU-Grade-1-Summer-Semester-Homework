@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克：我很好相处，会和队友及教练关系融洽
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nicolecyang/status/1151542634663546881" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 01:32:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克：我很好相处，会和队友及教练关系融洽" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/d3be3db12293cae80a40d1726091eabe79897fe8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人为新援肯巴-沃克和埃内斯-坎特举行加盟记者发布会。
+   </p>
+   <p>
+    谈到对凯尔特人主教练布拉德-史蒂文斯的看法时，沃克表示：“对我来说没有比和主教练关系融洽更重要的事了，我们彼此之间还有很多需要相互了解的地方，我们会搞好关系的，他是个很好的教练。我知道在史蒂文斯的体系里，控球后卫会打得很成功，能大量的分。”
+   </p>
+   <p>
+    谈到离开黄蜂的感想时，沃克表示：“这是我人生中最困难的决定，这关系到我的幸福和我每个晚上在哪里打球。我在夏洛特的时间结束了，是时候开启新的篇章了。”
+   </p>
+   <p>
+    谈到选择8号球衣时，沃克表示他与前凯尔特人球员安托万-沃克沟通过此事，“他向我表达了祝福。”
+   </p>
+   <p>
+    谈到与队内年轻球员的关系时，沃克表示：“我很好相处的。”
+   </p>
+   <p>
+    谈到前老板迈克尔-乔丹时，沃克表示：“我喜欢那个家伙。他是我的兄弟，我们关系很好。我会永远爱他，因为他给了我机会。”
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

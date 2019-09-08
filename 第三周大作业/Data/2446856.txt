@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰森-特里发推祝贺路威：每年都应该把他选进全明星
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jasonterry31/status/1143397515519254529" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 16:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰森-特里发推祝贺路威：每年都应该把他选进全明星" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/e908c53d1008d8706a772b3db6c4e7a80f6043c0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，快船球员路易斯-威廉姆斯当选2018-19赛季年度最佳第六人，这是他职业生涯第3次获得最佳第六人奖项。
+   </p>
+   <p>
+    随后，前NBA球员、前最佳第六人获得者杰森-特里更新了社媒祝贺威廉姆斯，说道：“恭喜今年的最佳第六人，每年都应该把这个家伙选进全明星＃颁奖典礼。”
+   </p>
+   <p>
+    路易斯-威廉姆斯常规赛为快船出场75次，场均出场26.6分钟，能够贡献20.0分3.0篮板5.4助攻0.76抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

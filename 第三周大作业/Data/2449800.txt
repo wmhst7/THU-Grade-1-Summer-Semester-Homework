@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇妙的缘分！美国媒体晒出巴特勒与韦德合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzYyb3ol5Gp/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 12:33:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇妙的缘分！美国媒体晒出巴特勒与韦德合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/8a6515fc56be2c60b0ea8fb80aa8279fa350b532.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 美国媒体更新社交媒体Instagram，晒出德维恩-韦德与吉米-巴特勒合照。
+   </p>
+   <p>
+    “吉米-巴特勒和德维恩-韦德，同样的旅程，同一个终点。”，媒体配文道。
+   </p>
+   <p>
+    吉米-巴特勒和德维恩-韦德是马奎特大学的校友，两人曾在公牛队做过队友。
+   </p>
+   <p>
+    据此前报道，热火通过跟快船76人开拓者来完成了巴特勒的交易。
+   </p>
+   <p>
+    2018-19赛季常规赛，德维恩-韦德场均出场26.2分钟，得到15.0分4.0篮板4.2助攻；吉米-巴特勒场均出场33.6分钟，得到18.7分5.3篮板4.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/12/4708cab41bfc41e399e15ccb7da3703a.jpg"/>
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2449266.html">
+     Woj：热火通过跟快船76人开拓者来完成了巴特勒的交易
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

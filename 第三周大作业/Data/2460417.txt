@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德晒塞克斯顿小佩顿等人参加训练营的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0lhYsXHcmR/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 09:30:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德晒塞克斯顿小佩顿等人参加训练营的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/58a99cd96875ec31a7987d54d5cba2abb4ad2ae4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 今日NBA退役球星德维恩-韦德更新了自己的个人Instagram动态，晒出了众球员参加自己组织的训练营的照片。
+   </p>
+   <p>
+    “此次训练营的目的在于培养兄弟间的情谊、加强对比赛的认知和培养下一代的年轻球员。我们在过去的这一周里付出了很多努力！#韦德邀请训练营 #没有上限”韦德写道。
+   </p>
+   <p>
+    值得一提的是，科比-怀特、科林-塞克斯顿、德朗-赖特、杰罗姆-罗宾逊、小贾伦-杰克逊、韦斯利-艾旺杜、埃尔弗里德-佩顿等球员都参加了本次训练营活动。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/6d5bce0fe2464a392a1583516fdcbab0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/9a7f554bbfc621839e4e7b0bdee843e4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/a92855ce4df4026d2274874717a1077f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/03273caf07d5e9b5704c1f5be06da7aa.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/1e5c390b14675002b3790d595e52088b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/693763a4fd100930347f5819971e70dd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/62dfcd99e77f58885eb4eda3eaf4c3aa.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

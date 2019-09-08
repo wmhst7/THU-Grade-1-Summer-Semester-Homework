@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟就球员心理健康问题推出新举措
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1120892/2019/08/07/nba-ramps-up-mental-health-program-setting-new-expectations-for-each-team/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 11:38:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟就球员心理健康问题推出新举措" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/b7b2a289a21d9f0378a890ca2b5668f1af5cf769.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据The Athletic记者Sam Amick报道，消息人士透露，NBA官方在当地时间周三向联盟30支球队发出了一份备忘录，备忘录说明了2019-20赛季开始前的一些细节变化，具体内容如下：
+   </p>
+   <p>
+    1、在球员自愿的情况下，每支球队需要保留或者配备一到两位在其领域或者所在地具有认证的心力健康专家，并且专家应具有评估以及治疗心理健康问题的临床经验；
+   </p>
+   <p>
+    2、指定一名有执照的精神科医生帮助球队管理球员心理健康问题；
+   </p>
+   <p>
+    3、制定心理健康突发事件的书面行动计划；
+   </p>
+   <p>
+    4、制定合适的程序，就球队尊重隐私与机密方面的做法与球员以及球队成员进行沟通；
+   </p>
+   <p>
+    5、参加9月12日在芝加哥举办的“卫生与健康”会议，以上那些问题将会在会议中被进一步分析与讨论。
+   </p>
+   <p>
+    在此备忘录发布之前，NBA就已经开始重视球员心理健康问题。2017年NBA聘请了“jed”基金会（一家具有大学与职业体育经验的心理健康与卫生组织）担任联盟心理健康与卫生问题的顾问。2018年5月，NBA为球队提供了与心理健康以及卫生相关问题的推荐举措。
+   </p>
+   <p>
+    随后，凯文-乐福（乐福此前曾公开表示自己有心理健康方面的问题）转发了此条消息并写道：“为我们的联盟感到骄傲，这对球员、教练以及管理层的进步来说是一次巨大的胜利，我还想提醒的是这也会在球员们篮球之外的生活里帮助到他们。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  吉诺比利：我秃头并不是因为邓肯，而是思考发什么内容
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://weibo.com/u/6913746776?profile_ftype=1&amp;is_all=1#_rnd1561704385908" target="_blank">
+     微博
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 14:50:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="吉诺比利：我秃头并不是因为邓肯，而是思考发什么内容" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/5630fcf320ff180bf9da76e111baee105d8a7570.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日前马刺球员马努-吉诺比利更新了自己的微博动态，调侃自己变成秃头的改变。
+   </p>
+   <p>
+    “我秃头的原因并不是邓肯，而是思考在微博上发什么内容。”吉诺比利写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

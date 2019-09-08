@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：太阳正式与凯利-乌布雷完成续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/press-release/suns-re-sign-kelly-oubre-jr#" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 03:48:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：太阳正式与凯利-乌布雷完成续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/e4fc11226cbc322086d434b60816476a5304adb6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 太阳官方今日正式宣布与前锋凯利-乌布雷完成续约，并举行了新闻发布会。
+   </p>
+   <p>
+    对于与太阳完成续约，乌布雷表示：“我很激动能够回到球队，我就是一个太阳男孩。我会试着为球队带来许许多多的正能量，我只是想要成为一个领导者。”
+   </p>
+   <p>
+    谈及留下乌布雷，太阳主帅蒙蒂-威廉姆斯表示：“我很激动乌布雷能够回到球队中，他是让我为主教练这份工作感到振奋的原因。我喜欢他的能量和热情。”
+   </p>
+   <p>
+    太阳总经理詹姆斯-琼斯表示：“今天对于我们菲尼克斯太阳队来说，是个好日子，我认为大家可以大致猜想一下，赛季结束时，我们能到达怎样的高度了。”
+   </p>
+   <p>
+    此前，据NBA记者Adrian Wojnarowski报道，消息人士透露，太阳前锋凯利-乌布雷以2年3000万的合同续约太阳。据NBA记者Michael Scotto报道，消息人士透露乌布雷的合同为2年3000万，全额保障，不附带球员选项和球队选项。
+   </p>
+   <p>
+    乌布雷在2015年第1轮第15顺位被老鹰选中，后被交易至奇才，并为奇才效力至2018-19赛季中期。乌布雷上赛季中期被交易至太阳，今夏成为自由球员，太阳为其开出了资质报价。2018-19赛季，乌布雷为太阳出战了40场比赛，场均上场29.5分钟得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

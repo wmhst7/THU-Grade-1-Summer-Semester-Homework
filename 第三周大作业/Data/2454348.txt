@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭因老板在威少交易正式达成前的公开言论被罚款
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1150903970967228417" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 07:07:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭因老板在威少交易正式达成前的公开言论被罚款" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/de0a67688fe73f5bd575b26170188aa46cba4ee1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据《纽约时报》记者Marc Stein报道，他得知，火箭因老板蒂尔曼-费尔蒂塔在关于威斯布鲁克的交易正式达成前的公开言论被罚款25000美元。
+   </p>
+   <p>
+    在NBA记者Adrian Wojnarowski率先报道威少的交易后，火箭老板蒂尔曼-费尔蒂塔公开确认火箭已经达成交易，而此时官方交易尚未正式达成。
+   </p>
+   <p>
+    此前火箭将克里斯-保罗，2024年和2026年的首轮签，以及2021年和2025年的首轮签互换权交易至雷霆，得到拉塞尔-威斯布鲁克。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：詹姆斯与戴维斯的号码比乔治与伦纳德更疯狂
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DwyaneWade/status/1154426699108323330" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 05:05:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：詹姆斯与戴维斯的号码比乔治与伦纳德更疯狂" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/3c788d9262767fe3c370407a8918ffa08bafc0e2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，前NBA球员德维恩-韦德更新社交媒体。
+   </p>
+   <p>
+    “好吧，乔治和伦纳德的号码是213是疯狂的，但是戴维斯与詹姆斯是323更疯狂。太酷了！两个都是加利福尼亚的电话区号。”他写道。
+   </p>
+   <p>
+    德维恩-韦德于2018-19赛季结束后宣布退役，职业生涯场均出场33.9分钟，能得到22.0分4.7篮板5.41助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

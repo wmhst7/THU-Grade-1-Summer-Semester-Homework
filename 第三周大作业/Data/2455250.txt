@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布洛克成功接受颈椎间盘突出症的手术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IanBegley/status/1151583067804438528" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 04:09:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布洛克成功接受颈椎间盘突出症的手术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/50852d4dc5714d77e20f4114135fc6fe9e8a8f38.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 据SNYtv记者Ian Begley报道，尼克斯内部人士透露，雷吉-布洛克今天成功接受了颈椎间盘突出症的手术。
+   </p>
+   <p>
+    球队将计划在训练营开始前提供他的康复和进展的最新信息。
+   </p>
+   <p>
+    尼克斯记者Ian Begley报道，尼克斯将用低于空间中产特例（每年470万美元）的价格签下布洛克。同时Ian Begley也指出，从多个消息源得知，雷吉-布洛克将至少缺席常规赛的第一个月。
+   </p>
+   <p>
+    2018-19赛季最后阶段，布洛克因为足底筋膜炎缺席了湖人最后10场比赛中的8场。2018-19赛季常规赛，布洛克场均出场29.8分钟，可以得到11.3分2.7篮板2.0助攻0.6抢断。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2454873&amp;type=1&amp;entrance=26">
+     尼克斯新援布洛克将至少缺席常规赛的第一个月
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

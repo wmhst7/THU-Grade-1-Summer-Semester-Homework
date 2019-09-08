@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗宾逊三世：很兴奋加盟勇士，希望能防守对手最佳球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/957thegame/status/1150112860149698560" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 14:17:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗宾逊三世：很兴奋加盟勇士，希望能防守对手最佳球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/4e5c665df55c05a45ebd8a6201d139285c0e030a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 勇士新援格伦-罗宾逊三世近日在接受媒体采访时谈到了加盟勇士。
+   </p>
+   <p>
+    “在我职业生涯过去的五个赛季里，我一直在努力向身边的球员学习，我是一名职业球员，我的努力程度非常出色，我认为这是我能够为球队带来的东西。当我接到勇士打给我的电话时，我感到非常激动，来到湾区一直是我的梦想，我无法再要求比这更好的机会了。”罗宾逊说道。
+   </p>
+   <p>
+    谈到在球队中的定位，罗宾逊说：“球队中有一些球员倒下了，你总是会厌恶这样的事情发生，但这对于我而言是一个机会，努力向球队证明我能够做到什么。我和科尔教练以及球队中的一些球员进行了交流，我对于加盟球队感到兴奋，就像我刚才所说的，我无法再要求比这更好的机会了。”
+   </p>
+   <p>
+    “当我步行者效力时，我总是会在场上防守对手的最佳球员，无论他们何时上场，在克莱（汤普森）因伤缺阵期间，我非常期待能够承担起这样的责任。”罗宾逊补充道。
+   </p>
+   <p>
+    据The Athletic记者Shams Charania报道，多位消息人士透露，自由球员格伦-罗宾逊三世以两年合同加盟勇士，第二年球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，格伦-罗宾逊三世场均出场13.0分钟，可以得到4.2分1.5篮板。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28455548.html?share_from=kqapp">
+     勇士队的格伦-罗宾逊三世需要证明他不只是一个扣将
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

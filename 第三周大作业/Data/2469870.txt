@@ -1,0 +1,41 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：特里尔、帕森斯等人经纪人加入Excel体育
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1166418877695299585" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 02:42:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：特里尔、帕森斯等人经纪人加入Excel体育" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/aff7ef60cb9da48ac1226803db7d86f2ac3b6d19.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 洛杉矶当地NBA经纪人 James Dunleavy已经加入Excel Sports。他的客户名单包括尼克斯的阿朗佐-特里尔、老鹰的钱德勒-帕森斯、独行侠的考特尼-李以及休斯顿的杰拉德-格林。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

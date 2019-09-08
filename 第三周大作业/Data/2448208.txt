@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  型男！埃尔南戈麦斯今日更新个人社交媒体晒出训练成果
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzQ_90eoADS/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 11:34:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="型男！埃尔南戈麦斯今日更新个人社交媒体晒出训练成果" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/0142cf41ebc5a06577829b45f866009602672d21.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，黄蜂中锋吉列尔莫-埃尔南戈麦斯更新了个人社交媒体Instagram，并晒出自己在健身房中的照片（见新闻配图）。
+   </p>
+   <p>
+    埃尔南戈麦斯发文说道：“又是在训练和阅读中度过的美好的一周。”
+   </p>
+   <p>
+    2018-19赛季常规赛，埃尔南戈麦斯场均出场14.0分钟，可以贡献7.3分5.4篮板1.0助攻0.28抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

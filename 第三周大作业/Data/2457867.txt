@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：2017年的勇士打出了历史上最伟大的季后赛表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/content/warriors-insider-podcast" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 16:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：2017年的勇士打出了历史上最伟大的季后赛表现" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/39391e1f61483f4c877d65a08b1dc94053306835.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 科尔谈2017年勇士的季后赛表现：球队每个人的合作是完美的
+   </p>
+   <p>
+    近日，勇士主教练史蒂夫-科尔在The Warriors Insiders播客上谈到了勇士在2017年季后赛中的表现。
+   </p>
+   <p>
+    “那基本上是NBA历史上最伟大的季后赛表现，16胜1负的战绩是前所未有的。如果我没记错的话，之前是2001年的湖人拿到了曾经拿到了15胜1负的战绩。但是那支勇士对我来说不输历史上的任何球队，至少是在我开始看NBA，效力于NBA，作为一名解说员关注NBA之后。那支球队在攻防两端的天赋都不输我见过的任何球队。他们很有统治力，凯文-杜兰特将这一切带到了不同的水准。球队与杜兰特的关系是特别的，因为那是一种对于双方都有益处的关系。我认为斯蒂芬-库里、克莱-汤普森和德雷蒙德、格林提供给凯文-杜兰特的一切是非常重要的因素。这使他能与一群喜欢分享球、以那样的节奏转移球的球员一起打球。我还要提到安德烈-伊格达拉和肖恩-利文斯顿，我们这支球队里有很多进攻组织者，传球者和全面的防守者，每个人都能与彼此形成极好的互补。当凯文-杜兰特来到球队的时候，他不仅将这一切带到了顶尖水准，球队也围绕他进行了完美的合作，与他形成了完美的互补。所以那对球队的每个人来说都是非常理想的合作。”
+   </p>
+   <p>
+    2017年，勇士以16胜1负的季后赛历史最佳战绩夺得了总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

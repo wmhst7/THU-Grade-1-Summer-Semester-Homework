@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷-杨：篮网上赛季很棒，我们也会打进季后赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/trae-young-on-why-knicks-rookie-rj-barrett-will-handle-new-york-scrutiny/309375524" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 07:26:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷-杨：篮网上赛季很棒，我们也会打进季后赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/e9d5f26e57f8c90dc3f6d97a56a20fdf2f681135.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日，老鹰后卫特雷-杨在谈到了老鹰的崛起以及篮网。他说，他相信老鹰今年会是一支季后赛球队。
+   </p>
+   <p>
+    谈到老鹰的崛起，特雷-杨说道：”我觉得对我们来说，我们听到了太多关于重建的事，所以这些都需要一段时间才能让我们重新赢球并且做大事。但对我们来说，我们想加快这个过程。显然，我们想要打进季后赛。我觉得对我们来说，今年看季后赛，特别是对我来说，这很痛苦。就像是，我还想继续打。所以这是我夏天一直关注的问题，我如何能够帮助我的球队，如何与这个年轻的球队建立友情，帮助我们实现目标，加快这个每个人都在讨论的过程。“
+   </p>
+   <p>
+    特雷-杨在谈到篮网时说道：“他们上赛季打进季后赛是很不可思议的。不仅是他们的球员，他们有一个优秀的教练，现在还有杜兰特和欧文这个不可思议的双人组。”
+   </p>
+   <p>
+    谈到前老鹰球员，现篮网球员托里恩-普林斯，他说道：“他能带来很多，普林斯是一个优秀的球员，他在场上能通过他的投篮和传球能力带来很多。他很聪明，他知道怎么打球，什么时候打球。在场下，他对我帮助很大。我知道布鲁克林年轻人不多，但是在场下，他不会遇到麻烦，他很低调。就队友而言，他是一个善良的人，出色的球员。我认为普林斯下赛季会在篮网打的很好。“
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

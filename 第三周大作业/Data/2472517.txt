@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比：不会加盟BIG3联赛，不知道球队何时会为我立雕像
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakeshowworld/status/1169078561853935616?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 16:56:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比：不会加盟BIG3联赛，不知道球队何时会为我立雕像" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/91d29d66288297aaf8fcb70a7ad5f140cb1ff8bc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 湖人名宿科比-布莱恩特在近日接受了电话采访，他谈到了多个方面。
+   </p>
+   <p>
+    谈到加盟BIG3联赛的可能性，科比说：“在Ice Cube（BIG3联赛创始人）创建BIG3联赛时，我们就谈论过这件事情，答案自始至终都没有发生变化--不。我现在很好，哥们儿，我现在很好。”
+   </p>
+   <p>
+    当被问及入选名人堂时会邀请哪些人到场时，科比说：“显而易见，我首先会想到我的家人，我的计划是发表一段史上时长最短的演讲，我只想尽可能快地完成演讲。”
+   </p>
+   <p>
+    当被问及是否曾与球队沟通过斯台普斯球馆外雕像的设计以及球队何时会为他立雕像时，科比说：“我完全不知道，哥们儿，我真的不知道。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

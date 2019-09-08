@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰主教练：需要特雷-杨把美国队训练营的经验带回球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.washingtonpost.com/sports/2019/08/07/trae-young-is-ready-lift-hawks-his-stardom-next-level/?noredirect=on#click=https://t.co/iDbvP1X5q1" target="_blank">
+     华盛顿邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 13:13:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰主教练：需要特雷-杨把美国队训练营的经验带回球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/ca297f7caec8bed999e858585d2330713b96437d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，老鹰主教练劳埃德-皮尔斯接受华盛顿邮报记者Ben Golliver采访，谈到了球员特雷-杨在美国队训练营陪练队的相关话题。
+   </p>
+   <p>
+    “他接下来需要成为我们的领导者，”皮尔斯说，“我们需要他把这个（在美国队训练营的）经验带回亚特兰大。我们需要他为我们团队的成功发声并担负责任。这对任何年轻球员来说都是很艰巨的任务，但他想要为球队做到这些。”
+   </p>
+   <p>
+    皮尔斯也提到，接下来会更加看重对特雷-杨在防守端和无球时的训练：“特雷在持球的时候非常有创造力，能对对手产生很大威胁，但我希望他能成为一个双重武器。”
+   </p>
+   <p>
+    老鹰在今年的选秀大会上选中德安德烈-亨特和卡姆-雷迪什，对此，皮尔斯表示：“我们需要在每个位置上都能完成本垒打。”
+   </p>
+   <p>
+    谈到目前队内有大量23岁或23岁以下的年轻球员时，皮尔斯表示：“进步是关键词，我们必须发挥更好的防守。我们正在准备我们的年轻人赢得比赛。如果我们成功了的话，那么入选全明星是有可能的，打进季后赛也是有可能的。”
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2462913.html">
+     特雷-杨：下赛季我们大有机会，能为季后赛而战
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

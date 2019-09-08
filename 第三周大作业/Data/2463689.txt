@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：76人雇佣罗伊-希伯特任球员发展教练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1159908829657612289" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 03:03:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：76人雇佣罗伊-希伯特任球员发展教练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190810/efb31fd5de0328670f39d8c34047991e47a3bd0f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 据The Atheletic体育记者Shams Charania报道，76人队将雇佣前NBA球员罗伊-希伯特任球员发展教练一职。
+   </p>
+   <p>
+    希伯特今年32岁，有9年的NBA职业生涯，曾效力于步行者和湖人等队，共入选过两次全明星。
+   </p>
+   <p>
+    希伯特生涯一共打了662场常规赛比赛，场均出场24.8分钟，得到10.0分6.3篮板1.3助攻1.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

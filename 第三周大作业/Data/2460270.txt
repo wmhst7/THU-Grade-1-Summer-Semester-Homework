@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  欧文现身纽约戴克曼公园观战街球赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/RocNationSports/status/1156547051112599552" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 23:47:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="欧文现身纽约戴克曼公园观战街球赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/f84390a4bd1382fa419344833065dd0894a62159.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今天美国媒体Roc Nation Sports在推特上晒出了欧文现身纽约戴克曼公园，观战NY vs. NY街球赛的照片。
+   </p>
+   <p>
+    根据此前的报道，欧文将以4年1.42亿美元的合同签约篮网，其中第四年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断0.51盖帽；季后赛场均出场36.7分钟，得到21.3分4.3篮板7.0助攻1.44抢断0.44盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/23/f75fdf492d5161de56546f7671f40727.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

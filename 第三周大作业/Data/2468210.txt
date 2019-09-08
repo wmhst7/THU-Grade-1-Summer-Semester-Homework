@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  身材完美！戈登社交媒体晒出自己训练照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1esnMbhq7Z/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 06:51:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="身材完美！戈登社交媒体晒出自己训练照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/16f80a7ef8a4a2927f8d6a0890b1599c0a9ea5cb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 今日，魔术球员阿龙-戈登更新社交媒体Instagram，晒出自己训练照（见新闻配图）。
+   </p>
+   <p>
+    “没有休息日。”他写道。
+   </p>
+   <p>
+    戈登出生于1995年，今年23岁，2014年第1轮第4顺位被魔术选中，2018-19赛季常规赛，场均出场33.8分钟，得到16.0分7.4篮板3.7助攻0.73抢断0.72盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/06/3997e74519d82fe542da85d65fd4713e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/06/2963b7961f1a178f187e6b6f39dddc26.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

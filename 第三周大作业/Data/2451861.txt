@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗齐尔：感谢小托马斯和欧文，已准备好做一名领袖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/terry-rozier-thankful-coming-under-232641431.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 10:25:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗齐尔：感谢小托马斯和欧文，已准备好做一名领袖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/72a36771ad9566319829710b702e468e3dc7efa9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据此前的报道，特里-罗齐尔通过先签后换交易加盟黄蜂。近日罗齐尔接受了电话采访。
+   </p>
+   <p>
+    罗齐尔对凯尔特人表示感激，他说到：“我很感激能做以赛亚-托马斯和凯里-欧文的替补，看他们如何解决问题。四年里我学到了很多东西，在这样的一支球队，在他们两人之下。”
+   </p>
+   <p>
+    罗齐尔将实现自己的首发愿望，他说到：“这是机会。我清楚我首发的每场比赛，你都不需要去担心太多。首发时我能成为我自己。”
+   </p>
+   <p>
+    罗齐尔表示决定与黄蜂达成协议的前12个小时是最难熬的。现在他已经准备好担任领导者的角色，他明白黄蜂的年轻球员们将期待得到他的帮助。“这是我喜欢做的事，这是我喜欢的处境。”罗齐尔说到。
+   </p>
+   <p>
+    谈到取代肯巴-沃克在黄蜂的位置，罗齐尔说到：“我清楚沃克给球队的付出，很了不起。我非常尊敬他和他的表现。这不是一个轻松的位置，但就像我说的，我已经做好准备，我对此早就准备好了。”
+   </p>
+   <p>
+    罗齐尔与黄蜂的合同为3年5800万美元，全额保障。上赛季罗齐尔在凯尔特人场均上场22.7分钟，能得到9.0分3.9篮板2.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

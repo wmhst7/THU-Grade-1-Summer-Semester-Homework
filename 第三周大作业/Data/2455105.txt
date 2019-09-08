@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  为何伦纳德选择快船？奥尼尔：因为韦斯特是一名大师
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Farbod_E/status/1151407966848819200" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 20:36:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="为何伦纳德选择快船？奥尼尔：因为韦斯特是一名大师" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/f64f0bfa6b9e5740314bd1565ef93df3c3906860.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 科怀-伦纳德今年夏天最终选择了和快船签约，谈到为何快船能得到伦纳德，TNT评论员沙奎尔-奥尼尔给出了自己的看法。
+   </p>
+   <p>
+    “因为杰里-韦斯特是一名大师，他能读懂球员的内心，并且很可能他和伦纳德有过一次对话，和他非常坦诚地交流。”
+   </p>
+   <p>
+    另外，开拓者后卫CJ-麦科勒姆也谈到了自己的看法，他表示：“从竞争者的角度，他没有加入湖人，和勒布朗和AD一起并肩作战，他选择了和他们竞争。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

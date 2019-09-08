@@ -1,0 +1,67 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  悠然自得！特洛伊-丹尼尔斯晒在洛杉矶街头漫步的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2F-arbh-tX/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 12:02:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="悠然自得！特洛伊-丹尼尔斯晒在洛杉矶街头漫步的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/b8b597522e40255ba798cc55c5525c869eb66316.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，湖人球员特洛伊-丹尼尔斯更新了个人Instagram，晒出了多张自己在洛杉矶街头漫步的照片，并写道：“在今天这个美好的周五，我走上街头漫步。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/11/9619fe1e5fc3b9604b8ba60b30832048.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/11/98f33dd8c8b5d657860ab77d66dba372.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/11/ffcf7aabddecf725be6f271f27c5325c.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/11/70143522a6501bef718c412706f02317.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/11/e6e7dea95d4f49d8a2a397c8b343039e.jpg"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，丹尼尔斯场均上场14.9分钟，得到6.2分1.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

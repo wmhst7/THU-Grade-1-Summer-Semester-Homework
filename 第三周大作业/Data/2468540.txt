@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈勒尔谈得知伦纳德和乔治加盟球队：这太疯狂了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://m.youtube.com/watch?v=UZHbSubN0Lo#" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 07:12:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈勒尔谈得知伦纳德和乔治加盟球队：这太疯狂了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/32bea6218005d5af91b9e4699d4428964b42d5b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 快船的蒙特雷兹-哈勒尔作客节目时谈到了球队今夏得到保罗-乔治和科怀-伦纳德的事情。
+   </p>
+   <p>
+    “当时我与兄弟们在家，然后我的手机就爆了，这太疯狂了，这太疯狂了。”哈勒尔说道。
+   </p>
+   <p>
+    所以哈勒尔是像其他所有人那样知道的此事？哈勒尔说：“是的。”
+   </p>
+   <p>
+    “是的，是的，然后我就不断接到短信什么的。”哈勒尔说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

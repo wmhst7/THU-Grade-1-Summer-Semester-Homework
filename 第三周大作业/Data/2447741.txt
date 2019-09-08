@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师发推恭喜湖人：多么棒的交易，浓眉展现争冠决心
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/magicjohnson/status/1144324920010129408?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 03:42:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师发推恭喜湖人：多么棒的交易，浓眉展现争冠决心" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/99976c591cd6a71919e3e0ab67b979178aa23cba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 湖人今日通过安东尼-戴维斯交易的后续运作创造出了3200万美元的顶薪空间，对此湖人名宿魔术师约翰逊第一时间发推感叹。
+   </p>
+   <p>
+    “哇，哇，哇，多么棒的交易！多么重大的操作！珍妮（巴斯）和罗勃（佩林卡）创造出了3200万美元的薪资空间！这一操作让湖人能够竞逐一切自由球员。我等不及到周日（自由市场开启日）了！那将会很激动人心的。”魔术师写道。
+   </p>
+   <p>
+    戴维斯也主动放弃了400万美元交易保证金，为湖人创造更多薪资空间。
+   </p>
+   <p>
+    “湖人国度，安东尼-戴维斯通过放弃其400万美元交易保证金的举动向我们全体湖人球迷展现了他的争冠决心！”魔术师写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

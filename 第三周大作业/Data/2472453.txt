@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  生活惬意，门罗社交媒体晒出个人休闲照：老师
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B19X2aTH56u/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 12:54:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="生活惬意，门罗社交媒体晒出个人休闲照：老师" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/17efd104c39beb5fdfb30020dd2f81ec6d2f9b3a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 前NBA球员格雷格-门罗今日更新个人社交媒体Instagram晒出个人生活照（见新闻配图）。
+   </p>
+   <p>
+    “老师。”他写道。
+   </p>
+   <p>
+    门罗在2010年选秀大会上首轮第7顺位被活塞选中，职业生涯曾效力于活塞、雄鹿、凯尔特人、太阳、猛龙和76人，共上场632次常规赛，场均上场27.7分钟，得到13.2分8.3篮板你2.1助攻1.06抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，门罗共代表凯尔特人、76人和猛龙上场43次，场均上场11.2分钟，得到5.3分4.0篮板。今夏，格雷格-门罗加盟德国联赛拜仁慕尼黑俱乐部。
+   </p>
+   <span id="editor_baidu">
+    (编辑：二轮秀文科生)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

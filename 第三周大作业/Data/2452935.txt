@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美记：雷霆希望从热火得到温斯洛阿德巴约希罗中的两位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article231883203.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 01:10:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美记：雷霆希望从热火得到温斯洛阿德巴约希罗中的两位" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/1a160fd3e586d573502a48f5984165d483df756a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 近日，Miami Herald记者Barry Jackson撰文更新了热火与雷霆之间关于后卫拉塞尔-威斯布鲁克交易的最新消息与细节。
+   </p>
+   <p>
+    Barry Jackson称，由于热火已经交易了2021年和2023年的两个首轮签（目前由雷霆持有），因此热火在有关威斯布鲁克的这笔交易中无法提供首轮签，雷霆向热火索要多位年轻有价值的球员，其中包括热火刚刚签约的新秀泰勒-希罗，但热火不愿意这么做。（刚刚签约的新秀在三十天内不能被交易，但这不会成为障碍。）
+   </p>
+   <p>
+    除此之外，雷霆希望交易涉及到热火球员贾斯蒂斯-温斯洛、巴姆-阿德巴约和泰勒-希罗三人中的两人。但消息人士透露，热火也无意交易阿德巴约。主教练埃里克-斯波尔斯特拉认为阿德巴约上赛季最后几个月的表现算得上联盟最好的几个中锋之一。
+   </p>
+   <p>
+    目前尚不明确热火是否愿意为了威斯布鲁克付出温斯洛。
+   </p>
+   <p>
+    由于威斯布鲁克的合同还有四年1.71亿美元，热火更倾向于送出一些不符合球队未来长期发展目标的球员以配平薪资。但雷霆认为连续三年场均三双、伤病隐患很小的MVP得主威斯布鲁克来说，有必要要求得到更多资产。
+   </p>
+   <p>
+    双方可以将2023年的首轮签修改为不受保护，继而热火就可以交易2025或2026年的首轮选秀权。然而这些都是相当遥远的选择，雷霆可能优先考虑可以在未来几年内帮助球队的球员和选秀权。
+   </p>
+   <p>
+    2018-19赛季常规赛，温斯洛场均上场29.7分钟，得到12.6分5.4篮板4.3助攻；阿德巴约场均上场23.3分钟，得到8.9分7.3篮板2.2助攻。威斯布鲁克场均上场36分钟，得到22.9分11.1篮板10.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

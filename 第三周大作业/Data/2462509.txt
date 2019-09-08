@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦康奈尔：所有的TJ在同一支球队了，教练组会为此伤脑筋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://streamable.com/8py0x" target="_blank">
+     Streamable
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 10:54:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦康奈尔：所有的TJ在同一支球队了，教练组会为此伤脑筋" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/ba1cd1dac268b36fba29a501831cd0502c94c61e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 今夏休赛期签约步行者的TJ-麦康奈尔近日接受Streamable采访，谈到了对球队新赛季的期待等相关话题。
+   </p>
+   <p>
+    “我在过去的四年一直作为对手和他们比赛，我能看到他们打球的方式、内特（麦克米兰）教导的方式，以及他们所拥有的球员，综合所有因素，当然这里的球迷基础也非常好。
+   </p>
+   <p>
+    “我认为这是一支很好的球队，年轻、有天赋。我认为有了现有的这些成员我们可以一起做一些很特别的事。维克托（奥拉迪波）、道格（麦克德莫特）、迈尔斯（特纳），更衣室所有的球员和他们之间形成的友好的气氛，我很期待成为他们中的一份子。
+   </p>
+   <p>
+    “充分发挥我的能力，我不会试图成为假装成不真实的样子，会努力在场上和场下都做个好队友，努力让球和人之间运行流畅，努力做到无私，并且持续不断提高。我认为我可以为球队带来很多东西，不管是球场上还是更衣室里，并在每个登场打球的夜晚都竭尽全力。”
+   </p>
+   <p>
+    谈及球场之外的生活时，麦康奈尔表示：“我是那种比较冷静的人，我业余的时间基本上都是和我妻子待在一起。除此之外就是收集红酒，我很喜欢红酒。”
+   </p>
+   <p>
+    当被问及与TJ-沃伦、TJ-利夫同队打球的感想时，麦康奈尔表示：“我认为这很惊人，NBA里所有的TJ在同一支球队了。但教练组应该比较伤脑筋，我们可能也会遭遇一些麻烦，如果他们喊了一个人的名字，三个人可能都会回头，我们得想点办法解决这个问题。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

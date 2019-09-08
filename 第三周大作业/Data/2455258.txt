@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：谢赫-迪亚洛与太阳达成两年协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1151608044222132224" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 05:47:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：谢赫-迪亚洛与太阳达成两年协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/aea76574c29af3f6b6628122d84d68ee866edf45.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，自由球员谢赫-迪亚洛已经与太阳达成两年协议。
+   </p>
+   <p>
+    薪资专家Bobby Marks称，目前太阳的大名单已有15位球员（排除双向合同球员），太阳仍拥有老将底薪合同可以提供。
+   </p>
+   <p>
+    迪亚洛的生涯前三个赛季均为鹈鹕效力，共出场133次。2018-19赛季常规赛，迪亚洛场均出场14分钟，得到6.0分5.2篮板0.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

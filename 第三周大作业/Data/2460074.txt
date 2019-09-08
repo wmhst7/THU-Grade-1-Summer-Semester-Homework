@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希罗：我很喜欢迈阿密这座城市，会努力为下赛季做好准备
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sun-sentinel.com/sports/miami-heat/fl-sp-miami-heat-tyler-herro-20190730-jusrclp7r5embmymq4sem5fbky-story.html" target="_blank">
+     太阳哨兵报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 11:50:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希罗：我很喜欢迈阿密这座城市，会努力为下赛季做好准备" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/1dd3d0e024632b3a9ebe31e69e6ae5f6770d41c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 热火今年的首轮第13号秀泰勒-希罗在近日参加青少年篮球训练营时接受了媒体采访。
+   </p>
+   <p>
+    自从夏季联赛结束后，希罗一直和球队训练团队一同进行训练，他认为作为一名新秀，如果想要进入轮转阵容，防守将成为决定因素。
+   </p>
+   <p>
+    “毫无疑问，我认为防守是一切场上表现的基础，”希罗说道，“过去几周我们一直在努力训练，就是阅读防守，而不仅仅是专注于进攻端，我已经做好了准备。”
+   </p>
+   <p>
+    在结识了几位热火队中的新队友之后，希罗对于自己顺利过渡到NBA当中非常有信心。
+   </p>
+   <p>
+    “我几乎和球队中的每个人都沟通过，在赛季开始前能够和每个人见面，这真的太棒了，”希罗说道，“我认为这是一个非常棒的团队，每个人看起来都非常友好，我很高兴能够来到这里，与队友和教练组一同努力，我现在就是在熟悉一切。”
+   </p>
+   <p>
+    希罗还透露，球队在训练营开始之前并没有给他太多关于他比赛方面的反馈。
+   </p>
+   <p>
+    “他们并没有说太多相关的内容，”希罗说道，“我会继续努力工作，为下赛季做好准备。”
+   </p>
+   <p>
+    希罗不仅逐渐了解热火这支球队，也在逐渐熟悉迈阿密这座城市。
+   </p>
+   <p>
+    “我真的很喜欢这座城市，”希罗说道，“我能够开车去不同的地方，我已经去过几家餐厅，我非常喜欢这里，很高兴能够最终来到迈阿密。”
+   </p>
+   <p>
+    谈到球队在次轮第二顺位选中的KZ-奥克帕拉，希罗说：“我认为他有巨大的潜力，他身高臂长，运动能力出色，我认为他有很大的可提升空间，他超级努力。我们最近每天都一起训练，我已经迫不及待见证他的未来了。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

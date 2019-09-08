@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷琼-塔克上周为热火试训三天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article233945502.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 07:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷琼-塔克上周为热火试训三天" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/6222dc397a628e4e4a1feee25623c53413c3422a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 根据《迈阿密先驱报》记者Barry Jackson和Anthony Chiang的联合报道，一位联盟消息人士透露，雷琼-塔克上周为热火试训了三天。
+   </p>
+   <p>
+    热火有兴趣与塔克签下一份Exhibit 10合同，如果一份NBA合同里包括Exhibit 10附件，那么如果这名球员被裁，这允许一支NBA球队给这名球员最多5万美元的奖金，让他签约他们的NBA发展联盟附属球队。
+   </p>
+   <p>
+    如果一份NBA里合同有Exhibit 10附件，那么球队可以在常规赛首日之前将这名球员的合同转换为双向合同，塔克更希望签下一份双向合同，但是热火目前还没有为他开出双向合同报价。
+   </p>
+   <p>
+    21岁的塔克身高1.96米，体重95公斤，他是今年选秀大会的落选秀，来自阿肯色大学小石城分校。2018-19赛季，塔克场均出战36.6分钟可以拿到20.3分6.7篮板1.8助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

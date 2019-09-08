@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波什晒组图秀恩爱：结婚纪念日八周年快乐！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz_Ff4GJjnw/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 16:22:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波什晒组图秀恩爱：结婚纪念日八周年快乐！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/3dfb53e39e0009b104f2e7fc98208ba88b1084bc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日克里斯-波什更新了自己的个人Instagram动态，晒出了一组自己与妻子的恩爱照片。
+   </p>
+   <p>
+    “8年前的今天，我做出了人生中最重要的决定。结婚纪念日8周年快乐！当我回顾过去时，我是多么幸运能够娶到我梦寐以求的女人、我最好的朋友、以及我的另一半。你是我最爱的人，陪伴在你身边，看着你照料着我们美丽的5个孩子和整个家庭，与你每一天一起成长，让我拥有你的这一生成为了一件幸事。我爱我们在一起的这段旅程，我是世界上最幸运的男人，我会用我的一生来陪伴你。#纪念日快乐 #波什家庭 #妻子开心&amp;生活幸福 ”波什写道。
+   </p>
+   <p>
+    波什在2003年选秀大会首轮第四顺位被猛龙选中，职业生涯曾效力于猛龙和热火，共上场893次常规赛，场均上场35.8分钟，得到19.2分8.5篮板2.0助攻0.82抢断1.04盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/b22ad8bc72314aac5691a7592327c711.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/d4c2577bdcf79c67d6c6549832852e37.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/eef2f1fb46a3a8351d86ce3aa2a87691.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/43116243df39ab7a046ce045e03c4e4b.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/2b8bbb6ebde93a4c9524d973347124ca.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/fb32b6ad3333938060ca98de33d8993e.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/16/b55de17d5f42b924af01227c23387066.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  道尔顿-霍默斯与马刺签下Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/andybuhler/status/1162567529853796354?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 12:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="道尔顿-霍默斯与马刺签下Exhibit 10合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/7f871fb11473ea46bb935cbca66c384450fa082e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 道尔顿-霍默斯接受采访时确认，他已经与马刺签下了一份Exhibit 10合同。
+   </p>
+   <p>
+    如果一份NBA合同里包括Exhibit 10附件，那么如果这名球员被裁，这允许一支NBA球队给这名球员最多5万美元的奖金，让他签约他们的NBA发展联盟附属球队。
+   </p>
+   <p>
+    如果一份NBA里合同有Exhibit 10附件，那么球队可以在常规赛首日之前将这名球员的合同转换为双向合同。
+   </p>
+   <p>
+    23岁的霍默斯身高2.03米，体重98公斤，他是今年选秀大会的落选秀，是上赛季NABC Division II的最佳球员。
+   </p>
+   <p>
+    今年夏天，霍默斯在雄鹿夏季联赛队场均出战17.7分钟可以拿到8.4分1.6篮板0.8助攻1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

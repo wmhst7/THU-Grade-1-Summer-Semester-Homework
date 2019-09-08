@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  班巴谈海斯：他就是一个怪物，能跑能跳，运动能力极强
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/usatodaynba/status/1160312869063483393" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 06:31:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="班巴谈海斯：他就是一个怪物，能跑能跳，运动能力极强" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/5be398986aa0a33b48b74f30fc65f6f05d951f3d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 近期，魔术中锋穆罕穆德-班巴接受了记者的采访时表示自己对鹈鹕新秀贾克森-海斯在夏季联赛中的表现印象深刻，很期待海斯在新奥尔良鹈鹕队新秀赛季的表现。
+   </p>
+   <p>
+    班巴在采访时对记者说道：“他就是个怪物，他身高7英尺，但他真的能跳，运动能力非常强。我很高兴看到他在球场上的表现。目前，我只是告诉他联盟是怎样的，要比大学多投入多少。杰克森他很有头脑，所以我认为他会做得很好。”
+   </p>
+   <p>
+    值得一提的是，此前二人曾是校队队友，班巴与海斯都是来自德克萨斯大学。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

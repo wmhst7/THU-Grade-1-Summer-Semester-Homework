@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  越来越多的联盟内部人士相信湖人相比快船更加吸引伦纳德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thesteinline/status/1144832090749505536?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 13:22:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="越来越多的联盟内部人士相信湖人相比快船更加吸引伦纳德" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/2dfcb23e16c524db0b1455b3473c02ed2bdb19f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据《纽约时报》记者Marc Stein报道，距离自由球员市场开启开还有一天半的时间，目前联盟内的形势发生迅速转变。湖人让拉斯维加斯的赔率制定者以及越来越多的联盟内部人士相信他们才是更吸引伦纳德的那支洛杉矶球队，猛龙面临的最大威胁不是快船。
+   </p>
+   <p>
+    据Stein报道，联盟消息人士认为，若快船想吸引伦纳德加盟，他们可能需要击败的追求者不只是猛龙，他们可能需要说服凯文-杜兰特加盟球队，进而才能说服伦纳德选择快船而非湖人。联盟消息人士声称湖人具备的威胁就是如此之大。
+   </p>
+   <p>
+    根据此前的报道，杜兰特和伦纳德均计划与快船展开会面。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

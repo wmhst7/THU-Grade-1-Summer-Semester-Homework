@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  香珀特更新社交媒体：伤病也无法阻止我赢得冠军戒指
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6LylzguHW/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 09:46:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="香珀特更新社交媒体：伤病也无法阻止我赢得冠军戒指" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/49436d11433f0f873ed850e9dc947d4885c796a3.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，NBA球员伊曼－香珀特更新社交媒体Instagram，晒出自己帅照（见新闻配图）。
+   </p>
+   <p>
+    “我穿着这些鞋子撕裂了我的十字韧带，并且赢得了总冠军戒指，现在把他们挂起来。”他写道。
+   </p>
+   <p>
+    2018-19赛季，香珀特先后效力于国王与火箭。香珀特场均出场23.9分钟，可以贡献7.5分3.0篮板1.8助攻0.95抢断。季后赛场均出场13.6分钟，可以得到3.6分1.5篮板0.2助攻0.12抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

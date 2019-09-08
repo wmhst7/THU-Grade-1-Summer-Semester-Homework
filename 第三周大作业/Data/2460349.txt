@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：勇士与达米恩-李和凯-鲍曼签下双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/warriors/news/warriors-sign-damon-lee-ky-bowman-to-two-way-contracts" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 05:32:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：勇士与达米恩-李和凯-鲍曼签下双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/6b10f9599c6beedf24f01c77c535acfada3971e3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 勇士官方今日宣布，他们已经与达米恩-李和凯-鲍曼签下了双向合同。
+   </p>
+   <p>
+    双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得比普通发展联盟球员更多的工资，此举的目的是希望他们不要前往海外打球。
+   </p>
+   <p>
+    2018-19赛季常规赛，李作为勇士的双向合同球员场均出战11.7分钟得到4.9分2篮板0.4助攻，他是勇士球员斯蒂芬-库里的妹夫。
+   </p>
+   <p>
+    鲍曼身高1.85米，体重85公斤，来自波士顿学院，他是今年的落选秀，2018-19赛季场均出战39.4分钟，可以拿到19分7.5篮板4助攻1.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

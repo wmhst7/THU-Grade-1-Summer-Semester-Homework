@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯：安东尼现在应该在一支球队当中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/isaiahthomas/status/1165368652511604736?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 08:10:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯：安东尼现在应该在一支球队当中" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/218ed3f9174b72737f4d5243c66667db50ab5af5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 奇才的以赛亚-托马斯在推特上谈到了卡梅罗-安东尼。
+   </p>
+   <p>
+    “这位出色的卡梅罗-安东尼现在应该在一支球队当中！！！”小托马斯写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼共上场10次，场均上场29.4分钟得到13.4分5.4篮板，目前他还是一名完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

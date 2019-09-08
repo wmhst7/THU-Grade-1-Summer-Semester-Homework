@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人暂未与杰伦-布朗商讨提前续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BrianTRobb/status/1149175115814301696" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 09:30:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人暂未与杰伦-布朗商讨提前续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/bfd047955d11df90ed46e7b090971269ca2d68f8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 据波士顿当地媒体BostonSportsJournal记者Brian Robb报道，凯尔特人前锋杰伦-布朗自己透露，绿衫军暂时没有与他商量关于提前续约的事情。
+   </p>
+   <p>
+    “我还没从球队那里听到这个，事情决定权在他们手中。”布朗如此说道。
+   </p>
+   <p>
+    杰伦-布朗在2016年首轮第3顺位被凯尔特人选中，根据联盟规定，今年夏天他有权利与球队提前续约。
+   </p>
+   <p>
+    下赛季，杰伦-布朗将进入新秀合同的最后一年，他在下赛季薪水为653万美元。
+   </p>
+   <p>
+    2018-19赛季，杰伦-布朗共为凯尔特人出战74场，场均25.8分钟内可以得到13分4.2篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

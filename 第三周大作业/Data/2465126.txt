@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  千锤百炼！湖人官方发布詹姆斯库兹马波普训练图集
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1HtcI7gmgP/?igshid=10vgdkfcl92oc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 06:50:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="千锤百炼！湖人官方发布詹姆斯库兹马波普训练图集" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/3ad4891948bbc16341f180db2fd4b6c50c46ca34.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 湖人官方Instagram今日发布一组队内训练照。勒布朗-詹姆斯、凯尔-库兹马和肯塔维厄斯-考德威尔-波普均出现在这组照片中。
+   </p>
+   <p>
+    “湖人秀巡演即将来到你附近的城市。”湖人官方写道。此外，湖人官方推特也发布了两张詹姆斯的训练照并配文道：“天选之子。”
+   </p>
+   <p>
+    根据NBA官方公布的2019-20赛季赛程，湖人将于10月6日客场对阵勇士开启季前赛之旅；10月10日和12日分别在中国上海和深圳两战篮网；湖人的常规赛首战将是10月23日客场挑战快船。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/e4f76546e201a58b5cfbd96142d60537.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/80d8d3a9f487738c67ce46e5a2886004.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/a439ff569f76339af7382fb464ac80c4.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/41b47f74bb8d7fd55c8ed1f17d955836.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/8caae14c54a9559de6d69e3c4579731c.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/a1a383110d8bc2769e5d35d8939371b5.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/06/cc73302c0c774d4df9f912fac6c2eac8.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

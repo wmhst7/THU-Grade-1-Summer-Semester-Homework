@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库班：安东尼应该在美国男篮征战世界杯的大名单上
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1159910989917237249" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 06:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库班：安东尼应该在美国男篮征战世界杯的大名单上" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/63128aa006e712e96913b6aa0b187d04503de452.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 独行侠老板马克-库班接受采访时表示，卡梅罗-安东尼应该在美国男篮征战世界杯的大名单上。
+   </p>
+   <p>
+    “你谈的可是甜瓜，我必须要为他说话，他应该在那支球队里，他们绝对没有理由不让他加入。”库班说道。
+   </p>
+   <p>
+    库班接着说：“只要他没说自己必须先发，只要他没说他要多打，并且他愿意赢得自己的出场时间，绝对的，他该入选，他投入了时间，做出了贡献，他们现在的目标是什么？这又不是奥运会，他们只有几周的时间，又不是培养球员，能培养出什么，你会想要一个经历过这些的球员，你会想要一个可以帮助你赢球的球员，一个清楚他们在做什么的球员，至于他们口中说的那个分心，他们可是有着全宇宙最好的教练在那执教，怎么会让球队分心呢？”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

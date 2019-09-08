@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  瓦兰丘纳斯20+15，立陶宛86-57热身赛轻取韩国
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/923044/valanciunas-and-lithuania-stroll-over-south-korea/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 02:06:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="瓦兰丘纳斯20+15，立陶宛86-57热身赛轻取韩国" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/5c967aa4007041ba61d4c170cc8b958ee352ed6e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 在今晚进行的一场男篮世界杯热身赛中，立陶宛以86-57战胜韩国。
+   </p>
+   <p>
+    立陶宛方面，约纳斯-瓦兰丘纳斯得到20分15篮板的两双数据，Lucas Lekavicius得到12分，多曼塔斯-萨博尼斯和Marius Grigonis则因食物中毒缺席比赛。
+   </p>
+   <p>
+    立陶宛半场取得34-27的领衔，并且在第三节持续发力，以67-47领先20分进入第四节。
+   </p>
+   <p>
+    本届男篮世界杯中，立陶宛与加拿大、澳大利亚、塞内加尔同处H组，比赛将在东莞进行；韩国与阿根廷、俄罗斯和尼日利亚同处B组，比赛将在武汉进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

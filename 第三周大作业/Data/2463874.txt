@@ -1,0 +1,121 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  班巴：我现在已经接近完全康复，夏天的中国行非常棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.orlandosentinel.com/sports/orlando-magic/os-sp-mo-bamba-jr-nba-global-championship-20190809-ggswxtunavctvaqdccndv7nstu-story.html" target="_blank">
+     奥兰多哨兵报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 17:27:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="班巴：我现在已经接近完全康复，夏天的中国行非常棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/9e963ff6d50a9cb29d3dd814f68ca53fe01da27f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 魔术中锋穆罕默德-班巴近日在奥兰多迪士尼世界参加NBA青少年活动时接受了媒体采访。班巴上赛季常规赛期间遭遇了左小腿应力性骨折，他谈到了自己的恢复情况，以及对于下赛季的展望。以下为采访详情（Q=记者，A=班巴）：
+   </p>
+   <p>
+    <strong>
+     Q：你现在处于康复的哪个阶段？
+    </strong>
+   </p>
+   <p>
+    A：我现在已经接近完全康复了，我已经被允许参加任何篮球活动，我感觉很棒，我会继续做我最擅长做的事情。
+   </p>
+   <p>
+    <strong>
+     Q：这是你第一次遭遇如此严重的伤病吗？
+    </strong>
+   </p>
+   <p>
+    A：是的，这种程度的伤病还是第一次。
+   </p>
+   <p>
+    <strong>
+     Q：无法在季后赛中出场，最艰难的部分是什么？
+    </strong>
+   </p>
+   <p>
+    A：只能作壁上观，但与此同时，你会享受季后赛的比赛气氛，观众非常疯狂，但无法与队友们并肩作战，这很艰难。
+   </p>
+   <p>
+    <strong>
+     Q：你之前有提到自己想要增重，现在情况如何？
+    </strong>
+   </p>
+   <p>
+    A：我在这方面取得了很棒的进展，我一度增重到240磅，但随后减少了一些体重，因为我参与了很多5对5比赛。现在仍是休赛期，我会继续增重的。
+   </p>
+   <p>
+    <strong>
+     Q：你与斯蒂芬-库里、乔尔-恩比德和丹尼斯-史密斯一起去中国参加了安德玛的活动，感觉如何？
+    </strong>
+   </p>
+   <p>
+    A：中国真的太棒了，我在那里度过了人生中最棒的时光，那里的人们热情欢迎我们。
+   </p>
+   <p>
+    <strong>
+     Q：人们认出你了吗？
+    </strong>
+   </p>
+   <p>
+    A：我身高2.16米，所以...是的，我曾在中国参与过一些非盈利组织活动，很多人还记得我。
+   </p>
+   <p>
+    <strong>
+     Q：你在休赛期还做了什么？
+    </strong>
+   </p>
+   <p>
+    A：我回家待了一段时间，去洛杉矶和训练师Drew Hanlen一起训练，又去德克萨斯州待了一段时间。
+   </p>
+   <p>
+    <strong>
+     Q：你感觉下赛季你能够给魔术带来什么？
+    </strong>
+   </p>
+   <p>
+    A：很多，无论是在禁区内的防守还是进攻，我会让对手在禁区内感受到压力。
+   </p>
+   <p>
+    <strong>
+     Q：你对魔术休赛期的操作有何看法？
+    </strong>
+   </p>
+   <p>
+    A：我对我们的球队非常满意，我们肯定是为了比上赛季更远大的目标而打造球队。
+   </p>
+   <p>
+    <strong>
+     Q：你在休赛期着重提升了自己哪方面的技术？
+    </strong>
+   </p>
+   <p>
+    A：我的整体实力，就是确保自己能够成为一名更全面的球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

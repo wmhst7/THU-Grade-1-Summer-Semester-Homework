@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  惬意！伦纳德目前和女友在巴巴多斯度假
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/06/27/kawhi-leonard-floating-beach-barbados/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 02:24:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="惬意！伦纳德目前和女友在巴巴多斯度假" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/55a38fc1a940869e3de43bbea6573b392ed177a9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据TMZ体育报道，今年总决赛MVP科怀-伦纳德目前正在和女友Kishele Shipley在巴巴多斯（Barbados）度假，两人正驾着浮艇在海上游玩。
+   </p>
+   <p>
+    巴巴多斯位于东加勒比海小安的列斯群岛最东端，为珊瑚石灰岩海岛。
+   </p>
+   <p>
+    据之前的报道，伦纳德不会执行2019-20赛季的球员选项，今夏将成为一名完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均出战34分钟，可以拿到26.6分7.3篮板3.3助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

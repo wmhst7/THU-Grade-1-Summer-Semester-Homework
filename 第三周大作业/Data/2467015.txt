@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  早起不怕堵！詹姆斯晒照展示自己凌晨3点半出门准备训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2109946927238913741?utm_source=ig_story_item_share&amp;igshid=r08v2vgm1tlh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 19:03:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="早起不怕堵！詹姆斯晒照展示自己凌晨3点半出门准备训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/ad43b2a64df488368e53166b7e99c4d97084a22b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 湖人前锋勒布朗-詹姆斯今日更新Instagram Story，展示自己在当地时间凌晨3时许就出门准备训练的场景。
+   </p>
+   <p>
+    詹姆斯发布了一张黑色背景的图片并配文道：“让我们一起努力！早上3点33分。训练。#过气的国王”
+   </p>
+   <p>
+    詹姆斯随后连续发布多段自己在一片漆黑的车内嗨歌的自拍动态，并为第一段视频配文道：“让我们努力吧/天空才是极限。今天早上都是@jeezy 的作品氛围！磨砺心态。”
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/19/27200c98b08a43d2ab217ee5e9dee49e.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/19/0cba159a1974d09be05e13332a1a7c5f.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：斯奈德教练曾要求我观察学习沃克的比赛风格
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sltrib.com/sports/2019/08/10/jazz-star-donovan/" target="_blank">
+     盐湖城论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 11:50:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：斯奈德教练曾要求我观察学习沃克的比赛风格" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/334124207d6eab36e7ca1a0587318b6be3d45348.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 爵士球员多诺万-米切尔在近日参加美国男篮训练营时接受了媒体采访。
+   </p>
+   <p>
+    米切尔透露，爵士主教练奎因-斯奈德希望他能够观察学习美国男篮训练营队友肯巴-沃克的比赛风格。
+   </p>
+   <p>
+    “我认为我们两人的搭档很默契，”米切尔说道，“肯巴是斯奈德教练曾要求我观察学习的对象。”
+   </p>
+   <p>
+    谈到自己在热身赛中的防守表现，米切尔说：“最重要的就是能够在防守端打出表现，因为进攻端的表现会水到渠成的，但在防守端，我认为这是我可以向前迈进一步的方面。”
+   </p>
+   <p>
+    美国男篮在休整两天之后将前往洛杉矶进行为期三天的训练营，随后参加与西班牙男篮的热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

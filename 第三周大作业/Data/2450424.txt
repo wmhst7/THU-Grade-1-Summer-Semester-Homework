@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  享受美景不忘训练，字母哥与哥哥做运球训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzgBMoRl4eo/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 10:01:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="享受美景不忘训练，字母哥与哥哥做运球训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/5e962e743a6458e8ec5657dc01be4431214f3d2a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今天雄鹿球员扬尼斯-阿德托昆博在Instagram上发布了一段视频，视频中他与哥哥萨纳西斯-阿德托昆博在风景秀丽的餐厅露台上训练运球。
+   </p>
+   <p>
+    扬尼斯写道：“这里的景色让我更有训练的动力。不能停止训练，不会停止训练。和@萨纳西斯-阿德托昆博 一起。”
+   </p>
+   <p>
+    萨纳西斯是扬尼斯的亲哥哥，出生于1992年7月18日。他曾在NBA效力于尼克斯队，2015-16赛季代表尼克斯出场2次。目前萨纳西斯效力于希腊俱乐部帕纳辛奈克斯，2018-19赛季场均出战12.1分钟，能得到4.2分1.8篮板。
+   </p>
+   <p>
+    2017-18赛季常规赛，阿德托昆博场均出场32.8分钟，得到27.7分12.5篮板5.9助攻1.28抢断1.53盖帽，并当选了当赛季常规赛最有价值球员。
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190705/10/31a20355719df5d49769999cebe3b91d.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

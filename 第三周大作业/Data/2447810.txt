@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多特森：我不能说希望让哪些球员加盟，巴雷特肯定能帮到我们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/06/27/rj-barrett-praised-by-knicks-teammate-damyean-dotson/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 08:12:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多特森：我不能说希望让哪些球员加盟，巴雷特肯定能帮到我们" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/ba23a33807c80ec134507508d89003453a4782ae.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据TMZ体育的报道，尼克斯球员丹伊恩-多特森接受采访时谈到了多个方面。
+   </p>
+   <p>
+    谈到自己的肩膀，多特森说：“挺好。”
+   </p>
+   <p>
+    希望哪些自由球员加盟尼克斯？多特森说：“我不能谈，但是外面的猜测就是那样了，我们看看未来会怎么样吧。”
+   </p>
+   <p>
+    谈到RJ-巴雷特，多特森说：“我爱他，我爱他的比赛，我期待着跟他一起打球，他是一个聪明的家伙，运动能力十足，很强壮，他肯定可以帮到我们。”
+   </p>
+   <p>
+    “我认为他会非常出色的，他是一个高大的后卫，有2米，他能打锋线，也可以打后卫，他有机会在这个联盟里变得非常出色。”多特森说道。
+   </p>
+   <p>
+    谈到新赛季，多特森说：“我非常兴奋，新赛季是我在联盟的第三个赛季，我要变得更好。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

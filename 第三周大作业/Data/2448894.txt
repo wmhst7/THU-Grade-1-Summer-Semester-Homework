@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔与唐斯昨日完成会面，森林狼正努力腾出薪资空间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1145486547665530880" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 08:24:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔与唐斯昨日完成会面，森林狼正努力腾出薪资空间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/2404df754ca67215decef289940cfa3bec7308b2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据《纽约时报》记者Marc Stein报道，联盟消息人士透露，丹吉洛-拉塞尔与森林狼中锋卡尔-安东尼-唐斯两人在当地时间昨天完成了最近一次的会面。
+   </p>
+   <p>
+    目前，森林狼正在联盟范围内寻求交易以确保球队能够留出签约拉塞尔所需的薪资空间。
+   </p>
+   <p>
+    目前森林狼的薪资总额为1.05亿美元，根据薪资专家Albert Nahmad的计算，在不送出安德鲁-威金斯的情况下，他们需要找到接手杰夫-蒂格（1900万）和戈尔吉-吉昂（1500万）的球队，才能创造出空间签下拉塞尔。
+   </p>
+   <p>
+    根据此前的报道，唐斯将参加与拉塞尔的会面，拉塞尔与森林狼之间互相有意。篮网此前为拉塞尔开出了资质报价合同，有权匹配针对拉塞尔的任何合同报价，并对于通过拉塞尔的签换交易得到杰夫-蒂格不感兴趣。此外湖人也对拉塞尔非常感兴趣。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均出场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断，并入选全明星阵容。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

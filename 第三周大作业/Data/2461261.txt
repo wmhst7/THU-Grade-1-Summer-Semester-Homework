@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  汤普森：队内打电子游戏打得最好的是我，最差的是库里
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=5Uy6dqqkGuA" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 14:29:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="汤普森：队内打电子游戏打得最好的是我，最差的是库里" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/d1ca34a1a2290d9af9444180f98849859ea14e87.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 昨日，勇士后卫克莱-汤普森出席了《使命召唤16：现代战争》发布仪式，并参与了最新款游戏的试玩对战活动。
+   </p>
+   <p>
+    试玩过程中，汤普森被问到在玩电子游戏方面，谁是勇士队中最优秀的，谁又是最糟糕的。汤普森一边玩游戏一边回答说：“打得最好的是我，打得最差的是斯蒂芬-库里。库里打得最烂的原因是他没有空余时间，他很忙，他有了儿子Cannon，他要带孩子，他不再有时间打电子游戏了。不过他对此很有热情。”
+   </p>
+   <p>
+    采访者继续问汤普森，除了他之外谁是勇士队中打电子游戏打得最好的。汤普森盯着电脑屏幕，专注于游戏，回答说：“他们可能对此有很多争议，但是我是最好的。”话音刚落，他输掉了游戏。
+   </p>
+   <p>
+    采访者说，打电子游戏能使头脑保持灵活，并询问这对受伤的他的帮助时，汤普森说：“这是一种输入，同时这也是你能与孩子进行的活动，和青少年们产生一种联系是很好的。”
+   </p>
+   <p>
+    采访者还想就孩子的话题继续深入，但是汤普森又输掉了游戏。
+   </p>
+   <p>
+    最后，谈到自己想对所有《使命召唤》游戏爱好者所说的话时，汤普森说：“告诉他们，我会来成为职业选手的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

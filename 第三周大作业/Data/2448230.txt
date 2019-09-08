@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科里森宣布从NBA退役长文：谢谢你们尊重我的决定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/darren-collison-i-have-decided-to-retire-from-the-nba/amp/?tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 12:34:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科里森宣布从NBA退役长文：谢谢你们尊重我的决定" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/518a97fe9a579e691b68c18309b2532061164f0b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，印第安纳步行者球员达伦-科里森宣布从NBA退役，以下是其发表退役长文：
+   </p>
+   <p>
+    从我还是个孩子时，篮球就进入了我的生活。我从来没想过有什么其他事情能够比打球带给我更多的乐趣。尽管我仍然喜爱篮球，但我有一些更重要的事情，那就是我的家人和信仰。我是耶和华见证人之一，我的信仰对我来说就是一切。我从帮助别人那里获得了很多快乐。这种快乐是无法匹敌的。
+   </p>
+   <p>
+    就像刚刚说的，我决定从NBA退役。
+   </p>
+   <p>
+    很明显，当你像我一样热爱篮球比赛时，你会更专注于篮球，而不是去做其他你想做的事情。我一直觉得我需要做的更多去帮助别人，那就是为什么尽可能多的尝试和帮助他人是如此重要的原因。我很感谢篮球带给我的生命中的这么多机会。我已经足够幸运在最好的粉丝面前和最好的联盟里打了十多年球。我的经纪人Bill Duffy对我来说已经不仅仅是经纪人，他也是贯穿我职业生涯的朋友、导师和家人。我同样感谢我和我的队友、教练和工作人员那里建立的友谊，我将终生珍藏。像维克托-奥拉迪波、拉塞尔-威斯布鲁克、德马库斯-考辛斯、凯文-杜兰特、凯里-欧文、克里斯-保罗、斯蒂芬-库里、德维恩-韦德以及勒布朗-詹姆斯这样的球员，他们对我在最高水平的比赛中竞争产生了巨大的影响。我同样和那些我提到的球员或者激励我不断努力的球员建立了很好的关系。很明显，我从来没得到过像他们那样的赞誉，但是他们给了我一个努力的基准，我真的很感谢他们。
+   </p>
+   <p>
+    如果没有我的父母和家人的支持，我也不能在NBA这么多年，但是在我NBA旅程中最重要的人是我深爱的妻子 Keyosha，她是我最喜爱的队友。从《内陆帝国》中的阿提旺达鼎盛时期起，我们就一起踏上了这段旅程（意指和妻子相爱已久），她一直在过去的十几年里鼓励我。她一个人在赛季期间管理着我们家你能想象到的一切事情。从我们做的那么多计划，每天所面临的挑战，再到一个赛季里面起伏不定的情绪。她就是我们的力量所在。
+   </p>
+   <p>
+    致你们所有人，我真的想对你们这么多年以来的支持表示感谢。谢谢你们尊重我的决定。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺开始接触其他侧翼球员，以防莫里斯加盟其他球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1148702315383103488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 05:28:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺开始接触其他侧翼球员，以防莫里斯加盟其他球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/522b19c858b3c7ff23505245ae1d200568f92de0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 据雅虎记者Chris Haynes报道，消息人士透露，马刺在前锋马库斯-莫里斯考虑加盟尼克斯之后，以防万一，开始接触其他侧翼自由球员。
+   </p>
+   <p>
+    消息人士透露，乐观估计，马库斯-莫里斯仍会和马刺达成协议。
+   </p>
+   <p>
+    目前自由市场上，侧翼自由球员还有：凯里-乌布雷（太阳已提供资质报价）、伊曼-香珀特、卡梅罗-安东尼、萨博-塞福洛沙、文斯-卡特、鲁尔-邓、贾斯廷-霍勒迪等球员。
+   </p>
+   <p>
+    与莫里斯同位置的自由球员还有：肯尼斯-法里德、泰勒-莱尔斯、约纳斯-杰雷布科等。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2452168.html" target="_blank">
+     马库斯-莫里斯重新考虑签约，可能加盟尼克斯&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

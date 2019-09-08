@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔：2016-17赛季是我生涯最有趣的一年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/washington/video/john-wall-believes-he-and-bradley-beal-have-unfinished-business" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 10:22:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔：2016-17赛季是我生涯最有趣的一年" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/bb37a68ba8b39bd30797b78ed84352d4c68ec778.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 奇才后卫约翰-沃尔近日接受了记者采访，回顾了2016-17赛季。
+   </p>
+   <p>
+    沃尔表示：“16-17赛季，我们那年状态很好，我和布拉德利（比尔）场均都能得23分，对手必须在我们两人间选瓶毒药，这是我生涯至今最有趣的一个赛季，那时我们都签下了合同，明确自己的角色，我们打得很快乐。”
+   </p>
+   <p>
+    沃尔还表示期待自己恢复健康后和比尔再次并肩作战，并且希望他能和球队完成续约。
+   </p>
+   <p>
+    2016-17赛季，奇才取得49胜33负的战绩，排名东部第四，最终东部半决赛3-4不敌凯尔特人。那个赛季常规赛，沃尔和比尔场均都能得到23.1分。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

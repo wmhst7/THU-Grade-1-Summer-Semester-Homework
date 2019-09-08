@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马克-加索尔执行球员选项，下赛季将留守猛龙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thesteinline/status/1143988175104348161?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 05:43:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马克-加索尔执行球员选项，下赛季将留守猛龙" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/125a2ffeaab1d32b60b6a05871603b1244f214e0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 猛龙官方今日宣布，队中中锋马克-加索尔执行其2019-20赛季价值2560万美金的球员选项，下赛季将留守猛龙。
+   </p>
+   <p>
+    小加索尔与猛龙还有一年2560万美金的合同，2018-19赛季季后赛，小加索尔场均出场30.6分钟得到9.4分6.4篮板3.0助攻，并随球队拿到总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

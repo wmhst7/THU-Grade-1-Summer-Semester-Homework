@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕夏联主帅谈威廉森：他会让对手很难对付的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/03/zion-williamson-already-liking-this-nba-offense-friendly-rule/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 18:14:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕夏联主帅谈威廉森：他会让对手很难对付的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/347cae8a3b07d1d2496e10eea2657259c9038f7a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今日，新奥尔良鹈鹕正在备战夏季联赛，训练结束后，鹈鹕夏季联赛主教练Fred Vinson 接受了记者采访。
+   </p>
+   <p>
+    谈到状元秀蔡恩-威廉森，Fred Vinson说道：“我们可以把他（威廉森）安排到禁区，他会非常有杀伤力，尤其是创造很多错位的时候，他肯定会让对手很难对付。”
+   </p>
+   <p>
+    球队后卫弗兰克-杰克逊也打了去年的夏季联赛，在接受采访时谈到去年和今年的不同，威廉森效应就是其中一部分。
+   </p>
+   <p>
+    “球队里的每个人都想要赢球，每天都想要变得更好。我觉得在现在的鹈鹕有一种每个人都能感觉到的能量，我们准备好去大干一场了。”杰克逊说道。
+   </p>
+   <p>
+    北京时间7月6日，威廉森将会迎来自己的夏联首秀，对手是纽约尼克斯，这也是威廉森和大学队友RJ-巴雷特在NBA赛场的首次相遇。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

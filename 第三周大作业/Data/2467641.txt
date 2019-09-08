@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  FIBA：易建联将迎第三次世界杯之旅，中国将有怎样表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/fibawc/?hl=en" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 12:11:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="FIBA：易建联将迎第三次世界杯之旅，中国将有怎样表现" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/05af68bddc2cfa2208320142d91ad674cfbb59e0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日国际篮联世界杯在官方Instagram上晒出了身披中国11号战袍的易建联的照片。
+   </p>
+   <p>
+    “易建联的第三届男篮世界杯！中国队在小组赛阶段的成绩将怎么样呢？进军淘汰赛第一轮？”FIBA写道。
+   </p>
+   <p>
+    易建联曾在2006年代表中国男篮参加男篮世界杯的前身男篮世锦赛，场均得到6.2分5.7篮板。2010年，易建联第二次代表男篮出战世锦赛，场均得到20.2分10.2篮板，带领男篮进军16强。2014年男篮世界杯，中国放弃外卡申请以把全部的重点放在韩国仁川举行的亚运会上。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士与JR-史密斯同意推迟将合同转为全额保障的日期
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/joevardon/status/1145074463391789059?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 06:22:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士与JR-史密斯同意推迟将合同转为全额保障的日期" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/613f67b9a75c0f441e1f2144966db2e905c11324.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据The Athletic记者Joe Vardon报道，一位联盟消息人士透露，骑士与JR-史密斯同意推迟将合同转为全额保障的日期至当地时间8月1日，以给予骑士更多时间寻求交易史密斯。
+   </p>
+   <p>
+    据NBA记者Brian Windhorst报道，消息人士透露，史密斯与骑士协商同意将其合同转为全额保障的日期推迟至当地时间7月15日，并且双方都有选项将这一日期进一步推迟到8月1日。他的合同中下赛季保障金额将从390万美元提升至440万美元。
+   </p>
+   <p>
+    原本史密斯的合同转为全额保障的日期为当地时间6月30日，2019-20赛季他的薪水为1568万美元，其中目前只有387万美元的保障金额。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

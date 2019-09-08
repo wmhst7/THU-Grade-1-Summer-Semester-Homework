@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  跟队记者：沃克很重视黄蜂能够提供的五年全额保障合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rick_bonnell/status/1143689179357949952" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 11:16:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="跟队记者：沃克很重视黄蜂能够提供的五年全额保障合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/a187af0d31be7c4bb9cd5ecb1b5e80f3eef5ff3c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 据黄蜂跟队记者Rick Bonnell报道，后卫肯巴-沃克想要得到一份五年全额保障合同。
+   </p>
+   <p>
+    Rick Bonnell透露，沃克很重视黄蜂能够为其提供的五年长约，因此问题的关键不在于薪资的总金额，而是这份五年合同需要是全额保障合同。
+   </p>
+   <p>
+    黄蜂是唯一能够为沃克提供五年2.21亿美元合同的球队，其他球队最多只能为沃克提供一份四年1.4亿美元的合同。
+   </p>
+   <p>
+    据《纽约时报》记者Marc Stein报道，联盟消息人士透露，凯尔特人和独行侠将会积极追逐肯巴-沃克。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

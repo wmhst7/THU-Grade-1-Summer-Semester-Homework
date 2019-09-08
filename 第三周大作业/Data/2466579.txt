@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黄蜂7名球员2K能力值公布：罗齐尔78，华盛顿72
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/2kratings/status/1162051381819142145?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 09:23:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黄蜂7名球员2K能力值公布：罗齐尔78，华盛顿72" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/a39f5cbe90893d9984d29a08688b3a76e9a2c7d4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 近日2K Ratings网站更新了多名黄蜂球员的NBA 2K20游戏初始值，详情如下：
+   </p>
+   <p>
+    特里-罗齐尔：78
+   </p>
+   <p>
+    尼古拉斯-巴图姆：77
+   </p>
+   <p>
+    科迪-泽勒：77
+   </p>
+   <p>
+    马文-威廉姆斯：76
+   </p>
+   <p>
+    吉列尔莫-埃尔南戈麦斯：76
+   </p>
+   <p>
+    迈尔斯-布里奇斯：76
+   </p>
+   <p>
+    PJ-华盛顿：72
+   </p>
+   <p>
+    PJ-华盛顿在本届选秀首轮第12顺位被黄蜂选中。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/09/95efcb81169590f8867a93dbca172906.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬招募卡特：年轻人崇拜你，希望你能加盟我们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=TQbVJQUnAMY" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 18:50:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬招募卡特：年轻人崇拜你，希望你能加盟我们" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/a097ff05ae6e5cdcf11177290c4609d26e13e8a0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 NBA球员文斯-卡特和鹈鹕总经理大卫-格里芬今日一同参加了一档节目，大卫-格里芬在节目中向卡特发起了招募。
+   </p>
+   <p>
+    当被主持人问及卡特下赛季应该去哪里效力时，大卫-格里芬笑着说：“我可以告诉你，他可以加盟我们。”
+   </p>
+   <p>
+    “这是在摄影机前的招募，他是自由球员，这是符合规定的。”主持人Rachel Nichols笑着说道。
+   </p>
+   <p>
+    格里芬紧接着转过身对卡特说：“文斯，你有非常丰富的经验，当你和年轻人在一起打球时，你会成为球队的领袖，与此同时，你还能够获得可观的出场时间，因为你现在依旧有能力做到这一切。希望我们会是那支你想要加盟的球队，这对于我们而言是非常有趣的局面，因为你身上所代表的一切，和我们的建队策略非常契合。”
+   </p>
+   <p>
+    “我们的更衣室里有一群十八、九岁的孩子，他们从小就崇拜文斯，而他现在依旧能够打出高水准，他的体型保持得非常棒，这并不是每个人都能够做到的，他会成为我们的年轻人的榜样。”格里芬补充道。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

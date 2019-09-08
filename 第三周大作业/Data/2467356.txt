@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：俄罗斯俱乐部恩尼斯尔签约达柳斯-莫里斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1163711310602952704" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 16:37:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：俄罗斯俱乐部恩尼斯尔签约达柳斯-莫里斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/35d88583062772a61b6924f08d9fe92ccf32c79e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 俄罗斯联赛俱乐部恩尼斯尔官方今日宣布，球队已经与前NBA球员达柳斯-莫里斯签约。
+   </p>
+   <p>
+    达柳斯-莫里斯毕业于密歇根大学，在2011年NBA选秀大会次轮第11顺位被湖人选中，NBA职业生涯曾效力于湖人、76人、快船、灰熊和篮网，共出战过132场常规赛，场均出场11.1分钟，能够得到3.3分1篮板1.4助攻。
+   </p>
+   <p>
+    此外，达柳斯-莫里斯曾于2018年加盟CBA联赛广东队。
+   </p>
+   <p>
+    达柳斯-莫里斯上赛季效力于NBA发展联盟圣克鲁斯勇士队，场均能够得到15.2分3.4篮板6.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

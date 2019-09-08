@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  欢声笑语！美国男篮官方发布赌城训练营首日训练组图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0zQan5FSw7/?igshid=18yfjs25e7lp5" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 10:54:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="欢声笑语！美国男篮官方发布赌城训练营首日训练组图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/54f47ab4cbe3786fc78d35fd1e976ec99125126a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 美国男篮官方Instagram今日连续发布球队备战世界杯的训练营首日队内训练组图。
+   </p>
+   <p>
+    “今天的维加斯充满欢声笑语。”美国男篮官方写道。
+   </p>
+   <p>
+    出现在这组照片中的成员包括凯尔特人球员肯巴-沃克、猛龙球员凯尔-洛瑞、国王球员达龙-福克斯、爵士球员多诺万-米切尔、火箭球员PJ-塔克以及马刺主帅格雷格-波波维奇。
+   </p>
+   <p>
+    此外，美国男篮官方发布了训练营首日回顾短片。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4402239982925008">
+     视频：美国男篮训练营首日集锦
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/34d67f3f83ee42dd3008e36e162114f1.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/bc2b5e1e6b9c7bd6fa878dfe012a17bb.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/dc807c0a2e7d418045b329400b76cf56.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/260f273c4d9f95306e1a5260a0bbb6fa.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/44524c7f5d76165f671252eac54dda14.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

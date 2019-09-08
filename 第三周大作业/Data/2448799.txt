@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王以4年8800万与巴恩斯达成续约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1145452132335783936" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 05:08:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王以4年8800万与巴恩斯达成续约协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/a3aed9aa5978f460c8c40b2dc38a0300eec9fb5f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据《纽约时报》记者Marc Stein报道，多位消息人士透露，国王与哈里森-巴恩斯以4年8800万美元达成续约协议。
+   </p>
+   <p>
+    根据NBA记者Sam Amick报道，每年的薪水将逐年递减，第四年将只占据球队工资帽的14%。
+   </p>
+   <p>
+    根据此前的报道，巴恩斯将不执行自己2019-20赛季2510万美元的球员选项，成为完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴恩斯场均上场32.9分钟，得到16.4分4.7篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

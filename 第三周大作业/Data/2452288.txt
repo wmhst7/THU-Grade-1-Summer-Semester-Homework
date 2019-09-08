@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯正式签下兰德尔、佩顿、波蒂斯、艾灵顿、吉布森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/knicks/front-office-news/new-york-knicks-sign-five-players" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:51:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯正式签下兰德尔、佩顿、波蒂斯、艾灵顿、吉布森" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/7460ea3efaaf56da6207272cf6c8340ffe0e67e5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 纽约尼克斯队官方今日宣布，球队已经正式签下后卫韦恩-艾灵顿、前锋泰-吉布森、后卫埃尔弗里德-佩顿、前锋博比-波蒂斯以及前锋朱利叶斯-兰德尔。根据球队政策，合同细节并未被公布。
+   </p>
+   <p>
+    根据此前的报道，艾灵顿的合同金额为2年1600万美元、吉布森的合同金额为2年2000万美元、佩顿合同金额为2年1600万美元、波蒂斯合同金额为2年3100万美元、兰德尔合同金额为3年6300万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻；波蒂斯场均出场26.0分钟，得到14.2分8.1篮板；佩顿场均出场29.8分钟，得到10.6分5.2篮板7.6助攻；吉布森场均出场24.1分钟，得到10.8分6.5篮板；艾灵顿场均出场24.5分钟，得到10.3分2.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

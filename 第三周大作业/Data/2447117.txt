@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷谈竞争顶级自由球员：不喜欢清理薪资空间，多给我些难度
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Daryl-Morey-flips-the-script-while-in-Los-Angeles-14040985.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 09:17:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷谈竞争顶级自由球员：不喜欢清理薪资空间，多给我些难度" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/1b9874a164c62087b55d8558a88758981d4ce0ad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 在昨日NBA颁奖典礼期间，火箭总经理达雷尔-莫雷接受了媒体的采访。
+   </p>
+   <p>
+    “我认为我们会保留我们的先发5人组，然后增加一位顶级的中产球员，也许我们会干得比这还好一些，我们会成为西部最被看好的球队，这是肯定的，上赛季最后阶段，我们以这样的阵容成为了联盟最好的球队，并且那个时候我们还没有增加一位出色的球员，我们会增加一位出色的球员，大部分球队需要非常努力才能勉强留下他们的先发阵容，我们下赛季仍然拥有我们的先发阵容。”莫雷说道。
+   </p>
+   <p>
+    另外，虽然没有薪资空间，但是莫雷也认为他们有可能会得到一位顶级自由球员，他说：“我不喜欢清理薪资空间的交易，多给我一些难度，我喜欢那些需要更难的操作才能得到球员的运作，所有的运作都与工资帽有关，这很可能对我们不利，但是听着，这是竞争，会存在竞争的。”
+   </p>
+   <p>
+    莫雷接着说：“有几个顶级球员，但是看起来争夺战是开放式的，现在看起来更开放了，有几个球员差不多知道他们要去哪里打球了，剩下的球员还是一个迷，他们的身边人很团结（没有透露风声）。”
+   </p>
+   <p>
+    如果休赛期运作不能成功，莫雷说：“我们会保留我们的先发5人组，加上一个中产球员，我们会比上赛季更好，我认为我们下赛季会是最被看好的球队。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

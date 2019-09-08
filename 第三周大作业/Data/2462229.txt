@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科斯塔斯-阿德托昆博社媒晒出与兄弟及希腊队友的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0x31isH7D_/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 14:48:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科斯塔斯-阿德托昆博社媒晒出与兄弟及希腊队友的合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/89f475a472c7b31acd6f0f633bc8240cd51775b7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，湖人球员科斯塔斯-阿德托昆博在个人社交媒体Instagram上晒出一张与自己的二哥萨纳西斯-阿德托昆博、三哥扬尼斯-阿德托昆博和他们的另一位希腊队友Christos Saloustros的合影，并配文：“希腊希腊”。
+   </p>
+   <p>
+    今夏休赛期，科斯塔斯被独行侠裁掉，随后被湖人认领，目前是湖人的双向合同球员；萨纳西斯以2年300万美元的全额保障合同与雄鹿签约。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

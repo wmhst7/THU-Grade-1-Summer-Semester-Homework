@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小凯文-波特晒出个人2K20能力值：72
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1XCrg8n9Ho/?igshid=3upcxgd7ueue" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 07:47:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小凯文-波特晒出个人2K20能力值：72" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/a7d16cbebbea09ed80b4971502358cf2927edf49.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 骑士新秀后卫小凯文-波特今日在Instagram上晒照展示自己的NBA 20K20游戏初始能力值，能力值为72。
+   </p>
+   <p>
+    “那就是2K中的我？@NBA2K @Ronnie2K 你知道首次更新后这些评分就会上涨对吧？”小凯文-波特写道。
+   </p>
+   <p>
+    小凯文-波特在本届选秀中以首轮第30顺位被骑士选中。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

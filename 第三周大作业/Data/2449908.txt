@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔-哈里斯：KD是历史最佳之一，很高兴他能够加盟球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dpshow/status/1146149974456930304" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 18:44:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔-哈里斯：KD是历史最佳之一，很高兴他能够加盟球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/b6ac30f60c14410e46481eea7c28f097f8824526.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 篮网球员乔-哈里斯在今日接受电话采访时谈到了新队友凯文-杜兰特和凯里-欧文的加盟。
+   </p>
+   <p>
+    谈到何时得知杜兰特和欧文加盟的消息，哈里斯说：“就在自由球员市场开幕当天，他们携手加盟的消息很快就出来了。”
+   </p>
+   <p>
+    在加盟球队之后，杜兰特和欧文与球队管理层、教练以及部分球员进行了会面，谈到当时会面的场景，哈里斯说：“我向KD介绍了自己，我和凯里之前在骑士做过队友，因此我不需要向他做自我介绍。”
+   </p>
+   <p>
+    随后主持人问哈里斯有没有向杜兰特强调自己是三分大赛冠军，哈里斯笑着说：“没有，就是简单地介绍了一下。”
+   </p>
+   <p>
+    谈到此次会面的氛围，哈里斯说：“每个人都非常兴奋，我们的教练组，管理层和老板。对于球队而言，这是一个具有里程碑意义的时刻。我们相互介绍了自己，对下赛季进行了展望，我们对未来感到非常兴奋。”
+   </p>
+   <p>
+    谈到杜兰特，哈里斯表示：“他是NBA历史上最出色的球员之一，即便他可能在下赛季无法出场，但我们依旧很高兴他能够成为球队的一部分。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

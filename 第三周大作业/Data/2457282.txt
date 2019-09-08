@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  公牛官方公布新赛季季前赛赛程，揭幕战主场迎战雄鹿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bulls/news/bulls-announce-2019-20-preseason-schedule" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 00:18:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="公牛官方公布新赛季季前赛赛程，揭幕战主场迎战雄鹿" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/5032da8f7a9cbdcc61a364bc8bc5ae185ce126fe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 芝加哥公牛队官方今日公布了2019-20赛季球队的季前赛赛程。
+   </p>
+   <p>
+    新赛季，公牛将共计参加5场季前赛，其中包括3次坐镇主场，分别对垒雄鹿、鹈鹕和老鹰，2次客场分别飞赴印第安纳和多伦多，挑战步行者与猛龙。
+   </p>
+   <p>
+    公牛季前赛揭幕战将在当地时间10月7日打响，公牛将坐镇主场联合中心，迎战雄鹿。
+   </p>
+   <p>
+    具体赛程安排如下（日期均为美国当地时间）：
+   </p>
+   <p>
+    10月7日，主场对阵雄鹿
+   </p>
+   <p>
+    10月9日，主场对阵鹈鹕
+   </p>
+   <p>
+    10月11日，客场对阵步行者
+   </p>
+   <p>
+    10月13日，客场对阵猛龙
+   </p>
+   <p>
+    10月17日，主场对阵老鹰
+   </p>
+   <p>
+    2018-19赛季常规赛，公牛取得22胜60负的战绩，排名东部第13，无缘季后赛。今年休赛期中，公牛签下前锋赛迪斯-杨与前锋卢克-科内特，与后卫里安-阿尔奇迪亚科诺、后卫沙奎尔-哈里森完成续约，并通过签换交易从奇才得到托马什-萨托兰斯基。今年选秀大会中，公牛在第7顺位和第38顺位先后选中科比-怀特和丹尼尔-加福德。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

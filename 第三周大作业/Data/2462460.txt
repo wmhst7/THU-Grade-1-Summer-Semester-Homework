@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马手持Taco呼叫詹姆斯：兄弟，今天是什么日子啊？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/2104204636748953141?utm_source=ig_story_item_share&amp;igshid=wsuashrsqa72" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 09:30:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马手持Taco呼叫詹姆斯：兄弟，今天是什么日子啊？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/641df9f7c3733d90e81b47b1cdc4c3137fcd7625.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 湖人前锋凯尔-库兹马今日通过Instagram Story分享了自己享用墨西哥煎玉米卷Taco的照片。
+   </p>
+   <p>
+    “兄弟，今天是什么日子啊？@勒布朗-詹姆斯”库兹马配文道。
+   </p>
+   <p>
+    当地时间今日是Taco Tuesday的传统饮食习俗，而詹姆斯曾多次发布自己激情呐喊庆祝Taco Tuesday的社媒动态。目前，詹姆斯还未对库兹马的提问作出回应。
+   </p>
+   <p>
+    此外，库兹马还晒出了一张个人自拍照。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/09/cc406a0972e184b5f0d579b06663f761.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/09/f3375911d90b79eee2da5fdcdb43407c.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,83 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮世界杯球衣号码公布：沃克15号，塔特姆10号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1165957208397492225" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 20:05:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮世界杯球衣号码公布：沃克15号，塔特姆10号" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/bdedc071b10b41dd57cb95ef90183e913bda3840.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 据《纽约时报》记者Marc Stein报道，美国队确定了参与世界杯12人的球衣号码。
+   </p>
+   <p>
+    具体号码如下：
+   </p>
+   <p>
+    德里克-怀特 4号
+   </p>
+   <p>
+    多诺万-米切尔 5号
+   </p>
+   <p>
+    乔-哈里斯 6号
+   </p>
+   <p>
+    马库斯-斯马特 7号
+   </p>
+   <p>
+    哈里森-巴恩斯 8号
+   </p>
+   <p>
+    杰伦-布朗 9号
+   </p>
+   <p>
+    杰森-塔特姆 10号
+   </p>
+   <p>
+    梅森-普拉姆利 11号
+   </p>
+   <p>
+    迈尔斯-特纳 12号
+   </p>
+   <p>
+    布鲁克-洛佩斯 13号
+   </p>
+   <p>
+    克里斯-米德尔顿 14号
+   </p>
+   <p>
+    肯巴-沃克 15号
+   </p>
+   <p>
+    美国男篮被分在E组，小组赛将在上海进行，美国队将在9月1日对阵捷克，9月3日对阵土耳其，9月5日对阵日本。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

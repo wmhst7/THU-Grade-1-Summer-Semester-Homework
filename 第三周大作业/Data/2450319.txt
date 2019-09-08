@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  某东部球队高管：马基夫-莫里斯面对挑战从不退缩
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.freep.com/story/sports/nba/pistons/2019/07/03/detroit-pistons-markieff-morris-grit-toughness/1643291001/" target="_blank">
+     底特律自由报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 22:41:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="某东部球队高管：马基夫-莫里斯面对挑战从不退缩" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/43998e59c0217e57036e10b10dd3ff0069df1c4d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 根据《底特律自由报》记者Vince Ellis的报道，多位消息人士透露，活塞已经与马基夫-莫里斯达成了一份2年的协议。
+   </p>
+   <p>
+    活塞会使用他们的全额双年特例（360万美元）签下莫里斯，通常来说第二年的合同涨幅5%，所以莫里斯的合同总价值约740万美元。
+   </p>
+   <p>
+    马基夫-莫里斯的弟弟马库斯-莫里斯之前在活塞效力过，他给活塞带来了拼劲，一位东部球队高管认为马基夫-莫里斯也能做到这些。
+   </p>
+   <p>
+    “同样的强硬，一丝不苟的态度，在防守端能让对手感觉到他的存在，面对挑战从不退缩，他是一个技术很好的大个子，可以在内线和外线得分，随着年龄增大，更喜欢在外线打球，可以命中三分，有不错的挡切技术和面筐进攻技术。”这位高管说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

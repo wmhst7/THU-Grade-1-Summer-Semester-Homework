@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：雷霆愿倾听其他球队对威少的交易报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1148287970509672448" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 01:51:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：雷霆愿倾听其他球队对威少的交易报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/7ce18350f46322c370ea20d9afe442a2a7c4f630.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，根据球员、经纪人和球队之间的谈话，雷霆首次愿意倾听其他球队对拉塞尔-威斯布鲁克的交易报价。
+   </p>
+   <p>
+    根据Shams报道，这样的结果是威斯布鲁克、其经纪人Thad Foucher和雷霆总经理萨姆-普雷斯蒂三人合作商讨得出的，三人也商讨了替代解决方案。由于各球队基本与达成协议的自由球员正式签下合同并使用了薪资空间，此时达成交易的难度很高。
+   </p>
+   <p>
+    根据此前的报道，威斯布鲁克、其经纪人和雷霆总经理普雷斯蒂积极讨论下一步计划，其中包括在今年夏天将威斯布鲁克交易的可能性，保罗-乔治的交易则标志着雷霆阵容开始走向重塑。
+   </p>
+   <p>
+    威斯布鲁克在2017年9月以5年2.05亿美元提前续约雷霆，2023年他的合同将到期，2022-23赛季为球员选项，目前他剩余的合同为4年约1.7亿美元。
+   </p>
+   <p>
+    威斯布鲁克在2008年选秀大会上首轮第4顺位被雷霆选中，职业生涯一直效力于雷霆，生涯至今常规赛场均上场34.5分钟，得到23分7篮板8.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

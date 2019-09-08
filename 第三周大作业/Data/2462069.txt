@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗-乔治更新社交媒体，晒出自己帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0y1QYpFQ5T/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 04:37:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗-乔治更新社交媒体，晒出自己帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/4377c8d748428736f92db9d585bcf06ef0b1e334.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，快船前锋保罗-乔治更新社交媒体Instagram，晒出自己帅照（见新闻配图）。
+   </p>
+   <p>
+    “Cuzzo抓住了好的方面。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，乔治场均上场36.9分钟，得到28.0分8.2篮板4.1助攻2.21抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/04/44b8720b9d5ffe16d200038f65a13db5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/04/0fd70bf9a4512d2c128041a9e86a06c5.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

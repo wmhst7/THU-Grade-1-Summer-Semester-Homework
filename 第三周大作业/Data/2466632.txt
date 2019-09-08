@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱老爸谈体育中最确定的三件事，网友调侃缺少G6汤
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/champagnennuts/status/1162496662146711552" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 12:03:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱老爸谈体育中最确定的三件事，网友调侃缺少G6汤" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/36d08fcf4c052d64b27f33d1378b3beb0b4c5715.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 勇士后卫克莱-汤普森的父亲迈克尔-汤普森近日更新了推特。
+   </p>
+   <p>
+    他是这样写道：“在体育运动中有三件最确定的事情，纳达尔的红土、拜尔斯的空翻，还有库里命中投篮。”
+   </p>
+   <p>
+    其中，就有网友在底下为克莱“不平”，他们指出还有G6的克莱。
+   </p>
+   <p>
+    对此，克莱老爸表示：“额……把他忘了，不错的想法。”
+   </p>
+   <p>
+    拉斐尔-纳达尔是西班牙著名的男子网球运动员，生涯18次大满贯冠军，其中12次法网冠军，是名副其实的“红土之王”
+   </p>
+   <p>
+    西蒙-拜尔斯是美国著名的女子体操运动员，伦敦奥运会上曾4夺金牌。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老骥伏枥！詹姆斯晒出早晨6点结束训练后冰敷恢复照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2105233865303120545?utm_source=ig_story_item_share&amp;igshid=1fuaooxlwggfk" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 23:38:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老骥伏枥！詹姆斯晒出早晨6点结束训练后冰敷恢复照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/28cfdb68df85c6e0bc5402dfeb034c47bd89e338.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新了他早起进行训练的动态。
+   </p>
+   <p>
+    詹姆斯首先晒出他在球场边更换装备准备训练的自拍并写道：“你们早已知道！#我就是王”
+   </p>
+   <p>
+    1个多小时后，詹姆斯拍摄球场边帷幕上巨大的个人Logo并配文道：“现在结束了！训练，早上6点13分。#我就是王”
+   </p>
+   <p>
+    詹姆斯随即分享了他在训练后接受冰敷的照片并配文道：“恢复措施。（冰冷）刺骨。”
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/dd3c2e39872d67d135abf4a1bba2803e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/6f2727ca426a589855c4979aecc5de13.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/23/1f47ebb79d4a63ac014530f10560ee91.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

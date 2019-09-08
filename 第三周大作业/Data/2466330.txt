@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威金斯在洛杉矶的住处遭遇窃贼，鞋子和行李被盗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/17/andrew-wiggins-nba-timberwolves-los-angeles-home-burglary/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 16:41:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威金斯在洛杉矶的住处遭遇窃贼，鞋子和行李被盗" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/06a43e07423b3a4ab6058ae07feaca19d1cca4a1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据TMZ体育的报道，森林狼球员安德鲁-威金斯在洛杉矶的住处遭遇窃贼，鞋子和行李被盗。
+   </p>
+   <p>
+    执法部门的消息人士透露，威金斯今夏一直在洛杉矶训练，他的住处在本月早些时候遭遇入室盗窃。
+   </p>
+   <p>
+    警方描述入室窃贼“很业余”，没有拿走珠宝和其他贵重物品，只是拿走了价值约1000美元的东西，其中包括一双耐克鞋和威金斯的行李，并且开走了威金斯租来的凯迪拉克Escalade，执法部门很快就找到了这辆车。
+   </p>
+   <p>
+    目前警方还没有抓到嫌疑人，威金斯的东西也没有找到。
+   </p>
+   <p>
+    多位消息人士透露，这起案件看起来与过去这一年一系列的洛杉矶名人豪宅盗窃案无关。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

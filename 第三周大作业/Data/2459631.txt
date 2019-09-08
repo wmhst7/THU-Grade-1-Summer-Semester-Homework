@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  俾斯麦-比永博晒自己拜访刚果医院的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0gvSOWj2l_/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 10:34:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="俾斯麦-比永博晒自己拜访刚果医院的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/948d0d99ea67abfc4b9f4b3c46a31d2afedcc0af.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日黄蜂球员俾斯麦-比永博更新了自己的Instagram动态，晒出了自己在刚果的照片。
+   </p>
+   <p>
+    “我有机会拜访金沙萨的Kitambo医院，以及那里的病人、医生和护士。我们捐赠了医疗用品和器械。我们也帮助让他们的急诊室恢复了正常。#我们活着去帮助他人”比永博写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，比永博场均上场14.5分钟，得到4.4分4.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

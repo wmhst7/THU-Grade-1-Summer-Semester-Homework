@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥轻松砍下18+8，希腊20分大胜意大利
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/919917/giannis-greece-stroll-past-italy/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 03:56:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥轻松砍下18+8，希腊20分大胜意大利" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/2cdbd774cb9275a2023b71e7c4e3d8dbb8524569.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 在今天已经结束的一场2019男篮世界杯热身赛上，希腊国家队以83-63的比分战胜了意大利国家队。
+   </p>
+   <p>
+    本场比赛，雄鹿前锋扬尼斯-阿德托昆博出场19分钟12秒，10投6中得到18分8篮板。
+   </p>
+   <p>
+    意大利国家队球员马科-贝里内利出场24分30秒，17投6中三分球8投0中得到13分。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

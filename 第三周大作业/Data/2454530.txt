@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷吉-埃文斯：杜兰特欧文要学会承受聚光灯的压力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/15/ex-players-why-this-nets-knicks-war-will-be-different/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 14:30:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷吉-埃文斯：杜兰特欧文要学会承受聚光灯的压力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/ff199679bd36709505266b8eb6ab9d87b47bc706.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 篮网原为新泽西篮网队，球馆位于新泽西州的Meadowlands，与纽约隔着一条哈德逊河。2012-13赛季篮网正式迁至纽约布鲁克林。今夏篮网迎来了凯文-杜兰特和凯里-欧文等全明星球员，企图与纽约老牌球队尼克斯争夺关注度。
+   </p>
+   <p>
+    肯扬-马丁曾效力于新泽西篮网队，谈到篮网的新变化，马丁说道：“现在的情况和以前不同了，因为他们在纽约，大家不需要跨过一条河来看比赛。以前不管我们打得怎样，赢下了多少比赛，只因我们在新泽西的Meadowlands，所以一直缺少关注。”
+   </p>
+   <p>
+    “有尼克斯的历史招牌在，不管篮网做得如何，尼克斯的名声一直在那。但我相信如果他们的加盟为篮网赢下了总冠军，这一切会改变。”马丁说道。
+   </p>
+   <p>
+    乔-约翰逊在篮网效力了三个多赛季，尽管当时篮网已经迁至布鲁克林，但球队的训练馆仍在新泽西，直到2015-16赛季才搬离。他说道：“很多人住在泽西，所以当时的通勤非常痛苦。开车两个小时或者两个半小时到球馆热身比赛。非常艰难。”
+   </p>
+   <p>
+    谈到球队现在的阵容，约翰逊说道：“我觉得他们会很棒，现在真的和以前不一样了。”
+   </p>
+   <p>
+    篮网旧将雷吉-埃文斯也谈到了球队现在的变化，他说到：“我们得到了对比赛非常了解的聪明的球员。非常聪明，你知道我的意思吗？……现在和以前有很大不同了，我喜欢他们现在的前进方向。”
+   </p>
+   <p>
+    “在纽约你要承受那些聚光灯带来的压力，在那里打球你一定要是真正的勇者。凯文-杜兰特和凯里-欧文肯定也会遭遇这样的困难，一个阶段里。”埃文斯说道。
+   </p>
+   <p>
+    肯扬-马丁2000-04赛季效力于篮网，场均34.1分钟能得到15.1分7.6篮板2.4助攻；乔-约翰逊2012-16赛季效力于篮网，场均34.3分钟能得到14.6分3.7篮板3.5助攻；雷吉-埃文斯2012-14赛季效力于篮网，场均21.4分钟能得到4.3分9.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭官推：谢谢你保罗，你是球队和社区心中的名人堂成员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/apphttps://twitter.com/HoustonRockets/status/1154228094116487168" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 11:28:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭官推：谢谢你保罗，你是球队和社区心中的名人堂成员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/39fc41e2270f2b9d4c2c82dd0d42fe2b7e865010.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日，火箭官方推特发布一组致谢克里斯-保罗的图片，并配文称：“谢谢你@CP3，因为你是球队和社区的名人堂成员。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/11/3b74f3a2d5a0696e345f98b16424f67e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5bxi83lvsj21mc12u11y.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5bxihw1i2j21mc12w49z.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5bxiv8019j21mc12w7fa.jpg"/>
+   </p>
+   <p>
+    据报道，雷霆与火箭达成交易，火箭送出保罗、2024年和2026年的首轮签、2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    保罗的合同还有三年，总价值1.24亿美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，保罗场均上场32.0分钟，得到15.6分4.6篮板8.2助攻2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

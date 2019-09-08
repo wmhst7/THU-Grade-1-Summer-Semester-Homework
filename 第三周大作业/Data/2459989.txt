@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷晒哈登得分纪录：这就是街机游戏里得分最高的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0i-_4eBnzo/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 09:28:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷晒哈登得分纪录：这就是街机游戏里得分最高的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/00091d45d2ea0618e516929b92463abd3696824b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日火箭总经理达雷尔-莫雷更新社交媒体Instagram，晒出詹姆斯-哈登得分纪录（见新闻配图）。
+   </p>
+   <p>
+    “这就是在街机游戏里得到最高分的人。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈登场均出场36.8分钟，得到36.1分6.6篮板7.5助攻；季后赛场均出场38.5分钟，得到31.6分6.8篮板6.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

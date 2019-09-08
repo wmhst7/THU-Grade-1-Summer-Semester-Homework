@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网官方更新社交媒体，晒出欧文观看街头比赛照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0lcTfNBSH0/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 10:24:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网官方更新社交媒体，晒出欧文观看街头比赛照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/975eaf138d00f5a539162137c20c5cffd0dc390e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 今日，篮网官方更新社交媒体Instagram，晒出凯里-欧文在纽约戴克曼公园的场边观赛照片（见新闻配图）。
+   </p>
+   <p>
+    根据此前的报道，欧文将以4年1.42亿美元的合同签约篮网，其中第四年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断0.51盖帽；季后赛场均出场36.7分钟，得到21.3分4.3篮板7.0助攻1.44抢断0.44盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/10/a972c3684ea6ef405865a23716202a72.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

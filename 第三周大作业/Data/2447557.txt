@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗宾-洛佩斯：迪士尼乐园现在的表演远不及以前吸引孩子
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rolopez42/status/1144043599014686720" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 13:39:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗宾-洛佩斯：迪士尼乐园现在的表演远不及以前吸引孩子" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/1acae99a1feb8a3191ea4fc2eb84d1a83112cf68.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，公牛中锋罗宾-洛佩斯发推表达了自己对迪士尼乐园的热爱。
+   </p>
+   <p>
+    罗宾-洛佩斯发文说道：“如果人们无法欣赏西部乡村音乐或者剧演，仅仅把他们当做人偶熊的话，但愿上帝能够怜悯你冰冷而没有丝毫温度的灵魂。同时，我认为迪士尼乐园里的表演吸引孩子们的数量远比70年代的时候要少的多。”
+   </p>
+   <p>
+    2018-19赛季常规赛，罗宾-洛佩斯场均出场21.7分钟，可以得到9.5分3.9篮板1.2助攻1.05封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

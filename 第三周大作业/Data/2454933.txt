@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  力大无穷！训练师发布戴维斯今日力量训练视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/mrdoitmoving/2089409982400118116?utm_source=ig_story_item_share&amp;igshid=14skqo2l4n0da" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:14:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="力大无穷！训练师发布戴维斯今日力量训练视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/1c4aa0a502fac8f9f0326e392c90e1ca39d88d86.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 健身教练Mike G今日通过个人Instagram Story更新了一段湖人前锋安东尼-戴维斯进行力量训练的视频。
+   </p>
+   <p>
+    视频中戴维斯身穿湖人训练服，连续利用左臂举起重物。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190717/12/e007ec26898c33600c545a7410d62f0e.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

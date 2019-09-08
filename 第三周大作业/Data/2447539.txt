@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯发推感叹：我需要的只是一个机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/isaiahthomas/status/1143980907683962880?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 12:04:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯发推感叹：我需要的只是一个机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/2fdefcc3c1b851e953b0ae5924ade7b23e1fbf9d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 掘金后卫以赛亚-托马斯今天更新推特发表面对自由球员市场的感想。
+   </p>
+   <p>
+    “我所需要的只是一个机会！！！不过是一个真正的机会……剩下的我来搞定！”小托马斯写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，托马斯共为掘金出场12次，场均上场15.1分钟，得到8.1分1.1篮板1.9助攻，他在去年夏天与掘金签下1年203万美元的合同，即将成为自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

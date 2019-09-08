@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  欧文今日更新个人社媒晒出自己眼睛漫画并发文：家庭第一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzXAVPqHkjt/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 12:03:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="欧文今日更新个人社媒晒出自己眼睛漫画并发文：家庭第一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/26f3cb4dc7d74835eb3795e5741fdfb41aff1dfd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据此前The Athletic记者Shams Charania报道，消息人士透露，凯里-欧文将与篮网达成4年1.42亿美元协议，其中第4年为球员选项。
+   </p>
+   <p>
+    随后，欧文更新个人社交媒体Instagram，晒出一张以自己眼睛为素材的漫画（见新闻配图）。
+   </p>
+   <p>
+    “旅途是对我的奖赏。只有我的眼睛知道什么最适合我。家庭永远是第一位的。”欧文配文道。
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均上场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断。季后赛场均出场36.7分钟，得到21.3分4.3篮板7.0助攻1.44抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

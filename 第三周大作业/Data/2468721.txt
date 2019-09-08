@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加里纳利：塞尔维亚很强，我们昨日表现有了进步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1165219376573943808" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 20:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加里纳利：塞尔维亚很强，我们昨日表现有了进步" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/bb209d7902812ebcd07658d112ed7fe3c51838ba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 在之前结束的一场国际男篮超级争霸赛里，意大利以65-71不敌塞尔维亚，之前接受阑尾切除手术的达尼罗-加里纳利复出砍下11分。
+   </p>
+   <p>
+    “我今日感觉不错，我昨日也感觉不错，我已经很久没有打球了，我想念比赛，我对个人和球队的表现都感觉不错，与之前的那些比赛相比，我们昨日有了进步。”加里纳利说道。
+   </p>
+   <p>
+    加里纳利接着说：“塞尔维亚是一支很强的球队，在比赛最后时刻与他们紧咬比分是我们的目标之一，现在我们必须继续努力为世界杯找到最好的状态。”
+   </p>
+   <p>
+    在今年的男篮世界杯上，塞尔维亚、意大利、菲律宾和安哥拉同在D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉社媒致谢保罗：一位优秀的导师
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CapelaClint/status/1149542204324507648" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 13:15:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉社媒致谢保罗：一位优秀的导师" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/14589c202555755148009189114ae8afb1ad5db5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 俄克拉荷马雷霆队今天与休斯顿火箭队达成交易，雷霆送出拉塞尔-威斯布鲁克从火箭得到克里斯-保罗以及多个首轮选秀权以及选秀互换权。
+   </p>
+   <p>
+    随后，火箭中锋克林特-卡佩拉 更新了个人推特写道：“无论是作为一名球员还是一个普通人，（他）在我的成长过程中都是一位优秀的导师以及一个好胜的竞争者。一位真正能够鼓舞他人的球员，尤其是他坚持不懈地去争取胜利@克里斯-保罗。”
+   </p>
+   <p>
+    保罗职业生涯至今共为火箭征战2个赛季，共出战116场常规赛，场均出场31.9分钟，能够得到17.1分5.0篮板8.0助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：拉塞尔先签后换加盟勇士，合同为4年1.17亿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145535080305242112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:31:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：拉塞尔先签后换加盟勇士，合同为4年1.17亿" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/c6104e3b4c937b8d7d0379f2869a8cfaa1f1fd54.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，后卫丹吉洛-拉塞尔将与篮网签下一份4年1.17亿的合同，然后被交易至勇士。
+   </p>
+   <p>
+    勇士需要腾出空间才能进行这笔先签后换，多位消息人士透露，勇士可能送走安德烈-伊格达拉。
+   </p>
+   <p>
+    由于勇士进行了先签后换，勇士下赛季将遭遇硬工资帽，工资总额任何情况都不能超过1.389亿，所以勇士必须腾出空间才能完成该笔交易。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均出场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断，并入选全明星阵容。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

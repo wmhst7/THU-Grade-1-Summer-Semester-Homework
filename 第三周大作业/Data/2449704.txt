@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马发推欢迎杜德利，后者回复：让我们一起努力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jareddudley619/status/1146211259890540545?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 09:18:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马发推欢迎杜德利，后者回复：让我们一起努力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/5daadf0cf7df109b844e4884b95f23b74a26a2ee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 贾里德-杜德利今日与湖人达成加盟协议。湖人前锋凯尔-库兹马第一时间发推对杜德利表示欢迎。
+   </p>
+   <p>
+    “欢迎@贾里德-杜德利 ！”库兹马写道。杜德利则转发回复道：“让我们一起努力！”
+   </p>
+   <p>
+    此外，杜德利已经迅速将他的推特头像改为自己与湖人球员勒布朗-詹姆斯、安东尼-戴维斯的“三巨头”P图，并将个人简介改为：“只是一个追逐梦想的圣迭戈人！很荣幸成为湖人国度的一员！”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/09/4c2a5943a9a16f32bce97120fd280167.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：塔特姆和杰伦-布朗新赛季可以入选全明星
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/07/28/enes-kanter-qa-im-trying-to-be-the-voice-for-all-of-those-innocent-people-who-dont-have-one/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 12:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：塔特姆和杰伦-布朗新赛季可以入选全明星" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190729/9bbb42ea6f7a8d6d8c81511adb2590c71b1edb9c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 今日，凯尔特人中锋埃内斯-坎特接受HoopsHype记者Alex Kennedy采访，谈到了对于自己未来队友杰森-塔特姆和杰伦-布朗的相关看法。
+   </p>
+   <p>
+    坎特表示：“我认为他们两个都有入选全明星的潜力。他们有成功所需的所有优点：他们很勤劳，也愿意学习，他们在场上场下的性格都很好，而且非常有才华。他们俩眼下的目标就是进入全明星。凭借他们的职业道德和领导能力，我绝对认为他们可以将我们的团队提升到一个新的水平，让我们真正地深入到季后赛。 我已经见过布朗了，他是一个了不起的人，我们实际上已经开始打2对2的比赛了......太棒了！ 和那些家伙一起打球我当然很兴奋。 ”
+   </p>
+   <p>
+    2018-19赛季常规赛，布朗场均出场25.9分钟，得到13.0分4.2篮板1.4助攻；塔特姆场均出场31.1分钟，得到15.7分6.0篮板2.1助攻1.06抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

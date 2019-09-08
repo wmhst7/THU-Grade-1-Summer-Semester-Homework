@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：湖人已给卡鲁索和乔纳森-威廉姆斯提供资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/lakers/releases/lakers-extend-qualifying-offers-alex-caruso-and-johnathan-williams" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 03:45:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：湖人已给卡鲁索和乔纳森-威廉姆斯提供资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/2aa46ac99e4d03063e5096bf793a8d626fba5c46.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 湖人官方今日宣布，他们已经给后卫亚历克斯-卡鲁索和前锋乔纳森-威廉姆斯提供资质报价，卡鲁索和威廉姆斯成为了受限制性自由球员。
+   </p>
+   <p>
+    2018-19赛季，卡鲁索共出战了25场比赛，场均上场21.2分钟得到9.2分2.7个篮板3.1次助攻1次抢断；威廉姆斯共出战了24场比赛，场均上场15.5分钟得到6.5分4.1个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷吉-杰克逊：曾因伤病过多患上抑郁症，一度考虑过退役
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.detroitnews.com/story/sports/nba/pistons/2019/08/25/rejuvenated-reggie-jackson-in-good-state-mind-heading-into-contract-year-pistons/2114887001/" target="_blank">
+     Detroit News
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 15:32:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷吉-杰克逊：曾因伤病过多患上抑郁症，一度考虑过退役" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/b19f3b271dad72748ceb91eb1e05a225fe2a9562.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 活塞球员雷吉-杰克逊近日接受了Detroit News采访，他谈到了多个方面。
+   </p>
+   <p>
+    2018-19赛季，杰克逊职业生涯首次打满82场常规赛，他的五年8000万美元合同也将进入最后一个赛季，他在活塞的未来充满了不确定性。
+   </p>
+   <p>
+    “几年之前，我曾认为我会在这个赛季后退役，”杰克逊说道，“我很高兴上赛季能够保持良好的心态打球，我们会在上赛季的基础上继续前进，我对于球队可能在新赛季做到的事情感到兴奋。”
+   </p>
+   <p>
+    “我只是在过去遭遇了太多伤病，我曾因此患上了抑郁症，一度不想再打球了，越来越多的伤病让我萌生了退役的想法。”杰克逊说道。
+   </p>
+   <p>
+    去年夏天，活塞重新聘请了训练师Arnie Kander，后者因预防球员伤病和训练方式等方面的工作成果而闻名，他在2015年离开活塞，此后球队因伤缺席情况逐渐严重。重新聘请Arnie Kander让杰克逊的职业生涯出现了转机。
+   </p>
+   <p>
+    “我在球队集结时看到了Arnie的身影，我的反应就像糖果店里的孩子，再次见到他我真的太激动了，”杰克逊说道，“在他离开球队后，没有人能够帮助我保养身体，我的健康状况也每况愈下。在球队再次聘请Arnie之后， 我才有了更多信心。”
+   </p>
+   <p>
+    “一旦我的身体出现任何小问题，他都会制定完整的治疗方案，我现在感觉棒极了。”杰克逊说道。
+   </p>
+   <p>
+    展望下赛季，杰克逊表示：“我想要追求的就是上赛季最后两三个月的比赛节奏，这让我的比赛变得更加容易。我不会勉强去做任何事情，也不会把任何事情当作理所当然的，我认为作为一支球队，我们会感觉越来越自如。”
+   </p>
+   <p>
+    谈到球队新援德里克-罗斯，杰克逊说：“我将拥有更多机会与德里克并肩作战，无论是打无球还是持球在手，我更擅长接球投篮，球员们能够互补，球队能够运转良好，这对于我打出水准是非常理想的情况，也是我想要融入的氛围。”
+   </p>
+   <p>
+    谈到个人的未来规划，杰克逊说：“我并不是一个对于未来畅所欲言的人，我只是努力享受每一天，珍惜我所在的球队，感谢上帝给我的机会以及他赠予我的一切。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

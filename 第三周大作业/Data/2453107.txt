@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库克：詹姆斯为了我给佩林卡打电话，他想要我加盟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ryanwardla/status/1149442012925480960" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 13:48:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库克：詹姆斯为了我给佩林卡打电话，他想要我加盟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/81cc76608f1c64c9a6ab950d269a4822a809bf15.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 湖人后卫奎因-库克今日接受采访谈到了他的新队友勒布朗-詹姆斯。
+   </p>
+   <p>
+    库克曾经进入骑士的训练营与詹姆斯短暂成为队友，并长期效力于骑士的发展联盟下属球队。库克与詹姆斯一直保持着密切私交。
+   </p>
+   <p>
+    库克在谈到詹姆斯时说：“我们的关系很好。他为了我给罗勃（佩林卡，湖人总经理）打电话，我很高兴他信任我。他想要我成为球队一员。这对我意义重大。”
+   </p>
+   <p>
+    谈到詹姆斯在他考虑加盟湖人时产生了多大作用，库克说：“作用很大，因为我知道勒布朗-詹姆斯能够让所有人变得更好。他能够让每个人打出最佳表现，我在克利夫兰打球的短暂时光里发现了这一点。他让我成为了一名进步如此之大的球员。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

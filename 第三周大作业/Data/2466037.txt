@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国队训练营：杜兰特转球，塔特姆玩手机，德罗赞造访
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/jim_ice/2111225146670097077" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 16:05:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国队训练营：杜兰特转球，塔特姆玩手机，德罗赞造访" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/9cf056a7b04895f2791f984b1f5e4b46fcf31786.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 NBA官方摄影记者Jim Poorten今日通过个人Instagram Story分享数张美国男篮训练营的现场照片。
+   </p>
+   <p>
+    正处于跟腱伤势恢复期的篮网球员凯文-杜兰特、马刺球员德马尔-德罗赞前来造访美国队的训练，而美国队成员PJ-塔克和杰森-塔特姆均出现在这组训练照中。
+   </p>
+   <p>
+    美国男篮正在洛杉矶进行训练，他们即将于明日迎战热身赛对手西班牙。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/16/bde52fe4d096224c8fe8ce77934d9316.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/16/d10491ad6d23cda7dbb0c2bb26ae3edf.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/16/962e1d7ff9f789312e97b60b7d0a75e5.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/16/67eb71c7ca5f3e16b7ff7dcec699b7a1.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

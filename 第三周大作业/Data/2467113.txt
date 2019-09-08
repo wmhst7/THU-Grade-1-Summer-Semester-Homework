@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  除延长合约外，老鹰还将施伦克提拔为篮球运营总裁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1163549887780315142" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 04:37:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="除延长合约外，老鹰还将施伦克提拔为篮球运营总裁" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/4397a2d1250c331f3ac539ad712d07bb8fc43b19.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 根据记者Marc Stein的报道，老鹰在与球队总经理斯拉维特-施伦克达成一份多年的续约合同的基础上，还将施伦克提拔为球队的篮球运营总裁。
+   </p>
+   <p>
+    新赛季将是施伦克与老鹰合作的第三个赛季，他在职期间，球队累积了特雷-杨、约翰-柯林斯、德安德烈-亨特、卡姆-雷迪什等年轻球员。
+   </p>
+   <p>
+    2018-19赛季，老鹰以29胜53负的战绩排在东部第12。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

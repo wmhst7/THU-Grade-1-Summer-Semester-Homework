@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  用钱说话？巴特勒社媒发布与TJ-麦康奈尔合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0WBjJTh_O7/?igshid=dgpltwy2z1b8" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 07:11:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="用钱说话？巴特勒社媒发布与TJ-麦康奈尔合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/c035f33403e34ecb4f6746bc27239b86d9ae4a07.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 热火球员吉米-巴特勒今日通过Instagram发布一张他与步行者后卫TJ-麦康奈尔的合照。
+   </p>
+   <p>
+    “我的兄弟@TJ-麦康奈尔 和他们通话吧！”巴特勒写道。图中麦康奈尔似乎手握一叠钞票模仿打电话的手势，巴特勒与麦康奈尔上赛季共同效力于76人。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒场均出场33.6分钟，得到18.7分5.3篮板4.0助攻；季后赛场均出场35.1分钟，得到19.4分6.0篮板5.2助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，麦康奈尔场均出场19.3分钟，得到6.4分2.3篮板3.4助攻；季后赛场均出场8.3分钟，得到2.7分0.7篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

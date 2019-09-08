@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Res_">
+        <file>ChessPan.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Material/Normal/black_pawn.png</file>
+        <file>Material/Normal/black_knight.png</file>
+        <file>Material/Normal/black_bishop.png</file>
+        <file>Material/Normal/black_rook.png</file>
+        <file>Material/Normal/black_queen.png</file>
+        <file>Material/Normal/black_king.png</file>
+        <file>Material/Normal/white_pawn.png</file>
+        <file>Material/Normal/white_knight.png</file>
+        <file>Material/Normal/white_bishop.png</file>
+        <file>Material/Normal/white_rook.png</file>
+        <file>Material/Normal/white_king.png</file>
+        <file>Material/Normal/white_queen.png</file>
+        <file>Material/Transparent/black_bishop.png</file>
+        <file>Material/Transparent/black_king.png</file>
+        <file>Material/Transparent/black_knight.png</file>
+        <file>Material/Transparent/black_pawn.png</file>
+        <file>Material/Transparent/black_queen.png</file>
+        <file>Material/Transparent/black_rook.png</file>
+        <file>Material/Transparent/white_bishop.png</file>
+        <file>Material/Transparent/white_king.png</file>
+        <file>Material/Transparent/white_knight.png</file>
+        <file>Material/Transparent/white_pawn.png</file>
+        <file>Material/Transparent/white_queen.png</file>
+        <file>Material/Transparent/white_rook.png</file>
+    </qresource>
+</RCC>

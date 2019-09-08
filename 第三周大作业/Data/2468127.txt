@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：我可以和三名球星联手夺冠，但挑战和乐趣何在？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.complex.com/sports/2019/08/damian-lillard-interview-never-leaving-blazers?utm_source=twitter.com&amp;utm_campaign=sportstw&amp;utm_medium=social" target="_blank">
+     Complex
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 22:42:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：我可以和三名球星联手夺冠，但挑战和乐趣何在？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/b4cdb9ed1c94d93b1e0b07c50112280d2ca1435f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 开拓者后卫达米安-利拉德近日接受采访谈到了他对联盟争冠格局的看法。
+   </p>
+   <p>
+    关于他认为的球员“忠诚”定义，利拉德表示：“这并不太是关于球队的忠诚，而是献给球队所在城市的。”
+   </p>
+   <p>
+    关于今夏安东尼-戴维斯、科怀-伦纳德、保罗-乔治、凯里-欧文、凯文-杜兰特、拉塞尔-威斯布鲁克等多位球星更换球队并与其他球星联手的现象，利拉德认为：“我认为球员们在掌控形势，原因在于现在是这么做的最佳时机。对此我能接受，但我的想法就是我不想采取那种路线。好比他们在为他们的职业生涯做出选择，我也在为我的生涯做出自己的选择。”
+   </p>
+   <p>
+    “要是为了离开，我投入了这么多时间只是为了离开吗？”利拉德说道，“如果我去和另外三名球星联手作战，我觉得大部分人都不会质疑我能够夺冠。我们会夺冠的，但那又有什么挑战和乐趣可言呢？”
+   </p>
+   <p>
+    自从他进入联盟的第5个赛季起，开拓者管理层就会咨询他对构建球队阵容的意见。“当他们开始允许我提供自己的建议，我意识到我的意见和参与有多么重要。我发现并不是说一些人的生涯取决于我，但我对其他人的生涯产生了很大影响。”利拉德表示。
+   </p>
+   <p>
+    不过利拉德很理解球队与球员关系的两面性：“当你作为球员不复当年之勇，对球队的重要性不如从前，那将是他们对你最狠心的时刻。他们可能下周就会交易我，你知道我的意思吧？所以我不能说我的忠诚是献给球队的，我是对球队周围衍生的事物保持忠诚。”
+   </p>
+   <p>
+    “我想成为唯一一个愿意留在这里的球星，”利拉德说，“我想成为那个具备象征意义的人，成为球队崛起过程中的一员，‘我们自从1977年起就无缘冠军，然后我们夺冠了，达米安对这座城市意味着一切。’”
+   </p>
+   <p>
+    “我知道自己作为一名球员的特点，为人的性格，”利拉德说，“我不觉得自己高人一等或者更加重要。我自认为是人们中的一员，我不把自己视为一名超级球星。我就是这样的人，也很适合这里。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

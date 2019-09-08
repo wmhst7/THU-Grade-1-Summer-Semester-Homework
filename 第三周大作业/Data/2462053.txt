@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特更新社交媒体，晒出自己与尤因合照并祝其生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EnesKanter/status/1158424875440062464" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 01:35:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特更新社交媒体，晒出自己与尤因合照并祝其生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/b9edacae7917cd2996d7bfaa1e3a384041921e73.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，凯尔特人球员埃内斯-坎特更新社交媒体Twitter，晒出自己与帕特里克-尤因合照（见新闻配图），并祝其生日快乐。
+   </p>
+   <p>
+    “传奇，生日快乐。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特代表开拓者上场23场，场均上场22.3分钟，得到13.1分8.6篮板1.4助攻；季后赛出场28.8分钟，得到11.4分9.6篮板1.2助攻；尤因为尼克斯出战了15个赛季，11次入选全明星，在尼克斯场均出战36.2分钟，得到22.8分10.4篮板2.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

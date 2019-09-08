@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯将于明后两天与多支球队会面，他要求团队对此保密
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/stevekylerNBA/status/1145116655321829377" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 09:49:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯将于明后两天与多支球队会面，他要求团队对此保密" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/56728958b271531af3c19c95441a3957bc8db222.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA记者Steve Kyler报道，前锋托拜厄斯-哈里斯已经要求其团队将自由球员的会面保密。
+   </p>
+   <p>
+    哈里斯计划在明天和后天分别与多支球队会面。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里斯场均出战34.7分钟，能够拿到20分7.9篮板2.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

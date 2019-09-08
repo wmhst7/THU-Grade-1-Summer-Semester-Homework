@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乌杰里：当我每天看到西亚卡姆时，他总是在拼命努力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/GiantsOfAfrica/status/1160526621482344449" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 09:22:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乌杰里：当我每天看到西亚卡姆时，他总是在拼命努力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/3bd6018ff2a6b6f364eb77b66bf8deba9049a052.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 猛龙篮球运营总裁马赛-乌杰里和球员帕斯卡尔-西亚卡姆目前正在西亚卡姆的祖国喀麦隆参加篮球活动，在此期间，乌杰里向参加活动的孩子们发表了演讲。
+   </p>
+   <p>
+    “我很荣幸能够向你们介绍一个我真的非常相信的家伙，他也非常相信自己，他告诉我，他不愿甘于平庸，不想成为一名岌岌无名的球员，他想要成为一位NBA超级巨星。很多人总是会说，我想要做这个，我想要做那个，但只是嘴上说说，他们并没有付出努力。你们知道吗？当我每天看到帕斯卡尔-西亚卡姆时，他总是在拼命努力。他来自这里，来自喀麦隆，现在我们拥有了一个赢家。当我看到你们这些孩子们的眼睛，我知道，如果他能够做到，一个来自喀麦隆的孩子拼命努力打篮球，就像你们一样，如果你们也付出努力，你们也有机会做到这一切，甚至做得比他更出色。”乌杰里说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，西亚卡姆场均出场31.9分钟，能够得到16.9分6.9篮板3.1助攻；季后赛场均出场37.1分钟，能够得到19分7.1篮板2.8助攻1抢断。西亚卡姆凭借自己的出色表现帮助猛龙夺得了NBA总冠军，并且当选年度进步最快球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

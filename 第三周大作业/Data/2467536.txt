@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  平易近人！阿尔德里奇社媒晒出中国活动为球迷签名瞬间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1ZYon4g7do/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 08:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="平易近人！阿尔德里奇社媒晒出中国活动为球迷签名瞬间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/bf00dd75ee328d5357118667037466e5816c481b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 近日，马刺球员拉马库斯-阿尔德里奇在中国参加NBA关怀活动。今日他通过个人社交媒体Instagram晒出一张自己为球迷签名时被抓拍的照片。
+   </p>
+   <p>
+    阿尔德里奇配文：“（签字emoji）。”
+   </p>
+   <p>
+    2018-19赛季常规赛，阿尔德里奇场均出场33.2分钟，得到21.3分9.2篮板2.4助攻1.32盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/07/a2c9bc4af7d60d7c6f4f39d74fa082d1.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

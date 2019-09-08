@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  随着沃克可能离队，黄蜂开始在自由市场寻控卫，如罗齐尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1053928/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 23:49:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="随着沃克可能离队，黄蜂开始在自由市场寻控卫，如罗齐尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/0a2dbbf8ab6a3060d07c4177effb8e7a771ddf5c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据the Athletic记者Shams Charania报道，消息人士透露，随着控球后卫肯巴-沃克可能会和别队签约，黄蜂开始在自由球员市场上找寻控卫，比如凯尔特人的受限制自由球员特里-罗齐尔。
+   </p>
+   <p>
+    据Shams报道，罗齐尔也是尼克斯的目标之一。
+   </p>
+   <p>
+    根据此前的报道，由于凯尔特人有望得到沃克，这意味着他们可能会不得不放弃罗齐尔的权利，让他成为一名完全自由球员。而如果罗齐尔成为一名完全自由球员，那他对接受1年或者2年的短期合同持开放态度。
+   </p>
+   <p>
+    2018-19赛季常规赛，罗齐尔场均出场22.7分钟可以得到9.0分3.9篮板2.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  疯狂秀恩爱！布莱索更新社媒晒出身背妻子甜蜜合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzZT140ndLj/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:36:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="疯狂秀恩爱！布莱索更新社媒晒出身背妻子甜蜜合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/1c4e8a4e6177d7ec953914d9e1ac672888368e04.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，NBA球员埃里克－布莱索更新instagram晒与妻子合照，并配字写道：“她喜欢闻我古龙水的味道”。
+   </p>
+   <p>
+    埃里克-布莱索2018-19赛季季后赛，场均出场28.2分钟，得到13.7分4.3助攻3.7篮板1.07抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/12/431864c6a32f69b496b3573b678e4511.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

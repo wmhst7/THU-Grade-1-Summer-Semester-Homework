@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科林斯：不会受自由市场影响，能接受担任四号位或五号位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/learning-both-sides-zach-collins-refs-still-figuring-it-out?cid=Yahoo&amp;partner=ya4nbcs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 17:36:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科林斯：不会受自由市场影响，能接受担任四号位或五号位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/2283ea81cdbd3ae7099830c99771aaf12016fa03.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 近日，开拓者球员扎克-科林斯接受了记者的采访。
+   </p>
+   <p>
+    今夏，开拓者交易了小前锋莫里斯-哈克利斯，并没有续约自由球员艾尔-法鲁克-阿米奴，同时球队也有一些新援加入，他们的融合将是下赛季的重点。谈到自由市场的变化时，柯林斯表示自己的心态并未改变：“如果我在很长的时间里担任四号位，那将在很大程度上更多地以外线为重……我一直不想过分减少呆在内线、在内线打出高效表现的时间。但是，如果能在四号位上获得上场时间，我对此完全同意。当我上场时，我会努力进攻，尽我所能成为最优秀的四号位，如果我担任的是五号位也是一样。”
+   </p>
+   <p>
+    “我认为这是某种使我与众不同的特质，我既可以担任四号位，也可以担任五号位。我们将对实际情况拭目以待，但是我对担任四号位和五号位都有准备。”
+   </p>
+   <p>
+    赛季结束后，科林斯在波特兰又待了一个月，继续他的训练。他承认他给了自己两周的时间休息，但那之后他的时间安排就回到了一种与之前两个休赛期的时间安排类似，但进行了一定完善的状态。
+   </p>
+   <p>
+    “每天早上，我会做举重，然后在球场上进行训练，或者反之。然后到了下午我会进行积极性修复，比如做做瑜伽，或者是做一些有氧运动，以及投篮训练和其他一些训练，从而继续保持体型。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达米安-琼斯：没能得到展示的机会，急需证明自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ajc.com/sports/basketball/damian-jones-haven-really-gotten-chance-show-what-can/XlteOboruyBqczFYtO7HFO/" target="_blank">
+     亚特兰大宪政报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 04:42:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达米安-琼斯：没能得到展示的机会，急需证明自己" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/f6c28cb2423f64507696ac96fa0db9b70f743e5b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 根据此前的报道，达米安-琼斯被勇士交易至老鹰，琼斯在勇士3个赛季仅出场了49场比赛，上个赛季他接受了左胸肌修复手术，缺席大部分比赛。
+   </p>
+   <p>
+    琼斯希望自己能在老鹰得到更多的机会，“我没有得到展示自己能力的机会，我还需要去证明自己……”琼斯在老鹰的新闻介绍会上说道。
+   </p>
+   <p>
+    谈到自己对交易的看法，琼斯说道：“我觉得这对我来说会是一个新的开始，我是这样认为的。”
+   </p>
+   <p>
+    琼斯还谈到勇士生涯对自己的影响：“我仍然会继续保持尽可能强的进攻性，继续前进，让赢球文化带领我继续前进。”
+   </p>
+   <p>
+    琼斯是2016年NBA选秀大会的首轮30号秀，2018-19赛季常规赛共代表勇士上场24次，其中首发22次，场均上场17.1分钟，得到5.4分3.1篮板1.2助攻1.04盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

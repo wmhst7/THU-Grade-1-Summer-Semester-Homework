@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃尔南戈麦斯：小加索尔是西班牙篮球历史最棒的球员之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/916891/juancho-hernangomez-marc-gasol-is-a-leader-an-example/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 18:44:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃尔南戈麦斯：小加索尔是西班牙篮球历史最棒的球员之一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/4e5f8fd381483934ec715620ad801788f0f9fb83.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 西班牙男篮球员胡安-埃尔南戈麦斯在近日接受FIBA官网采访时谈到了国家队队友马克-加索尔。
+   </p>
+   <p>
+    “马克是一位领袖，是一个榜样，也是西班牙篮球历史上最出色的球员之一，”埃尔南戈麦斯说道，“能够与他并肩作战真的是很棒的一件事，我们这些年轻人总是能够向马克这样的球员学习，与他相处的时光是无价的。”
+   </p>
+   <p>
+    “他度过了一个很棒的赛季，我密切关注着他的表现，他是一位如此具有影响力的球员。他在国家队中取得了巨大的成就，但他现在仍然在努力帮助球队赢得更多的冠军和奖牌。他对比赛有着深刻的理解，他知道如何在攻防两端为球队提供帮助，他渴望赢球，他的能量总是能够为球队带来积极的影响。”埃尔南戈麦斯说道。
+   </p>
+   <p>
+    “球队中能够拥有一位像他这样的家伙，这是一件幸事，你必须从像他们这样天赋异禀的球员身上学习，并且努力取得进步，”埃尔南戈麦斯说道，“他们极具经验且充满天赋，在国家队中的成就很高，他们是激励我们的前进的榜样。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

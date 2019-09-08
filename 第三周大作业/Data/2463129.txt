@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  法国男篮将让埃利-奥科博顶替受伤的赫尔特尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Be_BasketFr/status/1159450145542594560" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 21:09:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="法国男篮将让埃利-奥科博顶替受伤的赫尔特尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/f01aea0e2c5bb26ca44b194d4fc2cfdbd3644c7f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 法国后卫托马斯-赫尔特尔因为膝伤将接受手术，他因此缺席今夏的男篮世界杯，法国男篮决定让埃利-奥科博顶替赫尔特尔。
+   </p>
+   <p>
+    奥科博将在当地时间周一抵达里昂，参加接下来的训练营。
+   </p>
+   <p>
+    2018-19赛季常规赛，奥科博在太阳场均出战18.1分钟可以拿到5.7分2.4助攻1.9篮板。
+   </p>
+   <p>
+    法国、多米尼加、德国和约旦在今夏男篮世界杯上同在G组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

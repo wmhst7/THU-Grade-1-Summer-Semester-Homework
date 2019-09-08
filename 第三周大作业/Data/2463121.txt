@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  千锤百炼！东契奇晒出举重力量训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B05z23YhDXo/?igshid=kdi9j2orj45v" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 20:48:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="千锤百炼！东契奇晒出举重力量训练照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/d4cc9c1227a38c92a51af1150e4f66d54616f18c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 独行侠球员卢卡-东契奇今日通过Instagram发布了一组个人训练照。
+   </p>
+   <p>
+    东契奇在这组照片中利用杠铃和哑铃进行力量训练。
+   </p>
+   <p>
+    2018-19赛季，东契奇场均上场32.2分钟，得到21.2分7.8篮板6.0助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/20/98c83e9ebc82d22b19826a17a9a3d666.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/20/46c0af0d716981c1456393c4a633fc76.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

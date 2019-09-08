@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  再续前缘！勇士任命迈克-邓利维为球队助理总经理
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/yanyiqing3/status/1169087751641133057" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 11:29:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="再续前缘！勇士任命迈克-邓利维为球队助理总经理" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/305fe2bd2088a93e1d1434291fc0ccada475da23.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 金州勇士队今日正式任命前NBA球员迈克-邓利维成为球队助理总经理，他将协助总经理鲍勃-迈尔斯的工作。
+   </p>
+   <p>
+    2018年9月，邓利维加入了勇士制服组，担任专业球探。
+   </p>
+   <p>
+    邓利维出生于1980年，2002年第1轮第3顺位被勇士选中，在为勇士效力四个半赛季后被交易至步行者，后辗转雄鹿、公牛、骑士、老鹰等队，职业生涯场均出场27.7分钟，得到11.2分4.3篮板2.2助攻0.73抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：姚凡)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

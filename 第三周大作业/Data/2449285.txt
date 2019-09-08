@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小里弗斯谈续约火箭：兴奋，很开心待在一支季后赛球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1145740601268342790" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 06:34:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小里弗斯谈续约火箭：兴奋，很开心待在一支季后赛球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/2dffdc11fd60284ce5bc45a26fb58e0173dae9e5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，自由球员后卫奥斯汀-里弗斯已经达成了2年口头协议，重返火箭。
+   </p>
+   <p>
+    消息人士透露，小里弗斯的合同中第二年为球员选项。
+   </p>
+   <p>
+    谈到续约火箭，小里弗斯说：“我就是非常兴奋，很开心待在一支季后赛球队。”
+   </p>
+   <p>
+    据火箭记者Jonathan Feigen报道，小里弗斯将签下的是一份约为217万美元的底薪合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，小里弗斯场均出场26.7分钟，可以得到8.1分2.1篮板2.2助攻0.62抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

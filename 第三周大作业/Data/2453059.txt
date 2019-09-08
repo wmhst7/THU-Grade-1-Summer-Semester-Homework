@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德调侃自己：与我交换过球衣的球员都更换了东家
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SLAMonline/status/1149515929941762048" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 11:22:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德调侃自己：与我交换过球衣的球员都更换了东家" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/8940e0828d7d20ac2d1566fc954881ffe0a6cde9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 今日德韦恩-韦德更新了自己的个人推特动态，调侃与自己交换过球衣的球员都更换了东家。
+   </p>
+   <p>
+    “我只知道，自从自由球员市场开启后，与我交换过球衣的球员都更换了东家。20年后，没有人会相信这些球员曾穿过这些（旧东家）球衣。”韦德写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，韦德曾与克里斯-保罗、丹吉洛-拉塞尔、保罗-乔治和肯巴-沃克交换过球衣，这四人在今年夏天都更换了东家。
+   </p>
+   <p>
+    <br/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/11/86569bf4e8e49e4d73fd1d5b4ff1d372.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/11/8801edf2ef03bf98904189ec6f756a8e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/11/cc730ac060520ae4000592e4399c4cc5.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

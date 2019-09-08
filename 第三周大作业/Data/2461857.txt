@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德雷蒙德-格林：并不觉得我们的时代结束了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EdwardGay1/status/1157792849292718080" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 13:06:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德雷蒙德-格林：并不觉得我们的时代结束了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/8ff7d562421e026974797e7177b1359b6528748b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 勇士前锋德雷蒙德-格林近日在采访中谈到外界对勇士的看轻，他表示勇士的时代还没有结束。
+   </p>
+   <p>
+    他表示：“我知道大家都开始觉得我们的时代结束了，但这种看法可不怎么聪明，我们还没有结束。不过，现在确实有很多声音，囔囔着我们的时代结束了。我可不这么看，我们会回来的。”
+   </p>
+   <p>
+    在今年总决赛，勇士以2-4不敌猛龙无缘三连冠。在休赛季，凯文-杜兰特、安德烈-伊格达拉、肖恩-利文斯顿等球员相继离开勇士；克莱-汤普森目前正在养伤，预计明年全明星期间才能复出。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

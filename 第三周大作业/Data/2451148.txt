@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：太阳交易得到约翰逊、杰罗姆、沙里奇和贝恩斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/press-release/suns-complete-trades-add-draft-picks-johnson-jerome-and-veterans-saric-baynes" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 13:03:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：太阳交易得到约翰逊、杰罗姆、沙里奇和贝恩斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/b0b6a1b49b755d0f17e9d922320c1e988d1de073.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 太阳官方今日宣布，他们已经完成与森林狼、凯尔特人、步行者的多笔交易，得到2019年选秀11号秀卡梅伦-约翰逊及24号秀泰-杰罗姆的签约权，以及前锋达里奥-沙里奇和阿隆-贝恩斯。
+   </p>
+   <p>
+    太阳将本届6号秀贾勒特-卡尔弗的签约权送至森林狼，得到沙里奇本届11号秀约翰逊的签约权。
+   </p>
+   <p>
+    太阳将一个来自雄鹿的2020年受保护的首轮选秀权送至凯尔特人，得到贝恩斯和本届24号秀杰罗姆的签约权。
+   </p>
+   <p>
+    太阳还将前锋TJ-沃伦以及本届32号秀KZ-奥克帕拉的签约权送至步行者换取现金。
+   </p>
+   <p>
+    太阳总经理詹姆斯-琼斯表示：“我们很激动地迎来卡梅伦、泰、达里奥以及阿隆加入球队。他们是被证实过的赢家，将为我们提供阵容深度。他们具备的投射、全面以及强硬将对我们的未来提供极大的价值。他们四人都很激动能够加入菲尼克斯社区，作为我们球队的成员展开工作。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

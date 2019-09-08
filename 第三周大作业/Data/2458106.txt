@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡特：未来若做评论员会认真解读比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/25/vince-carter-will-be-top-tv-free-agent-after-final-nba-season/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 07:16:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡特：未来若做评论员会认真解读比赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/7e8d263841046d2f01e7f5924a8aa66620f35063.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 近日，自由球员文斯-卡特接受了媒体的采访。
+   </p>
+   <p>
+    卡特计划再打一个赛季，但目前还未和任何球队签约。
+   </p>
+   <p>
+    “我们还在研究。按顺序来，我知道我会去哪。”
+   </p>
+   <p>
+    而在卡特明年退役后，多家媒体有意聘用他担任评论员。对此，卡特也表示了自己的看法。
+   </p>
+   <p>
+    “我不会走Stephen A. Smith的路子。我也不会一言不发。我想要在你看比赛时进行分析然后让你觉得：‘说的有道理。’ ”
+   </p>
+   <p>
+    记者询问卡特，是否想加入一支有夺冠希望的球队？
+   </p>
+   <p>
+    “那不是我的风格。”
+   </p>
+   <p>
+    “就是不是我的风格。我倾向于再打一年是因为我知道我还能留在NBA。这是我享受的东西。”
+   </p>
+   <p>
+    卡特表示无论自己去哪，都希望能进入球队的轮换。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

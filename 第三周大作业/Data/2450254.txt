@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]变魔术？威少大力击球，球从画面中消失
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 18:29:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://m.365yg.com/i6709684180764066307/?utm_source=hupu&amp;app=video_article" onclick="openVideo('https://m.365yg.com/i6709684180764066307/?utm_source=hupu&amp;app=video_article');return false;" target="_blank">
+    <img alt="[视频]变魔术？威少大力击球，球从画面中消失" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/54e08dd70d968e5080ae0f38a4db01fd9d8f4fa8.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯
+    <a href="https://m.365yg.com/i6709684180764066307/?utm_source=hupu&amp;app=video_article" target="_blank">
+     视频: [视频]变魔术？威少大力击球，球从画面中消失»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

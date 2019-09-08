@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  朱利叶斯-兰德尔个人Ins晒自己训练的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz_eqbSjNmX/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 16:31:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="朱利叶斯-兰德尔个人Ins晒自己训练的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/866de491de9ef7b42cb844c7e3c9e0906d8782b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日尼克斯球员朱利叶斯-兰德尔更新了自己的个人Instagram动态，晒出了自己训练的照片。
+   </p>
+   <p>
+    根据此前的报道，尼克斯与兰德尔签下了一份3年6300万美元的合同，第三年为球队选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均上场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

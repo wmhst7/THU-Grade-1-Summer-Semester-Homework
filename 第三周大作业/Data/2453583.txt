@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  恩尼斯：我对球队非常有信心，球队中这些家伙渴望赢球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/quotebook-offseason-introductory-press-conference" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 21:38:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="恩尼斯：我对球队非常有信心，球队中这些家伙渴望赢球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/a59a4a5678e50ed4a05cf85aabd339f00d4bd0d9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 76人今日为新签约的球员举行了新闻发布会，前锋詹姆斯-恩尼斯接受了媒体采访。
+   </p>
+   <p>
+    谈到续约费城，恩尼斯说：“我感觉非常自信，我对于这支球队非常有信心，我相信布雷特-布朗教练，我知道球队中的这些家伙渴望赢球，这是一支球队最重要的特质。我们想要一直赢球，这当然会非常艰难，这可是NBA，但我对于球队非常有信心。”
+   </p>
+   <p>
+    据之前The Athletic记者Shams Charania的报道，恩尼斯将以2年410万美元的合同重回76人，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，恩尼斯场均上场21.2分钟得到6.7分3.1篮板0.7助攻；季后赛场均上场21.1分钟得到7.5分3.8篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

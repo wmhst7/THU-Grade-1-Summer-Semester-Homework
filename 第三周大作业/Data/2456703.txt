@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波蒂斯对2K总监发问：能不能给我加点头发？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BPortistime/status/1152781148050690050" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 09:14:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波蒂斯对2K总监发问：能不能给我加点头发？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/deb51decc9621c6ede080663eb58847d8a5f3e3d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 尼克斯前锋博比-波蒂斯在个人推特上@ 了2K游戏的总监Ronnie，并配文道：
+   </p>
+   <p>
+    “老兄，能不能在2K里给我加点头发？我在游戏里看起来还像是几年前在大学那样！”
+   </p>
+   <p>
+    在去年发布的2K19游戏中，波蒂斯如图一所示，像大学时期（图二）一样是板寸头，但实际上，现在效力于尼克斯的波蒂斯的头发已经有一定长度了。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/09/02e43a2b2d7450d50dab7692f788981f.jpg" style="opacity: 0.9;"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/09/36a3a5acb1d5b7770bc6c642d3ad33ee.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/09/81709e4f17824b8315b16ebe86667519.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

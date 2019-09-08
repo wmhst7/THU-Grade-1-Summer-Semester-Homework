@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  后卫德里克-沃顿与快船达成Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JShawNBA/status/1154785652644503552" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 00:26:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="后卫德里克-沃顿与快船达成Exhibit 10合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/e9fc8bb55a4daea3f6e722e6a1dded1cf4d9b0da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 根据HoopsRumors记者JD Shaw报道，后卫德里克-沃顿与快船达成一份合同。
+   </p>
+   <p>
+    根据报道，这份合同为Exhibit 10合同。
+   </p>
+   <p>
+    沃顿是2017年选秀大会的落选秀，2018-19赛季开始前他签约公牛，但随后被裁。
+   </p>
+   <p>
+    沃顿上一次征战NBA是在2017-18赛季，当赛季他效力于热火，场均上场9.2分钟，得到1.8分1.0篮板1.0助攻。
+   </p>
+   <p>
+    今年夏天，沃顿代表快船出战拉斯维加斯夏季联赛，共上场4次，场均上场13.3分钟，得到4.3分1.8篮板1.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰勒-哈里斯将代表掘金出战NBA夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1143330382395428864" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 09:34:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰勒-哈里斯将代表掘金出战NBA夏季联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/2715778c666cd6669eed7b886844912d25506325.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，泰勒-哈里斯将代表掘金出战夏季联赛。
+   </p>
+   <p>
+    值得一提的是，泰勒-哈里斯是托拜厄斯-哈里斯的弟弟，2018-19赛季效力于日本联赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

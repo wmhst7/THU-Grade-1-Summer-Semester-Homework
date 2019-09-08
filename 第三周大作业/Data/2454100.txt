@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔拜访肯塔基大学男篮：等不及看到他们新赛季上场了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6nzn8g9Ip/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 12:03:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔拜访肯塔基大学男篮：等不及看到他们新赛季上场了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/a0f26ab8bc39a263b24570aa12674350064fa8ec.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日尼克斯前锋朱利叶斯-兰德尔更新了自己的个人Instagram动态，晒出了自己拜访肯塔基大学主帅约翰-卡利帕里的照片。
+   </p>
+   <p>
+    “卡利帕里教练提早进行了肯塔基大学男篮的招募工作，今日球队看起来很不错，我们在场外聊了不少有趣的事。教练在与他们的相处上表现很好。我等不及看到这些家伙新赛季上场比赛了。@约翰-卡利帕里” 兰德尔写道。
+   </p>
+   <p>
+    在进入NBA前，兰德尔效力于肯塔基大学，2013-14赛季NCAA场均上场30.8分钟，得到15.0分10.4篮板1.4助攻。
+   </p>
+   <p>
+    此前尼克斯与兰德尔签下了一份3年6300万美元的合同。2018-19赛季常规赛，兰德尔场均上场30.6分钟，得到21.4分8.7篮板3.1助攻0.71抢断0.62盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/12/e251561c2b1d1b30b39c18bc64d70b48.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：尼克斯已经裁掉兰斯-托马斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145058418463563776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 05:48:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：尼克斯已经裁掉兰斯-托马斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/7992808094f14964ba191a93873731703a62c39c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据The Athletic记者Shams Charania报道，联盟消息人士透露，尼克斯已经裁掉了前锋兰斯-托马斯。
+   </p>
+   <p>
+    2018-19赛季，托马斯共出战了46场比赛，场均上场17分钟得到4.5分2.5个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

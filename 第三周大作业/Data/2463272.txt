@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约什-理查德森探访西甲巴塞罗那俱乐部
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B063vPjlkIx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 07:41:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约什-理查德森探访西甲巴塞罗那俱乐部" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/a17b8fd6fe4beaad8e9c9883d3f98022bbb99cb1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 费城76人队前锋约什-理查德森今天在个人Instagram上传了一组自己探访西甲巴塞罗那俱乐部的照片（见新闻配图）。
+   </p>
+   <p>
+    “感谢@西班牙甲级足球联赛昨日的招待，我和我的朋友们都玩得很开心@安托万-格列兹曼（巴塞罗那球员）！”理查德森写道。
+   </p>
+   <p>
+    本赛季休赛期，理查德森在一笔多方交易中被热火交易至76人。2018-19赛季常规赛，他场均出场34.8分钟，得到16.6分3.6篮板4.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/07/01353afb211bf9ca4e5f193a2e789b50.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/07/14ae956f50f1e7dcd39f45ab55fc82fc.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/07/277e152ad8a69d9a761d9e9dc5a5381d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

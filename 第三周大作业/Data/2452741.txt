@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：你肯定会等待那样一名球员，但我们还有B计划
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spectrumsn/status/1149175571395407872" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 14:13:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：你肯定会等待那样一名球员，但我们还有B计划" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/5b9db3e5f42f64221a79b05c9109987ef41196d9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 湖人主帅弗兰克-沃格尔今日在夏季联赛现场接受采访时谈到了湖人今夏的运作情况。
+   </p>
+   <p>
+    谈到上任一两个月以来的状态，沃格尔说：“非常忙碌，但也很激动。相比于刚上任时，我们已经是一支大为不同的球队了。我喜欢各方面的情况发展，我们在组建教练组方面取得了很大进展。我很享受与罗勃-佩林卡、科特-兰比斯以及全体管理层协调统筹的合作过程，我们对于球队未来很兴奋。”
+   </p>
+   <p>
+    谈到教练组的人员组成，沃格尔说：“现在还早，我们已经有杰森-基德和莱昂纳尔-霍林斯将在替补席上担任助教，我们还在和一些人选进行交流，这方面也接近达成最终决定了。迈尔斯-西蒙留任（球员发展教练），他将待在替补席后面。他的工作做得很好，他正在执教夏季联赛，和这群年轻人合作得很好。我很期待看到其余教练人员到位。”
+   </p>
+   <p>
+    谈到湖人在自由市场的引援表现，沃格尔说：“这是一个有趣的时段，我要赞扬罗勃-佩林卡和全体管理层以正确的方式处理自由市场，我认为我们选择追逐目标人选的策略是正确的。如果你有机会得到他，你肯定会等待那样一名球员。我们还有一个B计划，在我看来它同样令人激动。一切都进展得很快，那天非常忙碌，决定之后的第二天，我们确保引入了其余新援。我们对于他们将要担任的角色感到舒服，对于我们创造的阵容深度也感到激动，我们拥有一些非常强大的人员。我们将成为一支三分能力优秀的球队，防守强队，阵容中将具备多样性，这将成为湖人篮球史上一段激动人心的时期。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

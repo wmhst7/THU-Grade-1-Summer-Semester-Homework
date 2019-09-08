@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰夫-格林：爵士阵容合理且打法无私，康利是个好队友
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sltrib.com/sports/2019/07/26/jeff-green-ed-davis/" target="_blank">
+     盐湖城论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 07:42:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰夫-格林：爵士阵容合理且打法无私，康利是个好队友" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/425b6f40cc3367dc35d0e061b7a635582dd8501d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今天，爵士为球队新援召开了记者发布会，球员杰夫格林接受了记者的采访。
+   </p>
+   <p>
+    谈到为何加入爵士，格林说：“爵士有很好的人员构成，赢球的机会是最重要的。”
+   </p>
+   <p>
+    谈到迈克-康利，格林表示，康利得到“年度最佳队友”是有原因的。
+   </p>
+   <p>
+    “他是一个会为球队奋斗的人，他热爱球队，支持队友。他是一个没有自负，每天都会努力帮助球队赢球的球员。”
+   </p>
+   <p>
+    谈到球队前景，格林说：“我们有很多能拉开空间的球员，这会给每个人创造出投篮空间。球队会有很多人有机会打出好的表现。我觉得我们是一支无私的球队，我们有很多值得骄傲的球员。这就是你期待的——一支无私并且为彼此打球的球队。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

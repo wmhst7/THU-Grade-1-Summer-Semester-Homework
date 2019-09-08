@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  除非收到包含未来首轮签的报价，否则灰熊不会交易伊格达拉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1149717111486525441" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 00:41:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="除非收到包含未来首轮签的报价，否则灰熊不会交易伊格达拉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/6e5808a5df5b79e45230238ccbf840bcfc990bcc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据《纽约时报》记者Marc Stein的报道，联盟内部人士认为，在新赛季开始前，灰熊并不会交易安德烈-伊格达拉，除非他们收到包含未来首轮选秀权的报价。Stein认为灰熊也不会裁掉伊格达拉，他会出现在赛季开始时灰熊的大名单里。
+   </p>
+   <p>
+    灰熊此前送出双向合同球员朱利安-沃什伯恩，用空间强吃伊格达拉的合同，并得到一个勇士的未来首轮签作为补偿。灰熊也不打算在赛季开始前买断伊格达拉，而是探索其交易可能性。火箭、独行侠等队都对伊格达拉有意。
+   </p>
+   <p>
+    根据此前的报道，独行侠曾用考特尼-李和一个二轮签向灰熊报价伊格达拉，灰熊的回应则是他们不愿意接手李剩余1275.9万美元的合同。
+   </p>
+   <p>
+    伊格达拉的合同还剩一年，金额为1719万美元。2018-19赛季常规赛伊格达拉出场68次，场均23.2分钟，能得到5.7分3.7篮板3.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

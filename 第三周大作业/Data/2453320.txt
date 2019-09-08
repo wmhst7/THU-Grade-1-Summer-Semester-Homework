@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj节目中透露，雷霆打算尽快交易走保罗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/pickuphoop/status/1149683757013753857" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 02:56:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj节目中透露，雷霆打算尽快交易走保罗" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/8d8e17aaa4a67c10fb61b9f65e8cd000f53b2947.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 NBA记者Adrian Wojnarowski在节目Get Up中透露，雷霆打算尽快交易走保罗。
+   </p>
+   <p>
+    “关于克里斯-保罗的市场会很小，热火是最有希望得到他的，还有其他一些球队想要谈判一下，这是一笔雷霆希望尽快达成的交易，他们打算在保罗穿上雷霆球衣打比赛前就完成这笔交易。”
+   </p>
+   <p>
+    在此前火箭和雷霆达成的交易中，保罗被送至雷霆。雷霆可以马上交易保罗，只要在交易中不包括雷霆的其他球员；而如果要在交易中搭上其他的球员，则需要等到两个月后才能交易。
+   </p>
+   <p>
+    2018-19赛季常规赛，保罗场均上场32.0分钟，得到15.6分4.6篮板8.2助攻1.97抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆老板：感谢威斯布鲁克，相信我们能东山再起
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ErikHorneOK/status/1151290827408326657" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 09:10:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆老板：感谢威斯布鲁克，相信我们能东山再起" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/768b2275645c0308a65365794705597f925026fd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今天，雷霆球队老板克莱-本内特发表声明，表达了对于前雷霆球员拉塞尔-威斯布鲁克的感谢。
+   </p>
+   <p>
+    “我对于威斯布鲁克怀有极大的尊重，言语无法表达我们对他的感谢，他对俄克拉荷马城的居民意义巨大。他留给我们的东西意义重大，他和他为球队所做出的贡献都会被铭记，我们祝他和他的家人一切都好。尽管雷霆篮球事业的一个时代走到了尽头，但我相信我们的球队天赋满满，会在未来重新获得成功。”
+   </p>
+   <p>
+    雷霆之前将威斯布鲁克交易到火箭，得到克里斯-保罗，火箭的2024年和2026年的首轮签和2021年和2025年首轮签互换权。
+   </p>
+   <p>
+    威斯布鲁克2008年首轮第4顺位被雷霆选中，职业生涯此前一直效力于雷霆。威斯布鲁克共为雷霆出场常规赛821场，场均出场34.5分钟得到23分7篮板8.4助攻；出场季后赛98场，场均38.0分钟25.4分7.0篮板7.9助攻1.9抢断。在2016-17、2017-18、2018-19连续三个赛季完成常规赛场均三双。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  步行者今夏追求过哈里斯，但是没能成功安排会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/sports/nba/pacers/2019/07/15/nba-free-agency-how-small-market-teams-like-pacers-can-compete/1721979001/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 08:36:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="步行者今夏追求过哈里斯，但是没能成功安排会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/d63843cb2dba4fdd249ea212f9a56226e09632f1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 根据《印第安纳波利斯星报》记者J. Michael的报道，步行者今夏尝试过追求托拜厄斯-哈里斯，哈里斯的家人与步行者名宿梅尔-丹尼尔斯很有渊源。
+   </p>
+   <p>
+    不过最终步行者没能成功与哈里斯会面，但是原因并不是哈里斯对小球市球队不感兴趣，多位联盟消息人士透露，原因是哈里斯只会与为他提供顶薪合同的球队会面，这是哈里斯的底线。
+   </p>
+   <p>
+    哈里斯没有拒绝步行者试探性的电话，但是考虑到球队需要填补的那些阵容空缺，步行者知道他们无法为哈里斯提供顶薪合同。
+   </p>
+   <p>
+    最终，哈里斯与76人续约，签下了一份5年1.8亿美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里斯场均上场34.7分钟，得到20.0分7.9篮板2.8助攻，季后赛场均上场36.9分钟，得到15.5分9.1篮板4.0助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

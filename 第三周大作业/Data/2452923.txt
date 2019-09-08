@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Windhorst：杜兰特要求勇士在交易中多送一个首轮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WindhorstESPN/status/1149320185750458373?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 23:39:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Windhorst：杜兰特要求勇士在交易中多送一个首轮" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/7e3e4a0e02cc8fe89da31e7cf833ffd4be222abf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 NBA记者Brian Windhorst在今天发表长文报道，解析了自由市场开启后的云波诡谲、球队在和球员谈判时的天平倾斜。
+   </p>
+   <p>
+    Windhorst在长文中披露了过去几年在自由市场上顺风如意的勇士在过去几周的自由市场上所遭遇的挫折。其中就包括凯文-杜兰特和丹吉洛-拉塞尔先签后换的内幕。
+   </p>
+   <p>
+    篮网本来有足够的薪资空间来签下杜兰特，对杜兰特而言，用先签后换的方式来帮助勇士本对他没有什么好处。同样，对于有湖人和森林狼追求的拉塞尔而言，也没有什么好处，他知道篮网早就打算让他成为完全自由球员，以此才有足够的空间裸签杜兰特。
+   </p>
+   <p>
+    多名消息人士透露，起初，杜兰特对于直接交易单换拉塞尔一事感到犹豫不决，他认为这是一桩不公平的交易。在此种情景下，谈判的天平倾向了球员，勇士不得不再送出一个首轮签，杜兰特才答应签约。与此同时，篮网也要求勇士接手两名球员——沙巴兹-内皮尔以及特雷韦恩-格雷厄姆，帮他们腾出空间来签约德安德烈-乔丹。勇士最终不得不又加了360万美元，将内皮尔和格雷厄姆送至森林狼，以此清理球队的薪资空间。
+   </p>
+   <p>
+    随后便是和灰熊的一桩交道。和篮网先签后换的交易会让勇士触发硬工资帽状态，薪资空间变得无比“拮据”，此时，当勇士需要将安德烈-伊格达拉从工资簿中划掉时，灰熊动用了他们的手段。
+   </p>
+   <p>
+    伊格达拉仍然是很多球队想要得到的球员，如果时间足够，勇士可能会选择交易走他，得到一些有价值的资产。但在没有时间、选择稀少，灰熊又故作将伊格达拉视作“负资产”的情况下，勇士最终放弃了一个受保护的2024年首轮签，还有200万美元。
+   </p>
+   <p>
+    一切尘埃落定，为了签下拉塞尔（4年1.17亿美元），勇士放弃了两个首轮以及560万美元的现金。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

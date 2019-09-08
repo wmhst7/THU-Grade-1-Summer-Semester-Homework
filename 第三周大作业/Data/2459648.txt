@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊曼纽尔-特里加盟土超联赛球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fiba-champions-league/913145/bandirma-signs-emanuel-terry/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:01:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊曼纽尔-特里加盟土超联赛球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/467e7eb1a70268413a09c98f69d9c34885a07d48.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 土耳其联赛球队Teksut Bandirma官方今天宣布，球队已经签下前锋伊曼纽尔-特里。
+   </p>
+   <p>
+    特里是2018年的落选秀，2018年休赛期他代表掘金出战了夏季联赛，2018年10月8日特里被掘金裁掉。常规赛，他先后与太阳、热火签下了10天合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，特里仅出战6场比赛，场均得到3.3分2.3篮板。在发展联盟，他共出战39场比赛，场均得到10.9分7.9篮板1.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-罗斯：99%听说伦纳德会留守猛龙，签下2年合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=f_uhvg7RRp8" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 10:12:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-罗斯：99%听说伦纳德会留守猛龙，签下2年合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/374321d7288dc280f70817263330a8f990d35c66.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 前猛龙球员、现ESPN评论员杰伦-罗斯在参加ESPN节目时透露，他听说科怀-伦纳德会留在猛龙。
+   </p>
+   <p>
+    “如你所知，科怀-伦纳德目前已经来到了多伦多，我99%听说，他会留在猛龙，签一份2年合同，合同结束后他也在NBA效力了10个赛季，这样一来，他可以签下最大的一份顶薪合同。”罗斯说道。
+   </p>
+   <p>
+    2021年夏天，伦纳德可以签下一份超级顶薪合同，顶薪标准为当年工资帽的35%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：糖糖)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

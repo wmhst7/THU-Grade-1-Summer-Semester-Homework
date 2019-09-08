@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比前训练师：科比告诉我如何利用天赋比天赋本身更重要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/mamba-day-8-24-former-210014246.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 06:34:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比前训练师：科比告诉我如何利用天赋比天赋本身更重要" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/362d4f59df29f92e343121d2d36045f9ed5e4d8c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 美国当地时间8月24日被称为“曼巴日”。为湖人工作多年，在几年前退休的科比前训练师Gary Vitti在“曼巴日”做客Legend of Sports播客，谈到了湖人名宿科比-布莱恩特。
+   </p>
+   <p>
+    Gary Vitti说：“他是有天赋的，但是如果我告诉你，他不是我训练过的最有天赋的球员，你会怎么想？我训练过很多人，我就告诉你这一点，科比身上没有什么非常特别的地方。我的意思是他体型很大，但是他不是体型最大的。他速度很快，但是他不是速度最快的。他力量很强，但他不是力量最强的。我是说，有其他球员比他更有天赋，而他们一枚戒指也没有拿到，科比拿到了五枚戒指，那么科比身上的过人之处是什么呢？”
+   </p>
+   <p>
+    “他很坚强，他把‘不能（can’t）’和‘不会（won’t）’这两个词从他的词典中剔除了，他相信他可以做到。科比告诉我天赋是生活中最被高估的东西，关键在于你如何利用天赋。”
+   </p>
+   <p>
+    由于科比在个人职业生涯中先后穿过8号球衣与24号球衣，所以8月24日被称为“曼巴日”。科比在1996年第1轮第13顺位被黄蜂选中，后被交易至湖人，职业生涯场均出场36.1分钟，得到25.0分5.2篮板4.7助攻1.44抢断0.48盖帽，18次入选全明星，11次入选最佳阵容一阵，9次入选最佳防守阵容一阵，5夺总冠军，夺得1次MVP，2次总决赛MVP，4次全明星MVP，2次得分王，1次全明星扣篮大赛冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

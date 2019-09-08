@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞尔维亚男篮官方：后卫米洛萨夫列维奇因膝伤无缘世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/920134/dragan-milosavljevic-officially-out-of-world-cup/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 17:46:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞尔维亚男篮官方：后卫米洛萨夫列维奇因膝伤无缘世界杯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/c68e8afc85dc7370d5a6b4c4531290e1a6c82010.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 塞尔维亚男篮官方今日宣布，后卫德拉甘-米洛萨夫列维奇因左膝伤势将无缘本届男篮世界杯。
+   </p>
+   <p>
+    米洛萨夫列维奇在当地时间周五对阵土耳其的热身赛中遭遇了严重的左膝伤病，有消息称他可能需要八个月的恢复时间，这可能会导致他缺席西班牙俱乐部马拉加下赛季的所有比赛。
+   </p>
+   <p>
+    塞尔维亚队医Dragan Radovanovic表示：“他（米洛萨夫列维奇）遭遇了膝盖韧带伤病，需要接受手术，很不幸，他将无缘本届世界杯。”
+   </p>
+   <p>
+    本届世界杯，塞尔维亚与意大利、菲律宾、安哥拉同处D组，小组赛将在佛山举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

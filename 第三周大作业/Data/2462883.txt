@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尤伊：感激火箭一直对我有兴趣，不会关闭加盟NBA的大门
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://as.com/baloncesto/2019/08/06/mundial_baloncesto/1565125002_547267.html" target="_blank">
+     阿斯报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 09:14:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尤伊：感激火箭一直对我有兴趣，不会关闭加盟NBA的大门" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/1f9bf15b026135199062a854fe41fb4942640f77.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 在接受《阿斯报》采访时，皇马后卫塞尔希奥-尤伊谈到了NBA和火箭。
+   </p>
+   <p>
+    尤伊在2009年选秀大会第二轮总计第34顺位被掘金选中，火箭当时花了225万美元买下了他的签约权。
+   </p>
+   <p>
+    谈到NBA，尤伊说：“不加盟是我个人的决定，这是我之前的决定，我仍然有机会加盟，这是一扇你永远不会关闭的大门，但是我在皇马很开心，我想在这里，拿到很多冠军，继续享受很多年的篮球比赛。”
+   </p>
+   <p>
+    “事实上，我感激火箭每年都对我有兴趣，我也感激他们尊重我的决定，因为他们从没有给我施压，他们很有礼貌，他们接受了我的决定，现在我专注于国家队。”尤伊说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

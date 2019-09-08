@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小萨博尼斯疑似遭遇食物中毒，将缺席与韩国队的热身赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Urbodo/status/1165129194084290560" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 14:31:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小萨博尼斯疑似遭遇食物中毒，将缺席与韩国队的热身赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/f82eb1760cc7e25d9bf77f3c1f7d0ea90da10685.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 据立陶宛记者Donatas Urbonas报道，立陶宛男篮前锋多曼塔斯-萨博尼斯将缺席与韩国男篮的热身赛。
+   </p>
+   <p>
+    萨博尼斯很可能是遭遇了食物中毒，他在去球馆的路上感觉胃部不适，队友Marius Grigonis也由于同样的原因留在酒店休息。
+   </p>
+   <p>
+    本届世界杯，立陶宛与澳大利亚、加拿大、塞内加尔同处H组，小组赛在东莞举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

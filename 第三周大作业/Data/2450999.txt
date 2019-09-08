@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  为完成巴特勒交易，热火将使用延伸条款裁掉莱恩-安德森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IraHeatBeat/status/1147547362509770752" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 00:54:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="为完成巴特勒交易，热火将使用延伸条款裁掉莱恩-安德森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/73c2f11c6979694976843bb3b68d3c0ab1838528.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据迈阿密当地记者Ira Winderman报道，热火将使用延伸条款裁掉队中前锋莱恩-安德森。
+   </p>
+   <p>
+    据报道，热火此举在于完成吉米-巴特勒的交易。
+   </p>
+   <p>
+    使用延伸条款裁掉安德森后，他剩余一年受保障的1564万美元薪水将被分摊到三个赛季内支付，因此，热火在未来两个赛季的球队工资帽中，将各扣除520万美元。
+   </p>
+   <p>
+    安德森2016年夏天与火箭签下了4年8000万美元的合同，2018-19赛季，他被送到太阳，之后又被送到热火，他与热火的合同还有1年2126万美元，其中1564万美元受保障。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

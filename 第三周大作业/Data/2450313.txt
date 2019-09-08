@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Carter：我认为伦纳德将在当地时间周五宣布去向
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FTFonFS1/status/1146734715623399426" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 22:13:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Carter：我认为伦纳德将在当地时间周五宣布去向" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/932f9ded654dabb1ffc8453d0b442d437d5d4ab5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 NBA记者Cris Carter在今日参加节目时谈到了自由球员科怀-伦纳德的最新动向。
+   </p>
+   <p>
+    “我认为他将在星期五（当地时间）宣布最终去向，”Cris Carter说道，“整个事情的过程是这样的，他和自己的团队计划在上周日与魔术师约翰逊进行会面，在周一和周二分别与湖人和快船进行会面，之后安排与尼克斯和篮网会面，最终会与猛龙会面。”
+   </p>
+   <p>
+    “考虑到KD（凯文-杜兰特）和凯里（欧文）早早地就宣布加盟篮网，此前安排的与篮网的会面因此取消。而尼克斯担心即便他们与伦纳德进行了会面，依旧没有机会得到他。尼克斯在之前得到的消息是球队得到伦纳德的机会很小，因此他们在周日会面前就选择了放弃。”Cris Carter说道。
+   </p>
+   <p>
+    “最终的情况就变成了先与湖人快船会面，昨日飞回多伦多和猛龙会面，就像我们所看到的那样，一切都在按照他们的日程进行。”Cris Carter接着说道。
+   </p>
+   <p>
+    Cris Carter被认为是最了解伦纳德情况的记者，并与伦纳德的家庭最熟悉的记者。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

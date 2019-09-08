@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里中国行结束后赴纽约向杜兰特表达尊敬和感谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1055842/2019/07/01/thompson-kevin-durants-choice-showed-what-he-values-something-stephen-curry-and-the-warriors-couldnt-quite-give-him/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 14:29:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里中国行结束后赴纽约向杜兰特表达尊敬和感谢" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/95e38704551178f767ea478351964569f1802c9b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据The Athletic记者Marcus Tompson报道，传出前锋凯文-杜兰特即将与篮网签约的消息时，刚刚在中国参加完品牌活动的勇士后卫斯蒂芬-库里正在从上海飞往纽约的飞机上。
+   </p>
+   <p>
+    而库里没有选择掉头或者取消这趟纽约行程，因为他觉得此行目的不是招募或者说服杜兰特留在勇士队，而是向他表达感谢和尊敬。
+   </p>
+   <p>
+    作为球队的基石，库里去纽约的行程本来被看作是勇士队为留下杜兰特所做的最后努力。但库里此行最终只是为了与杜兰特共度最后一段队友时光，为了告诉杜兰特他在过去的三年里有多尊敬和欣赏他，为了祝福杜兰特的未来幸福平静，向他表达他支持他的决定。在到达杜兰特在曼哈顿的公寓后，杜兰特向库里确认了他已经决定与篮网签约。两人进行了面对面的、男人与男人朋友与朋友之间的谈话。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

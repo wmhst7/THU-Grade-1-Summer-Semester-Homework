@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  扎克-科林斯晒个人扣篮瞬间：我没什么训练集锦来晒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1XWunShAZ2/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 09:36:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="扎克-科林斯晒个人扣篮瞬间：我没什么训练集锦来晒" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/c5d59b387235b5bedd6314bf4409c05208457137.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 波特兰开拓者队中锋扎克-科林斯今天在个人Instagram上传了一张自己的扣篮照（见新闻配图）。
+   </p>
+   <p>
+    “我没有什么训练集锦来晒，但是这里有一张扣篮的照片，希望每一个人都能有一个不错的夏天！”科林斯写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，科林斯场均出场17.6分钟得到6.6分4.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

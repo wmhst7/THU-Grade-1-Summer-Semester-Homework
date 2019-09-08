@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  唐斯：为拉塞尔拿到大合同高兴，生活大于篮球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.twincities.com/2019/07/18/karl-anthony-towns-believes-timberwolves-budding-culture-is-something-special/" target="_blank">
+     圣保罗先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 15:42:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="唐斯：为拉塞尔拿到大合同高兴，生活大于篮球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/aafd3bbb04f01fa897230eba0657eee8f7614b20.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 森林狼球员卡尔-安东尼-唐斯的好友丹吉洛-拉塞尔曾是森林狼在自由市场中的头号目标，但是拉塞尔加盟了勇士。近日，唐斯在采访中称，自己对此没有怨气。
+   </p>
+   <p>
+    “因为他感到高兴，所以我也为他高兴。整个休赛期，当你经历自由市场相关的事时，很多事情都是不确定的。但是首先，他最终拿到了很棒的合同，这永远改变了他和他家人以及孩子的生活，这对他来说是很重要的，因为生活大于篮球。我们曾经谈到，当我有孩子的时候我想让他当我孩子的教父，当他有孩子的时候，他想让我当他孩子的教父。这时候我们就谈到了生活方面的事。这和家庭有关，这带来的影响比篮球更深。”
+   </p>
+   <p>
+    唐斯确实希望拉塞尔能加入森林狼，与他和安德鲁-威金斯组成三人组。但无论如何，唐斯认为拉塞尔会考虑森林狼已经表明了一种转变。
+   </p>
+   <p>
+    “我认为森林狼球迷们现在看到了，那些他们觉得不可能来森林狼的球员，现在其实是可能来的；那些他们觉得永远不会考虑我们的球员，现在也正在考虑我们。这是因为我们的管理层在总裁吉尔森，主教练莱恩-桑德斯以及其他人的带领下很棒，这向那些球员表明了我们的情况。球员们在莱恩身上看到了一个他们真正愿意为之效力的教练，这也是对我们球队所具有的天赋的另一个实际证明。”
+   </p>
+   <p>
+    此前篮网与勇士完成先签后换的交易，篮网得到凯文-杜兰特和一个2020年的受保护首轮签，送出丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄斯。拉塞尔的新合同预计为4年1.17亿美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均上场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断。卡尔-安东尼-唐斯场均上场33.1分钟，得到24.4分12.4篮板3.4助攻1.62盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

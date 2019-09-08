@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网官方更新社交媒体，晒照欢迎凯文-杜兰特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzou1lghu3f/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 09:14:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网官方更新社交媒体，晒照欢迎凯文-杜兰特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/a57044021f005a3216e4370e44cda9f3984c74a2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，篮网官方更新社交媒体Instagram，晒照欢迎凯文-杜兰特（见新闻配图）。
+   </p>
+   <p>
+    “凯文-杜兰特，布鲁克林。”并配文道。
+   </p>
+   <p>
+    根据此前报道，篮网官方今日宣布，他们已经从勇士得到凯文-杜兰特和一个2020年的受保护首轮签，他们为此送出了丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄姆。
+   </p>
+   <p>
+    2018-19赛季常规赛，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻0.7抢断1.1盖帽。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2451411.html">
+     官方：篮网送出拉塞尔、内皮尔和格雷厄姆，从勇士得到KD
+    </a>
+    <br/>
+    <a href="https://voice.hupu.com/nba/2451422.html">
+     篮网经理：得到KD提升了我们与联盟顶级球队竞争的能力
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

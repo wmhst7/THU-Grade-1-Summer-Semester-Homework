@@ -1,0 +1,46 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：老鹰交易得到所罗门-希尔及德安德烈-亨特签约权
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hawks/hawks-acquire-draft-rights-to-deandre-hunter-solomon-hill-conditional-2023-pick-from-pelicans?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 14:05:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：老鹰交易得到所罗门-希尔及德安德烈-亨特签约权" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/aa9fb29b3fcf64bc5a09d22931f258e18b806cff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 老鹰官方今日宣布，他们正式完成与鹈鹕的交易，得到本届选秀4号秀德安德烈-亨特和57号秀乔丹-博恩的签约权、所罗门-希尔以及一个2023年受保护的次轮选秀权，为此老鹰送出了本届选秀8号秀贾克森-海斯、17号秀尼基尔-亚历山大-沃克以及35号秀马科斯-洛扎加-席尔瓦的签约权，以及一个受保护的2020年首轮选秀权。
+   </p>
+   <p>
+    老鹰总经理特拉维斯-施伦克表示：“我们很激动地将德安德烈加入我们的年轻核心阵容之中。作为上赛季大学篮球中最顶级的攻防兼备型选手之一，他所带来的一系列技能将会很好地在球场上进化至下一级别。他也是一个性格出众的人，一位赢家，我们认为他将极其适合球队阵容。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

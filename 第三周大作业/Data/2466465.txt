@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黄毛没了！卡佩拉社交媒体晒出自己的新发型
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1RPCENnSpi/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 00:47:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黄毛没了！卡佩拉社交媒体晒出自己的新发型" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/05d9b223452e373ed20f357e6a9639b0c00a29d9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 火箭中锋克林特-卡佩拉今天在Instagram晒出了自己的最新发型（见新闻配图），从图中可以看到，此前卡佩拉那一撮显眼的黄毛不见了。
+   </p>
+   <p>
+    “新的发型，谁不喜欢呀？”卡佩拉写道。
+   </p>
+   <p>
+    2018-19赛季，卡佩拉场均上场33.6分钟，贡献16.6分12.7篮板1.4助攻；季后赛场均上场30.1分钟，得到9.7分10.3篮板1.1盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/00/1f8170cd3b0b75620976577079c71f8b.png"/>
+   </p>
+   <p>
+    卡佩拉此前的发型为：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/00/7badd585bd245199cf52ef9759b7cd68.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克罗地亚俱乐部锡伯那终止与昆西-米勒的合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sportando.basketball/en/kk-cibona-voids-quincy-millers-contract/" target="_blank">
+     Sportando
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 07:36:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克罗地亚俱乐部锡伯那终止与昆西-米勒的合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/e559854c09191b9caa4322ab297106de0244158c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 据Sportando体育记者Emiliano Carchia的报道，克罗地亚联赛俱乐部锡伯那宣布，他们已经终止了他们与昆西-米勒的合同。
+   </p>
+   <p>
+    之前米勒没有通过球队的体检，无法达到训练的要求，目前锡伯那在寻求一名新的球员。
+   </p>
+   <p>
+    锡伯那官方在北京时间8月2日与米勒签约，去年休赛期，米勒曾参加快船试训，但最终没有能够进入球队名单，随后他加盟了西班牙联赛尤文图特俱乐部。
+   </p>
+   <p>
+    米勒在2012年选秀大会次轮第8顺位被掘金选中，NBA职业生涯曾为掘金、国王、活塞出战过，共出场69场常规赛，场均上场13.5分钟，能够得到4.3分2.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

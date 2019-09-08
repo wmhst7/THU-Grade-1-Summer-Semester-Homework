@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才目前不会交易布拉德利-比尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.theringer.com/nba/2019/7/15/20694183/nba-free-agency-questions-giannis-thunder-kawhi" target="_blank">
+     The Ringer
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:38:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才目前不会交易布拉德利-比尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/f7faae8416604f776d2c154ea8d585113bbcb6eb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据The Ringer记者Kevin O'Connor的报道，多位联盟消息人士透露，目前奇才不会交易布拉德利-比尔，不过这样的情况在新赛季赛季中期交易截止日前可能会发生改变。
+   </p>
+   <p>
+    奇才之前表示他们计划给比尔提供一份三年价值1.11亿美元的提前续约合同，并且比尔阵营和奇才整个夏天也一直都有交流。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔场均出战36.9分钟，可以拿到25.6分5.5助攻5篮板1.5抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

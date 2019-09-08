@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波尔-波尔：被交易至掘金很棒，球队工作人员工作很谨慎
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://247sports.com/college/oregon/Article/Bol-Bol-Oregon-Ducks-Denver-Nuggets-Perfect-Situation-133415979/" target="_blank">
+     247Sports
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 10:39:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波尔-波尔：被交易至掘金很棒，球队工作人员工作很谨慎" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/a5192146ea65eccccd45312f06ed87af4f3b784c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 今天在2019年NBA选秀大会中，波尔-波尔本是选秀预测能进首轮前十的新秀，然而在选秀大会上热火用44号签选中马努特-波尔之子波尔-波尔，随后将他交易至掘金。近期，波尔-波尔接受了记者的采访。
+   </p>
+   <p>
+    在谈及自己被热火选中随后被交易至掘金时。波尔对记者说道：”我现在认为现在这是一个对我来说极好的局面。掘金的工作人员都十分小心谨慎，对于我的伤病都是小心对待，时刻关心着我，而且并不急于求成。”
+   </p>
+   <p>
+    波尔-波尔继续说道：“我现在没有打过一场比赛，但是我不会因此感到失望。我此前差点落选，没有比这个更糟。”
+   </p>
+   <p>
+    波尔今年19岁，身高2.2米，体重94公斤，司职中锋，但因为应力性骨折本赛季仅在NCAA出场9次，场均出战29.8分钟，能够贡献21.0分9.6篮板1.0助攻0.8抢断2.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

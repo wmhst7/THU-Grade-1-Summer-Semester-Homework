@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  博洛西斯：这或许是我最后一次国家队之旅，我会全力以赴
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/924893/bourousis-on-rising-over-galis-in-greek-nt-game-count-it-is-a-big-honor/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 20:32:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="博洛西斯：这或许是我最后一次国家队之旅，我会全力以赴" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/aadb64a4e6d5a6bc82fd377c3a57660fd77c2114.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 即将年满36岁的希腊男篮中锋扬尼斯-博洛西斯代表希腊国家队出战次数在最近超越了名人堂球员Nikos Galis，升至历史第九位。
+   </p>
+   <p>
+    博洛西斯在接受媒体采访时对此表示：“在我2005年首次代表国家队出战时，我无法想象有朝一日能够超越希腊篮球的传奇人物Nikos Galis。这是巨大的荣耀，这能够证明过去这些年以来，我在任何情况下都会全力以赴。这是巨大的荣耀，同时也带来了更大的义务，从理论上来说，这或许是我最后一次国家队之旅，我想要拼尽全力为球队提供帮助。”
+   </p>
+   <p>
+    希腊男篮目前大名单如下：扬尼斯-阿德托昆博，萨纳西斯-阿德托昆博，尼克-卡拉希斯，乔治斯-帕帕扬尼斯，科斯塔斯-帕帕尼古拉乌，扬尼斯-博洛西斯，安东尼斯-科尼亚尔斯，范吉利斯-曼扎瑞斯，扬诺利斯-拉伦特扎基斯，帕纳约蒂斯-瓦西洛普洛斯，洛安尼斯-帕帕佩特鲁，康斯坦丁诺斯-米特格卢，乔治-普林泰基斯。
+   </p>
+   <p>
+    此外，热身赛中小腿受伤的球队主力后卫科斯塔斯-斯洛卡斯目前也赶到了南京与球队会和，8月29日为希腊男篮公布12人大名单的最终期限。
+   </p>
+   <p>
+    本届世界杯，希腊与巴西、黑山、新西兰同处F组，小组赛在南京举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

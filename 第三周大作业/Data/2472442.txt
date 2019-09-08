@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  海伍德-海史密斯本周将为太阳试训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BenStinar/status/1169103738709204992" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 12:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="海伍德-海史密斯本周将为太阳试训" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190904/f957f549f55befd2187e62a33bcb9f146accbcf9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 根据Amico Hoops记者Ben Stinar的报道，联盟消息人士透露，海伍德-海史密斯本周将为太阳试训。
+   </p>
+   <p>
+    海史密斯上个月为雄鹿进行了试训，目前他是一名完全自由球员。
+   </p>
+   <p>
+    22岁的海史密斯身高2.01米，体重100公斤，他是去年选秀大会的落选秀。
+   </p>
+   <p>
+    2018-19赛季常规赛，海史密斯为76人出战5场，场均出战8分钟可以拿到1.8分1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

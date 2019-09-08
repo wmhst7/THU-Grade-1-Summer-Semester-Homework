@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥拉迪波：最近的篮球圈就像肥皂剧，我只专注于提升自我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nyckjedwards/status/1144367125366104064/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1144367125366104064&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Fpacers-news-victor" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 11:58:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥拉迪波：最近的篮球圈就像肥皂剧，我只专注于提升自我" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/664764d91cb0856186fe74174cfce78fce3a9fbc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 步行者球员维克托-奥拉迪波在今日出席第三届年度球员科技峰会时谈到即将开启的自由球员市场。
+   </p>
+   <p>
+    “最近几天的篮球世界就像是肥皂剧，而我只会专注于不断地提升自我，努力成为最好的自己。”奥拉迪波说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，奥拉迪波场均出场31.9分钟，能够得到18.8分5.6篮板5.2助攻1.7抢断。北京时间1月23日，奥拉迪波遭遇了右膝盖四头肌腱伤病，赛季报销，目前正在恢复当中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

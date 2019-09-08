@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕楚里亚问克莱能否扣篮，后者回：和世界是平的一样现实
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/klaythompson/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 11:23:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕楚里亚问克莱能否扣篮，后者回：和世界是平的一样现实" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/6eb9d32326004b49d1b5720e33ad924294784ad4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，活塞球员扎扎-帕楚里亚更新Instagram story，晒出一段网友截取的游戏里自己角色扣篮的视频，帕楚利亚问话勇士球员克莱-汤普森：“你能做这个吗？”
+   </p>
+   <p>
+    随后，汤普森转发此条ins story，并配字道：“这和世界是平的一样现实。”
+   </p>
+   <p>
+    帕楚里亚曾在16-18两个赛季效力于勇士，和汤普森曾经是队友。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/11/4d89bef0b11504e0e1c7787b076a1272.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

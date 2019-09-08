@@ -1,0 +1,67 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕官方推特发布蔡恩和海斯合照，引美网友调侃
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PelicansNBA/status/1148458402340843520" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 18:01:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕官方推特发布蔡恩和海斯合照，引美网友调侃" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/d74a6605f8e1a20cb693cb06aff8fa43d55b5fe1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日，鹈鹕官方推特发布了一张球队状元新秀蔡恩-威廉森和第8顺位新秀贾克森-海斯的合照（见新闻配图）。
+   </p>
+   <p>
+    值得一提的是，在这条推特的评论区，网友通过调侃的方式表达了对海斯今天在夏季联赛上完成暴力隔扣的称赞。
+   </p>
+   <p>
+    “鹈鹕未来的MVP和蔡恩的一张合影。”
+   </p>
+   <p>
+    “年度最佳新秀和蔡恩的一张合影。”
+   </p>
+   <p>
+    “海斯旁边那个人是谁？”
+   </p>
+   <p>
+    “我感觉这张图片刚刚隔扣了我。”
+   </p>
+   <p>
+    在今天鹈鹕109-72战胜公牛的比赛中，贾克森-海斯出场21分钟，15投10中，得到28分4篮板3封盖。
+   </p>
+   <p>
+    相关视频：
+   </p>
+   <p>
+    <a href="https://weibo.com/1883881851/HCEadiksa" target="_blank">
+     视频：死亡隔扣！海斯空中展现极限身体素质&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

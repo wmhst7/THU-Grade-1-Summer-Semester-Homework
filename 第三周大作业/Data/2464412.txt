@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  生力军！凯尔特人官方发布四名新秀的拍摄现场照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CXqGEpJlo/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 04:40:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="生力军！凯尔特人官方发布四名新秀的拍摄现场照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/f055333acaf7b8450e470810519c640e2dc72b18.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今天NBA官方召集了2019级新秀，为他们拍摄新赛季定妆照。
+   </p>
+   <p>
+    凯尔特人官方在Instagram上晒出了四名新秀卡森-爱德华兹（次轮第3顺位）、特里蒙特-沃特斯（次轮第21顺位）、格兰特-威廉姆斯（首轮第22顺位）的罗密欧-兰福德（首轮第14顺位）在拍摄现场的照片。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/04/84f5622c58139b4dbcb923c0e53a018a.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

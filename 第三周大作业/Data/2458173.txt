@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特晒与塔科-法尔合照：我们信任塔科
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0Wr6JhFbpT/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 10:07:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特晒与塔科-法尔合照：我们信任塔科" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/b7cc1ad34b281e01caecdaa27065f2dc54772b8d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，凯尔特人中锋埃内斯-坎特更新个人社交媒体Instagram，晒出一张与新签约的凯尔特人双向合同球员塔科-法尔的合照。
+   </p>
+   <p>
+    坎特配文：“我们信任塔科。”
+   </p>
+   <p>
+    在夏季联赛中，塔科-法尔场均能得到7.2分4篮板1.4盖帽。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2458116&amp;type=1">
+     官方：凯尔特人签下塔科-法尔等四名球员
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

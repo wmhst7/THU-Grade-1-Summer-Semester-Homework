@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  今夏支出最多的五支球队，76人篮网勇士前三
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BobbyMarks42/status/1154757658563375106" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 09:14:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="今夏支出最多的五支球队，76人篮网勇士前三" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/d1c28965d729225fb27b7e7313e32c10d5f4e810.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今日，ESPN媒体人Bobby Marks发推，发布了7月份支出最多的五支球队：
+   </p>
+   <p>
+    第一名：76人 4.8亿美元
+   </p>
+   <p>
+    第二名：篮网 3.6亿美元
+   </p>
+   <p>
+    第三名：勇士 3.3亿美元
+   </p>
+   <p>
+    第四名：独行侠 3亿美元
+   </p>
+   <p>
+    第五名：雄鹿 2.8亿美元
+   </p>
+   <p>
+    相关链接：
+    <a href="http://lite.hupu.com/s?u=nba/news/2449411&amp;type=1&amp;entrance=26">
+     球队薪资页面
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

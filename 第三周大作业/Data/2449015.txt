@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  留守快船！贝弗利转发woj相关推特并向快船表示感谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/patbev21/status/1145563126928007168" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 13:29:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="留守快船！贝弗利转发woj相关推特并向快船表示感谢" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/929b33a2ed84e2ca75acfc8007fcf181d11a8c2c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据记者Adrian Wojnarowski此前消息报道，后卫帕特里克-贝弗利和快船达成3年4000万美元的续约协议。
+   </p>
+   <p>
+    随后，贝弗利转发了记者Adrian Wojnarowski的相关推特，并向快船表示了感谢。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190701/13/34035de3c4470596b5865b7a7501024b.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

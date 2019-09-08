@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  本-西蒙斯今日晒出儿时与爱宠合影：你给我们带来快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzTiuMFHECi/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:24:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="本-西蒙斯今日晒出儿时与爱宠合影：你给我们带来快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/95d1e541c982942d37268d10a1bccc465af93a56.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，76人前锋本-西蒙斯更新了个人社交媒体Instagram晒出自己与自己的宠物狗儿时合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“男人最好的朋友。同时，这也是我7岁时得到的最好的礼物。15年来，你给我们带来微笑，为我们的生活增添了快乐，我爱你Jasper。”
+   </p>
+   <p>
+    2018-19赛季常规赛，本-西蒙斯场均出场34.2分钟，可以得到16.9分8.8篮板7.7助攻1.42抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

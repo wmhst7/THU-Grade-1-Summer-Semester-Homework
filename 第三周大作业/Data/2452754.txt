@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥利尼克：我期待和新队友并肩作战，努力去做到一些事情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1149104655776931845" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 15:01:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥利尼克：我期待和新队友并肩作战，努力去做到一些事情" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/f1eaf55f5490d3bb87c0e25c62341c6ef99276c3.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 热火球员凯利-奥利尼克在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    热火目前夏季联赛战绩为六胜一负，谈到球队的表现，奥利尼克说：“他们的表现太棒了，这些家伙们在追逐自己的梦想，他们打得很棒很努力，能够在场边见证他们的表现，这非常有趣。”
+   </p>
+   <p>
+    谈到球队休赛期的引援，奥利尼克说：“我非常期待和他们并肩作战，建立良好的化学反应，努力去做到一些事情。”
+   </p>
+   <p>
+    谈到下赛季的个人目标，奥利尼克说：“就是继续努力，逐步提升自己，为了球队取得成功，我会全力以赴。无论局面如何，我们都会团结一致，希望下赛季会有好的事情发生。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

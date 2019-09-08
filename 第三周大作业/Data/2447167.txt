@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  同胞情深！保罗-加索尔发推晒出卢比奥造访篮球学院的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/paugasol/status/1143625543155363845" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 11:05:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="同胞情深！保罗-加索尔发推晒出卢比奥造访篮球学院的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/10d929b4a6613eed588a85d954ff0407a06faa3a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 今日，雄鹿球员保罗-加索尔发推晒出NBA球员里基-卢比奥造访保罗-加索尔篮球学院并与孩子们互动的照片（见新闻配图）。
+   </p>
+   <p>
+    加索尔在推文中写道：“与卢比奥在篮球学院度过了美好的一天！你真的是一个非常好的榜样！非常感谢你的造访！”
+   </p>
+   <p>
+    2018-19赛季常规赛，加索尔场均出场12.0分钟，可以贡献3.9分4.6篮板1.7助攻0.17抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢比奥场均出场27.9分钟，可以贡献12.7分3.6篮板6.1助攻1.34抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/11/57095a522e5f8ef471ac609e9efd1c60.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/11/251af1dbb4c0644e624d497444c04f51.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

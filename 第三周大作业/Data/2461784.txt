@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫里斯：期待队友教给我经验，参加圣诞大战很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/HarrisonWind/status/1158055920275845121" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 08:39:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫里斯：期待队友教给我经验，参加圣诞大战很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/bb10b83e8aade317599f15e3eb94d67bb10fc0e9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 近日，掘金球员蒙特-莫里斯近日在菲律宾参加NBA活动时接受了媒体采访。
+   </p>
+   <p>
+    谈到队友梅森-普拉姆利和托里-克雷格参加美国男篮训练营，莫里斯说：“我认为这很棒，这会为我们下赛季的表现增添光彩。他们会上场做他们该做的事情，我知道他们会这么做的。他们是很努力的人，他们能做出很多贡献。此外，他们能从男篮训练营带回一些经验，如果他们能在我们的训练营里教我一些东西，那我会很期待。”
+   </p>
+   <p>
+    谈到参加圣诞大战，莫里斯说：“我一直都梦想参加圣诞大战，今年有机会了。之前我梦想参加季后赛，后来做到了。我大学时候经常看勒布朗-詹姆斯对阵勇士，看拉塞尔-威斯布鲁克对阵詹姆斯-哈登。能得到参加圣诞大战的机会很棒，我从孩提时代就看圣诞大战了。我们已经展示了足够的天赋，人们希望看到我们参加圣诞大战。我们得到了参加圣诞大战的机会，希望我们能拿下胜利，然后去拆我们的礼物。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

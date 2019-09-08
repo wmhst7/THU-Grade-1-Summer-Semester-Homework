@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K20能力值公布完整版：詹姆斯伦纳德字母哥分列前三
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:12:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K20能力值公布完整版：詹姆斯伦纳德字母哥分列前三" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/41eb4a3faece8d5649f1aa72b2f79876d1e8a676.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 2K官方的首次NBA 2K20能力值今日公布，以下为具体数据。
+   </p>
+   <p>
+    前20球员的能力值为：
+   </p>
+   <p>
+    第20-11：布雷克-格里芬(88)、鲁迪-戈贝尔(88)、多诺万-米切尔(88)、肯巴-沃克(88)、吉米-巴特勒(88)、卡尔-安东尼-唐斯(89)、克莱-汤普森(89)、拉塞尔-威斯布鲁克(90)、尼古拉-约基奇(90)、凯里-欧文(91)。
+   </p>
+   <p>
+    第10-6：乔尔-恩比德(91)、达米安-利拉德(92)、保罗-乔治(93)、安东尼-戴维斯(94)、斯蒂芬-库里(95)
+   </p>
+   <p>
+    第5-1：詹姆斯-哈登(96)、凯文-杜兰特(96)、扬尼斯-阿德托昆博(96)、科怀-伦纳德(97)、勒布朗-詹姆斯(97)。
+   </p>
+   <p>
+    新秀球员中：排名第一的是鹈鹕的状元秀蔡恩-威廉森，他的初始能力值来到了81。排名第二的灰熊榜眼贾-莫兰特的能力值是79，排名第三的尼克斯探花RJ-巴雷特的能力值是78，老鹰的4号秀德安德烈-亨特和骑士的5号秀达里厄斯-加兰的能力值都是77。
+   </p>
+   <p>
+    三分射手方面，勇士球员斯蒂芬-库里三分能力值达到了99，排名第一；库里的队友克莱-汤普森三分能力值97排名第二；排名第3-5位的三分射手分别是乔-哈里斯（3分能力值94）、JJ-雷迪克（3分能力值90）、巴迪-希尔德（3分能力值90）。
+   </p>
+   <p>
+    这是2K官方首次将球员能力值以视频直播的形式集中公布。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

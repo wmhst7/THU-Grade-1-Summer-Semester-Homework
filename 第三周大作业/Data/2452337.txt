@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  史蒂文斯：布朗、塔特姆和海沃德休赛期一直坚持训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/celtics/news/sidebar/post-sl-070919-stevens-says-brown-hayward-tatum-are-putting-in-the-work" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 12:47:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="史蒂文斯：布朗、塔特姆和海沃德休赛期一直坚持训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/787555b09c7c625b35daf23ac1d003ddfa7d2194.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 在今天凯尔特人击败掘金的夏季联赛比赛前，绿衫军主教练布拉德-史蒂文斯接受了媒体的采访，期间他谈起了球队前锋杰伦-布朗、杰森-塔特姆和戈登-海沃德的情况。
+   </p>
+   <p>
+    对于杰伦-布朗和塔特姆，史蒂文斯表示：“他们都在波士顿待了很久，当然当他们不在波士顿时候，他们仍然一直在坚持训练。”
+   </p>
+   <p>
+    之后史蒂文斯谈起了海沃德的情况，其中就包括这位前锋每日前往奥尔巴赫中心进行常规训练的行程。
+   </p>
+   <p>
+    “休赛期以来，他几乎一直留在波士顿，”史蒂文斯说道，“戈登（海沃德）在波士顿进行着日常计划好的训练安排，然后周末会休息。”
+   </p>
+   <p>
+    “平时他来训练馆的时间会比之前早很多，几乎是一大早就出发了。你们如果想看他的话，最好也起个大早才行，这样你们在出门时就能见到他了，但你们最好别随他进去，让他自己训练完成工作吧。”史蒂文斯说道。
+   </p>
+   <p>
+    今夏休赛期，凯里-欧文和艾尔-霍弗德先后离开了球队，下赛季显然人们会对布朗、塔特姆和海沃德的期待更多。
+   </p>
+   <p>
+    “我们不需要让杰森（塔特姆）或杰伦（布朗）给自己增加额外的负担，”史蒂文斯说道，“我们只是要让他们在自己擅长的领域做得更好。”
+   </p>
+   <p>
+    “我们只是需要让队员们做好自己，剩余事情就会自然而然的发生。我们有很多不同类型的球员，他们都有能力在各自的领域创造价值。”史蒂文斯如此说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

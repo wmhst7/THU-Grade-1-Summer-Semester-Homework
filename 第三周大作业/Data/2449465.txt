@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  徒劳！森林狼团队曾坐直升机到达与拉塞尔会面地以示诚意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1055409/2019/07/01/a-dream-spoiled-by-a-dynasty-in-a-flash-the-wolves-lose-out-on-dangelo-russell/?redirected=1" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 15:18:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="徒劳！森林狼团队曾坐直升机到达与拉塞尔会面地以示诚意" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/73967a218fda85d8cef10c11795feef14a04cba0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据The Athletic记者Jon Krawczynski报道，消息人士透露，自由市场开启后，在与丹吉洛-拉塞尔在洛杉矶会面时，森林狼团队乘坐直升机以迅速到达会面地点，以展示森林狼对于得到拉塞尔的诚意。
+   </p>
+   <p>
+    此前根据报道，拉塞尔与森林狼之间相互有意，森林狼中锋卡尔-安东尼-唐斯参与了球队与拉塞尔的会面。森林狼也在联盟范围内寻求交易以确保能够留出签约拉塞尔所需的薪资空间。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，消息人士透露，拉塞尔将与篮网签下一份4年1.17亿的合同，然后被交易至勇士。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均出场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断，并入选全明星阵容。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

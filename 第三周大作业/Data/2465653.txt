@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥斯曼现场观战欧洲超级杯支持利物浦，詹姆斯为之欢呼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2109946927238913741?utm_source=ig_story_item_share&amp;igshid=r08v2vgm1tlh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 14:33:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥斯曼现场观战欧洲超级杯支持利物浦，詹姆斯为之欢呼" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/7ff820974fdc510c0ae6483d34f078e66dddbc16.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 骑士前锋切迪-奥斯曼今日在Instagram Story上更新自己现场观战欧洲超级杯比赛的动态，并与湖人前锋勒布朗-詹姆斯展开互动。
+   </p>
+   <p>
+    上赛季欧冠冠军利物浦和欧联杯冠军切尔西在土耳其伊斯坦布尔展开对欧洲超级杯的争夺，而作为土耳其人的奥斯曼也兴致勃勃地到场观战。
+   </p>
+   <p>
+    “当然要支持利物浦！@勒布朗-詹姆斯”奥斯曼写道。詹姆斯则转发回复道：“是的，先生！！！#ynwa（利物浦球迷口号‘你永远不会独行’的英文缩写）”
+   </p>
+   <p>
+    詹姆斯持有利物浦足球俱乐部2%的股份，此前也多次在社交媒体上为红军加油助威。在今日结束的超级杯比赛中，常规时间内双方1-1战平，加时赛过后2-2继续战平进入点球大战，最终利物浦点球5-4总分7-6战胜切尔西问鼎欧超杯。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190815/14/cc236685c112d39889cfce10485f95a2.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯换回6号，库兹马：我们需要发带詹
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kylekuzma/status/1144430652281901057?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 10:26:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯换回6号，库兹马：我们需要发带詹" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/b621b989f1fa1f3a67e5ddf0a74e4eca96e0f7f9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 湖人前锋勒布朗-詹姆斯今日发推表示自己将在新赛季选择身穿6号球衣。湖人前锋凯尔-库兹马转发了这条推特，并发表感想。
+   </p>
+   <p>
+    “我们需要的只是那条发带，兄弟。满足球迷们的需求吧。”库兹马写道。
+   </p>
+   <p>
+    根据此前的报道，詹姆斯已经决定将在新赛季把自己的湖人23号球衣号码让给未来队友安东尼-戴维斯。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯老板多兰担忧杜兰特伤势，不愿给全额顶薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ramonashelburne/status/1145471388356100096" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 07:21:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯老板多兰担忧杜兰特伤势，不愿给全额顶薪" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/072656641009b5dd995eb60e69dfbdf263e7d3be.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Ramona Shelburne和Adrian Wojnarowski联合报道，消息人士透露，尼克斯老板吉姆-多兰因为担忧凯文-杜兰特的跟腱伤势，不愿给他提供全额顶薪。
+   </p>
+   <p>
+    尼克斯的团队目前在洛杉矶，他们将与自由球员朱利叶斯-兰德尔进行会面。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

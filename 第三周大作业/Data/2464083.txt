@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈希姆-塔比特下周将在密尔沃基为雄鹿试训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BenStinar/status/1160290477972905984" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 08:15:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈希姆-塔比特下周将在密尔沃基为雄鹿试训" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/5bf5eab5bb4afa7ad225c306819dd9a8d817cbf6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 根据Amico Hoops记者Ben Stinar的报道，联盟消息人士透露，哈希姆-塔比特下周将在密尔沃基为雄鹿试训。
+   </p>
+   <p>
+    塔比特最近这一年在改善自己的身体条件，多支NBA球队都表示塔比特现在状态不错。
+   </p>
+   <p>
+    32岁的塔比特身高2.21米，体重120公斤，他是2009年选秀大会的榜眼秀。
+   </p>
+   <p>
+    NBA职业生涯至今，塔比特打过224场常规赛，场均出战10.5分钟可以拿到2.2分2.7篮板0.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,107 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠新赛季赛程：揭幕战对阵奇才，全美直播升至13场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dallasmavs/status/1160995412666458112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 10:02:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠新赛季赛程：揭幕战对阵奇才，全美直播升至13场" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/fb7ffbf8c01acae4f19b23c4db1ac9bfa23a9ee1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 根据NBA官网的报道，达拉斯独行侠队2019-20赛季完整赛程出炉。独行侠将在北京时间10月24日揭幕战迎战奇才，4月16日收官战主场迎战雷霆。相较于去年的5场全美直播，本赛季独行侠的全美直播比赛升至13场。
+   </p>
+   <p>
+    全美直播比赛（北京时间）：
+   </p>
+   <p>
+    10月26日客场挑战鹈鹕
+   </p>
+   <p>
+    11月2日主场迎战湖人
+   </p>
+   <p>
+    11月15日客场挑战尼克斯
+   </p>
+   <p>
+    11月21日主场迎战勇士
+   </p>
+   <p>
+    12月4日客场挑战鹈鹕
+   </p>
+   <p>
+    12月21日客场挑战76人
+   </p>
+   <p>
+    1月9日主场迎战掘金
+   </p>
+   <p>
+    1月18日主场迎战开拓者
+   </p>
+   <p>
+    1月24日客场挑战开拓者
+   </p>
+   <p>
+    2月1日客场挑战火箭
+   </p>
+   <p>
+    2月27日客场挑战马刺
+   </p>
+   <p>
+    3月11日客场挑战马刺
+   </p>
+   <p>
+    3月17日客场挑战快船
+   </p>
+   <p>
+    完整赛程：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/791bbd3da8cef5d097977670ea579db9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/ef250104d67d1ad4821927275cb4bc73.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/1dfe4ff2d50e2841a458b17c53037b6e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/2e45ae5c660e76ceae13c0db3fdf6575.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/0397e6a7b55245cbc42499b35c810713.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/792aa172a9afb687f44981edbac3c645.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/5d992dd7e619fdce1997c6b9acab70d9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

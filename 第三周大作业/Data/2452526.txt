@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Haynes：杜兰特与篮网的合同第4年为球员选项
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1148993713156157440" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 00:34:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Haynes：杜兰特与篮网的合同第4年为球员选项" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/3384d04b46b1c574c1f344c0c89d23237c1c4c1e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 根据雅虎记者Chris Haynes报道，多位消息人士透露，凯文-杜兰特与篮网的合同为3+1的形式，最后一年为球员选项。
+   </p>
+   <p>
+    根据Haynes报道，3+1的合同使杜兰特可以在2022年夏天成为完全自由球员，届时他将年满33岁，而湖人前锋勒布朗-詹姆斯在2022年夏天也将成为完全自由球员。
+   </p>
+   <p>
+    根据此前的报道，杜兰特与篮网签下了一份4年1.64亿美元的合同，他将身披7号球衣开启新的生涯。
+   </p>
+   <p>
+    2018-19赛季常规赛，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻0.74抢断1.08盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

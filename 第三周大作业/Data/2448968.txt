@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林：赢球是第一目标，想同时最大化薪资与战术地位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/06/28/nba-rumors-toronto-raptors-free-agency-agent-danny-green-sign-contract-report-champions-kawhi-leonard/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林：赢球是第一目标，想同时最大化薪资与战术地位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/4add8d02ab1e647f8fb8ffa0a9203210b0baef86.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 近日，自由球员丹尼-格林接受了媒体采访，谈及自己对今夏自由球员市场的看法。
+   </p>
+   <p>
+    谈及自己在自由市场上受到多支球队追逐，格林说道：“是的，我认为很多球队都在寻找我能为他们带来的这些东西，尤其是我的防守和我的外线投射，这很显而易见。我在联盟里也已经效力了很长时间了，我可以发挥老将的领导作用，帮助年轻人，甚至是稍微年长一点的，但还没达到自己最高高度的球员。我可以帮助他们理解更上一层楼需要他们在哪方面做出努力，比如要培养一些特定的良好习惯。”
+   </p>
+   <p>
+    谈及影响自己最终选择的关键因素，格林表示：“对我而言，最关键的是胜利，我想要去到一支能让我上场发光发热并赢下比赛的球队，它要有竞争力。所以我现在正在找寻那些具有良好基础的球队。”
+   </p>
+   <p>
+    谈及是否会回归猛龙，格林说道：“如果多伦多能够与我续约，我认为我们真的有很大的机会再次冲出东部，所以我为什么不想回去呢？但是事情每天都在发生变化，其他球队也在追逐我，我也想看看他们的情况。显然，我想要尽可能多地赚钱，但同时我也要让自己的战术地位尽可能高。我明白我不是一个全明星级别球星或者明星球员，但是我想让自己以一个赢下很多比赛的杰出角色球员的身份被人们和联盟铭记。”
+   </p>
+   <p>
+    此前据报道，联盟消息人士确认，快船和自由球员丹尼-格林今日确实有过交流。同时，湖人、步行者、独行侠、火箭也均对格林展示了兴趣。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均上场27.7分钟，得到10.3分4.0篮板1.6助攻，季后赛场均上场28.5分钟，得到6.9分3.6篮板1.1助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

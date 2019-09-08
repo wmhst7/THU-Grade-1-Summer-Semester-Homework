@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯解释刷屏嗨歌动态：我知道我很疯，但我太高兴了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 08:45:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯解释刷屏嗨歌动态：我知道我很疯，但我太高兴了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/ebab2556edeca0c9ea24a1b9e1994e353391fd48.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 湖人前锋勒布朗-詹姆斯今日在Instagram Story上更新了约30条车内嗨歌动态。
+   </p>
+   <p>
+    在大量自嗨动态的间隙，詹姆斯发布了一张图片表露心声：“是的，我知道我疯了！太疯狂了！！我只是太高兴了。”随后詹姆斯继续更新了十几条嗨歌自拍。
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190721/08/21c474ea82254ae650c7b4ada793fdf8.gif"/>
+    ​
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190721/08/dc3ac68bb067c40cc65db228d1d6db53.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190721/08/f0288d3f60c1e9d85df2ee0363da64fe.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190721/08/865d265d0b565072d41b2b11c684067e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190721/08/d24bca2d4f412a7a64b4c56037e82ef2.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/08/c7fb410cc4d4d5948942b7f99f7d936b.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

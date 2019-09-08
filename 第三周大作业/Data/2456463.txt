@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  里克-马霍恩：科沃尔犹如刺客，他与雄鹿完美适配
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1152634775414411264" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 16:34:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="里克-马霍恩：科沃尔犹如刺客，他与雄鹿完美适配" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/498f8afa9eb2fc867b9d692ad8ab4fbb36d32407.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 今日，前NBA球员里克-马霍恩在做客SiriusXM节目时，谈到自己对凯尔-科沃尔加盟雄鹿一事的看法。
+   </p>
+   <p>
+    里克说道：“这对雄鹿来说是一笔极好的交易，他出色的投篮使他像一个刺客一般。克里斯-米德尔顿能投篮，科沃尔也能投篮。扬尼斯和布莱索可以突破为他人拉开空间。科沃尔虽然年纪大了些，但他在场上始终很有牵制力。”
+   </p>
+   <p>
+    “我原本以为他会去湖人，因为他的投射能力正是湖人所需要的，并且他跟詹姆斯的关系不错。现在的联盟真的太需要这种射手了。”里克补充道。
+   </p>
+   <p>
+    根据此前消息，科沃尔与雄鹿达成一份一年260万美元的协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，科沃尔场均出场19.1分钟，得到8.6分2.3篮板1.2助攻；季后赛场均出场7.5分钟，得到2.5分1.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

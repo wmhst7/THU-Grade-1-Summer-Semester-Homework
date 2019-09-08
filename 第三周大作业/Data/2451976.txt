@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方发布波普与库克到场观战夏联现场图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1148463862263345153?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 14:50:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方发布波普与库克到场观战夏联现场图" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/1da05f4377c6599a9010c8ebc68dd68fff2d15c7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 湖人官方今天发布了肯塔维厄斯-考德威尔-波普与奎因-库克到场关注夏季联赛的现场图片。
+   </p>
+   <p>
+    根据此前的报道，波普与湖人签订2年1600万美元的续约合同，库克与湖人签订2年600万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，库克场均上场14.3分钟，得到6.9分2.1篮板1.6助攻；波普场均上场24.8分钟，得到11.4分2.9篮板1.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190709/14/1fb0549253fb9e1b4b831c2f16118b8f.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

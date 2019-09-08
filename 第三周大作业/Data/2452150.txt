@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士将聘用西奥-罗伯特森，作为球队教练组的一员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/anthonyVslater/status/1148625551709523969" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 00:25:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士将聘用西奥-罗伯特森，作为球队教练组的一员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/957961428b09d6860f37f89d20062e0774950253.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 根据勇士跟队记者Anthony Slater的报道，勇士将聘用西奥-罗伯特森作为助理教练，成为球队教练组的一员。罗伯特森主要负责的是球员发展方面的事务，接替此前离开勇士的助教威利-格林的职位。
+   </p>
+   <p>
+    2014-15赛季，罗伯特森在勇士担任录像分析师一职，并随勇士一起获得该赛季的总冠军。之后的一个赛季，他开始负责球员发展方面的事务。2016-17赛季，他曾任湖人助理教练。随后，一直在加利福尼亚大学伯克利分校任职。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

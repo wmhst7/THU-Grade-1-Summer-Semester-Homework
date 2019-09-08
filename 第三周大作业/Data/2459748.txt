@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比纪录片制作人：科比会在凌晨三点叫我过去，谈一晚上
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/documentarian-gotham-chopra-details-stephen-currys-spirit-commitment" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 17:06:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比纪录片制作人：科比会在凌晨三点叫我过去，谈一晚上" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/fb495bba8e62c97e48ee85fe84f0b7296e459d74.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 近日，Versus on Watch媒体发布了勇士球员斯蒂芬-库里的纪录片Stephen vs. The Game的最后一集。纪录片的联合制片人，同时也是科比-布莱恩特纪录片Muse的制片人Gotham Chopra做客Warriors Insider播客，谈到了自己与科比-布莱恩特合作的经历和感受。
+   </p>
+   <p>
+    Chopra回忆了与科比合作时紧张的工作状态。“他会在凌晨三点发短信给我，然后说：‘嘿兄弟你得过来，我有些话想说’，然后我们就会一起呆到天亮。”
+   </p>
+   <p>
+    “在他位于纽波特的办公室里，我们基本上是建了一个工作室。当我们进入到制作后期时，科比说：‘嘿，我希望后期工作能在纽波特进行。我们可以在纽波特给你找个住处。’然后我说：‘你能给我找个住处，可你不能让我跟家人呆在一块啊。’”
+   </p>
+   <p>
+    科比职业生涯20个赛季场均出场36.1分钟，能够得到25.0分5.2篮板4.7助攻1.44抢断，历史得分第3，职业生涯20个赛季全部效力于洛杉矶湖人，2016年宣布退役。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

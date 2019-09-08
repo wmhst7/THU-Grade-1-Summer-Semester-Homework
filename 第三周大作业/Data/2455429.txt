@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：与快船的竞争令人兴奋，会努力提升自己2K能力值
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/7/16/20696894/anthony-davis-excited-lakers-clippers-rivalry-nba-2k-cover-reveal-xbox-one-2k20" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 14:38:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：与快船的竞争令人兴奋，会努力提升自己2K能力值" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/a03b6c727981758e60e62f4144e1517651aca8c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 根据此前消息报道，湖人球员安东尼-戴维斯成为NBA2K20游戏的封面人物。在该封面海报公布后不久，戴维斯在接受媒体采访时谈到该游戏及对下赛季湖人的展望。戴维斯表示在快船得到科怀-伦纳德和保罗-乔治后，湖人与快船在下赛季的竞争将很有看点。
+   </p>
+   <p>
+    “这将非常令人兴奋。斯台普斯球馆的比赛将变得很有趣，尤其是当我们两队对战的时候。所以我很兴奋。两大巨头在竞争，谁将胜出，让我们拭目以待吧。”戴维斯对记者说道。
+   </p>
+   <p>
+    在NBA2K20游戏中，戴维斯和詹姆斯是联盟中能力值平均分最高的双人组，达到95.5分，略高于乔治和伦纳德的95分。而戴维斯的能力值为94分，低于詹姆斯的97分，他希望通过一个赛季的表现来改变这一分数。
+   </p>
+   <p>
+    在谈道队友勒布朗-詹姆斯时，安东尼-戴维斯表示：“他（詹姆斯）是第一个有能力在新版本游戏中冲击100分的人，所以我也可以做到。上个赛季我的得分是94分。显然在上个赛季因为某些事情我没能打那么多比赛，这就是为什么我的得分不够高的原因。但就像我说的，我可以成为能力值拿到100分的人。”
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼-戴维斯为鹈鹕出战56场比赛，场均出场33.0分钟，能得到25.9分12.0篮板3.9助攻。根据此前公布的数值，戴维斯2K20的初始能力值为94。
+   </p>
+   <p>
+    （注：在2K游戏的早期版本2K2中，沙奎尔-奥尼尔的能力值达到100，是唯一一位能力值达到100的球员。在2K后续版本中，再也没有出现能力值达到100的球员。）
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2454424.html">
+     勒布朗-詹姆斯连续10年成为2K能力值最高的球员
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

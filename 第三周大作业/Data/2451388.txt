@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  家乡球队！欧文晒出自己与篮网的签约照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzogUZeHkVT/?igshid=d42y1ws4t6c7" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 07:24:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="家乡球队！欧文晒出自己与篮网的签约照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/d2fdab5ae25b4f3a2e25e020bed2fa1e1724292f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 篮网后卫凯里-欧文今日通过Instagram晒出了他与篮网的签约照。此外，欧文还分享了一张自己小时候举着篮网定制篮球的旧照。
+   </p>
+   <p>
+    “@篮网 一切都是有线索的。”欧文写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/3022fae6c7c40a500003c98565c1da24.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/3d331d984f9d4c335cb893f505f0312a.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/946e32e129720c4b1d4356fef01bd3b9.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/d1a22635fbcaeffe66b42bf9d01c24cc.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/c567810de74e98910ae9ea65dfbf72a0.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/79274ac2fd655b827251e2db62489571.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/07/b13e36336c86c5e49b043cbfd83f2f61.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

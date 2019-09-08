@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  幸福美满！詹姆斯更新社媒晒妻女照：我的挚爱
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 11:07:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="幸福美满！詹姆斯更新社媒晒妻女照：我的挚爱" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/1759a4d740763cc38dc5d596d3aac31522f95d41.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，湖人球员勒布朗-詹姆斯更新个人Instagram Story，晒出一张自己的妻子和女儿的照片，并写道：“我的挚爱（爱心表情）！！！！！！”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/11/16f63c0560940fd893290478be751d5c.JPG"/>
+   </p>
+   <p>
+    2018-19赛季，詹姆斯场均出场35.2分钟，得到27.4分8.4篮板8.3助攻1.31抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  香蕉船兄弟集结！詹姆斯保罗安东尼晒一起训练合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B08rxjxhUQM/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 00:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="香蕉船兄弟集结！詹姆斯保罗安东尼晒一起训练合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/993e0413969e41e50e727ef5659bed15ed79060f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 今日，美国球员Chris Johnson晒出詹姆斯保罗和安东尼一起训练合照。（见新闻配图）
+   </p>
+   <p>
+    据之前包报道，今日詹姆斯保罗和安东尼在一起训练，詹姆斯在训练中呼唤韦德：“一大早的刻苦训练！早上5点22分。@donnieraimon @mikemancias1 （詹姆斯的两位私人训练师）@克里斯-保罗 @卡梅罗-安东尼。@德维恩-韦德 你人在哪里？”
+   </p>
+   <p>
+    相关视频：
+    <a href="https://m.weibo.cn/status/4403485023595436?sudaref=lite.hupu.com&amp;display=0&amp;retcode=6102">
+     詹姆斯拍摄与甜瓜保罗训练动态
+    </a>
+   </p>
+   <p>
+    <br/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190810/00/1e28ba0f8a0a04e5c152d2761e263f49.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  我们都是孩子！鹈鹕晒蔡恩、海斯、亚历山大-沃克搞怪照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PelicansNBA/status/1161302653550379008" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 00:05:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="我们都是孩子！鹈鹕晒蔡恩、海斯、亚历山大-沃克搞怪照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/83f8cf5b7213b047967420b58fc87dbed055e9e4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日，鹈鹕官推晒出球队新秀蔡恩-威廉森、贾克森-海斯、尼基尔-亚历山大-沃克在众多海洋球中的照片（见新闻配图）。
+   </p>
+   <p>
+    “我们打心底里还都是孩子。”鹈鹕官推写道。
+   </p>
+   <p>
+    威廉森出生于2000年7月6日，在2019年第1轮第1顺位被鹈鹕选中。上赛季威廉森效力于NCAA的杜克大学，上赛季他场均22.6分领跑ACC（大西洋海岸联盟），在NCAA所有联盟里排名第15；投篮命中率68%在ACC排名第1，在NCAA排名第2。场均3.5进攻篮板在ACC排名第1，在NCAA排名第9。这位一年级的新生带领球队获得ACC联盟的冠军，打进NCAA锦标赛精英八强。
+   </p>
+   <p>
+    海斯在2019年选秀大会第1轮第8顺位被鹈鹕选中，今年19岁，身高2.12米，体重99公斤，司职中锋，2018-19赛季在NCAA作为德克萨斯大学球员出场32次，场均出战23.3分钟，能够贡献10.0分5.0篮板0.3助攻0.6抢断2.2盖帽。
+   </p>
+   <p>
+    沃克在2019年选秀大会第1轮第17顺位被鹈鹕选中，今年20岁，身高1.97米，体重92公斤，司职得分后卫，2018-19赛季NCAA作为弗吉尼亚理工大学球员出场34次，场均出战34.3分钟，能够贡献16.2分4.1篮板4.0助攻1.9抢断0.5盖帽。
+   </p>
+   <p>
+    此前，鹈鹕官方发布了三位新秀的定妆照。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2464541.html">
+     鹈鹕官推晒出新秀蔡恩、海斯、亚历山大-沃克定妆照&gt;&gt;
+    </a>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/00/2d4a0470c0a4854f44c11f219abad837.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/00/ae33682b9370aa84b9d746ce29c65ce9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

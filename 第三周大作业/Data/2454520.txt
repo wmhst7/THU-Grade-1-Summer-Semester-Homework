@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯更新社媒：把蔡恩锁在家里，新奥尔良全是吃的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KendrickPerkins/status/1150849339725615104" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 14:05:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯更新社媒：把蔡恩锁在家里，新奥尔良全是吃的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/3612c5921177d3774ac8aecc4a3b530a58d3924f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 今日，前NBA球员肯德里克-帕金斯更新社交媒体Twitter写道：”鹈鹕最好把蔡恩锁在家里，因为我在新奥尔良随处可以听到‘嘿，你想来点炸鱿鱼吗？’我给你们说，我在那打过球，那里到处都是吃的！“
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28083689.html">
+     值得一提的是，威廉森现在是联盟第二重的球员。
+    </a>
+   </p>
+   <p>
+    蔡恩-威廉森在今年首轮第一顺位被鹈鹕选中。上赛季蔡恩效力于NCAA的杜克大学，上赛季他场均22.6分领跑ACC（大西洋海岸联盟），在NCAA所有联盟里排名第15；投篮命中率68%在ACC排名第1，在NCAA排名第2。场均3.5进攻篮板在ACC排名第1，在NCAA排名第9。这位一年级的新生带领球队获得ACC联盟的冠军，打进NCAA锦标赛精英八强。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

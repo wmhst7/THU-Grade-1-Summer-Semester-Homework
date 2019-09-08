@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  前老鹰总经理：威金斯和布克未来大概会被交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DuaneRankin/status/1161020433044406272?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1161020433044406272&amp;ref_url=https%3A%2F%2Ffadeawayworld.net%2F2019%2F08%2F13%2Fformer-nb" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 06:55:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="前老鹰总经理：威金斯和布克未来大概会被交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/e20c8f3c443b4a3c1f8ef52755b9722ad851b296.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 近日，前老鹰总经理Wes Wilcox参加了NBA TV的一档节目，节目中他被问到谁是下一个将要被交易的球员，备选答案有凯文-乐福、布拉德利-比尔、克里斯-保罗、德文-布克、安德鲁-威金斯和安德烈-伊戈达拉。
+   </p>
+   <p>
+    对此，Wes Wilcox说：“在这六人中，我们知道克里斯-保罗和安德烈-伊戈达拉都被摆上了货架，可以被交易。在其他四人里，我认为安德烈-威金斯和德文-布克大概会在未来被交易。”
+   </p>
+   <p>
+    2018-19赛季常规赛，威金斯场均出场34.8分钟，得到18.1分4.8篮板2.5助攻。德文-布克场均出场35.0分钟，得到26.6分4.1篮板6.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

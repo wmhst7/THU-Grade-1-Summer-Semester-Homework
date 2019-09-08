@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人与卡森-爱德华兹达成一份4年协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AdamHimmelsbach/status/1149867548311035904" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 10:39:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人与卡森-爱德华兹达成一份4年协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/1ce7413b7d1cfcb5eaf324a668e5c858596a6b6e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据《波士顿环球报》记者Adam Himmelsbach的报道，一位联盟消息人士透露，凯尔特人已经与今年选秀大会的33号秀卡森-爱德华兹就一份保障合同达成了协议。
+   </p>
+   <p>
+    消息人士透露，爱德华兹与凯尔特人达成了一份4年协议，合同受保障部分超过450万美元，合同前3年全额受保障，第4年合同带有球队选项。
+   </p>
+   <p>
+    21岁的爱德华兹身高1.85米，体重91公斤，来自普渡大学。
+   </p>
+   <p>
+    2018-19赛季，爱德华兹场均出战35.4分钟，可以拿到24.3分2.9助攻3.6篮板1.3抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火已跟奇才商讨交易，前者喜欢布拉德利-比尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/flasportsbuzz/status/1145745158048243721" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 01:38:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火已跟奇才商讨交易，前者喜欢布拉德利-比尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/4a67677d61ce3ed56c78fcaf44659818697da48e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据热火记者Barry Jackson报道，消息人士透露，热火已经跟奇才商讨交易。
+   </p>
+   <p>
+    Jackson报道，热火喜欢奇才后卫布拉德利-比尔，尽管后者曾表态奇才告诉过他，他将不会被交易。接收沃尔（为了得到比尔）和比尔将会对热火的薪金空间情况构成极大的挑战，即便奇才愿意。
+   </p>
+   <p>
+    沃尔在2017年夏天以4年1.7亿美元跟奇才完成续约，这份合同至2023年才到期。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔共出战了82场比赛，场均上场36.9分钟得到25.6分5个篮板5.5次助攻1.5次抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔：我尽可能远离不良饮食习惯，是隆多教会我这点
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.gq.com/story/dangelo-russell-tunnel-style-interview" target="_blank">
+     GQ
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 06:21:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔：我尽可能远离不良饮食习惯，是隆多教会我这点" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/30f72b4143013f246c1ccb3b2bc9371a4adee81c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近日，勇士后卫丹吉洛-拉塞尔为时尚杂志GQ拍摄了写真，并接受了专访。
+   </p>
+   <p>
+    谈及自己的饮食习惯，拉塞尔说道：“我算是半个素食主义者，我试着去成为一个素食主义者。我不是一个拥有不良饮食习惯的人，我尽可能地远离不良饮食习惯，我试着消耗掉大多数我所摄入的卡路里。”
+   </p>
+   <p>
+    “拉简-隆多是即使在休赛期也会好好照料自己身体的人之一，我曾看见他带着专用大厨并使用三餐计划表，我领教过他的敬业精神，我从他那儿学到了很多。”拉塞尔补充道。
+   </p>
+   <p>
+    被问及自己是否会品红酒时，拉塞尔回答：“是的，我正在逐渐发展自己的这一品味，我正在尽可能地学习。”
+   </p>
+   <p>
+    隆多现年33岁，2018-19赛季常规赛代表湖人场均出场29.8分钟，得到9.2分5.3篮板8.0助攻1.24抢断；拉塞尔今夏以先签后换形式从篮网加盟勇士，2018-19赛季常规赛，拉塞尔场均出场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断，生涯首次入选全明星。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

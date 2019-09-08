@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  心情不错！穆迪埃更新Ins晒出签约后自己的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzcJrZaAI5f/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 12:05:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="心情不错！穆迪埃更新Ins晒出签约后自己的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/379836b9da93b5954221b37e2291f4576c2164ab.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据此前报道，爵士和伊曼纽尔-穆迪埃达成一份为期一年的底薪协议
+   </p>
+   <p>
+    今日，伊曼纽尔-穆迪埃在个人社交媒体instagram上发布了一张自己的照片来表达心情。
+   </p>
+   <p>
+    2018-19赛季常规赛，穆迪埃代表尼克斯队场均上场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/11/7bc4611c310bf0c500cb2a16fe7a33f8.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

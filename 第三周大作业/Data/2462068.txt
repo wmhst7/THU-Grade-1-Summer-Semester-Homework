@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭官方更新社交媒体，晒出塔克美国男篮定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0y2imlhikA/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 04:23:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭官方更新社交媒体，晒出塔克美国男篮定妆照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/54812985e644c8f4116dcb0b07abf62d0414bda2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，火箭官方更新社交媒体Instagram，晒出PJ-塔克美国男篮定妆照（见新闻配图）。
+   </p>
+   <p>
+    “代表@美国篮球。”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，塔克场均出场34.2分钟，得到7.3分5.8篮板1.6抢断；季后赛他场均出场38.7分钟，得到11.4分7.4篮板1.7抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/04/f7b9189b4bacd92313363d7266b7f2ba.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

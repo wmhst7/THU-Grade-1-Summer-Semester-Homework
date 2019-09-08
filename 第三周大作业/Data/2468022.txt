@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：洛佩斯一开始就随国家队训练，是球队重要组成部分
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bucks/video/teams/bucks/2019/08/20/2776199/1566322697038-steve-kerr-usab-082019-2776199" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 14:28:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：洛佩斯一开始就随国家队训练，是球队重要组成部分" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/12f8c5811aa5745546cd942bfd64db27179dc7a8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 近日，美国男篮正在澳大利亚墨尔本备战男篮世界杯。训练结束后，助理教练史蒂夫-科尔接受了媒体采访，谈及队中内线布鲁克-洛佩斯。
+   </p>
+   <p>
+    “当我们在拉斯维加斯开始训练营时，洛佩斯就在球队里了。但那时候因为是休赛期，很多球员都不在状态，我们进行了身体训练，所以他在训练营头五天不能够进行投篮。”
+   </p>
+   <p>
+    “而经过这一段训练后，他已经有很大改变了，他越过了瓶颈期，跟上了节奏。我觉得他会是我们球队很重要的一份子。”科尔补充道。
+   </p>
+   <p>
+    2018-19赛季，洛佩斯场均出场28.7分钟，得到12.5分4.9篮板2.21盖帽，场均命中2.3记三分，命中率达到36.5%。
+   </p>
+   <p>
+    目前美国男篮大名单还有13人，分别是：德里克-怀特、哈里森-巴恩斯、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、马库斯-斯马特、杰伦-布朗、乔-哈里斯和梅森-普拉姆利。内线球员仅有迈尔斯-特纳、布鲁克-洛佩斯与梅森-普拉姆利三人。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

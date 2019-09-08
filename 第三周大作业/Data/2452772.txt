@@ -1,0 +1,127 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  汇总：自由市场第十一日签约裁员及流言一览
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 16:18:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="汇总：自由市场第十一日签约裁员及流言一览" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/66fa0d55d2acb202da9566e1e931938e4a127244.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今天是自由市场正式开启的第十一天，一起来看看今天有哪些达成的签约或者交易，又有哪些新的流言。
+   </p>
+   <p>
+    <strong>
+     今日要闻：
+    </strong>
+   </p>
+   <p>
+    Shams：伦纳德3年1.03亿加盟快船，第3年球员选项
+   </p>
+   <p>
+    Haynes：杜兰特与篮网的合同第4年为球员选项
+   </p>
+   <p>
+    ESPY颁奖典礼：字母哥荣膺年度最佳NBA运动员
+   </p>
+   <p>
+    <strong>
+     今日官宣：
+    </strong>
+   </p>
+   <p>
+    快船官方欢迎伦纳德、乔治、祖巴茨以及麦格鲁德
+   </p>
+   <p>
+    官方：勇士宣布正式续约克莱-汤普森
+   </p>
+   <p>
+    官方：76人签约艾尔-霍弗德
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/16/292c209cd1ef493ec69f9e76f99c9ea6.jpg"/>
+   </p>
+   <p>
+    官方：76人续约托拜厄斯-哈里斯
+   </p>
+   <p>
+    官方：奇才签约以赛亚-托马斯
+   </p>
+   <p>
+    官方：快船续约伊维察-祖巴茨
+   </p>
+   <p>
+    官方：热火正式签约新秀泰勒-希罗
+   </p>
+   <p>
+    官方：勇士正式签下格伦-罗宾逊三世
+   </p>
+   <p>
+    官方：魔术正式续约后卫迈克尔-卡特-威廉姆斯
+   </p>
+   <p>
+    官方：魔术正式与肯-伯奇完成续约
+   </p>
+   <p>
+    官方：快船续约罗德尼-麦格鲁德
+   </p>
+   <p>
+    官方：国王签约新秀贾斯廷-詹姆斯
+   </p>
+   <p>
+    <strong>
+     今日达成签约及协议：
+    </strong>
+   </p>
+   <p>
+    Woj：乌布雷两年3000万续约太阳
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/16/12f6a3d35f51094c4cc43fd2717dcf77.png"/>
+   </p>
+   <p>
+    <strong>
+     裁员及流言：
+    </strong>
+   </p>
+   <p>
+    独行侠用考特尼-李和一个二轮签向灰熊报价伊格达拉
+   </p>
+   <p>
+    官方：勇士正式裁掉肖恩-利文斯顿
+   </p>
+   <p>
+    Haynes：凯尔特人将会裁掉亚布塞莱
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/16/0ee5f1512c6c35f09669c9e458f8f9d3.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

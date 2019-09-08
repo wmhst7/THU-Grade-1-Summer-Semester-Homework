@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网、公牛和尼克斯预计会对兰德尔感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1047095/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 08:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网、公牛和尼克斯预计会对兰德尔感兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/0f2a1b17797249c24a6608e3ea0805fef1281a40.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据The Athletic记者Shams Charania的报道，多位联盟消息人士透露，公牛预计会表达出对朱利叶斯-兰德尔的兴趣。
+   </p>
+   <p>
+    多位联盟消息人士透露，兰德尔会吸引尼克斯和篮网等多支球队的兴趣。
+   </p>
+   <p>
+    兰德尔不会执行其下赛季价值900万美元的球员选项，他将成为一名完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均上场30.6分钟，得到21.4分8.7篮板3.1助攻0.71抢断0.62盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

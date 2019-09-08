@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：从社交媒体得知自己被交易，当时正在看电影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBAonTNT/status/1150125262819827712" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 04:09:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：从社交媒体得知自己被交易，当时正在看电影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/cc19a1a8101a365404c14e43be115b72cd402724.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 湖人今天为安东尼-戴维斯的加盟召开了新闻发布会。期间，戴维斯在接受记者采访时透露他是通过社交媒体Instagram知道自己被交易至湖人的，他那时没接经纪人电话只因自己在看电影。
+   </p>
+   <p>
+    记者问戴维斯：“当你被告知交易终于达成且你将会成为一名湖人球员时，你在干嘛呢？”
+   </p>
+   <p>
+    戴维斯回到说：“老实说，我当时在Malibu（加利福尼亚州的一个城市）的一家酒店，我不知道那家酒店的名字。我当时在看电影，然后我的经纪人打来了电话，我在看电影期间不喜欢接电话或者发信息，所以我在想一会再给他打回去吧。然后，他打回来了，可我还是没接。然后我想是不是有什么重要事情呢，我还是给他打回去吧。当我给他打回去时，直接提示语音留言。接着我直接上Instagram去查看，我才看到发生了什么。然后我又打电话给他，还是语音提示。最终我还是打通了他的电话，他告诉我具体发生了什么。事情当时就是这样子的。”
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski于6月16日报道，联盟消息人士透露，鹈鹕与湖人达成交易协议，戴维斯被送至湖人，湖人则为此送出朗佐-鲍尔、布兰登-英格拉姆、约什-哈特以及三个首轮选秀权——包括本届选秀中的4号签。
+   </p>
+   <p>
+    湖人官方于7月7日正式宣布，他们通过交易从鹈鹕得到戴维斯，为此湖人将鲍尔、哈特、英格拉姆、德安德烈-亨特的签约权、2个首轮选秀权、2个首轮签互换权以及现金送至鹈鹕。作为交易的一部分，湖人还将伊萨克-邦加、杰梅里奥-琼斯、莫里茨-瓦格纳以及一个未来次轮选秀权送至奇才；作为回报，奇才将部分现金送往鹈鹕。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

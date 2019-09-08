@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔-约翰逊：很享受参加BIG3，老鹰很有潜力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ajc.com/sports/basketball/joe-johnson-joins-big3-still-playing/Rah8tORjyaUDnwH0KhYUoI/" target="_blank">
+     亚特兰大宪政报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 07:23:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔-约翰逊：很享受参加BIG3，老鹰很有潜力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/b2716a4d3387b9beee0cfbd8242bb9c9281ce41d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今天，前NBA球员乔-约翰逊接受了记者的采访。
+   </p>
+   <p>
+    谈到近况，约翰逊说：“我仍然在打球，我会在健身中心或者其他地方打球，都没关系。我就是享受打球，我不会退出篮球。篮球是我从年轻时就有的热爱和激情，说实话，我觉得这份爱永远不会消退。”
+   </p>
+   <p>
+    “我12岁的儿子激励着我继续锻炼。他和我一样好胜，不论是比投篮还是打1对1，他都在激励我。我必须要保持体型，因为我知道，随着他长大，他会不断尝试打败我。我得让他待在他的位置。”
+   </p>
+   <p>
+    谈到参加BIG3联赛，约翰逊说：“这不算什么调整，真的只是在一个很大的舞台上打球。打3对3很难包夹球员，但是你必须要有所牺牲。对我来说，我非常享受这项比赛。”
+   </p>
+   <p>
+    谈到曾经的东家老鹰，约翰逊说：“我认为老鹰有一支年轻的阵容，他们还需要一两年时间才能有争冠的实力，但我期待着看到他们的成长。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：火箭会寻求与76人完成关于巴特勒的先签后换
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1143645803304632320" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 07:04:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：火箭会寻求与76人完成关于巴特勒的先签后换" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/3eb7f3555424ecd51b28f01d74a99a71e6e0fb3a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 根据NBA记者Adrian Wojnarowski的报道，多位联盟消息人士透露，在自由球员市场开启后，火箭计划招募吉米-巴特勒，迫使76人与火箭完成关于巴特勒的先签后换的交易。
+   </p>
+   <p>
+    火箭没有签下巴特勒的薪资空间，火箭可能需要完成一笔多队交易来配平巴特勒的薪水。
+   </p>
+   <p>
+    多位消息人士透露，76人计划积极运作，寻求与巴特勒签下一份新合同，他们可能会用一份5年1.9亿美元的合同来对抗火箭对巴特勒的追逐。
+   </p>
+   <p>
+    为了配平薪资，火箭可能不得不送出克林特-卡佩拉、埃里克-戈登和PJ-塔克，消息人士透露。
+   </p>
+   <p>
+    根据之前的报道，巴特勒打算不执行下赛季价值1980万美元的球员选项，试水自由球员市场，休斯顿是巴特勒的家乡。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出战了55场比赛，场均出战33.2分钟得到18.2分5.3篮板4助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

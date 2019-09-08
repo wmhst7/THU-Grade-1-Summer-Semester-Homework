@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德曾已同意在与快船湖人会面后与尼克斯会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/03/why-knicks-backed-out-of-kawhi-leonard-meeting/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 08:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德曾已同意在与快船湖人会面后与尼克斯会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/9ce008d3c00f661cf15ef413b892ac3a6556b4e9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 根据《纽约邮报》记者Marc Berman的报道，一位消息人士透露，科怀-伦纳德之前答应与尼克斯会面，但是最早也要在当地时间本周三进行，在他与湖人和快船会面结束后。
+   </p>
+   <p>
+    最终，尼克斯高层决定退出与伦纳德的会面，在凯文-杜兰特选择签约篮网后，尼克斯知道在无法得到杜兰特的情况下，他们得到伦纳德的机会很小。
+   </p>
+   <p>
+    于是，尼克斯选择与博比-波蒂斯、雷吉-布洛克、韦恩-艾灵顿、泰-吉布森和埃尔弗里德-佩顿达成协议，因为如果尼克斯等到周三与伦纳德会面后再做出决定的话，这些球员很可能已经与其他球队达成了协议。
+   </p>
+   <p>
+    尼克斯的这五笔签约都是短约，他们现在的唯一希望就是伦纳德与猛龙签下短约，然后等到伦纳德合同结束后再次发起对他的追求。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃德-戴维斯：选择爵士是因为有机会争冠，康利很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tribjazz/status/1154814482276728832" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 07:39:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃德-戴维斯：选择爵士是因为有机会争冠，康利很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/f59f73deb8c4cb2062c1b9458b05d62881a22318.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今天，爵士为球队新援召开了记者发布会，球员埃德-戴维斯接受了记者的采访。
+   </p>
+   <p>
+    谈到为何加入爵士，戴维斯说：“到生涯的这个阶段，我希望在一支有机会在赛季末竞争总冠军的球队打球。这对我来说是最主要的。”
+   </p>
+   <p>
+    “我对将和很多经验丰富的球员合作感到激动，这支球队经验丰富。当我还是个年轻球员时，我不理解为什么老将们总想和其他老将一起打球，和那些有经验的球员一起。现在我懂了，所以我很期待。”
+   </p>
+   <p>
+    谈到迈克-康利，戴维斯说：“他没有自负，各方面都是个好人。你不会和他有什么矛盾，这值得尊敬。他肯定让我对这支球队很有信心，这对我有很大帮助。他是我很快选择爵士的原因之一。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

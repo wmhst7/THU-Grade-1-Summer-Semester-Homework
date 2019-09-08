@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡隆-巴特勒：富尔茨恢复了健康，整个夏天都在努力训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nba.nbcsports.com/2019/07/14/caron-butler-says-markelle-fultz-is-healthy/" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 08:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡隆-巴特勒：富尔茨恢复了健康，整个夏天都在努力训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/ad1d1bc3da6e0962f263bd92576bad48b230cdd6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 卡隆-巴特勒作客节目时谈到了马克尔-富尔茨。
+   </p>
+   <p>
+    “马克尔-富尔茨，这个现在没人在谈论的球员，他恢复了健康，他整个夏天都在努力训练。”巴特勒说道。
+   </p>
+   <p>
+    巴特勒球员时代的经纪人是Raymond Brothers，后者现在是富尔茨的经纪人。
+   </p>
+   <p>
+    上赛季中期，魔术通过交易得到了富尔茨，不过至今他还未为魔术出战过一场比赛。富尔茨此前遭遇了神经性胸廊出口综合症，目前处于康复阶段。
+   </p>
+   <p>
+    2018-19赛季，富尔茨共出战19场常规赛，场均出战22.5分钟可以得到8.2分3.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

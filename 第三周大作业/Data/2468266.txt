@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉晒自己国家队赛场照：享受回家的时光
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1e8oNiHr_K/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 08:47:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉晒自己国家队赛场照：享受回家的时光" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/99156327a8c1507da30f205df27ad1a00c17c816.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 今日，火箭中锋克林特-卡佩拉更新社交媒体Instagram，晒出自己国家队赛场照片（见新闻配图）。
+   </p>
+   <p>
+    “享受回家的时光，这一直对我来说都很特殊，我感受到了爱。”他写道。
+   </p>
+   <p>
+    在今日结束的一场欧锦赛预选赛中，瑞士以109-85战胜冰岛，顺利拿到2021年欧锦赛入场券，这是他们自1955年以来首次跻身欧锦赛正赛。
+   </p>
+   <p>
+    本场比赛，卡佩拉出场33分钟，得到18分15篮板，正负值达到+23。卡佩拉曾代表瑞士成年国家队出战过2015年欧锦赛预选赛。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/36cd20608002da72d4048d8a7c056ef5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/7ec53c35abc1e66d67134f8439664abf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/e37bde6cf65b46c4206eeb0d13291095.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/e5181f85382dd5cd56e164e23692621a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/92b36f5bb100ac744eb7ef34a312e9b6.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

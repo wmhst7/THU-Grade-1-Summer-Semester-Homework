@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Haynes：利拉德与威少新赛季将在11月18日首次碰面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1157405509516849153" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 05:46:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Haynes：利拉德与威少新赛季将在11月18日首次碰面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/f5607190a899c3917b9fa37ebd2f6b2a48ddab4c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 根据Yahoo sports记者Chris Haynes报道，消息人士透露，开拓者后卫达米安-利拉德与火箭后卫拉塞尔-威斯布鲁克新赛季的首次比赛将于北京时间11月18日在火箭主场进行。
+   </p>
+   <p>
+    这将是利拉德与威斯布鲁克在2018-19赛季西部季后赛首轮后首次在比赛中碰面。
+   </p>
+   <p>
+    2018-19赛季常规赛，达米安-利拉德场均上场35.5分钟，得到25.8分4.6篮板6.9助攻1.1抢断；威斯布鲁克场均上场36.0分钟，得到22.9分11.1篮板10.7助攻。2018-19赛季季后赛，开拓者4-1战胜雷霆。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

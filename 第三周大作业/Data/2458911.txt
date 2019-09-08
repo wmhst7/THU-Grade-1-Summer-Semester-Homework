@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：与雷霆的交易刚开始并不顺利，我更倾向于三方交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/texas-sports-nation/rockets/article/Six-days-in-Las-Vegas-How-the-Rockets-landed-14190482.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 12:11:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：与雷霆的交易刚开始并不顺利，我更倾向于三方交易" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/85360a71abffd0e288593366ca1624cd2e42c55b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 近日，火箭总经理达雷尔-莫雷接受了记者的采访，谈到关于后卫拉塞尔-威斯布鲁克交易历程。
+   </p>
+   <p>
+    根据报道，当时火箭总经理达雷尔-莫雷和球队执行副总裁斯通因相关交易未有任何进展的情况下，决定搭乘网约车前去拉斯维加斯夏季联赛的比赛场馆，现场观看火箭夏联队的比赛。后来，他们大概花费了20分钟左右，到达了球馆。然而，关于威斯布鲁克与克里斯-保罗东家互换的交易正是在搭乘的这辆网约车到达球馆附近后的2分钟后达成的。关于威斯布鲁克的交易从一个想法到交易几乎不可能达成，再到最终实现总共历时6天。火箭管理层开了几十次会议，打了几十通电话，最终促使交易的达成。
+   </p>
+   <p>
+    在谈到交易前期的准备工作时，莫雷对记者说道：“在事情进展不那么顺利时，我们都想在酒吧里喝几杯。当时我们的工作人员一起讨论的是我们应该检查一下交易工作中的问题，看看是否应该改变我们的工作方向。我想他们（雷霆）可能会交易拉塞尔这样的球员。但你永远不会知道这会不会发生。在这一点上，交易（是否交易威斯布鲁克）是未知的。”
+   </p>
+   <p>
+    莫雷对记者提到随后他与雷霆总经理萨姆-普雷斯蒂通了电话，但在电话中他并未具体表现出对威斯布鲁克的兴趣，也并未出价。
+   </p>
+   <p>
+    “大多数交易发生在你试图了解对方在做什么的时候。了解他们想做什么，这才有机会让交易可能发生。”莫雷说道。
+   </p>
+   <p>
+    莫雷还向记者提到，为了促成交易，他曾试图寻求第三方球队的交易，并曾告知克里斯-保罗他可能被交易。
+   </p>
+   <p>
+    在谈及随着事情的发展，三方交易的事情看似没有进展时，莫雷表示：“看起来双方直接交易并不是很适合，我告诉我的老板很多次，交易可能不会发生，因为我不认为在交易谈判中双方都达成了一致。这就是为什么三支球队的交易是有意义的。我认为会有更适合的球队一起参与交易。”
+   </p>
+   <p>
+    最后，双方都做出了让步，从而促使交易的达成。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

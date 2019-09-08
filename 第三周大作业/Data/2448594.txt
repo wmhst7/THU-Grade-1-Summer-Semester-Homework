@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雄鹿为马尔科姆-布罗格登开出资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1145182863282671616" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 12:11:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雄鹿为马尔科姆-布罗格登开出资质报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/c8ac6fa6db3779f5849a174e775a47fe77794272.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据雅虎体育记者Chris Haynes的报道，多位联盟消息人士透露，雄鹿为马尔科姆-布罗格登开出资质报价。
+   </p>
+   <p>
+    布罗格登的新秀合同今夏到期，如果雄鹿为布罗格登开出资质报价的话，那么他们有权利匹配其他球队为布罗格登开出的任何邀请报价。
+   </p>
+   <p>
+    2018-19赛季常规赛，布罗格登场均出战28.6分钟，可以拿到15.6分4.5篮板3.2助攻。
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/index.php?title=%E5%8F%97%E9%99%90%E5%88%B6%E8%87%AA%E7%94%B1%E7%90%83%E5%91%98&amp;redirect=no#.E8.B5.84.E8.B4.A8.E6.8A.A5.E4.BB.B7">
+     相关科普：什么是资质报价？&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

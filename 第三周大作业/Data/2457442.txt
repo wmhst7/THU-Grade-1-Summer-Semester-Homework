@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔特姆笑谈自己2K20能力值：赛季结束时我会达到90
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BleacherReport/status/1153861811709440000" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 12:25:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔特姆笑谈自己2K20能力值：赛季结束时我会达到90" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/6201e4da20eb538a9397fa51db64e58fd0dc8bc2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 NBA2K20官方推特刚刚公布了凯尔特人前锋杰森-塔特姆的游戏初始能力值为85，随后NBA 2K20记者们采访到了塔特姆。
+   </p>
+   <p>
+    采访中记者问到：“杰森-塔特姆，波士顿凯尔特人队球星，你觉得自己在NBA 2K20中的能力值是多少？”
+   </p>
+   <p>
+    塔特姆回答：“我认为应该是……我想想，根据上赛季我的数据统计，加上我去年的初始能力值是87，所以……到底是多少？”
+   </p>
+   <p>
+    记者笑着回答：“是85。”
+   </p>
+   <p>
+    随后身边很多人都大声喊道：“真的吗？85？”
+   </p>
+   <p>
+    最后记者问道：“你觉得到下赛季结束，你的能力值会是多少？”
+   </p>
+   <p>
+    塔特姆笑着回答：“90！那时候我会场均20分，进入全明星，并且凯尔特人会得到总冠军。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

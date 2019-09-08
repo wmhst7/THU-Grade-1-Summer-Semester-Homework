@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  前途无量！詹姆斯晒儿子开学照：他们新学期的第一天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2119223436554356424?utm_source=ig_story_item_share&amp;igshid=1u1cygco30qa2" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 07:42:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="前途无量！詹姆斯晒儿子开学照：他们新学期的第一天" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/06801d10d11319870e681294d83bfc5adb3200f6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 湖人前锋勒布朗-詹姆斯今天更新Instagram Story发布一张其两个儿子Bronny和Bryce的照片。
+   </p>
+   <p>
+    “今天是@Bronny 去高中上学的第一天，也是Bryce进入7年级的第一天。他们要前往一所新的学校，前方有新的目标等着他们。对于他们的现在和未来，我感觉很激动！无论如何，我都为两位年轻的国王而自豪。”詹姆斯写道。
+   </p>
+   <p>
+    此外，詹姆斯还发布了最新一期《The Shop》脱口秀节目的宣传视频并写道：“很难过我不得不错过这期节目的录制（忙于拍摄《空中大灌篮2》），但我的兄弟@mavcarter&amp;@pr_rwpw 在我缺席时做的很棒！我们这期节目的嘉宾质量很好，不容错过！9月3日#TheShop”
+   </p>
+   <p>
+    根据此前的报道，这是詹姆斯首次缺席《The Shop》，而骑士球员凯文-乐福和开拓者球员CJ-麦科勒姆均参与了本期节目的录制。
+   </p>
+   <p>
+    詹姆斯又在推特上转发了著名说唱歌手Drake在演出时身穿Bronny球衣的照片并写道：“#家庭纽带”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/07/0d3f6484e425947c8fd38b5f430f64b6.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/08/70b34acd304c9443c274a61acec8a870.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

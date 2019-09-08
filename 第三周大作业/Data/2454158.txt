@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  光看还不够！Drake社交媒体晒自己高难度投篮视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz7BCdYldTj/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 15:05:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="光看还不够！Drake社交媒体晒自己高难度投篮视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/807ebb3eddca658115dfec6dcd5eedc24f69fc52.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，Drake更新社交媒体Instagram，晒出Drake高难度投篮视频。
+   </p>
+   <p>
+    Drake是猛龙全球大使、著名歌手。
+   </p>
+   <p>
+    <img alt="GIF 1.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/ec6314aff5e0077f8820e2f9ee586b4e.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

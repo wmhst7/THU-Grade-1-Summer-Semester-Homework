@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  PJ-塔克：我想被波波维奇执教，大家都想
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.expressnews.com/sports/spurs/amp/For-Popovich-and-Team-USA-a-perfect-fit-that-was-14282906.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&amp;utm_source=t.co&amp;utm_medium=referral&amp;__twitter_" target="_blank">
+     圣安东尼奥新闻快报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 14:08:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="PJ-塔克：我想被波波维奇执教，大家都想" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/5cd4a1966630080fe54ddc72b00f954c4f5882f8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 美国男篮训练营今天在拉斯维加斯完成了他们首次训练，波波维奇接受了记者采访。
+   </p>
+   <p>
+    谈到接受男篮主教练的工作，波波表示：“这不是你想要的，不过当我被征召时，我就接受了。”
+   </p>
+   <p>
+    “我们无法解决国家分裂的问题，但是我们能树立一个一群人为了共同目标并努力实现它的好典型。”波波维奇说道。
+   </p>
+   <p>
+    火箭前锋PJ-塔克表示在首次球队会议上，波波维奇就赢得了大家的拥戴。“我喜欢他重视这次比赛的态度，我想让他执教我，我们每个人都想，波波他很投入。”
+   </p>
+   <p>
+    史蒂夫-科尔则表示：“我们能看到波波的豪情，他对接下来的事情感到兴奋。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

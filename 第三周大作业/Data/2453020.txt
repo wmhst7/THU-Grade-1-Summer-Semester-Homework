@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭老板确认交易：之前就说过永远不会按兵不动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1149481730333536256" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 09:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭老板确认交易：之前就说过永远不会按兵不动" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/c955197eb0bd19b54e30c974c20b9dac7e5fcb22.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，雷霆与火箭达成交易，火箭送出克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    火箭老板蒂尔曼-费尔蒂塔确认火箭已经将保罗交易到雷霆，得到了威斯布鲁克。
+   </p>
+   <p>
+    “我们非常激动能拥有拉塞尔-威斯布鲁克，我看过他在雷霆的表现，他运动能力十足，与此同时，我们连续两个赛季的常规赛胜场总数创造队史纪录，如果没有克里斯-保罗，我们无法做到这一点，克里斯-保罗令人难以置信，他会被深深想念的。”费尔蒂塔说道。
+   </p>
+   <p>
+    费尔蒂塔接着说：“在赛季结束后我就说过，我们永远都不会按兵不动，我们总会努力变得更好，我认为这笔交易让我们成为了一支更好的球队，我不喜欢失去克里斯-保罗，但是我们感觉为了让球队变得更好，我们做了必须要做的事情。”
+   </p>
+   <p>
+    “我认为这会非常有趣，詹姆斯（哈登）和拉塞尔（威斯布鲁克）想在一起打球，新赛季应该会很有意思。”费尔蒂塔说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

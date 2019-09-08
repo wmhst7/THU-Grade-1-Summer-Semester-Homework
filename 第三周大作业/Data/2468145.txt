@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国与澳大利亚热身赛现场观众人数刷新澳大利亚国内纪录
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ByTimReynolds" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 23:43:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国与澳大利亚热身赛现场观众人数刷新澳大利亚国内纪录" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/46b913f2dc3f738e9876fe633de7985fb7a66346.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 今日，美国男篮以102-86大胜澳大利亚男篮，赢得了本场热身赛的胜利。
+   </p>
+   <p>
+    根据NBA记者Tim Reynolds的报道，根据统计，本场热身赛现场观战的观众人数达到了51218人，刷新了澳大利亚国内篮球比赛现场观众人数的新纪录（一般的NBA球馆所能容纳的人数在20000人左右）。
+   </p>
+   <p>
+    美国男篮对阵澳大利亚男篮的下一场热身赛将于北京时间8月24日中午12:00打响。
+   </p>
+   <p>
+    美国男篮将于北京时间9月1日晚上20:30在上海迎来E组小组赛第一个对手捷克。
+   </p>
+   <p>
+    澳大利亚男篮将于北京时间9月1日下午15:30在东莞迎来H组小组赛第一个对手加拿大。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

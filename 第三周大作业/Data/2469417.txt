@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-布朗：必须带着紧迫感打球，将每场比赛视为季后赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1165922539417112576" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 18:02:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-布朗：必须带着紧迫感打球，将每场比赛视为季后赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/b51058d907919f7b3d19453e48f321f2a568d72b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 美国男篮与加拿大男篮的热身赛即将开打，美国男篮球员杰伦-布朗在赛前接受了媒体采访。
+   </p>
+   <p>
+    谈到球队本场比赛的心态，布朗说：“就是带着紧迫感打球，我们需要将每一场比赛视为季后赛，就像NBA中四月底到六月份的比赛，这就是我们需要保持的心态。”
+   </p>
+   <p>
+    谈到球队主教练格雷格-波波维奇和助理教练史蒂夫-科尔，布朗说：“对于我这样一个渴望学习并且努力去提升自己的家伙而言，能够与两位历史上最出色的教练共事，每一天都充满了乐趣，我就是在每天都付出自己的全部努力。”
+   </p>
+   <p>
+    谈到热身赛对手加拿大男篮，布朗说：“非常出色的球队，他们极具侵略性，会在比赛开局充满能量感，他们拥有很多出色的球员。我们需要在本场比赛中做好自己的工作，努力拿下胜利。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  内皮尔：对加入森林狼感到激动，桑德斯教练很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/timberwolves/video/teams/timberwolves/2019/07/23/2745997/1563919078346-190723-napier-sound-2745997" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 07:26:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="内皮尔：对加入森林狼感到激动，桑德斯教练很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/72970b0a59f8a4268649b4e71bc573499617ab03.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 今天，森林狼新援沙巴兹-内皮尔接受了记者的采访。
+   </p>
+   <p>
+    谈到和球队的渊源，内皮尔说：“说来很巧，菲利普-桑德斯教练曾是我兄弟的教练。所以我第一次来的时候，我就和莱恩-桑德斯教练谈了这些事。我觉得我感觉很舒服，就和其他人说的一样，他是一个能理解你的教练，你可以和他聊Drake，这很酷。当我接到电话要来到森林狼，我感觉很激动，因为我知道桑德斯是很好的教练，他会对我有很好的安排。”
+   </p>
+   <p>
+    谈到曾效力于开拓者，内皮尔说：“我认为在开拓者的经历极大地帮助了我。我总是告诉我的家人和朋友，在开拓者的经历对我很重要。一开始进入联盟我打得不好，感觉自己不属于NBA。我那时候没什么自信。在开拓者的那段时光造就了现在的我。”
+   </p>
+   <p>
+    尽管内皮尔是被交易到森林狼而非自有签约，但他认为，森林狼就是自己正确的选择。
+   </p>
+   <p>
+    “我对加入森林狼感到激动。不论是被交易来这还是自由签约来这，这就是我想来的地方。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

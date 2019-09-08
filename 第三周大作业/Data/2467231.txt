@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  其乐融融！丹尼-格林晒出全家前往开曼群岛出游照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1W91wsBboC/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 09:29:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="其乐融融！丹尼-格林晒出全家前往开曼群岛出游照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/a8d73e280312889f4bc8695504b5cff84cbf55a4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 湖人后卫丹尼-格林今日通过Instagram发布一组照片，回顾他与亲友前往开曼群岛游玩的场景。
+   </p>
+   <p>
+    “我们为之生活的那些瞬间...#无价 #家庭度假 #开曼群岛 #格林一家”格林写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出场27.7分钟，得到10.3分4.0篮板1.6助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/d507ea16d3a2fc6208e0199906cbfc83.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/fc0396533ee24c5fa59ef5fd8bd67e84.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/aa73d5bff58e7156611e43d3b4e3aa80.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/e8424598ec818ccc4c67785f78830a89.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/db1c3bade353e579eb7b39adb08780c0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/e0a3a53adf7d94220dc3b66c2f437c34.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/fec031efc9dcc10712ffd32af5369310.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/85321bb0b532af934bb5d78123207947.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/208d3ee8df74443d3f4f31b83110a4ed.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

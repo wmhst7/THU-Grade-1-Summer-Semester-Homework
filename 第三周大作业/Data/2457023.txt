@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  身边消息人士谈斯马特接受美国男篮邀请：他很激动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AdamHimmelsbach/status/1153450826888859648" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 07:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="身边消息人士谈斯马特接受美国男篮邀请：他很激动" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/d3665fb776424ca22538346f748d20443aba5fe1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据The Athletic记者Shams Charania报道，凯尔特人的马库斯-斯马特进入到了男篮世界杯的美国男篮训练营名单。
+   </p>
+   <p>
+    一位斯马特身边的消息人士谈到斯马特接受美国男篮训练营的邀请时说：“他很激动。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯马特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

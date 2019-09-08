@@ -1,0 +1,77 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  持续训练！小托马斯更新社媒晒与众球星参加比赛照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0sOszQBBZl/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 16:01:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="持续训练！小托马斯更新社媒晒与众球星参加比赛照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/cc5faf15c4aadd1e5d73f0d37668fc18903077fd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，奇才球员以赛亚-托马斯更新个人社交媒体Instagram晒出和众球星参加zekeend锦标赛照片
+   </p>
+   <p>
+    Zeekend是由以赛亚-托马斯举办的一项篮球赛事。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，小托马斯与奇才达成了一年的协议，小托马斯来自华盛顿的塔科马。
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯代表掘金出场12场比赛，场均出场15.1分钟，场均得到8.1分1.1篮板1.9助攻0.4抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/15/838c4d779070d9404ad7a061a91a7d9f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/15/6193313448e6738a03ba8bdab85fc46f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/15/ce521f76178fe29c8321afd8568d7209.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/15/121343ad567a6b949124e933e57a22ef.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/15/28f66e2b254bf3112bc567f1c9e21081.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/15/44f1b931557b98c9fd920213b0b91a2f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/16/2706d886ea2de62bb9b3e869cf6b5969.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/16/bbde7b79776000298bf588f8b7439f2e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/16/800db9fd2497c6f820bbd68416607eaf.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

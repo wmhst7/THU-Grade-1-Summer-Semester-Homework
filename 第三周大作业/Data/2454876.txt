@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  穆迪埃：诺克斯需要保持自信，罗宾逊会当选DPOY
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/why-former-knick-emmanuel-mudiay-believes-in-david-fizdale-and-ex-teammates/309136178" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 10:36:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="穆迪埃：诺克斯需要保持自信，罗宾逊会当选DPOY" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/61be0ddb9bf5941cf0ff7f3edfa5198a90d549bd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 近日，伊曼纽尔-穆迪埃接受了纽约日报的采访。尽管已经离开了尼克斯，穆迪埃相信尼克斯应该对球队的一些人员感到兴奋。
+   </p>
+   <p>
+    穆迪埃首先提到了尼克斯主教练大卫-菲兹代尔：“人们不应该以今年的表现来评判他的工作，他之前曾带队打进季后赛。所以我认为这只是时间问题，如果球队能不断招来正确的人与他共事，他会成为一名优秀的教练。”
+   </p>
+   <p>
+    穆迪埃还对新秀二年级前锋凯文-诺克斯表示了信心：“只要不断告诉他保持信心，不要看低自己就行了。对他来说，他需要掌握比赛的速度。但是每名新秀都会经历这个过程……他们的表现会出现一定起伏，他们要做的就是保持稳定。”
+   </p>
+   <p>
+    上赛季，诺克斯场均得到13分，但是投篮命中率仅37%。三分命中率仅34.3%。对此，穆迪埃说：“他仍能场均得到13分。他是天生的得分手。我认为今年他会有所进步，更能适应比赛。”
+   </p>
+   <p>
+    同时，穆迪埃盛赞了米切尔-罗宾逊：“天空才是他的极限。我预期在他的职业生涯中，他将两三次被选为最佳防守球员。”
+   </p>
+   <p>
+    据此前Adrian Wojnarowski的报道，伊曼纽尔-穆迪埃与爵士达成一年的底薪合同协议。2018-19赛季常规赛，穆迪埃场均上场27.2分钟，得到14.8分3.3篮板3.9助攻。
+   </p>
+   <p>
+    大卫-菲兹代尔曾担任灰熊主教练，灰熊在2016-17赛季打进季后赛，首轮以大比分2-4不敌马刺。2017年11月28日，菲兹代尔被灰熊解雇。2018年5月4日，菲兹代尔与尼克斯达成协议担任主教练，合同期限为4年。
+   </p>
+   <p>
+    2018-19赛季常规赛，凯文-诺克斯场均上场28.8分钟，得到12.8分4.5篮板1.1助攻，米切尔-罗宾逊场均上场20.6分钟，得到7.3分6.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

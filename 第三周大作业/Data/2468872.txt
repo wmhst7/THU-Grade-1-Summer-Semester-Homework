@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登休城周末爱心满满！向儿童分发自行车并翻新篮球场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1165348266067791872" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 03:53:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登休城周末爱心满满！向儿童分发自行车并翻新篮球场" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/ffbabd9b280e0bfdc01f1704c2bc8f4a3cbc626f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 哈登正在举办他的第三届哈登休城周末年度活动，该活动在休斯顿进行，由一系列慈善活动组成，活动收入将捐给哈登的3 The Harden Way基金会，为有经济困难的学生提供奖学金和实习机会。
+   </p>
+   <p>
+    今日，哈登与休斯顿市长Sylvester Turner一起来到Tuffly公园为儿童们分发自行车。
+   </p>
+   <p>
+    此外，哈登基金会也宣布将帮助翻新休斯顿的部分篮球场。
+   </p>
+   <p>
+    此前，哈登在接受采访时表示：
+    <a href="https://voice.hupu.com/nba/2467894.html">
+     休斯顿感觉像是家，回馈社区是正确的做法&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/03/00da078e42b0ee2fe32ca6edb28581c0.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

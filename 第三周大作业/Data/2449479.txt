@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  再续前缘！美媒晒伊格达拉和科沃尔76人旧照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzY8MXOnljT/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 16:19:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="再续前缘！美媒晒伊格达拉和科沃尔76人旧照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/e2cc1723f3678b374aa27cffd8438d5d58a8d1b2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 美媒更新社交媒体Instagram，上传了凯尔-科沃尔和安德烈-伊格达拉在76人时期旧照。
+   </p>
+   <p>
+    并配文道：“2007年的队友，现在已经是2019年。12年后，伊格达拉和科沃尔再次回到同一战线”
+   </p>
+   <p>
+    2018-19赛季常规赛，安德烈-伊格达拉场均出场23.2分钟，得到5.7分3.7篮板3.2助攻；凯尔-科沃尔场均出场19.1分钟，得到8.6分2.3篮板1.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/16/f376185568ae4fc30d92d61e7f3afdf4.png"/>
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2448977.html">
+     Woj：伊格达拉被交易至灰熊
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2444915&amp;type=1&amp;entrance=26">
+     灰熊将康利交易到爵士，换到克劳德科沃尔阿伦及选秀权
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

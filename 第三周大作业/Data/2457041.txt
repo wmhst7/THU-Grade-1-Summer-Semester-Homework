@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫里斯：里奇-保罗告诉我接受快船报价，他仍是我的哥们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1089628/2019/07/22/charania-a-conversation-with-marcus-morris-on-free-agency-his-knicks-switch-and-mutually-parting-with-rich-paul/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 08:55:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫里斯：里奇-保罗告诉我接受快船报价，他仍是我的哥们" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/649476cc6304e98749bcdbd067abfc77d073f874.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 尼克斯球员马库斯-莫里斯近日接受The Athletic记者Shams Charania采访回应了关于他的合同问题以及前经纪人里奇-保罗的一些传言。
+   </p>
+   <p>
+    据Shams报道，在自由球员市场开启的两天之内，快船已经为莫里斯提供了一份经过详细商讨的3年4100万美元的合同，但他拒绝了这份报价。保罗与快船官员谈判，并向莫里斯提交了这份报价。莫里斯注意到了一些关于他拒绝快船提供的3年合同一事的传言，但他明确表示那完全是他本人的决定。
+   </p>
+   <p>
+    “所有这些所谓他不愿我去快船或者不愿我与勒布朗（詹姆斯）为敌的说法都是不真实的，”莫里斯说，“他从没有劝告我不要接受那份合同。在我熟识里奇的这段时间中，而且我仍然对他心怀爱意，他仍是我的哥们，他在提供建议方面做得很好。他告诉我，他希望我接受快船的报价，他给出了他的建议。那是我的决定，我必须为我自己和我的家人做最好的决定。”
+   </p>
+   <p>
+    根据此前的报道，莫里斯一度与马刺达成2年2000万美元的原则性签约协议，但他随后选择与尼克斯商讨并达成1年1500万美元的签约协议。
+   </p>
+   <p>
+    据Shams报道，莫里斯原本定于将在当地时间7月7日于拉斯维加斯接受体检并签署他与马刺的合同。但当原本与尼克斯达成2年2100万美元签约协议的雷吉-布洛克体检出现健康问题后，尼克斯重新拥有了接近1500万美元的薪资空间，并对莫里斯展开招募。双方均对签约有意。在尼克斯与莫里斯展开新一轮谈判期间，保罗并没有被接触并参与其中，他敦促莫里斯尊重与马刺的口头协议。莫里斯在当周晚些时候接受了尼克斯的合同，随即与保罗友好地分道扬镳。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

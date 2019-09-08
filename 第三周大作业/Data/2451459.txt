@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  正式加盟！詹姆斯晒照展示戴维斯23号湖人球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzo2HzaggnT/?igshid=1o2247uso2src" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 10:05:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="正式加盟！詹姆斯晒照展示戴维斯23号湖人球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/45ed207696dc483162a6e0c99c18d353dc921d3a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram晒出他与队友安东尼-戴维斯的合影，展示戴维斯的23号湖人球衣。
+   </p>
+   <p>
+    “正式成为一名湖人！#湖人秀”詹姆斯写道。
+   </p>
+   <p>
+    根据此前的报道，詹姆斯将23号球衣号码让给了戴维斯，自己将会身穿6号球衣。
+   </p>
+   <p>
+    詹姆斯还在Instagram Story上更新了自己打高尔夫的照片，并配文道：“我水平太垃圾了！”
+   </p>
+   <p>
+    另外，媒体Slam官方推特发布了关于黄蜂球员迈尔斯-布里奇斯的扣篮短片并配文道：“关于@迈尔斯-布里奇斯 的一个有趣事实：下赛季他将在你最喜欢的球员头上扣篮。”
+   </p>
+   <p>
+    詹姆斯转发这条推特并评论道：“是的，小兄弟会做到的！我只能希望你最喜欢的人里没有我！@迈尔斯-布里奇斯 ”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/10/2fb573eac1b2462bdecfc8eb2431c0df.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

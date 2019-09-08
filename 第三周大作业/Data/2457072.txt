@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷欢迎格林续约：他的身体里流着休斯顿的血液
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0O05TcBWtj/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 10:26:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷欢迎格林续约：他的身体里流着休斯顿的血液" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/6672b7c62d4738c0082ff526a91201676a80be7a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日火箭官方宣布球队正式与杰拉德-格林达成续约。根据此前的报道，格林与火箭达成的是一份1年底薪续约协议。
+   </p>
+   <p>
+    格林续约后，火箭总经理达雷尔-莫雷晒出了一张格林加盟火箭的老照片。莫雷写道：“他的身体里流着休斯顿的血液。欢迎回来@杰拉德-格林”
+   </p>
+   <p>
+    格林曾在2007-08赛季短暂与火箭签约，但仅出场一场比赛，得到6分2篮板。
+   </p>
+   <p>
+    2017-18赛季中期，杰拉德-格林重返火箭，达成一年无保障合同。2018年夏天，格林再次与火箭签下一份一年底薪合同。格林过去的两个赛季为火箭效力期间，场均出战21.1分钟，可以得到10.3分2.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

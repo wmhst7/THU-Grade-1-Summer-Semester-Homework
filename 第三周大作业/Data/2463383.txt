@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮官方公布第一场队内表演赛蓝白队名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-blue-white-teams.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 11:37:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮官方公布第一场队内表演赛蓝白队名单" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/d1b710343c556ffbe8b3b2d60896202721123f87.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 美国男篮将在明天（当地时间8月9日）于拉斯维加斯的T-Mobile球馆举行第一场正式的队内表演赛，今天美国男篮官方公布了蓝白队的球员名单。
+   </p>
+   <p>
+    蓝队即美国男篮初选名单15名球员：
+   </p>
+   <p>
+    巴姆-阿德巴约、哈里森-巴恩斯、杰伦-布朗、凯尔-库兹马、布鲁克-洛佩斯、克里斯-米德尔顿、多诺万-米切尔、梅森-普拉姆利、杰森-塔特姆、PJ-塔克、迈尔斯-特纳、肯巴-沃克、赛迪斯-杨。
+   </p>
+   <p>
+    同时选拔队的达龙-福克斯和乔-哈里斯加入蓝队，顶替因伤缺阵的凯尔-洛瑞和马库斯-斯玛特。
+   </p>
+   <p>
+    白队即美国男篮选拔队11名球员：
+   </p>
+   <p>
+    贾莱特-阿伦、马文-巴格利、米卡尔-布里奇斯、贾伦-布伦森、约翰-科林斯、帕特-康诺顿、托里-克雷格、乔纳森-艾萨克、小贾伦-杰克逊、米切尔-罗宾逊、德里克-怀特。
+   </p>
+   <p>
+    特雷-杨因眼部感染缺阵。
+   </p>
+   <p>
+    蓝队主教练格雷格-波波维奇（马刺），助理教练史蒂夫-科尔（勇士）、劳埃德-皮尔斯（老鹰）和杰伊-赖特（维拉诺瓦大学）。
+   </p>
+   <p>
+    白队主教练杰夫-范甘迪，助理教练马克-弗尤（冈萨加大学）
+   </p>
+   <p>
+    表演赛后美国男篮将进行短暂的休整，8月14-16日在洛杉矶再次集结训练，8月17日在阿纳海姆与西班牙进行热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

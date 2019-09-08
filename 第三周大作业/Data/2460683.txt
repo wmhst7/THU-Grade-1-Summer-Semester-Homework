@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：雷霆买断帕特里克-帕特森，后者倾向加盟快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1156977884868820994" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 01:21:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：雷霆买断帕特里克-帕特森，后者倾向加盟快船" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/b9140da69f725e4e33f4140401b21cf0d70cbcdc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，雷霆已经同意与前锋帕特里克-帕特森完成买断，这也使得帕特森成为了一名完全自由球员。
+   </p>
+   <p>
+    据Woj进一步报道，帕特森在度过澄清期后倾向于加盟洛杉矶快船队。
+   </p>
+   <p>
+    帕特森于2017年夏天签下了一份3年1653万美元的合同，下赛季他的合同金额为571万美元。2018-19赛季常规赛，帕特森场均出场13.7分钟，得到3.6分2.3篮板。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

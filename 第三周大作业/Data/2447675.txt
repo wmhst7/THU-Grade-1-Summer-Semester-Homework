@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃文斯探索前往澳大利亚国家篮球联赛打球的可能
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OlgunUluc/status/1144136428378447872" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 21:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃文斯探索前往澳大利亚国家篮球联赛打球的可能" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/8e8fde2068f980afd8f286ee02c9535ac2dfa219.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据FOX体育澳洲记者Olgun Uluc的报道，多位消息人士透露，泰瑞克-埃文斯已经联系了NBL（澳大利亚国家篮球联赛）的球队，试探自己前往NBL打球的可能性。
+   </p>
+   <p>
+    Uluc在推特上写道，目前的迹象表明埃文斯只是在探索自己的各种选择。
+   </p>
+   <p>
+    2019年5月18日，NBA官方宣布，埃文斯因违反联盟条例被取消NBA的参赛资格。根据NBA规定，埃文斯可以于两年后申请恢复比赛资格，他将在今夏成为一名完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，埃文斯代表步行者场均出战20.3分钟，得到10.2分2.9篮板2.4助攻；季后赛期间场均出战21分钟，得到15.2分4.2篮板0.8助攻。
+   </p>
+   <p>
+    2009年国王以第4顺位选中埃文斯，随后埃文斯当选2009-10赛季最佳新秀。埃文斯总共在NBA征战10个赛季，期间效力于国王、鹈鹕、灰熊和步行者。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

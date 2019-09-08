@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  一波三折！杜德利社媒表示改穿2号球衣，随后让给库克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jareddudley619/status/1150878134704590848?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 06:14:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="一波三折！杜德利社媒表示改穿2号球衣，随后让给库克" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/8f3caddf716c9569430149bc6d57ccf4286e1345.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 湖人球员贾里德-杜德利今日连续发推就个人新赛季球衣号码一事表态。
+   </p>
+   <p>
+    杜德利首先发推写道：“需要一张新P图！这赛季我将代表湖人身穿2号球衣！谁能提供质量最好的我穿2号球衣的图片，我就赠送两张我们首个季前赛主场比赛的球票！”
+   </p>
+   <p>
+    太阳后卫德文-布克对他的前队友杜德利评论道：“哥们，你应该决定好啊。”杜德利回复道：“你别说了！我只是听从@耐克 的要求。”
+   </p>
+   <p>
+    此时湖人后卫奎因-库克也留言道：“大哥，那是我本来要选择的号码@贾里德-杜德利 ”
+   </p>
+   <p>
+    杜德利对库克回复道：“你可以拥有它，兄弟，只要开口就行。”
+   </p>
+   <p>
+    库克随后欣喜地发推写道：“天啊，@贾里德-杜德利 是最真诚的人！谢谢你，大哥！接下来将是一个有趣的赛季！#湖人秀”
+   </p>
+   <p>
+    杜德利曾先后发推表示自己将选择3号和6号的球衣号码。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

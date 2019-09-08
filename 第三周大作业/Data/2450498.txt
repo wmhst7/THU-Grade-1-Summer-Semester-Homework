@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺夏季联赛名单：朗尼-沃克领衔，贝基-哈蒙任主帅
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PaulGarciaNBA/status/1146933341960249344" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 14:13:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺夏季联赛名单：朗尼-沃克领衔，贝基-哈蒙任主帅" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/60f83310b610d5fc2bba9e0562c728e4757b66c1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 马刺随队记者Paul Garcia公布了球队参加拉斯维加斯夏季联赛的名单，其中主教练将由贝基-哈蒙担任。
+   </p>
+   <p>
+    具体名单如下：1 朗尼-沃克、3 凯尔顿-约翰逊（29顺位）、7 奇梅齐耶-梅图、14 德鲁-尤班克斯、15 奎因达里-韦瑟斯庞（49顺位）、17 约什-马盖蒂、19 卢卡-沙马尼奇（19顺位）、23 特里-拉里尔、24 肯尼-威廉姆斯、26 本-摩尔、28 达雷尔-珀里尔、30 乔丹-格林、31 特拉维斯-巴德尔、33 杰夫-莱德贝特、34 达柳斯-莫里斯、35 乔丹-巴内特、41 托马斯-罗宾逊
+   </p>
+   <p>
+    贝基-哈蒙曾在2015年作为主教练带领马刺夺得了夏季联赛冠军。
+   </p>
+   <p>
+    马刺拉斯维加斯夏季联赛的第一场是7月6日对阵魔术、随后对阵黄蜂、森林狼和太阳。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190705/14/4a00b56f656c72b15b292d458e265be7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

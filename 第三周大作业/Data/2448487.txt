@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA官方更新社媒祝科怀-伦纳德28岁生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzS2AKfA5Cx/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:57:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA官方更新社媒祝科怀-伦纳德28岁生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/2193db0405f7cf0dd0e46505885cce8c4a0675fa.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，NBA官方更新了社交媒体Instagram晒出一张猛龙前锋科怀-伦纳德特效图（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“祝科怀-伦纳德28岁生日快乐。”
+   </p>
+   <p>
+    2018-19赛季常规赛，科怀-伦纳德场均出场34.0分钟，可以得到26.6分7.4篮板3.3助攻1.77抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190630/08/91b73ee46c78823912badd5991a522a3.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

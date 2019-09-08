@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚布塞莱社媒感谢绿军：波士顿将会永远在我心中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz1YBvzlOBj/?igshid=1tizh319qn21i" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 09:42:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚布塞莱社媒感谢绿军：波士顿将会永远在我心中" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/dae2685c1b68fbdd9b9b020a0d67471dff7ff315.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 今日盖尔雄-亚布塞莱更新了自己的个人Instagram动态，表示对凯尔特人的感谢。
+   </p>
+   <p>
+    “自从我人生中那特殊的一天起，我一直很有幸和心存感激。#2016年选秀大会  我想要感谢所有的球迷和波士顿这座城市给我的爱，以及凯尔特人给予我的这一段奇妙的旅程。我也想要感谢我的队友们、教练们以及所有为凯尔特人工作的人，他们每天都在帮助我们和身边的人。波士顿将会永远在我心中。#TheDancingBear #Dabusele #BleedGreen” 亚布塞莱写道。
+   </p>
+   <p>
+    亚布塞莱在2016年选秀大会上首轮第16顺位被凯尔特人选中，在2017年夏天与球队签下了一份4年1281万美元的合同。此前凯尔特人官方宣布，球队将裁掉亚布塞莱。
+   </p>
+   <p>
+    在为凯尔特人效力的两个赛季里，亚布塞莱共上场74次常规赛，场均上场6.6分钟，得到2.3分1.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

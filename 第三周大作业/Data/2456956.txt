@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰新秀卡姆-雷迪什与Nike达成一份多年球鞋合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickDePaula/status/1153346474748461064" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 01:09:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰新秀卡姆-雷迪什与Nike达成一份多年球鞋合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/8b0d00fca96ece2d7f6d7b559d6e979463731cca.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 据记者Nick DePaula报道，老鹰新秀卡姆-雷迪什与Nike达成一份多年球鞋合同。
+   </p>
+   <p>
+    雷迪什今年19岁，身高2.03米，体重94公斤，司职小前锋，于2019年选秀大会上被老鹰在首轮第10顺位选中。
+   </p>
+   <p>
+    2018-19赛季，雷迪什在NCAA代表杜克大学出场36场比赛，场均出场29.7分钟，得到13.5分3.7篮板1.9助攻1.6抢断0.6盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/01/fd456b4771c733752d44a168ce218087.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

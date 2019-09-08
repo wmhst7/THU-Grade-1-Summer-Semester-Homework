@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：德罗赞退出美国男篮训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1153683920304652288" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 23:12:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：德罗赞退出美国男篮训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/0d3708461708e6fbe9dfd93ca70eeb473d8922cc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据The Athletic记者Shams Charania报道，马刺球员德马尔-德罗赞退出美国男篮训练营。一个月前，德罗赞被加入美国男篮阵容名单，但为了今夏更好地备战NBA新赛季，德罗赞决定退出训练营。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆、布拉德利-比尔、达米安-利拉德和托拜厄斯-哈里斯等球员相继宣布不会代表美国队参加今夏的男篮世界杯。
+   </p>
+   <p>
+    值得一提的是，马刺主教练格雷格-波波维奇为这支美国男篮的主教练。
+   </p>
+   <p>
+    2018-19赛季常规赛，德罗赞场均出场34.9分钟，得到21.2分6.0篮板6.2助攻1.12抢断0.47盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

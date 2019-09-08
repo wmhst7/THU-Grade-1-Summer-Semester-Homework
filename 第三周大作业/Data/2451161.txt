@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库班谈未签到大牌自由球员：不会感到恐慌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/mavs-news-dallas-not-panicking-despite-missing-out-on-top-free-agent-targets/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 13:48:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库班谈未签到大牌自由球员：不会感到恐慌" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/7f9270bc459c1fdb83dddc69771cfc719d6f7705.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今年的休赛季可谓是热闹非凡，不过对于独行侠队而言，就有点冷清。独行侠在自由市场就签下了塞斯-库里。
+   </p>
+   <p>
+    球队老板马克-库班对于球队休赛期的作为时表示道：“我们也去追求了那些自由球员，不过没有得到什么。现在我们有了卢卡和波尔津吉斯，他们是球队的基石。这和我们以往几年不同，之前我们不知道该做些什么，该找什么人。现在有了他们，虽然自由市场收获很小，但我们不像推特上那些人说的那样恐慌。”
+   </p>
+   <p>
+    另外还表示未来几年为成为总冠军争夺者，休赛期的事情也不会改变他的想法。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

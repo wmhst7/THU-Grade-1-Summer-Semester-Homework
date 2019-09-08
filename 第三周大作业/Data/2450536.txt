@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  这都是我兄弟！施罗德更新Ins晒与朋友合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzh4Z7qAIpX/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 17:40:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="这都是我兄弟！施罗德更新Ins晒与朋友合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/482db4d1d0d213caa354d76b6548a03f6088c1dd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日，雷霆后卫丹尼斯-施罗德更新社交媒体Instagram，晒出自己与朋友的合照（见新闻配图）。
+   </p>
+   <p>
+    “生活中的朋友们！”施罗德配文道。
+   </p>
+   <p>
+    在2018-2019赛季中，施罗德常规赛场均出场29.3分钟，得到15.5分3.6篮板4.1助攻；季后赛场均出场30.2分钟，得到13.8分3.2篮板3.4助攻。
+   </p>
+   <p>
+    据此前报道，丹尼斯-施罗德将代表德国队出战本次男篮世界杯。德国队的第一场比赛将对阵法国队，将于北京时间9月1日在深圳打响。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190705/17/9b0142d931496b25febd672d1ffabed8.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

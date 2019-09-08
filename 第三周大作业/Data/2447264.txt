@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥尔特曼：交易JR需要接收溢价合同，而我的职责是避税
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cleveland.com/cavs/2019/06/cleveland-cavaliers-turned-down-jr-smith-offers-on-draft-night-could-end-up-releasing-him-before-june-30.html" target="_blank">
+     克利夫兰老实人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 17:48:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥尔特曼：交易JR需要接收溢价合同，而我的职责是避税" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/5f6a6a54106c117940c34f1403311689aac4b84f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯
+    <span style="line-height: 1.6em;">
+     骑士总经理科比-奥尔特曼近日接受采访谈到了为何没能在选秀大会上
+    </span>
+    <span style="line-height: 1.6em;">
+     成功交易掉后卫JR-史密斯。
+    </span>
+   </p>
+   <p>
+    “我们肯定会探索对此能做些什么，”奥尔特曼说，“这么做（交易）存在一个疼痛阈值，它将让我们承担奢侈税，也就是我们必须接收溢价合同，NBA的其余球队都知道我们面临奢侈税压力，而我的职责就是避免奢侈税。”
+   </p>
+   <p>
+    “那么交易之后让我们陷入那种境地存在足够的价值吗？我认为过去几天内我们就在权衡利弊。有机会完成交易的，问题在于我们愿意为了得到一个资产而在多大程度上缴纳奢侈税？而且，那会让我们在下赛季期间被剥夺哪些机会？我们仍然希望在赛季期间积累资产，所以现在就使用JR的合同做交易可能会让我们失去那种机会。”奥尔特曼说道。
+   </p>
+   <p>
+    若史密斯在当地时间6月30日过后不被裁掉，他的合同将转为下赛季全额保障的1560万美元；若他在6月30日之前被裁掉，则其合同中的保障金额仅为387万美元。若骑士在新赛季不能避税，他们将被征收重复奢侈税。
+   </p>
+   <p>
+    据《克利夫兰老实人报》记者Chris Fedor报道，联盟消息人士透露，骑士在进入选秀大会时的预期是交易掉后卫JR-史密斯，但他们拒绝了多个本可以带回一个首轮选秀权资产的报价。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西蒙斯晒墨尔本街拍：回家的感觉真棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0a6Bb8HVgO/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 09:58:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西蒙斯晒墨尔本街拍：回家的感觉真棒" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/cf4028a31b4a83fbd40560f3f9ff78378218042d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 费城76人队前锋本-西蒙斯今天在个人Instagram上传了两张自己的街拍照片（见新闻配图）。
+   </p>
+   <p>
+    “回家（墨尔本）的感觉真棒。”西蒙斯写道。
+   </p>
+   <p>
+    西蒙斯出生于澳大利亚墨尔本，他的父亲戴夫-西蒙斯是美国人，母亲则是澳大利亚人。根据此前的报道，西蒙斯在今夏与76人签下了一份5年1.7亿美元的续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，西蒙斯场均上场34.2分钟，得到16.9分8.8篮板7.7助攻1.42抢断0.77盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/09/2c604fe160ab2233e8f74dfdcffea5dd.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

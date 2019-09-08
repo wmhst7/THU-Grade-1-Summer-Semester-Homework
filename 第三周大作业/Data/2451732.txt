@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：埃弗里-布拉德利计划2年970万签约湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1148274909455380483" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 00:58:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：埃弗里-布拉德利计划2年970万签约湖人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/6c23a35ba6a7623ec690ae8d84db0a71c78bfd86.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据NBA记者Adrian Wojnarowski报道，经纪人透露，埃弗里-布拉德利计划在今日度过澄清期后与湖人签下一份2年970万美元的合同，其中第二年为球员选项。
+   </p>
+   <p>
+    根据Woj报道，湖人将使用空间中产特例签下布拉德利（相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2451332&amp;type=1">
+     薪资专家：湖人仍能操作出480万的空间中产特例来补强&gt;&gt;
+    </a>
+    ）。在用空间中产特例签下布拉德利后，湖人目前只剩下底薪可以补强。
+   </p>
+   <p>
+    不久前，布拉德利被灰熊裁掉，其2019-20赛季的合同薪水原本价值1296万美元，但在当地时间7月8日前受保障金额仅为200万美元。
+   </p>
+   <p>
+    上赛季，布拉德利共代表快船首发出场49次，赛季中期他被球队交易至灰熊，换来杰迈克尔-格林和加莱特-坦普尔，随后他代表灰熊共首发出场14次。
+   </p>
+   <p>
+    2018-19赛季常规赛，布拉德利场均上场30.2分钟，得到9.9分2.8篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

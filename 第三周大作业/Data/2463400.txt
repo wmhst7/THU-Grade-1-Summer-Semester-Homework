@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈尔斯-特纳：大家都是为了同一个目标，我们相互激励
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-8.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 12:26:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈尔斯-特纳：大家都是为了同一个目标，我们相互激励" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/589d7e9929fb7a46ed87752e7eb45a6170b85571.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 今天步行者球员迈尔斯-特纳在美国队训练营期间接受了采访。
+   </p>
+   <p>
+    谈到这几天美国队训练营的收获，特纳说道：“两边（初选队和选拔队）都有很大的进步。选拔队变得更自如了。前两天选拔队给我们制造了很多麻烦，今天我们比较适应了。我们越来越了解对方。所以今天我们从跳球开始就掌控着节奏。”
+   </p>
+   <p>
+    谈到球队建立化学反应的困难，特纳说道：“困难都是自己制造的。我觉得到这里的每个人都是为了同一个目标，每个人都在相互激励。这几天过的并不轻松，所以我们都在相互依靠来度过困难。现在状况不错，因为我们的团队很出色。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

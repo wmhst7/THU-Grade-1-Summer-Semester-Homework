@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船和自由球员丹尼-格林今日有过交流
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AndrewGreif/status/1145473334798217216" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 07:29:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船和自由球员丹尼-格林今日有过交流" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/e9db82558841058e90fc47e615f29e4f904059b9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据《洛杉矶时报》记者Andrew Greif的报道，一位联盟消息人士确认，快船和自由球员丹尼-格林今日确实有过交流。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出战27.7分钟，可以拿到10.3分4篮板1.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

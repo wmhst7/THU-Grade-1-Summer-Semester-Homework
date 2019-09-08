@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美名医：杜兰特痊愈几率比沃尔大，可以期待他恢复超九成
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ricklaughland/status/1153870784240201728?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 17:39:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美名医：杜兰特痊愈几率比沃尔大，可以期待他恢复超九成" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/fd7d587275296d339629e73c0852135628d33c4c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日，美国知名医生、纽约西奈山卫生系统足部和脚踝外科主任Steven Weinfeld接受美国媒体《Netsinsider》的采访，谈到了篮网球星凯文-杜兰特的跟腱（断裂）伤势。
+   </p>
+   <p>
+    “我觉得他本赛季不太可能参加比赛，但如果他回来的话，我会感到惊喜，”Weinfeld说，“当然，作为外科医生，允许运动员回归高水平运动之前要明确的事情是，他们的伤势得到了足够的治疗，并且他们的力量也达到了所需强度。力量是跟腱伤势中最难恢复的部分，它不光意味着肌腱的愈合。跟腱愈合通常需要4到5个月或6个月的时间，但小腿肌肉的力量恢复大约需要一年甚至更长时间。所以这就是 高水平运动员通常会伤停很久的原因，因为在你让他们复出之前，必须确保他们的力量已经完全恢复了。“
+   </p>
+   <p>
+    Weinfeld也表示，杜兰特不是“爆发型的运动员”，“他的打法与控球后卫不同”。“如果我们讨论百分之百恢复的几率，我认为杜兰特痊愈的几率比（约翰）沃尔的大，沃尔整场比赛都要求速度和爆发力。与杜兰特这种打法的球员不同，沃尔所需要的恰好是跟腱处的肌肉发力。”
+   </p>
+   <p>
+    “我认为杜兰特可以恢复到90%以上。如果我们假设一切顺利、他没有再受到任何挫折的话，可以期待他恢复到原有的90%-100%。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

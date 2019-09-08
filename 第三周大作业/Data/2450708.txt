@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丁威迪：得到最好球员中的两个，我们很明显会变得更好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NYPost_Lewis/status/1147294279431143424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 08:12:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丁威迪：得到最好球员中的两个，我们很明显会变得更好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/6ce4b2605e4c4d55932877eabe8773b553e49cda.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 篮网球员斯潘塞-丁威迪接受采访时谈到了凯文-杜兰特和凯里-欧文加盟篮网的事情。
+   </p>
+   <p>
+    “任何时候你引进世界上最好球员中的两个，并且他们都是多次入选全明星的球员，很明显的是，你会变得更好，促进这样的转变过程将取决于我们剩下的这些球员，希望我们新赛季可以成为一支非常不错的球队。”丁威迪说道。
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski之前的报道，多位消息人士透露，杜兰特和篮网达成4年1.64亿美元的协议。
+   </p>
+   <p>
+    篮网还在自由市场上得到欧文，欧文和篮网达成4年1.41亿美元的协议。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

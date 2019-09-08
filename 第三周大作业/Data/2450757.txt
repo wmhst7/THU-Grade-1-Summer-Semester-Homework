@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕昨天和明天！威廉森赛前偶遇戴维斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nickfriedell/status/1147302995920474112?s=21&amp;tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 10:57:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕昨天和明天！威廉森赛前偶遇戴维斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/190f7b912d3f3185d666fe32a26cf7e5517d8e5c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 今日，拉斯维加斯夏季联赛的一场焦点大战鹈鹕对阵尼克斯开打，目前比赛正在进行中。
+   </p>
+   <p>
+    根据ESPN记者Nick Friedell报道，这场焦点大战赛前，鹈鹕状元秀蔡恩-威廉森走出酒店时，在大堂偶遇即将与洛杉矶湖人签约的安东尼-戴维斯，两人进行一番简短交流，随后，威廉森随行工作人员似乎想要为二人拍张合照，不过之后似乎感觉不妥，威廉森一行人随即离开。
+   </p>
+   <p>
+    <img alt="GIF 2.4M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/10/dd540811ea90f084eb3faf6c7d728091.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/10/6c10bd40395a7c8b49f17a81c215ee76.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/10/4e91107a0ec1f4ef18b6451621e73850.gif"/>
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski之前的报道，鹈鹕与湖人达成交易协议，安东尼-戴维斯被送至湖人，湖人则为此送出朗佐-鲍尔、布兰登-英格拉姆、约什-哈特以及三个首轮选秀权—包括本届选秀中的4号签。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  已经官宣签约克罗地亚球队的罗滕很可能加盟波兰球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1159009947469910016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 19:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="已经官宣签约克罗地亚球队的罗滕很可能加盟波兰球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/6457d443a5e4ef7451f96a3dcec679cd0b4f11cd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 根据立陶宛篮球记者Donatas Urbonas的报道，尽管克罗地亚联赛俱乐部KK Zadar之前官方
+    <a href="https://voice.hupu.com/nba/2461896.html">
+     宣布
+    </a>
+    已经签下托尼-罗滕，但是他听说罗滕在与波兰俱乐部Anwil Wloclawek进行深入交流。
+   </p>
+   <p>
+    随后根据Sportando体育Emiliano Carchia的报道，一位消息人士确认，罗滕很可能将签约Anwil Wloclawek。
+   </p>
+   <p>
+    罗滕在2012年选秀大会首轮第25顺位被灰熊选中，NBA职业生涯曾为灰熊和76人出战过，共出战过145场常规赛，场均出场21.2分钟，能够得到11.1分2.5篮板3助攻。
+   </p>
+   <p>
+    罗滕在NBA中表现最好的一个赛季为2014-15赛季，共出战30场常规赛，场均出场29.8分钟，能够得到16.9分2.9篮板5.2助攻1.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

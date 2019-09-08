@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威斯布鲁克：加盟火箭对于我目前的生涯而言是很好的决定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/rockets/live/media-day" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 02:58:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威斯布鲁克：加盟火箭对于我目前的生涯而言是很好的决定" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/17c21f3d1fa6911bb5d9a3171289b6dd55ca544b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p line="3jSq">
+    虎扑7月27日讯 今日火箭为拉塞尔-威斯布鲁克举行了新闻发布会，威斯布鲁克在接受采访时谈到了最终决定加盟火箭的过程。
+   </p>
+   <p line="3jSq">
+    “这过程十分疯狂，这是双方努力的结果。过程进展很快，我认为对于目前的职业生涯来说是一个很好的决定，能够与兄弟重逢是你会梦寐以求的事。我感到很激动。”威斯布鲁克说道。
+   </p>
+   <p line="3jSq">
+    在谈到除哈登外的其他火箭球员时，威斯布鲁克表示他希望与每一个人合作，他说道：“我在季后赛和他们交手过很多次了。我很了解他们的为人，他们都很坚韧。我来到这里会帮助他们。当你在联盟里呆了很久之后，你会知道这些球员的能力。我来这里帮助他们，激励他们有更好的表现，希望他们也能帮助我提升自己。我很期待这段经历。”
+   </p>
+   <p line="3jSq">
+    在谈到PJ-塔克和埃里克-戈登时，威斯布鲁克说道：“我爱他们，他们都能打出高水平的比赛，会在场上去竞争。投丢投篮会是比赛的一部分，但他们仍会去竞争。”
+   </p>
+   <p line="3jSq">
+    在谈到主教练迈克-德安东尼时，威斯布鲁克说道：“我已经和他聊过，我和他有不错的关系。我们聊了一些简单的事情，我们会有更深入的交流。”
+   </p>
+   <p line="3jSq">
+    在谈到休赛期许多明星球员改换门庭、且许多球队变得更强的群雄逐鹿时，威斯布鲁克说道：“我只在乎一支球队，那就是火箭。我不在乎其他球员和球队。我们知道我们能够取得怎样的成绩，我们专注于自己。”
+   </p>
+   <p line="R6Q5">
+    此前火箭将保罗交易至雷霆，得到威斯布鲁克。
+   </p>
+   <p line="Es3c">
+    2018-19赛季常规赛，威斯布鲁克场均上场36.0分钟，得到22.9分11.1篮板10.7助攻1.95抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

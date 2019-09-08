@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：森林狼已为泰厄斯-琼斯开出资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1143920571278856192?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 00:48:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：森林狼已为泰厄斯-琼斯开出资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/a709bf3a00d586a2c9aceb796761be6f660a3b21.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，森林狼已为后卫泰厄斯-琼斯开出资质报价，琼斯将成为受限制自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，琼斯场均上场22.9分钟，得到6.9分2篮板4.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

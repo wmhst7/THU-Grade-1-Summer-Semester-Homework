@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆官方社交媒体晒乔治威少旧照，庆祝独立日
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzgKw2qB4az/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 10:22:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆官方社交媒体晒乔治威少旧照，庆祝独立日" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/7f98dbb8dce636d1e7bfbefa0214e7476bd58451.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日，雷霆官方社交媒体更新Instagram，晒出保罗-乔治和拉塞尔-威斯布鲁克合照，二人身穿美国队训练服旧照（见新闻配图）。
+   </p>
+   <p>
+    “祝我们生日快乐！祝愿每个人快乐健康，7月4日（独立日，美国法定节日，为纪念1776年7月4日大陆会议在费城正式通过《独立宣言》）”并配文道。
+   </p>
+   <p>
+    2018-19赛季常规赛拉塞尔-威斯布鲁克场均出场36.0分钟，得到22.9分11.1篮板10.7助攻；保罗-乔治场均出场36.9分钟，得到28.0分8.2篮板4.1助攻。
+   </p>
+   <p>
+    赛季结束后，保罗-乔治先后接受了右肩旋转肌手术与左肩上唇肌肉的微弱撕裂修复手术，
+    <a href="https://voice.hupu.com/nba/2447809.html">
+     现在恢复进展顺利
+    </a>
+    。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190705/10/413000045f9d4e6ed8b3a045c5929a75.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

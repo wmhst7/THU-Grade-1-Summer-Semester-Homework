@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  复古风！猛龙新赛季主场地板3款设计图出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://imgur.com/a/tWlbdMB" target="_blank">
+     imgur
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 16:11:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="复古风！猛龙新赛季主场地板3款设计图出炉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/d465f82521f82f3cc6e4ce8f561fc23ab867d22e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 一位Reddit网友今日在imgur上分享了NBA全部30支球队将在2019-20赛季推出的主场地板设计效果图。
+   </p>
+   <p>
+    以下为猛龙将在新赛季主场比赛中推出的主要版本、城市版、复古版球场设计效果图：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/16/046bedcddcd61d88398db1d0156c2aa1.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/16/079f2017cb99f0f8881d9933441c9aeb.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/16/fb281f0ebac4c365991df6cd779782e1.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

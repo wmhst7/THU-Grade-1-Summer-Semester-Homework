@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  自抛自扣！湖人官方晒出库兹马在美国队训练营扣篮视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B07Ped8AdFQ/?igshid=1txkceexqoimn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 11:53:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="自抛自扣！湖人官方晒出库兹马在美国队训练营扣篮视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/10ca2e38bbb96c8f3a0eb06fe43312454cca15ce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 湖人官方Instagram今日发布球队前锋凯尔-库兹马在美国男篮训练营完成大风车灌篮的视频。
+   </p>
+   <p>
+    “将篮球弹墙转化为大风车扣篮。我们看到你了，#奥林匹克Kuz”湖人官方写道。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190809/11/54b2655384d0267ef8e2e4f17827ad25.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

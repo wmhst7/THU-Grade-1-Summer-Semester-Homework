@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA官方发图：德雷蒙德-格林带着儿子参观美国队训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Ms0k-gqme/?igshid=sikvxkoov0yp" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 20:37:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA官方发图：德雷蒙德-格林带着儿子参观美国队训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/29c64c41b3cbce06cae04ead9843dd5ccd27e483.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 NBA官方Instagram今日发布勇士前锋德雷蒙德-格林造访美国男篮训练营的一组照片。
+   </p>
+   <p>
+    “@德雷蒙德-格林 和他的儿子DJ前来参观@美国男篮 的训练！”NBA官方写道。
+   </p>
+   <p>
+    美国男篮正在洛杉矶进行训练，他们即将于明日迎战热身赛对手西班牙。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/20/acf17f7c77a3f2ca7e0a31a6a0be4752.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/20/04cbcad155e968f714a5efb1c0fe0b51.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/20/e90dd8b747c6404e7f1005b354c845a3.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/20/af072755e08b52ca11fecb1574e63401.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

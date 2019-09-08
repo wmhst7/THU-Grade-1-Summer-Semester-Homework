@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  法尔不在塞内加尔国家队名单中，已返回波士顿专注新赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JaredWeissNBA/status/1159163956742762501" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 10:50:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="法尔不在塞内加尔国家队名单中，已返回波士顿专注新赛季" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/6dc2bef56e2e4b4a09847879b7f3a9cbcf20d372.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 在最新一次塞内加尔征战今年男篮世界杯的16人名单里，凯尔特人内线塔科-法尔并不在其中。The Athletic记者Jared Weiss表示，法尔已经返回波士顿继续训练，争取进入凯尔特人新赛季大名单。
+   </p>
+   <p>
+    在之前塞内加尔公布的24人初选大名单里，塔科-法尔位列其中。但Jared Weiss表示，法尔很开心自己的名字能出现其中，不过他一直的计划都是回到波士顿，利用接下来的时间努力训练并争取进入凯尔特人球队大名单。
+   </p>
+   <p>
+    根据此前报道，法尔已经与凯尔特人正式签下了一份Exhibit 10（
+    <a href="https://nba.hupu.com/wiki/%E5%8F%8C%E5%90%91%E5%90%88%E5%90%8C">
+     虎扑篮球百科：“Exhibit 10”&gt;&gt;
+    </a>
+    ）合同。在此前进行的夏季联赛里，法尔场均能得到7.2分4篮板1.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

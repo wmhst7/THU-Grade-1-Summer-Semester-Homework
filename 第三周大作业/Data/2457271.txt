@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多诺万-米切尔将继续参加美国男篮训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1153687182793748480" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 23:24:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多诺万-米切尔将继续参加美国男篮训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/cd7eaa01ddc652cea5042ff07349af800d7e208c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据雅虎体育记者Chris Haynes报道，联盟消息人士透露，爵士后卫多诺万-米切尔将继续参加美国男篮训练营。
+   </p>
+   <p>
+    美国男篮训练营今年8月将在拉斯维加斯进行，为今夏的男篮世界杯做准备。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆、布拉德利-比尔、达米安-利拉德、德马尔-德罗赞和托拜厄斯-哈里斯等球员相继宣布不会代表美国队参加今夏的男篮世界杯。
+   </p>
+   <p>
+    据此前的相关报道，谈到收到美国男篮的邀请，米切尔说：“我在高中和大学的时候一直都想要代表国家出战，但一直没有获得机会。所有事情的发生都是有原因的，这只是时间问题，能够收到邀请我心怀感激。现在我需要努力训练，努力成为最终大名单的一员。”
+   </p>
+   <p>
+    2018-19赛季常规赛，米切尔场均出场33.7分钟，得到23.8分4.1篮板4.2助攻1.38抢断0.40盖帽。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

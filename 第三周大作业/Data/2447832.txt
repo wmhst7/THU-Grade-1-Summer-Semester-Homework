@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  若勇士不能提供5年顶薪，克莱-汤普森将与湖人快船会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BA_Turner/status/1144410440706846720" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 09:05:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="若勇士不能提供5年顶薪，克莱-汤普森将与湖人快船会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/395a92959092da5d86ea347233f8ff675d04ffac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据《洛杉矶时报》记者Brad Turner报道，消息人士透露，若勇士在自由市场开启之时不能为克莱-汤普森提供5年价值1.91亿美元的顶薪合同，他将与两支洛杉矶球队湖人和快船会面。
+   </p>
+   <p>
+    目前，由于湖人通过交易清理出3200万美元的顶薪空间，湖人重新回到了汤普森的考虑范围。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

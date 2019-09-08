@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  致敬！小托马斯转发推文称赞罗斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/isaiahthomas/status/1170189006979686401" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 14:35:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="致敬！小托马斯转发推文称赞罗斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/c21273fef862f36e175349297b6fa9c224ae38fb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 奇才后卫以赛亚-托马斯于今日在推特上转发一张图片并发表言论称赞活塞后卫德里克-罗斯。
+   </p>
+   <p>
+    小托马斯说到：“你获得了MVP，在我的字典里你已经自动的成为了名人堂其中的一员了。[玫瑰]”
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯代表掘金出场12场比赛，场均出场15.1分钟，场均得到8.1分1.1篮板1.9助攻0.42抢断。在随后的休赛期里，小托马斯与奇才达成了一年的协议。
+   </p>
+   <p>
+    同样今年夏天，罗斯以2年1500万美元合同加盟活塞。2018-19赛季常规赛，罗斯场均出场27.3分钟，可以得到18.0分，2.8篮板，4.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Marcus兴)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

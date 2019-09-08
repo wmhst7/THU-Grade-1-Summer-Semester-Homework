@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱-汤普森拄拐来到《空中大灌篮2》片场与詹姆斯拥抱
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/06/26/space-jam-2-klay-thompson-lebron-james-photos-video/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 23:04:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱-汤普森拄拐来到《空中大灌篮2》片场与詹姆斯拥抱" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/d052a9d6387badf21486b24fdf691dd8fb9a650c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据TMZ体育独家报道，此前遭遇左膝十字韧带撕裂的勇士球员克莱-汤普森今日拄拐来到了他计划参演的电影《空中大灌篮2》位于洛杉矶的一处片场。
+   </p>
+   <p>
+    据现场流出的照片和视频显示，本片主演湖人前锋勒布朗-詹姆斯（身穿6号球衣）上前与汤普森拥抱致意，随后二人进行了一番交谈。
+   </p>
+   <p>
+    据TMZ体育报道，另外两名确认参演的球员安东尼-戴维斯与达米安-利拉德也出现在了片场进行拍摄。场地中身穿23号球衣的演员似乎是勇士前锋德雷蒙德-格林。据悉，今天制片方拍摄的场景为一场NBA全明星赛。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190628/00/48bdf594d75acab8031ecb4fc8ead43a.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/23/5952307d0404e53f6080a42142a43065.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/23/0d583620d06bbb1a3e4d8386509d5aec.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/23/f012ca2eb916d2d6e10026b4820f415a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/23/f681ca65952a54c4efd9188f8ebcbedd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/23/0ef43af96cbbdd0a59610faa20b6ec3a.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

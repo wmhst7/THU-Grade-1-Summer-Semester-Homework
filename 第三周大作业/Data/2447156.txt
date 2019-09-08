@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士球员发展教练将担任太阳首席助教，并因此得到加薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/sources-willie-green-leaving-warriors-become-suns-lead-assistant" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 10:36:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士球员发展教练将担任太阳首席助教，并因此得到加薪" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/e68b1ab66e4f200cf47ee9cd3aca8b2c588d6283.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 据NBC记者Monte Poole报道，消息人士透露，勇士球员发展教练威利-格林已经同意加盟太阳主教练蒙蒂-威廉姆斯的助教团队。
+   </p>
+   <p>
+    威利-格林将担当威廉姆斯的首席助教，消息人士称，威利-格林因此得到了更高的薪资报酬。
+   </p>
+   <p>
+    今年37岁的威利-格林曾在联盟中效力12个赛季，他从2016年起开始担任勇士球员发展助教。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

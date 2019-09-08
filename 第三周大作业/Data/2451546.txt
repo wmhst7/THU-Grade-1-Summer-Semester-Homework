@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  梦想成真！杜克男篮官方晒照恭喜奎因-库克签约湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dukembb/status/1147946175611449345?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 13:21:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="梦想成真！杜克男篮官方晒照恭喜奎因-库克签约湖人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/e6276fb368177036aef864a0103bc18709e91bee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 杜克大学男篮官方今日发推恭喜杜克校友奎因-库克签约湖人。杜克男篮官方晒出了库克小时候身穿湖人8号球衣的旧照。
+   </p>
+   <p>
+    “全国冠军@奎因-库克 实现了梦想！昔日的湖人球迷加入湖人秀。”杜克男篮官方写道。
+   </p>
+   <p>
+    库克于2011-2015年间为杜克大学共效力4个赛季，并帮助球队于2015年赢得NCAA冠军。库克是2015年的NBA落选秀，在发展联盟打球后才逐步进入NBA，随后代表勇士赢得2017-18赛季NBA总冠军。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/13/730e54fcbf907e882c49284d6f68a6bb.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

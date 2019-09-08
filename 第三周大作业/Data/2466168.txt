@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  托尼-帕克在圣安东尼奥发生交通事故，身体无碍
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jabarijyoung/status/1162489621042913281?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 06:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="托尼-帕克在圣安东尼奥发生交通事故，身体无碍" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/45e8ae3438e1d9dd787a84084803264660a4be9a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据The Athletic记者贾巴里-杨的报道，他被告知托尼-帕克在圣安东尼奥发生交通事故，帕克已经接受了检查，身体无碍。
+   </p>
+   <p>
+    帕克在今年6月宣布退役，结束了自己18年的NBA生涯。
+   </p>
+   <p>
+    帕克在2001年选秀大会上首轮第28顺位被马刺选中，曾效力过马刺和黄蜂，职业生涯共上场1254次NBA常规赛，场均上场30.5分钟，得到15.5分2.7篮板5.6助攻0.8抢断。他共6次入选全明星，获得4次NBA总冠军和1次NBA总决赛最有价值球员奖。
+   </p>
+   <p>
+    在职业生涯的前17个赛季，帕克为马刺效力，出战1198场常规赛，场均出战31.1分钟可以拿到15.8分5.7助攻2.8篮板0.9抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/06/817ff40ea27b998a9dd68390af6e02f7.JPG"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

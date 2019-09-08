@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔谈助教罗恩：我感觉他想回归球队，我们也希望他回来
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/timkawakami/status/1144011261853650944" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 14:09:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔谈助教罗恩：我感觉他想回归球队，我们也希望他回来" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/1c1b1d7ace5b42c88f3cc8d431c60e699c7bbece.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Ohm Youngmisuk与Adrian Wojnarowski联合报道，联盟消息人士透露，湖人已经取得勇士许可将面试勇士助教罗恩-亚当斯，邀请其加入球队主帅弗兰克-沃格尔的教练组。
+   </p>
+   <p>
+    勇士主教练史蒂夫-科尔在近日接受媒体采访时对此发表了自己看法。
+   </p>
+   <p>
+    “我感觉罗恩想要回归球队，我们也希望他能够回来。”科尔说道。
+   </p>
+   <p>
+    据Youngmisuk报道，目前还不清楚亚当斯对此有多大兴趣，但湖人可能通过提出丰厚的薪资待遇使得他们的报价更加诱人。亚当斯自2014年起担任勇士助理教练，被业内认为是最顶级的防守助教之一。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

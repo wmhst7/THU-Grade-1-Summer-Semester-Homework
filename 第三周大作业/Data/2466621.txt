@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热身赛法国77-58轻取阿根廷，迎来四连胜
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/920435/france-keeps-argentina-under-control/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 11:22:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热身赛法国77-58轻取阿根廷，迎来四连胜" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/0477a9523dba5f60152e5ddd853babaa7c80e447.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 在今天结束的一场热身赛中，法国男篮以77-58击败阿根廷队，迎来四连胜。
+   </p>
+   <p>
+    其中首节战罢法国21-20微微领先，半场结束后法国48-34取得较大领先，并将优势保持到最后，最终以77-58取胜。
+   </p>
+   <p>
+    法国方面：尼古拉-巴图姆得到9分9助攻，南多-德科洛11分，埃利-奥科博10分。
+   </p>
+   <p>
+    阿根廷方面：路易斯-斯科拉16分，尼古拉斯-布鲁西诺12分。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

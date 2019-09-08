@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼-戴维斯：未来会考虑加盟公牛，芝加哥是篮球圣地
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.chicagotribune.com/sports/bulls/ct-bulls-anthony-davis-lakers-free-agency-20190720-shiq3luaxveknpx2cae5xeexi4-story.html" target="_blank">
+     芝加哥论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 07:00:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼-戴维斯：未来会考虑加盟公牛，芝加哥是篮球圣地" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/a1fde82703a26f47a921e38b5f0e0f5555fea492.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 洛杉矶湖人队前锋安东尼-戴维斯近日在家乡芝加哥举办了个人训练营，戴维斯在训练营期间也接受了《芝加哥论坛报》记者 K.C.Johnson的采访。
+   </p>
+   <p>
+    在谈到新东家湖人时，戴维斯说道：“我们现在的处境不错，我对球队以及球队的阵容充满信心。对此我感到很兴奋，下赛季的NBA一定会很有趣。”
+   </p>
+   <p>
+    在被问到是否想过为家乡球队公牛打球时，戴维斯说道：“我的意思是，这是我的家乡。如果时机成熟并且有机会摆在面前时，我一定会考虑的。”
+   </p>
+   <p>
+    在谈到回乡举办训练营时，戴维斯说道：“这是一种传承，很多孩子来自我来自的那个社区。因此，如果有些他们能够接触到的人能够回来的话，我认为这会对他们产生巨大的影响。”
+   </p>
+   <p>
+    “当你回到你的家乡并帮助那里的年轻人时，你会觉得很有趣。这些孩子真的是不可思议，和他们呆在一起很有趣，他们愿意倾听，他们想要学到东西。有些孩子的天赋很不错，我很乐意将我的知识与经验传授给他们，我也愿意在他们身上花费时间。”戴维斯补充道。
+   </p>
+   <p>
+    在谈到芝加哥的篮球文化时，戴维斯说道：“无论什么时候，这里都会有篮球，你总是能找到方法打球。他们对篮球的爱无与伦比，无论是室内的炎热与严寒还是室外的刮风下雨，无论如何，对任何一名来自芝加哥的篮球运动员来说，这些都意味着多得多，因为我们是一座篮球之城。这里就是篮球的圣地，你可以引用我这句话。”
+   </p>
+   <p>
+    戴维斯出生于芝加哥南部地区，在本赛季休赛期的一笔交易当中被鹈鹕交易至湖人。2018-19赛季常规赛，戴维斯场均出场33.0分钟，得到25.9分12.0篮板3.9助攻1.57抢断2.41盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

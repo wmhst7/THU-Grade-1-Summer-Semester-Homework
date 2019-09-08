@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷迪克：唐斯和一些自由球员见了面，森林狼准备做些事情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DWolfsonKSTP/status/1144400349119295488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 10:46:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷迪克：唐斯和一些自由球员见了面，森林狼准备做些事情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/3f834763edbe3977b82b418c8de29bcb8c7fe346.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今年夏天即将成为自由球员的后卫JJ-雷迪克在今日参加节目时透露，森林狼中锋卡尔-安东尼-唐斯已经开始招募自由球员。
+   </p>
+   <p>
+    主持人问雷迪克是否有兴趣加盟森林狼，雷迪克说：“你提到明尼苏达，这很有趣。据我所知，唐斯已经开始和一些潜在的自由球员见了面，这并不是公开的消息。”
+   </p>
+   <p>
+    “我听到的消息是，森林狼正准备做一些事情。”雷迪克补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

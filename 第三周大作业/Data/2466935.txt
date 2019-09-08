@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  皮尔斯晒户外运动趣图：进退两难时，我该怎么办
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1S5Y7shWQ9/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 13:36:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="皮尔斯晒户外运动趣图：进退两难时，我该怎么办" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/c040892c7ecd45cf9fc7c198faa05bbf0347bf90.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 前NBA球员保罗-皮尔斯今日在个人Instagram晒出了一张自己在参加户外运动时的趣图（见新闻配图）。
+   </p>
+   <p>
+    “当你进退两难时，你应该做什么呢？”皮尔斯发问。
+   </p>
+   <p>
+    皮尔斯1998年第1轮第10顺位被凯尔特人选中，生涯场均出场34.2分钟，得到19.7分5.6篮板3.51助攻1.30抢断0.55盖帽。生涯10次入选全明星，在2007-08赛季代表凯尔特人夺得当赛季总冠军，个人获得总决赛MVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：沃克用安吉的手机打来电话招募我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.celticsblog.com/2019/7/17/20698622/enes-kanters-personality-shining-bright-in-his-introduction-with-boston-celtics-nba" target="_blank">
+     Celtics Blog
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 09:47:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：沃克用安吉的手机打来电话招募我" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/9ccd1ce8b195bfe60a38627b351caa872273f545.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今天凯尔特人为新援埃内斯-坎特和肯巴-沃克召开新闻发布会。根据此前的报道，坎特与凯尔特人达成一份2年1000万美元的协议，第二年为球员选项。
+   </p>
+   <p>
+    据报道坎特收到了来自肯巴-沃克的招募，对此坎特说道：“他没有用自己的电话打给我，他用丹尼（安吉）的电话。我接起电话听到了一个低沉的声音，我说‘是谁？’，他说‘是肯巴啊，兄弟，我们想你到这里来’。这让我非常兴奋，感觉自己得到了特殊的对待。我跟我的经纪人说‘这就是我想加盟的球队’。”
+   </p>
+   <p>
+    坎特经常和媒体开玩笑，向媒体传递自己积极乐观的精神。坎特说道：“每个队都需要一个这样的人，拥有自己的性格是很重要的。这支球队不缺这样的性格，我只是想锦上添花。”
+   </p>
+   <p>
+    凯尔特人主教练布拉德-史蒂文斯欣赏坎特的远距离投射，这也让坎特有信心开发自己的三分技能。坎特说道：“联盟在发生变化，你必须紧跟潮流。现在你很难看到背筐进攻的球员。今夏我的计划是练出三分球，这对场上空间非常有用。”
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

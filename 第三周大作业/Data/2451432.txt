@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普林斯：不论杜兰特明年是否复出，篮网的目标都是夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MikeAScotto/status/1147982077343567872" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 09:20:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普林斯：不论杜兰特明年是否复出，篮网的目标都是夺冠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/bdb28d095102ce5952ab8012fe032787cdc1129d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今天，篮网新援托里恩-普林斯接受了记者的采访。
+   </p>
+   <p>
+    谈到队友凯里-欧文，普林斯说：“他是一个会深度思考的人，并且他想的和很多人都不一样。我认为这就是他的特点。就我认识的人来看，杰出人士总是很好胜和意志坚定。”
+   </p>
+   <p>
+    谈到篮网的潜力，普林斯说：“现在我们可以谈论总冠军了。这就是我们要考虑的一切，也是我们要努力达成的目标。我们必须要做我们需要做的事情去达成这一目标。不论杜兰特明年能不能复出，都是一样。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

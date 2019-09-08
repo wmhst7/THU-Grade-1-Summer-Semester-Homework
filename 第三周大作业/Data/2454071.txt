@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-韦斯特今日转推奥尼尔多年前采访视频打脸奥尼尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/D_West30/status/1150575645900124160" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 10:36:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-韦斯特今日转推奥尼尔多年前采访视频打脸奥尼尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/47742d9208c002341096815c152beb43fda7c89c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，前NBA球员大卫-韦斯特转发了一段2004年名人堂成员沙奎尔-奥尼尔接受采访的视频并配上；“睁大眼睛看和沉默不语闭嘴的表情。
+   </p>
+   <p>
+    在视频中，奥尼尔对记者说道：“如果一个教练能在5年内率领球队4次杀进总决赛，那我就会用奶酪涂在他的脚上然后去亲吻他的脚丫子。这种事情不可能再次发生。”
+   </p>
+   <p>
+    值得一提的是，勇士主教练史蒂夫-科尔于2014年接过勇士教鞭以来，已经连续5年率领勇士杀进总决赛，并且率队获得了2014-15赛季、2016-17赛季以及2017-18赛季NBA总冠军。
+   </p>
+   <p>
+    大卫-韦斯特于2018年正式宣布退役，他曾在2016-17赛季和2017-18赛季效力于勇士，并且随队连获两届NBA总冠军。其职业生涯常规赛，场均出场28.2分钟，可以得到13.6分6.4篮板2.20助攻0.74抢断0.82封盖。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/10/ae4bab3b97ec67bec28a6dcb7b1e6c3d.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

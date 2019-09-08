@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雄鹿已经裁掉邦齐-科尔森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/eric_nehm/status/1153057444463030272" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 07:27:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雄鹿已经裁掉邦齐-科尔森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/8e1f7b6b059ddfaa756e5ffb29544e4f34fbf472.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 根据The Athletic记者Eric Nehm的报道，雄鹿已经裁掉了邦齐-科尔森。
+   </p>
+   <p>
+    科尔森之前与雄鹿签下了一份双向合同，一支球队最多可以签下两名双向合同球员，雄鹿已经与卡姆-雷诺兹和弗兰克-梅森达成了双向合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，科尔森场均出战12.3分钟可以拿到4.9分3.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

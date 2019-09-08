@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰森-钱德勒很有可能是火箭的替补中锋目标人选
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1147928206080729093" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 02:01:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰森-钱德勒很有可能是火箭的替补中锋目标人选" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/603db2006a0864e039c8c9c1c8c33058084109d8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 根据NBA记者Tim MacMahon报道，多位消息人士透露，泰森-钱德勒很有可能是火箭的替补中锋目标人选。
+   </p>
+   <p>
+    钱德勒将在今年10月迈入37岁，他在2018-19赛季担当湖人替补中锋时仍是一位十分高效的防守者和篮板手。他是一名拥有不错名声的更衣室球员，且与克里斯-保罗在新奥尔良黄蜂队（鹈鹕前身）合作时有着十分不错的关系。
+   </p>
+   <p>
+    2018-19赛季常规赛，钱德勒场均上场15.9分钟，得到3.2分5.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

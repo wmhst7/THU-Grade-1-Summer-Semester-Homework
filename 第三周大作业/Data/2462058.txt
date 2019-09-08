@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Haynes：格林续约合同中包含15%交易保证金
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 02:44:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Haynes：格林续约合同中包含15%交易保证金" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/5d49c43066d80b8c211d3adabfb6b361d731eedd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 根据记者Chris Haynes的报道，勇士球员德雷蒙德-格林的提前续约合同中包含15%的交易保证金。
+   </p>
+   <p>
+    根据此前报道，
+    <a href="http://lite.hupu.com/s?u=nba/news/2461524&amp;type=1&amp;entrance=26">
+     勇士与格林达成了一份4年1亿美元的提前续约合同
+    </a>
+    ，
+    <a href="https://voice.hupu.com/nba/2462031.html">
+     并且最后一年为球员选项
+    </a>
+    。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出场31.3分钟得到7.4分7.3篮板6.9助攻1.4抢断1.1盖帽；季后赛场均出战38.7分钟得到13.3分10.1篮板8.5助攻1.5抢断1.5盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

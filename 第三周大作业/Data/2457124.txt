@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  唐塔-霍尔与托德-威瑟斯与活塞签下Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/pistons-sign-donta-hall-todd-withers.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 13:38:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="唐塔-霍尔与托德-威瑟斯与活塞签下Exhibit 10合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/958248bb7291f63a2ae5ab0b2952f577e7fc131e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据雅虎体育记者Keith Smith的报道，活塞已经与唐塔-霍尔和托德-威瑟斯达成协议，双方签下一份Exhibit 10合同。
+   </p>
+   <p>
+    唐塔-霍尔来自亚拉巴马大学，他是今年的落选秀，2018-19赛季场均10.5分8.8篮板1.6篮板。在今年的夏季联赛中场均可以拿到6.0分5.4篮板2.2盖帽
+   </p>
+   <p>
+    威瑟斯来自夏洛特皇后大学，之后在活塞发展联盟下属的大急流城驱动队效力。2018-19赛季，他在发展联盟的比赛中场均可以得到6.9分5.5篮板。在今年的夏季联赛中，威瑟斯场均可以得到10.0分，投篮命中率达到了56.7%。
+   </p>
+   <p>
+    相关科普：
+    <a href="https://nba.hupu.com/wiki/Exhibit_10%E5%90%88%E5%90%8C">
+     什么是Exhibit 10合同
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

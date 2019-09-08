@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勒布朗-詹姆斯连续10年成为2K能力值最高的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 09:09:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勒布朗-詹姆斯连续10年成为2K能力值最高的球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/eab93d4cb5d564dcb541bc30e002908514fec3b3.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 2K官方的首次NBA 2K20能力值公布视频直播正在进行中，2K官方刚刚公布了湖人球员勒布朗-詹姆斯的NBA 2K20初始能力值。詹姆斯的初始能力值为97。
+   </p>
+   <p>
+    这也是詹姆斯连续10次成为NBA 2K系列游戏评分最高（含并列）的球员（仅统计当代游戏时的现役球员，不含传奇球员、模式等）。
+   </p>
+   <p>
+    在前作NBA 2K11-2K19中，詹姆斯的初始能力值为都为最高（或并列）。
+   </p>
+   <p>
+    从2K11到2K19，詹姆斯的能力值分别为97、98、98、99、98、94、96、97、98。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯共出场55次，场均35.2分钟，可以得到27.4分8.5篮板8.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

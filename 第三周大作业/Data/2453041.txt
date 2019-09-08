@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗生涯始于俄克拉荷马！黄蜂曾因飓风暂时迁至俄城
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://en.wikipedia.org/wiki/Effect_of_Hurricane_Katrina_on_the_New_Orleans_Hornets" target="_blank">
+     维基百科
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 10:04:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗生涯始于俄克拉荷马！黄蜂曾因飓风暂时迁至俄城" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/b144ec115404eeb3a98d265644ee05468d02c689.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 2005年8月29日，由于卡特琳娜飓风登陆，新奥尔良黄蜂的球馆斯莫西国王中心遭到了巨大的破坏。因此黄蜂在2005-06赛季和2006-07赛季不得不暂时搬到俄克拉荷马城的福特中心球馆，成为新奥尔良/俄克拉荷马黄蜂队，2007-08赛季黄蜂搬回新奥尔良。
+   </p>
+   <p>
+    克里斯-保罗在2005年首轮第四顺位被黄蜂选中，所以他职业生涯前两年在俄克拉荷马度过。2005-2007两个赛季新秀保罗代表新奥尔良/俄克拉荷马黄蜂队出战了142场比赛，场均36.3分钟能得到16.6分4.8篮板8.3助攻。
+   </p>
+   <p>
+    根据此前的报道，火箭送出后卫克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆交易得到拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/10/3527d2835e68fee3465f2c4e46bc4ab7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

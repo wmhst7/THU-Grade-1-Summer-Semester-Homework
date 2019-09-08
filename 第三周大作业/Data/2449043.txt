@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  想掌握最全最快的自由市场签约信息？虎扑已经为你准备好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 15:43:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="想掌握最全最快的自由市场签约信息？虎扑已经为你准备好" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/cfaf3934f8af6e8ba2fed9b44c2a9438a58593a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    自由球员市场大幕拉开，第一天重磅签约数不胜数看的人眼花缭乱，想要第一时间得知最新消息或者查看目前的签约、交易汇总吗？
+   </p>
+   <p>
+    在自由市场开放期间，虎扑为各位JRs汇总了所有的签约、交易信息。具体查看步骤如下：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190701/15/8f7291b652148c109f8f27a01e8525ce.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190701/15/add80de7521fdfe814f8b0c5b4bd09b2.jpg"/>
+   </p>
+   <p>
+    当然，我们每日也会在新闻页更新置顶专题，第一时间为您带来签约、交易等相关信息的最新进展。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2449051.html">
+     还有哪些大鱼？自由球员市场最新盘点
+    </a>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

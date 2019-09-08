@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克里斯-韦伯发布趣味视频庆祝篮网成为自由市场首日赢家
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzW49XkBQEI/?igshid=1qul4g76st38i" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:07:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克里斯-韦伯发布趣味视频庆祝篮网成为自由市场首日赢家" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/89aa080780dbfede12ef3aff97be16afac5c1da1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 今天，前NBA球员克里斯-韦伯更新了个人Instagram，上传了一段篮网替补席在比赛中疯狂庆祝的视频，庆祝篮网在自由市场首日的收获。
+   </p>
+   <p>
+    <img alt="GIF 1.1M" src="https://c1.hoopchina.com.cn/uploads/images/20190701/11/c292a19c64ed3bc4882c3d19dfe6b6d4.gif"/>
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，凯文-杜兰特和篮网达成4年1.64亿美元的口头协议。
+   </p>
+   <p>
+    根据Woj后续报道，篮网还在自由市场上得到凯里-欧文与德安德烈-乔丹，欧文和布鲁克林篮网达成4年1.41亿美元的口头协议，小乔丹也将加盟篮网。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

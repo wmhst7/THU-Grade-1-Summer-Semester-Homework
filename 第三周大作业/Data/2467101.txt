@@ -1,0 +1,76 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA新秀调查之最佳职业生涯：雷迪什莫兰特亨特分列前三
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/2019-20-nba-rookie-survey" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 02:47:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA新秀调查之最佳职业生涯：雷迪什莫兰特亨特分列前三" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/abcae80df8701d1d28cbe098d3f7f6033b8312da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 NBA官网近日对本届通过选秀进入联盟的42位新秀（参与了定妆照拍摄的新秀）进行了问卷调查，各位新秀将就一系列问题投票给出自己的选择。部分调查结果如下：
+   </p>
+   <p>
+    <strong>
+     谁将拥有最好的职业生涯？
+    </strong>
+   </p>
+   <p>
+    1. 卡姆-雷迪什（老鹰），得票率19%；
+   </p>
+   <p>
+    2. 贾-莫兰特（灰熊），得票率16%；
+   </p>
+   <p>
+    3. 德安德烈-亨特（老鹰），得票率11%；
+   </p>
+   <p>
+    4. RJ-巴雷特（尼克斯），得票率5%；
+   </p>
+   <p>
+    贾克森-海斯（鹈鹕），得票率5%；
+   </p>
+   <p>
+    科比-怀特（公牛），得票率5%；
+   </p>
+   <p>
+    蔡恩-威廉森（鹈鹕），得票率5%。
+   </p>
+   <p>
+    其余得到选票的球员：尼基尔-亚历山大-沃克（鹈鹕）、贾勒特-卡尔弗（森林狼）、卡森-爱德华兹（凯尔特人）、达里厄斯-加兰（骑士）、八村垒（奇才）、凯尔登-约翰逊（马刺）、菲翁杜-卡本盖莱（快船）、罗密欧-朗福德（凯尔特人）、科迪-马丁（黄蜂）、埃里克-帕斯卡尔（勇士）、特里蒙特-沃特斯（凯尔特人）、迪伦-温德勒（骑士）。
+   </p>
+   <p>
+    往年这一问题的最高得票人分别为：凯文-杜兰特（2007）、布雷克-格里芬（2009）、约翰-沃尔（2010）、安东尼-戴维斯（2012）、维克托-奥拉迪波&amp;凯利-奥利尼克（2013）、贾巴里-帕克（2014）、贾利尔-奥卡福（2015）、布兰登-英格拉姆（2016）、朗佐-鲍尔&amp;杰森-塔特姆（2017）、温德尔-卡特（2018）。其中凯文-杜兰特得票率56%为最高。
+   </p>
+   <p>
+    值得一提的是，这是来自杜克大学的球员连续第六年赢得（或并列赢得）这一问题的最多选票（自2014年以来）。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

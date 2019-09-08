@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：我在客场表现更好，因为我喜欢让观众安静下来
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=ZCtvQGyfSS4&amp;t=1522s" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 09:19:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：我在客场表现更好，因为我喜欢让观众安静下来" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/72fdebde8f43109a7cbeedfa8465fb7d5902a23e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 开拓者球员达米安-利拉德在近日参加一档访谈节目时表示，他在客场的表现往往比主场更出色，因为他喜欢让主队的球迷安静下来。
+   </p>
+   <p>
+    “我认为我在客场的表现比主场更出色，这就是我的本性，”利拉德说道，“在客场的环境中，只有你的队友和教练是站在你这一边的，或许也会有一些我们的球迷，但你可能听不到他们的声音。”
+   </p>
+   <p>
+    “让主队的球迷安静下来，或者让他们垂头丧气，将球馆里的能量消耗殆尽，那种感觉和命中绝杀球一样棒。”利拉德补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

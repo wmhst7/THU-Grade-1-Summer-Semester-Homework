@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克：每个赛季都变得更好，这一直是我的目标
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CloseUp360/status/1158776989878300672?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 07:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克：每个赛季都变得更好，这一直是我的目标" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/2077c94a298d59f7c369be064fd15960ba163df8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 火箭的PJ-塔克今夏参加了巴黎时装周，期间他接受了媒体的采访。
+   </p>
+   <p>
+    “新赛季是我第14个赛季了，仍然还有很多进步的方法，就是每个赛季都变得更好，这一直都是我的目标，我仍然在为了球队变得更好，这非常重要。”塔克说道。
+   </p>
+   <p>
+    塔克接着说：“你可以做得很好，但是这可能会影响到你的球队，很多人不明白这一点，在NBA，为了赢球，你必须为了你的球队好，能够做到无私，为了球队牺牲自己，大家都这么说，只是说说很容易。”
+   </p>
+   <p>
+    “很少有人可以做到，并且更少有人能明白，但是为了能在这个联盟里变得非常好并且赢球，你必须要能做到，所以这是我一直会研究的事情，每个赛季努力进步，变得更好。”塔克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

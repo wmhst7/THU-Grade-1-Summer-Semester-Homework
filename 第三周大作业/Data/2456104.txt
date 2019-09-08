@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西蒙斯：恩比德的时尚品味被低估了，斯科特的衣品最佳
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SInow/status/1152224071867781120" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 13:39:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西蒙斯：恩比德的时尚品味被低估了，斯科特的衣品最佳" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/d573542747cdf850e666d3dbfde6a84b2ca0270f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 76人球员本-西蒙斯在今日参加《体育画报》举行的时尚活动时接受了媒体采访。
+   </p>
+   <p>
+    当被问及球队中谁的时尚品味最被低估时，西蒙斯说：“我会说是乔尔（恩比德），他总是喜欢给大家带来惊喜。”
+   </p>
+   <p>
+    当被问及球队中谁的衣品最好时，西蒙斯说：“我会说是迈克-斯科特，如果说上赛季的话，还有吉米（巴特勒）。”
+   </p>
+   <p>
+    谈到球队新援约什-理查德森，西蒙斯说：“我很高兴不用再防守他了，他在场上的跑动很积极，他在用正确的方式打球，他非常努力，在攻防两端都拼尽全力，他非常全面，我非常期待和他并肩作战。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

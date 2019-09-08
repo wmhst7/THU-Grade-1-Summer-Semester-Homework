@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：克莱确定将以5年1.9亿顶薪续约勇士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sfchronicle.com/warriors/article/Klay-Thompson-agrees-to-five-year-190-million-14062906.php" target="_blank">
+     旧金山纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 10:41:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：克莱确定将以5年1.9亿顶薪续约勇士" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/dc1357358f7e37213f78a94ced2fb1968f5a7512.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据《纽约时报》记者Marc Stein报道，在谈判过后，克莱-汤普森确定将以5年1.9亿顶薪续约勇士。
+   </p>
+   <p>
+    据旧金山纪事报报道，在当地时间周日自由市场开启之前，勇士已经为克莱提供了顶薪报价，克莱在当时就接受了这份报价。
+   </p>
+   <p>
+    克莱-汤普森是五届全明星球员，两次入选NBA最佳阵容，一次入选最佳防守阵容。2018-19赛季常规赛场均上场34分钟，得到21.5分3.8篮板2.4助攻；季后赛场均上场39分钟，得到20.7分4.1篮板2.1助攻。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

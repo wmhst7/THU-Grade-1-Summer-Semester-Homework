@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大部分尼克斯球员计划本月在纽约进行集训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IanBegley/status/1162521002452144130" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 08:33:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大部分尼克斯球员计划本月在纽约进行集训" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/7c4e14788fd144eabda0096b0fc136e994a5ca0e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据SNY记者Ian Begley的报道，大部分尼克斯球员计划在本月稍后的时候在纽约集训，进行5对5的对抗训练赛。
+   </p>
+   <p>
+    尼克斯很多球员上赛季开始前也进行了集训，今年夏天，尼克斯在自由球员市场上签下了马库斯-莫里斯、雷吉-布洛克、埃尔弗里德-佩顿、韦恩-艾灵顿、泰-吉布森、博比-波蒂斯和朱利叶斯-兰德尔。
+   </p>
+   <p>
+    尼克斯球员们几周前在洛杉矶一起训练，队中大部分球员都参加了这次训练，这样的集训对他们会很有帮助，因为他们中很多人之前都没有一起打过球。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  训练照常！利拉德发布图片展示自己生日的一天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz96VoMAwnL/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 16:17:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="训练照常！利拉德发布图片展示自己生日的一天" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/8003da1ac1f0c870807b681fe92df14b37330a04.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 开拓者球员达米安-利拉德出生于1990年7月15日，美国时间的今天是他的29岁生日。
+   </p>
+   <p>
+    今天利拉德在Instagram上晒出了几张照片和视频，照片展示了利拉德在生日期间仍然照常训练的情景，最后一段视频则记录了生日当晚利拉德与家人朋友的聚餐。
+   </p>
+   <p>
+    利拉德写道：“生日的一天，从开始到结束……期待好运！”
+   </p>
+   <p>
+    利拉德上赛季常规赛出战80场，场均出战35.5分钟，能得到25.8分4.6篮板6.9助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/9204ce090fde27160769b6ab6d14e681.jpg"/>
+   </p>
+   <p>
+    <img alt="GIF 2.8M" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/85d6c32defbe12899251ac16eb3d425f.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2.2M" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/f8f545514710bef4815c92e662170cf6.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

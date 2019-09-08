@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英格尔斯：热身赛中不会拿出全部实力，注重球队自身进步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PickandRollAU/status/1161518094268981249" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 15:47:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英格尔斯：热身赛中不会拿出全部实力，注重球队自身进步" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/d2903f56d26b5449b01d8f4c51a46b2c95fb15b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 澳大利亚男篮目前正在备战与加拿大男篮的热身赛，前锋乔-英格尔斯在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到参加热身赛的作用，英格尔斯说：“归根结底，我们会努力赢得比赛胜利，但更重要的意义在于球队自身的进步，以及为九月份的世界杯做好准备。我认为无论对手是谁，加拿大男篮或者其他完全不同的球队，你都不会在热身赛中拿出全部实力。但我们依旧需要踏上赛场面对对手，努力提升我们的比赛内容。”
+   </p>
+   <p>
+    澳大利亚男篮将在当地时间8月16日和8月17日与加拿大男篮进行两场热身赛。本届世界杯，澳大利亚与塞内加尔、立陶宛和加拿大同处H组，北京时间9月1日小组赛揭幕战，澳大利亚将在东莞对阵加拿大。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

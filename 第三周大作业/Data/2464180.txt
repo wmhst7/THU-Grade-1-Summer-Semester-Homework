@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金助教：不会因健康方面的考虑要求球员退出国家队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.denverpost.com/2019/08/10/denver-nuggets-in-fiba-world-cup/" target="_blank">
+     丹佛邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 13:58:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金助教：不会因健康方面的考虑要求球员退出国家队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/88c36c2a64a782e8a73859f9f4b568433968cf3b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 掘金助理教练Jordi Fernandez在近日接受采访时谈到了球队中多位球员即将代表国家队出战男篮世界杯，他表示掘金不会因健康方面的考虑要求球员退出国家队。
+   </p>
+   <p>
+    目前即将代表国家队出战世界杯的掘金球员包括球队核心、塞尔维亚中锋尼古拉-约基奇，西班牙男篮的胡安-埃尔南戈麦斯，美国男篮的梅森-普拉姆利和托里-克雷格。球队后卫贾马尔-默里因遭遇脚踝扭伤退出了加拿大男篮，但依旧参加了国家队训练营。
+   </p>
+   <p>
+    “这肯定是一个担忧，因为他们的健康，”Jordi Fernandez说道，“这是我们唯一担心的事情，但作为一支球队，我们支持我们的球员代表国家队出战，因为这对于他们而言意义巨大，这也是他们选择从事这项运动的原因之一。”
+   </p>
+   <p>
+    虽然参加男篮世界杯会增加身体消耗，但Jordi Fernandez表示他认为征战国际赛场对球员而言也有很多好处。
+   </p>
+   <p>
+    “如果能够获得稳定的出场时间，对于这些家伙们而言非常有价值，”Jordi Fernandez说道，“在国际赛场获得真正的出场时间，这与你在夏天训练得到的效果会大不相同。他们必须要执行比赛计划，面对在NBA中效力时不同的处境，这非常有价值。”
+   </p>
+   <p>
+    “我们都知道会有受伤风险，显而易见，我们希望每一位球员都保持健康，对于我们而言，最重要的还是新赛季的表现。但我们对于球员们为国征战的态度是完全支持的，无论他们想要做什么，球队都会支持他们。”Jordi Fernandez说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

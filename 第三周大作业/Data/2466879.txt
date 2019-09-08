@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  享受生活！詹姆斯社媒动态展示自家种植番茄和上脚球鞋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2109946927238913741?utm_source=ig_story_item_share&amp;igshid=r08v2vgm1tlh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 09:29:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="享受生活！詹姆斯社媒动态展示自家种植番茄和上脚球鞋" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/8adabb26485ab5187592d4e5cd126e87b458db30.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 湖人前锋勒布朗-詹姆斯今日连续更新Instagram Story展示其生活动态。
+   </p>
+   <p>
+    詹姆斯首先转发了自家厨师拍摄的视频动态，画面中出现了詹姆斯家花园内种植的番茄，厨师配文道：“@勒布朗-詹姆斯 你觉得我们有足够多的番茄来制作‘Taco Tuesday’所需的酱汁吗？”詹姆斯回复道：“我会说是的，哈！我的花园太让人惊叹了！”
+   </p>
+   <p>
+    随后，詹姆斯通过多个角度的自拍晒出他今日上脚的一双运动鞋，并为其中一段自拍附上了红酒的表情。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190819/09/86e56debe7f1819d001ab68ac3fd1d34.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190819/09/410ca358be38681e9bc72a08c2b52ed5.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190819/09/8ffab34f5cb5b529d894b1e875e645eb.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190819/09/ec5ca7b8cc1677743113955248bd9c87.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

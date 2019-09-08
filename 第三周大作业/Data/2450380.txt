@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔-科沃尔和爵士没有联系
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Tjonesonthenba/status/1146894775649333248" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 07:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔-科沃尔和爵士没有联系" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/036e05d95955533f95180388e421cd1dd8af69bc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 根据The Athletic记者Tony Jones的报道，多位消息人士透露，凯尔-科沃尔和爵士方面一直没有联系。
+   </p>
+   <p>
+    在之前的迈克-康利交易里，爵士将科沃尔交易到了灰熊，随后灰熊将科沃尔交易到了太阳，太阳计划裁掉科沃尔。
+   </p>
+   <p>
+    根据联盟的规定，科沃尔如果被太阳买断的话，那么他可以在新赛季再次签约爵士。
+   </p>
+   <p>
+    科沃尔今年38岁，2018-19赛季常规赛，他为骑士出场16次，为爵士出场54次，场均出场19.1分钟得到8.6分2.3篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

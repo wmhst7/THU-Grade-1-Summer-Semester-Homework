@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷文特-赖斯将不会接受太阳Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/suns-expected-to-sign-rayvonte-rice-to-exhibit-10-deal.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 03:51:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷文特-赖斯将不会接受太阳Exhibit 10合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/af467078e76944d24fc4f5fc67cf9c14bb4f559c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据报道，球员雷文特-赖斯将不会接受太阳Exhibit 10合同，并且对前往海外打球持有开放态度。
+   </p>
+   <p>
+    如果一份NBA合同里包括Exhibit 10附件，那么如果这名球员被裁，这允许一支NBA球队给这名球员最多5万美元的奖金，让他签约他们的NBA发展联盟附属球队。另外，如果一份NBA里合同有Exhibit 10附件，那么球队可以在常规赛首日之前将这名球员的合同转换为双向合同。
+   </p>
+   <p>
+    赖斯现年27岁，并代表太阳参加了今年的拉斯维加斯夏季联赛，总共代表太阳出战了3场比赛，场均上场19.7分钟，可以得到9.0分2.3个篮板1.3个抢断。
+   </p>
+   <p>
+    值得一提的是，北京时间7月8日，太阳对阵尼克斯的夏季联赛的比赛中，赖斯出场22分钟，13投6中，砍下19分2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  我们来了！坎特更新社媒晒出与沃克安吉合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EnesKanter/status/1151574120703975425" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 03:31:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="我们来了！坎特更新社媒晒出与沃克安吉合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/b1bd2101073a10937bb80272a465308bd1adfc1b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人为新援肯巴-沃克和埃内斯-坎特举行加盟记者发布会。
+   </p>
+   <p>
+    会后坎特更新推特，发布了一张与沃克、凯尔特人总经理丹尼-安吉的合照，并配文：“我们来了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断；坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/03/a05416eca1a5d931a4e41b330f54d7d2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿里扎：沃顿与球员的沟通非常坦诚，他能促进球队凝聚力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1079906/2019/07/17/take-it-from-two-who-know-luke-walton-will-be-a-better-coach-for-the-kings/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 10:44:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿里扎：沃顿与球员的沟通非常坦诚，他能促进球队凝聚力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/f4b125089f46a210a53d60af79fdad5c24f7e588.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，据The Athletic记者报道，特雷沃-阿里扎曾经试图设法为卢克-沃顿效力（上赛季，有流言称湖人曾试图通过交易得到阿里扎）。阿里扎曾是沃顿作为球员在湖人效力时的队友，他们一起夺得了2009年NBA总冠军。现在阿里扎加盟了沃顿执教的国王。阿里扎接受采访时提到了沃顿执教风格中的沟通问题。
+   </p>
+   <p>
+    阿里扎对记者说道：“沃顿与我们的沟通非常直接，非常坦诚。我们很容易接受他说的话，因为我们知道他没有恶意。他的话都是积极的，都是为了球队的进步着想。”
+   </p>
+   <p>
+    阿里扎称沃顿在球员时期就表明他会成为一个促进球队凝聚力文化的人。这也是阿里扎认为沃顿最终会成为一名教练的原因。
+   </p>
+   <p>
+    阿里扎表示：“就是他看待比赛和打球的方式，他不会以‘哦，我必须得到我的球权’的方式来看待比赛和打球。他考虑的更多是球队整体。”
+   </p>
+   <p>
+    卢克-沃顿在2003年NBA选秀中被湖人在次轮第3顺位选中。球员时期曾效力于湖人和骑士两支球队，2008-09赛季和2009-10赛季随湖人夺得总冠军。沃顿从2014年起在勇士担任助教2年，2014-15赛季作为助教随勇士夺得NBA总冠军。2016年4月30日，沃顿成为湖人主帅，2019年4月13日卸任。2019年4月16日，国王官方宣布沃顿成为球队新主帅。
+   </p>
+   <p>
+    2018-19赛季常规赛，特雷沃-阿里扎场均出场34分钟，得到12.5分5.4篮板3.7助攻1.32抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

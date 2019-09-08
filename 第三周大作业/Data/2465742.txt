@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯：失败不会阻挡我，失败让我知道自己必须变得更好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.wkyc.com/amp/article/news/special-reports/lebron-james-foundation/some-of-my-best-accomplishments-was-the-times-that-i-failed-lebron-james-explains-his-mindset-when-dealing-with-pressure-a" target="_blank">
+     wkyc
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 19:51:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯：失败不会阻挡我，失败让我知道自己必须变得更好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/c88bc27163fc05827ad228d5b751170d9b23c95e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 湖人前锋勒布朗-詹姆斯今日回到家乡阿克伦，在其投资建设的I Promise学校内接受当地媒体专访。
+   </p>
+   <p>
+    谈到如何教导青少应对压力的话题，詹姆斯说：“关键在于沟通，找到一个你可以倾诉的对象。与此同时，人生中最好的老师就是经验。这方面不存在书本知识，人们读过关于应对压力的书籍，你也可以向别人取经，但人生中最好的老师还是经验。你需要经历一些事情，承受失败，别让失败阻挡你。我最大的一些成就来自于我失败的时刻，因为我知道自己必须变得更好。我知道我别无选择，我是绝不会停下脚步的。”
+   </p>
+   <p>
+    “长久以来，我都身处充满压力的环境，”詹姆斯补充道，“我知道当自己面临重压时应该作何反应，应该如何应对。这一定会转化为胜果吗？不。但这会让我为任何情况做好准备，因为我已经历过无数遍类似的情形了。这充满挑战，因为我认为每个人都要经历险阻，历经磨难，每个人都会出现类似‘为什么是我？’，‘我做不到了’的想法。那些时刻要求你披荆斩棘，砥砺前行，因为我就是不相信上帝会给予你任何无法应对的难题。也许会很艰难，也许充满磨难，但他不会带来超出你承受范围的困境。一旦树立这种心态，我个人的信念就是要挺过去。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

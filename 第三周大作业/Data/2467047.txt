@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莱索尔：教练非常了解我，他知道我能为法国男篮带来什么
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/920987/mathias-lessort-i-was-not-worried-about-my-injury-vincent-collet-knows-my-strengths/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 21:46:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莱索尔：教练非常了解我，他知道我能为法国男篮带来什么" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/0d8af9f70cd78d5b40a6b68cef898feb4fb1ee8a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 法国男篮前锋马蒂亚斯-莱索尔在近日接受了媒体采访。
+   </p>
+   <p>
+    莱索尔在本月初遭遇了脚踝扭伤，曾短暂退出国家队训练营，他表示自己并不担心缺席了部分热身赛。
+   </p>
+   <p>
+    “我对此并不担心，因为我已经在资格赛阶段证明了自己，Vincent Collet教练非常了解我，他知道我能够为球队带来什么，他知道我的品质和优缺点。”莱索尔说道。
+   </p>
+   <p>
+    法国男篮在昨日的热身赛中以77-58击败阿根廷男篮，谈到球队的表现，莱索尔说：“这显然是源于团队的努力，我不认为我的表现全场最佳，因为我罚丢了所有罚球。但我对于球队的表现感到很满意，我们做了很多工作，每个人都为球队做出了贡献，这会帮助我们变得更加强大。”
+   </p>
+   <p>
+    法国男篮目前剩余名单：Andrew Albicy，尼古拉斯-巴图姆，南多-德科洛，埃文-富尼耶，鲁迪-戈贝尔，Louis Labeyrie，Paul Lacombe，马蒂亚斯-莱索尔，Theo Maledone，Amath M'Baye，弗朗克-尼利基纳，埃利-奥科博，樊尚-普瓦里耶，阿克塞尔-唐佩恩。
+   </p>
+   <p>
+    本届世界杯，法国与多米尼加、德国、约旦同处G组，小组赛将在深圳举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

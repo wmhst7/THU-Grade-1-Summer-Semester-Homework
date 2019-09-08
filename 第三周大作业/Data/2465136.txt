@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭球员洛杉矶集训并将在檀香山进行新赛季训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1134018/2019/08/12/giannis-zion-cp3-what-you-need-to-know-about-the-rockets-2019-20-schedule/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 07:20:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭球员洛杉矶集训并将在檀香山进行新赛季训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/54e95401ba148411c02f46f2e1445ee4a7f6c65a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 根据The Athletic记者Alykhan Bijani的报道，多位火箭球员在洛杉矶的加州大学洛杉矶分校集训。
+   </p>
+   <p>
+    参加集训的有拉塞尔-威斯布鲁克、詹姆斯-哈登、以赛亚-哈尔滕施泰因、本-麦克勒摩、沙莫里-庞兹、克里斯-克莱蒙斯、埃里克-戈登、加里-克拉克和丹纽尔-豪斯等球员。
+   </p>
+   <p>
+    目前PJ-塔克正在洛杉矶跟随美国男篮集训，克林特-卡佩拉在瑞士男篮国家队征战。
+   </p>
+   <p>
+    火箭新赛季将在檀香山进行训练营，随后还要前往日本打季前赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

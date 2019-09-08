@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊格达拉：佩林卡非常精明，但他对我一向很好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/showtimeforum/status/1146450639268012034?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 08:35:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊格达拉：佩林卡非常精明，但他对我一向很好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/ebb512805b72f123fb398f8a3dc4e0af69a0afd4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 灰熊球员安德烈-伊格达拉近日曾接受采访谈到他的前经纪人、湖人总经理罗勃-佩林卡（注：这段采访发生于他被交易前不久）。
+   </p>
+   <p>
+    “罗勃非常精明，罗勃会做好他的功课，”伊格达拉说，“罗勃也很精打细算。使用这些词汇描述他，你可能会觉得‘他要对我背后捅刀了，’但想要取得成功，你必须具备这些素质。我在球场上打球也是要好好算计的，搞清自己的打法。就像我观看片段，看到某个人正准备传球，我就会下手把球从他手中抢走。这也是算计的一部分。所以罗勃很会算计，他很精明，他了解对手，他也清楚自己的强项和弱项，他也很了解自己的客户。假如你观察一下他为球员们谈的合同，你会发现他为他们争取到了最大价值。他在合同方面为所有客户做到了极致。甚至他会让两支球队为此展开竞争，但那就是他必须要做的事。”
+   </p>
+   <p>
+    “我可以预见到当他进入不同的角色担任经理时，做事方式需要一些调整。他才干了两年，之前合作的魔术师（约翰逊）也是管理层菜鸟，所以他们需要摸索经验。”伊格达拉说道。
+   </p>
+   <p>
+    “罗勃是我的哥们，他对我总是很好，”伊格达拉说，“我妻子很喜欢他。我总是告诉她，‘你认为罗勃是地球上最好的人。’我们之前就是这么聊天的，不过时至今日我都对罗勃感觉很酷。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

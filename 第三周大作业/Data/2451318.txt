@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼古拉-武切维奇4年1亿合同细节为逐年递减
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1065130/2019/07/07/nikola-vucevic-terrence-ross-magic-contract-structures/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 23:24:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼古拉-武切维奇4年1亿合同细节为逐年递减" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/5e8c5f594a834405da909b113d8ddbf25d184d36.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 魔术今天官方宣布，球队已经与中锋尼古拉-武切维奇和前锋特伦斯-罗斯完成续约，随后The Athletic记者Josh Robbins撰文透露了这两位球员合同的细节情况。
+   </p>
+   <p>
+    根据之前报道，武切维奇与魔术的续约合同为4年1亿美元。而Josh Robbins表示，根据联盟消息源的说法，武切维奇的这份合同为年薪逐渐递减。其中，他在2019-20赛季的薪水为2800万美元，在2020-21赛季的薪水为2600万美元，而在2021-22赛季和2022-23赛季的薪水分别为2400万美元和2200万美元。
+   </p>
+   <p>
+    联盟消息源同时透露，罗斯新的4年5400万美元续约合同中基本薪水为5000万美元，另外400万美元为奖金。
+   </p>
+   <p>
+    其中，特伦斯-罗斯在2019-20赛季的薪水为1250万美元，2020-21赛季薪水为1350万美元，而在2021-22赛季和2022-23赛季的薪水分别为1250万美元和1150万美元。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

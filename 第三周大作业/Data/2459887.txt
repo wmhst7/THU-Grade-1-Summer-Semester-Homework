@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士新赛季球衣谍照曝光，多处细节轻微改动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sportslogosnet/status/1156233775237541892" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 01:15:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士新赛季球衣谍照曝光，多处细节轻微改动" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/87e1e70ae84c2479bf131b1ab26741534df12017.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 近日，勇士2019-20赛季新球衣谍照曝光，勇士新赛季将引入一套全新的黄色球衣，胸口印着“The Bay”字样的logo，象征着球队所在的湾区。这套队服将与此前印有“The Town”、“The City”字样的另外两件队服一起构建勇士的旧金山-奥克兰-湾区队服体系（见上方新闻配图）。
+   </p>
+   <p>
+    与此同时，新队服在logo上所采用的字体也有略微变化，所采用的新字体比原有字体略粗一些，海湾大桥的图像也更为精细（见下方新闻配图）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/01/f45bc113658c69c4a41e0141a0389094.png"/>
+   </p>
+   <p>
+    此外，海湾大桥的logo主体颜色将从黄色转换为蓝色（见下方新闻配图）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/01/63d4439154fc3161db169d56da655bef.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

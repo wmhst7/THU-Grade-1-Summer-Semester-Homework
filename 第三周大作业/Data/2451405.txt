@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：公牛通过签换交易得到托马什-萨托兰斯基
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bulls/news/release-title" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 08:06:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：公牛通过签换交易得到托马什-萨托兰斯基" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/ee02259e5aaef3611414a447ee60304aa595a611.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 公牛官方今日宣布，球队已经通过签换协议从奇才交易得到后卫托马什-萨托兰斯基。公牛为此向奇才付出了选秀权。
+   </p>
+   <p>
+    根据此前的报道，联盟消息人士透露，公牛将与萨托兰斯基签订一份3年价值3000万美元的合同，其中第三年预计不是全额保障合同。
+   </p>
+   <p>
+    消息人士透露，奇才也在这桩先签后换的交易中得到了一些选秀权：
+   </p>
+   <p>
+    要么是公牛的2020年次轮签，要么就是灰熊的2020年次轮签，以及互换2022年湖人次轮签或公牛/活塞2022年次轮签的权利。
+   </p>
+   <p>
+    除此之外，作为交易的一部分，公牛也取消了之前在奥托-波特交易中送给奇才的2023年次轮签的保护限制（31-36顺位保护）。
+   </p>
+   <p>
+    2018-19赛季，萨托兰斯基场均出场27.1分钟，得到8.9分3.5篮板5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

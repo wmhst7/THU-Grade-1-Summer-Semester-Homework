@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾斯廷-杰克逊：未来充满不确定性，对球队前景感到兴奋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mavs.com/heres-one-key-that-could-help-the-mavericks-be-all-they-can-be-in-2019-20/" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 15:00:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾斯廷-杰克逊：未来充满不确定性，对球队前景感到兴奋" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/d8c5129e202cba66252cfe66d78d7c5ceae3586f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 独行侠球员贾斯廷-杰克逊在今日参加活动接受媒体采访时谈到了球队的前景。
+   </p>
+   <p>
+    “我感到非常兴奋，”杰克逊说道，“显而易见，我们续约了很多家伙，也签下了一些新面孔，很高兴能够见证球队团结在一起，我对于球队下赛季的前景感到兴奋。未来肯定存在不确定性，但与此同时，我们的球队中有一些非常出色的球员。”
+   </p>
+   <p>
+    在经历了漫长的重建过程之后，独行侠确立了以卢卡-东契奇和克里斯塔普斯-波尔津吉斯为核心的阵容，并且不断围绕二人打造球队。
+   </p>
+   <p>
+    今年2月份，在涉及到哈里森-巴恩斯的交易中，杰克逊被国王送至独行侠，他在接受采访时表示希望自己能够成为球队未来规划的组成部分。
+   </p>
+   <p>
+    “我在一支没有赢过很多比赛的球队中步入联盟，上赛季我来到了这里，球队依旧没有打进季后赛，”杰克逊说道，“现在我们有机会为了目标而战，这会充满乐趣，我对此感到非常兴奋。大学期间我有机会在季后赛中打到很深入的阶段，进入联盟之后的前两个赛季，我成为了季后赛的旁观者，这种感觉很奇怪，这也为下赛季增添了更多的乐趣。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

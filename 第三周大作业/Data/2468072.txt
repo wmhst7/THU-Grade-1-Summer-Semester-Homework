@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：非常兴奋对阵澳大利亚，我能够感受到这里的能量
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1164472665542840320" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 18:12:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：非常兴奋对阵澳大利亚，我能够感受到这里的能量" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/0a21e550a3e71887acf7bb4ea43f0a777480f589.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 美国男篮与澳大利亚男篮的热身赛正在进行当中，美国男篮后卫多诺万-米切尔在赛前接受了媒体采访。
+   </p>
+   <p>
+    谈到来到澳大利亚参加热身赛的感受，米切尔说：“非常不可思议，自从我们来到这里，这里的球迷们向我们展现了巨大的热情。我能够感受到这里的气氛和能量，我们将在五万名观众面前打球，我感到非常兴奋。”
+   </p>
+   <p>
+    谈到自己与澳大利亚的渊源，米切尔说：“我在高中的时候就有来自澳大利亚的队友，乔纳-博尔登，现在我在犹他爵士队与乔-英格尔斯并肩作战，还有丹特（埃克萨姆），所以我和澳大利亚颇有渊源，我非常喜欢这些家伙，他们教会了我很多东西。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

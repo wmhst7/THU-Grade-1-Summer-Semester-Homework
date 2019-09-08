@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰斯-托马斯是最可能得到尼克斯15人大名单最后名额的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NYPost_Berman/status/1146214948592345091" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 08:42:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰斯-托马斯是最可能得到尼克斯15人大名单最后名额的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/ed1abcbfefeadb58bae55398335b7d87f7d7a565.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据《纽约邮报》记者Marc Berman的报道，目前尼克斯15人大名单里还有1个名额，消息人士透露，随着卢克-科内特签约公牛，兰斯-托马斯是最可能得到这最后一个名额的球员。
+   </p>
+   <p>
+    尼克斯之前已经裁掉了托马斯，尼克斯方面有兴趣在托马斯成为自由球员后再签回他，尼克斯很看重托马斯的领导力和职业素养，并且球队的年轻球员非常尊重他。
+   </p>
+   <p>
+    2018-19赛季常规赛，托马斯场均出战17分钟，可以拿到4.5分2.5篮板0.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

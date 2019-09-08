@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  开拓者GM：努尔基奇在明年2月前都不会复出
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MikeSGallagher/status/1147596071733850112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 14:20:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="开拓者GM：努尔基奇在明年2月前都不会复出" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/82e4568dcd9f6d0edbe6bb09ea1c505fa1070e97.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 开拓者总经理尼尔-奥尔希今天在采访中表示，球队中锋优素福-努尔基奇在明年2月前都不会复出。
+   </p>
+   <p>
+    努尔基奇在今年3月份与篮网的比赛中，遭遇左腿胫骨和腓骨开放性骨折，随后接受手术，赛季报销。
+   </p>
+   <p>
+    18-19赛季常规赛，努尔基奇场均上场27.4分钟，能得到15.6分10.4篮板3.2助攻1.4盖帽。另外在1月2日与国王的比赛里，努尔基奇曾砍下过24分23篮板7助攻5抢断和5盖帽的恐怖数据。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

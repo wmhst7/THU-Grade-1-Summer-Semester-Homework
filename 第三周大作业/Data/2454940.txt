@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里谈与杜兰特一起打球：这巩固了我的性格
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/warriors-news-stephen-curry-says-playing-with-kevin-durant-cemented-his-personality/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:29:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里谈与杜兰特一起打球：这巩固了我的性格" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/33caa62299477fd97a31d50d5730460a748fca89.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 据The Athletic记者Marcus Thompson报道，斯蒂芬-库里认为与凯文-杜兰特一起打球的三个赛季巩固了他的性格。
+   </p>
+   <p>
+    库里说：“那巩固了我，巩固了我的性格，我的世界观。这让我在达到过去三年里我们所达到的高度之后继续前行。在批评，关注，比赛强度以及比赛水准方面，没多少人拥有我们曾有过的经历。”
+   </p>
+   <p>
+    “这进一步巩固了我这个人的基础。我认识到人有很多不同的方式，我必须尊重每个人不同的行事方式，思维模式，思考问题的角度，动力以及激励因素。但我对我的这些方面感到舒适。”
+   </p>
+   <p>
+    此前，篮网与勇士完成先签后换的交易，篮网得到杜兰特和一个2020年的受保护首轮签，送出丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄斯。杜兰特的新合同预计为4年1.64亿美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。凯文-杜兰特场均上场34.6分钟，得到26分6.4篮板5.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：开拓者为杰克-莱曼提供资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1143568259691765761" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 01:15:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：开拓者为杰克-莱曼提供资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/bcccb2ee3246ff1cb68b475d2ed117354f812af4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，开拓者为前锋杰克-莱曼提供了一份资质报价，后者将成为受限制自由球员。
+   </p>
+   <p>
+    这意味着，如果有其他球队为莱曼提供合同报价，开拓者有权进行匹配。
+   </p>
+   <p>
+    2018-19赛季常规赛，莱曼场均上场18.7分钟，得到7.6分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

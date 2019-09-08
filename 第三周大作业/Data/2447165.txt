@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  秀恩爱！库里妻子更新社媒晒出库里帅照：你是我们的最爱
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzH7a61Hpkj/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 10:59:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="秀恩爱！库里妻子更新社媒晒出库里帅照：你是我们的最爱" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/a7562f856ef05e09991d6d3c4334f46b7118cc81.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 今日，勇士后卫斯蒂芬-库里的妻子阿耶莎更新了个人社交媒体Instagram晒出一张库里个人帅照（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“这是一张坚韧、活力、信念、努力、同情、敬畏上帝却无所畏惧任何困境的脸。当我看到这张照片时，我看到了我们整个生命中那双美丽的眼睛。与自然抗争，疲惫不堪，但仍以最好的姿态出现。准备好工作，准备好发挥出自己影响力。我和你的儿子、女儿都为你感到骄傲，我的宝贝。你是我认识的工作最努力的人，但你从来没有抱怨过。你是我们的最爱，我们爱你!感谢上帝给我这个屋顶好让我大喊大叫表达对你的爱。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均出场33.8分钟，可以得到27.3分5.3篮板5.2助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

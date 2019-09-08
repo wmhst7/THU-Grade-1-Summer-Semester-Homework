@@ -1,0 +1,206 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新鲜出炉！各大球队公布2019-20赛季部分季前赛赛程
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nuggets/news/denver-nuggets-announce-2019-preseason-schedule-072319" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 11:03:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新鲜出炉！各大球队公布2019-20赛季部分季前赛赛程" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/4634e87e30c01f172bd8549dc6a0657e4e352438.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 近日，NBA各大球队官方公布了2019-20赛季部分季前赛赛程。
+   </p>
+   <p>
+    具体赛程如下（后者为主场）：
+   </p>
+   <p>
+    <strong>
+     北京时间10月5日
+    </strong>
+   </p>
+   <p>
+    SESI/Franca（巴西联赛俱乐部） vs 篮网（上午7点30分）
+   </p>
+   <p>
+    <strong>
+     北京时间10月6日
+    </strong>
+   </p>
+   <p>
+    湖人vs勇士（上午8点30分）
+   </p>
+   <p>
+    魔术vs马刺（上午8点30分）
+   </p>
+   <p>
+    <strong>
+     北京时间10月8日
+    </strong>
+   </p>
+   <p>
+    魔术vs活塞（上午7点）
+   </p>
+   <p>
+    雄鹿vs公牛（上午8点）
+   </p>
+   <p>
+    <strong>
+     北京时间10月9日
+    </strong>
+   </p>
+   <p>
+    马刺vs热火（上午7点30分）
+   </p>
+   <p>
+    掘金vs开拓者（上午10点）
+   </p>
+   <p>
+    <strong>
+     北京时间10月10日
+    </strong>
+   </p>
+   <p>
+    魔术vs老鹰（上午7点30分）
+   </p>
+   <p>
+    热火vs黄蜂（上午7点30分）
+   </p>
+   <p>
+    爵士vs雄鹿（上午8点）
+   </p>
+   <p>
+    鹈鹕vs芝加哥（上午8点）
+   </p>
+   <p>
+    篮网vs湖人（NBA中国赛上海站，下午7点30分）
+   </p>
+   <p>
+    <strong>
+     北京时间10月11日
+    </strong>
+   </p>
+   <p>
+    掘金vs快船（上午10点）
+   </p>
+   <p>
+    <strong>
+     北京时间10月12日
+    </strong>
+   </p>
+   <p>
+    凯尔特人vs魔术（上午7点）
+   </p>
+   <p>
+    公牛vs步行者（上午8点）
+   </p>
+   <p>
+    雄鹿vs独行侠（上午8点30分）
+   </p>
+   <p>
+    篮网vs湖人（NBA中国赛深圳站，下午7点30分）
+   </p>
+   <p>
+    <strong>
+     北京时间10月14日
+    </strong>
+   </p>
+   <p>
+    鹈鹕vs马刺（凌晨4点）
+   </p>
+   <p>
+    76人vs魔术（上午6点）
+   </p>
+   <p>
+    公牛vs猛龙（上午7点）
+   </p>
+   <p>
+    雄鹿vs奇才（上午7点）
+   </p>
+   <p>
+    <strong>
+     北京时间10月15日
+    </strong>
+   </p>
+   <p>
+    老鹰vs热火（上午7点30分）
+   </p>
+   <p>
+    掘金vs太阳（上午10点）
+   </p>
+   <p>
+    勇士vs湖人（上午10点30分）
+   </p>
+   <p>
+    <strong>
+     北京时间10月17日
+    </strong>
+   </p>
+   <p>
+    马刺vs火箭（上午8点）
+   </p>
+   <p>
+    勇士vs湖人（上午10点30分）
+   </p>
+   <p>
+    <strong>
+     北京时间10月18日
+    </strong>
+   </p>
+   <p>
+    热火vs魔术（上午7点）
+   </p>
+   <p>
+    森林狼vs雄鹿（上午8点）
+   </p>
+   <p>
+    老鹰vs公牛（上午8点）
+   </p>
+   <p>
+    开拓者vs掘金（上午9点）
+   </p>
+   <p>
+    <strong>
+     北京时间10月19日
+    </strong>
+   </p>
+   <p>
+    猛龙vs篮网（上午7点30分）
+   </p>
+   <p>
+    火箭vs热火（上午8点）
+   </p>
+   <p>
+    灰熊vs马刺（上午8点30分）
+   </p>
+   <p>
+    湖人vs勇士（上午10点30分）
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

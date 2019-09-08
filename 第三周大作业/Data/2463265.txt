@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆官方祝加里纳利31岁生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/okcthunder/status/1159453229182271488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 07:19:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆官方祝加里纳利31岁生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/3a89d0f98d32d867c6ab2cdeaf2b5e57d5a8bf72.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 俄克拉荷马雷霆队官方今天在推特上传了一张球队前锋达尼罗-加里纳利的照片（见新闻配图）。
+   </p>
+   <p>
+    “和我们一起祝@达尼罗-加里纳利生日快乐吧！”雷霆官方写道。
+   </p>
+   <p>
+    加里纳利出生于1988年8月8日，当地时间今天是他31岁的生日。本赛季休赛期，加里纳利在一笔涉及保罗-乔治的交易中被快船交易至雷霆。
+   </p>
+   <p>
+    2018-19赛季常规赛，加里纳利场均出场30.3分钟，得到19.8分6.1篮板2.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

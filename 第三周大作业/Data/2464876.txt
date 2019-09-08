@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰新赛季赛程：揭幕战挑战活塞，马丁路德金日迎战猛龙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.peachtreehoops.com/2019/8/12/20752157/atlanta-hawks-regular-season-schedule-2019-2020-season-details-calendar-national-tv-mlk-day" target="_blank">
+     Peachtree Hoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 12:01:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰新赛季赛程：揭幕战挑战活塞，马丁路德金日迎战猛龙" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/197ba0ab7196e6f028a981823404212a7ac9452c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 今日，NBA官方公布了老鹰2019-20赛季常规赛的完整赛程。揭幕战将于北京时间10月25日客场挑战活塞，常规赛收官战则将于北京时间4月16日主场迎战骑士。
+   </p>
+   <p>
+    老鹰新赛季共有14场背靠背的比赛，其中包括5场连客背靠背。共有2场将由TNT全美直播的比赛（11月1日和12月11日，均为对战热火的比赛）和7场将由NBATV直播的比赛。
+   </p>
+   <p>
+    重点比赛：（均为北京时间）
+   </p>
+   <p>
+    10月27日主场迎战魔术（主场首战）；
+   </p>
+   <p>
+    11月17日客场挑战快船；
+   </p>
+   <p>
+    11月18日客场挑战湖人；
+   </p>
+   <p>
+    1月21日主场迎战猛龙（马丁路德金日）；
+   </p>
+   <p>
+    2月2日客场挑战独行侠。
+   </p>
+   <p>
+    以下是老鹰的新赛季完整赛程：
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5xwx6qko1j20iq0o4jvb.jpg" style="opacity: 0.9;"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

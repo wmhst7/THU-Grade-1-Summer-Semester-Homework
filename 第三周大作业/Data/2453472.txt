@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯：西蒙斯的跳投看起来很棒，他对自己的投篮很自信
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/sixers-news-tobias-harris-excited-for-bigger-role-with-philly/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 17:25:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯：西蒙斯的跳投看起来很棒，他对自己的投篮很自信" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/7f39f11f4519e7208db7377781f8fd1fac6cef4f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 76人球员托拜厄斯-哈里斯在今日参加球队新闻发布会时接受了媒体采访。
+   </p>
+   <p>
+    “我对于未来充满期待，”哈里斯说道，“我知道当我去年被交易到这样一支天赋水准完全不同的球队时，显而易见，你不得不为球队做出牺牲。但我知道我的能力，我知道我能够在每一年都取得进步。”
+   </p>
+   <p>
+    “我会在下赛季充满能量，提升自己的竞技水准，展现我更多的比赛内容。我将在不同的情况下获得更多的持球机会，我已经为此做好了准备，我整个夏天都在努力训练，确保自己能够做好准备。”
+   </p>
+   <p>
+    哈里斯在过去几天和队友本-西蒙斯在洛杉矶一同训练，他透露西蒙斯已经开始在训练中出手并且命中三分球。
+   </p>
+   <p>
+    “当我故意去激他时，他连续命中了两个三分球，”哈里斯笑着说道，“他取得了巨大的进步，他的跳投看起来真的很棒，他对自己的出手非常有信心。我一直在告诉他，即便是在训练中，你也需要自信地出手投篮，不要因为投丢投篮而气馁，这就是你建立投篮自信的过程。”
+   </p>
+   <p>
+    “看到他在训练中的努力程度，这是一个很好的迹象，他看起来真的很棒，他将在下赛季打出出色的表现。我们一直在谈论球队以及下赛季将会多么有趣，我认为在一同训练的过程中，我们在逐渐形成化学反应，就是积极地进行沟通，相互支持，这非常重要。”哈里斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：辛达里厄斯-桑韦尔一年合同加盟骑士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1157787180376346624" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 06:57:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：辛达里厄斯-桑韦尔一年合同加盟骑士" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/6f4ac279ee6f2a3b4b71be47c64b3b6182b35c60.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 据The Athletic记者Shams Charania今天的报道，消息人士透露，自由球员辛达里厄斯-桑韦尔已经与骑士达成一份一年合同协议。
+   </p>
+   <p>
+    随后，根据《克利夫兰老实人报》记者Chris Fedor报道，骑士与桑韦尔达成的是一份无保障合同。
+   </p>
+   <p>
+    桑韦尔是2017年的次轮第48顺位新秀，职业生涯前2个赛季效力于快船。根据此前的报道，快船在今年7月初裁掉了桑韦尔。
+   </p>
+   <p>
+    2018-19赛季常规赛，桑韦尔代表快船出战64场，场均出战4.9分钟可以拿到1分0.7篮板。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

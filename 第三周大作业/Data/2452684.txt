@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：和詹眉的交流非常积极，库兹马将是球队核心之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakeshowworld/status/1149144939919364096?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 11:33:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：和詹眉的交流非常积极，库兹马将是球队核心之一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/4d8c6b251d7bb89071581ac812f779efb9e4a3bc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 湖人主帅弗兰克-沃格尔今日在夏季联赛现场接受采访谈到了队内的几名主要球员。
+   </p>
+   <p>
+    谈到自己目前为止与勒布朗-詹姆斯和安东尼-戴维斯的交流情况，沃格尔说：“非常积极。我刚接过帅位时就很明确地得到了队内最佳球员勒布朗的支持，自从安东尼到来，感觉也是一样的。我们对于球队的未来打法、球场上的追求目标都拥有一致意见，我们互相尊重，我等不及开始了。”
+   </p>
+   <p>
+    关于球队前锋凯尔-库兹马，沃格尔说道：“所有关于凯尔-库兹马的一切都让我感到兴奋。他作为一名如此年轻的球员就具备的进攻技巧真的令人激动，他将是我们球队的主要核心之一。他是一个进攻多面手，既能投三分，也能在低位接球终结，通过传球执行战术，他在努力提升防守，他有能力做好防守。他将成为我们的一员大将，而且他的态度是完美的10分，他是我遇到过的最接受执教的球员之一。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

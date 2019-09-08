@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：快船正式与科怀-伦纳德签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LAClippers/status/1148993141912961024" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 00:39:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：快船正式与科怀-伦纳德签约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/0e3667871b9e5f69986635a99f21000831367aa5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日快船官方宣布，球队正式与科怀-伦纳德签约。
+   </p>
+   <p>
+    根据此前的报道，伦纳德与快船签下一份3年1.03亿美元的合同，这份合同比之前报道的4年合同少了1年，其中第三年为球员选项。在签下了这份2+1合同后，伦纳德和保罗-乔治均可在2021年执行球员选项，涉水自由市场。到2021年自由市场，届时伦纳德将会拥有10年的NBA征战经验，符合现有劳资协议规定，可以签下一份薪水更高的顶薪合同（顶薪为工资帽35%）。
+   </p>
+   <p>
+    2018-19赛季，在猛龙的唯一一个赛季，伦纳德率队夺冠，并荣膺总决赛MVP。常规赛60场比赛，他场均能够得到26.6分7.3篮板3.3助攻。季后赛24场比赛，伦纳德场均能够得到30.5分9.1篮板3.9助攻，三项投篮命中率分别为49%、37.9%和88.4%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

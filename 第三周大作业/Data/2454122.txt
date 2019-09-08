@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特纳晒与女儿合照，伊格达拉评论：别玩手机，注意点
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thekidet/status/1150623555039588352" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 13:40:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特纳晒与女儿合照，伊格达拉评论：别玩手机，注意点" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/64b152d0490cc4859c29a7932d62d26e11d210c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日老鹰球员埃文-特纳更新了自己的个人推特动态，晒出了自己与女儿的合照（见新闻配图）。
+   </p>
+   <p>
+    “#新头像 ”特纳写道。
+   </p>
+   <p>
+    随后灰熊球员安德烈-伊格达拉转发了该条推特，并评论道：“别玩手机，注意点。”
+   </p>
+   <p>
+    此前特纳曾与伊格达拉在2010-2012年期间在76人有过两个赛季的合作经历。此前开拓者将特纳交易至老鹰，而勇士将伊格达拉交易至灰熊。
+   </p>
+   <p>
+    2018-19赛季常规赛，特纳场均上场22.0分钟，得到6.8分4.5篮板3.9助攻，伊格达拉场均上场23.2分钟，得到5.7分3.7篮板3.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

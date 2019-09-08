@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：卡里斯-勒韦尔3年5250万续约篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1165819628372791296" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 10:55:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：卡里斯-勒韦尔3年5250万续约篮网" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/481dc0208c9803201ae911c18f59b8892df21d77.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，篮网后卫卡里斯-勒韦尔与篮网达成了3年5250万的续约协议。
+   </p>
+   <p>
+    根据后续报道，勒韦尔的续约合同将于2020-21赛季开始生效，其中该合同第一年的薪水为1620万美金，此后两年的薪水分别为1750万美金和1880万美金。
+   </p>
+   <p>
+    勒韦尔续约后发推：“以这样的方式开启25岁，没有比这更好的感觉了！布鲁克林，等不及接下来发生的事情了！”
+   </p>
+   <p>
+    勒韦尔出生于1994年8月25日，刚刚度过了他的25岁生日。
+   </p>
+   <p>
+    勒韦尔作为2016年进入联盟的新秀，本赛季可以进行新秀提前续约，他的新合同将从2020-21赛季开始。
+   </p>
+   <p>
+    2018-19赛季常规赛，勒韦尔场均上场26.6分钟，得到13.7分3.8篮板3.9助攻1.05抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

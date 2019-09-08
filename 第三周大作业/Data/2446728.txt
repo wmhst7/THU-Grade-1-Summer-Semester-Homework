@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗斯单场50分表现获2018-19赛季高光时刻奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 10:15:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗斯单场50分表现获2018-19赛季高光时刻奖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/fa4dc4df3959475a9a4d4f1469aef35b5733129f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA颁奖大会今日开始，森林狼球员德里克-罗斯单场50分表现获2018-19赛季高光时刻奖。
+   </p>
+   <p>
+    2018年11月1日，森林狼在主场以128-125战胜爵士，本场比赛罗斯砍下了职业生涯新高的50分，赛后罗斯激动落泪
+   </p>
+   <p>
+    本场比赛，罗斯上场41分钟，31投19中，得到50分4篮板6助攻2抢断1盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

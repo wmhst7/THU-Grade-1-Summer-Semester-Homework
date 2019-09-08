@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人先签后换，热火得到巴特勒，合同为4年1.42亿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145498443781214208" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 09:05:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人先签后换，热火得到巴特勒，合同为4年1.42亿" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/ad73720fbb7f9df6bc3221c548865ed681c954c7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，76人签约吉米-巴特勒，然后将其送至热火。吉米-巴特勒将签下4年1.42亿的顶薪。
+   </p>
+   <p>
+    据The Athletic记者Shams Charania报道，热火在这笔交易中送出了约什-理查德森。
+   </p>
+   <p>
+    随后，据ESPN记者Bobby Marks报道，热火需要在合同上更有创造性，通过先签后换得到巴特勒，热火将会触发联盟硬工资帽1.38亿美元，球队的工资将会远超这个上限，因此，热火需要有更多的球员参与到这笔交易。
+   </p>
+   <p>
+    据NBA记者Kevin O’Connor报道，在巴特勒被交易到76人之前，热火就曾用约什-理查德森、2019年首轮选秀权和其他筹码报价过森林狼。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断，约什-理查德森为热火出战73场，场均34.8分钟得到16.6分4.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王没有排除与库佛斯续约的可能性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/kings/nba-free-agency-kosta-koufos-reflects-kings-tenure-his-future" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 08:12:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王没有排除与库佛斯续约的可能性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/c6e5a6d4239a16a9f437d91177b041625738bfce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据NBC体育国王记者James Ham的报道，一位了解情况的消息人士透露，国王还没有关闭续约科斯塔-库佛斯的大门。
+   </p>
+   <p>
+    库佛斯合同今夏到期，届时他将成为一名完全自由球员。
+   </p>
+   <p>
+    国王和库佛斯接下来会让市场决定库佛斯的价值，如果双方可以达成一份合理的协议的话，那么双方会进行交流。
+   </p>
+   <p>
+    2018-19赛季常规赛，库佛斯场均出战12分钟，可以拿到3.7分4.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

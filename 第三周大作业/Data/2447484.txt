@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  华丽转身！帕克晒所收购的篮球球队法甲夺冠瞬间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzKvvJ0lvuz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 09:40:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="华丽转身！帕克晒所收购的篮球球队法甲夺冠瞬间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/0d0d53d6acd6a74697cdb178735e43805178eff6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，前NBA球员托尼-帕克在个人Instagram上晒出了自己所收购的球队艾斯维尔篮球俱乐部夺得法国篮球甲级联赛冠军的精彩瞬间（见新闻配图）。
+   </p>
+   <p>
+    “我们是法甲冠军！”帕克写道。
+   </p>
+   <p>
+    帕克在2009年就入股艾斯维尔队，并曾在2011年NBA停摆期间，以股东兼球员的身份为艾斯维尔队效力。2014年，帕克买下球队的大部分股份，成为球队最大的股东，并担任总裁。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

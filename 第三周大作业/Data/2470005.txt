@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  表忠心！坎特更新社媒晒出身着凯尔特人球衣的个人照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1sQG7JFEfH/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 11:44:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="表忠心！坎特更新社媒晒出身着凯尔特人球衣的个人照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/938d2076000b8c9ef05a4a2a4a3ee8f11b02a3f9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，埃内斯-坎特更新了个人的社交媒体Instagram晒出自己身穿新东家凯尔特人球衣的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“一个三叶草表情。”
+   </p>
+   <p>
+    根据此前报道，坎特与凯尔特人达成了2年1000万美元的协议，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特代表开拓者出场了23场比赛，场均上场22.3分钟，得到13.1分8.6篮板1.4助攻；季后赛场均出场28.8分钟，得到11.4分9.6篮板1.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/11/7fe018735cbcdf2911e302de73bdbe18.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：jackhy1004)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

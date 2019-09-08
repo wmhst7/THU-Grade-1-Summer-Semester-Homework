@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆与快船猛龙谈乔治交易时，威少并不在交易商讨名单中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1065566/2019/07/07/with-paul-george-gone-are-russell-westbrooks-days-numbered-in-oklahoma-city/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 23:32:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆与快船猛龙谈乔治交易时，威少并不在交易商讨名单中" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/3b7f1828da8cc88ae3ab920108e47a19e763e7a0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 The Athletic记者Sam Amick和Brandon Dawson联合发表了长文，报道了在保罗-乔治被交易到快船后，拉塞尔-威斯布鲁克是否会继续留在雷霆。
+   </p>
+   <p>
+    威斯布鲁克与其经纪人Thad Foucher正和雷霆总经理萨姆-普莱斯蒂积极讨论下一步计划，这其中，包括在今年夏天将威斯布鲁克交易的可能性。消息源透露，活塞和热火会是有可能追求威少的其中两只球队。
+   </p>
+   <p>
+    而在此前雷霆与快船和猛龙商讨乔治的交易时，根据消息源透露，威斯布鲁克并未被列在交易商讨名单中。此外，由于威斯布鲁克的合同将在2023年夏天到期（2022年为球员选项），因此雷霆并不会急着马上交易他。威斯布鲁克为雷霆效力了11个赛季，分开会是一件痛苦的事，即使双方最后都认为这是更好的选择。
+   </p>
+   <p>
+    威斯布鲁克2017年9月以5年2.05亿美元提前续约，2023年他的合同将到期，2022-23赛季为球员选项，他目前剩余的合同为4年约1.7亿美元。
+   </p>
+   <p>
+    威斯布鲁克2008年首轮第4顺位被雷霆选中，职业生涯一直效力于雷霆，生涯至今，他常规赛场均出场34.5分钟，得到23分7篮板8.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

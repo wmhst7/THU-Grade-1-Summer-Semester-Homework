@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]颁奖瞬间！魔术师约翰逊和拉里-伯德获得终生成就奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 13:20:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/1883881851/HAw0ohDoi?from=page_1006061883881851_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment" onclick="openVideo('https://weibo.com/1883881851/HAw0ohDoi?from=page_1006061883881851_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment');return false;" target="_blank">
+    <img alt="[视频]颁奖瞬间！魔术师约翰逊和拉里-伯德获得终生成就奖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/e08a7a684af567fac5622ce2b5d665bf3c77d209.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <a href="https://weibo.com/1883881851/HAw0ohDoi?from=page_1006061883881851_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment" target="_blank">
+     视频: [视频]颁奖瞬间！魔术师约翰逊和拉里-伯德获得终生成就奖»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

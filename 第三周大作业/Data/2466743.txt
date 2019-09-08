@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士更新官方社媒庆祝新秀斯马伊拉吉奇生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1T7UzDJja_/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 00:41:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士更新官方社媒庆祝新秀斯马伊拉吉奇生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/0a2a044306752ebda63bd0ec284a01f1cac17580.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 今日，金州勇士队更新球队官方媒体Instagram晒出新秀阿伦-斯马伊拉吉奇照片（见新闻配图），祝贺其生日快乐。
+   </p>
+   <p>
+    阿伦-斯马伊拉吉奇是今年的39号秀，和勇士在今年夏天签订了一份4年613万美元的合同。
+   </p>
+   <p>
+    斯马伊拉吉奇上赛季效力于勇士发展联盟球队，此前他还曾在塞尔维亚U19联赛当中凭借着场均21.7分11.1篮板的出色表现获得过MVP（2017-18赛季）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/00/49014263da37adf4356411b81b29f4fd.jpg"/>
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

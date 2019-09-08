@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  土耳其豪门加拉塔萨雷为杰里安-格兰特开出报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nikosvarlas/status/1158047631878381569" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 00:48:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="土耳其豪门加拉塔萨雷为杰里安-格兰特开出报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/637a4bdd1b9613830af32c0b4d31f225da0dd1cf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 据记者报道，土耳其豪门球队加拉塔萨雷有意引进自由球员杰里安-格兰特。
+   </p>
+   <p>
+    杰里安-格兰特可能会选择在伊斯坦布尔与大学队友Zach Auguste重聚。加拉塔萨雷现在必须在格兰特和另一个有着丰富NBA经验的后卫之间做出选择。
+   </p>
+   <p>
+    2018-19赛季常规赛，格兰特场均出战15.7分钟，可以拿到4.2分2.6助攻1.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  土耳其后卫贝尔克-尤格路因伤将缺席世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/924775/turkeys-berk-ugurlu-out-of-world-cup/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 16:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="土耳其后卫贝尔克-尤格路因伤将缺席世界杯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/b4a8def3865826892460501f0288061f2336bb14.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 土耳其篮协今日宣布，球队后卫贝尔克-尤格路因伤将缺席今年的世界杯。
+   </p>
+   <p>
+    目前仍然在土耳其阵中的球员有13人，具体名单如下：多古斯-巴尔贝、色塔克-桑利、切迪-奥斯曼、富尔坎-科尔克马兹、赛米-埃尔登、詹姆斯-摩特根-比尔森、伊伊特-阿尔斯兰、梅利赫-马赫穆托格鲁、斯科特-威尔贝金（归化）、博格拉汗-通杰尔、贝尔坎-杜尔马兹、埃格-阿拉尔和艾森-伊利亚索瓦。
+   </p>
+   <p>
+    在今年的世界杯上，美国与日本、土耳其和捷克同在E组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

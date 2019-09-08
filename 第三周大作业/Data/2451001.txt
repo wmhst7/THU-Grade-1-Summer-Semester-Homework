@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  昨日中午伦纳德团队要求湖人推迟浓眉交易最晚至下周一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ramonashelburne/status/1147550499219972097?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 01:11:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="昨日中午伦纳德团队要求湖人推迟浓眉交易最晚至下周一" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/9b0c148331551deda329b5f5a32b8481414218cc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 NBA记者Ramona Shelburne今日撰文详情报道了科怀-伦纳德阵营曾在宣布将与快船签约的当天对于他的追逐者之一湖人提出的要求。部分报道内容如下：
+   </p>
+   <p>
+    当伦纳德及其团队会面湖人和猛龙时，快船已经和雷霆开启了涉及保罗-乔治重磅交易的谈判。
+   </p>
+   <p>
+    据熟悉情况的消息人士透露，伦纳德的团队本质上就是在争取时间，直到当地太平洋时间周五晚9点（北京时间7月6日中午12点），他们仍在要求湖人将安东尼-戴维斯交易的正式执行时间推迟至“最晚周日（北京时间下周一）”。伦纳德的团队对于这次推迟请求没有给出任何理由，仅仅表示如果湖人方面仍希望伦纳德考虑加盟，他们就应该照做。
+   </p>
+   <p>
+    事已至此，湖人、快船和猛龙都已经专注于等待，准备做一切必要的努力得到伦纳德。然而，随着NBA签约冻结期将在今日结束，任何的推迟都将对湖人为保留薪资空间所做的一系列交易制造问题。
+   </p>
+   <p>
+    根据此前的报道，假如伦纳德在当地时间周六0点（冻结期结束后）仍未做出决定，鹈鹕、老鹰和奇才打算配合湖人，延迟达成戴维斯的交易。因为湖人腾出顶薪空间的前提是先与伦纳德达成合同，再完成交易；反之，则不会拥有顶薪空间，无法签下伦纳德。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

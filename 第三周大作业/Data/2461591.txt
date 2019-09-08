@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼斯-史密斯：在德克身边学到很多，我见证了伟大
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/knicks-news-dennis-smith-jr-recalls-his-two-seasons-with-mavs-dirk-nowitzki-amazing/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 14:35:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼斯-史密斯：在德克身边学到很多，我见证了伟大" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/35a542e0000753203e54589083c811f9cedd74ac.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 近日，尼克斯后卫丹尼斯-史密斯在接受记者采访时谈到了前队友，前NBA球员德克-诺维茨基。
+   </p>
+   <p>
+    在谈到与诺维茨基一起打球的时光时，史密斯对记者说道：“这感觉太棒了，我知道他受到过很多赞誉，我每天都能和他一起练习，每次坐飞机我都坐在他身后，所以你真的可以近距离的见证他的优秀与伟大。你知道，你必须抓紧机会把这些都吸收进去，因为这样的机会并不多。所以，能在一个真正的球队基石身边打球或看到球队历史上最伟大的球员，这对我来说是一件非常棒的事情。”
+   </p>
+   <p>
+    丹尼斯-史密斯在2017年选秀大会中第1轮第9顺位被独行侠选中。根据此前消息，独行侠与尼克斯达成交易，将丹尼斯-史密斯送至尼克斯。
+   </p>
+   <p>
+    诺维茨基于2018-19赛季常规赛结束后宣布退役，职业生涯他一直效力于独行侠，共出战1522场常规赛，场均出场33.8分钟，得到20.7分7.4篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

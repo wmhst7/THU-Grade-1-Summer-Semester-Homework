@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  朗佐-鲍尔出售Big Baller品牌在洛杉矶的仓库
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://bleacherreport.com/articles/2847306-report-ex-lakers-pg-lonzo-ball-sells-la-big-baller-brand-warehouse-for-43m" target="_blank">
+     Bleacher Report
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 14:58:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="朗佐-鲍尔出售Big Baller品牌在洛杉矶的仓库" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/ce018ca9a3d2b2bd4c1421b479c4ce90ed24ba1d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今日，根据Bleacher Report记者Megan Armstrong报道，鹈鹕球员朗佐-鲍尔已经以430万美元的价格出售了家族品牌Big Baller Brand在洛杉矶的配销仓库。
+   </p>
+   <p>
+    根据此前洛杉矶时报的报道，自从Big Baller Brand的共同所有人Gregory Alan Foster被指控从鲍尔名下的账户偷走了150万美元的资产后，鲍尔与他“关系紧张”。 之后鲍尔切断了福斯特跟鲍尔品牌的一切关联，而他的团队也表示，接下来他将全面接管个人品牌的财务管理。
+   </p>
+   <p>
+    五月时，鲍尔曾说：“我对这件事的感受不同了。我之所以会接管BBB品牌，是因为我看到了这件事，我看到了Foster的所作所为。这让我感到很紧张。因为我们回顾那些事务时，那破事直到我母亲生病才开始发生，因为她管理一切财务。所以这就是为什么这件事让我非常心痛。”
+   </p>
+   <p>
+    2018-19赛季鲍尔为湖人出场47场常规赛，场均上场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

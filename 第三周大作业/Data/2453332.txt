@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬：佩林卡公平地做了浓眉交易，我们心怀感激
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1148887492692602880" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 05:00:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬：佩林卡公平地做了浓眉交易，我们心怀感激" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/5ad36090df450258e503062e98b3d18bffdc2f0c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 鹈鹕篮球运营总裁大卫-格里芬近日在做客著名记者Adrian Wojnarowski的播客节目时回顾了他将安东尼-戴维斯交易至湖人的一些幕后细节。
+   </p>
+   <p>
+    “让我们非常幸运的是里奇-保罗代理勒布朗-詹姆斯，湖人需要引入一位球星搭档勒布朗，这与安东尼-戴维斯选择表明他要被交易的时间段有紧密联系，”格里芬说，“只有一个交易下家对他的续约抱有信心。因此我们清楚如果最后他被交易到一个缺乏足够续约信心的地方，我们参考的相关先例可能就是科怀-伦纳德被交易至猛龙，或者保罗-乔治从步行者被交易至雷霆的例子。那本来是我们将会面对的现实。但是由于我们经历的是他愿意与湖人续约，因此我们把眼光调高了一点，我们很幸运地取得最终的交易结果，因为有来自其他竞价球队的持续施压。罗勃-佩林卡在整个协商过程中极其坦率，以非常公平的方式与我们做了交易。所以我们对于这个交易的最终回报心怀感激。”
+   </p>
+   <p>
+    “我们面临的情况是安东尼很明显准备好离开，而且除了洛杉矶，他的续约前景并不明确，”格里芬说，“因此我认为波士顿更多地考虑到这一点，而不是凯里（欧文）的情况，因为波士顿打算保持顶级竞争力。他们希望在最高水准的舞台上参与竞争。我认为他不会留队的风险让相关交易谈判更加类似于我们讨论过的其他交易的范畴。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

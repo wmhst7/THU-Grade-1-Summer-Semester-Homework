@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：马刺正式签约19号新秀卢卡-沙马尼奇
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/spurs/news/spurs-sign-2019-first-round-pick-luka-samanic" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 10:19:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：马刺正式签约19号新秀卢卡-沙马尼奇" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/2c2f18473e24710e7acec82b0483ee6d35c09e62.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 马刺在今天正式签约了2019年首轮19顺位新秀卢卡-沙马尼奇。
+   </p>
+   <p>
+    沙马尼奇身高2.11米，体重103公斤，出生于2000年1月8日，今年19岁，臂展2.1米，站立摸高2.72米。
+   </p>
+   <p>
+    2018-19赛季欧洲联赛，沙马尼奇共出战50场比赛，场均出战18.4分钟，能够得到8分4.8篮板0.9助攻0.5抢断0.4盖帽，投篮命中率为48.4%，三分命中率为33.8%，罚球命中率为72.2%。
+   </p>
+   <p>
+    沙马尼奇将会参加马刺今夏在盐湖城和拉斯维加斯的夏季联赛。
+   </p>
+   <p>
+    沙马尼奇自从15岁开始便是克罗地亚国家队的一员，并在2017年FIBA U18欧洲锦标赛上当选为MVP，率领克罗地亚赢得金牌。在那年的锦标赛之旅中，沙马尼奇场均能够得到13.3分7.3篮板1.8抢断1.6盖帽。
+   </p>
+   <p>
+    沙马尼奇将会在新赛季身披19号球衣。
+   </p>
+   <p>
+    根据劳资协议规定，沙马尼奇第一年的薪水为2689920美元，第二年为2824320美元，第三年为2959080美元（球队选项），第四年为4556983美元（球队选项）。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

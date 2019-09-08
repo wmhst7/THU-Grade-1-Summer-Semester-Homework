@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰弗森手动艾特Woj：我想复出再打一年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rjeff24/status/1146238584560783360" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:32:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰弗森手动艾特Woj：我想复出再打一年" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/1bcf716f5fdca98b8f9400ce1ebbdb45b85f8a22.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 近日NBA自由市场开启，去年宣布退役的前NBA球员理查德-杰弗森也想来凑热闹。
+   </p>
+   <p>
+    杰弗森在推特上写道：“在各种我会复出的猜测声中，我要出来正式宣布，我想再打一年篮球。@wojespn”
+   </p>
+   <p>
+    理查德-杰弗森2018年10月14日正式宣布退役，职业生涯先后效力于篮网、雄鹿、马刺、勇士、爵士、小牛、骑士和掘金等球队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术的未来！魔术官方祝16号秀奥基基生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Ty9wCFwBo/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 12:50:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术的未来！魔术官方祝16号秀奥基基生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/a731f3062c38e84200238246470f70c424e211cf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 魔术官方今日更新了Instagram，祝队中新秀丘马-奥基基生日快乐。
+   </p>
+   <p>
+    “祝我们这位新秀生日快乐！”魔术写道。
+   </p>
+   <p>
+    魔术在今年选秀大会上，用16号签选中丘马-奥基基。
+   </p>
+   <p>
+    奥基基出生于1998年8月18日，身高2.03米，体重104公斤，司职前锋，2018-19赛季在NCAA代表奥本大学出场38次，场均29.1分钟，得到12.0分6.8篮板1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

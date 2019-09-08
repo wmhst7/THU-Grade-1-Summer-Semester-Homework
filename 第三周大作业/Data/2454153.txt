@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里：下赛季不会进行负荷管理，有机会做些特别的事
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/warriors-news-stephen-curry-will-not-participate-load-management-next-season/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 14:50:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里：下赛季不会进行负荷管理，有机会做些特别的事" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/6726855d49f28497d34ac3dc1882407870b720a1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 近几个赛季，“负荷管理（load management）”一词由于频繁地被使用在NBA球员轮休的原因之中而被球迷所熟知。
+   </p>
+   <p>
+    勇士后卫斯蒂芬-库里今天在采访中表示，下赛季他不会进行负荷管理。
+   </p>
+   <p>
+    库里说道：“不，我不会这么做。我们有一群期待证明自己的家伙，我们有机会做到一些特别的事情，人们可以向我们抛来很多故事。除了上场打球，我不会有其他任何想法。我们拥有总冠军DNA，我们知道这点。当克莱回来时，我们的核心才完整。很显然，这整年都会是非常有趣的，希望能尽早打出我们的气势，这充满挑战。但是来到了新球馆，夹着总决赛失利的苦涩，这个夏天会很不一样，但保持专注就好了。”
+   </p>
+   <p>
+    2018-19常规赛，库里场均出场33.8分钟，可以贡献27.3分5.3篮板5.2助攻1.33抢断。季后赛场均38.5分钟，可以得到28.2分6.0篮板5.7助攻1.09抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

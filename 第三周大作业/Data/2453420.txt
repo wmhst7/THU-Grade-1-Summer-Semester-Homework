@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爱女心切！鲍尔更新社媒晒出自己怀抱女儿出席活动的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz1h8g_J9CU/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 11:42:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爱女心切！鲍尔更新社媒晒出自己怀抱女儿出席活动的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/b6b6f10a75e8a7268231591560b6546f6e2cd595.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 今日，鹈鹕后卫朗佐-鲍尔更新了个人社交媒体Instagram晒出自己怀抱女儿出席活动的照片（见新闻配图）。
+   </p>
+   <p>
+    “朗佐与小朗佐。”鲍尔写道。
+   </p>
+   <p>
+    根据此前消息报道，鹈鹕官方正式宣布，他们已经完成与湖人和奇才的三方交易，将安东尼-戴维斯送至湖人，得到朗佐-鲍尔、约什-哈特、布兰登-英格拉姆、2019年4号秀德安德烈-亨特的签约权以及2个未来首轮选秀权。此外，湖人还将伊萨克-邦加、杰梅里奥-琼斯、莫里茨-瓦格纳以及一个未来次轮选秀权送至奇才。
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.9分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190713/11/a66471daa1489146946c957f9be227d2.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

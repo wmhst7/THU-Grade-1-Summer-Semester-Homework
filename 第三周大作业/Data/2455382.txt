@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：下赛季西部会很艰难，科林斯和安芬尼能帮助球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/lillard-excited-about-future-portland-ultimate-goal-win-it-all-win" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 11:09:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：下赛季西部会很艰难，科林斯和安芬尼能帮助球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/dd10f9296d3712c9dcc725c1d9929fa0906384d9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 随着2019年休赛期的开始，波特兰开拓者队的阵容也发生了变化，除了罗德尼-胡德续约球队，前锋艾尔-法鲁克-阿米奴离开；怀特赛德、贝兹莫尔等新成员的加盟以及努尔基奇的回归，开拓者也期待扎克-科林斯以及安芬尼-西蒙斯等年轻球员继续成长并在本赛季发挥作用。
+   </p>
+   <p>
+    对于这两名年轻球员，利拉德谈到：“我对扎克非常期待，这个夏天对扎克和安芬尼来说很重要。我认为如果他们好好利用今年这个非常重要的夏天，那当他们归队时可以真正的为球队产生影响。他们的成长可以让球队更进一步，我对此很期待。”
+   </p>
+   <p>
+    随着杜兰特加盟布鲁克林篮网和汤普森的伤病，很多媒体和球迷认为现在冲出西部的道路现在已经开放。但是，利拉德对西部联盟的未来有不同的看法。他说：“每个人现在认为西部的大门是敞开的，但绝对不是。”
+   </p>
+   <p>
+    “西部仍然具有超强的竞争力，”利拉德说， “每个队伍都拥有强大的火力。起初就像是，每个人都称快船队是一支强硬的球队，他们打得很努力，现在他们得到了保罗-乔治和科怀-伦纳德。而现在，安东尼戴维斯为湖人效力，而新奥尔良拥有很多非常有竞争力的年轻球员。我不认为人们给予了他们应有的信任。”
+   </p>
+   <p>
+    “然后，犹他爵士队也加入了那些球员，所以它可能看起来更平衡。但是在西部取胜可能会更加困难，因为现在每支球队都很好。萨克拉门托又成长了一岁，菲尼克斯也是。所有这些球队，都会准备好。”
+   </p>
+   <p>
+    随后，利拉德在Sports Business电台采访中再次谈到了今年季后赛首轮G5超远三分绝杀雷霆并将其淘汰一事。
+   </p>
+   <p>
+    “我能说什么呢？这是为了西雅图。”利拉德表示。
+   </p>
+   <p>
+    2008年，西雅图超音速搬迁至了俄克拉荷马州，更名为俄克拉荷马雷霆队，从那以后西雅图再未拥有一支NBA球队。
+   </p>
+   <p>
+    扎克-科林斯于2017年首轮第10顺位被选中，2018-2019赛季常规赛共出场77场，场均17.6分钟，得到6.6分4.2篮板0.9助攻；安芬尼-西蒙斯于2018年首轮第24顺位被开拓者选中，出场20场场均7.0分钟，得到3.8分0.7篮板0.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

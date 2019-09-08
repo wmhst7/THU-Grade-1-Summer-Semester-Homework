@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才副总裁：小托马斯会帮助沃尔，他能体会到沃尔的感受
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1078540/2019/07/16/isaiah-thomas-is-planning-to-use-opportunity-with-wizards-to-be-isaiah-thomas-again/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:19:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才副总裁：小托马斯会帮助沃尔，他能体会到沃尔的感受" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/b2c5690eb2aee0e31738d3b1d653e36b93474a4e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 奇才篮球运营高级副总裁Tommy Sheppard在近日接受媒体采访时谈到了以赛亚-托马斯的加盟。
+   </p>
+   <p>
+    “以赛亚是一位不可思议的领袖，他能够融入球队，他属于NBA，”Tommy Sheppard说道，“我认为他能够激励其他人。”
+   </p>
+   <p>
+    小托马斯在过去两年一直在与伤病抗争，而奇才后卫约翰-沃尔因左脚跟腱撕裂也在经历着漫长的恢复过程。Tommy Sheppard很清楚，经历过这种严重伤病的球员能够理解彼此，小托马斯会为沃尔提供帮助。
+   </p>
+   <p>
+    “同情和产生共鸣之间存在着区别，”Tommy Sheppard说道，“对于约翰-沃尔这样的家伙而言，以赛亚能够提供帮助，他能够亲身感受约翰正在经历的一切。”
+   </p>
+   <p>
+    “以赛亚经历过类似的情况，他能够为约翰提供不同的见解，向约翰讲述他的经历，以及克服困境的方式。他会告诉约翰，‘嘿，约翰，你需要这样做。’我认为以赛亚能够为球队提供完全不同的角度，这非常有价值。”Tommy Sheppard说道。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，小托马斯与奇才达成了一年的协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯代表掘金出场12场比赛，场均出场15.1分钟，场均得到8.1分1.1篮板1.9助攻0.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  包括勇士湖人猛龙雄鹿在内的多支球队有意泰-吉布森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DWolfsonKSTP/status/1145056245264670720?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:46:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="包括勇士湖人猛龙雄鹿在内的多支球队有意泰-吉布森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/ce198220e8ce5d5e37db419710709e82d4f172fd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA记者Darren Wolfson报道，多支球队对前锋泰-吉布森表示了不同程度的兴趣。
+   </p>
+   <p>
+    包括快船、篮网、雄鹿、公牛、勇士、猛龙、开拓者、黄蜂和湖人。
+   </p>
+   <p>
+    本赛季常规赛，吉布森场均出场24.1分钟，能够得到10.8分6.5篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

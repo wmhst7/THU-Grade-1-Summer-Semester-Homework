@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才正式签下后卫伊斯梅尔-史密斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-sign-ish-smith?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:30:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才正式签下后卫伊斯梅尔-史密斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/bcac398a5723c6e049ee4d2e2b16a3e9155fc165.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 华盛顿奇才队官方今日宣布，球队已经正式签下后卫伊斯梅尔-史密斯。根据球队政策，合同细节并未被公布。
+   </p>
+   <p>
+    据The Athletic记者Shams Charania此前报道，联盟消息人士透露，伊斯梅尔-史密斯与奇才的合同金额为2年1200万美元。
+   </p>
+   <p>
+    “本赛季，伊斯梅尔在场上有着我们想看到的在行进中得分以及支配球的能力，”奇才篮球运营副总裁Tommy Sheppard写道，“从这些年在联赛里以及在球队训练营的表现来看，我们已经非常了解他了，我们希望他能将他的个性以及老将领导力带到这支球队。”
+   </p>
+   <p>
+    职业生涯至今，史密斯已经在NBA征战9个赛季，曾效力过火箭、灰熊、活塞等多支球队。2018-19赛季常规赛，他场均能够得到8.9分3.6助攻2.6篮板。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/10/7f9b1568c4939723656bb991f75aec75.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

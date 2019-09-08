@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮今日已经2次负于洛杉矶陪练队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sam_amick/status/1161767158071693313" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 06:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮今日已经2次负于洛杉矶陪练队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/79c33faaaeec770bccbb859b95ac1380eab286c5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 根据The Athletic记者Sam Amick的报道，多位消息人士透露，美国男篮今日已经2次输给了洛杉矶陪练队。
+   </p>
+   <p>
+    美国男篮第一场输了3分，根据《纽约时报》记者Marc Stein的报道，第二场美国男篮输了19分，比分是36-17，每场比赛的时间为10分钟。
+   </p>
+   <p>
+    不过根据NBA记者Ohm Youngmisuk的报道，第二场美国男篮输了21分，比分是38-17。
+   </p>
+   <p>
+    美国篮协已经组建了一支由发展联盟球员和NBA边缘球员组成的队伍，他们被看作是美国男篮在洛杉矶的陪练队，他们将与美国男篮进行对抗训练赛。
+   </p>
+   <p>
+    杰夫-范甘迪将执教这支美国男篮在洛杉矶的陪练队，这支球队里有多位之前代表美国男篮参加世界杯资格赛的球员。
+   </p>
+   <p>
+    具体名单如下：贾斯廷-安德森、克里斯-奇奥萨、斯科蒂-霍普森、达坎-杰弗里斯、约翰-詹金斯、亚特-马滕、沙松-兰德尔、本-摩尔、齐纳努-欧努阿库、特拉维斯-特赖斯和特拉维斯-韦尔。
+   </p>
+   <p>
+    在拉斯维加斯的训练营结束后，美国男篮将进行短暂的休息，然后在洛杉矶集合训练3天（当地时间8月13至8月15日），然后在当地时间8月16日与西班牙进行一场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

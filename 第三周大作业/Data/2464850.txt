@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯文-乐福与路牌合影：停止憎恨，选择爱
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Esr1Fgb6i/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 10:47:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯文-乐福与路牌合影：停止憎恨，选择爱" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/e73b42b575cc0503ff8ec1489c62761844b840cd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 今天骑士球员凯文-乐福在Instagram上晒出了自己和一个路牌合影的照片。原来“停止”的路牌被人涂鸦并修改为“停止憎恨，选择爱。”，乐福的英文名LOVE亦是英文中的“爱”。
+   </p>
+   <p>
+    乐福写道：“停止和选择。”
+   </p>
+   <p>
+    2018-19赛季常规赛，凯文-乐福场均上场27.2分钟，得到17分10.9篮板2.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/10/bf8769de33cfe8c83859900e14762481.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

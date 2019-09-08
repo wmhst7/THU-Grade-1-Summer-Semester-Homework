@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞尔维亚男篮主教练：如果碰到美国男篮，愿上帝保佑他们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/917112/serbia-coach-djordjevic-if-we-meet-team-usa-may-god-help-them/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 13:58:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞尔维亚男篮主教练：如果碰到美国男篮，愿上帝保佑他们" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/3a110ae4351d6dac580912e8798c2b17e99885ea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 塞尔维亚男篮主教练Sasha Djordjevic近日在接受塞尔维亚国家电视台RTS采访时谈到了美国男篮。
+   </p>
+   <p>
+    谈到双方的潜在对决，Sasha Djordjevic说：“如果双方碰面，就让他们打出自己的风格，我们也打出我们的风格，希望上帝能够保佑他们。”
+   </p>
+   <p>
+    与多位球员退出美国男篮不同，塞尔维亚将会在本届世界杯派出最强阵容，球队大名单中包括尼古拉-约基奇、博班-马里亚诺维奇、米洛什-特奥多西奇、波格丹-波格丹诺维奇、内马尼亚-别利察、米罗斯拉夫-拉杜利察等球员。
+   </p>
+   <p>
+    “这就是我们需要面临的局面，”Sasha Djordjevic说道，“想一想我们这支球队，以及其他一些没有被提及的国家队。例如，近几年的德国男篮，我们在资格赛中曾两次输给他们，还要希腊，俄罗斯，法国，阿根廷，加拿大，巴西，西班牙等球队，我现在根本不会考虑美国男篮。”
+   </p>
+   <p>
+    当被问及对于首次担任国家队主教练的格雷格-波波维奇有何建议时，Sasha Djordjevic说：“欢迎来到这个大家庭。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

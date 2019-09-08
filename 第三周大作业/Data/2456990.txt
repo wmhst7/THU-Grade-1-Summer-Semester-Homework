@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克经纪人表示，塔克仍计划留队并参加男篮世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.chron.com/sports/rockets/article/Rockets-PJ-Tucker-participate-USA-Basketball-camp-14113996.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 06:33:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克经纪人表示，塔克仍计划留队并参加男篮世界杯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/df09a925f15bb4177e20e95b6c3ea276184afc03.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 据《休斯顿纪事报》报道，尽管多位球员退出了美国男篮训练营，但火箭球员PJ-塔克的经纪人Andre Buck今天表示，塔克仍计划参加训练营并随队出征男篮世界杯。
+   </p>
+   <p>
+    如果塔克最终入选美国队大名单，那么这将是他在2004年代表美国队出战U20美锦赛后再次为国出战。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆、布拉德利-比尔和托拜厄斯-哈里斯等球员相继宣布不会代表美国队参加今夏的男篮世界杯，美国男篮训练营还剩下14人，分别是：哈里森-巴恩斯、安德烈-德拉蒙德、达米安-利拉德、凯文-乐福、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、保罗-米尔萨普、多诺万-米切尔、杰森-塔特姆和塔克。
+   </p>
+   <p>
+    据此前的报道，消息人士透露，肯巴-沃克和克里斯-米德尔顿想要留在美国男篮并参加今夏在中国举行的篮球世界杯。
+   </p>
+   <p>
+    2018-19赛季常规赛，塔克场均出场34.2分钟，得到7.3分5.8篮板1.2助攻；季后赛场均出场38.7分钟，得到11.4分7.4篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  明日上午9点开打！森林狼、灰熊会师夏联总决赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBASummerLeague/status/1150584891634933760" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 10:13:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="明日上午9点开打！森林狼、灰熊会师夏联总决赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/c0762fd1e53ece10848a54987ef993b262343118.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 在今天已经结束的两场夏季联赛中，孟菲斯灰熊队以88-86的比分战胜新奥尔良鹈鹕队，明尼苏达森林狼队则是以85-77的比分战胜布鲁克林篮网队。
+   </p>
+   <p>
+    在战胜各自的对手之后，灰熊与森林狼成功会师2019年拉斯维加斯夏季联赛总决赛。拉斯维加斯夏季联赛开始于2013年，获得首届拉斯维加斯夏联的冠军队伍是金州勇士队。之后分别是国王（2014）、马刺（2015）、公牛（2016）、湖人（2017）以及开拓者（2018）。
+   </p>
+   <p>
+    本届夏季联赛总决赛将于北京时间7月16日上午9点正式开始，比赛场馆为托马斯-马克中心。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

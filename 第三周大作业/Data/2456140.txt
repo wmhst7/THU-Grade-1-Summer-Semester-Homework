@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美媒：戴维斯在洛杉矶租下价值1410万美元的私人豪宅
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/20/lakers-anthony-davis-renting-14-million-los-angeles-mansion-bel-air/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 17:23:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美媒：戴维斯在洛杉矶租下价值1410万美元的私人豪宅" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/a1cd6abf8fb59fa29ae9dd2c323c18057abc946d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 据TMZ体育报道，湖人新援安东尼-戴维斯在洛杉矶租了一幢价值1410万美元的私人豪宅。豪宅有6个卧室，6个洗手间，配置齐全的厨房，酒吧，个人训练馆，游泳池和篮球场。主卧还配备有大理石壁炉和衣帽间，豪宅的租金约为每月5万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼-戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻1.6抢断2.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

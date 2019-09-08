@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德克：此前从没看过如此多大牌球星换队，太疯狂了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/mavs-news-dirk-nowitzki-says-the-offseason-moves-were-crazy-admits-its-good-for-business/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 21:12:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德克：此前从没看过如此多大牌球星换队，太疯狂了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/a22cc97c2f9b2fc1a3e02e714bbe868aee66f0bb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 近日独行侠名宿德克-诺维茨基参加了一场慈善足球赛，期间他接受了采访谈到了今年夏天NBA的休赛期。
+   </p>
+   <p>
+    “今年夏天实在是太疯狂了，太让我惊讶了。我在欧洲待了三个礼拜了，那会我每天我打开手机查看，都会有某个球员加入了其它队的声明。”德克说道。
+   </p>
+   <p>
+    “在我20年的职业生涯里，从来没有看过这么多大牌球星换队，这绝对是个疯狂的夏天，但从生意而言，这是有好处的。现在有大量的媒体报道，下赛季将会很疯狂，会发生很多事情。”德克继续说道。
+   </p>
+   <p>
+    诺维茨基在1998年选秀大会首轮第9顺位被雄鹿选中，职业生涯一直效力于独行侠，共出战1522场常规赛，场均上场33.8分钟，得到20.7分7.4篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

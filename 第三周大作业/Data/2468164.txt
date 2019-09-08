@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波维奇谈热身赛取胜：我们所坚持的信条就是沉着冷静
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/08/world-cup-notes-exhibition-australia-free-agency-clarkson.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 02:47:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波维奇谈热身赛取胜：我们所坚持的信条就是沉着冷静" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/ebea4e65f347e6dad941747f36812d052e19f067.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 今日，美国男篮以102-86大胜澳大利亚男篮，赢得了本场热身赛的胜利。赛后，美国男篮主教练、马刺主帅格雷格-波波维奇接受了记者的采访。
+   </p>
+   <p>
+    在谈及取得本场热身赛的胜利时，波波维奇对记者说道：“我们球队上下所坚持的一大信条就是沉着冷静。有时候在某些比赛，事情并不会向你预想的那样发展，很可能是反过来的。因此你将去做些什么来应对这些问题。”
+   </p>
+   <p>
+    美国男篮将于北京时间8月24日中午12:00与澳大利亚男篮展开第二场热身赛的较量。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

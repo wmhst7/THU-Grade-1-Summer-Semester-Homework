@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  JR-史密斯社媒发图，仅配文一个胜利表情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz8nplahpz8/?igshid=1lmlj2m0rmlsu" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 05:40:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="JR-史密斯社媒发图，仅配文一个胜利表情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/6928974ea56bff6a9eb0cd877307b7509da76932.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 已被骑士裁掉的后卫JR-史密斯今日通过Instagram发布一张赛场图。
+   </p>
+   <p>
+    史密斯仅为这张自己身穿骑士比赛服的照片配文一个胜利表情。
+   </p>
+   <p>
+    前骑士球员杰夫-格林留言道：“自由！”
+   </p>
+   <p>
+    快船球员莫里斯-哈克利斯留言道：“终于。”史密斯则回复道：“天啊。”
+   </p>
+   <p>
+    前骑士球员现自由球员科比-西蒙斯留言道：“离开那里。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/05/552c1a79416a1ff35b9a013aa9173a1c.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/05/1b798d97e1392cb4f592597892f3ac30.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

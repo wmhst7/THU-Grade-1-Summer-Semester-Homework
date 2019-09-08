@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库克：我深深痴迷于湖人，湖人为我带来了快乐的童年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ryanwardla/status/1149446429963780097?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 13:18:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库克：我深深痴迷于湖人，湖人为我带来了快乐的童年" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/79fc6aaeb6a5900c7e411f39035fb4d3788786ca.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 湖人后卫奎因-库克今日接受采访谈到了他加盟湖人的感受。
+   </p>
+   <p>
+    库克谈到自己从小就是湖人球迷的情怀时说：“父亲生前是湖人球迷，是从魔术师（约翰逊），卡里姆（贾巴尔），詹姆斯-沃西那波人开始的。他是一个湖人铁粉。当我出生时，我只知道那时的湖人。我深深痴迷于湖人。我父亲非常用心地培养我做湖人球迷。为湖人加油助威让我度过了一个快乐的童年。”
+   </p>
+   <p>
+    谈到湖人的阵容时，库克说道：“我们是一支很有深度的球队。我们阵容雄厚。我喜欢球队阵容，我喜欢我们的深度。训练将会充满乐趣。对抗赛会很有趣，这将是一个激动人心的赛季。”
+   </p>
+   <p>
+    谈到前勇士现湖人队友德马库斯-考辛斯时，库克说：“他绝对展现了许多勇气。”库克表示考辛斯“冒着身体受伤的风险”努力复出为勇士竞争总冠军。
+   </p>
+   <p>
+    谈到他的另一位前勇士现湖人队友贾维尔-麦基时，库克说：“我们的关系非常亲密。我们的更衣柜是紧邻的，我们总是在板凳上坐在一起。赛季末有段时期我们有4到5个人伤缺，所以我们两人得到了许多上场时间，建立了一些良好的场上默契。我们得以学习对方的比赛。”
+   </p>
+   <p>
+    库克对麦基评价道：“我记得当他发现我与湖人签约后，他给我发来了一条善意的短信。他是你能拥有的最佳队友之一。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

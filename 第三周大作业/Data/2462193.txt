@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德拉蒙德：喜欢球队新援，为下赛季兴奋，我会有好的表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 12:11:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德拉蒙德：喜欢球队新援，为下赛季兴奋，我会有好的表现" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/c9204d99863c633e824f269ac3b6a440dbc2556e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 近日，活塞球员安德烈-德拉蒙德接受了采访，谈到了自己最近的食谱。他将红肉从食谱中去除，目前的食谱主要由鱼肉和蔬菜组成。为了保证必要的热量摄入，他每天都喝一杯啤酒。
+   </p>
+   <p>
+    对此，德拉蒙德大笑着说：“如果你以正确的方式去做，实际上这不会对你产生害处，这也是为什么我正在这么做。”
+   </p>
+   <p>
+    他对下赛季感到乐观，并喜欢德里克-罗斯、蒂姆-弗雷泽以及马基夫-莫里斯的加入。他提到了布鲁斯-布朗和塞古-敦布亚在夏季联赛中的强劲表现，认为年轻球员会对球队有所帮助。
+   </p>
+   <p>
+    而对于自己的休赛期，德拉蒙德提到了活塞助教Sean Sweeney和Tim Grgurich对他的指导：“Sweeney和Grgurich就像我的左右手一样，能跟他们在一起，每天看到他们，实在好得不能再好了。”
+   </p>
+   <p>
+    “我认为下赛季我会打出非常优秀的表现，我感到兴奋。”
+   </p>
+   <p>
+    2018-19赛季常规赛，德拉蒙德场均出场33.5分钟，得到17.3分15.6篮板1.4助攻1.75盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

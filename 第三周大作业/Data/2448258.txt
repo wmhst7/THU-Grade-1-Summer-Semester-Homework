@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亲密互动！巴特勒今日更新个人社交媒体回复韦德的调侃
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JimmyButler/status/1144845757041844224" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 15:53:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亲密互动！巴特勒今日更新个人社交媒体回复韦德的调侃" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/5dcbc3623e0a0e7e95208364e0c97aa739b8f8ad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 近日，一名德维恩-韦德的球迷在推特上@了自己的偶像，并发文道出自己希望韦德再征战一年NBA的心声。
+   </p>
+   <p>
+    “韦德应该晚一年再退役，然后加入湖人与他的好朋友@勒布朗-詹姆斯在湖人重聚！来自热火球迷。”该球迷写道。
+   </p>
+   <p>
+    昨日，韦德转发了这条推特并评论道：“不不不，兄弟。谣言止于智者。这件事只能发生在热火！@吉米-巴特勒，老兄，你觉得这主意怎样？”
+   </p>
+   <p>
+    今日，76人前锋吉米-巴特勒转发了该推特并回复韦德：“嘿，自以为是的老兄！”
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒场均出场33.6分钟，可以贡献18.7分5.3篮板4.0助攻1.89抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，韦德场均出场26.2分钟，可以贡献15.0分4.0篮板4.2助攻0.82抢断。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

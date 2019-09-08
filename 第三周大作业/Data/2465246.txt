@@ -1,0 +1,73 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  熟悉的球场！湖人官方发布库兹马今日在美国男篮训练图集
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1IUEXnnKn-/?igshid=efm9ya71k76n" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 12:42:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="熟悉的球场！湖人官方发布库兹马今日在美国男篮训练图集" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/3758e985ac38d7fffe70f978bcc7d616fa4930bf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 湖人官方Instagram发布一组队内前锋凯尔-库兹马今日在美国男篮的训练组图。美国男篮近期在位于洛杉矶的湖人训练馆内进行训练。
+   </p>
+   <p>
+    “同样的球场，不同的球衣颜色。”湖人官方写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2465126.html">
+     千锤百炼！湖人官方发布詹姆斯库兹马波普训练图集
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/12/613ba79e573de771b7527fc37e6edebf.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/12/edcc5084a52111a065fc7c42af359264.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/12/7aab497b721a6cb9e16f72cb449fb13a.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/12/16762484739c82b1eb269efe8bf9b3ae.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/12/b136e84ee63d18fb7878c2fe928a3e95.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/12/00a81664950852b2a3e4abad7548c999.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  渡边雄太谈失利：八村垒被包夹时我们没帮助到他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FIBAWC/status/1168842179072016384" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-03 20:53:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="渡边雄太谈失利：八村垒被包夹时我们没帮助到他" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190903/27800f37220812d3b3c517a614cd5c98d7b68305.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月3日讯 在刚刚结束的小组赛里，日本队76-89不敌捷克队，遭遇两连败。
+   </p>
+   <p>
+    谈到这场失利时，日本球员渡边雄太表示：“我们做了不错的准备，我觉得我们打得很有能量，特别是上半场。但他们打得更聪明，更有身体对抗性，他们确实比我们打得好。我们都知道在八村垒被包夹时，其他人得做点什么。”
+   </p>
+   <p>
+    日本主帅Julio Lamas则表示：“我们进攻打得还行，就是防守端的表现不足以让我们赢得比赛。”
+   </p>
+   <p>
+    此役，渡边雄太贡献15分5篮板，八村垒得到21分6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

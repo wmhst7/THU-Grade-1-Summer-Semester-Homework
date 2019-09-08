@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管：贾勒特-阿伦比小乔丹更适合出任首发
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/03/nets-jordan-allen-battle-brewing-even-if-it-shouldnt-be/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 11:53:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管：贾勒特-阿伦比小乔丹更适合出任首发" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/1606ea78ec442a3590bc017f9e93a81eca95c6a7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 随着德安德烈-乔丹的加盟，篮网需要面对如何分配小乔丹和贾勒特-阿伦的出场时间问题，《纽约邮报》记者Paul J. Bereswill今日撰文对此进行了分析。
+   </p>
+   <p>
+    阿伦是篮网上赛季的首发中锋，而小乔丹自从2011年以来一直担任球队首发。
+   </p>
+   <p>
+    “我认为阿伦应该出任首发中锋，”前猛龙、老鹰视频分析师Bryan Oringher在接受《纽约邮报》采访时表示，“说实话，我认为德安德烈-乔丹的加盟主要是因为他与凯文-杜兰特和凯里-欧文的友谊，他的出场时间更多的是象征意义上的，阿伦理应得到那些出场时间。”
+   </p>
+   <p>
+    在杜兰特和欧文选择加盟之后，篮网为二人的好友小乔丹奉上了一份4年4000万美元的合同。一位东部球队高管认为，这份合同并不理智。
+   </p>
+   <p>
+    “篮网为了那些家伙（杜兰特和欧文）给他（小乔丹）提供了一份荒唐的合同，就像是告诉他，‘这里有钱，快来拿。’这样的结果看起来有些愚蠢，特别是在篮网需要补强球队阵容的时间点上，”这位东部高管说道，“我认为德安德烈是一名合格的替补中锋，他的油箱里看起来已经没有多少油了，而阿伦正处于上升期。”
+   </p>
+   <p>
+    “我猜测，由于小乔丹和杜兰特的友谊，篮网又不得不与其签约。两三年过后情况将会非常有趣，届时他的合同看起来将会非常荒谬，如果篮网到时候想要升级球队阵容，没有人会愿意接手他的合同。”这位东部高管补充道。
+   </p>
+   <p>
+    一位西部球队视频分析师表示：“他（小乔丹）能够和自己的好朋友并肩作战，如果换作是我，我也不会拒绝邀请。”
+   </p>
+   <p>
+    “我认为小乔丹和阿伦的出场安排会根据对手对位而定，显而易见，当你面对乔尔-恩比德这样的对手时，小乔丹肯定比阿伦效果更好，前者更高、更长、更强壮，”这位西部球队视频分析师说道，“阿伦的移动速度出色，二人都是出色的封盖手，小乔丹一直以来都是一名可靠的篮板手，阿伦的篮板表现也不错，但不如小乔丹。至于进攻端，二人都会受限，二人都可以在打挡拆后顺下攻框，但又都不具备低位背打能力。这从来都不是小乔丹的比赛方式，而阿伦或许有机会打磨这方面的技术，毕竟他很年轻。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

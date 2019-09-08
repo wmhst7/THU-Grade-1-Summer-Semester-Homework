@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  昆西-埃西谈加盟以色列联赛：我会拼尽全力帮助球队赢球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/921504/quincy-acy-its-gong-to-be-different-but-ive-been-playing-basketball-for-a-long-time/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 09:52:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="昆西-埃西谈加盟以色列联赛：我会拼尽全力帮助球队赢球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/636dfc19fb524d5a62b9ac0348b70f9ec2ec1433.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今年夏天加盟以色列联赛特拉维夫马卡比篮球俱乐部的前NBA球员昆西-埃西今日抵达了以色列，他在机场接受了媒体采访。
+   </p>
+   <p>
+    “旅途还不错，我很高兴能够来到这里，对于不了解我的球迷们，我会说我能够为球队带来强硬、拼搏和努力程度，就是拼尽全力帮助球队赢球。”埃西说道。
+   </p>
+   <p>
+    谈到再度与前国王队友欧米-卡斯比并肩作战，埃西说：“我和欧米这些年来一直保持着联系，我们的关系非常好，他的妻子和我的妻子关系也很好，他们早已经和我们取得了联系，这让我感觉像到家了一样。我很享受，也非常期待未来。”
+   </p>
+   <p>
+    谈到适应以色列联赛的风格，埃西说：“会有不同之处，我肯定需要进行调整，但我已经打了很多年球了，所以我们拭目以待吧。我很期待在这里努力打球，在这些球迷们面前拼尽全力。”
+   </p>
+   <p>
+    2018-19赛季，埃西为太阳出战10场常规赛，场均出战12.3分钟，能够拿到1.7分2.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

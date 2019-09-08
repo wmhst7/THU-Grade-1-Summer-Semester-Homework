@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布鲁克-洛佩斯谈国际篮联规则：努力钻研，尽快适应
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-19.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 13:57:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布鲁克-洛佩斯谈国际篮联规则：努力钻研，尽快适应" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/59a449866acc90697ac00b013d9c7e1be0b1944d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 美国男篮目前正在澳大利亚备战热身赛，来自雄鹿的中锋布鲁克-洛佩斯接受了媒体采访。
+   </p>
+   <p>
+    谈到美国男篮的氛围，洛佩斯说：“很有趣，这是一群很棒的家伙，他们都是竞争者，来到这里都是为了努力工作，每个人都非常无私，都是团队至上的球员。”
+   </p>
+   <p>
+    谈到与雄鹿队友克里斯-米德尔顿并肩作战，洛佩斯说：“这很特别，这绝对是独一无二的经历。显而易见，克里斯能够为美国男篮带来巨大的帮助，他能够在场上做到很多事情，不仅仅是投篮，在防守端也能为球队带来了巨大的补充。他是一位出色的个人防守者，也是一位出色的团队防守者，总而言之，他就是一位极致的竞争者。”
+   </p>
+   <p>
+    谈到国际篮球的风格，洛佩斯说：“很有趣，特别是与其他球队的大个子对位，我们为自己在每一天、每一场比赛中付出的努力感到自豪。”
+   </p>
+   <p>
+    谈到适应国际篮联规则，洛佩斯说：“有所不同，但这正是我们努力钻研的东西，尽可能地去适应。显而易见，我们在一年中的八个月都在以另一种方式打球，所以我们必须抓紧时间尽可能地钻研这些规则。”
+   </p>
+   <p>
+    北京时间8月22日至8月26日，美国男篮将与澳大利亚男篮、加拿大男篮进行三场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

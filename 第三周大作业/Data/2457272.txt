@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  消息人士认为魔术师接受采访决定了湖人无缘伦纳德的命运
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1086977/2019/07/23/inside-story-los-angeles-la-clippers-pursuit-of-kawhi-leonard-paul-george/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 23:25:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="消息人士认为魔术师接受采访决定了湖人无缘伦纳德的命运" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/33f86a7e1748b1c8022e1c7f8f7953ddb836c9dc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 The Athletic记者Sam Amick，Jovan Buha以及Shams Charania今日撰写长文联合报道了快船今夏同时引进科怀-伦纳德和保罗-乔治的幕后细节。以下为关于伦纳德与球队会面过程中保密程度的报道节选：
+   </p>
+   <p>
+    伦纳德和他的经纪团队明确表示：我们有一套处理事情的方式，而且我们也期待对方有同样的处事方法。伦纳德和他的团队提出问题并得到反馈。会面过程中的细节，会面双方的私人信息将被保留在各方内部。多位消息人士向Shams透露，伦纳德向每支参与会面的球队都做出以上承诺，并对对方抱有同样的期待。
+   </p>
+   <p>
+    “如果你搞砸了，你就完蛋了，出局了，”一位参与会面过程的球队高管表示，“他们没有那么讲，但传达的意思就是如此。他们原话大概在说，‘听着，我们会希望保持谨慎。’其实意思就是，‘把你们的臭嘴闭上（Keep your fucking mouth shut.）。’”
+   </p>
+   <p>
+    快船一向喜欢密不透风的管理作风，他们不动声色地交易了布雷克-格里芬和托拜厄斯-哈里斯。而湖人的运作方式几乎处于另一个极端。湖人名宿魔术师约翰逊在自由市场开启前就公开接受采访透露伦纳德的舅舅Dennis Robertson致电向他咨询湖人的情况。
+   </p>
+   <p>
+    “我真的相信当魔术师开始向媒体谈论他和科怀以及Dennis的会面（注：实际为通话）时，那决定了湖人的命运，”一位参与招募过程的消息人士表示，“我认为就是那时候Dennis和科怀下定决心，我们不能信任湖人这个组织。就那样了，我认为他们的前景就此决定。”
+   </p>
+   <p>
+    “像科怀这样的精英球员做事很老练，他不会成为那个加入所谓‘超级球队’的家伙，”一位熟悉情况的消息人士向Shams透露，“现在，如果一支超级球队在他身边形成，对此他是无法控制的。快船是长期而言最好的下家。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]全神贯注小狐狸！福克斯抢断之后一条龙暴扣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 10:51:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/tv/v/I1xWD1iq5" onclick="openVideo('https://weibo.com/tv/v/I1xWD1iq5');return false;" target="_blank">
+    <img alt="[视频]全神贯注小狐狸！福克斯抢断之后一条龙暴扣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/17de37202e09aa2d1bd9a73b7345b9a59616add8.jpg"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯
+    <a href="https://weibo.com/tv/v/I1xWD1iq5" target="_blank">
+     视频: [视频]全神贯注小狐狸！福克斯抢断之后一条龙暴扣»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

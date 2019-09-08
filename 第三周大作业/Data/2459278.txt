@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯谈林书豪：这就是NBA的现实，所有球员都要珍惜
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KendrickPerkins/status/1155581959785070592" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 10:41:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯谈林书豪：这就是NBA的现实，所有球员都要珍惜" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/437a4416e55f32ec4e017cd5bb3ce0da9cbc5b48.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 今日，前NBA球员肯德里克-帕金斯更新个人推特，发布了一段对林书豪演讲（
+    <a href="http://lite.hupu.com/s?u=nba/news/2458871&amp;type=1">
+     林书豪：人生好难，但我要成为大家永不放弃的榜样
+    </a>
+    ）的评论。
+   </p>
+   <p>
+    帕金斯说：“林书豪所面对的情况就是NBA的严酷现实。当联盟决定抛弃某个球员的时候，很少有人有机会反抗。 因此，对于有幸拥有这450个名额（NBA正式名单为每队15人，30队共450人）之一的人来说，要珍惜它。”
+   </p>
+   <p>
+    2018-19赛季常规赛，林书豪先后效力于老鹰与猛龙，场均出场19.4分钟，得到9.6分2.4篮板3.1助攻，并跟随猛龙获得了2019年NBA总冠军；帕金斯生涯场均出场21.9分钟，得到5.4分5.8篮板1.04助攻1.15封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  天道酬勤！詹姆斯社媒连续更新今日训练动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2095850490104446064?utm_source=ig_story_item_share&amp;igshid=1bos7kyy8qxzh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 23:59:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="天道酬勤！詹姆斯社媒连续更新今日训练动态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/58912bd8770b75e33a67846c2e994f9d0c0a8095.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story连续更新个人训练动态。
+   </p>
+   <p>
+    詹姆斯发布了他与队友肯塔维厄斯-考德威尔-波普一同进行力量训练的片段，并写道：“一大早和我的兄弟@波普 一起训练。”
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190726/00/1cad67ba005a1a16c21a9037a377bd3e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190726/00/a53c082dc27d6fa0b628d2e22590153b.gif"/>
+   </p>
+   <p>
+    随后詹姆斯分享了自己坐在球场边与篮球的自拍动态并配文道：“训练！”
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190725/23/f56c64c0970aa7e88e67d5ac9ac0d9aa.gif"/>
+   </p>
+   <p>
+    詹姆斯的训练师Mike Mancias通过他的Instagram Story更新了詹姆斯与湖人助教菲尔-汉迪进行球场对抗训练的短视频，视频中詹姆斯连续利用转身动作摆脱对手完成扣篮。
+   </p>
+   <p>
+    “转身循环。”詹姆斯的训练师写道。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190725/23/a3f8a495c8900327c69744170b5a1d1b.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

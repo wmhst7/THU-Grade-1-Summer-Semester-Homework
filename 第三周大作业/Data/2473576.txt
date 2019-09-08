@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西蒙斯：目标是为费城带回冠军，最喜欢达成三双的助攻
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nba2k/status/1170006246285463552" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 10:41:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西蒙斯：目标是为费城带回冠军，最喜欢达成三双的助攻" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/5d1258ebda95c66239296b3b7372e58c7931ebff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 76人球员本-西蒙斯今日参加由NBA 2K20官推发起的在线问答活动，回答众多网友的提问。以下为问答内容（Q为提问，A为西蒙斯的回答）：
+   </p>
+   <p>
+    Q：目前为止，你在生涯中最喜欢的一个助攻是哪个？为什么？
+   </p>
+   <p>
+    A：我认为我最喜欢的一个助攻会是......我没有最喜欢的，但每次当我接近拿到三双，然后我完成助攻数上双的那次通常就是我最喜欢的。
+   </p>
+   <p>
+    Q：你是否拥有什么赛前仪式？
+   </p>
+   <p>
+    A：我没有任何赛前仪式，就是尽量一切从简，做些拉伸，这通常会提升我的比赛表现。
+   </p>
+   <p>
+    Q：你会在新赛季为费城带回总冠军奖杯吗？
+   </p>
+   <p>
+    A：我打球的目标就是为了在下赛季给费城带回那座奖杯，所以我很期待赛季的开始。
+   </p>
+   <p>
+    Q：你看过阿伦-艾弗森打球吗？对他的球员生涯有何看法？他是否在费城留下了巨大的球迷基础？
+   </p>
+   <p>
+    A：我看过许多阿伦的比赛，多年来都在看AI的比赛，他也是我成长过程中最喜欢的球员之一。我认为他为比赛留下的影响力极为特殊，他是一个很好的人。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/52fa35c1645775e68a7354a47c5871a6.JPG"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

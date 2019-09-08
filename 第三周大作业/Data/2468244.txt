@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾米尔-尼尔森：湖人需要一个像霍华德这样的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1164590977685884928" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 07:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾米尔-尼尔森：湖人需要一个像霍华德这样的球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/e7702a76ed0c9e1426f0414ead1e1bfb47c08da3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 德怀特-霍华德的前队友贾米尔-尼尔森作客节目时谈到了霍华德。
+   </p>
+   <p>
+    “湖人需要一个像霍华德这样的球员，可以冲击篮筐，打挡拆，为投手制造出手空间，他仍然可以在内线打出野兽级别的表现，做一名保护篮筐的球员。”尼尔森说道。
+   </p>
+   <p>
+    尼尔森接着说：“这就是要合适才行，之前霍华德没有找到合适的球队，湖人有勒布朗，他可以领导球队，霍华德最近几个赛季打得不错，他们不会得到一个魔术时期的霍华德，湖人有勒布朗还有隆多，他们都是很棒的领袖，还有杜德利，当球队有很棒的领袖时，你差不多就是自热融入进去了。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

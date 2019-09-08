@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丁威迪训练师：相信篮网会是一支很恐怖的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/nets/news/trainer-for-nets-spencer-dinwiddie-explains-why-he-and-caris-levert-will-thrive-with-kyrie-irving/309735780" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 17:26:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丁威迪训练师：相信篮网会是一支很恐怖的球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/e3c9f41b2380149ff49c7b9aec26915c172b0741.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 篮网后卫斯潘塞-丁威迪的训练师 Olin Simplis今天在采访中谈到了丁威迪休赛期的训练计划，以及篮网队的前景。
+   </p>
+   <p>
+    Simplis表示丁威迪休赛期进行了大量的三分训练，以及对抗训练，以便增强自己的终结能力，另外他也进行了许多篮下勾手和运球摆脱练习。
+   </p>
+   <p>
+    谈及篮网队，他则表示：“他们很全面，并且他们有防多个位置的球员。如今联盟的一大趋势就是去位置化，你可以让三个球员和KD去打1-4号位置，并且他们都可以互换。他们也可以防多个位置，也能参与到挡拆进攻，并且他们都有不错的投射能力，进攻会很流畅。我不会说他们能达到勇士那个级别，但让勇士独特的就是克莱能接球就投，库里也能，KD也能，还有他们持球也非常出色。回顾以往，你找不到他们这样的组合。篮网的防守体系已经很不错了，丁威迪是个会用脑的防守者，勒韦尔是个好防守球员，他们会是一支恐怖的球队，会很恐怖。”
+   </p>
+   <p>
+    2018-19赛季，丁威迪场均28.1分钟，得到16.8分2.4篮板4.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

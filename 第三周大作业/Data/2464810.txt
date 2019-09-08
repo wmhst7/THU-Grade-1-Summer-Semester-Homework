@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利：西部很疯狂，我不知道谁会冲出西部
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1160996082475606016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 08:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利：西部很疯狂，我不知道谁会冲出西部" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/58784fb8f9ad3cfd92b3518ff7300bc172f11fe5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 查尔斯-巴克利参加节目时谈到了新赛季的西部形势。
+   </p>
+   <p>
+    “兄弟，西部将很疯狂，我无法选出西部谁将夺冠有多个原因，第一，伦纳德会打多少场比赛，他在西部不能像上赛季那样缺席22场比赛，因为工作量管理的问题，他上赛季缺席了22场常规赛，这在西部是行不通的，因为西部有很多强队。”巴克利说道。
+   </p>
+   <p>
+    巴克利接着说：“然后是湖人，那就是勒布朗-詹姆斯和安东尼-戴维斯整个赛季里的健康情况，这都是需要答案的真正问题，还有爵士，虽然他们没有在自由球员市场上得到超级球星，但是他们进步很大，还有火箭得到了威斯布鲁克，这会是一个很棒的试验，就像我刚才说的，我不知道谁会冲出西部，快船和湖人都有问题，必须要等等看，伦纳德在西部不能缺席22场。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

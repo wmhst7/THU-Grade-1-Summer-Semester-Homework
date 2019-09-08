@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷晒哈登与演员罗德里格斯合影，并祝后者生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0l8NFlBieM/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 09:45:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷晒哈登与演员罗德里格斯合影，并祝后者生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/64f33916dee153bce7321a58f3f7902528293724.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 今日，火箭总经理达雷尔-莫雷更新社交媒体Instagram，晒出詹姆斯-哈登与著名演员里克-罗德里格斯的合影（见新闻配图）。
+   </p>
+   <p>
+    “生日快乐！@罗德里格斯。”他写道。
+   </p>
+   <p>
+    罗德里格斯在《摩登家庭》中饰演Gloria与前夫的孩子Manny，少年老成，体贴风趣，是《摩登家庭》里不可或缺的一份子。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/09/efd5080ba32140e18ac6166262ab01d4.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

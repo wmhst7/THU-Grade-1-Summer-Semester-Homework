@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥流泪：父亲激励我前进，兄弟是榜样，母亲是英雄
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=MpfvI3eLy_M" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:34:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥流泪：父亲激励我前进，兄弟是榜样，母亲是英雄" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/3a384ea88bc3dbd2890ae33c1fcbb0e6302a62b5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，雄鹿球员扬尼斯-阿德托昆博当选2018-19赛季常规赛MVP，这是他职业生涯首次当选常规赛MVP。
+   </p>
+   <p>
+    在演讲时，阿德托昆博泣不成声，泪流满面。
+   </p>
+   <p>
+    “首先，我要感谢上帝赐予了我这一卓绝的天赋，不然我无法走到今天。我所取得的一切成就都归功于他。”
+   </p>
+   <p>
+    “感谢球队，首先是我的队友，只靠一个人无法赢得60场比赛，每一次我走进更衣室，我都会看到我的队友准备好去战斗了，他们准备好了和我共赴沙场，他们系紧鞋带，准备好发挥100%的努力。我要感谢教练组，教育我们，督促我们，每一天都相信我们，教会我们如何去赢球。我要感谢管理层，如果不是管理层相信我，相信18岁的我，他们让我去领导这支球队，相信我。”字母哥说道。
+   </p>
+   <p>
+    “我的父亲，显而易见，我的父亲无法和我共享这一时刻了。两年前，我说过自己会成为联盟中最好的球员，我会竭尽全力帮助球队赢球，我会成为MVP，每一次我登上球场，我都会想起自己的父亲，他激励着我前进，激励着我努力打球，即便我浑身酸痛，依然埋头前进。我要感谢我的兄弟们，我爱你们，你们是我的人生榜样，我敬重你们，感谢你们为我所做的一切。我要感谢我了不起的母亲，她是我的英雄，她总是坚信我们，她是我们家庭的力量源泉，她是真正的英雄。这只是一个开始，我的目标是夺冠。”
+   </p>
+   <p>
+    “显而易见，还有我的经纪团队，他们相信我，激励我。到头来，这些成就只是一个开始，我的目标是夺冠，正如我父亲所言，你永远要去渴望获得更多，但记得不能贪婪。我的目标是夺冠，我会竭尽全力让那发生。”字母哥说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

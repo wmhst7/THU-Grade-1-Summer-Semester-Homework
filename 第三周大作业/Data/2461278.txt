@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱-汤普森：我认为库兹马将成为湖人的第三位巨星
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/story/2019-08-02/kyle-kuzma-carmelo-anthony-lakers-roster-uswnt?_amp=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 16:34:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱-汤普森：我认为库兹马将成为湖人的第三位巨星" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/8b90b4d0903702b92c3fdb9b18643bfddf287e1d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 湖人前锋凯尔-库兹马和勇士后卫克莱-汤普森近日在出席《使命召唤》游戏宣传活动时接受了采访。
+   </p>
+   <p>
+    库兹马与汤普森作为队友试玩了一段游戏，对此库兹马打趣道：“我们正在建立一点化学反应。”
+   </p>
+   <p>
+    “他是一个好队友，”汤普森说，“我能看出来他经常打《使命召唤》。他的游戏技巧娴熟并不让我吃惊。当然不如我那么会打，不过他的水平还不错。”
+   </p>
+   <p>
+    对于库兹马的篮球能力，汤普森评价道：“他的外线得分能力完美适合当今的比赛，他真的很像一个游走在四号位的三号位选手。现在要跟勒布朗（詹姆斯）和AD（安东尼-戴维斯）一起打球，那么他需要再提升一下接球投篮的能力。但我认为他将承担队内第三巨星的角色，而且会大放异彩。他是一个非常刻苦训练的人，这也是我喜欢他的地方。”
+   </p>
+   <p>
+    “我并不太清楚作为湖人并赢球的感觉是什么，”库兹马说，“我听说过，但自从我进入联盟，我们已连续经历两个失败的赛季。”
+   </p>
+   <p>
+    “身处洛杉矶伴随而来的所有媒体和大众关注度，那当然是与众不同之处。我无论如何也不想改变它。我历经许久才来到这一步，我只想拥抱一切。这是不可避免的问题，作为湖人这也是你必须接受的体验。并不是每个人都适合这里，但我喜欢聚光灯。”库兹马说道。
+   </p>
+   <p>
+    当被问到他能否成为詹姆斯与戴维斯身边的第三球星时，库兹马自信地表示：“我对这个挑战感到兴奋，我为这个时刻一直付出着努力，我已经准备好了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻；汤普森场均出场34.0分钟，得到21.5分3.8篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

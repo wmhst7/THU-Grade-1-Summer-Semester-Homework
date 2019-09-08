@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼日利亚男篮公布12人大名单，阿米奴、奥科吉领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1166270887454281728" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 17:07:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼日利亚男篮公布12人大名单，阿米奴、奥科吉领衔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/13d43d254eae10ab7e08e74d08e529c2f1687fe9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 尼日利亚男篮主教练Alexander Nwora今日公布了球队参加本届男篮世界杯最终12人大名单。
+   </p>
+   <p>
+    具体名单如下：Vincent Nnamdi，奇梅齐耶-梅图，埃克-迪奥古，Ike Iroegbu，迈克尔-埃里克，本-尤佐，艾尔-法鲁克-阿米奴，塔利布-赞纳，Stanley Okoye，乔丹-沃拉，艾派-尤度，约什-奥科吉。
+   </p>
+   <p>
+    本届世界杯，尼日利亚与俄罗斯、阿根廷、韩国同处B组，小组赛在武汉举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

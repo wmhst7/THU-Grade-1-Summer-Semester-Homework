@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  蓄势待发！森林狼官方晒今夏球队新援训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B19qpvmH09f/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 15:30:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="蓄势待发！森林狼官方晒今夏球队新援训练照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190904/4784e90c9ec89ab8a6b47fb32a8006bc5c02ae0b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 今日，森林狼官方更新了社交媒体Instagram发布了一组今夏加盟球队的几名新队员一起参加训练的照片。（见新闻配图）
+   </p>
+   <p>
+    森林狼官方写道：“小分队来势汹汹。”
+   </p>
+   <p>
+    图中包括前锋乔丹-贝尔、诺阿-冯莱、杰克-莱曼以及后卫沙巴兹-内皮尔。
+   </p>
+   <p>
+    根据此前的报道，今夏森林狼与前勇士前锋乔丹-贝尔达成了一份160万美元的协议并在随后与勇士的交易中得到后卫沙巴兹-内皮尔，与自由球员诺阿-冯莱达成了一份一年200万美元的协议，又以3年1150万美元与开拓者受限制自由球员杰克-莱曼达成了协议。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/1861baf44a6fc6407a149d8eba638292.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/6b4dec7607b8117e44feffb4ef3ec889.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/0e1864f41d28da8766cbcec8c96ef5d4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/4195cbef0d8188a6a7becdfc35d63796.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/fbf80b4bb37f0e2ee3eb574de93d4308.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/11c36bb91bc75b9795907afc7b426dc8.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/24fc2572f9196495d3217129c9fde3b4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/15/1d4dc3fc7bf3c4bc7997af8046e38618.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

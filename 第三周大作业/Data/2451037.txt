@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  随队记者：热火管理层绝对喜欢威斯布鲁克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/flasportsbuzz/status/1147595576315437069" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 04:55:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="随队记者：热火管理层绝对喜欢威斯布鲁克" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/0117e84ea70924d55ac381546f70f53d5c236931.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 根据记者Barry Jackson的报道，在这个下午，有一件事非常清楚，那就是热火管理层绝对喜欢雷霆球员拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    Jackson随后分析道，因为雷霆拥有热火2020-2021的无保护首轮签，有足够动机希望热火战绩更差，这一点对于热火交易威斯布鲁克不利。
+   </p>
+   <p>
+    根据之前的报道，威斯布鲁克方面已经与雷霆会面，商谈其在雷霆的未来，不排除在赛季开始前交易的可能性。
+   </p>
+   <span id="editor_baidu">
+    (编辑：环环)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

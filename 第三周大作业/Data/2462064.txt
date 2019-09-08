@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕官方公布季前赛赛程，首战将客场挑战老鹰
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PelicansNBA/status/1158453180033896448" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 03:28:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕官方公布季前赛赛程，首战将客场挑战老鹰" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/de630c080383fef57a9154401b31d8d116351633.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，鹈鹕官方公布新赛季季前赛赛程。
+   </p>
+   <p>
+    具体赛程如下（均为北京时间）：
+   </p>
+   <p>
+    10月8日上午7：30，客场对阵老鹰。
+   </p>
+   <p>
+    10月10日上午8：00，客场对阵公牛。
+   </p>
+   <p>
+    10月12日上午8：00，主场对阵爵士。
+   </p>
+   <p>
+    10月14日凌晨4：00，客场对阵马刺。
+   </p>
+   <p>
+    10月19日上午7：30，客场对阵尼克斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

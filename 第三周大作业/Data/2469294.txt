@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：失利不会影响球队信心，我们要尽快适应比赛风格
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OlgunUluc/status/1165627127095414784" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 09:29:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：失利不会影响球队信心，我们要尽快适应比赛风格" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/43733684d074c99cb6d4aac57630053db4cabc55.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 美国男篮目前正在悉尼备战与加拿大男篮的热身赛，来自爵士的后卫多诺万-米切尔接受了媒体采访。
+   </p>
+   <p>
+    美国男篮在上一场热身赛中以94-98不敌澳大利亚男篮，当被问及上一场比赛的失利是否会影响球队的信心时，米切尔说：“完全不会，说实话，其他人比我们将这件事看得更严重，但对于我们而言，我们从失利中所学到的就是，这会是一场撕咬式的恶斗，比赛风格和NBA有所不同，这是我们需要去适应的。对手在非常年轻的时候就开始一起打球，而我们只磨合了三四周时间，我们需要尽快匹配上对手的化学反应和强度。”
+   </p>
+   <p>
+    北京时间今日下午五点半，美国男篮将迎战加拿大男篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

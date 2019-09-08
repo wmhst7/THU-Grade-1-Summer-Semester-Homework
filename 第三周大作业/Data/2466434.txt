@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船与特里-拉里尔达成一份训练营合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jovanbuha/status/1162746909317971978?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 23:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船与特里-拉里尔达成一份训练营合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/0312c08cf35236392c999d4de95bcaeae6a8114e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据The Athletic记者Jovan Buha的报道，多位联盟消息人士透露，快船已经与特里-拉里尔达成一份训练营合同。
+   </p>
+   <p>
+    拉里尔是2018年选秀大会的落选秀，身高2.03米，体重87公斤，拉里尔大学时期曾就读于弗吉尼亚联邦大学，后来转学去到康涅狄格大学。
+   </p>
+   <p>
+    拉里尔今夏为马刺出战了拉斯维加斯夏季联赛，一共出战7.5分钟拿到5分。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

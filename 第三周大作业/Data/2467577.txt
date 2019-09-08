@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德姐姐社媒晒出伦纳德出席赠送书包公益活动现场照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1ZMn9Klnuu/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 09:25:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德姐姐社媒晒出伦纳德出席赠送书包公益活动现场照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/2b2174e4bd96cf4db4af2e447d20e23a56532ca5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，快船前锋科怀-伦纳德和球队以及公益组织合作，前往了107th Street小学，为那里的学生们发放书包。伦纳德和合作团队总计将为南加利福利亚地区的学生们发放一百万个书包。这些书包印有快船的Logo，目的是减轻低收入家庭的负担。
+   </p>
+   <p>
+    随后，伦纳德姐姐更新了个人社交媒体Instagram晒出伦纳德参加公益活动发布会的现场照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“伦纳德回到了他曾经的莫雷诺谷小学，给学生们赠送免费的书包。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

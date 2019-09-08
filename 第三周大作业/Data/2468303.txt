@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚历山大：我不是拉塞尔-威斯布鲁克，我只想做最好的自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/maddie_m_lee" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 10:04:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚历山大：我不是拉塞尔-威斯布鲁克，我只想做最好的自己" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/a6fadce5793728ffb1d546eb201ccb2fa27bcf97.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 雷霆新援谢伊-吉尔杰斯-亚历山大在今日接受了媒体采访，他谈到了多个方面。
+   </p>
+   <p>
+    谈到自己专注提升的方面，亚历山大说：“力量，我感觉我需要变得更强壮，此外，我还需要提升自己的外线投篮能力，无论是通过运球后的出手还是接球投篮。”
+   </p>
+   <p>
+    谈到上赛季有机会在季后赛中对位斯蒂芬-库里，亚历山大说：“说实话，我对于能够获得这样的机会心怀感激，不是所有人都能够在新秀赛季获得这样的机会。”
+   </p>
+   <p>
+    当被问及能否接班拉塞尔-威斯布鲁克承担起球队的责任时，亚历山大说：“我不是拉塞尔-威斯布鲁克，我们的名字、体型以及其他方面都不相似，我只会努力做自己，做最好的自己，其他一切事情都会水到渠成的。”
+   </p>
+   <p>
+    “我只是一名篮球运动员，不管情况如何，我都需要继续努力，努力在比赛中打出表现。我知道付出努力终究会有回报，我并不担心起步阶段的艰难，我也不关注赞誉，我只会努力工作，保持低调，做最真实的自己。”亚历山大补充道。
+   </p>
+   <p>
+    谈到自己与威斯布鲁克的时尚品位对比，亚历山大打趣道：“他将标准定得非常高。”
+   </p>
+   <p>
+    谈到与新队友克里斯-保罗一同训练，亚历山大说：“我从他身上学到了很多东西，显而易见，他是一位非常出色的球员，他已经保持高水准很多年了。在我成长的过程中，我一直很崇拜他，我会继续向他学习。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

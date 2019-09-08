@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔今日更新个人社交媒体晒出训练视频：纽约，我来了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzWkM1agdLK/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:47:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔今日更新个人社交媒体晒出训练视频：纽约，我来了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/0f5b7aee925613d6c89709e9f0dca5b6e8f5d387.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据此前NBA记者Adrian Wojnarowski报道，经纪人透露，今日朱利叶斯-兰德尔与尼克斯达成3年6300万美元协议。
+   </p>
+   <p>
+    随后，兰德尔更新个人社交媒体Instagram，晒出一段自己刻苦训练备战下一赛季的视频（见GIF）。
+   </p>
+   <p>
+    “纽约，我来了。开启我们的征程吧@尼克斯。”兰德尔发文说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均上场30.6分钟，得到21.4分8.7篮板3.1助攻0.71抢断。
+   </p>
+   <p>
+    <img alt="GIF 2.7M" src="https://c1.hoopchina.com.cn/uploads/images/20190701/11/8eaa15e34f86818f4812819b30c69caa.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4.3M" src="https://c1.hoopchina.com.cn/uploads/images/20190701/11/f09ae4632f12f63393a2a28e49a7d363.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2.6M" src="https://c1.hoopchina.com.cn/uploads/images/20190701/11/14d2949b30bdff1535a44dcad3d890a2.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

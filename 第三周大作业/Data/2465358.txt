@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：俄罗斯俱乐部莫斯科希姆基与杰雷布科签约两年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/919135/jonas-jerebko-officially-joins-khimki/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 20:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：俄罗斯俱乐部莫斯科希姆基与杰雷布科签约两年" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/fedfeea363800eaa3c4edb87249a389973b961b2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 俄罗斯俱乐部莫斯科希姆基宣布，他们已经与约纳斯-杰雷布科签下了一份两年合同。
+   </p>
+   <p>
+    “有机会为欧洲最好的球队之一打球，我对此感到兴奋，在NBA打了10个赛季后，我期待着在欧洲最高水准的联赛打球。”杰雷布科说道。
+   </p>
+   <p>
+    杰雷布科接着说：“很明显的是，对阵欧洲联赛那些最好的球队一直都是我的愿望，加入到这些队友们之中，我对此感到兴奋，我了解球队的一切，还有教练，我们有出色的俄罗斯球员。”
+   </p>
+   <p>
+    “能了解莫斯科这座城市和俄罗斯，我会很开心，我来自欧洲的瑞典，我一直为国家队出战，上一次我们在欧锦赛上与俄罗斯交手过，所以我差不多习惯了欧洲的比赛，所以我认为适应根本不会有困难。”杰雷布科说道。
+   </p>
+   <p>
+    杰雷布科最后说：“我对再次在欧洲展示我的天赋感到激动，为希姆基的球迷们打球，能与亚列克谢-施韦德一起打球让我感到兴奋，他是一名非常有天赋的球员。”
+   </p>
+   <p>
+    杰雷布科在NBA打过635场常规赛，场均出战17.8分钟可以拿到6.2分4篮板。2018-19赛季常规赛，杰雷布科在勇士场均出战16.7分钟可以拿到6.3分4篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

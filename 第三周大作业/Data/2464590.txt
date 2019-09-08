@@ -1,0 +1,89 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  童心未泯！NBA社媒晒出众新秀球员海洋球池内照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1DYC5FgIvv/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 15:30:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="童心未泯！NBA社媒晒出众新秀球员海洋球池内照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/f96dcc3cce2229acca34eac4fd30d2af4bda5608.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，NBA官方为2019级新秀拍摄了新赛季定妆照。NBA官方社交媒体Instagram发布了一组新秀球员在海洋球池内的照片。（见新闻配图，按选秀顺位排序）
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxb2nixsj20u00qowkz.jpg"/>
+   </p>
+   <p>
+    首轮第5顺位被选中的骑士球员达里厄斯-加兰；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxbn1ffpj20u00qo10e.jpg"/>
+   </p>
+   <p>
+    首轮第14顺位被选中的凯尔特人新秀罗密欧-兰福德、首轮第22顺位被选中的格兰特-威廉姆斯、次轮第3顺位被选中的卡森-爱德华兹、次轮第21顺位被选中的特里蒙特-沃特斯；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxcdgtbzj20u00qpah4.jpg"/>
+   </p>
+   <p>
+    首轮第15顺位被选中的活塞球员塞古-敦布亚；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxd2ei9kj20u00qoagy.jpg"/>
+   </p>
+   <p>
+    首轮第25顺位被选中的开拓者球员纳西尔-利特尔；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxdehtysj20u00qojtw.jpg"/>
+   </p>
+   <p>
+    首轮第26顺位被选中的骑士球员迪伦-温德勒；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxdqq1j0j20u00qo77k.jpg"/>
+   </p>
+   <p>
+    首轮第27顺位被选中的快船球员菲翁杜-卡本盖莱；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxe85495j20u00qsagy.jpg"/>
+   </p>
+   <p>
+    次轮第12顺位被选中的奇才球员阿德米拉尔-斯科菲尔德；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wxekc8n0j20u00qsdjq.jpg"/>
+   </p>
+   <p>
+    次轮第15顺位被选中的独行侠球员以赛亚-罗比。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

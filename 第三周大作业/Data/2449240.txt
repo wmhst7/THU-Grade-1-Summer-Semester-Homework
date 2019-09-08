@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔丹声明：感谢沃克对黄蜂的贡献，祝他未来顺利
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/hornets/status/1145725854766551040?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 01:03:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔丹声明：感谢沃克对黄蜂的贡献，祝他未来顺利" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/bba6341d94187e34a2b83dea300bb92b110ee725.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 自由球员肯巴-沃克此前与凯尔特人达成4年1.41亿美金的加盟协议。今日，黄蜂老板迈克尔-乔丹及篮球运营总裁米奇-库普切克就沃克离队一事发布声明。
+   </p>
+   <p>
+    乔丹说道：“谨此代表黄蜂全体成员，我要感谢肯巴为球队为球队效力的难以置信的8个赛季。球场内外，他总是很好地代表着黄蜂、NBA以及夏洛特。对于他将离开球队，我们感到失望。他是一个独特的球员，他的内心无比强大，他拥有不知疲惫的职业精神。肯巴绝对是我们的队史最佳球员之一。我们祝他和他的家人未来一切顺利。”
+   </p>
+   <p>
+    库普切克说道：“在每天与之接触以前，你很难真正了解到一个人。就任一年以来，我享受过自己与肯巴相处的时光。看到他的训练情况，看到他与队友进行互动，在逐步了解他的过程中，我很快地发现他是一名独特的球员，一个独特的人。我们感谢他对球队及社区的贡献，祝愿他前程似锦。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

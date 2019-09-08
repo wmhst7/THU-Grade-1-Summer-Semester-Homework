@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德帅：希望威少拿到很多三双，他的三分命中率会提升
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rockets_Insider/status/1152289469376159746" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 08:49:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德帅：希望威少拿到很多三双，他的三分命中率会提升" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/ca1bc2e94fc8bcee278940909f8430ca5e51b136.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 火箭主帅迈克-德安东尼作客节目时接受了采访，他谈到了拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    “我现在不知道，但是任何时候你让名人堂成员们同时上场，你都会很不错的，我们会尽力打出一波出色的表现。”德安东尼说道。
+   </p>
+   <p>
+    德安东尼接着说：“为了能够得到一名有威少这样能力的球员，你必须放弃一些好球员，但是我们非常激动地想看看我们在一起可以做到什么。”
+   </p>
+   <p>
+    德安东尼称他会对打法进行小的调整，他说：“我不会改变威少和哈登，我们会进行一些小的调整，看看我们哪些方面可以做得更好，但是我期待着他们的得分。”
+   </p>
+   <p>
+    “哈登和威少是最近3个赛季里拿到过MVP的球员，所以如果我要改变他们的话，那我就是疯了。”德安东尼说道。
+   </p>
+   <p>
+    谈到威少，德安东尼说：“你的所见就是你的所得，他是超级有竞争性的球员，每晚都会拼尽全力，我认为球迷们会欣赏他的那种比赛强度，然后在更衣室里，他是一个很棒的家伙，他是我们之前在美国男篮国家队里最友好的球员之一，品才兼优，我认为队友们会爱他的。”
+   </p>
+   <p>
+    谈到威少的三分命中率，德安东尼说：“如果没有小幅增加的话，我会失望，我会真的很失望，我认为我们可以做到，我们就是这样的打法，他会有无限开火权，不用担心这些，他清楚这些会对他有帮助，如果有必要，我们会进行一些小的改变。”
+   </p>
+   <p>
+    “希望威少可以为我们拿到很多三双，因为我们肯定可以用得上他的那些篮板球和运动能力。”德安东尼说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

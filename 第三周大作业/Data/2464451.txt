@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：还没什么退役的感觉，享受从篮球角度帮助儿子成长
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/nba/miami-heat/article233766432.html#storylink=sectionheadlines" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 07:01:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：还没什么退役的感觉，享受从篮球角度帮助儿子成长" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/f8ebfb02a50a9f7d29160091b26a57a274a48ac5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 近日，热火名宿德维恩-韦德出席了在奥兰多举办的Jr. NBA全球冠军赛，期间接受了《迈阿密先驱报》的采访。
+   </p>
+   <p>
+    谈到自己退役后第一个休赛期的生活时，德维恩-韦德说：“我就像往常那样应对这个夏天，享受我的个人生活，与我的家人们呆在一起，继续在我的生意方面努力工作，试图花一点时间远离篮球，你看到我的肤色变黑了一点，所以我晒黑了一些。除此之外，我还没什么退役的感觉。当训练营、媒体日等等我所习惯的一切开始，而我又没有参与其中时，这时候我就会觉得‘哦该死的，我真的退役了。’”
+   </p>
+   <p>
+    谈到自己的儿子扎伊尔-韦德时，德维恩-韦德说：“我喜欢看我17岁的儿子经历打球的过程，作为这件事的一部分我感觉良好，我家里还有9个月大的女儿，所以我得呆在家。但是我很享受从篮球的角度作为帮助儿子成长的一部分。希望有一天他能在大舞台上打球。他还有很多工作要做。但是我现在可以给他我拥有的一切，这意味着现在我能给他的比我能给NBA的更多，我可以给予NBA一点，但我可以给他更多。”
+   </p>
+   <p>
+    谈到自己退役后的感受时，韦德说：“我觉得我完整了。这就是为什么我能够以那样的方式离开赛场，因为我觉得我完整了。我的职业生涯超出了我所能梦想的一切。我认为事情就是这样。有些人没能实现他们想要实现的一些事情，从这个角度来说他们觉得自己心中还有一些念想。对我来说，我完整了，我已经做到了我想要做的一切，还做到了更多的事。”
+   </p>
+   <p>
+    在其职业生涯中，韦德共出场1054次常规赛，场均出场33.9分钟，得到22.0分4.7篮板5.4助攻1.54抢断0.84盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

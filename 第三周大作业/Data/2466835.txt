@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比斯利晒训练挥汗如雨照：许多苦痛，许多热情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UshmVhNeO/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 07:23:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比斯利晒训练挥汗如雨照：许多苦痛，许多热情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/479b612063f91bc36ab7423a77f63d8902bd70a0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 今日，活塞球员迈克尔-比斯利个人Instagram，晒出自己训练时挥汗如雨的照片（见新闻配图）。
+   </p>
+   <p>
+    “许多训练的苦痛，许多训练的热情。”比斯利写道。
+   </p>
+   <p>
+    根据此前的报道，迈克尔-比斯利与活塞达成一年协议。除非比斯利进入活塞新赛季常规赛的大名单，否则这份合同是不受保障的，这就意味着这份合同在新赛季常规赛开始前都是不受保障的。
+   </p>
+   <p>
+    比斯利于2018-19赛季曾短暂效力于湖人。在此期间，比斯利场均出场10.7分钟，可以得到7.0分2.3篮板1.0助攻。
+   </p>
+   <p>
+    比斯利被湖人交易至快船后，快船将其裁掉，随后他加盟中国CBA球队广东队。上赛季，比斯利为广东男篮出战5场比赛，场均出场33分钟，可以得到22.4分9.8篮板4.4助攻1.2抢断2.2封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

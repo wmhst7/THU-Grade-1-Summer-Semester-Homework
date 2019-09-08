@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  幸福美满！德马库斯-考辛斯婚礼照出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://people.com/sports/demarcus-cousins-marries-morgan-lang/amp/" target="_blank">
+     人民网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 08:18:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="幸福美满！德马库斯-考辛斯婚礼照出炉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/22fa40ba222e22374be2f62ce5f6c00a71b55df3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 湖人前锋德马库斯-考辛斯于昨日举行婚礼，权威娱乐杂志《人物》今日独家刊发了考辛斯夫妇的婚礼照。
+   </p>
+   <p>
+    据《人物》报道，考辛斯夫妇昨日于亚特兰大举行婚礼。考辛斯目前是两个孩子的父亲，29岁的他迎娶了28岁的未婚妻摩根。
+   </p>
+   <p>
+    出席婚礼的NBA球员包括奇才后卫约翰-沃尔、雄鹿后卫埃里克-布莱索、勇士前锋德雷蒙德-格林、前勇士球员肖恩-利文斯顿、灰熊球员安德烈-伊格达拉、湖人球员安东尼-戴维斯和奎因-库克以及前NBA球员马特-巴恩斯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/08/9133d978706d0f27098cbe5301ab7abc.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

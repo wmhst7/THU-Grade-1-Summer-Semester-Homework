@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  身材如何？埃内斯-坎特晒夏威夷度假照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1AmRbRFFoS/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 00:38:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="身材如何？埃内斯-坎特晒夏威夷度假照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/9c818e05af43cf9b933a7dc432ebb24f801c3cd7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 近日凯尔特人球员埃内斯-坎特在夏威夷度假，今天他在Instagram上晒出了自己在海边的照片。
+   </p>
+   <p>
+    坎特写道：“夏威夷的感觉。”
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均出场24.5分钟，可以得到13.7分9.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

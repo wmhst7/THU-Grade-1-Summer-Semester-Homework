@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：托马斯-布莱恩特3年2500万续约奇才
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145460868873904128" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 06:36:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：托马斯-布莱恩特3年2500万续约奇才" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/aefd77ff6ecbd63229810e147e00caf19acb0378.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，中锋托马斯-布莱恩特将以3年2500万的合同续约奇才。
+   </p>
+   <p>
+    据记者David Aldridge报道，这份合同为全额保障。
+   </p>
+   <p>
+    2018-19赛季常规赛，布莱恩特在奇才场均出战20.8分钟可以拿到10.5分6.3篮板1.3助攻0.9盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才聘请迈克-隆加巴迪为助理教练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChaseHughesNBCS/status/1152698574167257088" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 06:10:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才聘请迈克-隆加巴迪为助理教练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/88307e574441d3a51db9560b5c8282cd8d3a9af3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 根据NBC奇才队跟队记者Chase Hughes报道，奇才将聘请迈克-隆加巴迪为球队助理教练。
+   </p>
+   <p>
+    隆加巴迪以防守见长，在多支球队担任过防守助理教练。
+   </p>
+   <p>
+    迈克-隆加巴迪上赛季是骑士的助理教练，他曾担任过火箭、凯尔特人、太阳等球队的助理教练，并在任职凯尔特人（2008）与骑士（2016）期间随队获得了总冠军。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

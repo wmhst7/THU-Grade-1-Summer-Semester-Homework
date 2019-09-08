@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰夫-格林祝妻子结婚两周年快乐：我们要一起度过一生
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1XDnQsH3gi/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 10:42:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰夫-格林祝妻子结婚两周年快乐：我们要一起度过一生" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/5c3e3ad44e3c8046dfe2d3b0e885d0ef931a6bae.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 犹他爵士队前锋杰夫-格林今天在个人Instagram上传了两张自己与妻子的合照（见新闻配图）。
+   </p>
+   <p>
+    “尽管只有2年，但是我们还要一起度过一生，结婚两周年快乐，我的挚爱！”格林写道。
+   </p>
+   <p>
+    根据此前的报道，格林在休赛期与爵士签下了一份一年底薪合同。2018-19赛季常规赛，格林场均出战27.2分钟，得到12.3分4篮板1.8助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/10/478016173a17784ad5a20deeb6afb2bd.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

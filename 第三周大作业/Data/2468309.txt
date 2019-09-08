@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马特-巴恩斯：泰伦-卢并不是对付詹姆斯的“秘密武器”
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=z-rqaurIeWc" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 10:33:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马特-巴恩斯：泰伦-卢并不是对付詹姆斯的“秘密武器”" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/504568afe254b6b51545982650ab995d05a3818f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 前NBA球员马特-巴恩斯近日在电视节目中谈到了快船聘任前骑士主帅泰伦-卢担任首席助教一事。
+   </p>
+   <p>
+    NBA记者Brian Windhorst提出卢本可以凭借来自骑士执教合同的高额薪水在家待业，对此巴恩斯认为：“为什么呢？为什么不来洛杉矶呢？”
+   </p>
+   <p>
+    关于“泰伦-卢将是快船对付湖人前锋勒布朗-詹姆斯的秘密武器”的论调，曾效力于湖人和快船的巴恩斯表示：“精明的篮球头脑当然多多益善，2012、2013年那段时期我在快船打球，当时Ty担任道格（里弗斯）手下的助教。但我认为他并不是秘密武器，在全世界见证勒布朗长达15年以上的惊人表现后，泰伦-卢知道的并不比其他人多。保罗-乔治和科怀（伦纳德）应该会是努力阻止勒布朗的秘密武器。但我觉得这是一次很好的运作，相信道格也很高兴能够拥有他。正如我所说，我确信泰伦-卢百分之百会选择洛杉矶而非克利夫兰。”
+   </p>
+   <p>
+    谈到湖人主帅弗兰克-沃格尔和助教杰森-基德与快船主帅道格-里弗斯和助教泰伦-卢的合作情况对比，巴恩斯说：“道格提拔了他（卢），道格指导他准备就绪，我认为他起初前往克利夫兰执教也有道格的一部分功劳。泰伦-卢进入球队时就知道他的角色，道格在许多事情上指点过他，而且道格的帅位非常稳固。所以我说增添一份篮球头脑的贡献是很好的举措，而且他们互相都很熟悉。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大洛佩斯打趣：雄鹿今夏所有补强都很棒，除了签下我弟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/08/24/nba-rumors-bucks-brook-lopez-free-agency-disney-experience-interview-milwaukee-giannis-robin/?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_content=5d61431f37ca34000" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 00:02:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大洛佩斯打趣：雄鹿今夏所有补强都很棒，除了签下我弟" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/9b6c35654d771957bfb94a6b85bce7ebb93f4573.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 雄鹿中锋布鲁克-洛佩斯近日接受了篮球媒体hoopshype的采访，谈及今夏雄鹿的补强。
+   </p>
+   <p>
+    今夏自由市场中，布鲁克-洛佩斯的双胞胎兄弟罗宾-洛佩斯以全额空间特例与雄鹿签约，年薪大约为476万美元。谈及他的加盟，布鲁克-洛佩斯说道：“我认为我们球队今夏所做的一切决定都是正确的，除了签下罗宾，哈哈哈。我不知道这笔签约是否会奏效，我们将拭目以待。”
+   </p>
+   <p>
+    玩笑过后，布鲁克-洛佩斯认真地说道：“和双胞胎兄弟一起打球是一件很酷的事情，我知道我们的妈妈会为之而疯狂。她就出生在密尔沃基并且在这里度过了一段童年时光。而现在，她又将重新成为一名密尔沃基人了，她将一整个赛季都待在这里，为我们加油助威。”
+   </p>
+   <p>
+    洛佩斯兄弟身高均为2.13米，2018-19赛季常规赛，布鲁克-洛佩斯场均出场28.7分钟，得到12.5分4.9篮板2.21盖帽，并入选本届男篮世界杯美国男篮最终12人大名单；罗宾-洛佩斯上赛季代表公牛出战，常规赛场均出场21.7分钟，得到9.5分3.9篮板1.05盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

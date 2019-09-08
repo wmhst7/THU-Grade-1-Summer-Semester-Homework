@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  投入训练！训练师分享安东尼-戴维斯近日力量训练动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/mrdoitmoving?igshid=fax6ql8lqkrt" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 11:45:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="投入训练！训练师分享安东尼-戴维斯近日力量训练动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/765d17f59703a3324e8ae129915f1bb49e64d33b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 训练师Coach Mike.G今日在Instagram Story上更新了湖人前锋安东尼-戴维斯最近的训练动态。
+   </p>
+   <p>
+    在这些视频中戴维斯努力完成了多项力量训练，与他一同训练的还有鹈鹕后卫朱-霍勒迪等人。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190626/11/de5693d47e0b9d5126835c01f2e5fdc0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190626/11/bba248e6b792363af7ef49d2f130fd6d.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190626/11/a02a1e8cc45ff38e0c93cf56d66da53f.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

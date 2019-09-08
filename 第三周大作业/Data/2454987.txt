@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  琼斯：为签回乌布雷兴奋，努力创造有竞争力的环境
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.azcentral.com/story/sports/nba/suns/2019/07/16/suns-finally-have-players-like-kelly-oubre-jr-who-want-here/1750943001/" target="_blank">
+     亚利桑那共和报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 14:49:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="琼斯：为签回乌布雷兴奋，努力创造有竞争力的环境" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/498359fd54fdbbdef1d1c74c1b4677629244c50c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 近日，太阳总经理詹姆斯-琼斯，主教练蒙蒂-威廉姆斯，前锋凯利-乌布雷出席了新闻发布会。
+   </p>
+   <p>
+    总经理詹姆斯-琼斯称，尽管过程是循序渐进的，但他相信事情正在朝着正确的方向发展。琼斯说：“我认为人们已经在上赛季末段窥见了我们可以成为一支什么样的球队。”
+   </p>
+   <p>
+    三月，太阳曾经打出7战5胜的战绩，他们战胜的对手包括洛杉矶湖人，密尔沃基雄鹿以及金州勇士。而乌布雷是这段时间里的关键一环。
+   </p>
+   <p>
+    琼斯说：“凯利-乌布雷是我们扭转局势的重要原因。我们对签回了他感到兴奋。这个夏天对我们来说还不错。我认为我们执行了计划，创造了一个有竞争力的环境。”
+   </p>
+   <p>
+    乌布雷完美适配太阳想要的球风，他能防守多个位置，具有挡拆换防能力，而且不会因此领到犯规。他还能推转换进攻。他清楚他的角色。
+   </p>
+   <p>
+    主教练蒙蒂-威廉姆斯谈到了自己在76人和马刺教练组工作的经历：“我在那时候就喜欢他的全面性，对我来说，拥有一名具备一定经验，但还有提升空间的球员是很舒适的。这很适合我们正试图建立的充满竞争性的环境。”
+   </p>
+   <p>
+    据此前的相关报道，太阳前锋凯利-乌布雷以2年3000万的合同续约太阳，全额保障，不附带球员选项和球队选项。
+   </p>
+   <p>
+    乌布雷在2015年第1轮第15顺位被老鹰选中，后被交易至奇才，并为奇才效力至2018-19赛季中期。乌布雷上赛季中期被交易至太阳，今夏成为自由球员，太阳为其开出了资质报价。2018-19赛季，乌布雷为太阳出战了40场比赛，场均上场29.5分钟得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

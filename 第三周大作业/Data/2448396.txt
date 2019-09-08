@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴特勒将与76人周末会面，合同的第五年情况将成关键
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheAthleticNBA/status/1144979029008760837" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 23:53:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴特勒将与76人周末会面，合同的第五年情况将成关键" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/8c51500e5b4a7cfc1525f495b7c587016f7acb6d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据The Athletic记者Shams Charania报道，消息人士透露，吉米-巴特勒与76人在当地时间本周末会面时，76人所提供合同的第五年情况将成为会面的关键因素。其他有意签下吉米-巴特勒的球队相信巴特勒和其经纪人将把第五年的合同情况放在优先考虑地位。
+   </p>
+   <p>
+    根据此前的报道，巴特勒打算不执行下赛季价值1980万美元的球员选项，试水自由球员市场。
+   </p>
+   <p>
+    多位消息人士透露，76人计划积极运作，寻求与巴特勒签下一份新合同，他们可能会用一份5年1.9亿美元的合同来对抗其他球队对巴特勒的追逐。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，76人一直在向整个NBA表达他们有信心能够同时与自由球员吉米-巴特勒和托拜厄斯-哈里斯完成续约。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

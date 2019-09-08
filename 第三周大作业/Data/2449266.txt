@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：热火通过跟快船76人开拓者来完成了巴特勒的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145801303920173062" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 05:21:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：热火通过跟快船76人开拓者来完成了巴特勒的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/c7ee5a2c66651bc504245f56eb91519f82532178.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，热火通过跟快船、76人、开拓者来完成了自由球员吉米-巴特勒的交易。
+   </p>
+   <p>
+    在这笔交易中，热火送出约什-理查德森、哈桑-怀特塞德和一个未来首轮签，得到巴特勒与来自开拓者的中锋迈耶斯-伦纳德；76人送出马蒂亚斯-莱索尔（2017年第2轮第20顺位被76人选中）的签约权，得到理查德森；快船得到来自开拓者的前锋莫里斯-哈克利斯与未来热火的首轮签及莱索尔的签约权；开拓者送出迈耶斯-伦纳德与莫里斯-哈克利斯，得到怀特塞德。
+   </p>
+   <p>
+    昨天，据Woj报道，76人签约巴特勒，然后将其送至热火，巴特勒将签下4年1.42亿美元的顶薪合同。随后，据ESPN记者Bobby Marks报道，热火需要在合同上更有创造性，通过先签后换得到巴特勒，热火将会触发联盟硬工资帽1.38亿美元，球队的工资将会远超这个上限，因此，热火需要有更多的球员参与到这笔交易。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断，理查德森为热火出战73场，场均34.8分钟得到16.6分4.1助攻；哈克利斯共为开拓者出战了60场比赛，场均23.6分钟得到7.7分4.5篮板1.2助攻；伦纳德为开拓者出战61场比赛，场均出场14.4分钟，得到5.9分3.8篮板；怀特塞德代表热火出战72场比赛，场均23.2分钟得到12.3分11.3篮板1.89盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

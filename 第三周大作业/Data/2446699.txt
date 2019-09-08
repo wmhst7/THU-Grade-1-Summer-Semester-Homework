@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西亚卡姆当选2018-19赛季进步最快球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBAonTNT/status/1143329291687649282" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 09:26:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西亚卡姆当选2018-19赛季进步最快球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/cdc07d5e112ae8c1c8d883b09bdedbf3470b7fa5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，猛龙球员帕斯卡尔-西亚卡姆当选2018-19赛季进步最快球员，这是他职业生涯首次当选赛季进步最快球员。
+   </p>
+   <p>
+    西亚卡姆常规赛为猛龙出场80次，场均出战31.9分钟，能够贡献16.9分6.9篮板3.1助攻0.91抢断，并随队斩获2018-19赛季NBA总冠军。上赛季，西亚卡姆出战81场比赛，场均出战20.7分钟，能够得到7.3分4.5篮板2.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  共同进步！马尔卡宁晒出与拉文训练馆合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2Fp37MAQxX/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 10:36:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="共同进步！马尔卡宁晒出与拉文训练馆合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/d183f241d5bfa734292f84eb8fb441b30a906c99.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，公牛球员马尔卡宁更新个人社交媒体Instagram晒出与队友扎克-拉文的训练馆合照（见新闻配图）。
+   </p>
+   <p>
+    2018-19赛季常规赛，马尔卡宁场均出场32.3分钟，得到18.7分9.0篮板1.4助攻0.71抢断0.63盖帽。
+   </p>
+   <p>
+    2018-19赛季常规赛，扎克-拉文场均出场34.5分钟，得到23.7分4.7篮板4.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：二轮秀文科生)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米尔斯：尼克斯将得到机会与心仪的自由球员展开会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/is-the-knicks-change-in-culture-working/" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 11:26:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米尔斯：尼克斯将得到机会与心仪的自由球员展开会面" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/38283a807cd7bae891d71db57367edf6a76c06a0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 尼克斯篮球运营总裁史蒂夫-米尔斯近日接受采访谈到了球队的运营方向。
+   </p>
+   <p>
+    “我们想为纽约打造一支冠军球队。作为一个从小成长于纽约的人，如果我能够成为奠基人之一，能够合理打造球队，那就是让人兴奋的地方。这很难，但令人激动。”米尔斯说道。
+   </p>
+   <p>
+    米尔斯对自由球员市场展望道：“我们将尽一切努力吸引自由球员加盟，只要他们信服我们的建队目标。”
+   </p>
+   <p>
+    “我们将会得到机会与我们心仪的人选进行会面。”米尔斯表示，但他不愿透露更多细节或具体姓名。
+   </p>
+   <p>
+    米尔斯透露在2017年选秀的芝加哥联合试训期间，一些来自肯塔基大学的新人拒绝接受尼克斯的面试。
+   </p>
+   <p>
+    “我感到很沮丧，因为我从未经历过这种情况，特别是对于新秀，年轻人中间流行一种想法就是他们不愿为尼克斯打球。他们不想在芝加哥与我们会面。我说，‘我们必须必须改变那种观念，从年轻人做起。’”米尔斯说道。
+   </p>
+   <p>
+    虽然尼克斯有机会在7月引入一到两名大牌自由球员，他们仍将保持耐心从而做出正确的运作，或者按兵不动。米尔斯表示尼克斯将会保持重建耐心，他们并不存在签下自由球员的压力。
+   </p>
+   <p>
+    “我们的计划并非创造7000万美元的薪资空间来在今夏追逐自由球员，”米尔斯说道，“我们的目标是通过团队协作，良好的选秀以及引入竞争心强性格好的的球员来有机地打造球队。薪资空间只是其中的副产品。如果我们得到了正确人选，那很好，因为我们在未来仍然拥有年轻球员和选秀权。如果不存在那种球员，我们将会继续遵循计划，做好选秀，好好打球，可能参与交易。我们对球队的未来感觉很好。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

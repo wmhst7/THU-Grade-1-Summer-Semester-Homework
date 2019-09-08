@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  汤普森：西部的竞争太激烈，整个联盟的实力回归均衡
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-08-05/klay-thompson-warriors-acl-surgery-nba-playoffs" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 19:37:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="汤普森：西部的竞争太激烈，整个联盟的实力回归均衡" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/8df0783aaed6f1e5f64916a626f2a142ec26d866.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 勇士后卫克莱-汤普森近日接受采访谈及自己的伤势恢复情况并展望下赛季。
+   </p>
+   <p>
+    “我感觉不错，我会以110%的状态回归。”汤普森在谈到个人近况时说道。
+   </p>
+   <p>
+    汤普森表示他计划在下赛季结束前复出：“那是我的目标。我不太相信自己能在全明星周末前回归，但我想在赛季内复出。”
+   </p>
+   <p>
+    在上赛季总决赛G6的比赛中，汤普森遭遇左膝十字韧带撕裂，随后接受了修复手术。
+   </p>
+   <p>
+    “我的赛季起步方式当然会有所不同，”汤普森说，“在可以恢复跑步之前，我将继续处于休赛期模式。随着凯文（杜兰特）的离开，德马库斯（考辛斯）的离开，球队又失去了安德烈（伊格达拉）和肖恩（利文斯顿），整个联盟的实力回归均衡。过去五年来，所有人都想追赶勇士，不过目前各支球队即便没有取得优势，至少也缩小了差距。因此，得到丹吉洛（拉塞尔）对我们意义重大，因为在我缺席期间，他是一名被证明过的全明星球员，场均20分选手，出色的组织者。”
+   </p>
+   <p>
+    “西部的竞争太激烈了，”汤普森说，“不只是湖人和快船崛起，爵士完成了很好的补强，掘金年轻有为，开拓者有强大的后场组合，火箭在后场拥有两巨头，他们有两位正值巅峰的MVP球员搭档后场。所以我们将面临艰难挑战，但我预计自己将在某个时刻回归赛场。希望我能立刻打出状态，我们届时也能处于季后赛行列。我们需要的只是一个竞争机会。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

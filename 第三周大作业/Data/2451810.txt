@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  经纪人今日抵达拉斯维加斯，届时豪斯将与火箭完成续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1066739/2019/07/08/the-ikosystem-sights-and-sounds-from-summer-league-plus-making-sense-of-the-russell-westbrook-rockets-rumors/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 08:10:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="经纪人今日抵达拉斯维加斯，届时豪斯将与火箭完成续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/7f3e745b762c3811f493fa50689aca5ea783849c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据The Athletic记者Kelly Iko的报道，丹纽尔-豪斯的经纪人Raymond Brothers预计将在当地时间周一某个时刻抵达拉斯维加斯，届时豪斯将与火箭完成续约。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，豪斯将以3年1110万美元的合同续约火箭。
+   </p>
+   <p>
+    2018-19赛季常规赛，豪斯场均出战25.1分钟，得到9.4分3.6篮板1助攻；季后赛豪斯场均出战20.1分钟，得到4.9分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特：没听到受伤时的欢呼，但这会是他们最后一次总决赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/kevin-durant-on-if-the-warriors-mishandled-his-calf-injury-hell-no-211347829.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 05:58:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特：没听到受伤时的欢呼，但这会是他们最后一次总决赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/1938d6b2bfbb936259d294bb9f227cca630d4853.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日篮网球员凯文-杜兰特接受了雅虎记者Chris Haynes的采访。杜兰特在总决赛对阵猛龙的第五场受伤离场，杜兰特受伤时猛龙主场出现了欢呼和鼓掌的声音，直到猛龙球员对观众示意，他们才停下。
+   </p>
+   <p>
+    杜兰特表示自己没有记得当时听到观众的呼声，但他得意地笑着说：“这可能会是他们（猛龙球迷）最后一次出现在总决赛赛场。”
+   </p>
+   <p>
+    杜兰特尝试打开电视回顾第五场比赛，但他很难抑制自己的情绪，他说到：“是的，我还在想那天晚上，我在联盟里经历的种种当然都会留在我心里，但这个绝对会成为我职业生涯非常重要的一部分，因为这是在最高的舞台，因为这种伤病。但我现在简单地把它看成，我去打了一场篮球，然后不小心受伤了，现在我要做的就是等待回归。我知道这对别人来说是件大事，但我只是努力去忍受痛苦，继续前进。”
+   </p>
+   <p>
+    杜兰特今夏宣布自己加盟篮网，加入东部的他将与猛龙争夺总决赛名额。
+   </p>
+   <p>
+    杜兰特在今年总决赛第五场期间遭遇跟腱断裂，报道称他将会缺席下赛季所有比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库克：想在联盟至少征战12年，会坚持不断学习
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/07/21/lakers-nba-rumors-quinn-cook-free-agency-lebron-davis-demarcus-interview-los-angeles-rondo-duke-warriors/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 11:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库克：想在联盟至少征战12年，会坚持不断学习" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/aac9ec85259b8372c53cf33e9c28943064302659.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 近日，湖人后卫奎因-库克在接受媒体采访时谈到了加盟湖人感受。
+   </p>
+   <p>
+    在谈到最终选择加盟湖人的原因时，库克表示：“在自由市场开启后，我考虑了很多球队，这对我来说是一次很好的经历，我学到了很多关于商业运作方面的东西。对我来说，最重要的是加入一个能赢得比赛的队伍。这就是为什么我征战NBA的原因。我想要尽可能多的赢。同时，我想去一个能让我有机会成为稳定的角色球员的球队，然后尽可能的帮助球队赢球。我想一直学习。我想拥有12年的NBA职业生涯，所以我想去一个能跟有经验的球员学习的球队，并在那里做出贡献。我认为湖人与我的需求完美契合。”
+   </p>
+   <p>
+    在被问及为什么想拥有12年的职业生涯时，库克说道：“我的意思是，我总是告诉自己，我想打12年或更长时间。如果我有能力打更久的话，我一定会继续打下去。但是我不确定，这只是我的目标，就是说我想至少在NBA打12年。”
+   </p>
+   <p>
+    根据此前消息，库克与湖人达成了2年600万美元的协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，库克场均上场14.3分钟，能得到6.9分2.1篮板1.6助攻。季后赛场均上场11.4分钟，得到4.2分1.1篮板0.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

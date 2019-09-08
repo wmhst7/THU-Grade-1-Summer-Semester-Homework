@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  考利-斯坦：我对于加盟勇士感到很兴奋，这是全新的开始
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/anthonyVslater/status/1148432800254701569" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 12:24:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="考利-斯坦：我对于加盟勇士感到很兴奋，这是全新的开始" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/3d486907ad1c079c361c2f2a46213f98f5919c99.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 勇士新援威利-考利-斯坦在今日接受媒体采访时谈到选择加盟勇士的原因。
+   </p>
+   <p>
+    “我就是接到了勇士的电话，我不知道有任何理由拒绝他们的邀请，”考利-斯坦说道，“我就是和史蒂夫（科尔）进行了一些交流，德雷蒙德（格林）和斯蒂芬（库里）都对于我的加盟感到非常兴奋，对于我而言，这是一个很简单的选择。”
+   </p>
+   <p>
+    “我认为勇士非常适合我，对于我和我的团队而言，加盟勇士是很简单的选择。这是一个全新的开始，我对此感到非常兴奋。除此之外，这里距离我在萨克拉门托的家并不远，我在那里居住了四年，能够继续维持我在萨克拉门托的关系，在距离不远的地方打球，这很不错。”考利-斯坦说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，考利-斯坦场均上场27.3分钟，得到11.9分8.4篮板2.4助攻1.19抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

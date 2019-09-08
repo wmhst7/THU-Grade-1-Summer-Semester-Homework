@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：步行者与太阳达成TJ-沃伦为主体的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Pacers/status/1147545286274764800" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 01:00:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：步行者与太阳达成TJ-沃伦为主体的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/62610af6b47952cce4a3b22a577ed2377b4f4072.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今日步行者官方宣布，球队正式达成与太阳的交易，送出部分现金，换来TJ-沃伦以及32号秀KZ-奥克帕拉。
+   </p>
+   <p>
+    太阳此举在于处理沃伦的合同，释放薪金空间。此前沃伦在2017年与太阳签下了4年4700万美元的提前续约合同，2019-20赛季年薪为1081万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃伦场均上场31.6分钟，得到18.0分4.1篮板1.5助攻1.19抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

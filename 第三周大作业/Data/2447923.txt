@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  穆罕默德-班巴更新Ins分享与恩比德游览长城照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzPh0dHAsXc/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 15:51:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="穆罕默德-班巴更新Ins分享与恩比德游览长城照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/fb36313247502462a9df507a09dd58fc43a9adbc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日，奥兰多-魔术球员穆罕默德-班巴更新了个人Instagram，上传了一张与76人球员乔尔-恩比德游览长城的合照（见新闻配图）。
+   </p>
+   <p>
+    并配文说道：“一切正在进行中......”
+   </p>
+   <p>
+    近日，班巴、恩比德、尼克斯球员丹尼斯-史密斯以及勇士球员斯蒂芬-库里正在北京参加中国行活动。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

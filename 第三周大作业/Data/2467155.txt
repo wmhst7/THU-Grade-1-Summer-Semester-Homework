@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英格尔斯谈启动墨尔本首家感官训练室：它能帮很大忙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/9NewsMelb/status/1163367184690630657" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 06:21:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英格尔斯谈启动墨尔本首家感官训练室：它能帮很大忙" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/c715ba760308507ee99d223f2be90625783d7bfd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 近日，爵士前锋乔-英格尔斯和妻子Renae Ingles接受了记者的采访，谈到了和Marvel Stadium合作启动墨尔本首家“感官训练室（Sensory Room）”一事。
+   </p>
+   <p>
+    注：感官训练室是一种特别设计，用来训练人的感官的房间，受众包括有交流障碍的儿童。
+   </p>
+   <p>
+    英格尔斯的儿子约克伯此前被诊断患有孤独症。
+   </p>
+   <p>
+    Renae说：“在得知约克伯患有孤独症后，我们都没怎么出门，因为我们害怕去赛场和吵闹的地方。”
+   </p>
+   <p>
+    “我们试着带他去看一些英格尔斯的比赛，但赛场太吵，灯光闪烁，而且人山人海。”
+   </p>
+   <p>
+    英格尔斯说：“对我们来说这个选择非常棒，因为有时候这就是个灾难，我们可能要在15分钟内赶回家。这个项目能解决这个问题。”
+   </p>
+   <p>
+    “我能集中注意力在比赛中，也能知道孩子们情况如何，我能看到他们坐在哪里。如果看不到，我也知道他们在哪，他们是否安全。这种安心感很棒。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/06/0100cebcb39165858a4f3d5a8ea61de8.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/06/0f8e1ef411a39910df366930f41f5747.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

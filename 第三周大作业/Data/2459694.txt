@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯蒂芬-库里ins晒女儿戴面具的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0hyjT7lP2m/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 13:50:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯蒂芬-库里ins晒女儿戴面具的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/f687b0f7b66aa9f5165d1e8f9970fcd64d07fa19.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日勇士球员斯蒂芬-库里更新了自己的个人Instagram动态，晒出了自己女儿戴着面具的照片。
+   </p>
+   <p>
+    “诶，@jabbawockeez（国外著名街舞团体，特色是表演时带着白面具），你们近期有安排面试吗...”库里写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

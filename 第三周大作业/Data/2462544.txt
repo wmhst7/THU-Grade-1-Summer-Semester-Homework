@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卢比奥：我能帮助艾顿和布克达到他们应该达到的高度
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/features/rubio-elevate-suns-potential-assist-developing-young-core#" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 12:38:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卢比奥：我能帮助艾顿和布克达到他们应该达到的高度" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/bae6271f89e0ec046127c864a4a638e34d8400a0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 太阳新援里基-卢比奥在近日接受采访时表示，他已经与新队友德文-布克、德安德烈-艾顿进行了交流，并且非常期待和他们并肩作战。
+   </p>
+   <p>
+    “我能帮助他们达到他们应该达到的高度，”卢比奥说道，“德安德烈和德文-布克，过去这些天我一直在和他们交流，他们也非常兴奋，我已经迫不及待踏上赛场与他们并肩作战了。”
+   </p>
+   <p>
+    太阳主教练蒙蒂-威廉姆斯表示：“当你拥有一个像里基这样的家伙时，他会让球队中的每个人都打得更加高效。作为一名主教练，你会希望场上的一号位球员能够梳理进攻，里基显然能够做到这一点，我认为他也能够让我的工作变得更出色，我们已经进行了一些深刻的对话，就是去了解他是如何看待篮球比赛的。”
+   </p>
+   <p>
+    “我认为德文会打得比之前更高效，他现在已经是一名非常出色的球员了。当你得到像里基这样一名控球后卫时，尽管在NBA中没有一件事是轻松的，但一名出色的控球后卫能够让事情变得简单很多，能够帮助你在面对对手严密防守时打出表现，这样的防守强度正是德文需要面对的。”威廉姆斯补充道。
+   </p>
+   <p>
+    威廉姆斯同时表示，卢比奥的存在能够帮助凯利-乌布雷在攻防转换时表现得更出色。
+   </p>
+   <p>
+    “我认为当你拥有像里基这样的控球后卫和凯利这样的家伙时，他们会在打转换进攻时跑起来，并且打成回合，这会让我的工作更加轻松，我能够坐在场下看着我们的球员建立我们自己的进攻文化。在防守端，里基和凯利这些家伙能够错位换防，时刻保持在对手身前。”威廉姆斯说道。
+   </p>
+   <p>
+    据此前The Athletic记者Shams Charania报道，多位消息人士透露，里基-卢比奥与太阳达成3年5100万美元合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢比奥场均上场27.9分钟，得到12.7分3.6篮板6.1助攻1.34抢断，季后赛场均上场33.6分钟，得到15.4分3.2篮板8.6助攻2.40抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

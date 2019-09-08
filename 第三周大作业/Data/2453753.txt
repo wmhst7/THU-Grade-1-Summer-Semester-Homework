@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯计划明夏与湖人签订长约，但今日未做公开承诺
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1150221065311752193?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 10:36:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯计划明夏与湖人签订长约，但今日未做公开承诺" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/68220237af656e9a89b47b47be7818fc3c4fb2af.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 据NBA记者Dave McMenamin报道，尽管多位消息人士透露安东尼-戴维斯计划在2020年夏天与湖人签订长约，戴维斯并没有在今日的发布会中公开承诺续约。
+   </p>
+   <p>
+    “实话实说，我专注于本赛季，”戴维斯说，“当我被交易到这里时，我的目标是为这支球队赢得总冠军。到了明年的那个时候，你再问我那个问题，我们会重新谈论它的。目前，我专注于本赛季，致力于帮助这支球队成为冠军之师。”
+   </p>
+   <p>
+    戴维斯还在发布会上谈到了他离开鹈鹕加盟湖人的感受：“显然，离开我效力7年的城市感觉不好受，但我认为这对我最有好处，到了我决定的时间。但当我发现自己被交易至湖人后，我意识到对我而言这是一个来到这家优秀俱乐部的绝佳机会，还能在勒布朗（詹姆斯）以及现在我们所得到的这些球员身边打球。能得到这样的机会，而且为一家只关心赢球的俱乐部打球——不只是赢球，他们只致力于赢得总冠军，那是唯一目标——对我而言这是最重要的一点。就是感到了一阵解脱，不再面对未知，心里清楚下赛季我将在哪里打球。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

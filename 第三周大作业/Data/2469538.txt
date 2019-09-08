@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  如何看待霍华德加盟湖人？奥尼尔：我不认识他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/26/shaquille-oneal-dwight-howard-lakers/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 05:52:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="如何看待霍华德加盟湖人？奥尼尔：我不认识他" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/a73e47252cef4c76755a95dc464da7e8e6f32d86.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日，TMZ体育报道了一则关于名人堂成员、前湖人球员沙奎尔-奥尼尔的采访视频。
+   </p>
+   <p>
+    当记者问及如何看待德怀特-霍华德重回湖人一事时，奥尼尔表示：“谁？”
+   </p>
+   <p>
+    当记者再次重复霍华德的名字后，奥尼尔说：“我不认识他。”
+   </p>
+   <p>
+    TMZ在报道中称，有些人会将奥尼尔和霍华德之间的矛盾追溯到2007年全明星赛上的舞蹈battle，霍华德在当时试图通过舞蹈动作表达他可以吃下奥尼尔的心脏，随后奥尼尔用舞蹈动作表达他可以摘下霍华德的脑袋。
+   </p>
+   <p>
+    <img alt="GIF 1.8M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/05/7542ebc418c177fe2e793b9a782da018.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 1.7M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/05/2a2dabab3a82caabf0697f5c4fe6f7ea.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 1.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/05/a73eff291a88188d63920764e1c2b5d9.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2.4M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/05/d828f5876eeb0d14858f156af5bd6744.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

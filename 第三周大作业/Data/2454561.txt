@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  刻苦训练！格雷格-门罗社交媒体晒自己训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz8Sjftn_3T/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 16:13:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="刻苦训练！格雷格-门罗社交媒体晒自己训练照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/97a09a26f1ab458ef96ce80d4203ccd706c74bfa.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 今日，NBA球员格雷格-门罗更新社交媒体Instagram，晒出自己训练照（见新闻配图）。
+   </p>
+   <p>
+    “正确的去做事，首先需要热爱，其次就是技术。”他写道。
+   </p>
+   <p>
+    2018-19赛季，门罗分别代表猛龙、凯尔特人以及76人出战，场均出场11.2分钟，得到5.3分4.0篮板。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/741b6fc925cd4c1527ffe6bf360e3c77.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/a41f4da34aa1b7a1e72a4cf4a602e4e5.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/34ed762595aaa6f601d17766c31dea9e.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/16/6c483471c9cb2a2430649dafc31103ac.png"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

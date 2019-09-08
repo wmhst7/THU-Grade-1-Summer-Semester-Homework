@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰官方更新社媒晒出杰伦-亚当斯赛场旧照并向其致谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz3hCgIhV3W/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 10:44:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰官方更新社媒晒出杰伦-亚当斯赛场旧照并向其致谢" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/58ea84d6063367697ffa8845a95fe322e0faf797.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据此前消息报道，老鹰官方今日宣布，他们已经裁掉了杰伦-亚当斯。
+   </p>
+   <p>
+    随后，老鹰官方更新了社交媒体Instagram晒出亚当斯赛场照向其致谢。
+   </p>
+   <p>
+    老鹰官方发文说道：“谢谢你，杰伦-亚当斯。”
+   </p>
+   <p>
+    老鹰在2018-19赛季与亚当斯签下了一份双向合同，随后将他的合同转为常规合同。如果亚当斯不被裁掉，那么他2019-20赛季价值145万美元的合同将在当地时间7月19日转为全额受保障。
+   </p>
+   <p>
+    2018-19赛季常规赛，亚当斯场均出战12.6分钟，可以拿到3.2分1.9助攻1.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

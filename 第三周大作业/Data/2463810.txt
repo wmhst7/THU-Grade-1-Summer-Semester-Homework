@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英格尔斯：我喜欢为国出战，希望我们能赢回一枚奖牌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FIBAWC/status/1159853658978304000" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 11:01:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英格尔斯：我喜欢为国出战，希望我们能赢回一枚奖牌" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/462348b52d64c655a1d2d112b54a62e7cc75a1b9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 近日，澳大利亚球员、爵士前锋乔-英格尔斯接受了国际篮联记者的采访。
+   </p>
+   <p>
+    谈到里约奥运会没能赢下铜牌，英格尔斯说：“丢掉铜牌太糟糕了。但是我们在这些年里是头一次离铜牌这么近。现在是倾尽全力的时候了。这次世界杯会很激动人心。有很多人支持我们，希望我们能成为首支为澳大利亚带回奖牌的队伍。”
+   </p>
+   <p>
+    “凭我们的阵容，我们会很有自信。在我们最近的几次参赛中，我们的名次也不错。”
+   </p>
+   <p>
+    “对我和我们队伍来说，为国出战，我们满怀骄傲。我们不是代表自己，而是代表2300万民众，我们代表的是澳大利亚。我们知道每个人都在看着我们，不管是在现场还是在家里，我们感受得到。”
+   </p>
+   <p>
+    “为澳大利亚比赛是我打篮球的原因。在我长大的过程中，我一直想为国出战。这就是我想做的。NBA和打职业联赛那时候想起来还遥遥无期。”
+   </p>
+   <p>
+    “我当时看过澳大利亚在奥运会和世锦赛的比赛，那是澳洲人必看的项目。第一次穿上澳大利亚球衣的感觉很特别。”
+   </p>
+   <p>
+    “身穿澳大利亚球衣，背上是你的名字，这是你在别处体会不到的。我热爱征战NBA，热爱在欧洲打球，但为国出战是一种无可比拟的经历。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

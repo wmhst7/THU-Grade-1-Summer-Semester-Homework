@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯试图用手机拍摄詹姆斯，后者羞涩跑开
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rachel__nichols/status/1150143093972144128?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 08:14:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯试图用手机拍摄詹姆斯，后者羞涩跑开" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/6927a421a728f42c636b61bb9f2fc450c26b1753.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 NBA记者Rachel Nichols今日通过推特发布了一段湖人前锋勒布朗-詹姆斯与安东尼-戴维斯进行互动的视频。
+   </p>
+   <p>
+    湖人今日为戴维斯举行加盟发布会，詹姆斯也到场支持队友。“安东尼-戴维斯试图把勒布朗发到他的社交媒体上，勒布朗跑开了。AD今天表示自己和勒布朗的友谊是他想要加盟湖人的原因之一。”Rachel写道。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4393994639292255">
+     视频：詹姆斯与戴维斯轻松互动（17秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    在视频中，Rachel询问詹姆斯：“不想让他拍你？”詹姆斯回答：“不。”随后戴维斯走过来拿着手机向詹姆斯展示说：“LJ23？AD3？”
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190714/08/c26417e9c7d639363220e620f8b7c0a8.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190714/08/c63335ace8e0b88479128decac04ba65.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

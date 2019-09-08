@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：詹姆斯就像是一个大股东，我会频繁听取他的意见
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/gswchris/status/1149132082574004224?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 12:06:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：詹姆斯就像是一个大股东，我会频繁听取他的意见" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/11c01eaafc89f2d079fe3102c857c3085072ffb2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 湖人主帅弗兰克-沃格尔今日在夏联现场接受采访时谈到了队内球员勒布朗-詹姆斯。
+   </p>
+   <p>
+    沃格尔在描述他与詹姆斯的交流情况时说：“我们现在有一些交流，预计临近开赛时，我们还会有大量交流。现在球队阵容构建完毕，我们将会坐下来仔细分析研究计划细节。赛季进行期间，我们也会听取他的意见。我一向尝试像对待合作伙伴那般对待我手下最好的球员们，而勒布朗更像是一个大股东，这是由于他的为人，他的伟大生涯，他的篮球头脑及丰富经验。我们会全力合作，我将频繁考虑他的意见，我们会携手共进。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

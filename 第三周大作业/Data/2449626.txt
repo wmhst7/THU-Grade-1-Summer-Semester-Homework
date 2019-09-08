@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人认为自己领跑伦纳德争夺战，猛龙丝毫没有后退
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1146151160325246978" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 04:28:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人认为自己领跑伦纳德争夺战，猛龙丝毫没有后退" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/7e011c13b919e4223c5400baecb6a4cb22bd3054.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 《纽约时报》的记者Marc Stein今日在推特上发表了自己对于科怀-伦纳德争夺战的看法。
+   </p>
+   <p>
+    Stein写道：“首先，在詹姆斯和魔术师分别对伦纳德进行招募后，湖人仍然认为自己领跑伦纳德争夺战。其次，湖人和快船官方似乎都尽可能少发表对于伦纳德招募的看法，因为伦纳德阵营对于球队的保密能力非常看重，湖人和快船不想让伦纳德阵营感到沮丧。最后，猛龙方面丝毫没有后退，并且Drake已经组建了自己的招募团队，想方设法用各种方式说服伦纳德留下。”
+   </p>
+   <p>
+    根据此前的报道，伦纳德至少要在北京时间7月5日才会做出决定，并且目前没有人知道他的想法和倾向，此外，追求他的三支球队猛龙、快船和湖人目前都没有出局。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

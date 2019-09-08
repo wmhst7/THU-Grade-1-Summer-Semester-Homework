@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：泰伦-卢加入快船教练组，担任首席助教一职
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1164000872742998016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 10:28:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：泰伦-卢加入快船教练组，担任首席助教一职" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/2c923358026cdc301e1defca8abd4be857f3dc4a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 据NBA记者Shams Charania报道，消息人士透露前骑士主教练泰伦-卢已经与快船达成协议，他将加盟快船教练组担任首席助教一职，合同的年限和具体金额尚未公布。
+   </p>
+   <p>
+    卢此前曾与现快船主帅道格-里弗斯曾在2011年至2014年的四年间，在凯尔特人和快船都有过共事经历。
+   </p>
+   <p>
+    此前卢曾面试了湖人主帅一职，但双方就合同年限未能达成一致。随后火箭和鹈鹕也曾有意让卢担任首席助教，但后者在当时仍希望担任球队主帅。
+   </p>
+   <p>
+    泰伦-卢在2011-13赛季在凯尔特人任职助理教练一职，并在2013-14赛季追随里弗斯来到快船担任助教。2014年夏天，泰伦-卢出任骑士首席助教一职，并在2016年1月23日接替布拉特出任骑士主帅一职，率领骑士夺得2016年NBA总冠军。在2018年10月29日，在0胜6负的开局后，泰伦-卢被骑士解雇。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

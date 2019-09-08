@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  世界摄影日！乐福回顾2016年骑士夺冠瞬间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Xdj62g5WV/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 11:36:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="世界摄影日！乐福回顾2016年骑士夺冠瞬间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/ae8e9d3c92984fb8bce87fd696718262e5f94b93.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 克利夫兰骑士队中锋凯文-乐福今天在个人Instagram上传了一张2016年骑士夺冠的照片（见新闻配图）。
+   </p>
+   <p>
+    “#世界摄影日，不得不留念一下。”乐福写道。
+   </p>
+   <p>
+    世界摄影日是一个国际性的纪念日，是全世界摄影师及摄影爱好者的节日，时间为每年的8月19日。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

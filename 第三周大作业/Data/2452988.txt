@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里谈球队阵容变化：我们对比赛的预期没有改变
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sfchronicle.com/warriors/article/Warriors-Stephen-Curry-Expectations-won-t-14089387.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&amp;utm_source=t.co&amp;utm_medium=referral&amp;psid=c9hgR" target="_blank">
+     旧金山纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 07:41:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里谈球队阵容变化：我们对比赛的预期没有改变" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/64b0af38e5666e9d9f2b18b30cc2b57a57f7fbe8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 近日，金州勇士队后卫斯蒂芬-库里在一年一度的高尔夫名人锦标赛新闻发布会上接受了《旧金山纪事报》记者Ron Kroichick的采访。
+   </p>
+   <p>
+    在过去两周，勇士的阵容出现了很大的变化。凯文-杜兰特离开勇士加盟篮网，拉塞尔加盟勇士，而功勋老将安德烈-伊格达拉（被交易至灰熊）与肖恩-利文斯顿（被裁员）则双双离开。
+   </p>
+   <p>
+    在谈到球队的变化时，库里说道：“有很大的变化，只要我们能凝聚成一个团队，事情将会继续发展。对我个人来说，克莱（汤普森）、德拉蒙德（格林），刚刚加盟的丹吉洛（拉塞尔）以及许多饥渴并且打算证明自己年轻球员们，这看上去会很不同。但是我们打球的预期以及冠军级别的篮球都不会改变，我对此感到兴奋。”
+   </p>
+   <p>
+    在谈到杜兰特时，库里说道：“我们在一起度过的三年很特殊，我们连续三年打进总决赛并且获得了其中的2个冠军，作为一个团队，我们做到了很多。每个人都在谈论我们那支球队所拥有的天赋，但这并不意味着你能将那些天赋揉合到一起。我喜欢关注着我们已经取得的（成就）并专注于这一点，我对这段旅程感到非常自豪。现在，我们则尝试着重新去创造它。”
+   </p>
+   <p>
+    在谈到伊格达拉与利文斯顿时，库里说道：“现在我是队里最老的了，所以我必须提升我的比赛了。这是一件艰难的事情，你知道的在某些时刻会有一些比较艰难的改变。你谈到安德烈与肖恩，他们是两个一直以正确方式做事情的家伙，他们一直有着最高级别的职业素养，向他们的所言所行表示尊重。他们都已经有了三个总冠军，而且我觉得他们的油箱里还有很多油，看到他们出现在其他球队会很有趣也会很奇怪。”
+   </p>
+   <p>
+    在谈到拉塞尔时，库里说道：“他去年的表现不可思议，他们在布鲁克林所做到的以及他进化到了一个新的级别（被认可的全明星）。我和他之间并没有太多的私人互动，在他当年被选中时，会有一些人将我们的比赛进行了一些比较。他可以控球、投篮以及传球。拥有像这样全能的球员能够帮助我们，相信我们很快就会有化学反应。互相鼓励，保持自信，我们会从彼此当中获益甚多。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

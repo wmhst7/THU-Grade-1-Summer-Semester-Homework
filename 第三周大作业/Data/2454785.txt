@@ -1,0 +1,67 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  全新启航！鹈鹕官方发布鲍尔和哈特球衣定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/pelicansnba/status/1151214268005736449?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 06:49:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="全新启航！鹈鹕官方发布鲍尔和哈特球衣定妆照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/92e592c658124c5dca2cab5242e0916dede772da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 鹈鹕官方推特今天发布了后卫朗佐-鲍尔和约什-哈特的球衣定妆照。今日鹈鹕为鲍尔、哈特、布兰登-英格拉姆以及德里克-费沃斯4位新援举行加盟发布会，鹈鹕官方Instagram也更新了一组发布会现场图片。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/a146ba91e09fb010cd796fc5d7d2097a.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/af2bf30a40d778c6b00cb2224c4aa6c5.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/65ae892c36f3c62cb00eafbfba66ca1a.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/208b6dbbc2ce1c45a1d70d1f328a4c37.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/874c2e0d884e8bb27c593bc93e5760af.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/6a96cf3873bab375707716d515cfe551.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/bbc2535353d8d2370edc1070e97853f6.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/b4fb797ed7df6dc531b53accfc833106.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库佛斯：签约莫斯科中央陆军会让我成为一名更好的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/923556/kostas-koufos-playing-for-cska-will-make-me-a-better-player/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 07:33:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库佛斯：签约莫斯科中央陆军会让我成为一名更好的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/ec96ed708694991a7156a8b6f12c48ee2db7684f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 科斯塔-库佛斯今夏与俄罗斯俱乐部莫斯科中央陆军签约，双方签下了一份2年600万美元的合同。
+   </p>
+   <p>
+    “我将得到很多新的机会，我会得到打球的机会，并且得到让自己作为一名球员变得更好的机会，不仅如此，这里的教练还有球员，他们都很出色。”库佛斯说道。
+   </p>
+   <p>
+    库佛斯接着说：“这会帮我成为一名更好的球员，Itoudis是一名很棒的教练，他很坦率，我喜欢这一点，他是那种可以让你变得更好的教练之一。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库佛斯场均出战12分钟，可以拿到3.7分4.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

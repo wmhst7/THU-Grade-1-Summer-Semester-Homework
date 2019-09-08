@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：骑士裁掉JR-史密斯，后者成为自由球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1150872811679952901" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 05:03:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：骑士裁掉JR-史密斯，后者成为自由球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/820974aea0dd05b516626f0ec91983d90903555a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，骑士使用延伸条款裁掉JR-史密斯，后者成为自由球员。
+   </p>
+   <p>
+    根据Shams报道，骑士此前一直在尝试交易史密斯。
+   </p>
+   <p>
+    在使用延伸条款后，史密斯2018-19赛季的薪水将分成三年支付，每年骑士支付145万美元。若史密斯与其他球队签下一份老将底薪合同，骑士将会得到50万美元的补偿。
+   </p>
+   <p>
+    根据此前的报道，若史密斯没有在当地时间今日（7月15日）被裁，他的合同保障金额将由437万美元升至512万美元。
+   </p>
+   <p>
+    史密斯在2014-15赛季中期被尼克斯交易至骑士，随后在骑士效力至今，他在2015-16赛季帮助骑士夺得总冠军。
+   </p>
+   <p>
+    2018-19赛季常规赛，史密斯共上场11次，场均上场20.2分钟，得到6.7分1.6篮板1.9助攻1.00抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

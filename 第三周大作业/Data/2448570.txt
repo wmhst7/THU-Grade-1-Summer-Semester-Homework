@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷-杨今日晒出与小迈克尔-波特合影并祝其生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzUClnip__-/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 11:21:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷-杨今日晒出与小迈克尔-波特合影并祝其生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/b86f79c6670a45cbfda88ff4b419b37226620146.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，老鹰后卫特雷-杨更新了个人社交媒体Instagram晒出自己与掘金前锋小迈克尔-波特的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“祝我的兄弟21岁生日快乐！”
+   </p>
+   <p>
+    小迈克尔-波特在去年被掘金在选秀大会上以首轮第14顺位选中，但由于伤病问题，缺席了2018-19整个赛季。根据此前消息报道，小迈克-波特将于下赛季迎来复出。
+   </p>
+   <p>
+    2018-19赛季常规赛，特雷-杨场均出场30.9分钟，可以得到19.1分3.7篮板8.1助攻0.89抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

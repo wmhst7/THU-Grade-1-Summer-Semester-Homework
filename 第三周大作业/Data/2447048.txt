@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士曾在选秀夜拒绝多个关于JR-史密斯的交易报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cleveland.com/cavs/2019/06/cleveland-cavaliers-turned-down-jr-smith-offers-on-draft-night-could-end-up-releasing-him-before-june-30.html" target="_blank">
+     克利夫兰老实人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 03:58:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士曾在选秀夜拒绝多个关于JR-史密斯的交易报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/d365e5be79f67ccd92a2fc16608ff5426d0bc35f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 据《克利夫兰老实人报》记者Chris Fedor报道，联盟消息人士透露，骑士在进入选秀大会时的预期是交易掉后卫JR-史密斯，但他们拒绝了多个本可以带回一个首轮选秀权资产的报价。
+   </p>
+   <p>
+    若史密斯在当地时间6月30日过后不被裁掉，他的合同将转为下赛季全额保障的1560万美元；若他被裁掉，则合同中的保障金额仅为387万美元。
+   </p>
+   <p>
+    据熟悉交易讨论的消息人士透露，目前为止，骑士仍在试图交易史密斯，但交易情况很复杂。据Fedor报道，交易对象球队将会要求骑士接收溢价合同，这将让他们陷入奢侈税麻烦。若骑士本赛季不能避税，他们将被征收重复奢侈税。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

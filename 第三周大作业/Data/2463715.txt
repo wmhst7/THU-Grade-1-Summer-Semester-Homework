@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰新秀德安德烈-亨特和Nike达成多年球鞋代言合约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickDePaula/status/1159941110422106112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 05:45:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰新秀德安德烈-亨特和Nike达成多年球鞋代言合约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190810/e5dd497cc8bfee1c5ac325c6eb94ff70843e4619.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 据记者报道，老鹰新秀德安德烈-亨特和Nike签下一份多年球鞋代言合同。
+   </p>
+   <p>
+    亨特今年21岁，身高2.01米，体重102公斤，司职前锋，在2019年选秀大会上被湖人在首轮第4顺位选中，随后被交易至老鹰。
+   </p>
+   <p>
+    2018-19赛季在NCAA作为弗吉尼亚大学球员出场38次，场均出战32.5分钟，能够贡献18.5分6.4篮板3.7助攻1.4抢断0.6盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

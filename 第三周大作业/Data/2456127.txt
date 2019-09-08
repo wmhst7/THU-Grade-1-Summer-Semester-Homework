@@ -1,0 +1,69 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  薪资专家发布尼克斯新援合同细节：兰德尔21-22赛季部分保障
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TommyBeer/status/1152237685005832199?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1152237685005832199&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Fknicks-news-bobby-portis-has-" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 15:31:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="薪资专家发布尼克斯新援合同细节：兰德尔21-22赛季部分保障" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/a038852b77bd5b737094a9733e7c0636aeda6db0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 今日，NBA薪资专家Tommy Beer在推特上公布了尼克斯今夏签约球员的合同细节。
+   </p>
+   <p>
+    泰-吉布森、韦恩-艾灵顿和雷吉-布洛克的合同在2020-21赛季均有100万美元部分保障。
+   </p>
+   <p>
+    朱利叶斯-兰德尔的合同在2021-22赛季有400万美元部分保障。
+   </p>
+   <p>
+    博比-波蒂斯的合同在2020-21赛季有1575万美元的球队选项。
+   </p>
+   <p>
+    根据此前的报道，泰-吉布森的合同金额为2年2000万美元、韦恩-艾灵顿的合同金额为2年1600万美元、博比-波蒂斯合同金额为2年3100万美元、朱利叶斯-兰德尔合同金额为3年6300万美元。雷吉-布洛克与尼克斯达成过一份2年2100万美元的合同，但由于布洛克的体检出了问题，尼克斯质疑其打满整个赛季的能力，因此双方重新达成了一份为期两年的合同，尼克斯将用低于空间中产特例（每年470万美元）的价格签下布洛克。
+   </p>
+   <p>
+    2018-19赛季最后阶段，布洛克因为足底筋膜炎缺席了湖人最后10场比赛中的8场。2018-19赛季常规赛，雷吉-布洛克场均出场29.8分钟，可以得到11.3分2.7篮板2.0助攻0.6抢断。泰-吉布森场均出场24.1分钟，得到10.8分6.5篮板。韦恩-艾灵顿场均出场24.5分钟，得到10.3分2.0篮板。朱利叶斯-兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。博比-波蒂斯场均出场26.0分钟，得到14.2分8.1篮板。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2454752.html">
+     官方：尼克斯正式签下布洛克和马库斯-莫里斯
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2452288.html">
+     尼克斯正式签下兰德尔、佩顿、波蒂斯、艾灵顿、吉布森
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

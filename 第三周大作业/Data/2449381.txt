@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔晒与女儿合照：你在看什么呢？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzZJtAKpyGU/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 10:43:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔晒与女儿合照：你在看什么呢？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/dacdda706efc823aa487b9500a773ade0f5f86d9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，鹈鹕后卫朗佐-鲍尔在个人社交媒体Instagram上晒出与女儿的合照。（见新闻配图）
+   </p>
+   <p>
+    鲍尔配文：“你在看什么呢？太好笑了，大家来起个标题。”
+   </p>
+   <p>
+    被赞次数最多的网友评论为：“‘你怎么就这么把我爸爸交易了’（笑哭表情）”
+   </p>
+   <p>
+    鲍尔2018-19赛季场均为湖人上场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/10/4fe6e891771ac557b355040a225edf3c.jpg"/>
+    ​
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

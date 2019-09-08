@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  豪斯谈为休斯顿太空人开球：我紧张，我超级紧张
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1163969636209168384" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 08:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="豪斯谈为休斯顿太空人开球：我紧张，我超级紧张" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/e91b0c5a2567c010dd14b970d1c846cbce976c13.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 美职棒大联盟球队休斯顿太空人队今日在主场美汁源球场对阵底特律老虎队，火箭的丹纽尔-豪斯为比赛开球。
+   </p>
+   <p>
+    “我紧张，超级紧张，一个孩子在我前面开球，他的表现很棒，他将标准拉高了，我只想确保自己别搞砸。”豪斯说道。
+   </p>
+   <p>
+    在这么多人面前打过球的豪斯还会紧张么？豪斯说：“当然了，这是棒球，我只想确保自己给观众们留下印象，让他们看看我也能打打棒球，不是太会，但是会一点。”
+   </p>
+   <p>
+    豪斯今夏以3年1110万美元的合同续约火箭，他的家乡是休斯顿。
+   </p>
+   <p>
+    2018-19赛季常规赛，豪斯场均出战25.1分钟得到9.4分3.6篮板1助攻，季后赛豪斯场均出战20.1分钟得到4.9分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

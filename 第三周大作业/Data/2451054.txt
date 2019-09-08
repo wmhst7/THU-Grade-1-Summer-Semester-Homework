@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：公牛签约赛迪斯-杨，裁掉哈里森和莱蒙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bulls/news/bulls-sign-thaddeus-young" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 07:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：公牛签约赛迪斯-杨，裁掉哈里森和莱蒙" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/fa6e22c00d530bea3ac9ffd36fee798419fb8da8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 公牛官方今日宣布，他们已经签下了自由球员赛迪斯-杨，他将在公牛身穿21号球衣。
+   </p>
+   <p>
+    根据之前的报道，杨与公牛达成协议，将以3年4100万美元加盟公牛。
+   </p>
+   <p>
+    2018-19赛季常规赛，杨代表步行者场均出场30.7分钟，得到12.6分6.5篮板2.5助攻1.52抢断0.44盖帽。
+   </p>
+   <p>
+    另外，公牛还宣布他们裁掉了沙奎尔-哈里森和沃尔特-莱蒙。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里森场均出战19.6分钟可以拿到6.5分3篮板1.9助攻1.2抢断；莱蒙场均出战27.8分钟可以拿到14.3分4.5篮板5助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

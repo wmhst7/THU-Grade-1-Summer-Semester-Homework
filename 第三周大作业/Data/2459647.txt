@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王前锋巴恩斯今日晒出与妻子婚礼合影并表白：永远爱你
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0gbV1SBYGa/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:00:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王前锋巴恩斯今日晒出与妻子婚礼合影并表白：永远爱你" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/18be6b2094b9fc1da9e565973f577e9db5318e03.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日，国王前锋哈里森-巴恩斯更新个人社交媒体Instagram晒出一张当年与妻子在婚礼上的亲密合照（见新闻配图）并发文表白妻子。
+   </p>
+   <p>
+    巴恩斯发文说道：“我这辈子做的最佳决定就是娶你。结婚两周年了，让我们陪伴对方一生吧。当我在休息时，我就会想到这些年来我们那些有趣的回忆，还有我会对我们未来将一起经历的感到兴奋。宝贝，我爱你亘古不变。"
+   </p>
+   <p>
+    根据此前消息，巴恩斯已经正式与国王续约，合同金额为4年8800万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴恩斯为国王出战了28场比赛，场均上场33.9分钟得到14.3分5.5个篮板1.9次助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

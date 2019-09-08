@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  康利：球员尊重我与他们的交流和我的牺牲，我感觉很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/08/12/nba-utah-jazz-rumor-trade-mike-conley-donovan-mitchell-gobert-interview-memphis-grizzlies/?utm_source=smg&amp;utm_medium=wasabi&amp;utm_content=home-latest-news" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 14:31:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="康利：球员尊重我与他们的交流和我的牺牲，我感觉很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/9fc545cc497c86709b81a8bc0bd665efdfb05a1d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 今日，爵士后卫迈克-康利接受了记者采访。
+   </p>
+   <p>
+    埃德-戴维斯和杰夫-格林此前曾说，康利是他们拥有过的最好的队友之一，也是他们与爵士签约的主要原因。对此，康利说：“说实话，听到这样的话我感到惭愧。因为埃德-戴维斯和杰夫-格林可以去任何一支球队。他们原本可以轻易去洛杉矶或是东海岸的一支球队，以及其他球队，但是他们选择加入爵士。我是他们选择爵士的一个理由，这让我感觉很棒，这让我意识到，我做的事不仅仅体现在数据统计上。当你与球员们建立联系，为球员们做出牺牲时，他们会尊重你所做的一切。我与他们的关系像是兜兜转转回到了原地。职业生涯初期，他们是我的队友，看到他们回来再次与我一起打球，这是一件很酷的事。”
+   </p>
+   <p>
+    谈到球员们是否有过对于争冠的讨论时，康利说：“当我们与主教练奎因-斯奈德有过交流之后，我们都明白最终的目标——每个人的最终目标——是什么，那就是赢得总冠军。我们都知道。我们会完成每天的目标，来成为总冠军吗？无论是在每次训练和投篮练习中倾尽全力，在比赛前保证我们100%投入，保证我们始终准时训练，没人迟到，还是在力所能及的范围内做出不同的牺牲……我们每天都在做这样的事吗？这就是争冠的主要因素。我认为我们现在所处的阶段是，我们要努力工作，努力保持谦逊和专注，保持对比赛的尊重。最终，如果我们做到了我所说的一切，我们就会拥有一支足够优秀的队伍，一个足够优秀的团队，以及一些足够优秀的教练，从而有机会争冠。”
+   </p>
+   <p>
+    灰熊今夏将康利交易到了爵士，得到杰-克劳德、凯尔-科沃尔、格雷森-阿伦、2019年选秀大会首轮23号签以及一个2020年的受保护首轮签。
+   </p>
+   <p>
+    康利NBA职业生涯前12个赛季都在灰熊效力，出战788场常规赛，场均出战32.6分钟可以拿到14.9分3篮板5.7助攻1.5抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，康利场均出场33.5分钟，得到21.1分3.4篮板6.4助攻1.3抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯发推祝福I Promise师生：明天开学第一天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1155685069308215296?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 13:02:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯发推祝福I Promise师生：明天开学第一天" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/31db3b44e1101a5333f299f907fdf18f0ddc19d6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 湖人前锋勒布朗-詹姆斯今天发推鼓励其创办的I Promise学校全体师生。
+   </p>
+   <p>
+    “祝愿我的I Promise学校的全体师生和家长明天度过最难以置信的开学第一天！我们开启了一项别人认为不可能完成的任务，每一年我们都将继续实现逆袭。永远不要看扁任何一个来自阿克伦的孩子。我很快就会见到你们。”詹姆斯写道。
+   </p>
+   <p>
+    詹姆斯于去年出资在家乡阿克伦创办了一所名为I Promise的公立学校，该校即将进入第二个学年。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

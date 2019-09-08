@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师：我可以告诉湖人球迷，詹姆斯致力于为湖人夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/magicjohnson/status/1157344130814492672?" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 09:14:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师：我可以告诉湖人球迷，詹姆斯致力于为湖人夺冠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/6f1bdcf5a8e5fff19c81ebf6809f63fa77100a17.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 湖人名宿魔术师约翰逊今天连续发推力挺湖人前锋勒布朗-詹姆斯。
+   </p>
+   <p>
+    “湖人国度，我可以基于亲身经历告诉你们，勒布朗-詹姆斯致力于为洛杉矶带回总冠军。他曾向俄亥俄州人民承诺他将为克利夫兰带回冠军奖杯，而他完成了任务。”魔术师写道。
+   </p>
+   <p>
+    关于夺冠的压力和痛苦，魔术师继续写道：“如果我们没能夺冠，在任何伟大球员身边打球都不会有乐趣。那需要承受大量的辛勤工作，痛苦和折磨。NBA史上最佳教练帕特-莱特告诉过我们那支'Showtime'时期的湖人，在退休之前，我们绝不会享受自己的成就。他是对的。在任何级别或联盟，想要达到冠军水准都很难，想要夺冠更是难上加难，你无法想象保持那种卓越水准需要经历怎样的困难。”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2461172.html">
+     大卫-格里芬：我当时对詹姆斯求胜欲的担忧是无稽之谈
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

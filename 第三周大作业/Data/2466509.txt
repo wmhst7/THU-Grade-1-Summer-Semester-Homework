@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士总经理：问题是如何接受挑战，保留三位核心令人宽慰
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1080714/2019/08/16/kawakami-curry-draymond-and-klay-started-it-all-for-the-warriors-and-will-determine-how-and-when-this-ends/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 06:00:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士总经理：问题是如何接受挑战，保留三位核心令人宽慰" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/808be5b13c446b555574a02fc1146a563715fb31.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 近日，勇士总经理鲍勃-迈尔斯做客The Athletic记者Tim Kawakami的播客The TK Show。
+   </p>
+   <p>
+    谈到杜兰特时，迈尔斯说：“我希望凯文-杜兰特会归队，我们想要他归队。为我们的新球馆揭幕，那本该是很棒的。那是一支很棒的球队，那支球队的比赛原本是有趣的。幸运的是，我们看了这支球队三个赛季。”
+   </p>
+   <p>
+    “但是当他离开时，我将之视为斯蒂芬-库里，克莱-汤普森和德雷蒙德-格林看看他们可以再次做到什么的机会，看看他们值得什么东西的机会。不是让我和你看看，是让他们自己看看……”
+   </p>
+   <p>
+    谈到过去勇士所面临的压力，新赛季人们对勇士的关注度降低给勇士带来的影响时，迈尔斯说：“我今天与斯蒂芬-库里聊了这件事，我认为人们的关注里有一种古怪的轻率（levity），那种关注不坏，但是带来了一种期望你赢下每一场球的压迫感。这意味着你拥有一支优秀的球队，这很棒，但是我认为这将构成一个挑战，我们不具备过去所拥有的容错率，如果我们表现不佳，我们就会输球，输球可不有趣……”
+   </p>
+   <p>
+    “改变对于每个人来说都是困难的，但是改变总会来的，所以问题仅仅是，我们要如何接受这种改变？但是，我听到球队领袖，史蒂夫-科尔和（核心）球员们都在说，这将是个挑战，不过是健康的挑战，这是一件好事。”
+   </p>
+   <p>
+    谈到阵容变化时，迈尔斯说：“嘿，我们做这些是为了我们的球迷们，不是吗？我们的生意是呈现能让球迷们兴奋起来的产品……一个问题是，是的，我们的整个阵容确实变了，但是三名核心球员留队了。我认为对于球迷来说，他们可以说，‘好吧，这支球队的阵容还没有老化到会断崖式下滑的迹象，这是一支年轻球队，一支新球队，我可以依靠的是，我知道我会在场上看到库里、汤普森和格林’。这是令人宽慰的。对我来说亦是如此。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克：不敌澳大利亚给我们警醒，我们对比赛有了更深理解
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-vs-canada-quotes.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 17:39:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克：不敌澳大利亚给我们警醒，我们对比赛有了更深理解" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/71c5405788bae05d4969232ae7f1af28a999cc48.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 在昨日结束的一场热身赛中，美国男篮以84-68战胜加拿大男篮，以一场胜利结束了男篮世界杯前的系列热身赛。赛后，后卫肯巴-沃克接受了记者的采访。
+   </p>
+   <p>
+    谈及上一场输给澳大利亚后全队的调整，沃克说道：“我为我们队感到自豪。我们是一支全新的队伍，队里有很多年轻的球员，因此对于我们来说，用这样一种方式来回应是十分重要的。总的来说，这就是一次触底反弹。现在，我们对于如何去赢下比赛有了更深刻的理解。接下去，我们依然会保持专注，继续研究比赛录像，不断进步，这就是我们现在能做的所有事情。”
+   </p>
+   <p>
+    “其实上一场失利对于我们而言是一件好事，让我们感到羞愧，给了我们一个全新的视角。我认为我们轻敌了，我们在对阵澳大利亚的第二场比赛中没有打出像第一场那样的表现。上一场失利对我们是一个很好的警醒，希望我们全队能够不断成长，这正是我们的首要目标。所以说，今晚的胜利棒极了。”沃克补充道。
+   </p>
+   <p>
+    本场比赛，沃克首发出场20分钟，5投3中，罚球7中6，得到12分5篮板2助攻2盖帽，正负值为+15，紧随哈里森-巴恩斯（+16）与杰伦-布朗（+16）之后，排名全队第三。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：jackhy1004)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

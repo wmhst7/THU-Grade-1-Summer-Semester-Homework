@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库佛斯与莫斯科中央陆军达成2年600万美元协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1152239339973173249" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 23:39:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库佛斯与莫斯科中央陆军达成2年600万美元协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/0d223df919b3687510158fa35cf860dbe6d34b75.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 根据雅虎体育记者Chris Haynes的报道，科斯塔-库佛斯与上赛季欧冠联赛新科冠军莫斯科中央陆军达成2年600万美元的协议，协议中包含了他可以在欧洲联赛休赛期回到NBA打球的选项。
+   </p>
+   <p>
+    根据此前的消息，活塞、国王、猛龙和雄鹿都表达过对库佛斯的兴趣，但他最终还是选择加盟莫斯科中央陆军，帮助球队冲击队史的第9个欧冠联赛冠军。
+   </p>
+   <p>
+    2018-19赛季常规赛，库佛斯共代表国王上场42次，场均上场12.0分钟，得到3.7分4.2篮板0.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

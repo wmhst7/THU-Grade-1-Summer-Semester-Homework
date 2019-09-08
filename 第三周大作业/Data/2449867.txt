@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  享受假期！保罗晒照：与众好友一起打高尔夫球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzYdbMDFT7a/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 16:38:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="享受假期！保罗晒照：与众好友一起打高尔夫球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/43bdd7ccde4de159451e7d03f3d87f7f58f8cd3d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 火箭队后卫克里斯-保罗更新社交媒体Instagram，并晒出自己与好友共同打高尔夫球照片（见新闻配图）。
+   </p>
+   <p>
+    “打了几天高尔夫球真是太棒了！很爱这帮NBA和NFL的伙计，感谢你们的出席。”
+   </p>
+   <p>
+    图2中，从左至右依次是，雷-阿伦，戴尔-库里，斯科蒂-皮蓬，德隆-威廉姆斯，克里斯-保罗，泰勒-约翰逊，迈克-康利，JR-史密斯。
+   </p>
+   <p>
+    在他们的职业生涯中，雷－阿伦常规赛场均出场35.7分钟，得到18.9分4.1篮板3.35助攻，2012-13、2007-08赛季NBA总冠军；戴尔－库里常规赛场均出场21.7分钟，得到11.7分2.4篮板1.76助攻，1993-94赛季最佳第六人；斯科蒂-皮蓬常规赛场均出场34.9分钟，得到16.1分6.4篮板5.21助攻，1990-91、1991-92、1992-93、1995-96、1996-97、1997-98赛季总冠军；德隆-威廉姆斯常规赛场均出场34.2分钟，得到16.3分3.1篮板8.07助攻，3次入选全明星。
+   </p>
+   <p>
+    2018-19赛季常规赛，克里斯-保罗场均出场32.0分钟，得到15.6分4.6篮板8.2助攻1.97抢断；泰勒-约翰逊场均出场26.8分钟，得到10.9分3.0篮板2.9助攻；迈克-康利场均出场33.5分钟，得到21.1分3.4篮板6.4助攻；JR-史密斯场均出场20.2分钟，得到6.7分1.6篮板1.9助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/9e7aa0529d3a121d7a02d7c1450af347.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/3b4eeccd7296d506e8b20261132290e9.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/ada79daad3b06ffd639057801c52339c.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/ab4365cf82243f8ab673109d68ba2e68.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/f6184980c0dab0e902a41a8db55147d5.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

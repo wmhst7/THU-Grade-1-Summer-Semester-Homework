@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德今日不会与任何球队会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/sources-free-agent-kawhi-leonard-will-not-meet-with-teams-sunday-010715724.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 09:00:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德今日不会与任何球队会面" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/86a8d6d8c1438336a264f9d0715b29a756943ef5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据雅虎记者Chris Haynes报道，多位消息人士透露，科怀-伦纳德今日不会与任何球队会面，他将会在未来几日内好好考虑和决定。
+   </p>
+   <p>
+    根据此前的报道，伦纳德将会在洛杉矶与快船、湖人和猛龙会面。
+   </p>
+   <p>
+    多位消息人士透露，魔术师约翰逊在当地时间周日与伦纳德的舅舅丹尼斯-罗伯特森进行了电话接触。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

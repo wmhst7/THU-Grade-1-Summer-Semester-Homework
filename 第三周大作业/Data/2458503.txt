@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：阿德巴约受邀加盟美国男篮训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1154911240243863552" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 08:29:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：阿德巴约受邀加盟美国男篮训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/b2293176e9c165135153bc86866e104717e4577e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 根据记者Adrian Wojnarowski报道，联盟消息源透露，热火中锋巴姆-阿德巴约接受邀请，加入美国男篮训练营名单。
+   </p>
+   <p>
+    2018-19赛季，阿德巴约场均上场23.3分钟，得到8.9分7.3篮板2.2助攻。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、凯文-乐福、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆、布拉德利-比尔、达米安-利拉德、德马尔-德罗赞和托拜厄斯-哈里斯等球员相继宣布不会代表美国参加今年夏天的男篮世界杯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

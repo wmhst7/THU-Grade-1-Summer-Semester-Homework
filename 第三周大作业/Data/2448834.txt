@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：卢比奥与太阳达成3年5100万协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145458984964493312" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 06:28:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：卢比奥与太阳达成3年5100万协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/adc4b63736772894baf53379e814f1dc3e37686f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据Thhe Athletic记者Shams Charania报道，多位消息人士透露，里基-卢比奥与太阳达成3年5100万美元协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢比奥场均上场27.9分钟，得到12.7分3.6篮板6.1助攻1.34抢断，季后赛场均上场33.6分钟，得到15.4分3.2篮板8.6助攻2.40抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

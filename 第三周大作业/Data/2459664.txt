@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉文：我是乔丹的超级粉丝，希望带领公牛形成竞争力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheHoopCentral/status/1156036725866553344" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:44:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉文：我是乔丹的超级粉丝，希望带领公牛形成竞争力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/fbad4e81054bfe0de4620b58968520e8bc1ec4cb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 公牛球员扎克-拉文在近日参加一档播客节目时谈到了球队名宿迈克尔-乔丹，以及球队下赛季的前景。
+   </p>
+   <p>
+    “我是迈克尔-乔丹的超级粉丝，”拉文说道，“我看了大量比赛录像，我知道当年的那支公牛是多么出色，特别是在东部，在东部你必须迈过‘坏孩子军团’这座大山。”
+   </p>
+   <p>
+    “他们必须要面对活塞，面对印第安纳，那个时候的东部有很多劲旅，迈阿密热火队也不容小觑，但迈克尔-乔丹毫无疑问是那个最具统治力的球员。”拉文说道。
+   </p>
+   <p>
+    谈到第一次身披公牛球衣的感受，拉文说：“这真的非常酷，特别是当你看到球馆上空那些冠军旗帜和退役球衣。公牛是历史上最出色的球队之一，他们拥有如此辉煌的传奇队史。你总是会希望为自己制定高标准，然后为了目标付出努力。”
+   </p>
+   <p>
+    上赛季常规赛，拉文场均出场34.5分钟，能够得到23.7分4.7篮板4.5助攻，他表示希望能够带领公牛再次成为一支具有竞争力的球队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,127 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  ESPY颁奖典礼明日在洛杉矶举行，字母哥哈登皆获提名
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://bleacherreport.com/articles/2844844-espy-awards-2019-nominees-presenters-host-predictions-and-more" target="_blank">
+     Bleacher Report
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 16:16:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="ESPY颁奖典礼明日在洛杉矶举行，字母哥哈登皆获提名" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/ffc496d7fcfd28a86f2de3672b90b219cf08256f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 2019年ESPY颁奖典礼将于北京时间7月11日早上8点至11点在美国洛杉矶举行，由美国著名喜剧演员Tracy Morgan主持，届时，世界上最优秀的运动员们以及各界社会名流都会出席。颁奖礼上将会颁发包括最佳男运动员，最佳女运动员，最佳团队，最佳逆袭奖等超过30个奖项。
+   </p>
+   <p>
+    其中，NBA球员比尔-拉塞尔将被颁发Arthur Ashe勇气奖。（PS：Arthur Ashe是美国著名黑人网球运动员）
+   </p>
+   <p>
+    和篮球有关的奖项如下
+   </p>
+   <p>
+    <strong>
+     最佳NBA运动员提名者：
+    </strong>
+    <br/>
+    扬尼斯-阿德托昆博，密尔沃基雄鹿
+    <br/>
+    詹姆斯-哈登，休斯顿火箭
+    <br/>
+    凯文-杜兰特，金州勇士
+    <br/>
+    保罗-乔治，俄克拉荷马雷霆
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/16/9a2e134900a5c813520a72226181f843.png"/>
+   </p>
+   <p>
+    <strong>
+     最佳WNBA运动员提名者：
+    </strong>
+    <br/>
+    布莱安娜-斯图尔特，西雅图风暴
+    <br/>
+    戴安娜-陶莱西，菲尼克斯水星
+    <br/>
+    艾琳娜-唐尼，华盛顿神秘人
+    <br/>
+    坎黛丝-帕克，洛杉矶火花
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/16/4f1eb0d9e1b1b9011347d3bfb23da337.png"/>
+   </p>
+   <p>
+    <strong>
+     最佳男运动员：
+    </strong>
+    <br/>
+    密尔沃基雄鹿队球员扬尼斯-阿德托昆博获得提名
+   </p>
+   <p>
+    <strong>
+     进步最大运动员：
+    </strong>
+    <br/>
+    亚特兰大老鹰队球员特雷-杨获得提名
+   </p>
+   <p>
+    <strong>
+     最佳大学运动员：
+    </strong>
+    <br/>
+    杜克大学蔡恩-威廉森获得提名
+   </p>
+   <p>
+    <strong>
+     最佳打破纪录表现：
+    </strong>
+    <br/>
+    克莱汤普森14记三分打破NBA三分纪录获得提名
+   </p>
+   <p>
+    <strong>
+     最佳表现时刻：
+    </strong>
+    <br/>
+    科怀-伦纳德东部半决赛G7压哨绝杀76人获得提名
+    <br/>
+    达米安-利拉德季后赛首轮压哨绝杀雷霆获得提名
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/16/0dbdd16018da8eb10b2598a946e80e11.png"/>
+   </p>
+   <p>
+    <strong>
+     科普：
+    </strong>
+    ESPY奖全称为Excellence in Sports Performance Yearly，由美国ESPN电视台于1993年创办，其目的是为了表彰过去一年在体育赛场上获得很大成就的运动员以及和体育相关的人，获奖人由体育迷们通过互联网投票选出。其形式和音乐界的格莱美，影视界的艾美奖一样，ESPY由一个名人来主持，晚会氛围轻松幽默。ESPY每年的颁奖礼都会有众多体育圈娱乐圈的大佬出席，被称作是体育界的奥斯卡盛会。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

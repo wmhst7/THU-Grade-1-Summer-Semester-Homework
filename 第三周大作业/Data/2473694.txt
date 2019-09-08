@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  荣誉的象征！名人堂典礼盛大举行
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBAonTNT/status/1170124249333489664" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 18:02:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="荣誉的象征！名人堂典礼盛大举行" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/9f7a0499bfe9a960e0e1b48831c5db3b056e3078.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，NBAonTNT推特与奈史密斯篮球名人纪念堂官方推特均发表了关于2019名人堂典礼的相关言论。
+   </p>
+   <p>
+    TNT官推说道：“祝贺19名人堂入选组成员（#19HoopClass）正式被纳入名人堂（@HoopHall）!（篮球）（鼓掌）”
+   </p>
+   <p>
+    名人堂官推说道：“穿着象征荣誉的奈史密斯橙夹克的19年名人堂入选者们！（火焰）”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/18/259e3721f99ee430e05cc6508624c756.jpg"/>
+   </p>
+   <p>
+    2019年篮球名人堂入选名单如下：比尔-菲奇、鲍比-琼斯、悉尼-蒙克利夫、杰克-西克马、保罗-韦斯特法尔、1957-1959年的田纳西农工队、WNBA球星特里萨-威瑟斯彭、艾尔-阿尔特斯、查尔斯-库珀、迪瓦茨、卡尔-布劳恩、活跃于上世纪50年代的韦兰浸会大学女子篮球队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：陈晞)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

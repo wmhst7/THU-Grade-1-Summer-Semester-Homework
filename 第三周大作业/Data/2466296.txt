@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小加索尔谈伦纳德加盟快船：我完全理解并尊重他的选择
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sportsnet.ca/basketball/nba/marc-gasol-kawhi-cant-blame-guy-wanting-go-home/" target="_blank">
+     Sportsnet
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 13:29:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小加索尔谈伦纳德加盟快船：我完全理解并尊重他的选择" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/c0dee33b0c1758cb82df4f3ec5e63c24df82bfbe.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 猛龙球员马克-加索尔今日代表西班牙男篮参加了对阵美国男篮的热身赛，他在接受媒体采访时谈到了前队友科怀-伦纳德加盟快船。
+   </p>
+   <p>
+    “你不能责怪一个想要回家的家伙，”小加索尔说道，“如果你告诉我，我能够回到巴塞罗那，获得金额荒谬的大合同，并且还在NBA中打球，我完全理解并尊重他的选择，祝愿他一切顺利。”
+   </p>
+   <p>
+    本场热身赛，小加索尔13投7中，得到19分4篮板3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬：朱-霍勒迪是球队门面，我们要围绕他建队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=P_Vo0QsCd7A" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 22:49:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬：朱-霍勒迪是球队门面，我们要围绕他建队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/419171c5a286e4218d079f989492bce0d0064f07.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 鹈鹕篮球运营副总裁大卫-格里芬今日在夏季联赛现场接受采访谈到了球队今夏的引援情况。
+   </p>
+   <p>
+    谈到鹈鹕的季后赛前景，格里芬说：“我们当然希望竞争季后赛，这对我们非常重要。首先，朱-霍勒迪是球队门面。朱的比赛还有一些潜力，我认为他很渴求这个以他为核心展现个人能力的机会，我们希望围绕他的比赛特点建队，就像我们在菲尼克斯围绕史蒂夫-纳什建队那样。如果我们能在朱的身边放置合适的人员，我们认为他完全有能力进化到另一级别。当年我们太阳签下史蒂夫-纳什时，没人想到他会成为两届MVP。朱对于这个机会非常重视。我们希望在四月和五月打有意义的比赛，我们希望在赢球至上的环境中发展年轻球员。”
+   </p>
+   <p>
+    谈到交易得到德里克-费沃斯以及签约JJ-雷迪克，格里芬说：“我们为德里克的加盟而兴奋也是出于同样的原因，他适合我们的文化。不过他也在进攻端尚存许多潜力，他是一个极佳的护筐手，之前在联盟前五的中锋身边打球，他没法展示自己作为一名空间型5号位选手的能力，他适合阿尔文-金特里的体系，再考虑到我们从安东尼-戴维斯交易中得到的那些球员，我们认为他的球风非常匹配，能够让每个人发挥出最佳水平。你们提到JJ-雷迪克，他是最重要的一笔引援，一方面是他拉开球场空间的能力，还有就是尚有余力的老将在更衣室的领袖作用对于年轻球队也很有价值。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

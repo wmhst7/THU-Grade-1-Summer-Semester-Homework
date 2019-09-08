@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黄蜂并不一定会续约杰里米-兰姆
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/zachlowe_nba/status/1145072260962820096?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 13:55:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黄蜂并不一定会续约杰里米-兰姆" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/4d6a4a44bc291fce4b71356749beacc307a4d442.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA记者Zach Lowe报道，随着肯巴-沃克即将离队，黄蜂拥有充足的薪资空间续约自由球员杰里米-兰姆。但消息人士透露，续约兰姆并不是板上钉钉的。
+   </p>
+   <p>
+    2018-19赛季，兰姆场均上场28.5分钟，得到15.3分5.5篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

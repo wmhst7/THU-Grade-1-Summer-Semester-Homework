@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  恩比德发布海边帅照：我应该签哪家模特经纪公司？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzwRz51J-SY/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 12:23:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="恩比德发布海边帅照：我应该签哪家模特经纪公司？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/9c4d6e2470991a96959deee6f9204853b68c6cec.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今天76人球员乔尔-恩比德在Instagram上发布了几张自己在海边的照片，照片定位是马尔代夫。
+   </p>
+   <p>
+    恩比德打趣道：“我应该签哪家模特经纪公司？”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/400b5e7057c61cb5cb38fb7c52e8503d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/6d7b237595302f0abd2138ed34791300.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/7ec152b48ac1007f7c0ec8346bd5bd5f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

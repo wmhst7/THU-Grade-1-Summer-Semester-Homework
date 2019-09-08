@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-布朗：我们必须打出侵略性，保持正确的心态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.masslive.com/celtics/2019/08/boston-celtics-jaylen-brown-on-team-usa-loss-we-got-to-change-our-mentality.html" target="_blank">
+     MassLive
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 10:26:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-布朗：我们必须打出侵略性，保持正确的心态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/2df0d79690e47030de49470efdb9efdeaa90e971.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 美国男篮目前正在悉尼备战与加拿大男篮的热身赛，凯尔特人球员杰伦-布朗在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到球队负于澳大利亚男篮，布朗说：“未来有很多可能性，我只是认为我们必须找到正确的方向。就心态层面而言，我们需要继续前进，我认为这比对于失利反应过度或者反应不足更加重要，我们必须改变自己的心态。”
+   </p>
+   <p>
+    “我们正在为比个人更伟大的东西而战，我们必须意识到这一点，并且保持谦卑。我认为我们本可以在对阵澳大利亚的比赛中表现得更好，必须保持正确的心态，拿出更好的表现，无论是在比赛开局阶段，还是背靠背的连续作战。无论情况如何，我们必须挺身而出，打出侵略性，而不是沦为被追击的哪一方。”布朗接着说道。
+   </p>
+   <p>
+    北京时间今日下午五点半，美国男篮将迎战加拿大男篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

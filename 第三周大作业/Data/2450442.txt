@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞布尔：我想竭尽所能去接近完美，在每一场比赛中成长
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PompeyOnSixers/status/1146954085729329152" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 10:43:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞布尔：我想竭尽所能去接近完美，在每一场比赛中成长" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/9d5cfcde166f7951e3370c5c7d1aacb91305fee7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 本周周六（美国时间周五），76人与雄鹿的比赛即将打响，这将是新秀马蒂斯-塞布尔自3月来的第一场比赛，塞布尔在接受采访时说道：“只想舒服的打球，尽可能的专注于比赛。”
+   </p>
+   <p>
+    “尽可能的减少失误，让自己在比赛中处于正确的位置，我们只练习了6次，当我们上场时我们不求做到完美，所以我不期待自己能做到完美，但我想竭尽所能去接近完美状态。一个成功的夏季联赛应该是在每场比赛中都有所成长，大多数新秀都不知道在他们最初的夏联时的目标应该是什么。”
+   </p>
+   <p>
+    76人教练曾经和他开玩笑说：“球员们打球太猛太快，在比赛前10分钟转移球太多。”
+   </p>
+   <p>
+    这也是为什么他想要专注找到自己的节奏，他说：“这是我三个多月来第一次真正的比赛，更多的是兴奋而不是紧张。”
+   </p>
+   <p>
+    在今年的选秀大会上，塞布尔在首轮第20顺位被凯尔特人选中，随后被交易至76人，7月4日，76人官方宣布和塞布尔正式签约。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2450104.html">
+     官方：76人与新秀马蒂斯-赛布尔正式完成签约
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2445434.html">
+     凯尔特人20号签选中马蒂斯-赛布尔，将被送至76人
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2445436.html">
+     [视频]76人选中的20号新秀赛布尔NCAA精彩集锦
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普林斯更新社媒晒出身披老鹰战袍个人照并向球队表示感谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz1Mp_MhPLU/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 11:17:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普林斯更新社媒晒出身披老鹰战袍个人照并向球队表示感谢" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/322b44cd43c4764e5df227544d1bb192bfcc926c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据此前消息报道，篮网官方宣布，球队正式与老鹰完成交易，送出阿伦-克拉布、17号秀亚历山大-沃克和受保护的2020年首轮选秀权，得到托里恩-普林斯和2021年的次轮选秀权。
+   </p>
+   <p>
+    今日，普林斯更新了个人社交媒体Instagram晒出个人身披老鹰战袍赛场照（见新闻配图）并向老鹰表示感谢。
+   </p>
+   <p>
+    普林斯发文说道；“谢谢你带给我的一切。”
+   </p>
+   <p>
+    2018-19赛季常规赛，普林斯场均出场28.2分钟，可以得到13.5分3.6篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

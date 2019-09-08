@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  福克斯：很多球队都变得更强了，特别是在我们所处的西部
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/kings/blog/fox-i-feel-i-have-good-chance-make-it" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 14:05:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="福克斯：很多球队都变得更强了，特别是在我们所处的西部" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/5c03d25b76c2acbcc428673452f9ee4240d16e76.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 美国男篮今日在拉斯维加斯举行了训练营，国王后卫达龙-福克斯接受了媒体采访。
+   </p>
+   <p>
+    谈到训练营第一天的感受，福克斯说：“这很棒，当然，我对于训练营和美国男篮的一切还不太了解，但这是我从上高中以来从未经历过的事情，我很荣幸能够来到这里，为了争夺最终大名单席位而努力竞争。”
+   </p>
+   <p>
+    谈到被提拔至美国男篮初选阵容，福克斯说：“我之前所预想的就是加入选拔队，来这里打一个星期的球，与那些争夺最终席位的球员比赛，然后继续度过我的休赛期。我的经纪人将于9月1日结婚，我本打算去那里，但他就像是，‘去做那件事吧，这将是一生难忘的体验，’这可能会改变我整个夏天的计划。”
+   </p>
+   <p>
+    谈到国王下赛季的前景，福克斯说：“我们蓄势待发，联盟中有很多球队都变得更出色了，特别是我们所处的西部，我们也在努力变得更出色，我们正在成长。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

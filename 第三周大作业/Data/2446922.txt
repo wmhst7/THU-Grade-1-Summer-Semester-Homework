@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母四兄弟！阿德托昆博分享今日颁奖典礼红毯照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzHymvMF8pG/?igshid=1iym59dzxiqjm" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 19:14:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母四兄弟！阿德托昆博分享今日颁奖典礼红毯照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/4750555470223c55bc32b8e147bf0a18687f1c99.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 荣获上赛季MVP的雄鹿前锋扬尼斯-阿德托昆博今天更新Instagram分享他与几位同胞兄弟一起出席NBA颁奖典礼的红毯照。
+   </p>
+   <p>
+    “加油，加油，超凡战队（Power Rangers）！#阿德托昆博兄弟”阿德托昆博写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190625/19/1a565120bdfb89a6df09ea754896e802.jpeg"/>
+   </p>
+   <p>
+    此外，阿德托昆博还分享了一张他与兄弟们启程飞往颁奖地洛杉矶前的合影。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190625/19/17e71b34f51054dbf9cf97900d661f25.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

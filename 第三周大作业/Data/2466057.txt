@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺将在当地时间11月11日退役托尼-帕克9号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/etiennecatalan/status/1162309237814562816?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 18:31:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺将在当地时间11月11日退役托尼-帕克9号球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/cc174a664365998a952a70a9371f90336ca2e487.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 根据《巴黎人报》的报道，马刺会在当地时间11月11日（北京时间11月12日）主场对阵灰熊的时候退役托尼-帕克的9号球衣。
+   </p>
+   <p>
+    帕克在今年6月宣布退役，结束了自己18年的NBA生涯。
+   </p>
+   <p>
+    帕克在2001年选秀大会上首轮第28顺位被马刺选中，曾效力过马刺和黄蜂，职业生涯共上场1254次NBA常规赛，场均上场30.5分钟，得到15.5分2.7篮板5.6助攻0.8抢断。他共6次入选全明星，获得4次NBA总冠军和1次NBA总决赛最有价值球员奖。
+   </p>
+   <p>
+    在职业生涯的前17个赛季，帕克为马刺效力，出战1198场常规赛，场均出战31.1分钟可以拿到15.8分5.7助攻2.8篮板0.9抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

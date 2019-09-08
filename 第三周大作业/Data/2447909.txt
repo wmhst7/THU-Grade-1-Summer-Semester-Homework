@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  PJ-塔克分享湾区日落美景：没有比这更美的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/pjtucker/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 14:41:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="PJ-塔克分享湾区日落美景：没有比这更美的" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/445249fbefa7b86bca655a6f790cda44de1b1b9a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日，休斯顿火箭球员PJ-塔克更新了个人Instagram Story，晒出了湾区日落视频。
+   </p>
+   <p>
+    并配文说道：“湾区日落美景绝对是最漂亮的！”
+   </p>
+   <p>
+    <img alt="GIF 2.2M" src="https://c1.hoopchina.com.cn/uploads/images/20190628/14/8bc57ae78f7dc9c41f64af36657476e4.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190628/14/0a1a4f132c52d437bd2bc2e93d587257.png"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，塔克场均出场34.2分钟，得到7.3分5.8篮板1.2助攻1.61抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

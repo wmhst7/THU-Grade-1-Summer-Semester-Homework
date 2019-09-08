@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰里-韦斯特：球员时期最想跟比尔-拉塞尔一起打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/RyanWardLA/status/1150911563433250816" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 13:09:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰里-韦斯特：球员时期最想跟比尔-拉塞尔一起打球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/e9bf2810c79f1d2520a63d7c57b31e3e88430066.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 近日，杰里-韦斯特做客丹-帕特里克秀，被问及在球员时期如果有机会，最想跟谁一起打球。
+   </p>
+   <p>
+    杰里-韦斯特说：“我曾经有机会与一名不可思议的球员一起打球，当我们都还年轻时，我曾有机会和埃尔金-贝勒或是威尔特-张伯伦一起打球。我极其有热情的对象大概是比尔-拉塞尔，既是他作为一名球员，也是他作为一个人。我认为跟他一起打球会是有趣的，因为他将有关胜利的要素带到了比赛中。”
+   </p>
+   <p>
+    “他是我们见过的最伟大的胜利者。他是个不引人注目的人，但是他对比赛有像帝王一样的影响力。他太令人难以置信了。更重要的是，他是我的朋友。他是那些年里我非常仰慕的人。”
+   </p>
+   <p>
+    杰里-韦斯特在其职业生涯常规赛场均出场39.2分钟，得到27.0分5.8篮板6.69助攻。曾10次入选最佳阵容一阵，2次入选最佳阵容二阵，于1971-72赛季率队夺得总冠军。
+   </p>
+   <p>
+    比尔-拉塞尔在其职业生涯5次获得最有价值球员，11次夺得总冠军，12次入选全明星，3次入选最佳阵容一阵，8次入选二阵。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

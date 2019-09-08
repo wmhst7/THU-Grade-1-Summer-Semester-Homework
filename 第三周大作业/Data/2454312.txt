@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：步行者正式签下今年18号秀戈加-比塔泽
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ScottAgness/status/1150805949227110400" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 01:42:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：步行者正式签下今年18号秀戈加-比塔泽" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/22ccb8501bdb0cdb64e0c188d1a5e270d033f6a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 据The Athletic步行者记者Scott Agness报道，步行者已经跟今年首轮秀中锋戈加-比塔泽签订了新秀合同。
+   </p>
+   <p>
+    作为今年的18号秀，比塔泽将在其新秀赛季拿到约281.6万美元的薪水，第二赛季薪水约为295.7万美元，第三赛季薪水约为309.8万美元，第四赛季薪水约为476.5万美元。
+   </p>
+   <p>
+    比塔泽今年19岁，身高2.11米，体重114公斤，司职中锋，2018-19赛季在塞尔维亚作为Mega Bemax队球员出场50次，场均出战23.4分钟，能够贡献14.1分6.3篮板1.1助攻0.5抢断2.0盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

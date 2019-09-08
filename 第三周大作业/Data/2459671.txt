@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥科吉晒打高尔夫的照片：这是我人生中第一次打高尔夫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0g6tPkHxd4/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:51:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥科吉晒打高尔夫的照片：这是我人生中第一次打高尔夫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/cfde668725d5f0d19ebc36b01a6c2eaa1b0883d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日森林狼球员约什奥科吉更新了自己的个人Instagram动态，晒出了自己打高尔夫的照片。
+   </p>
+   <p>
+    “这是我人生中第一次打高尔夫，我敢肯定我的穿着比我的表现要好一点。但这不会是我最后一次打高尔夫。”奥科吉说道。
+   </p>
+   <p>
+    随后灰熊球员泰厄斯-琼斯评论道：“你在七月中旬穿这种长裤不热吗？”
+   </p>
+   <p>
+    2018-19赛季常规赛，奥科吉场均上场23.7分钟，得到7.7分3.0篮板1.2助攻1.19抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/11/e4eb0ef7876f1e23e9df31feac65eb5b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/11/8a007c7aba42283db4a9236bc46d587e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/11/13eb7070cc38813fb2eaf2cad0095b5e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/11/2e65c3c97e387f1c6fdbb9e2fd6b3359.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

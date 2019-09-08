@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  MVP养成记！字母哥更新社媒晒出自己成长经历的短视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzH1Yozlwf3/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 12:05:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="MVP养成记！字母哥更新社媒晒出自己成长经历的短视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/4988ac651659a88d7a7b12d599bc4a5b5dbaae99.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 NBA常规赛各大奖项颁奖典礼在昨日举办，官方在颁奖礼上宣布，雄鹿球员扬尼斯-阿德托昆博当选2018-19赛季常规赛MVP，这是他职业生涯首次当选常规赛MVP。
+   </p>
+   <p>
+    今日，字母哥更新了个人社媒晒出了一段自己成长经历的视频。
+   </p>
+   <p>
+    2018-19赛季常规赛，扬尼斯-阿德托昆博场均出场32.8分钟，可以得到27.7分12.5篮板5.9助攻1.28抢断1.53封盖。
+   </p>
+   <p>
+    <a href="https://weibo.com/tv/v/HAFHsvE7M">
+     视频：字母哥个人成长经历
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

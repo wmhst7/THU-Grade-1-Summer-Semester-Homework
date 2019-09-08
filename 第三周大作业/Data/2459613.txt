@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔：做一个鼓励者，世界已有足够多的批评者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0gTStmAI7g/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 09:53:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔：做一个鼓励者，世界已有足够多的批评者" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/48a08a03526ff3d52a1f3c63fc645f3121a877ce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日奇才球员约翰-沃尔更新了自己的个人Instagram动态，分享了自己的人生哲理。
+   </p>
+   <p>
+    “做一个鼓励者，这个世界已经有足够多的批评者了！”沃尔写道。
+   </p>
+   <p>
+    沃尔在今年2月份遭遇左脚跟腱断裂，随后接受手术，当时预计将缺席12个月。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃尔共上场32次，场均上场34.5分钟，得到20.7分3.6篮板8.7助攻1.53抢断0.91盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

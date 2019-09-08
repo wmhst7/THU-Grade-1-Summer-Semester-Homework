@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：防守为比赛奠定基调，有所收获比胜利更重要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-vs-canada-quotes.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 16:50:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：防守为比赛奠定基调，有所收获比胜利更重要" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/a78c7a2a6dee300cb574b7484beaa474a3eb3286.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯
+    <span br="" droid="" font-size:="" helvetica="" microsoft="" segoe="" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); box-sizing: border-box; color: rgb(25, 31, 37); font-family: " ui="" white-space:="">
+     谈及本场比赛，米切尔说：“我认为球队的整体能力是取胜关键，我们要一直不断找寻防守的方法，是我们在比赛中最重要的事情，我们曾把他们的首节得分限制在9分，做好防守可以为整场比赛奠定基调。”
+    </span>
+   </p>
+   <p>
+    被问及球队是否在热身赛期间得到了所需要的历练，米切尔回答道：”很明显是这样的，你想要赢下比赛，但相比较而言，我们从中学到很多，这是最大的收获。我们一直在不断努力。”
+   </p>
+   <p>
+    &lt;span style="color: rgb(25, 31, 37); font-family: " microsoft="" yahei",="" "segoe="" ui",="" system-ui,="" roboto,="" "droid="" sans",="" "helvetica="" neue",="" sans-serif,="" tahoma,="" ui="" symbol";="" font-size:="" 14px;="" white-space:="" pre-wrap;"=""&gt;本场比赛，米切尔首发出场23分钟，12投5中，得到12分3篮板4助攻2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗：丹尼斯-史密斯很特别，一切都是自信问题
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1071950/2019/07/11/how-dennis-smith-jr-is-remaking-his-jump-shot-this-offseason-with-help-from-a-future-hall-of-famer/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 08:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗：丹尼斯-史密斯很特别，一切都是自信问题" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/c1e8c955f6e69906d68e169a7310ef95c632a19a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 根据The Athletic记者Mike Vorkunov的报道，克里斯-保罗称他与丹尼斯-史密斯在拉斯维加斯一起进行了训练，保罗称他们一起练了运球和控球等技术。
+   </p>
+   <p>
+    “丹尼斯很特别，特别，我认为他跟菲兹（尼克斯主帅大卫-菲兹代尔）在一起，这会让他得到上场的机会，跑起来打球，当他上赛季被交易到尼克斯的时候，我为他感到开心，因为他身上有那种纽约的拼劲。”保罗说道。
+   </p>
+   <p>
+    保罗接着说：“我们之前在聊随着对比赛的了解越多，你会觉得比赛慢了下来，我认为对丹尼斯来说，一切都是自信心的问题，有菲兹支持他，还有他的队友们什么的，如果整个纽约都支持他的话，你应该已经见过整个北卡（史密斯母校是北卡罗莱纳州立大学）都支持他会是什么样的情况，他可以的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

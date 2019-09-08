@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在看什么？布朗训练之余与塔特姆、沃克一起看手机
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Xwlg4l0wZ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 11:54:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在看什么？布朗训练之余与塔特姆、沃克一起看手机" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/51f8b59a7c4d4b8b7f5ec94ef428bb5bae9e9145.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 波士顿凯尔特人队前锋杰伦-布朗今天在个人Instagram上传了一张自己与队友肯巴-沃克、杰森-塔特姆看手机的照片（见新闻配图）。
+   </p>
+   <p>
+    “我会找到你的。”布朗写道。
+   </p>
+   <p>
+    根据此前的报道，布朗、沃克、塔特姆三人目前正在墨尔本参加美国队世界杯前的训练。此外，凯尔特人后卫马库斯-斯马特目前也在这次集训当中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

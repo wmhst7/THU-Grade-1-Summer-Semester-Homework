@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波什展望新赛季：迫不及待地想看哈登与威少的组合了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Wf1_BJ0Sf/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 10:57:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波什展望新赛季：迫不及待地想看哈登与威少的组合了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/11ced60ea7c4e595f5460401947d368bbdb48368.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 前NBA球员克里斯-波什今天在个人Instagram上传了一张火箭后场组合詹姆斯-哈登与拉塞尔-威斯布鲁克的照片（见新闻配图）。
+   </p>
+   <p>
+    “今天是周一（当地时间），所以我喜欢讨论一个不错的话题。下赛季你们最想看到哪对组合打球？我已经迫不及待地想看到哈登和威斯布鲁克再度并肩作战了。前队友、并且在最近的几个赛季都曾获得过MVP，而且至今也都没有夺冠......我已经等不及看他们一整个赛季在西部的表现了，你们期待观看谁的比赛呢？”波什写道。
+   </p>
+   <p>
+    今夏休赛期，威斯布鲁克与克里斯-保罗互换东家，从而加盟火箭与前队友哈登再度成为队友。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈登场均出场36.8分钟，得到36.1分6.6篮板7.5助攻2.03抢断；威斯布鲁克场均出场36.0分钟，得到22.9分11.1篮板10.7助攻1.95抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

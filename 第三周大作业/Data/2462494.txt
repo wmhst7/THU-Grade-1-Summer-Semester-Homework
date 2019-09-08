@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回馈社区！库里与东奥克兰音乐人为奥克兰新球场揭幕
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickDePaula/status/1158913871064625152" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 10:29:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回馈社区！库里与东奥克兰音乐人为奥克兰新球场揭幕" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/a2f96a78323225396bf732071aa81cd1f8433a19.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 根据记者Nick DePaula的报道，今日，勇士后卫斯蒂芬-库里和东奥克兰音乐人Nimsins为奥克兰康科迪亚公园的新球场揭幕。
+   </p>
+   <p>
+    库里还送了Nimsins一双画家David E. Zambrano手绘的定制库里6，向他对社区的贡献致敬。
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/2c40363d6153e2ce0302dbb0a78f35e3.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/0f519bcdfb7696f3b56c7fb3a3785d52.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/b9a231835ddfdc4f873f1e15af2d0d29.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/4cee596c40ca97e83be911feb9ef29cf.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

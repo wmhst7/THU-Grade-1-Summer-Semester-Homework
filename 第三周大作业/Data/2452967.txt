@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德安德烈-亨特因膝盖酸痛将缺席今日夏联比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ATLHawks/status/1149444223231504384" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 06:31:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德安德烈-亨特因膝盖酸痛将缺席今日夏联比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/a8515035e5d5b835e49e452dcd83f1ce6fc45471.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 亚特兰大老鹰队将在今天的夏联比赛中对阵华盛顿奇才队。
+   </p>
+   <p>
+    赛前，老鹰官方宣布球队新秀前锋德安德烈-亨特因膝盖酸痛将会缺席今天的比赛。
+   </p>
+   <p>
+    亨特今年21岁，身高2.01米，体重102公斤，司职前锋，在2019年选秀大会上被湖人在首轮第4顺位选中，随后被交易至老鹰。
+   </p>
+   <p>
+    2018-19赛季在NCAA作为弗吉尼亚大学球员出场38次，场均出战32.5分钟，能够贡献18.5分6.4篮板3.7助攻1.4抢断0.6盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

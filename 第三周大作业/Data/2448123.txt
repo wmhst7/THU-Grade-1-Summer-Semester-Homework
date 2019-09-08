@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  有球队为布罗格登准备了一份会令雄鹿放弃的报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ZachLowe_NBA/status/1144761062618742785" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 08:31:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="有球队为布罗格登准备了一份会令雄鹿放弃的报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/f7f32dd91c2f02dc5da5d88a7d3c978bfe80397b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据NBA记者Zach Lowe的报道，多位消息人士透露，有球队为马尔科姆-布罗格登准备了一份会令雄鹿放弃的报价。
+   </p>
+   <p>
+    现在还不清楚是哪支球队准备了这样的报价，不过太阳、公牛、独行侠和步行者都是可能的球队，多位消息人士透露，有一些球队担心布罗格登受伤的脚。
+   </p>
+   <p>
+    多位联盟消息人士透露，独行侠目前没有专注于市场上顶级自由球员，他们专注于那些中档的自由球员。
+   </p>
+   <p>
+    步行者仍然对里基-卢比奥感兴趣，步行者看起来致力于让迈尔斯-特纳和多曼塔斯-萨博尼斯先发，这意味着赛迪斯-杨将离队，一直都有球队向步行者询价萨博尼斯和特纳，在选秀大会上，步行者拒绝了其他球队为了得到特纳而开出的报价，消息人士透露。
+   </p>
+   <p>
+    消息人士透露，步行者也希望能将博扬-波格丹诺维奇带回到球队中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

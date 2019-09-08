@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  默里祝女儿两周岁生日快乐：你就是我的一切
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz9TFP3HhrM/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 12:59:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="默里祝女儿两周岁生日快乐：你就是我的一切" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/3bf7bf1323f334d189576541a28a55e71994ba2e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 今天马刺球员德章泰-默里在Instagram上晒出了自己与女儿Riley的合影，并祝她两周岁生日快乐。
+   </p>
+   <p>
+    默里写道：“我从来不知道自己能如此疼爱一个人，直到我的女儿出生。我在一个缺少父母陪伴的家庭长大，所以我知道那种感觉。我要给女儿充分的陪伴，而不只是物质上的满足，我要教会她那些以前没人教我的事，这对我来说就是最重要的。生日快乐我的宝贝女儿，爸爸爱你，你就是我的一切！！#两周岁生日快乐”
+   </p>
+   <p>
+    默里在2018-19赛季季前赛阶段遭遇了右膝前十字韧带撕裂，缺席上赛季所有比赛。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/7b193c197bba179d3e246acc06cdcb27.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/e329b2bfd8c7a0f3ce988bb159e322e4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/fd1d198e2a093a7d33ea9ab003ffb65e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/da6a1d5a6af0bff29e7bf4034e4162fd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/9951eeb495e01bdc0b60da8f439789b6.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/21521a2327016a17af0634bb85c3d349.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

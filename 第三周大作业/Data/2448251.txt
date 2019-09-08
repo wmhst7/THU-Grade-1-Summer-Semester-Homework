@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  记者晒出今日湖人训练对比照：新秀和老将
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzR2jxgFILC/?igshid=132imxsrtgx8r" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 14:58:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="记者晒出今日湖人训练对比照：新秀和老将" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/3e96e9e3c2c1d521ad861f2c98bba062008ab6ba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 湖人新秀塔伦-霍顿-塔克和前锋勒布朗-詹姆斯今日都来到球队训练馆参与了少量训练。摄影记者Darren Ann通过Instagram发布了一组塔克与詹姆斯的训练对比照。
+   </p>
+   <p>
+    “新秀和老将。#湖人秀 @塔伦-霍顿-塔克 到 @勒布朗-詹姆斯”这位记者写道。
+   </p>
+   <p>
+    塔克出生于2000年11月25日，年仅18岁；詹姆斯出生于1984年12月30日，年满34岁。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190629/14/50d48be2a12525225f16017f5886e592.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

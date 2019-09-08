@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴特勒更新社交媒体，晒出自己与好友合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0wZxoihE40/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 10:55:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴特勒更新社交媒体，晒出自己与好友合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/fa1a0cc2909546a9a635ef7a2d7deb412b8095c1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 今日，热火球员吉米-巴特勒更新社交媒体Instagram，晒出自己与好友合照（见新闻配图）。
+   </p>
+   <p>
+    “满满的祝福，让我能来看看我的兄弟来自那里...感谢你兄弟。”他写道。
+   </p>
+   <p>
+    巴特勒在今夏休赛期通过先签后换加盟了热火，合同金额为4年1.42亿美元。2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/10/e11af7a0a9883fa62d6c89fb11fcaf33.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/10/3e39fbddccd7a336f2b0bfaa2ba2f066.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/10/96bcda92c711436aba03241c3827bef9.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

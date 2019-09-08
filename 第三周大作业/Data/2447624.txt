@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯：我会努力找回17年的感觉，渴望再次证明自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/nuggets-news-isaiah-thomas-appreciative-of-how-denver-handled-his-rehab/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 17:07:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯：我会努力找回17年的感觉，渴望再次证明自己" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/d9d93a8bb53d400afca88fb0178198c685479d10.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 后卫以赛亚-托马斯在近日接受了NBA著名记者Adrian Wojnarowski采访，他回顾了过去这个赛季，并且对自己的未来进行了展望。
+   </p>
+   <p>
+    “没有人会预想到在去年接受手术之后，我需要花费两个夏天来进行恢复，”小托马斯说道，“现如今我能够像以前那样泡在训练馆里，重新打磨自己的技术，努力恢复身体，增肌加强腿部力量，努力找回2017年的感觉。”
+   </p>
+   <p>
+    小托马斯表示，掘金对于自己的伤病的处理非常谨慎。
+   </p>
+   <p>
+    “球队允许我获得了足够多的恢复时间，确保我能够恢复100%的健康，”小托马斯说道，“显而易见，我想要上场打球，我认为我能够在常规赛和季后赛中为球队做出贡献。但我理解迈克尔-马龙教练的决定，即便我无法上场，我依旧可以承担起一个领袖的作用，当球队中的年轻人遇到一些疑问时，我会为他们提供解答。我时刻保持着比赛的准备。”
+   </p>
+   <p>
+    掘金本赛季常规赛取得了西部第二的战绩，在西部半决赛中与开拓者鏖战七场遗憾出局，球队的年轻核心阵容的表现非常出色。
+   </p>
+   <p>
+    “当我看到球队的表现时，我能够理解球队的决定，”小托马斯坦言，“我因伤缺席了50场比赛，球队在此期间打得很棒，设法让我融入并不容易，球队不想因此打乱出色的化学反应，我对此非常理解。”
+   </p>
+   <p>
+    小托马斯今年夏天一直在努力训练，他希望能够在下赛季获得更多的机会。
+   </p>
+   <p>
+    “我会回到我曾经打出的水平，我非常兴奋能够再次展现我的能力。”小托马斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

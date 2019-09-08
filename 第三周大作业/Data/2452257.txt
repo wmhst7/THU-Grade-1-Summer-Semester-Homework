@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  蒙蒂-威廉姆斯谈卢比奥：他有着球队需要的一切
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Suns/status/1148742767360634880" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 09:52:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="蒙蒂-威廉姆斯谈卢比奥：他有着球队需要的一切" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/506dd2e9b23bcf4d8f04f5bbc1d16fab301cb44c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 菲尼克斯太阳队官方今天为球队新援里基-卢比奥举办了新闻发布会。
+   </p>
+   <p>
+    新闻发布会上，太阳主教练蒙蒂-威廉姆斯（2019年5月4日正式加盟太阳成为球队新任主教练）对卢比奥做出了高度评价，威廉姆斯说道：“他有着我们所需要的一切，他的习惯，他的态度以及他的经验。我很感激并且很荣幸能够和他一起合作并铸造我们的球队。”
+   </p>
+   <p>
+    北京时间7月9日，太阳正式与卢比奥签下了一份多年合同。根据此前的报道，太阳与卢比奥的合同金额为3年5100万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢比奥场均上场27.9分钟，得到12.7分3.6篮板6.1助攻1.34抢断，季后赛场均上场33.6分钟，得到15.4分3.2篮板8.6助攻2.40抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

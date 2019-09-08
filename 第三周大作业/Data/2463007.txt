@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：没有感觉到压力，但我相信自己能成为超级球星
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/notoriousohm/status/1159336652285726720?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 15:34:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：没有感觉到压力，但我相信自己能成为超级球星" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/72a6eb9808c4d934fe9924906dff70ebc771f721.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 湖人前锋凯尔-库兹马近日在美国男篮拉斯维加斯训练营期间接受NBA记者Ohm Youngmisuk采访谈到了个人新赛季的前景。
+   </p>
+   <p>
+    库兹马表示他已经准备好成为勒布朗-詹姆斯和安东尼-戴维斯身边的第三位球星。“我没有感觉到压力，但我相信自己有能力成为那种超级球星，”库兹马说道，“我付出了大量努力。我一路走来的进步表明我可以达到那种水准。从大学起，我每一年都在进步，我完全不觉得我的进步趋势会终止。上赛季，我的投射表现不好，但仍然场均拿下接近20分。如果我能做好投篮，继续提升防守能力，我不明白我为何做不到（成为队内第三位球星）。”
+   </p>
+   <p>
+    库兹马相信自己的比赛特点能够完美匹配詹姆斯和戴维斯。“我从来不是一个占据球权的人，”库兹马说，“我一向擅长无球打法。比赛将会更加容易一些，我将得到大量空位投篮机会。我的职责就是信任夏天的训练效果和投入，调整呼吸，保持专注，然后命中那些投篮，因为我将得到空位。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

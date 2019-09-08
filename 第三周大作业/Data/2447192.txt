@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  东契奇今日发推晒出身着自己卡通形象T恤并手捧奖杯照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/luka7doncic/status/1143709142462414848" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 14:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="东契奇今日发推晒出身着自己卡通形象T恤并手捧奖杯照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/d41b90abe74382231726ba318f4d120c272ba435.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 今日，独行侠后卫卢卡-东契奇发推晒出了自己身着印有自己漫画形象的T恤并手捧最佳新秀奖杯的照片（见新闻配图）。
+   </p>
+   <p>
+    东契奇发文说道：“来拿你的T恤吧！”
+   </p>
+   <p>
+    2018-19赛季常规赛，东契奇场均出场32.3分钟，可以贡献21.2分7.8篮板6.0助攻1.07抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/12/795d79e7bd44b867208d5b17f95fa09b.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

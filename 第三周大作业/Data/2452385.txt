@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼斯-史密斯：我在夏天几乎完全改变了自己的投篮方式
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1148789482717614080" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 16:30:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼斯-史密斯：我在夏天几乎完全改变了自己的投篮方式" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/ab3abb974eec76b3bb52fe9fceaa5a763adbbddb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 尼克斯球员丹尼斯-史密斯在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到休赛期的训练，史密斯说：“我几乎完全改变了自己的投篮方式，从起跳到出手姿势，我意识到我之前的投篮不够稳定，因此我在夏天决心打磨这方面的技术，我依旧有一些工作需要做，很期待下赛季我的跳投表现明显进步。”
+   </p>
+   <p>
+    谈到和夏季联赛的球员一同训练，史密斯说：“我非常享受，因为我去年也打了夏季联赛，看到他们保持饥饿感，渴望证明自己，这能够激励我前进，我喜欢年轻球员之间相互激励。”
+   </p>
+   <p>
+    当被问及和火箭球员克里斯-保罗一同训练的内容，史密斯笑着说：“我可不想向其他人分享他对我的教导，我希望只有我自己知道。他是一个很棒的家伙，自从我九年级以来，他一直是我的导师。”
+   </p>
+   <p>
+    当被问及对于为尼克斯效力有何期待，史密斯说：“赢球。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰主教练：队内青年才俊良性竞争，互相督促互相提高
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/hawks-news-lloyd-pierce-hopeful-young-core-will-compete-push-each-other/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 15:26:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰主教练：队内青年才俊良性竞争，互相督促互相提高" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/87fa92afc1e32d6617848b58e61221a4f97c4563.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 近日，老鹰主教练劳埃德-皮尔斯接受了媒体采访，谈及队内众多青年才俊。今年老鹰在选秀大会中在第4顺位、第10顺位依次选中德安德烈-亨特、卡姆-雷迪什，加上队内后卫特雷-杨、凯文-赫尔特与内线约翰-科林斯，新赛季的老鹰将刮起青春风暴。
+   </p>
+   <p>
+    “我认为拥有如此多青年才俊的魅力就是他们之间的良性竞争，我们现在都站在同一战线上，队内产生了良性竞争。你要试着去让这些年轻球员彼此间产生默契。你能让雷迪什和特雷-杨兼容吗？雷迪什和赫尔特的默契怎么样？你怎么样发挥出每个球员的最大能力，搭配出最好的阵容？”皮尔斯说道。
+   </p>
+   <p>
+    “赫尔特和雷迪什每天都在对位，这就是竞争的一大体现，我不能奢求更好的局面了。有些球员想要把球权控制在自己的手上，这时他就要面对亨特的防守和挑战了。我现在感觉很棒，因为竞争是这群年轻小伙的核心竞争力，他们互相督促，互相提高。作为我们教练团队，要做的就是创造一个竞争环境。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

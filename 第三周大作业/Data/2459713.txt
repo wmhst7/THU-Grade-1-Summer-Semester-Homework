@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德力挺安东尼：投票让安东尼再打个告别赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Dame_Lillard/status/1155971300214525952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1155971300214525952&amp;ref_url=https%3A%2F%2Fwww.complex.com%2Fspo" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 15:24:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德力挺安东尼：投票让安东尼再打个告别赛季" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/853328b91d017d364ac5fcac9c37cd72d2b6ad18.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日，开拓者后卫达米安-利拉德更新推特，力挺卡梅罗-安东尼。
+   </p>
+   <p>
+    利拉德发起了两个hashtag话题：“#投票让安东尼再打个告别赛季 #瓜哥不该无球可打”
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5hvp144crj20fe03ljrl.jpg"/>
+   </p>
+   <p>
+    值得一提的是，在#StopPlayinMelo这个话题的讨论区里，有部分网友认为利拉德的这个提法并不准确（StopPlayinMelo的直译为“别再用Melo打球了”）。
+   </p>
+   <p>
+    有网友发推文称：“去让开拓者签下安东尼！”
+   </p>
+   <p>
+    利拉德回复这位网友说：“我们没有空间了，但安东尼应该继续打球。”
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5hvtnxkplj20gi06u0t6.jpg"/>
+   </p>
+   <p>
+    安东尼目前是一名完全自由球员，2018-19赛季常规赛，安东尼代表火箭上场10次，场均上场29.4分钟，得到13.4分5.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

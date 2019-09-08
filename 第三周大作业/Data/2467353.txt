@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮官方发布训练图集：在澳大利亚第二天的训练结束
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/usabasketball/status/1163658139129929729?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 16:33:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮官方发布训练图集：在澳大利亚第二天的训练结束" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/3e8eaf2eec6e1b8610e6b48f7587c8cb17f30798.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 美国男篮官方推特今日发布了一组美国男篮在澳大利亚墨尔本进行训练的图片。
+   </p>
+   <p>
+    “在澳大利亚第二天的训练结束。”美国男篮官方写道。
+   </p>
+   <p>
+    目前美国男篮大名单还有13人，分别是：德里克-怀特、哈里森-巴恩斯、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、马库斯-斯马特、杰伦-布朗、乔-哈里斯和梅森-普拉姆利。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/16/4a51a66a60a66382087296daec4d8916.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/16/7da0a9dc3b642399f780b902fb37e405.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/16/eaca25e6c2b7f6a4c8007339cb96a693.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

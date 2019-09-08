@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：勇士放弃双向合同球员朱利安-沃什伯恩
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WarriorsPR/status/1151569979352834048" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 03:17:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：勇士放弃双向合同球员朱利安-沃什伯恩" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/01fdbf769e52713a5b47879b36b50a4b4876d5e9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，勇士PR组更新推特，宣布球队正式放弃双向合同球员朱利安-沃什伯恩。
+   </p>
+   <p>
+    27岁的沃什伯恩身高2.03米，体重95公斤，在2019年1月与灰熊签订双向合同后，他代表灰熊出场18场（3场首发），场均出场14.1分钟，得到2.2分2.3篮板。
+   </p>
+   <p>
+    在7月7日关于安德烈-伊格达拉的交易里，沃什伯恩被灰熊交易到了勇士。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

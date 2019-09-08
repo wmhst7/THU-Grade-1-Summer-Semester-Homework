@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小加里-特伦特：这是一场马拉松，不是冲刺，但我仍然会获胜
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/gtrentjr/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 15:33:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小加里-特伦特：这是一场马拉松，不是冲刺，但我仍然会获胜" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/b3f360a4354cb4decd7a2e06ba6c5dc94999ba6a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，开拓者年轻后卫小加里-特伦特更新了自己的社交平台Instagram，并晒出自己的个人训练照。
+   </p>
+   <p>
+    “这是一场马拉松，不是冲刺，但我仍然会赢得这场胜利。”小加里-特伦特说道。
+   </p>
+   <p>
+    小加里-特伦特来自于杜克大学，于2018年第2轮第7顺位被国王选中，之后被交易至波特兰开拓者。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/15/463b0edf56ed85658f90447feae14570.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：姚凡)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

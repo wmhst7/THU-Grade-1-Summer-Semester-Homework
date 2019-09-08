@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  里奇-保罗：不，我没有掌管湖人，我也不想掌管湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1147854956608835586?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 21:09:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="里奇-保罗：不，我没有掌管湖人，我也不想掌管湖人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/f77c9ff1a8e114d44957ec791266c8eefb60b080.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 著名经纪人里奇-保罗今日在夏季联赛现场接受采访谈到了他与湖人的关系。
+   </p>
+   <p>
+    外界舆论有时会认为里奇-保罗掌管着湖人，对此保罗本人反驳道：“不，你在开玩笑吧？”
+   </p>
+   <p>
+    当被问到他是否想要管理一支NBA球队，保罗表示：“不。可能会买支球队吧，而不是管理球队。我专注于我的工作，我喜欢我的职业，我爱我代理的球员们。我喜欢参与这个过程，看到他们逐渐成熟，帮助他们成长为真正的职业球员。虽然有大量的谈判合同工作要做，但中间还有许多别的事情，它们都是真实存在的。我们所拥有的，以及我在过去18，19年间足以忍受的事情，我一直以如此职业的水准投身于这项运动，这种经历很特别，我也很享受。这对我而言并不是工作。每天早上起床时，我都期待着与家人谈话，与球员们交流。我们这项生意存在高峰和低谷，当今更是如此，世界正在发生改变，一切唾手可得，运动员的思维方式也有所不同。所以现在的情况真的很好。不，我并没有掌管湖人。我也不想掌管湖人，但湖人是一家优秀的球会，他们待我很好，本质上，通过我旗下球员的待遇展现出善意。其实我们联盟中的所有球队都挺好的。”
+   </p>
+   <p>
+    目前里奇-保罗代理湖人队内的4名球员，分别为勒布朗-詹姆斯、安东尼-戴维斯、肯塔维厄斯-考德威尔-波普以及塔伦-霍顿-塔克。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

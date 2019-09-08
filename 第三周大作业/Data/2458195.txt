@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔社媒晒与队友吉布森波蒂斯佩顿合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0WmnFcgp42/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 11:17:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔社媒晒与队友吉布森波蒂斯佩顿合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/94d87093cd745306a64350c445ce7ba86d4c3b44.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，尼克斯前锋朱利叶斯-兰德尔更新个人社交媒体Instagram，发布与队友博比-波蒂斯、泰-吉布森、埃尔弗里德-佩顿的合照。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均30.6分钟，得到21.4分8.7篮板3.1助攻；波蒂斯场均上场26.0分钟，得到14.2分8.2篮板1.4助攻；吉布森场均上场24.1分钟，得到10.8分6.5篮板1.2助攻；佩顿场均上场29.8分钟，得到10.6分5.2篮板7.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

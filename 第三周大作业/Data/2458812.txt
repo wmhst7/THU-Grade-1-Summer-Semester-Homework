@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才女助教谈联盟女助教数量增长：女性的参与很重要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1155173330942476288" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 01:59:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才女助教谈联盟女助教数量增长：女性的参与很重要" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/3f8a7ab6c50c2a727b1bc03292bc5ea8facb9f81.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 近日，奇才女助教、WNBA球员克里斯蒂-托利弗接受了记者采访。
+   </p>
+   <p>
+    谈到凯尔特人聘请此前曾担任奇才解说员的前WNBA冠军卡拉-劳森为助教时，托利弗说：“那很棒。我认为NBA中有女性的参与是一件重要的事。她会给凯尔特人带来很多帮助，我为她感到极其开心。”
+   </p>
+   <p>
+    “那当然是一种进步，如果她们能胜任这份工作，她们就应该得到这份工作。显然其他球队意识到了有女性工作人员的好处，我认为这是很棒的。”
+   </p>
+   <p>
+    “我认为无论你未来的道路是什么，你所热衷的是什么，职员的男女比例平衡都应该是你的目标。我认为人各有志，但是无论你想要当主教练、助教、球员发展训练师还是管理层，无论个人的需求是什么，那都是她们应该努力的目标。”
+   </p>
+   <p>
+    托利弗是第一位在休赛期担任NBA助教的WNBA现役球员，在担任奇才助教前已是一名全明星水准的WNBA控卫，她相信她的执教经历会对她的比赛表现有益。她曾和马基夫-莫里斯和杰夫-格林一起训练，两人都对她的贡献有高度评价。奇才控卫约翰-沃尔也对她的观点表示赞赏。
+   </p>
+   <p>
+    对此，托利弗说：“我认为这对我有很大帮助，我得以与篮球领域的一些顶尖人士一起训练，在球员发展和执教方面我看了很多录像。对我来说，我仔细研究了很多事情。这很棒。”
+   </p>
+   <p>
+    目前联盟中有八位女助教，分别是马刺的Becky Hammon、独行侠的Jenny Boucek 、公牛的Karen Stack Umlauf、快船的Natalie Nakase、奇才的Kristi Toliver、凯尔特人的Kara Lawson、骑士的Lindsay Gottlieb以及76人的Lindsey Hardin。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

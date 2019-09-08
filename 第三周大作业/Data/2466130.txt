@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥斯曼：今天球队的表现不好，目标是拿到奥运会入场券
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/919880/cedi-osman-i-was-always-able-to-be-a-leader/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 03:10:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥斯曼：今天球队的表现不好，目标是拿到奥运会入场券" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/13b5489dd688095faed5abee9933a8a396e6c027.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 在今天已经结束的一场2019男篮世界杯热身赛中，土耳其以72-87的比分不敌塞尔维亚。赛后，土耳其球员切迪-奥斯曼接受了Eurohoops记者George Efkarpides的采访。
+   </p>
+   <p>
+    在谈到自己在骑士以及国家队的角色时，奥斯曼说道：“我感觉就像我一直就能成为一名领袖，只是一直没有机会。上个赛季在骑士，以及前2到3年在国家队，我已经向大多数人展现了这一点。所以，我感觉很不错，因此我不得不努力训练。”
+   </p>
+   <p>
+    在谈到球队本场的表现时，奥斯曼说道：“我们必须的一步步来，对我们来说，最大的目标就是拿到奥运会的入场券（世界杯将有7支球队可以直接获得2020年东京奥运会的参赛资格，这7支球队必须是世界杯上各大洲成绩排名前列的队伍），我们接下来的表现必须要比今天好。我们今天打得真的很糟糕并且错失了很多投篮，我们在分享球方面必须做得更好。我们必须继续努力，对我们而言，这次的热身赛真的很不错。”
+   </p>
+   <p>
+    本场比赛，奥斯曼得到12分8篮板5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

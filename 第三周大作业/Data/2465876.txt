@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝恩斯将自己在马塞诸塞州的房产挂牌出售
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nesn.com/2019/08/former-celtics-center-aron-baynes-selling-newton-mass-town-house/" target="_blank">
+     新英格兰体育网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 05:36:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝恩斯将自己在马塞诸塞州的房产挂牌出售" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/6471b95bf04df6d54d736777a53675caf8045fe1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 据波士顿媒体报道，前凯尔特人球员、现太阳球员阿隆-贝恩斯已经将自己在马塞诸塞州牛顿市的房子列入出售清单，售价约为170万美元。
+   </p>
+   <p>
+    这栋房子天花板的高度为12英尺，有四个卧室，三个全尺寸浴室，一个可容纳两辆车的车库和一个私人庭院。（该房产图片见新闻配图）
+   </p>
+   <p>
+    据此前的报道，贝恩斯已经在菲尼克斯购买了一处价值254万美元的房产。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/05/9f8e4aacc3aa9aa20198426cf0d8d8e9.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/05/cfa1dc321a79850f6ed50c8be79cca97.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/05/8319bf068b2cc138996354ff799a0ef4.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/05/6326dfd17d40db34529ee2bbbcd2673a.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

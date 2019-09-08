@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  汤普森：我会以110%的状态回归，看轻勇士是不明智的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mercurynews.com/2019/08/01/klay-thompson-ignorant-to-say-warriors-dynasty-is-over/" target="_blank">
+     圣何塞水星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 06:36:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="汤普森：我会以110%的状态回归，看轻勇士是不明智的" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/1915b0189ce6baf5e2ec41599b3d7e4ea74e6c72.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 近日，勇士后卫克莱-汤普森参加了一档节目，期间接受采访。
+   </p>
+   <p>
+    对于外界认为凯文-杜兰特的离队和克莱-汤普森左膝十字韧带撕裂的伤病意味着勇士王朝终结的看法，汤普森说：“我认为现在说勇士王朝已经结束了有点为时尚早。”
+   </p>
+   <p>
+    “我认为，我们仍然拥有两届MVP斯蒂芬-库里和最佳防守球员德雷蒙德-格林。丹吉洛-拉塞尔的加入对我们来说是一个不可思议的收获。我认为，他将成长为这个联盟的巨星。”
+   </p>
+   <p>
+    谈到他的回归，汤普森也表示了信心：“我认为王朝已经终结的说法有一点无知（ignorant)，因为我觉得我会以110%的状态回归的，我会告诉人们：‘我觉得我回归之后会比之前更好，运动能力更强。看轻勇士将不是个明智之举。’”
+   </p>
+   <p>
+    汤普森在2018-19赛季总决赛对阵猛龙的第六场比赛中遭遇左膝十字韧带撕裂，预计恢复时间为5-7个月。此前勇士官方宣布，球队已经与汤普森签下了一份5年1.9亿美元的续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，汤普森场均上场34.0分钟，得到21.5分3.8篮板2.4助攻1.08抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

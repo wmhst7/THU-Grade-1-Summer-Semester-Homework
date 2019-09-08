@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯：对于职业球员而言，心理健康和身体健康同样重要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/philadelphia/76ers/tobias-harris-opens-about-mental-health-and-what-he-does-stay-balanced" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 10:05:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯：对于职业球员而言，心理健康和身体健康同样重要" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/c3287787ebdde5f9cd856f3946636a233c3f6932.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 76人球员托拜厄斯-哈里斯在近日接受媒体采访时谈到了自己练习瑜伽的经历。
+   </p>
+   <p>
+    哈里斯第一次在纽约长岛的一家瑜伽工作室练习时差点晕倒，因为他练习的是Bikram高温瑜伽，房间温度要升至35-42摄氏度，空气湿度为40%。
+   </p>
+   <p>
+    “练习瑜伽能够提升灵活性，这有助于我进一步提升自己，很多人推荐我尝试瑜伽，”哈里斯回忆道，“但是，当我到了那里时，我才意识到到底有多热，在如此高温的情况下做动作，我几乎昏倒了。”
+   </p>
+   <p>
+    “当我第一次做瑜伽时，我希望这能够帮助我在训练方面做到更多，而现如今我更倾向于冥想，通过这个过程来舒缓和平静内心，并且对身体肌肉的进行不同位置的拉伸。它能够让我利用呼吸调整，专注于我的内心。”哈里斯补充道。
+   </p>
+   <p>
+    对于哈里斯而言，练习瑜伽只是他保养自己身体的方式之一。
+   </p>
+   <p>
+    “思想、身体以及精神，我都想确保自己处于健康的水平，”哈里斯说道，“无论是对于生活，还是对于我的职业生涯。”
+   </p>
+   <p>
+    哈里斯认为，对于职业运动员而言，心理的健康和身体的健康同样重要，特别是在现如今的社交媒体时代。
+   </p>
+   <p>
+    “我认为社交媒体对于心理健康的影响程度比人们意识到的更大，”哈里斯说道，“有些时候，因此而来的消极性或者积极性会影响你的精神状态，在不同的环境当中，你可能会过于亢奋，也可能会过于低沉。”
+   </p>
+   <p>
+    除此之外，伤病，上场时间等因素带来的逆境，都可能会影响一名球员的心理健康。
+   </p>
+   <p>
+    “我认为每个NBA球员都经历过这样的情况，也许每个职业运动员都经历过。这也是我为何审视自己，始终保持对于自我的认知，知道每天需要去做什么来帮助我成为最好的自己。”哈里斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

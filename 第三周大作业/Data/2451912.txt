@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  12号和24号！老鹰官方展示新秀亨特与费尔南多球衣照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/atlhawks/status/1148032826408755200?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:59:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="12号和24号！老鹰官方展示新秀亨特与费尔南多球衣照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/150257b829f67faf48429f355cf1dbb62f742858.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 老鹰官方推特展示了球队新秀德安德烈-亨特和布鲁诺-费尔南多手持老鹰球衣亮相的照片。
+   </p>
+   <p>
+    亨特将在新赛季身穿12号球衣，费尔南多将会身披24号球衣。
+   </p>
+   <p>
+    亨特是2019年首轮第4顺位新秀，布鲁诺-费尔南多是次轮总第34顺位新秀。老鹰此前通过交易得到他们二人的签约权。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

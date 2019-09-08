@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波尔-波尔：圣诞大战本期待着对阵开拓者或爵士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/nuggets-news-bol-bol-brutally-honest-reaction-pelicans-celtics-playing-christmas/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 10:27:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波尔-波尔：圣诞大战本期待着对阵开拓者或爵士" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/159997eefd820b2bc994f53478446c8bcb4ac995.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 掘金新秀波尔-波尔近日在采访中谈到了新赛季的圣诞大战。
+   </p>
+   <p>
+    在下赛季的圣诞大战上，掘金将会主场迎战鹈鹕。对此他表示：“鹈鹕不算是一个很强的对手，掘金能出战圣诞大战我一点都不惊讶，不过我原先是期待能和同区的开拓者或者爵士对阵。”
+   </p>
+   <p>
+    另外，波尔在看完其他圣诞大战的安排后，对于凯尔特人能出战圣诞大战感到不解，“凯尔特人也出战吗，为什么？”
+   </p>
+   <p>
+    新赛季的5场圣诞大战分别是湖人对阵快船，掘金对阵鹈鹕，猛龙对阵绿军，勇士对阵火箭，76人对阵雄鹿。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡罗尔发布鸡汤：热爱你所做的工作才能找到快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6z_oUn3KE/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 11:48:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡罗尔发布鸡汤：热爱你所做的工作才能找到快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/b8a43b49a9152a72e7b03a4b6c4465d0ebe5c1ed.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，已经正式加盟马刺的前锋德马雷-卡罗尔更新Instagram，发布了一张自己与大学时期球场照的合成图（见新闻配图）。
+   </p>
+   <p>
+    “如果你不热爱你所做的工作……你就永远无法找到快乐……每一天。（满分）”卡罗尔配文。
+   </p>
+   <p>
+    卡罗尔在2006年转学至密苏里大学。2008-09赛季，卡罗尔率领球队打进NCAA锦标赛八强，入选大十二联盟最佳阵容第一阵容。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡罗尔代表篮网出场67次，场均出场25.4分钟，能够得到11.1分5.2篮板1.3助攻0.46抢断；季后赛出场5次，场均出场23.8分钟，能够得到6.6分4.0篮板0.4助功0.80抢断。近日，卡罗尔以3年2100万美元与马刺达成协议。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/11/ea8a7efcbf941b27f8f234eb04ab5975.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

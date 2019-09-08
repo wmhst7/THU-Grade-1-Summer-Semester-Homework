@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕新援号码：鲍尔2号哈特3号英格拉姆14号费沃斯22号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WillGuillory/status/1151229610568216577" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 06:27:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕新援号码：鲍尔2号哈特3号英格拉姆14号费沃斯22号" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/6f6c1998a56d95e45cdb154e767bfb6e806bc66f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日，鹈鹕为加盟球队的新援朗佐-鲍尔、布兰登-英格拉姆、约什-哈特和德里克-费沃斯举办了新闻发布会。新闻发布会上，四位新援新赛季的球衣号码正式确定。
+   </p>
+   <p>
+    鲍尔、英格拉姆、哈特都将继续身披各自在湖人时期所穿着的号码。鲍尔选择的球衣号码为2号，哈特选择的号码为3号，英格拉姆选择的号码为14号。
+   </p>
+   <p>
+    而费沃斯由于其在爵士时期身穿的15号球衣已被鹈鹕后卫弗兰克-杰克逊使用，费沃斯将身披鹈鹕22号球衣征战新赛季。
+   </p>
+   <p>
+    在此前涉及安东尼-戴维斯的交易中，湖人将鲍尔、英格拉姆和哈特打包交易至鹈鹕。另外一笔交易中，鹈鹕送出了2021年和2023年的二轮选秀权（原本属于勇士），从爵士方面交易得到了前锋德里克-费沃斯。
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.9分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断；英格拉姆场均出场33.8分钟，得到18.3分5.1篮板3.0助攻0.54抢断0.60盖帽；哈特场均出场25.6分钟，得到7.8分3.7篮板1.4助攻0.96抢断0.60盖帽；费沃斯场均上场23.2分钟，得到11.8分7.4篮板1.2助攻0.74抢断1.39盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

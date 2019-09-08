@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少在休斯顿打球接下来4年将少交近1000万美元州税
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.forbes.com/sites/seanpackard/2019/07/12/trade-saves-russell-westbrook-10-million-in-taxes/#6f314e261e2b" target="_blank">
+     福布斯
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 08:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少在休斯顿打球接下来4年将少交近1000万美元州税" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/2c28d4a9a75d69dedf48534cece9d5e8495b35c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据福布斯记者Sean Packard的报道，拉塞尔-威斯布鲁克被雷霆交易到火箭可以让他在接下来4年少交接近1000万美元的州税。
+   </p>
+   <p>
+    威少合同还剩171139920美元，平均到每年为42784980美元，俄克拉荷马州税为5%，休斯顿没有州税，以他现在的合同，他每年需要向俄克拉荷马和其他他打球的州和城市（客场）缴纳2571623美元州税和地方所得税。
+   </p>
+   <p>
+    在休斯顿，威少每年只需要缴纳1005528美元的地方所得税，4年会少交超过6264380美元的州税。
+   </p>
+   <p>
+    另外，威少每年代言收入1800万美元，从俄克拉荷马来到休斯顿会让威少每年少交90万美元的州税。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

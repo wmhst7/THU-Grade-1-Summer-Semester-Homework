@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人记者：如果伦纳德没来湖人，问题也不会在于詹姆斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/7/3/20680632/lakers-rumors-free-agency-kawhi-leonard-lebron-james-fit-addressed-dave-mcmenamin-espn" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 11:57:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人记者：如果伦纳德没来湖人，问题也不会在于詹姆斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/5df679aa8c52174ab1ce65d6fecc5ac54de55e5a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 湖人跟队记者Dave McMenamin近日做客节目时谈到了湖人对于自由球员科怀-伦纳德的招募情况。
+   </p>
+   <p>
+    “联盟内传言了几个月直到休赛期开始，关于科怀是否愿意和勒布朗打球的问题。据我所知，那个问题已经被解决了。这是由于勒布朗-詹姆斯的努力。如果最终他决定选择快船或留在猛龙，问题的症结不会在于他的比赛风格能够和勒布朗-詹姆斯共存。在我看来，勒布朗积极做好了他的角色向科怀兜售他们的前景，现在还有湖人要尽到他们的部分，推销他们的球队。”McMenamin说道。
+   </p>
+   <p>
+    根据此前的报道，伦纳德已经先后与湖人、快船、猛龙完成会面，目前他还没有就自己的去向做出决定。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

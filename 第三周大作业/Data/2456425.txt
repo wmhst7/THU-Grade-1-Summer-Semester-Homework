@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿德巴约：泰勒-希罗学习能力很强，他能很快融入我们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/heat-news-bam-adebayo-believes-fast-learner-tyler-herro-will-fit-in-with-miami/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 13:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿德巴约：泰勒-希罗学习能力很强，他能很快融入我们" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/81e0e291dfd03618b396ba12e8b096b9564126a6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 近日，热火前锋巴姆-阿德巴约在接受记者采访时谈到了热火新秀泰勒-希罗。
+   </p>
+   <p>
+    阿德巴约表示：“他学东西很快，他沉迷于汲取各种对他来说有益的可以提高自身的东西。当我在夏季联赛与他交谈的时候，他就表现出了强烈的渴望学习的样子，他想改变自己然后变得像我们一样。所以我觉得他会很快跟我们融入到一起。”
+   </p>
+   <p>
+    泰勒-希罗在今年选秀大会上被热火以首轮第13顺位选中。泰勒-希罗今年19岁，身高1.98米，体重87公斤，司职得分后卫。2018-19赛季在NCAA为肯塔基大学出战37次，场均出场32.6分钟，能够得到14.0分4.5篮板2.5助攻1.1抢断0.3盖帽。
+   </p>
+   <p>
+    2018-19常规赛，阿德巴约场均上场23.3分钟，得到8.9分7.3篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

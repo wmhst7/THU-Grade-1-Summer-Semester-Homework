@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  佩林卡：感谢魔术师对球队的支持，我没时间回应批评
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/notoriousohm/status/1149809509071589376?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 07:45:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="佩林卡：感谢魔术师对球队的支持，我没时间回应批评" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/66739200a23b4b95e83dc0229c3b4ac10d550c8d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 湖人总经理罗勃-佩林卡今日接受采访谈到了湖人今夏的引援情况。
+   </p>
+   <p>
+    当被问到湖人曾经多么接近签下科怀-伦纳德时，佩林卡说：“我真的没花太多时间思考或者定义这个事情。因为一旦决定出炉，我们的棋盘上拥有丰富的棋子可以操作，完成任务。到了那一刻我们不会回头看的。我认为当超级球星出现在市场上，你肯定要尽最大努力。”
+   </p>
+   <p>
+    谈到球队名宿魔术师约翰逊在招募伦纳德过程中的努力，佩林卡说：“我可以这么说，我们对于他的支持表态充满感激。我们知道他在为湖人加油，这一点很明确。我们也感谢他从外界传达的支持。众所周知，有一些联盟制定的规则需要我们遵守，但他对我们的阵容和引援表达的只有支持和兴奋。”
+   </p>
+   <p>
+    关于外界对他的批评和抨击，佩林卡说：“我认为我们对球迷负有责任，我们不应把在这里的时光用来回应批评。我在这里的时间必须用来组建湖人阵容。假如我把时间花在回应针对我个人的批评上，在那上面每耗费的一分钟或五分钟都是本可以用来构建阵容且让球队处于争冠位置的一分钟或五分钟时间。那就是我的关注点，我一直在投入工作，不会回应批评。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

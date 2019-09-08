@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雷霆签下中锋贾斯廷-巴顿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BradyDoesSports/status/1161307525716828161/photo/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 00:16:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雷霆签下中锋贾斯廷-巴顿" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/0de17fa8f335972a6f7a9746b3471a28e1440690.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 雷霆官方今日宣布，球队正式签下中锋贾斯廷-巴顿。根据球队政策，合同细节并未公布。
+   </p>
+   <p>
+    巴顿身高2.13米，臂展2.21米，体重104公斤。出生于1997年，在2017年第1轮第16顺位被公牛选中，后被交易至森林狼开启自己的NBA生涯，上赛季末被交易至76人后被球队裁掉。共计在NBA出场4次，场均6.3分钟，得到1.8分1.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

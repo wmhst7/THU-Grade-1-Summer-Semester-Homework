@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马现场观战拜仁与皇马热身赛，并为拜仁进球欢呼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0KKpO1pIfZ/?igshid=gh2k0784k57j" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 10:27:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马现场观战拜仁与皇马热身赛，并为拜仁进球欢呼" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/211d7d068fbd53c41b18e0cb17c6756e527f5836.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 湖人前锋凯尔-库兹马今日通过Instagram更新一组自己前往现场观看拜仁慕尼黑与皇家马德里两支足坛豪门球队的季前热身赛的动态。
+   </p>
+   <p>
+    “在Astroworld观看慕尼黑对阵马德里，在我的Astroworld里。不错。”库兹马写道。在其Instagram Story中，库兹马一度为拜仁的进球而欢呼雀跃。最终，本场比赛拜仁3-1战胜皇马。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190721/10/63683858a520f813ec49feee2058a0f3.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/10/12854a118a3d2ed9cea80900246a80ee.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

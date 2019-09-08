@@ -1,0 +1,78 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林中国行：紫禁城、路人王、“偶遇”托尼-帕克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/greenranger14/2118266209056542240?utm_source=ig_story_item_share&amp;igshid=1pghp6oz9jhst" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 23:59:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林中国行：紫禁城、路人王、“偶遇”托尼-帕克" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/3c845ed8f426d16c2126a0a108e0a4e00ebf4d6d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 湖人后卫丹尼-格林今日连续更新Instagram Story分享其在中国行期间的动态。
+   </p>
+   <p>
+    格林首先发布了他观看同行的黄蜂后卫特里-罗齐尔下中国象棋的照片，随后发布自己在商场内“偶遇”前NBA球员托尼-帕克的场景。格林在视频中说道：“很高兴在中国北京的商场里逛街，看看我遇到了谁？哦，是托尼啊！哥们你怎么样？好久不见啊！”格林还转发了妻子发布的他今日的训练动图，并发布他参与虎扑“路人王”活动与现场球迷的自拍合影。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/c69e0cf71116717d872376f3ef7adf74.jpeg"/>
+    ​
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/05549f1f7630a89e30c9016255003636.jpeg"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/cefbfcaffd74edda8e278e8982c1256b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/d1f9d1e1fd52dbd48850bc6178a76fe6.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/aca265ca43a83ca78e41783473d2d1d9.gif"/>
+   </p>
+   <p>
+    格林分享自己今日前往北京故宫游览的场景，并在视频中说道：“我正在游览紫禁城。这里简直太热了。不过我还不错，给自己找了一把遮阳伞，这样我就能享受荫凉了。”
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190826/00/64df4300cbdc2f4ca93f7b9188661d28.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/4d47c3786eb6a0637d9f7fbf7753d2b6.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190825/23/25e5b81fa96ce1c952bbbf40e9d068d7.gif"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

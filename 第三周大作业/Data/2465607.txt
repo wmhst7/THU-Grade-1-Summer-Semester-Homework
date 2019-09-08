@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网6名球员2K能力值公布：杜兰特96，欧文91
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 11:12:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网6名球员2K能力值公布：杜兰特96，欧文91" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/ad0f701d70615bcc432757fb8487feb7660fa9db.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，篮网有6名球员能力值得以确定。
+   </p>
+   <p>
+    篮网6名球员初始能力值为：
+   </p>
+   <p>
+    凯文-杜兰特 96
+   </p>
+   <p>
+    凯里-欧文 91
+   </p>
+   <p>
+    德安德烈-乔丹 81
+   </p>
+   <p>
+    乔-哈里斯 78
+   </p>
+   <p>
+    卡里斯-勒韦尔 78
+   </p>
+   <p>
+    威尔森-钱德勒 75
+   </p>
+   <p>
+    2018-19赛季常规赛，凯文-杜兰特场均出场34.6分钟，可以得到26.0分6.4篮板5.9助攻1.08封盖；凯里-欧文场均出场33.0分钟，可以得到23.8分5.0篮板6.9助攻1.54抢断；德安德烈-乔丹场均出场29.7分钟，可以得到11.0分13.1篮板2.3助攻1.06封盖；乔-哈里斯场均出场30.2分钟，可以得到13.7分3.8篮板2.4助攻；卡里斯-勒韦尔场均出场26.6分钟，可以得到13.7分3.8篮板3.9助攻1.05抢断；威尔森-钱德勒场均出场23.1分钟，可以得到6.0分4.2篮板1.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

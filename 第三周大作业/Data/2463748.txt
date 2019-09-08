@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特：塔特姆和布朗会克服上赛季的挣扎，继续进步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1127798/2019/08/09/putting-last-season-behind-them-jayson-tatum-and-jaylen-brown-hoping-to-move-forward-toward-expected-success/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 07:44:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特：塔特姆和布朗会克服上赛季的挣扎，继续进步" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/32138724212e2dc0125c2dab176b33e95e33d7e4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 近日，凯尔特人球员马库斯-斯马特接受了记者的采访，谈到了杰森-塔特姆和杰伦-布朗上赛季的挣扎。
+   </p>
+   <p>
+    “对他们来说，或者说对任何像他们那样之前状态火热的球员来说，人们会对他们之后的赛季有很大期待。每个人都会撞上一堵墙，要么跨过这堵墙，要么就会倒退。对他们来说，他们就是要向学习那种‘好吧，我撞上墙了。我该作何调整？’的心态，然后继续努力。”
+   </p>
+   <p>
+    “很多人都说，一遍又一遍地重复做同一件事并且期待着不同的结果是一种疯狂。但是对于篮球运动员来说，这就是努力。就是这样。哪怕没有效果，你也不能动摇，要继续做你该做的事情，要继续提高，哪怕只有一点点。这就是他们在做的事情。他们还年轻，他们会找到办法的。”
+   </p>
+   <p>
+    “他们的心态很清楚，这展示了他们的成熟和成长。他们本可能会有一种消极的心态，但他们没有，而是做好了准备，继续努力，保持积极的心态。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

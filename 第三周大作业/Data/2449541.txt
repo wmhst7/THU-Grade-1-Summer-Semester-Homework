@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回归片场！詹姆斯展示自己拍摄电影期间坚持训练动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://Instagram.com/stories/kingjames" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 21:13:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回归片场！詹姆斯展示自己拍摄电影期间坚持训练动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/ef6ae878624fa58851cb5e6b41e9a6650cef43b9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 湖人前锋勒布朗-詹姆斯今天更新Instagram Story展示自己回归《空中大灌篮2》片场的动态。
+   </p>
+   <p>
+    “回归！#片场生活 ”詹姆斯配文道。在另一条自拍视频中，詹姆斯展示了自己在电影片场内坚持训练的动态。“但是在投入拍摄前，首先要完成我的日常工作。”詹姆斯配文道。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190702/21/886f2704ef42476da03fc17abf292bc1.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190702/21/8e141960ed7dd7d8fd3f6befa4fb7d6d.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190702/21/72323ed7037c44508a614507eb28285a.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

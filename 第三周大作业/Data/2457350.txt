@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：太阳与谢赫-迪亚洛签下多年合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/press-release/suns-sign-cheick-diallo" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 08:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：太阳与谢赫-迪亚洛签下多年合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/d00fbd8df10ffb7958aa265b9d5ba8a0a17250e6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 太阳官方今日宣布，他们已经与谢赫-迪亚洛签下了一份多年合同，他将在太阳身穿14号球衣。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，迪亚洛与太阳达成两年协议。
+   </p>
+   <p>
+    迪亚洛生涯前三个赛季均为鹈鹕效力，共出场133场常规赛。
+   </p>
+   <p>
+    2018-19赛季常规赛，迪亚洛场均出场14分钟，得到6.0分5.2篮板0.5助攻0.5抢断0.5盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

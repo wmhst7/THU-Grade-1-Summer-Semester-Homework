@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：火箭和快船仍在认真追求伊格达拉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Stadium/status/1150810713205694471" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 01:10:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：火箭和快船仍在认真追求伊格达拉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/fbcb72f85b29dc1e8da9c9d64b3ab913b801f35b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据The Athletic记者Shams Charania报道，他得知，火箭和快船仍在认真追求安德烈-伊格达拉，但两队目前与灰熊的谈判处于停滞状态。
+   </p>
+   <p>
+    消息人士透露，独行侠和掘金都曾与灰熊进行接触，但两队的报价并不具备吸引力。
+   </p>
+   <p>
+    消息人士透露，火箭仍不愿缴纳因交易得到伊格达拉带来的更多奢侈税，且不太愿意放弃一个选秀权。若交易得到伊格达拉，火箭最终可能需要缴纳近2000万美元的奢侈税。
+   </p>
+   <p>
+    消息人士透露，快船唯一可以与灰熊达成交易的合理方案是送出莫里斯-哈克利斯，但快船并不愿放弃哈克利斯。此前哈克利斯在关于吉米-巴特勒的三方交易中被开拓者送至快船。
+   </p>
+   <p>
+    根据Shams报道，火箭和快船仍在寻求三方或四方交易的方案，而灰熊也有可能买断裁掉伊格达拉，球队和其经纪人也正在商讨其未来。
+   </p>
+   <p>
+    此前勇士将伊格达拉交易至灰熊，目前他的合同仍剩下一年1719万美元，2018-19赛季常规赛场均上场23.2分钟，得到5.7分3.7篮板3.2助攻0.90抢断0.75盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  江湖老中医？克莱中医馆体验把脉抓药，却把药谱拿反
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 18:25:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="江湖老中医？克莱中医馆体验把脉抓药，却把药谱拿反" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/7bd48f0026291d326fb4d0f71fbedc2651bf926b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，安踏“克莱主义”中国行继续进行中。克莱-汤普森来到上海一家中医馆，体验中医文化。
+   </p>
+   <p>
+    克莱在中医馆中体验了把脉看诊、读中药谱与亲自抓药，对中医文化有了进一步了解。
+   </p>
+   <p>
+    今晚七点，克莱-汤普森将与球迷粉丝共同见证全新第五代战靴KT5的发布，同时也标志着克莱主义中国行正式开启；未来两天克莱还将在上海、南京等地和粉丝进行互动。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/18/35151cf156bbe89b65fde2d8b1db16c8.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/18/fac860bb8160033675e37b0ed504c6f6.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

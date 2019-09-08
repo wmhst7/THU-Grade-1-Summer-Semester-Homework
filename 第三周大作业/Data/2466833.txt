@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：灰熊已经给予湖人许可与霍华德沟通
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1163226706439811073" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 07:13:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：灰熊已经给予湖人许可与霍华德沟通" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/d884b4a4e4832b4bda57b6bc6d73de8dfc60543d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 根据The Athletic记者Shams Charania的报道，联盟消息源透露，灰熊已经给予湖人许可与德怀特-霍华德沟通。
+   </p>
+   <p>
+    根据湖人记者Ramona Shelburne的报道，球队消息源透露，德马库斯-考辛斯受伤后，湖人对霍华德的兴趣更多是一种“尽职调查（due diligence）”。灰熊已经给予霍华德和他的团队许可与其他球队沟通，其中包括湖人。
+   </p>
+   <p>
+    今年夏天，霍华德被奇才交易至灰熊，但据The Athletic记者Shams Charania报道，多位联盟消息人士透露，灰熊计划将他裁掉。霍华德之前选择执行了下赛季560万美元的球员选项，他的合同只剩下最后一年。
+   </p>
+   <p>
+    2018-19赛季，霍华德受困于背部伤势，且接受了腰椎手术，只出场了9场比赛，场均出场25.6分钟，得到12.8分9.2篮板。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466626.html">
+     在德马库斯-考辛斯受伤后，湖人有意引进德怀特-霍华德
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466700.html">
+     Shams：湖人与霍华德互相有意，球队期待能与其沟通
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

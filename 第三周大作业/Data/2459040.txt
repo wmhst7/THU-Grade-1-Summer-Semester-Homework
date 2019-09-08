@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦康奈尔：我非常兴奋能够加盟步行者，依旧深爱着费城
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1094794/2019/07/25/t-j-mcconnell-on-falling-for-philly-and-finding-a-new-home-with-the-pacers/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 21:38:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦康奈尔：我非常兴奋能够加盟步行者，依旧深爱着费城" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/482b882989f4b9ecdf97e7a95fa6c016949074c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 步行者新援TJ-麦康奈尔在近日接受了媒体采访，他谈到了多个方面。
+   </p>
+   <p>
+    在本月初选择加盟步行者时，新队友维克托-奥拉迪波、道格-麦克德莫特和迈尔斯-特纳主动联系了麦康奈尔，欢迎他加盟球队。
+   </p>
+   <p>
+    “这会向你展示这支球队拥有一群怎样的球员，”麦康奈尔说道，“他们没有义务主动联系我，但他们认为有必要这样做。”
+   </p>
+   <p>
+    7月中旬，麦康奈尔前往拉斯维加斯现场观战夏季联赛，在此期间，奥拉迪波邀请他一同训练。
+   </p>
+   <p>
+    “像他这样的家伙主动去接触一位新队友，这非常酷。”麦康奈尔说道。
+   </p>
+   <p>
+    在训练结束后，麦康奈尔与几位步行者管理层成员共进晚餐，他将于当地时间7月29日正式签约步行者。
+   </p>
+   <p>
+    谈到加盟步行者，麦康奈尔说：“印第安纳波利斯的人们热爱篮球，我对于这样的结果感到很高兴，我非常兴奋能够成为一名步行者。”
+   </p>
+   <p>
+    回顾在费城效力的时光，麦康奈尔说：“我已经爱上了费城，我来到那里的第一个赛季，球队的表现不尽人意，在我离开前的一个赛季，球队取得了强势反弹，一度有机会打进东部决赛。当你离开的时候，球队的面貌比你刚来的时候取得了明显地改善，这就是你最想要的结果了。”
+   </p>
+   <p>
+    据此前NBA记者Adrian Wojnarowski报道，消息人士透露，后卫TJ-麦康奈尔将以2年700万美元合同加盟步行者。
+   </p>
+   <p>
+    2018-19赛季常规赛，麦康奈尔场均出场19.3分钟，能够得到6.4分2.3篮板3.4助攻1.04抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

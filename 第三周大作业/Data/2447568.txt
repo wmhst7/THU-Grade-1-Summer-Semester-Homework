@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝恩斯晒图告别波士顿：收拾好行装，感谢过去所有支持
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzMNN7OAndG/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 14:11:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝恩斯晒图告别波士顿：收拾好行装，感谢过去所有支持" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/b95a5f3a1c229c65f204f156b4b4feb51099cfe9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，太阳中锋阿隆-贝恩斯在个人Instagram上分享了自己打包好行装后，与妻子孩子的家庭合照（见新闻配图）。
+   </p>
+   <p>
+    “收拾好行装，向阳光灿烂的地方进发。我很喜欢我在波士顿度过的时光，感谢所有的支持与善意的言语。”贝恩斯写道。
+   </p>
+   <p>
+    根据The Athletic记者Shams Charania的报道，多位消息人士透露，凯尔特人将阿隆-贝恩斯交易到太阳。目前贝恩斯仍剩下一年546万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，贝恩斯场均出场16.1分钟，得到5.6分4.7篮板1.1助攻，季后赛场均上场12.8分钟，得到2.1分2.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

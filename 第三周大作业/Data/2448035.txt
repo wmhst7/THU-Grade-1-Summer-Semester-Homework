@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠鹈鹕国王76人等多队对艾尔-霍弗德有意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/windhorstespn/status/1144613048121995264?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 23:16:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠鹈鹕国王76人等多队对艾尔-霍弗德有意" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/45a5b804603968c9f5d10c7bc4ab60bcd8df217d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据NBA记者Brian Windhorst和Ramona Shelburne联合报道，自由球员艾尔-霍弗德目前在正在联盟内收获巨大的市场需求，他很有可能得到4年价值1亿美元以上的合同报价。
+   </p>
+   <p>
+    独行侠和鹈鹕迅速浮现成为霍弗德的潜在下家，除此之外，联盟消息人士透露，还有其他一些出人意料的球队正在追求霍弗德，其中包括国王和76人。
+   </p>
+   <p>
+    国王今夏有意引入中锋，消息人士透露，国王可能拥有为霍弗德开出丰厚报价的薪资空间，但他们的追逐名单上包含多位顶级中锋。除霍弗德外，国王可能追逐布鲁克-洛佩斯和尼古拉-武切维奇。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

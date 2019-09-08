@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯5笔签约第二年均为球队选项，可为下一年保持弹性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BobbyMarks42/status/1145743853045125122" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 02:02:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯5笔签约第二年均为球队选项，可为下一年保持弹性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/c071ad50fb5b6882f633eb30c92edb568fefaa36.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据NBA薪资专家Bobby Marks报道，联盟消息人士透露，尼克斯刚达成的4笔签约（博比-波蒂斯、雷吉-布洛克、韦恩-艾灵顿、泰-吉布森）中第二年均为球队选项。
+   </p>
+   <p>
+    这样，尼克斯既可以培养他们年轻的球员，保持竞争力，又可以为2020-21赛季保持弹性。
+   </p>
+   <p>
+    此前，据NBA记者Adrian Wojnarowski报道，吉布森与尼克斯达成2年2000万美元的协议；波蒂斯以2年3100万美元的合同加盟尼克斯；艾灵顿与尼克斯达成2年1600万签约协议。据NBA记者Shams Charania报道，布洛克和尼克斯达成了一份2年2100万美元的口头协议。
+   </p>
+   <p>
+    据Shams刚刚的报道，多位消息人士透露，自由球员埃尔弗里德-佩顿与尼克斯达成2年1600万的协议，第二年为球队选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，吉布森场均上场24.1分钟，得到10.8分6.5篮板1.2助攻；波蒂斯共出场50次，场均26分钟可以得到14.2分8.1篮板；艾灵顿场均出场24.5分钟可以得到10.3分2.0篮板1.4助攻；布洛克场均出场29.8分钟，可以得到11.3分2.8篮板2.0助攻0.63抢断；小佩顿场均上场29.7分钟得到10.6分5.2个篮板7.6次助攻1.05次抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

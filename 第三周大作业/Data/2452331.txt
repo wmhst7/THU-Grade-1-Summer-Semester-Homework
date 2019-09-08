@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]哈登造访阿森纳，一起来看看哈登足球脚法如何
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 12:22:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/2839107347/HCNG5oZO0" onclick="openVideo('https://weibo.com/2839107347/HCNG5oZO0');return false;" target="_blank">
+    <img alt="[视频]哈登造访阿森纳，一起来看看哈登足球脚法如何" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/b5501aaefc341fdf65f046a7446b77e7d51ea64b.jpg"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯
+    <a href="https://weibo.com/2839107347/HCNG5oZO0" target="_blank">
+     视频: [视频]哈登造访阿森纳，一起来看看哈登足球脚法如何»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

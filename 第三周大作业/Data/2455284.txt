@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  庆祝emoji日！马刺官推晒众球员模仿emoji表情趣图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spurs/status/1151535281197240321" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 07:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="庆祝emoji日！马刺官推晒众球员模仿emoji表情趣图" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/e34553631d901c87d91dba5734e52776ad4c8638.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 7月17日是世界emoji表情符号日。马刺官方推特发布一则视频，内容为球队众球员模仿emoji表情的搞怪片段。
+   </p>
+   <p>
+    官推配文：“（思考emoji）（比六手势emoji）（满分emoji）#世界表情日#gospursgo”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/06/c21ce080fba9bc06082140977a3d8ccf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/06/cd482751b5efa77adf0c27dac71f47f7.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/06/022907414389cecc0b127d43333cf961.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/06/9452bf89b371033083fe7fc2657b09fd.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

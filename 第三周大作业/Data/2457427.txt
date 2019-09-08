@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾萨克-亨弗里斯将与魔术签下Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.foxsports.com.au/basketball/nba/isaac-humphries-signs-exhibit-10-deal-with-orlando-magic-sources/news-story/abde8e2cafe9be6f9bc7eb05a2305f62" target="_blank">
+     福克斯体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 11:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾萨克-亨弗里斯将与魔术签下Exhibit 10合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/5811c65d059d9f3d4cbc108ff3985b1a2232f266.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 根据福克斯体育澳洲记者Olgun Uluc的报道，多位联盟消息人士确认，艾萨克-亨弗里斯已经同意与魔术签下一份Exhibit 10合同。
+   </p>
+   <p>
+    亨弗里斯身高2.13米，体重115公斤，是2017年的落选秀，来自澳大利亚。
+   </p>
+   <p>
+    2018-19赛季，亨弗里斯为老鹰出战5场常规赛，场均出战11.3分钟可以拿到3分2.2篮板。
+   </p>
+   <p>
+    相关科普：
+    <a href="https://nba.hupu.com/wiki/Exhibit_10%E5%90%88%E5%90%8C">
+     什么是Exhibit 10合同
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

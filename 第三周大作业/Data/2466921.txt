@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  珍妮-巴斯：湖人希望能很快重返夏威夷举行训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-08-17/la-sports-teams-heading-to-hawaii-on-rise?_amp=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 11:41:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="珍妮-巴斯：湖人希望能很快重返夏威夷举行训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/ad7a78e8cf3c2eea5c0d15218f754be9d84b1a70.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 《洛杉矶时报》Arash Markazi今日撰文报道洛杉矶球队与夏威夷之间的关联。
+   </p>
+   <p>
+    自从1988年起，湖人曾经13次在夏威夷举办训练营，最近一次是在2015年。当球队首次在夏威夷州檀香山市开展训练营前，时任湖人老板杰里-巴斯表示：“我去过夏威夷很多年了，那里的每个人似乎都是湖人球迷。既然夏威夷人民好像已经收养了湖人，那么湖人将夏威夷州接纳为他们的主场似乎再合适不过了，至少在训练营期间是这样的。”
+   </p>
+   <p>
+    湖人老板珍妮-巴斯近日在接受采访时表示：“巴斯博士如此热爱夏威夷以及那里的居民，因此他决定每隔几年在那里举办湖人的训练营。要求球队员工将所有的训练设施搬到夏威夷群岛上并不容易，但威基基海滩（夏威夷地区最著名的海滩）上的一次日落美景可以让你忘却所有的辛劳。湖人的两任教练帕特-莱利和菲尔-杰克逊认为这是一次建立球队化学反应的特殊机会。而且通过在我们不断增长的当地湖人球迷大家庭面前出战两场季前赛，夏威夷很快就成为了我们在主场之外的主场。”
+   </p>
+   <p>
+    湖人上一次前往夏威夷举办训练营是在2015年，2016年他们在圣巴巴拉市举办训练营；当他们造价8000万美元的全新训练馆于2017年投入使用后，过去两年间湖人均留在球队总部所在地洛杉矶埃尔塞贡多举行训练营。不过，珍妮-巴斯认为湖人可能在未来重返夏威夷举行训练营。
+   </p>
+   <p>
+    “NBA缩短了赛季前的备战时间以及季前赛数量，这为日程安排带来挑战，”珍妮-巴斯说道，“湖人希望能很快重返夏威夷，并与那座岛屿重新建立精神联系。”
+   </p>
+   <p>
+    在失去湖人的训练营后，夏威夷旅游局开始探索其他选项，并联系到了洛杉矶公羊队（NFL）和洛杉矶快船队。目前，公羊队正在夏威夷进行训练营和季前赛，而快船近日也宣布他们将连续第三年在夏威夷举行训练营和部分季前赛。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2437712.html">
+     湖人公布季前赛赛程：四战勇士，两场中国赛对决篮网
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

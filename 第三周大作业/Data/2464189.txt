@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特更新社媒晒出在夏威夷度假时与雷吉-米勒的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0_yJmwFHTb/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 14:30:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特更新社媒晒出在夏威夷度假时与雷吉-米勒的合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/49a0df24d01b9d23476b5d7d6b0eb5ed7ad3ef4e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今日，凯尔特人中锋埃内斯-坎特更新了个人社交媒体Instagram晒出自己在夏威夷度假偶遇名人堂成员雷击-米勒与其的合照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“这个夏天最好的放松方式就是来夏威夷。”
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均出场24.5分钟，可以得到13.7分9.8篮板1.7助攻。
+   </p>
+   <p>
+    雷吉-米勒其职业生涯常规赛，场均出场34.3分钟，可以得到18.2分3.0篮板2.98助攻1.08抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯发推力挺浓眉：科尔为何不提乔治请求离开雷霆？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kendrickperkins/status/1154120661624926209?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 08:48:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯发推力挺浓眉：科尔为何不提乔治请求离开雷霆？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/1919e8072c653cb714fad78109b7d7e29f472f40.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 针对勇士主帅史蒂夫-科尔近日发表的
+    <a href="https://voice.hupu.com/nba/2457748.html">
+     关于湖人球员安东尼-戴维斯交易申请的抨击言论
+    </a>
+    ，前NBA球员肯德里克-帕金斯今日连续发推回应科尔，并力挺他的前鹈鹕队友戴维斯。
+   </p>
+   <p>
+    “史蒂夫-科尔居然有勇气讨论其他球队那边发生的任何事，好像他自己没有接受凯文-杜兰特加盟一支73胜9负的球队似的！顺便说一句，@史蒂夫-科尔，马克-杰克逊建立了勇士王朝！他真有种！”帕金斯写道。
+   </p>
+   <p>
+    “我想知道为何@史蒂夫-科尔 一点也没提到保罗-乔治请求交易离开雷霆的事？我知道原因，因为阿尔文-金特里是他的好友！隐藏的议程！AD和球队的义务是相互的，那支球队交易了他们的每一个首轮秀，长期在他身边打造平庸阵容，但你却宁愿他被困在那里。实际上他帮了他们的忙，让球队开启重建并获取资产！火箭在说过他们不会交易克里斯（保罗）后交易了他，我没看到有人同情他。AD只是先发制人，因此要赞扬他！”帕金斯写道。
+   </p>
+   <p>
+    帕金斯最后补充道：“首先，我知道KD是自由球员，但我的论点在于，当KD签约勇士时，那对联盟有害吗？科尔说AD申请交易对联盟有害，所以我猜KD加入73胜9负的球队对联盟大有好处咯？当科尔缺席时，卢克-沃顿带着同样的球队打出20胜1负，所以别来告诉我科尔是一个多么优秀的教练！请停止吧！”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

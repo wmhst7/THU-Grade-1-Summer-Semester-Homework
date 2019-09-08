@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米洛什-特奥多西奇将签约意大利俱乐部博洛尼亚维图斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1149970289188573184" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 17:47:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米洛什-特奥多西奇将签约意大利俱乐部博洛尼亚维图斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/54640a5499fdf8368864ab3de11768c00ce6f6b5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据Eurohoops记者Nikos Varlas报道，前NBA球员米洛什-特奥多西奇和意大利俱乐部博洛尼亚维图斯达成协议，计划签下一份时长为三年的合同。
+   </p>
+   <p>
+    特奥多西奇出生于1987年，曾在2007-11赛季效力于奥林匹亚科斯，2011-17赛季效力于俄罗斯中央陆军篮球俱乐部，期间6次入选欧洲全明星阵容，并在2010年获得欧冠联赛MVP。2017年夏天，他与快船签下一份2年1230万美元的合同，登陆NBA。两个赛季共计代表快船出战60场常规赛，场均出场21.4分钟，得到8.0分2.4篮板4.0助攻0.43抢断。
+   </p>
+   <p>
+    2018年末，特奥多西奇曾向媒体透露，自己会离开NBA，更享受在欧洲打球。
+   </p>
+   <p>
+    2019年2月8日，快船宣布正式裁掉特奥多西奇，特奥多西奇的NBA生涯告一段落。
+   </p>
+   <p>
+    据此前报道，特奥多西奇已入选塞尔维亚男篮国家队征战今年男篮世界杯的18人初选大名单，塞尔维亚、意大利、菲律宾和安哥拉同处D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

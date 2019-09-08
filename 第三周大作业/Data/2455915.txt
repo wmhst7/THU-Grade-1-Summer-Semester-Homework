@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿米尔-杰弗森与魔术签下一份一年合同，重回球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1152219835818041344?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 22:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿米尔-杰弗森与魔术签下一份一年合同，重回球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/62cd54379c3455de5b8e599d569525de3a3f8052.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 据the Athletic记者Shams Charania报道，受限制自由球员阿米尔-杰弗森已经和魔术签下一份一年合同，重回球队。
+   </p>
+   <p>
+    根据此前报道，魔术已经为杰弗森开出了资质报价，使其成为受限制自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，杰弗森场均上场5.7分钟得到2.3分1.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

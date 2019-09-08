@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  史蒂文斯：上赛季已经翻篇了，我们会继续前进
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/stevens-celtics-turned-page-long-011200925.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 14:09:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="史蒂文斯：上赛季已经翻篇了，我们会继续前进" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/c3063adca61c3db984a3eaa175d2441c984dcd8f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 波士顿凯尔特人队主教练布拉德-史蒂文斯今天探访了美国男篮在拉斯维加斯的训练营，探访期间史蒂文斯教练接受了记者采访。
+   </p>
+   <p>
+    本次拉斯维加斯训练营，凯尔特人共有4名球员入选，分别是肯巴-沃克、杰森-塔特姆、杰伦-布朗以及马库斯-斯马特。
+   </p>
+   <p>
+    在谈到球队上赛季的表现时，史蒂文斯说道：“这很有趣，因为我觉得在外界由于休赛期的原因，人们会一直谈论这个。但在球队内部，我们早就翻篇了。我们队内的氛围现在很不错，我们有着一群出色的球员。”
+   </p>
+   <p>
+    在谈到布朗与塔特姆时，史蒂文斯说道：“杰伦和杰森现在在这里（拉斯维加斯训练营），但直到他们出发前他们上周都一直在波士顿训练。很显然，我们现在有一群不错的年轻人。我们很久前就已经翻篇了，这就是我们赛季结束后应该做的事情。我认为，无论你取得了成功还是并没有达到你想要达到的高度，你都应该从中获得些什么并继续前进。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  孝心满满！扎克-拉文为父母购置复古跑车
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz_2Eqng26r/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 17:23:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="孝心满满！扎克-拉文为父母购置复古跑车" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/510786d3564e06bc572f82ff03ccf5f1fa124ca4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 公牛球员扎克-拉文今日在个人社交媒体Instagram，晒出了他与父母一家三口和一辆复古跑车的合影。
+   </p>
+   <p>
+    拉文写道：“1968年的Pontiac LeMans作为礼物送给爸妈。”
+   </p>
+   <p>
+    2018-19赛季常规赛，扎克-拉文场均出场34.5分钟，得到23.7分4.7篮板4.5助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/17/3d67d7e174c3bd8602bccfe362a9b14d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

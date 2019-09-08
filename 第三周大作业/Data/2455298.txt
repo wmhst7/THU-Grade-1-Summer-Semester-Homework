@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：国王签约泰勒-莱登，后者将身披41号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/kings/news/kings-sign-tyler-lydon" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 07:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：国王签约泰勒-莱登，后者将身披41号球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/6096ca4b0457ac5b4257bfe605aaca56ffa84095.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 国王官方今日宣布，他们已经与自由球员泰勒-莱登签约，根据球队的政策，合同的细节没有被公布，他将在国王身穿41号球衣。
+   </p>
+   <p>
+    根据萨克拉门托ABC10记者Sean Cunningham之前的报道，莱登与国王达成的是一份底薪并且是部分受保障的两年合同。
+   </p>
+   <p>
+    莱登是2017年选秀大会的24号秀，上赛季莱登在掘金出战25场常规赛，场均出战3.8分钟能得到0.9分0.7篮板。
+   </p>
+   <p>
+    根据此前的报道，掘金没有执行莱登新秀合同中第三个赛季的球队选项，莱登在今夏成为一名完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：我从未招募球员，乐于帮助年轻球员，望其比我更强
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/08/06/dwyane-wade-invitational-lebron-james-devin-booker-deaaron-fox-retirement-space-jam-2-old-navy?tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 12:27:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：我从未招募球员，乐于帮助年轻球员，望其比我更强" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/0d449fa941e0858aeae76cb007502e5a1d3cdb7f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 近日，热火名宿德维恩-韦德举办了其个人第二次“The Invitational”年度篮球训练营，参加训练营的是一些年轻的NBA球员，包括国王后卫达龙-福克斯、太阳后卫德文-布克，公牛新秀科比-怀特等等。训练营为期一周，韦德将向这些年轻球员传授自己在场上和场外方面的经验。期间，韦德接受了《体育画报》的采访。
+   </p>
+   <p>
+    谈到是否曾经招募球员时，韦德说：“从来没有过。我从来不需要招募任何人来热火。我不需要招募沙奎尔-奥尼尔，他自己来了。我不需要招募勒布朗-詹姆斯和克里斯-波什，在我们组队这件事上，更重要的是我们可以一起达成怎样的成就，而非我们要在哪支球队，如果有人来找我并问我的想法，我会告诉他们我的见解。但我从来不需要招募别人来热火，我认为那只是社交媒体上的流言而已，是别人的谈资。对我来说那是很滑稽的。”
+   </p>
+   <p>
+    在被问到如果勒布朗-詹姆斯打电话对他说，需要他加入球队场均出场11分钟左右，他会对詹姆斯说什么时，韦德说：“我做不了这件事，但是我很确定联盟里有人完全能胜任这件事，不过不是我。”
+   </p>
+   <p>
+    谈到自己希望从The Invitational训练营中收获什么时，韦德说：“这是一个很棒的问题。不管是不是从慈善角度出发，如果你可以改变一个人的一天或是一生，这会让你个人感觉良好。你做这件事当然是源于内心的善意，但是这会让你个人的内心感觉良好。得知我能回馈下一代，这让我很高兴。下一代中有一些球员会比我更优秀，有一些球员会进入名人堂。如果有人说：‘德维恩-韦德教了我这些，以及那些。’人们的反应会是：‘什么？他比德维恩-韦德强多了。’但是能够对比赛产生影响，帮助下一代球员们以一种不同的方式思考人生和比赛，这是我的目标。对于任何向我寻求帮助的人，我都会像我为我儿子所做的那样，告诉他们我收集到的所有信息。我希望下一代球员会比我体型更健壮，比我更优秀，速度更快，这是我的目标。”
+   </p>
+   <p>
+    在其职业生涯中，韦德共出场1054次常规赛，场均出场33.9分钟，得到22.0分4.7篮板5.4助攻1.54抢断0.84盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：没看过乔丹打球，一直崇拜詹姆斯和加内特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=vjypvLGzWhk&amp;feature=youtu.be" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 12:05:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：没看过乔丹打球，一直崇拜詹姆斯和加内特" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/3b28b9d4b41fe9470cc5ee5c92733a1dbdba6110.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 湖人前锋安东尼-戴维斯近日接受专访谈到了队友勒布朗-詹姆斯。
+   </p>
+   <p>
+    谈到他与詹姆斯的友谊，戴维斯说：“自从2012年起我就和勒布朗有私交了，自从第一次打篮球开始我就是他的粉丝。从没看过迈克尔-乔丹打球，所以我一直以来的崇拜对象就是勒布朗和KG（凯文-加内特）。现在可以和勒布朗在整个赛季内携手作战，我们的友谊会得到加强，希望我们能在洛杉矶成就特殊的事业。”
+   </p>
+   <p>
+    谈到自己为球队带来的补充，戴维斯说：“我自认为是一个极为特殊的球员，感觉自己非常全面。我可以投三分球，投中距离，还能防守。我以防守为荣，我能做好防守沟通，也能引领球队。我觉得自己从未和勒布朗这样的球员合作过，勒布朗也从未和我这样的球员打过球。我们的引援也很特殊，其中特别的一点在于我们有许多球员都进过总决赛或拿过总冠军。所以他们能为球队带来冠军基因，让缺少那份经历的我、库兹马和KCP（肯塔维厄斯-考德威尔-波普）等人汲取经验，能够让我们建立冠军心态，在场上力争总冠军。对此我很激动。我只想竭尽全力，展现我在鹈鹕的比赛能力，争取再提升一下自己的比赛，尽力帮助球队。”
+   </p>
+   <p>
+    当被问到他和詹姆斯都自称是最早来训练最晚离开训练场的球员时，戴维斯回答道：“是的。勒布朗大概早上6点就到这里了，我觉得自己应该是第二个来的，可能早上6点半吧。当你的队内许多球员敬业刻苦，每天都勤于训练，从举重到球场训练，到接受治疗，照顾身体，所有的投入，那么你一定会获胜的，因为你一直在做有助于赢球的事。勒布朗是这样，我也是的，还有隆多。那些与我合作过的球员，我很清楚他们是什么样的人， 我相信其他队友在这方面也是一致的。当全队上下都是如此时，成功就是必然的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

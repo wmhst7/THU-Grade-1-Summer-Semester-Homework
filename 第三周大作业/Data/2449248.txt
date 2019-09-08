@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特快拍：没人能替我做决定，为自己着想会找到真理
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/easymoneysniper?igshid=plmxs926q99v" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 01:57:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特快拍：没人能替我做决定，为自己着想会找到真理" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/6e647633e6a55e1817567b5505560f72aa8360fc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 即将与篮网签约的前锋凯文-杜兰特今日更新了自己的Instagram Story。
+   </p>
+   <p>
+    “没人能对我说或者替我做决定，为你自己着想，你就会找到真理。”（原文见新闻配图）杜兰特写道。
+   </p>
+   <p>
+    杜兰特在2018-19赛季总决赛第五场比赛中遭遇跟腱断裂，预计缺席2019-20赛季的比赛。此前，根据NBA记者Adrian Wojnarowski报道，杜兰特和篮网达成4年1.64亿美元的口头协议。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

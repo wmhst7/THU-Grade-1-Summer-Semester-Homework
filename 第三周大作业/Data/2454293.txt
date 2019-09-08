@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德国、捷克、意大利、格鲁吉亚将联合主办2021年欧锦赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EuroBasket/status/1150775830043402240" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 23:32:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德国、捷克、意大利、格鲁吉亚将联合主办2021年欧锦赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/2acc4d88400a2257b2584ed4e642d75f57c6e94b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日FIBA官网正式公布了2021年欧锦赛的主办国名单。德国、捷克、意大利和格鲁吉亚将联合主办2021年男篮欧锦赛。
+   </p>
+   <p>
+    根据FIBA的报道，捷克、意大利、格鲁吉亚将仅承办小组赛，而德国将承办小组赛和淘汰赛的比赛。
+   </p>
+   <p>
+    根据此前的报道，捷克、爱沙尼亚、德国、格鲁吉亚、匈牙利、意大利和斯洛文尼亚等七国都提交了申请，但由于没有一个国家申请单独举办，因此最终的赛事落在四个不同国家举办，其中一个国家将举办淘汰赛阶段的比赛。
+   </p>
+   <p>
+    2017年男篮欧锦赛由芬兰、以色列、罗马尼亚、土耳其四国共同举办。在伊斯坦布尔进行的决赛中，斯洛文尼亚93-85战胜塞尔维亚，历史上首次夺得欧锦赛冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

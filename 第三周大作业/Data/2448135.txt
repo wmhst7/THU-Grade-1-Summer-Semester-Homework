@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埋头苦练！库兹马发布训练照并与詹姆斯互动：练得不错
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzRQoPXJsEz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 08:55:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埋头苦练！库兹马发布训练照并与詹姆斯互动：练得不错" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/b996a790ed44ac889c047467c521f7d59616a96e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 湖人前锋凯尔-库兹马通过Instagram发布了一张自己与队友勒布朗-詹姆斯今日的训练照，并与他展开互动。
+   </p>
+   <p>
+    “兄弟，今天练得不错。@勒布朗-詹姆斯”库兹马写道。
+   </p>
+   <p>
+    詹姆斯则留言道：“你知道我们唯一拥有和追求的心态是什么。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190629/08/691f83ce036550798db4d8fe033523e5.jpg"/>
+   </p>
+   <p>
+    <a background-color:="" font-size:="" href="https://m.weibo.cn/1765767682/4388437790548860" style="color: rgb(7, 130, 193); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+     视频：詹姆斯和库兹马训练转身后仰跳投（17秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4388441611231749">
+     视频：詹姆斯和库兹马训练突破反手上篮（55秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190629/09/f0cf33c58f3f0f91882dcc3ae0df45c7.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190629/09/998e0cf420eb69c01e424e1b5215dc7a.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

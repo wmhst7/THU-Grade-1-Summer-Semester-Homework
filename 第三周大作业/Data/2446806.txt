@@ -1,0 +1,79 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥：科比曾说我能成为MVP，那让我充满动力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www.asapsports.com/show_interview.php?id=151396" target="_blank">
+     ASAP Sports
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 12:40:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥：科比曾说我能成为MVP，那让我充满动力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/a1010275a15b8b90c2b1bb1c2f219aec986c0973.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，雄鹿球员扬尼斯-阿德托昆博当选2018-19赛季常规赛MVP，这是他职业生涯首次当选常规赛MVP。
+   </p>
+   <p>
+    赛后出席新闻发布会时，阿德托昆博被问到了多个话题。
+   </p>
+   <p>
+    <strong>
+     问：“你是否有预料到自己会如此情绪激动地发表获奖感言？”
+    </strong>
+   </p>
+   <p>
+    答：“没有，我昨天还和家人聊天了，他们问我是否有提前准备，我说没有，我只会掏心窝说话，他们问我是否会变得情绪很激动，我说不可能的。但当你听到自己的名字被念出来后，你意识到这些年来的努力工作，你过去的艰辛跋涉，然后，你开始情难自禁。我当然没预料到自己会那么情绪激动。”
+   </p>
+   <p>
+    <strong>
+     问：“几年前，科比给你设置了一个MVP的挑战。那是如何激励你前进的？你能谈谈那时候发生了什么吗？”
+    </strong>
+   </p>
+   <p>
+    答：“那真的是非常鼓舞人心的，科比说我可以成为联盟中的MVP，说那应该成为我的目标，那显然激励了我，让我想要变得更好。在我父亲过世后，我本来就充满了动力，科比显然给我添了一把柴火。”
+   </p>
+   <p>
+    <strong>
+     问：“在当今联盟，我们看到很多的超级球星和优秀球员夏天会在一块训练、度假。据我所知，你一直都是独自训练的。那对你有所帮助吗？你为什么选择一个人独自训练？”
+    </strong>
+   </p>
+   <p>
+    答：“过去六年我一直都是那样做的，第七年马上就开始了。我过去习惯了那样做，所以我就坚持了下来。”
+   </p>
+   <p>
+    “显而易见，如果我和联盟中最好的球员一起训练，比如詹姆斯-哈登、保罗-乔治、KD、勒布朗、科怀，那肯定会让我变得更好，但我的求胜心太强了，我喜欢自己一个人训练，这样，当赛季开始时，我可以让全世界感到惊讶，展示我的技巧。”
+   </p>
+   <p>
+    <strong>
+     问：“选择一个MVP赛季最记忆深刻的画面？”
+    </strong>
+   </p>
+   <p>
+    答：“太多了，我认为可能是我的队友克里斯-米德尔顿入选全明星赛那一天吧。我太开心了，同一天，教练组也入选了全明星赛，能够一起去参加全明星赛真的是太好了。那之后的话，可能就是我们打进次轮了。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：糖糖)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

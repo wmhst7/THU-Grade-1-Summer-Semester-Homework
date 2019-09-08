@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：想要终老开拓者，为夺冠和成为MVP努力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1080263/2019/07/16/damain-lillard-qa-the-blazers-star-speaks-on-space-jam-the-anticipation-of-upcoming-season-and-more/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 11:06:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：想要终老开拓者，为夺冠和成为MVP努力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/4e92369744834238b3da4141af9f3490e7462f3e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 近日，达米安-利拉德接受了The Athletic的采访。
+   </p>
+   <p>
+    在被问及是否想要终老波特兰时，利拉德称：“这是一笔很大的投入，不仅在于我的场上表现，还有我在场外所做的一切。我遇到的很多人都在场外与我一起度过了很多时间，所以我也投入于场外工作中。对球队我亦是如此。我投入了很多时间，付出了很多努力，也牺牲了很多东西，太多太多了。一直以来我都是波特兰开拓者的一员，我想要完成这份工作。整个职业生涯我都想呆在这里，从而确保我可以有始有终。”
+   </p>
+   <p>
+    关于比赛的动力，利拉德说：“因为在篮球方面始终存在着一些我没能做到的事。在高中，大学，甚至是进入联盟之后，我有过很多成就。但是对于球队来说，最终的目标是赢得总冠军。对于个人来说，我想要成为MVP。所以我认为这个问题很简单。我既没有拿过总冠军，也没有拿过MVP。所以我还有很多努力的目标和动力。”
+   </p>
+   <p>
+    2018-19赛季常规赛，达米安-利拉德场均上场35.5分钟，得到25.8分4.6篮板6.9助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

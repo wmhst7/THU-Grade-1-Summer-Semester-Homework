@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  赛迪斯-杨：我会承担起领袖角色，帮助球队打造球队文化
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://chicago.suntimes.com/sports-saturday/2019/8/10/20799747/bulls-veteran-forward-thaddeus-young-another-coach-whispererulls" target="_blank">
+     芝加哥太阳报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 13:08:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="赛迪斯-杨：我会承担起领袖角色，帮助球队打造球队文化" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/0b1a1532b646c7661a1f0f75c1c649f68191c7dd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 公牛新援赛迪斯-杨在近日接受媒体采访时谈到了加盟公牛，以及球队下赛季的前景。
+   </p>
+   <p>
+    杨在今年夏天以3年4100万美元的合同加盟公牛，他表示自己将会在下赛季努力承担起领袖的角色。
+   </p>
+   <p>
+    “在我的职业生涯中，我曾多次承担过类似的角色，”杨说道，“我能够担任球队领袖，帮助球队塑造并建立球队文化，我可以激励我的队友们克服困难。”
+   </p>
+   <p>
+    “首先就是不能放弃坚持努力，”杨说道，“不要失去竞争精神，很多家伙都接近于失去了竞争性，厌倦了在每天训练中做着一成不变的事情，日复一日。但当你能够坚持做同样的事情时，这会帮助你成为一支更出色的球队，帮助你赢得更多的比赛。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

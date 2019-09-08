@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：波尔津吉斯与独行侠的合同第5年为球员选项
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1149738241190330368" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 01:53:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：波尔津吉斯与独行侠的合同第5年为球员选项" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/09e4f98f789b244da4644d61f1d0d7b5fc2c8006.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据The Athhletic记者Shams Charania报道，多位消息人士透露，克里斯塔普斯-波尔津吉斯与独行侠的合同第5年（即最后一年）为球员选项。
+   </p>
+   <p>
+    此前独行侠官方宣布，球队与波尔津吉斯签下一份5年1.58亿美元的续约合同。
+   </p>
+   <p>
+    北京时间今年2月1日，独行侠送出丹尼斯-史密斯、韦斯利-马修斯、德安德烈-乔丹和两个未来首轮签，从尼克斯交易得到波尔津吉斯、考特尼-李、小蒂姆-哈达威和特雷-伯克。
+   </p>
+   <p>
+    波尔津吉斯在2018年2月7日对阵雄鹿的比赛中左膝前交叉韧带撕裂，他因此缺席了整个2018-19赛季的比赛，至今还未代表独行侠出战过。
+   </p>
+   <p>
+    2017-18赛季常规赛，波尔津吉斯场均出场32.4分钟，得到22.7分6.6篮板1.2助攻2.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：奇才将向比尔提供3年1.11亿顶薪续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1153354582053019648" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 01:33:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：奇才将向比尔提供3年1.11亿顶薪续约合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/3d44dfbe97cf35baecfd55c564689933caa95ac3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    据NBA记者Adrian Wojnarowski报道，消息人士透露，奇才计划于当地时间周五向布拉德利-比尔提供3年1.11亿美元顶薪提前续约合同。
+   </p>
+   <p>
+    对此，球队总经理汤米-谢波德表示：“球队将在被允许的第一时间向比尔提供顶薪续约合同。我们需要向他展示球队目前正在正确的轨道上不断前进。”
+   </p>
+   <p>
+    比尔的经纪人Mark Bartelstein表示比尔需要花一点时间来考虑是否接受这份提前续约合同：“职业生涯中有很多需要做出重大决定的时候，布拉德利将会努力解决所有事情并找出最佳选项。汤米（谢波德）和斯科特（布鲁克斯）他们对布拉德利非常好，他们之间有很深厚的感情。”
+   </p>
+   <p>
+    布拉德利-比尔2018-19赛季常规赛场均上场36.9分钟，得到25.6分5.0篮板5.5助攻1.48抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

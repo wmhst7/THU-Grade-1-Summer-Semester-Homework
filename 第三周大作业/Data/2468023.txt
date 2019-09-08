@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：前锋拉基姆-克里斯马斯加盟土耳其联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ormanspor1971/status/1164202132762976256" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 14:32:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：前锋拉基姆-克里斯马斯加盟土耳其联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/19508f4b5502158e1e78fb93d339891d07809f29.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 土耳其联赛俱乐部Ormanspor官方今日宣布，球队已经与前NBA球员拉基姆-克里斯马斯签约。
+   </p>
+   <p>
+    克里斯马斯毕业于雪城大学，在2015年选秀大会次轮第六顺位被森林狼选中，2015-16赛季至2016-17赛季为步行者效力，场均出场7.5分钟，能够得到2.1分1.9篮板。
+   </p>
+   <p>
+    克里斯马斯上赛季效力于波多黎各和菲律宾联赛。
+   </p>
+   <p>
+    值得一提的是，克里斯马斯在去年已经与NBA名宿迈克尔-乔丹的大女儿Jasmine订婚。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

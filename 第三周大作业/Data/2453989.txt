@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：泰勒-莱登与国王达成两年协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1150530505021906945" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 06:27:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：泰勒-莱登与国王达成两年协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/9da96c11a45a5a94c9de3569019052628f458cdd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 根据NBA记者Adrian Wojnarowski的报道，消息人士透露，自由球员泰勒-莱登已经与国王达成两年协议。国王看中泰勒-莱登的三分投射能力，他们正在寻找能够拉开空间的球员。消息人士透露，一些球队如湖人和开拓者在赛季中期与掘金讨论过关于莱登的交易，但最终都没有达成。
+   </p>
+   <p>
+    根据萨克拉门托ABC10记者Sean Cunningham的报道，莱登与国王达成的是一份底薪，部分保障的两年合同。
+   </p>
+   <p>
+    莱登2017年首轮第24顺位被爵士选中后不久被交易至掘金。上赛季莱登在掘金出战25场常规赛，场均出战3.8分钟能得到0.9分0.7篮板；上赛季莱登在发展联盟出战8场，场均33.6分钟能得到13.3分9.6篮板2.5助攻。
+   </p>
+   <p>
+    根据此前的报道，掘金没有执行泰勒-莱登新秀合同中第三个赛季的球队选项，莱登在今夏成为一名完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

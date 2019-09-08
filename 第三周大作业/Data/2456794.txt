@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小红帽亮眼！训练师晒出安东尼投篮训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0NJRNrJESG/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 14:17:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小红帽亮眼！训练师晒出安东尼投篮训练照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/d608356c452dd72e0b1cbc7c8fe22c02d51594c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 著名训练师Chris Brickley今天在个人Instagram上传了一组自由球员卡梅罗-安东尼的照片（见新闻配图）。
+   </p>
+   <p>
+    安东尼上赛季初曾效力于火箭，赛季中期被火箭交易至公牛。2018-19赛季，安东尼仅出战10场比赛，场均出场29.4分钟，得到13.4分5.4篮板。
+   </p>
+   <p>
+    职业生涯至今，安东尼常规赛场均出场35.8分钟，得到24.0分6.5篮板3.0助攻；季后赛他场均出场38.5分钟，得到24.5分7.2篮板2.6助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/14/9346b2de65f2cddbdc0a81e13f550d4a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/14/d9a3768ea7b2ddfeff37237806a7d054.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/14/27fe2ad9bb0a3e996ae11a341913791c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/14/aebe0c118ead6ac2c24ef4ede6c07234.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/14/07d107f811aa48a29894f667dd3120f4.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

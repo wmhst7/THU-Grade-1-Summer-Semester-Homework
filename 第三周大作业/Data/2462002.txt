@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：俄罗斯俱乐部库班火车头签约萨姆-德克尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lokobasket/status/1158363272200052736?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 22:18:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：俄罗斯俱乐部库班火车头签约萨姆-德克尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/d9d2596fd97067cc9a35f6e1dc84e50fcd126865.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 俄罗斯篮球俱乐部库班火车头官方今日宣布，球队已经与前锋萨姆-德克尔签下一份为期一年的合同。
+   </p>
+   <p>
+    “我很高兴能够加盟库班火车头俱乐部，并且来到克拉斯诺达尔，我很期待见到我的队友们、教练组和不可思议的球迷们。我们今年拥有一支非常严肃认真的团队，我很幸运能够成为其中一员，我相信一个成功的赛季在等待着我们，我已经做好准备迈出职业生涯的下一步了。”德克尔说道。
+   </p>
+   <p>
+    德克尔在2015年NBA选秀大会首轮第18顺位被火箭选中，NBA职业生涯迄今曾为火箭、快船、骑士和奇才出战过，共出场过200场常规赛，场均上场15.5分钟，能够得到5.5分3篮板0.8助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，德克尔场均出场16.8分钟，能够得到6.1分3.2篮板1助攻。今年夏天，奇才没有为德克尔提供资质报价，后者成为了一名完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

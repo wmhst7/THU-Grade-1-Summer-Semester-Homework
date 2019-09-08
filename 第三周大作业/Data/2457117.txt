@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞克斯顿：在队内的角色不会改变，会努力提升三分和组织
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nydailynews.com/sports/basketball/ny-collin-sexton-cavs-nba-draft-darius-garland-20190722-3vqjnn4rifarrfsowtp4im3ygm-story.html" target="_blank">
+     纽约每日新闻报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 12:37:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞克斯顿：在队内的角色不会改变，会努力提升三分和组织" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/43a7d25e402c37cd48eac7abd9d379b3b08492ad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 近日，骑士后卫科林-塞克斯顿出席了NBA青少年篮球训练营，期间接受了采访。
+   </p>
+   <p>
+    骑士在今年的选秀大会上在首轮第5顺位选中后卫达里厄斯-加兰。对此，塞克斯顿并不认为自己在球队中的主要角色会发生改变。塞克斯顿说：“我一点也不认为自己的角色会发生改变。那会是完全相同的。上赛季很多时候，我都与布兰登-奈特一起上场，他是一名得分型的后卫。这赛季的情况也会是一样的。上赛季我们场上有两名后卫，这赛季也会是如此。”
+   </p>
+   <p>
+    上赛季，塞克斯顿的投射状态慢热，在前六场比赛中没有命中三分。而赛季结束时，他的场均得分为16.7分，在新秀中排名第三，仅次于卢卡-东契奇和特雷-杨。他的三分命中率为40.3%，在上赛季至少出场33场比赛的所有新秀中排名第四。
+   </p>
+   <p>
+    谈到自己赛季初的投射挣扎时，塞克斯顿说：“我只需持续努力提升我的三分球。这是一种调整。假以时日命中率会回暖的。无论如何，我每天都在努力训练，我一直都在努力提升我的投射。但是不仅如此，我还会在比赛中做出调整。对手能力更强了，速度也更快了，还有球队的赛程安排问题，有很多不同方面的阻碍。所以我需要上场去弄清楚什么是可以奏效的，什么是无法奏效的。”
+   </p>
+   <p>
+    骑士在休赛期聘用了前密歇根州立大学主教练John Beilein。塞克斯顿称John Beilein是一位“控卫友好型教练”。塞克斯顿指出，上赛季球队的助攻数排名联盟倒数第二，但是球队阵中并没有很多射手和进攻组织者。除了进一步提升三分投射之外，组织进攻将是他下赛季的新关注点。
+   </p>
+   <p>
+    塞克斯顿说：“我会确保为我的队友创造机会，因为我知道这是我需要提升的一个方面。所以当有战术安排时，我需要为我的队友创造更轻松得分的机会。”
+   </p>
+   <p>
+    2018-19赛季常规赛，科林-塞克斯顿场均出场31.8分钟，得到16.7分2.9篮板3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

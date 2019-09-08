@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭官推：给你15分，怎样安排你心中的队史最佳阵容？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/HoustonRockets/status/1166010274106761224" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 08:14:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭官推：给你15分，怎样安排你心中的队史最佳阵容？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/3de3d7ddeffe6b83e21824c7e8fac5d12c1c240b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日，火箭官方推特转发NBA官方推特的一张图片，并配文称：“你心中的火箭队史最佳阵容是怎样的？”
+   </p>
+   <p>
+    图片内容为“给你15分，你会怎样安排心目中的火箭队史最佳阵容？”
+   </p>
+   <p>
+    其中价值5分的球员分别为哈基姆-奥拉朱旺、特雷西-麦克格雷迪、詹姆斯-哈登、摩西-马龙、姚明；价值3分的球员分别为克莱德-德雷克斯勒、卡尔文-墨菲、拉尔夫-桑普森、鲁迪-汤姆贾诺维奇、史蒂夫-弗朗西斯；价值1分的球员分别为埃尔文-海耶斯、克里斯-保罗、肯尼-史密斯、弗农-马克斯韦尔、奥蒂斯-索普。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

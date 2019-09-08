@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰勒-多西因个人原因不会参加今夏的男篮世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/911977/tyler-dorsey-out-of-world-cup/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 08:04:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰勒-多西因个人原因不会参加今夏的男篮世界杯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/5d1558e5e50ae1d40068a846d93dbcd1c43591f9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 泰勒-多西已经通知希腊篮协他因个人原因不会参加今夏的男篮世界杯。
+   </p>
+   <p>
+    因为还没有签约球队，多西之前希望可以多给他几天的时间，这样的话，他将缺席希腊男篮的训练营，多西希望能得到NBA球队的合同。
+   </p>
+   <p>
+    在今夏的男篮世界杯上，希腊与新西兰、巴西、黑山同处F组。
+   </p>
+   <p>
+    NBA生涯至今，多西出战过104场常规赛的比赛，场均出战16.1分钟可以拿到6.7分2.3篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

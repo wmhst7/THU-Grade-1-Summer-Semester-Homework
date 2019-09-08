@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小乔丹有意重回洛杉矶，预计将得到湖人的追求
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/windhorstespn/status/1144613048121995264?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 23:23:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小乔丹有意重回洛杉矶，预计将得到湖人的追求" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/e8db08c2b8e19be427fcb1b1df17f9e2dc85466a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据NBA记者Brian Windhorst和Ramona Shelburne联合报道，消息人士透露，曾效力于快船的自由球员中锋德安德烈-乔丹有意重回洛杉矶打球。
+   </p>
+   <p>
+    小乔丹可能是适合湖人的人选，预计湖人将会努力签下小乔丹，让他与安东尼-戴维斯及勒布朗-詹姆斯进行搭档。
+   </p>
+   <p>
+    2018-19赛季，德安德烈-乔丹分别代表独行侠和尼克斯场均出战29.7分钟，得到11分13.1篮板1.06盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

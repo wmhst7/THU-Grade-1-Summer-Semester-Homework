@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士6名球员2K能力值：米切尔戈贝尔均88，康利87
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162662472249171968?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 18:17:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士6名球员2K能力值：米切尔戈贝尔均88，康利87" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/7911c75a54c76f090c753a67d9baea34e8713086.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2K Ratings网站近日更新了一批球员的NBA 2K20游戏初始能力值，6名爵士球员的能力值得以确定。
+   </p>
+   <p>
+    爵士6名球员的初始能力值为：多诺万-米切尔88，鲁迪-戈贝尔88，迈克-康利87，博扬-波格丹诺维奇83，乔-英格尔斯79，托尼-布拉德利70。
+   </p>
+   <p>
+    2018-19赛季常规赛，米切尔场均上场33.7分钟，得到23.8分4.1篮板4.2助攻；戈贝尔场均上场31.8分钟，得到15.9分12.9篮板2助攻2.31盖帽；康利场均上场33.5分钟，得到21.1分3.4篮板6.4助攻；波格丹诺维奇场均上场31.8分钟，得到18分4.1篮板2.0助攻；英格尔斯场均上场31.3分钟，得到12.1分4篮板5.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人塔克：身体没有任何疼痛感，和勒布朗交流很频繁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Lakers/status/1144733232564359168" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 14:46:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人塔克：身体没有任何疼痛感，和勒布朗交流很频繁" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/f468fdc21e0bc3df9ced6991b60cb9b67afde536.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 湖人新秀塔伦-霍顿-塔克在今日训练结束后结束了媒体采访。
+   </p>
+   <p>
+    根据NBA记者Dave McMenamin的报道，塔克目前正在从右脚应激反应中恢复，将不会参加萨克拉门托的夏季联赛。
+   </p>
+   <p>
+    谈到自己的身体状况，塔克说：“我在接受试训时被诊断出了右脚出现应激反应，在此之前我一直都不知道。我现在就是每天接受治疗，稳步取得进展。我没有任何疼痛感，但为了下赛季着想，队医希望我能够谨慎处理。”
+   </p>
+   <p>
+    谈到成为一名湖人的感受，塔克说：“能够来到这里真的很棒，就像我之前所说的那样，这对于我而言是梦想成真。没有人会想到我能够站在这里，我感觉很棒，我在这里遇到的每个人都很棒，我感觉像是到了家一样。”
+   </p>
+   <p>
+    是否和勒布朗-詹姆斯进行了交流？塔克说：“是的，我和勒布朗的交流很频繁，我们拥有同一个经纪人，所以我们会经常交流。”
+   </p>
+   <p>
+    谈到在球队中的前景，塔克说：“我感觉很棒，我会努力争取一些上场时间，我会保持耐心，努力在每一天都取得进步。”
+   </p>
+   <p>
+    谈到即将开启的自由球员市场，塔克说：“这挺酷的，但这并不是我需要操心的事情，那是球队管理层的工作。而我只会保持专注，努力恢复，努力做好准备。”
+   </p>
+   <p>
+    塔克本赛季NCAA场均出战27.2分钟，得到11.8分4.9篮板2.3助攻1.3抢断0.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

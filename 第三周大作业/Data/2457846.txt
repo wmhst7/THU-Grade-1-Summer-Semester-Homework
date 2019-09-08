@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：詹姆斯应在良好空间下打球，如字母哥在雄鹿那般
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/07/24/lakers-frank-vogel-lebron-james-magic-johnson-clippers-warriors?utm_campaign=sinow&amp;utm_medium=social&amp;xid=socialflow_twitter_si&amp;utm_source=twitter.com&amp;__twitter_impres" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 13:26:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：詹姆斯应在良好空间下打球，如字母哥在雄鹿那般" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/3bd639a8599283ab7d2608278cbf61d1819714c6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 湖人主帅弗兰克-沃格尔近日接受《体育画报》专访谈到了关于执教勒布朗-詹姆斯以及湖人的一些话题。
+   </p>
+   <p>
+    谈到他对于湖人理想中的执教风格，沃格尔说：“比赛风格是很重要的一环。实际上，我并不反对卢克-沃顿在执教球风上推行的许多要点，比如加快打球节奏，重点攻击篮下，成为全联盟博取罚球次数最多的球队之一。而且他们在防守端也很拼命。但在我看来，执教重点在于让勒布朗-詹姆斯能够在良好的球场空间下打球，就像扬尼斯-阿德托昆博受益于引入的布鲁克-洛佩斯担任三分射手那般，正如科怀-伦纳德在猛龙拥有马克-加索尔和赛尔吉-伊巴卡出任中锋那般。”
+   </p>
+   <p>
+    沃格尔不愿透露他与詹姆斯至今为止的私下谈话内容，但他表示相信自己拥有詹姆斯的支持。“我的确从一开始就感受到了勒布朗的支持，”沃格尔说，“当年我执教步行者与他的热火在东部决赛鏖战时，包括我在全明星赛期间执教他时，他就一直向我展示着极大的尊重之情。他一向如此尊重我，所以我认为他会非常支持我。我立刻就收获了他的支持，并且这份支持直至此刻仍在延续。希望我们能够携手共创特殊成就。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

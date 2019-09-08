@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  澳大利亚主教练：会继续和西蒙斯沟通，他渴望为国出战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/sixers-news-australia-to-talk-with-ben-simmons-about-availability-for-2019-fiba-world-cup/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 13:10:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="澳大利亚主教练：会继续和西蒙斯沟通，他渴望为国出战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/a59799c47fcdd35150d9f48663230a6aac0640db.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 据此前报道，76人前锋本-西蒙斯的经纪人里奇-保罗告诉ESPN，西蒙斯今年夏天为澳大利亚出战男篮世界杯的概率为50%（doubtful）。今天澳大利亚男篮主帅Andrej Lemanis在采访中谈到了这事。
+   </p>
+   <p>
+    Lemanis表示：“职业篮球的现实就是，球员能否为国出战是不确定的。这需要综合考量很多事情，这对我们来说不是很新鲜。我们会和本-西蒙斯和他的经纪人里奇-保罗继续沟通，看事情进展如何。本（西蒙斯）很渴望能为国出战，所以我们希望事态能朝有利于他出战的方向发展。”
+   </p>
+   <p>
+    此前西蒙斯曾宣布自己将代表澳大利亚参加今年中国男篮世界杯，他也晒出过自己身着澳大利亚国家队队服的视频。此前公布的澳大利亚大名单上包括德拉维多瓦，贝恩斯、博古特、英格尔斯、米尔斯、博尔登、阿德尔和西蒙斯等NBA球员都赫然在列。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

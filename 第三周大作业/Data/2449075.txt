@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  路威更新Ins晒出贝弗利续约后与其开视频照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzXLoBRBLTF/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 17:17:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="路威更新Ins晒出贝弗利续约后与其开视频照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/5390bcbce4a51a22c4289807760dd0a5af63ebbb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据此前NBA记者Adrian wojnarowski报道，消息人士透露，自由球员帕特里克-贝弗利与快船达成了一份3年4000万美元的续约协议。
+   </p>
+   <p>
+    随后，快船球员路易斯-威廉姆斯更新了个人Instagram，上传了一张与贝弗利开视频两人开心大笑的照片，说道：“一整天的心情！我们这个团伙不变。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190701/17/637346cacb09febed461ee845b21e40f.png"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，贝弗利场均出场27.4分钟，可以贡献7.6分5.0篮板3.8助攻0.86抢断；威廉姆斯场均出场26.6分钟，得到20.0分3.0篮板5.4助攻0.76抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

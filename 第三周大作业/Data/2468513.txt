@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍华德与灰熊达成买断，随后将以自由球员身份加盟湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1165009026574430209" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 05:17:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍华德与灰熊达成买断，随后将以自由球员身份加盟湖人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/38e5f6eb523f8d9df5c4ce98f382e646353cfa01.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 根据The Athletic记者Shams Charania的报道，多位消息人士透露，中锋德怀特-霍华德正与灰熊商讨买断事宜，计划将以自由球员身份加盟湖人。
+   </p>
+   <p>
+    随后Shams补充道，霍华德的经纪人Charles Briscoe 已经就霍华德买断事项与灰熊管理层达成协议，在买断后，霍华德将加盟湖人。霍华德与湖人达成的加盟合同是一份为期一年价值260万美金的非保障合同。
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski的报道，多位消息人士透露，霍华德与湖人的加盟合同是一份非保障合同。在与灰熊商讨的买断事宜方面，霍华德将放弃原本合同中本赛季560万美金的薪水中将近260万的薪水。湖人方面对于这次与霍华德的再次合作表示相当谨慎。
+   </p>
+   <p>
+    据Woj进一步报道，霍华德会面湖人时已经减重25磅，并展示了他的背部已恢复健康。湖人希望霍华德在有限角色中做好抢篮板和护筐的工作。湖人感觉到霍华德已经意识到他目前“跌至谷底”，态度谦逊。不过，湖人仍会根据霍华德的行动而非言语来评判他。湖人已经对其进行过警告。
+   </p>
+   <p>
+    消息人士透露，霍华德于当地时间周四在洛杉矶试训后会见了湖人的管理层、教练组和湖人队球员（安东尼-戴维斯、贾维尔-麦基以及拉简-隆多），并说服球队给他一个机会，让他能够证明自己可以成为一名高效的球员，而不是像他整个职业生涯那样。
+   </p>
+   <p>
+    同时，湖人也将对霍华德施加压力。球队可在当地时间2020年1月7日前裁掉他，而不会给球队带来任何损失。如果霍华德到时被湖人留下，那么他将得到与湖人签下的260万美元合同中的全部薪水。湖人新赛季大名单也将随着霍华德的加盟达到15人。
+   </p>
+   <p>
+    霍华德曾在2012-13赛季为湖人效力，总共出战了76场比赛，场均可以得到17.1分12.4篮板1.4助攻1.11抢断2.45盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

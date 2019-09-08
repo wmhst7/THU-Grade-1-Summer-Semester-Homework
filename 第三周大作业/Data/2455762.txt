@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  球员赛后采访时看上去很蠢？格里芬：打球后大脑缺氧了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/pistons-news-blake-griffin-explains-why-most-athletes-sound-stupid-during-postgame-interviews/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 12:03:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="球员赛后采访时看上去很蠢？格里芬：打球后大脑缺氧了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/e9c3589f27f43110595c0614b17ab188284b1eb4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 活塞前锋布雷克-格里芬近日参加了《吉米今夜秀》，期间谈到了球员赛后接受采访的话题。
+   </p>
+   <p>
+    格里芬表示：“球迷总是觉得球员在赛后采访显得很蠢，其实不是我们蠢。而是在场打了几个小时的球后，你大脑会缺氧。”
+   </p>
+   <p>
+    并且格里芬还让主持人吉米亲自体验了一下，格里芬让他进行了一些跑动，然后客串记者向他进行采访。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/12/f55ca88de0b9e55a8284d441b00dbf4d.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡拉-劳森正式与凯尔特人签约，成为绿军队史首位女助教
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/celtics/status/1146436409026387969" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 10:16:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡拉-劳森正式与凯尔特人签约，成为绿军队史首位女助教" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/3c473cdbbbff3ae150ffd791cfa43632644d48eb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 凯尔特人今天官方宣布，球队已经与助理教练卡拉-劳森正式签约，劳森也成为了波士顿凯尔特人队史73年来首位女教练。
+   </p>
+   <p>
+    随后，凯尔特人官方推特也发图对劳森的加入表达了感谢。
+   </p>
+   <p>
+    劳森曾获得WNBA总冠军及奥运会冠军，她在过去3个赛季中一直担任解说员。
+   </p>
+   <p>
+    此外，凯尔特人还分别与助教Joe Mazzulla和Brandon Bailey正式签约，Joe Mazzulla是前费尔蒙特州立大学主帅，而Brandon Bailey上赛季是绿衫军发展联盟下属球队缅因红爪的主教练。
+   </p>
+   <p>
+    <img alt="" src="https://wx1.sinaimg.cn/mw1024/3ed1808dly1g4nl63ro47j20f40f53za.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://wx3.sinaimg.cn/mw1024/3ed1808dly1g4nl63ratwj20f90ez3zi.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://wx4.sinaimg.cn/mw1024/3ed1808dly1g4nl63qwh8j20fa0f1aaj.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

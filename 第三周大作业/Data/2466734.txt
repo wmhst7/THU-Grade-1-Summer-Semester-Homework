@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：豪斯很有天赋，他是我们很重要的一分子
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/HoustonRockets/status/1162456947288870914" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 23:59:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：豪斯很有天赋，他是我们很重要的一分子" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/58333a46606851e165a1ca821886a9c0b531eab7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 今日，休斯顿火箭队总经理达雷尔-莫雷在参加一档播客节目中，谈到了球队成员丹纽尔-豪斯。
+   </p>
+   <p>
+    莫雷说道：“我们当时对豪斯说：‘瞧瞧，你就是这支球队中的重要组成部分’。我们觉得他可以成为那个很重要的角色，他也很希望下赛季能够打更多的比赛。”
+   </p>
+   <p>
+    在交易市场开始的第一天，火箭就和豪斯达成了一份三年1110万美元的合约。
+   </p>
+   <p>
+    莫雷谈到上赛季季后赛豪斯的表现：“他当时是第一次打季后赛，当时他有伤，所以他并没有表现得特别好。但是在整个赛季中他的确帮助了我们很多。”
+   </p>
+   <p>
+    莫雷补充道：“他很年轻，运动能力出色，同时也很有天赋。他平时训练极为认真，我们都对此十分兴奋，因此我们很开心能从自由市场上重新签回他。”
+   </p>
+   <p>
+    据之前记者Kelly Iko报道，新赛季丹纽尔-豪斯会是火箭队首发前锋的一个很有可能的选择。
+   </p>
+   <p>
+    2018-19赛季常规赛，豪斯场均出战25.1分钟得到9.4分3.6篮板1助攻，季后赛豪斯场均出战20.1分钟得到4.9分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

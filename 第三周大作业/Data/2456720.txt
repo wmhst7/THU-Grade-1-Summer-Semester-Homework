@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯：上赛季自己未被充分利用，已与布朗教练交流过此事
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://larrybrownsports.com/basketball/tobias-harris-underutilized-76ers/505435" target="_blank">
+     拉里布朗体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 09:57:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯：上赛季自己未被充分利用，已与布朗教练交流过此事" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/12ba5fc1ae619c618cfe350607d9347fbac900c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 近日，76人前锋托拜厄斯-哈里斯在接受记者采访时谈到了自己上赛季加盟76人后的表现，他认为自从上赛季来到球队后，自己并没有被充分利用，他希望在下个赛季这种情况能有所改变。
+   </p>
+   <p>
+    “当然，上个赛季我们的队中的成员能组成很多不同的组合，我们对彼此之间都很有新鲜感。但是，我的能力肯定没有被充分利用。”哈里斯说道。
+   </p>
+   <p>
+    哈里斯表示对于这种情况，他已经与主教练布雷特-布朗有过交流，并且双方达成了一致。
+   </p>
+   <p>
+    “当我来到这里（76人）开会的时候，布朗教练谈到了这个问题，以及在这种情况下我们应该怎么做。”
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里斯场均出场34.7分钟，得到20.0分7.9篮板2.8助攻。季后赛场均36.9分钟，得到15.2分9.2篮板4.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

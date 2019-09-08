@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：米罗蒂奇将与巴塞罗那篮球俱乐部签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1145037017153200129?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 02:32:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：米罗蒂奇将与巴塞罗那篮球俱乐部签约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/e99324703b64a2b27d99887ebc3ec7f33c5eb032.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据The Athletic记者Shams Charania报道，自由球员尼古拉-米罗蒂奇将与巴塞罗那篮球俱乐部签约。
+   </p>
+   <p>
+    据Marc Stein报道，消息人士透露，爵士曾表达了对米罗蒂奇的兴趣并为其提供了3年4500万美金以内的合同，但米罗蒂奇决定重回欧洲篮坛。
+   </p>
+   <p>
+    米罗蒂奇2018-19赛季效力于NBA新奥尔良鹈鹕队以及密尔沃基雄鹿队，常规赛场均出场27.1分钟得到15.1分7.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

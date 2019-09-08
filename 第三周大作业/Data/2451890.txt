@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沙梅特今日晒出与韦斯特合影并配文道：与Logo深入交流
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzqgFhspayF/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:15:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沙梅特今日晒出与韦斯特合影并配文道：与Logo深入交流" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/9043624af37c0ff89e4467693c3b4b3da11d5c10.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日，快船后卫兰德里-沙梅特更新了个人社交媒体Instagram晒出自己与名人堂成员杰里-韦斯特在拉斯维加斯夏季联赛现场交谈的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“与Logo深入交流。”
+   </p>
+   <p>
+    根据此前消息报道，多位消息人士透露，快船后卫兰德里-沙梅特已被邀请参加美国男篮梦之队训练营的预备队。此次美国男篮梦之队的预备队还包括今年的状元秀蔡恩-威廉森。
+   </p>
+   <p>
+    2018-19赛季常规赛，沙梅特场均出场22.8分钟，可以得到9.1分1.7篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德里克-怀特通过脑震荡测试且牙齿无受伤，左眼上方缝4针
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tom_orsborn/status/1165326374518906881" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 02:52:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德里克-怀特通过脑震荡测试且牙齿无受伤，左眼上方缝4针" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/3bb57fa4c0a50d46d86b9c5b86b8cec29ed66953.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 在昨晚美国以94-98不敌澳大利亚的热身赛中，美国后卫德里克-怀特在比赛中重重地摔倒在地上。
+   </p>
+   <p>
+    据马刺跟队记者Tom Orsborn报道，怀特身边的消息人士透露怀特已经通过了第一次脑震荡检查，且牙齿并未受伤。但怀特在左眼上方接受了4针的缝合。
+   </p>
+   <p>
+    德里克-怀特已确定入选美国男篮最终12人大名单，本场比赛，怀特得到8分3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

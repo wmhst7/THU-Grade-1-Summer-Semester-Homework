@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比再度向字母哥发起挑战：下一个挑战是总冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kobebryant/status/1143359309482303488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 12:11:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比再度向字母哥发起挑战：下一个挑战是总冠军" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/3a845505956631cd683cbe5c039971d832f1e219.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 在今日举行的2019NBA颁奖典礼中，雄鹿球员扬尼斯-阿德托昆博当选MVP。
+   </p>
+   <p>
+    2017年8月27日，湖人名宿科比-布莱恩特曾发推特向阿德托昆博提出一个挑战：获得MVP。两年过后，阿德托昆博完成了挑战。
+   </p>
+   <p>
+    在阿德托昆博荣获MVP之后，科比在推特上再度向阿德托昆博发起挑战，“我的兄弟...MVP，伟大。下一个挑战：总冠军。#曼巴精神”科比写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

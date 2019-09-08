@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔：来到鹈鹕是全新开始，会向人们展示我的能力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nola.com/article_6924fa98-a814-11e9-b201-83d8932e72ea.html" target="_blank">
+     新奥尔良皮克云时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 09:42:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔：来到鹈鹕是全新开始，会向人们展示我的能力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/99ed13ec2fa4f244cccc2106c985065f91a51968.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今天，鹈鹕新援朗佐-鲍尔接受了记者的采访，谈到了加入鹈鹕一事。
+   </p>
+   <p>
+    “这是个全新的开始，我这辈子一直都在打篮球，我想要回归我的事业，为球队做好我所能做的事情。我知道，新奥尔良的媒体不像洛杉矶那样，但我也知道，这里的人们会给球队提供很多支持，我会向人们展示我的能力。”
+   </p>
+   <p>
+    “年轻队员处境很难，尤其是在洛杉矶，人们都会关注你，你肩负着很大的责任。但是这是一个新的开始，并且我还有两名很熟悉的队友在，球队也会在过程中给我们帮助。我很开心来到鹈鹕，再次踏上赛场。”
+   </p>
+   <p>
+    在此前涉及安东尼-戴维斯的交易中，湖人将鲍尔、英格拉姆和哈特打包交易至鹈鹕。2018-19赛季常规赛，鲍尔场均出场30.9分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

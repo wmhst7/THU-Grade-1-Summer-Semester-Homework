@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船消息人士：莫里斯之前清楚我们的4100万美元报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1085119/2019/07/19/isola-the-marcus-morris-situation-has-rekindled-fire-between-spurs-and-knicks/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 13:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船消息人士：莫里斯之前清楚我们的4100万美元报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/2ef9edbd984fa17162c9a795489a6e61b70808ea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据The Athletic记者Frank Isola的报道，快船之前为马库斯-莫里斯准备了一份3年4100万美元的报价。
+   </p>
+   <p>
+    一位快船的消息人士透露，他们的这份报价可以让莫里斯在当地时间10月1日就领到合同中一半的薪水。
+   </p>
+   <p>
+    莫里斯之前希望得到一份2年4000万美元的合同，但是如果快船想与科怀-伦纳德签下一份顶薪合同的话，那么他们无法开出这样的报价给莫里斯，在被莫里斯拒绝后，快船利用他们的薪资空间交易得到了莫里斯-哈克利斯。
+   </p>
+   <p>
+    之前有流言称莫里斯的前经纪人里奇-保罗没有将快船的报价告知莫里斯，一位快船的消息人士透露，莫里斯之前清楚他们的报价。
+   </p>
+   <p>
+    最终，莫里斯与尼克斯签下了一份1年1500万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，莫里斯场均上场27.9分钟，得到13.9分6.1篮板1.5助攻，季后赛场均上场28.2分钟，得到13.7分8.1篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

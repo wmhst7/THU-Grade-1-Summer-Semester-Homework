@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登：我骑电动车在上海转悠了很多圈，感觉很美妙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 21:10:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登：我骑电动车在上海转悠了很多圈，感觉很美妙" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/68168635715c9159c6260912391b8da47d180cce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，火箭后卫詹姆斯-哈登在参加中国行球迷见面会时，选择骑电动车从酒店出发前往活动现场，但在途中因违反交规被拦下。
+   </p>
+   <p>
+    据哈登团队工作人员透露，哈登车辆被扣，随后，哈登返回酒店，重新乘车前往现场。
+   </p>
+   <p>
+    在活动现场，谈及骑电动车的感受，哈登回答道：“我这几天骑着电动车，在上海转悠了很多圈，有着美妙的体验。尽管今天雨下得很大，但我的心情很不错。”
+   </p>
+   <p>
+    与哈登一起出席活动的火箭中锋克林特-卡佩拉被问及是否也尝试骑过电动车，卡佩拉说：“是的，我也尝试过，很不错，但是骑电动车对我这种大个子而言，有点太挤了。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190629/21/e3f2a2231a6ba0d7e51c9b5bf402fb59.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特因小腿紧张离开美国队训练营，下周接受重新评估
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1159196347674664961" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 04:19:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特因小腿紧张离开美国队训练营，下周接受重新评估" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/4903f8496b79efad4d3b0a75af1c21f48c687fa8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据《纽约时报》记者Marc Stein的报道，凯尔特人球员马库斯-斯马特因小腿肌肉紧张暂时退出美国队训练营，其归期未定，将在下周接受重新评估。
+   </p>
+   <p>
+    Marc Stein跟进报道，尽管目前还没有官方的通知，但可以确定美国队会将国王后卫达龙-福克斯提进初选名单。
+   </p>
+   <p>
+    据凯尔特人记者Chris Forsberg报道，今天斯马特因左小腿肌肉紧张没有参加训练，只能坐在场边观战。他会在下周美国队洛杉矶训练营期间接受重新评估。
+   </p>
+   <p>
+    据Brian Windhorst报道，斯马特将缺席美国队在拉斯维加斯的剩余训练，下周前往洛杉矶时接受重新评估。
+   </p>
+   <p>
+    根据此前的报道，斯马特曾因左脚踝酸痛缺席昨日美国队对媒体公开的训练。
+   </p>
+   <p>
+    2018-19赛季常规赛，马库斯-斯马特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28844369.html?share_from=kqapp">
+     斯马特因左脚踝酸痛并未参加美国队今日对媒体公开的训练
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网官推晒出球队总经理与KD合影：欢迎来到这个大家庭
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BrooklynNets/status/1148049433885585409" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 11:39:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网官推晒出球队总经理与KD合影：欢迎来到这个大家庭" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/6bf50653c3f03b26f05c31d5ccf0bfae7b632e0e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，篮网官推发推晒出球队总经理肖恩-马克斯与球队前锋凯文-杜兰特的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“欢迎来到这个家庭，凯文。”
+   </p>
+   <p>
+    根据此前消息报道，篮网官方今日宣布，他们已经从勇士得到凯文-杜兰特和一个2020年的受保护首轮签，他们为此送出了丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄姆。
+   </p>
+   <p>
+    2018-19赛季常规赛，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻0.7抢断1.1盖帽。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2451411&amp;type=1">
+     官方：篮网送出拉塞尔、内皮尔和格雷厄姆，从勇士得到KD
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

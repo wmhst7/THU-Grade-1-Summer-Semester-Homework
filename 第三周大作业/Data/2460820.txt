@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  皮蓬晒与莫宁的昔日赛场照：感激在场上竞争的机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0n7txFHCEC/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 09:59:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="皮蓬晒与莫宁的昔日赛场照：感激在场上竞争的机会" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/216f0e40023e8920acabbc623ccf235e10563341.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日NBA退役球员斯科蒂-皮蓬更新了自己的个人Instagram动态，晒出了自己与阿隆佐-莫宁的昔日赛场照。
+   </p>
+   <p>
+    “感激在场上竞争的机会。33号对阵33号。”皮蓬写道。
+   </p>
+   <p>
+    在其职业生涯中，皮蓬共上场1178次，场均上场34.9分钟，得到16.1分6.4篮板5.2助攻1.96抢断0.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

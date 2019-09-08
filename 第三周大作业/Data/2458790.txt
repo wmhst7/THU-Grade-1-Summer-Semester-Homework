@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬：有球队询价鲍尔等人，但没有交易接近达成
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1097148/2019/07/26/david-griffin-weighs-in-on-a-still-growing-zion-pelicans-new-fits/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 23:28:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬：有球队询价鲍尔等人，但没有交易接近达成" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/005d0fd616962ee497e1dcdbe9e90e297c3add4c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 近日，鹈鹕总经理大卫-格里芬接受了The Athletic记者Jeff Duncan的采访。
+   </p>
+   <p>
+    大卫-格里芬在此前的新闻发布会上提到，安东尼-戴维斯交易后，曾有其他球队向鹈鹕询价朗佐-鲍尔、约什-哈特和布兰登-英格拉姆。在被问及这些交易有多接近达成时，大卫-格里芬说：“有一些球队有交易意向，但是他们与我们的沟通没有真正到达某种程度。对于我们得以获得我们得到的这些球员，我们感到非常幸运。很显然我们是幸运的，因为其他几支球队几乎是在交易宣布之后立刻表示了对他们的兴趣。经历这些事情是很有吸引力的。但是我们不是为了交易这些球员而得到他们的，所以没有任何接近达成的交易。”
+   </p>
+   <p>
+    根据此前的相关报道，鹈鹕与湖人达成交易，安东尼-戴维斯被送至湖人，湖人则为此送出朗佐-鲍尔、布兰登-英格拉姆、约什-哈特以及三个首轮选秀权；鹈鹕从爵士方面交易得到了前锋德里克-费沃斯，在这笔交易中，鹈鹕送出了2021年和2023年的二轮选秀权（原本属于勇士）。
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.9分钟，得到9.9分5.3篮板5.4助攻1.47抢断；英格拉姆场均出场33.8分钟，得到18.3分5.1篮板3.0助攻0.54抢断0.60盖帽；哈特场均出场25.6分钟，得到7.8分3.7篮板1.4助攻0.96抢断0.60盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

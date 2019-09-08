@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭曾希望帮保罗找他愿效力的第三方，热火仍可能得到保罗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1149496866523869184" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 10:33:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭曾希望帮保罗找他愿效力的第三方，热火仍可能得到保罗" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/3e06eb228e00333da522cdec94e6df40a76cdc24.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，在拉塞尔-威斯布鲁克与克里斯-保罗互换的交易中，火箭曾希望找到保罗希望效力、有机会争冠的第三方球队达成交易，但最终未能如愿。目前热火仍有可能成为保罗的新东家，而雷霆也有足够的选秀权引起热火的兴趣。
+   </p>
+   <p>
+    热火此前被传与威斯布鲁克互相有意，但现在他们的目标可能会转向保罗。但对于热火来说难点在于他们可能不愿意为保罗放弃重要资产，并且热火触发了硬工资帽，也就是说他们在交易中必须付出与保罗下赛季同等金额的合同（或者更多，但不能比保罗合同的金额少）。
+   </p>
+   <p>
+    克里斯-保罗在2018年夏天与火箭签下4年1.6亿的合同，目前仍剩下3年1.24亿，其中2019-20赛季，保罗的合同为3851万美元。克里斯-保罗2017年夏天被快船交易至火箭，为火箭效力的两年间，保罗共为火箭打了116场常规赛，场均31.9分钟可以得到17.1分8.0助攻1.8抢断，并在2017-18赛季帮助火箭进入了西部决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

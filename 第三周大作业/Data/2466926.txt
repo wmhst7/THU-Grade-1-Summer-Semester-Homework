@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿龙-戈登：克利福德教练值得信赖，我们要打出更高水平
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/magic/gordons-strong-work-ethic-display-once-again-offseason" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 12:20:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿龙-戈登：克利福德教练值得信赖，我们要打出更高水平" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/8351facb9a347f94885253256ba7696be8dceb0f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 近日，魔术前锋阿龙-戈登接受了媒体采访，谈及球队在新赛季的目标。
+   </p>
+   <p>
+    魔术今夏续约了尼古拉-武切维奇、肯-伯奇、特伦斯-罗斯，并签下自由球员艾尔-法鲁克-阿米奴，阵容得到进一步充实。谈及新赛季的期望，戈登说道：“我们下赛季会取得不错的成绩，我认为我们已经准备好了。我们在很多方面都做好了扎实的准备，而阵容的稳定性是我们的一大优势。”
+   </p>
+   <p>
+    “我知道队中每位球员都对赛季的揭幕感到激动，而主教练史蒂夫-克利福德继续执教也是很大的优势。我们知道他是一个可以依靠并信赖的人，我们融入他的体系，这应该能让我们下赛季继续进步。”戈登补充道。
+   </p>
+   <p>
+    谈及外界对于球队的期望越来越高，戈登说道：“我们总想要做得更好，这是我们唯一的目标。去年，当我们开始赛季前训练营时，我们不知道将目标设定在哪里，也正因为此，我们起初并没有十足的信心。但现在，我们知道了我们有赢球的能力，我们要做的就是打出奥兰多的高篮球水平，向人们展示我们能做的一切。”
+   </p>
+   <p>
+    2018-19赛季常规赛，魔术取得42胜40负的战绩，排名东部第7，时隔7年重返季后赛舞台。戈登常规赛场均出场33.8分钟，得到16.0分7.4篮板3.7助攻0.73抢断0.72盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

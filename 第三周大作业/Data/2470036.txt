@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  秀恩爱！波什更新社媒晒出与妻子同游法国合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1rctnTJ1yx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 13:47:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="秀恩爱！波什更新社媒晒出与妻子同游法国合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/433ba14013f807cab182a8d01a11fcbd3fbeadbd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，前NBA球员克里斯-波什更新了个人的社交媒体Instagram晒出自己与妻子在巴黎牵手旅游的恩爱照片（见新闻配图）。
+   </p>
+   <p>
+    波什发文说道：“我超爱我们这张合照 ，比心！”
+   </p>
+   <p>
+    波什在2003年选秀大会首轮第四顺位被猛龙选中，职业生涯曾效力于猛龙和热火，总共上场893次常规赛，场均上场35.8分钟，得到19.2分8.5篮板2.0助攻0.82抢断1.04盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/302acc0474ffe087dfe94dead43ce8c6.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：jackhy1004)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

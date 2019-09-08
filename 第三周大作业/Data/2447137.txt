@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺官推晒旧照并庆祝队史首冠20周年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spurs/status/1143621298045825024" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 10:02:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺官推晒旧照并庆祝队史首冠20周年" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/cb06904f062dd5a34c7343903f635f3abb149351.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 今日马刺官方推特更新了一组1999年球队夺冠的照片，庆祝队史首冠20周年。
+   </p>
+   <p>
+    “今天是我们队史首冠的20周年纪念日！#GoSpursGo ”马刺官推写道。
+   </p>
+   <p>
+    马刺在1999年总决赛中以4-1的大比分击败尼克斯夺冠。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/10/8ded2faa3b361b5293e4432651fc6f41.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/10/892c07fa58643ca75d5a07a9e7aca60b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/10/a7c8160b5a01bd3005a61fbb01b1fb62.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

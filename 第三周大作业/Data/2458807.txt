@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬谈猛龙夺冠的启示：要以高水准投入到过程中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/learning-both-sides-zach-collins-refs-still-figuring-it-out?cid=Yahoo&amp;partner=ya4nbcs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 00:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬谈猛龙夺冠的启示：要以高水准投入到过程中" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/ab1b9d6967cdb7521d757a7f872d3a15671057fb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 近日，鹈鹕总经理大卫-格里芬接受了The Athletic记者Jeff Duncan的采访。
+   </p>
+   <p>
+    谈到今年夺冠的猛龙对自己建立球队文化的影响时，大卫-格里芬说：“猛龙的夺冠是有趣的，他们所做的是建立一支有许多实质性成分的球队。他们将自己放在了一种位置上，感觉自己有机会向科怀-伦纳德证明，他们对他来说是那支对的球队。即便伦纳德决定离队，我确定他们也会接受夺冠这一结果。我认为最重要的是，猛龙的冠军真正证明了，如果你在一个极高的水准上投入到过程中去，使自己的身边围绕着一群最好、最有前途的人，一般情况下好事会发生的。冠军不是NBA中唯一象征着成功的标志。你需要建立一支冠军水准的球队。如果你能使自己的球队被纳入最后四强的讨论中，并最终打入分区决赛，你真的已经做到了你所能做的事了，之后你需要期望事情会在一个正确的时机发生。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

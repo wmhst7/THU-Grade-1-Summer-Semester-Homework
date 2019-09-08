@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：保罗与哈登自赛季结束以来保持着交流
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1047095/2019/06/26/charanias-inside-pass-rockets-move-forward-top-free-agents-in-decision-mode-plus-more-nba-notes/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 07:10:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：保罗与哈登自赛季结束以来保持着交流" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/eb3fe132e05e99e351b53a7a2b0e29000702f77c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据The Athletic记者Shams Charania报道，联盟消息人士透露，克里斯-保罗从未向火箭申请过交易，但他也基本不存在交易市场。
+   </p>
+   <p>
+    联盟消息人士透露，当他们的赛季结束后，火箭官员曾与保罗会面，双方共同商讨未来。联盟消息人士透露，保罗曾告知火箭方面，如果火箭打算实现年轻化并更改建队方向，他将表示理解并保持职业风范。火箭则告知保罗，他们希望保留他，并继续参与竞争。
+   </p>
+   <p>
+    消息人士透露，自赛季结束以来，保罗与队友詹姆斯-哈登一直保持着交流，双方在父亲节那天有过一次积极的对话。据接近保罗及哈登的消息人士透露，这两位球员必须进一步努力消除隔阂，实现争冠目标。
+   </p>
+   <p>
+    联盟消息人士透露，即便火箭曾在过去几周内私下里讨论过涉及保罗的交易，但他的市场反响并不理想。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

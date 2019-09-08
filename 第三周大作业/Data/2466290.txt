@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：我们是一支团结的球队，卢比奥是一位竞争者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/utahjazz/status/1162581573885018112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 12:57:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：我们是一支团结的球队，卢比奥是一位竞争者" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/56e67cfdf72a932b490a8e8514def959f60304c3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 在今日结束的一场热身赛中，美国男篮以90-81击败西班牙男篮。赛后，美国男篮后卫多诺万-米切尔接受了媒体采访。
+   </p>
+   <p>
+    谈到自己的表现，米切尔说：“我认为我浪费了一些在场上找到队友的机会，我对自己的要求总是很严格，我在防守端的表现有明显提升，我会继续努力。”
+   </p>
+   <p>
+    谈到即将赶赴澳大利亚参加热身赛，米切尔说：“我对此非常兴奋，就像我所说的那样，对于我们而言，最重要的事情就是在场上形成默契，彼此之间更加熟悉。对手的球员们从12岁或13岁开始就一起打球，我们必须匹配上对手的化学反应。”
+   </p>
+   <p>
+    谈到球队的磨合，米切尔说：“我们是一支团结一致的球队，这是最重要的，我们踏上赛场努力竞争，我们很喜欢与身边的队友待在一起。像澳大利亚、西班牙和塞尔维亚这样的球队，他们都非常喜欢和队友们待在一起，我认为我们也需要朝着那个方向前进。”
+   </p>
+   <p>
+    谈到面对前队友里基-卢比奥，米切尔说：“我爱里基，他在我的职业生涯中教会了我很多东西，我很幸运曾经拥有像他这样的队友。他是一位竞争者，他渴望去竞争，我们之间只关于爱，我很高兴能够见到他。”
+   </p>
+   <p>
+    本场比赛，米切尔得到13分4篮板；卢比奥得到16分7助攻4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

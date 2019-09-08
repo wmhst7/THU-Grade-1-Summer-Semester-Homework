@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝弗利今日更新社媒晒出个人照并配文道：今天，生日签到
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz0_qBwBRWT/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 10:41:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝弗利今日更新社媒晒出个人照并配文道：今天，生日签到" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/af13c82a7216962e4aba1ee0ec9bc445e4afc852.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 今日，快船后卫帕特里克-贝弗利更新社媒Instagram晒出一张个人照片（见新闻配图）祝自己生日快乐。
+   </p>
+   <p>
+    贝弗利发文说道：“今天，生日签到。”
+   </p>
+   <p>
+    根据此前消息报道，帕特里克-贝弗利与快船达成了一份3年4000万美元的续约协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，贝弗利共为快船出战78场比赛，场均出场27.4分钟，可以得到7.6分5.0篮板3.8助攻。季后赛，贝弗利总共出战6场比赛，场均出场32.5分钟，能够得到9.8分8.0篮板4.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗宾逊：希望重返NBA，我只是想要一次回来的机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1062529/2019/07/03/fifteen-days-how-thomas-robinson-is-planning-to-prove-he-deserves-another-shot-in-the-nba/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 11:58:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗宾逊：希望重返NBA，我只是想要一次回来的机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/0a063460ac701e78b12ce7bb9721554612d0a0d0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 2019年6月27日，圣安东尼奥马刺队公布了今年盐城湖夏季联赛的球员名单，其中包括了托马斯-罗宾逊。罗宾逊在近日接受采访时告诉记者，他希望重返NBA。
+   </p>
+   <p>
+    罗宾逊在2012年第1轮第5顺位被国王选中，先后效力于国王、火箭、开拓者、76人和篮网等球队，2016-2017赛季效力于湖人，这也是他最后一次在NBA打常规赛。在2017年罗宾逊加盟欧洲球队莫斯科Khimki队，2018年8月30日，罗宾逊加盟老鹰重返NBA，同年10月13日，罗宾逊被老鹰裁掉，后于2018年11月25日加盟CBA北京北控篮球俱乐部。
+   </p>
+   <p>
+    “我吸取了教训，我只是想要一次回来的机会。”
+   </p>
+   <p>
+    “我必须放下自身的骄傲，作为一个男人，我认为我应该在联盟中。但我必须把这些放到一边，我需要意识到重点是我在球队中的表现，我没有那种‘我是第5顺位，我值得在这个联盟’或者‘为了留在联盟，我愿意做任何需要我做得事情，来证明我属于这个联盟’的心态。”
+   </p>
+   <p>
+    回忆起在开拓者两个赛季，罗宾逊说道：“在早期时，我试图将我的所有都展示出来，这与球队想要的相冲突。这是你需要学习的一部分，当他们告诉你‘我需要你防守、抢篮板、挡拆’的时候，你必须这么做，这会让你留在场上。当时我还年轻、不成熟，我对他们想教我的很抵触，但就像我说的，这是一个教训。”
+   </p>
+   <p>
+    但被问及在过去的两年里，当他试图找回自己时是否会陷入抑郁，罗宾逊说道：“我还在赚钱，所以我没有感到沮丧。”
+   </p>
+   <p>
+    但同时罗宾逊也表示，有想过放弃篮球的想法，尤其是作为湖人球员参加训练营的时候，“我质疑我在NBA的地位，在湖人训练营开始之前，我想‘该死的，我怎么就到了这一步’，然后当你看着那些人的时候你又会想‘我比他强’，但你不能有那样的想法，这是一场精神上的战斗。”
+   </p>
+   <p>
+    在之后没有任何球队给他合同，他在海外漂泊了两年，正因如此，他想要重返NBA的愿望更加强烈。
+   </p>
+   <p>
+    “这对我来说比任何事情都要痛苦，我是一个竞争者，我打比赛是为了赢，我想要在比赛中被记住，我感觉我还没完成这些，这让我很痛苦。”
+   </p>
+   <p>
+    “我知道我属于这里，我将继续尽我所能证明这一点，我不会放弃。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

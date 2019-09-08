@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小范甘迪谈怀特：他的自信得到了提升，表现非常出色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/johndelizondo/status/1159240500651540481" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 11:09:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小范甘迪谈怀特：他的自信得到了提升，表现非常出色" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/623f4b331bc333d73f64ba86d90d9df6b4ed150a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，美国男篮助理教练杰夫-范甘迪在接受采访时谈到了德里克-怀特在训练营中的表现。
+   </p>
+   <p>
+    “他的自信得到了提升，我觉得这源于他今年的成功。他完全知道他属于这里，他就是在这表演。毫无疑问，昨天他是两支球队中，场上表现最好的球员，并且今天他再次表现的很出色。”他说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，怀特场均出场25.8分钟，得到9.9分3.7篮板3.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

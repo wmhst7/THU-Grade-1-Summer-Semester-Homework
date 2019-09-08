@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆季前赛赛程出炉：共四场季前赛，两遇独行侠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/thunder/news/preseason-schedule-190731" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 04:34:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆季前赛赛程出炉：共四场季前赛，两遇独行侠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/a21bbaf5f13d2b83a95df45c779361182bc37fbe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 今天雷霆官方公布了雷霆2019-20赛季季前赛的赛程表，首战将在北京时间10月9日打响，共4场比赛。具体赛程如下：
+   </p>
+   <p>
+    10月9日，雷霆主场迎战独行侠；
+   </p>
+   <p>
+    10月11日，雷霆主场迎战新西兰破坏者队（新西兰职业联赛球队）；
+   </p>
+   <p>
+    10月15日，雷霆客场挑战独行侠；
+   </p>
+   <p>
+    10月17日，雷霆主场迎战灰熊。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

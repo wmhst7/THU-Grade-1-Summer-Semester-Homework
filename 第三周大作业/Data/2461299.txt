@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加里纳利：当成为自由球员时，我会追求争冠机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sportando/status/1157595107618643968?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 18:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加里纳利：当成为自由球员时，我会追求争冠机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/50162652b75a0f71f216b7db9ceb61742d6d5729.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 雷霆的达尼罗-加里纳利接受采访时表示，当他明夏成为自由球员的时候，他会寻求加盟争冠球队。
+   </p>
+   <p>
+    “明年夏天，当我成为自由球员的时候，我会优先寻找一支能为NBA总决赛竞争的球队，我不会追求钱，而是会追求一个争冠的机会。”加里纳利说道。
+   </p>
+   <p>
+    加里纳利接着说：“NBA教会了我在场上做一名更自私的球员，但是我真的还没有取得成功。”
+   </p>
+   <p>
+    加里纳利3年6477万美元的合同明夏到期，届时他将成为一名完全自由球员，在今夏关于保罗-乔治的交易里，加里纳利被快船交易到了雷霆。
+   </p>
+   <p>
+    2018-19赛季常规赛，加里纳利场均出战30.3分钟可以拿到19.8分6.1篮板2.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

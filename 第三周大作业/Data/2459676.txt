@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯：球队拥有一到四年夺冠窗口期，我们想要赢在当下
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FTFonFS1/status/1155817570706104321" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 12:30:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯：球队拥有一到四年夺冠窗口期，我们想要赢在当下" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/dfbaaa8dec1294b0f1ce12d069f0e99b8c86b50f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 76人球员托拜厄斯-哈里斯在今日做客访谈节目《First Things First》时谈到了续约费城以及球队的前景。
+   </p>
+   <p>
+    “当我从洛杉矶交易至费城，这座城市敞开怀抱欢迎我，我很兴奋能够来到这里，并且成为球队文化的一部分。你知道的，埃尔顿-布兰德和球队教练组做了很棒的工作，热情地欢迎我，让我能够继续做我自己，这对于进入自由球员市场的我而言意味着很多。能够获得这样的机会，我真的是被上天眷顾了。”哈里斯说道。
+   </p>
+   <p>
+    谈到球队的前景，哈里斯说：“对于我而言，站上赛场就是为了赢球，而球队的一系列操作正是为了赢球，为了赢在当下。我们的窗口期大概是1-4年，我们想要赢球，我们想要赢得一切，这正是我在自由球员市场开启后和球队会面时所谈论的内容，也是我向球队传达的信息，我想要赢得总冠军。球队获得了正确的拼图，我爱我们的阵容，对于球队而言，我们需要建立化学反应，为费城这座城市带来总冠军。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

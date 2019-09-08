@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯：庞兹是联合试训上最好的控卫，他只是体脂率太高
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/RobKSports/status/1147276905311289349" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 07:20:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯：庞兹是联合试训上最好的控卫，他只是体脂率太高" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/911e45b334107bb3d7d6e66dc00b69e67f58259f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 前NBA球员肯德里克-帕金斯作客节目时谈到了火箭的新秀沙莫里-庞兹。
+   </p>
+   <p>
+    “如果你看看沙莫里-庞兹的话，这个来自圣约翰大学的孩子，他在选秀大会上落选了，火箭知道自己没有选秀权，于是马上就签下了他，我认为这是一份2年或者3年的合同，因为我在联合试训的时候执教过他，事实上，在联合试训上，他是最好的控卫，因为他的体脂率，他没能通过NBA各支球队的考察，但是听着，如果你可以得分的话，我才不在乎你多重。”帕金斯说道。
+   </p>
+   <p>
+    帕金斯最后说：“我之前告诉了他，你必须要这么做，减重，他是这一届选秀大会上的沉睡者之一，火箭知道，这就是他们毫不犹豫签下他的原因。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乐福将退出美国男篮训练营，洛瑞目前仍承诺参加
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1154048742019891202" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 23:21:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乐福将退出美国男篮训练营，洛瑞目前仍承诺参加" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/4bcbd38781df8894a88e896ae21efe55d6964923.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，骑士前锋凯文-乐福预计退出美国男篮梦之队的训练营名单。
+   </p>
+   <p>
+    根据Shams报道，猛龙后卫凯尔-洛瑞目前仍承诺参加美国男篮训练营，且预计将在大拇指手术后恢复并在训练营中期回归。
+   </p>
+   <p>
+    根据Shams报道，美国男篮梦之队今年夏天的训练营名单绝大多数为年轻球员和经验丰富的球员，而夏天的训练营将会为多诺万-米切尔、杰森-塔特姆、凯尔-库兹马、迈尔斯-特纳和达龙-福克斯等年轻球员提供平台，并辅以洛瑞、PJ-塔克和赛迪斯-杨等经验丰富的球员。
+   </p>
+   <p>
+    根据The Athletic记者Joe Vardon报道，乐福告知他，乐福与美国男篮主帅格雷格-波波维奇进行了20分钟的电话沟通，并告知了退出训练营的决定。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆、布拉德利-比尔、达米安-利拉德、德马尔-德罗赞和托拜厄斯-哈里斯等球员相继宣布不会代表美国队参加今夏的男篮世界杯。
+   </p>
+   <p>
+    2018-19赛季常规赛，乐福因脚部伤势共上场22次，场均上场27.2分钟，得到17.0分10.9篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

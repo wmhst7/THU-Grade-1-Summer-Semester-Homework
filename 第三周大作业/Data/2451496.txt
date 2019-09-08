@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船官推发布年轻球员照片：小伙子们正在进场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LAClippers/status/1148061763440537601" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 11:13:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船官推发布年轻球员照片：小伙子们正在进场" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/52f80f3ca25da6e37812343fe8f688719e771553.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，快船官方推特发布一组年轻球员夏季联赛入场照片，并配文称：“我们的小伙子们正在进场”。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/c99791ace708e9bd90a7055079f9a876.jpg"/>
+   </p>
+   <p>
+    （2019年首轮27顺位，菲翁杜-卡本盖莱）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/e5eab77a7cb0fbf5fc84de09bd41e52c.jpg"/>
+   </p>
+   <p>
+    （杰罗姆-罗宾逊，2018年首轮13顺位）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/0178ed7318cb4883f83161434e1be3dd.jpg"/>
+   </p>
+   <p>
+    （奥谢-布里塞特Oshae Brissett）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/51d5dc60fd3926fad6da64959ecd0497.jpg"/>
+   </p>
+   <p>
+    （特伦斯-曼，2019年次轮18顺位）
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

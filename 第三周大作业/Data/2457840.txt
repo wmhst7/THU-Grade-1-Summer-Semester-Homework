@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔谈杜兰特：他使勇士从冠军球队成为了历史级强队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/content/warriors-insider-podcast" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 12:36:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔谈杜兰特：他使勇士从冠军球队成为了历史级强队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/7ab3aac593b821b3cc010af39a3602d8aa3fcf20.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 近日，勇士主教练史蒂夫-科尔在The Warriors Insiders播客上谈到了杜兰特的勇士生涯和他的离队。
+   </p>
+   <p>
+    科尔说：“杜兰特将我们带到了一个不同的层次上，在他来到球队之前，我们是一支冠军球队。而他到来之后，我们成为了一支历史级别的强队。我们在2016年输掉了G7，如果我们保持当时的阵容继续前进，没有凯文-杜兰特，我知道我们本可能再次打进总决赛。但是显然，如果凯文-杜兰特没有加盟，我们不会那么有统治力。他将一切带到了一个不同的层次上。他做到了我们所期望的事，他的表现是不可思议的，他为湾区人民做的事，他在社区里为孩子们做的事，他在场上做的事，我认为他做了一切。我们很幸运能够拥有他。”
+   </p>
+   <p>
+    “对于他的离队，我认为每个人都是不同的，每个人都有自己不同的故事，有不同的职业生涯道路，显然他觉得是时候进行改变了，所以他离开球队，继续前进了，我们只希望向他致以最美好的祝福。”
+   </p>
+   <p>
+    此前，篮网与勇士完成先签后换的交易，篮网得到杜兰特和一个2020年的受保护首轮签，送出丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄斯。之后，杜兰特与篮网签下了一份4年1.64亿美元的合同。
+   </p>
+   <p>
+    杜兰特因跟腱伤势预计缺席下赛季所有比赛。2018-19赛季常规赛，凯文-杜兰特场均出场34.6分钟，得到26.0分6.4篮板5.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  梅森谈加盟雄鹿：非常荣幸，我已经准备好新赛季了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FrankMason0" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 11:05:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="梅森谈加盟雄鹿：非常荣幸，我已经准备好新赛季了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/a8a0de2415f43f3c33bb68eabc0579beefed9fe1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 据此前报道，NBA球员弗兰克-梅森三世和密尔沃基雄鹿队达成一份双向合同的协议。
+   </p>
+   <p>
+    今日，梅森更新个人推特发文道：“非常荣幸能够成为这支具有总冠军实力球队的一分子，我已经准备好工作了！”
+   </p>
+   <p>
+    2018-19赛季常规赛，梅森共上场38次，场均上场11.4分钟，得到5.1分1.1篮板2.2助攻。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2456257&amp;type=1">
+     Shams：雄鹿与后卫弗兰克-梅森三世签下双向合同
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

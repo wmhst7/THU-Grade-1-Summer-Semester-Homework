@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴里亚：我还想继续打球，未来会成为独行侠教练组的一员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mavs.com/j-j-barea-clues-us-in-on-contract-coaching-and-why-mavericks-are-in-a-better-spot-now/" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 16:40:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴里亚：我还想继续打球，未来会成为独行侠教练组的一员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/b8fd77688cf3e3810af4e0141c4cff1b138c6d70.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 独行侠球员何塞-巴里亚在近日接受采访时谈到了未来的职业规划。
+   </p>
+   <p>
+    巴里亚表示自己希望能够在未来成为一名NBA教练，但目前还没有做好准备，他还想继续打球。
+   </p>
+   <p>
+    “是的，我还没有做好准备，”巴里亚说道，“我感觉我还想打球，我知道我还能打球。但在我退役之后的几年， 我肯定会成为达拉斯教练组的一员。”
+   </p>
+   <p>
+    “我哪里也不会去，我和总经理唐尼-尼尔森，老板马克-库班和主教练都进行了交流，我们制定了一个计划，希望事情的发展能够如我们所愿。我想要一直留在这里，这就是我的计划。”巴里亚说道。
+   </p>
+   <p>
+    巴里亚在上赛季遭遇了右脚跟腱撕裂赛季报销，谈到目前的身体状况，巴里亚说：“我感觉真的很棒，我每周都会进行训练，努力变得更快更强壮。我感觉很棒，我认为我会为新赛季训练营做好准备。我已经开始进行篮球相关的训练，练习打挡拆，我应该能够在未来几周做到完全发力起跳。”
+   </p>
+   <p>
+    谈到球队目前的阵容，巴里亚说：“过去一段时间对于我们而言有些艰难，但我现在感到非常兴奋，我们拥有充满天赋的阵容，希望我们能够保持健康，取得进步。毫无疑问，我们将会比过去三年更加出色。”
+   </p>
+   <p>
+    据此前The Athletic记者Shams Charania报道，联盟消息人士透露，自由球员后卫何塞-巴里亚已经达成一份1年底薪口头协议，重返独行侠。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴里亚共出战了38场比赛，场均上场19.8分钟，得到10.9分2.5个篮板5.6次助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

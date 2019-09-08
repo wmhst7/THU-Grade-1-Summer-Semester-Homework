@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特伦斯-琼斯：若火箭给我机会，我会努力帮他们夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/odnewsonline/status/1162654014489550850?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 20:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特伦斯-琼斯：若火箭给我机会，我会努力帮他们夺冠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/e0416c605b606fbfd93cf5aeaaf33c9fd6de72bc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 特伦斯-琼斯接受采访时称他在菲律宾很开心，他期待着生涯的下一个篇章。
+   </p>
+   <p>
+    “我们打出了一个不错的赛季，结局没有像我们希望的那样，但是我感激与他们的友情，感激队友们信任我，我拼到了最后一秒。”琼斯说道。
+   </p>
+   <p>
+    琼斯接着说：“我之前想展示出我在乎胜利，我没有放弃，我拼尽全力，直到最后。”
+   </p>
+   <p>
+    是否还回到菲律宾？琼斯称一切都还没有确定，他想得到一个回到NBA的机会，他说：“我期待着我的下一个篇章，那就是回到NBA，希望如此，如果任何球队给我机会，我都准备好了，如果是火箭的话，我与他们很熟悉，我会努力帮助他们夺冠。”
+   </p>
+   <p>
+    谈到在菲律宾打球的经历，琼斯说：“整体来说，这是一个很棒的经历，我作为一个男人，一个父亲，我永远不会忘记这段经历，对我来说，这是一段令我感到谦虚的经历。”
+   </p>
+   <p>
+    琼斯今年在菲律宾联赛场均出战44.6分钟可以拿到31.2分15.6篮板7.5助攻1.8抢断3盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季很可能会是多人轮流担任快船的比赛解说员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-08-16/chauncey-billups-clippers-broadcast-analyst" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 08:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季很可能会是多人轮流担任快船的比赛解说员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/fc2478125035e18c31c916d7fab82b956ae8b1e7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据《洛杉矶时报》记者Andrew Greif的报道，昌西-比卢普斯通过短信确认，新赛季他会成为快船的比赛解说员，他将与Brian Sieman一起解说快船比赛，后者今夏接替了退休的Ralph Lawler。
+   </p>
+   <p>
+    比卢普斯没有透露他会解说多少场比赛，根据《纽约邮报》记者Andrew Marchand的报道，比卢普斯也会为ESPN解说比赛。
+   </p>
+   <p>
+    了解快船新赛季直播计划的消息人士透露，新赛季很有可能会像上赛季那样多人轮流担任快船的比赛解说员，其中就包括比卢普斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

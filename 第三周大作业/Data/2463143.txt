@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  连帽衫模式！詹姆斯训练期间发布自嗨动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2105952987406013466?utm_source=ig_story_item_share&amp;igshid=yvsq88ovcmfy" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 22:02:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="连帽衫模式！詹姆斯训练期间发布自嗨动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/e214bdb66c851affd8132b6120369a213f64e113.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新了一组训练间隙的自嗨视频。
+   </p>
+   <p>
+    在这些自拍视频中，詹姆斯身穿连帽衫，兴奋地跟随音乐摇头晃脑，手舞足蹈。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/22/955b9fdd37ffdd6bcea4c2d553513ad6.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/22/ed01c792634a6e091c22d25cb1b60bf7.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

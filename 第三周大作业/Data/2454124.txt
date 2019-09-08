@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮球梦？不存在！字母哥大帽小球迷
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6dc-SBHAw/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 13:48:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮球梦？不存在！字母哥大帽小球迷" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/7379718f890b9724373a654cd1da739cbfb09367.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，雄鹿官方更新社交媒体Instagram，晒出扬尼斯-阿德托昆博大帽小球迷视频。
+   </p>
+   <p>
+    “不会有简单的得分！”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，扬尼斯-阿德托昆博场均上场32.8分钟，得到27.7分12.5篮板5.9助攻。
+   </p>
+   <p>
+    <br/>
+    <img alt="GIF 2.1M" src="https://c1.hoopchina.com.cn/uploads/images/20190715/13/a60a1a60442535ec1c166d3fa8dc1713.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

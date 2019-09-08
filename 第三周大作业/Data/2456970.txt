@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才老板：沃尔下赛季可能不会复出
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MrMichaelLee/status/1153393767849877504" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 04:07:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才老板：沃尔下赛季可能不会复出" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/0b953773cfb59a8f3fad4e54d1ba90c034dfe6f3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，奇才老板Ted Leonsis在记者发布会上表示，球队后卫约翰-沃尔“下赛季可能不会上场打球（probably won't play next season）”，并称自己每天都会先关注有关沃尔跟腱恢复的相关消息。
+   </p>
+   <p>
+    据称，球队希望放慢他的复出进度，以保证他的伤势完全恢复。
+   </p>
+   <p>
+    沃尔2月时因在家中不慎滑倒而造成左脚跟腱撕裂，随后成功接受了左脚跟腱撕裂的修复手术，当时预计将缺席12个月。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

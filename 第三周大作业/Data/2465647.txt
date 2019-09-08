@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔-哈里斯：波波维奇教练向我们强调了化学反应的重要性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-14.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 13:55:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔-哈里斯：波波维奇教练向我们强调了化学反应的重要性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/60b8cb6c3164e2fdc0628c71026a6a3f5338c6b8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 美国男篮目前正在洛杉矶备战热身赛，篮网球员乔-哈里斯在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到过去一周球队取得的进步，哈里斯说：“我们依旧在磨合，上周我们做的很多事情都是非常基础的，现在我们会更多地从战术角度处理一些问题，试图改变一些进攻策略。我们还有很多工作要做，但也不会盲目尝试太多东西，我们会专注于短时间内必须要重视的方面。我们在今天的训练中进行了一次小测试，确保每个人都能够步调一致。总而言之，作为一个整体，我们每天都在取得进步，与这么多出色的教练和球员共事，他们都能够迅速适应并解决问题。”
+   </p>
+   <p>
+    谈到球队的心态，哈里斯说：“Pop（格雷格-波波维奇）一开始就向我们强调了化学反应的重要性，他提到了很多国家队，澳大利亚，塞尔维亚，立陶宛，还有其他一些你能够想到的球队。他们都是并肩作战了很长时间，而我们在试图让一群彼此之间并不熟悉的球员在很短的时间里了解彼此，形成紧密的关系和出色的化学反应。因此这就是我们所努力的方向，我们试图融入球队，努力在场下更深入地了解彼此，这有助于我们在场上形成更出色的化学反应。”
+   </p>
+   <p>
+    北京时间8月17日至8月26日，美国男篮将与西班牙、澳大利亚、加拿大进行四场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

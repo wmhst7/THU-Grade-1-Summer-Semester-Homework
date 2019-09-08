@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：火箭雷霆很快达成交易，保罗想去有竞争力的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=TF2vTeka52g" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 16:20:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：火箭雷霆很快达成交易，保罗想去有竞争力的球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/ab0729d7b5e0c6b4ba278f8a9d14d8821d736baa.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 根据此前的报道，火箭送出后卫克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，交易得到雷霆后卫拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    据ESPN记者Adrian Wojnarowski 在节目中透露，雷霆与拉塞尔-威斯布鲁克并不想在交易上耽搁太久时间，雷霆本周一直在积极主动寻找交易对象，其中包括火箭与热火。今日早些时候，火箭与雷霆达成协议，送出后卫克里斯-保罗，得到威斯布鲁克，Woj称火箭与雷霆仅仅商谈了很短的时间，就达成了交易。
+   </p>
+   <p>
+    主持人问道：“对于雷霆队来说，显然已经开始了重建计划，他们手中握着大量的首轮选秀权，但是这与已经34岁的克里斯-保罗的目标一致吗？”
+   </p>
+   <p>
+    Woj：“我相信雷霆将很快开始与保罗的经纪人莱昂-罗斯展开对话，询问保罗他是否想要呆在雷霆。因为保罗还剩下3年1.24亿美元的合同，在这个时候市场上可交易的球队少之又少，迈阿密热火队可能是其中之一，看他们是否愿意接受这个大合同，雷霆可能还需要送出一些首轮选秀权。因为热火队的首选是威斯布鲁克，结果被火箭抢占先机，热火可能会对保罗感兴趣。现在最大的可能应该是雷霆和热火之间展开谈判，否则，雷霆将与克里斯-保罗一起开始新赛季。实际上保罗曾经在新奥尔良遭受卡特琳娜飓风期间在俄克拉荷马城打过球，他熟悉那里，但是当保罗走到职业生涯的这一阶段，他想要赢球，想加入一直有竞争力的球队，现在他在雷霆身上没有看到这一点。”
+   </p>
+   <p>
+    根据此前的报道，雷霆总经理萨姆-普雷斯蒂已与保罗的经纪人有过沟通，他们有可能采用此前安东尼在与雷霆分道扬镳时采用的方法，包括交易和延期支付合同，或者是结合买断和延期支付合同的办法。
+   </p>
+   <p>
+    2018-19赛季常规赛，保罗场均上场32.0分钟，得到15.6分4.6篮板8.2助攻1.97抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我住球哥家楼下)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

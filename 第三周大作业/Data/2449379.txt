@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爱情的甜蜜！乐福更新社交媒体晒自己与女友合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzYpUnQgbVi/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 10:40:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爱情的甜蜜！乐福更新社交媒体晒自己与女友合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/5697fb76579bdf4087c6ce8a9a963d5f7f9a94d4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，骑士球员凯文-乐福更新Instagram，晒出自己与女友合照。
+   </p>
+   <p>
+    “加拿大日，在加拿大，和一个加拿大人在一起。”
+   </p>
+   <p>
+    2018-19赛季，乐福场均出战27.2分钟，拿到17分10.9篮板2.2助攻。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

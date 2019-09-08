@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大加索尔：续约雄鹿讲得通，我想帮助一支球队夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/01/pau-gasol-milwaukee-bucks-nba-free-agency/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 22:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大加索尔：续约雄鹿讲得通，我想帮助一支球队夺冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/9192fd6cc819e40a3ef869f3378f2fa69dd8ca1b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据TMZ体育的报道，保罗-加索尔现身纽约，他接受采访时谈到了多个方面。
+   </p>
+   <p>
+    “我感觉好多了，8月就能回到场上了。”大加索尔说道。
+   </p>
+   <p>
+    是否想续约雄鹿？大加索尔说：“这讲得通，我想帮助一支球队夺冠。”
+   </p>
+   <p>
+    谈到弟弟马克-加索尔今年夺冠，大加索尔说：“是的，我知道，我清楚，NBA历史上拿到过NBA总冠军的兄弟只有我们两人。”
+   </p>
+   <p>
+    跟小加索尔一起去打兄弟篮球？大加索尔说：“我不知道这个，但是我们都很开心。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

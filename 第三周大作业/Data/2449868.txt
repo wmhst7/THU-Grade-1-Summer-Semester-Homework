@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  里克-巴里：想不通杜兰特为什么会离开勇士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/01/rick-barry-kevin-durant-golden-state-warriors/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 16:44:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="里克-巴里：想不通杜兰特为什么会离开勇士" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/dc034cb18314f0df77703cc31b1fb64532103503.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据此前的报道，前锋凯文-杜兰特和篮网达成4年1.64亿美元的协议。
+   </p>
+   <p>
+    勇士名宿里克-巴里接受TMZ采访时对此发表了自己的看法。巴里说道：“我希望有一天他能站出来解释一下他的这个决定，因为就我个人而言，我不理解是什么原因让他选择跳出现状。”
+   </p>
+   <p>
+    “这是一个如此好的机会，在你的生涯中成就一支NBA历史留名的伟大球队。你有出色的队友帮你分担重担，与你一起赢下更多的总冠军，有令人激动的新球馆，还有很棒的球迷。所以我实在想不通他为什么要离开。”
+   </p>
+   <p>
+    同时巴里也表示他非常支持勇士退役杜兰特的35号球衣。
+   </p>
+   <p>
+    杜兰特职业生涯为勇士效力3个赛季，出战208场常规赛，场均34.1分钟能得到25.8分7.1篮板5.4助攻，2次帮助球队获得总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

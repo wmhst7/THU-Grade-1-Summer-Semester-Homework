@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  开拓者官方晒出主场地板照以此纪念建队50周年纪念日
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1FbSMipzNF/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 12:42:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="开拓者官方晒出主场地板照以此纪念建队50周年纪念日" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/f7443d47bf811ad75f7ace4f91c9a8ccc2d3e859.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 今日，开拓者官方更新了社交媒体Instagram晒出主场地板照（见新闻配图），以此来纪念即将到来的2020年开拓者建队50周年纪念日。
+   </p>
+   <p>
+    开拓者官方发文说道：“建队50周年。”
+   </p>
+   <p>
+    开拓者于1970年建队加入NBA，曾在1977年获得NBA总冠军。2018-19赛季，开拓者西部决赛以系列赛大比分0-4不敌勇士遗憾出局。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

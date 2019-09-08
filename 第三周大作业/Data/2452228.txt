@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：勇士裁掉肖恩-利文斯顿，后者将继续征战NBA
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1148756772351406082" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 08:53:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：勇士裁掉肖恩-利文斯顿，后者将继续征战NBA" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/a214666667430c4464cc5ebfb8c96dd459f13242.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，勇士裁掉肖恩-利文斯顿。
+   </p>
+   <p>
+    根据Woj报道，利文斯顿下赛季的年薪为770万美元，其中仅有200万美元为保障金额。
+   </p>
+   <p>
+    根据薪资专家Bobby Marks报道，勇士将使用延伸条款裁掉利文斯顿，这意味着勇士在未来三个赛季里将会分别给利文斯顿支付66.6万美元，每年占据球队工资帽的金额也为66.6万美元。裁掉利文斯顿后，目前勇士的薪资总额比土豪线（1.389亿美元）低21.9万美元。
+   </p>
+   <p>
+    由于勇士通过先签后换的方式得到后卫丹吉洛-拉塞尔，所以勇士将被适用硬工资帽，整个赛季在任何情况下都不能超过土豪线（1.389亿），此前勇士通过交易送走了前锋安德烈-伊格达拉，用达米安-琼斯换来了奥马里-斯佩尔曼，都是为了将薪资总额降低至土豪线以下。
+   </p>
+   <p>
+    根据Woj报道，现年33岁的利文斯顿已经决定继续征战NBA，他将成为总冠军竞争球队的又一名极具价值的自由球员签约目标。
+   </p>
+   <p>
+    根据此前的报道，勇士与利文斯顿同意推迟将合同转为全额保障的日期从当地时间6月30日推迟至7月10日，这一举动让勇士在即将开始的自由球员市场上有更大的操作灵活度。
+   </p>
+   <p>
+    利文斯顿在2014年夏天加盟勇士并效力至今，在效力的5个赛季里帮助球队连续五年打入总决赛和三次赢得总冠军。
+   </p>
+   <p>
+    2018-19赛季常规赛，利文斯顿场均上场15.1分钟，得到4.0分1.8篮板1.8助攻，季后赛场均上场14.6分钟，得到4.0分1.4篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

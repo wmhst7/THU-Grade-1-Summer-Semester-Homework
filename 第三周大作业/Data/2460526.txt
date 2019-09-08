@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特互动网友：下赛季要提升投射和领导力，沃克最难防
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://uproxx.com/dimemag/marcus-smart-guillotines-twitter-qa-boston-celtics/4/" target="_blank">
+     UPROXX
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 16:41:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特互动网友：下赛季要提升投射和领导力，沃克最难防" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/e4e125f244b4b39df59c69db22febaf031c680c3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 近日，凯尔特人后卫马库斯-斯马特在推特上进行了一个为期一小时的募捐活动。推特用户们可以向斯马特提问，如果斯马特回答了，就请用户在网上向他的基金会捐款，善款将用于帮助癌症患者。
+   </p>
+   <p>
+    一名网友问道：“到目前为止，你职业生涯中最喜欢的时刻？”斯马特回答：“当然是选秀日我被凯尔特人选中的时候。”
+   </p>
+   <p>
+    一名网友问道：“下赛季的目标？”斯马特回答：“每天继续提升投射，变得更像一名领袖。”
+   </p>
+   <p>
+    一名网友问道：“你最近经常播放的歌曲或是专辑是什么？”斯马特回答：“Playboi Carti的歌。”
+   </p>
+   <p>
+    一名网友问道：“联盟中对你来说最难防守的人是谁？”斯马特回答：“不是谎话。是肯巴-沃克。”
+   </p>
+   <p>
+    一名网友问道：“谁是你成长过程中崇拜的人？谁塑造了你之后的比赛风格？”斯马特说：“我的兄弟，特别是已经过世的Todd，他比我强。我的第一句座右铭就是纪念他的。”
+   </p>
+   <p>
+    提问中也不乏一些奇葩的问题。一名网友问道：“你正在进行一场决斗，你更愿意面对一只艾尔-霍弗德体型的熊还是五只以赛亚-托马斯体型的地鼠？为什么？”斯马特回答说：“我选C，这两个我都不想要。”
+   </p>
+   <p>
+    一名网友问道：“你认为最酷的中世纪攻城武器是什么？”这名网友配上了一张图，图上有投石机、抛石机和弹射器。斯马特回答：“以上都不是。目前为止我觉得是断头台。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯玛特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

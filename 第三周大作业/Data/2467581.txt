@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英格拉姆更新社媒晒出个人帅照：告诉我，你对我做了什么
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Z__qRJh9n/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 09:39:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英格拉姆更新社媒晒出个人帅照：告诉我，你对我做了什么" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/da9904584784a806dd3d0cc9ca9d0925ca427948.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，鹈鹕前锋布兰登-英格拉姆更新了个人社交媒体Instagram晒出个人帅照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“告诉我，你对我做了什么。”
+   </p>
+   <p>
+    2018-19赛季常规赛，英格拉姆场均出场33.8分钟，可以得到18.3分5.1篮板3.0助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/09/1569f0a875aaba77bc6695329f41dc7d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

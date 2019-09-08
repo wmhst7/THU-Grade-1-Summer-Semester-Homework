@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  唐斯：现在是信息时代，大城市曝光度更高的观点并不正确
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1086858/2019/07/22/karl-anthony-towns-is-ready-to-stand-up-for-small-markets-and-turn-the-wolves-into-winners/?redirected=1" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 11:51:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="唐斯：现在是信息时代，大城市曝光度更高的观点并不正确" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/57490cf8b92e82f80d69ebba95fb7581ac5e40ba.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 近日，森林狼前锋卡尔-安东尼-唐斯接受了The Athletic记者Jon Krawczynski的采访。
+   </p>
+   <p>
+    在谈到对于比赛的看法时，唐斯说：“比赛就是比赛，篮球就是篮球，竞争就是竞争。你在哪里并不重要，我们所有人都是在这样的环境下生存的，无论你身在何处，我们都会去公园，在健身房里健身。对于竞争，不管你是在密尔沃基还是明尼苏达，不管你是在洛杉矶还是纽约，竞争就是竞争。你必须时刻准备好，在比赛中教训他们，我就是这么做的。我不害怕去任何地方。我不在乎在哪和谁比赛。我要尽我最大的努力去比赛。”
+   </p>
+   <p>
+    在谈到在明尼苏达打球的感受时，唐斯说：“我在这里，这就是答案。这是我能给你的最好答案。我在这里，我现在在明尼苏达。你想写什么就写什么。我做好自己的工作，我要比联盟里的每一个人都做得要好。这才是我，我不是来参加真人秀的。我很高兴现在球队局势稳定下来，不管是主教练也好，总经理也好。球队中的一些事情是管理层可以决定的，还有一些是你无法控制的，比如菲利普-桑德斯的去世。这就是这个联盟运行的方式，永远不会是公平的，我在第一线经历了这些，我能做的就是每天都表现出最好的竞技状态，做好我的部分。”
+   </p>
+   <p>
+    在谈到明尼苏达是否限制了自己的成长时，唐斯说：“之前我曾认为当你在明尼苏达时，你所得到的机会会更少，一切的机遇都要靠自己来争取。但那些我身处的城市局限了我的发展的观点是错误的，仅仅是那些想让大城市拥有更多的人才的人的错误的描述。现在是信息时代，无论你身处在哪，只要你有真材实料，你就不会被埋没。人们能从社交媒体看到你，大公司知道他们想要跟什么样的人合作，与你身在何地完全无关。”
+   </p>
+   <p>
+    2018-19赛季常规赛，场均上场33.1分钟，可以得到24.4分12.4篮板3.4助攻1.62个封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：我需要各种篮球经验，新赛季要抓住空位机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LakersReporter/status/1161475179475689473" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 11:49:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：我需要各种篮球经验，新赛季要抓住空位机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/d1b2c6f0677234a79a6a278359e99f955279d78b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日美国男篮在洛杉矶进行新一轮集训，训练后湖人球员凯尔-库兹马接受记者采访。
+   </p>
+   <p>
+    谈到美国队的训练状况，库兹马表示：“一切都很好，这支球队现在发挥稳定。不断学习，每天变得更好，和这些球员建立化学反应和队友情谊。这是一次很棒的经历。”
+   </p>
+   <p>
+    谈到自己在球队的作用和自身的发展，库兹马表示：“我能够展示我的进攻能力，改进我的身体状态，在球场上下都发挥作用。”
+   </p>
+   <p>
+    谈到进入美国队名单的感受，库兹马表示：“这是我的重要时刻，我想要抓住一切能打篮球的机会。我还很年轻，还不是个老将，我需要各种篮球相关的经验来帮助我长远发展，尤其是面对即将到来的新赛季。”
+   </p>
+   <p>
+    谈到新赛季作为湖人球员的关键之处，库兹马表示：“抓住空位的机会。显然勒布朗-詹姆斯和安东尼-戴维斯会吸引很多防守注意力，很多的防守者都会盯着他们，所以就命中那些空位投篮吧。积极跑动，做一个好的队友。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

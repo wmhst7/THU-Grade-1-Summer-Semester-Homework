@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气逼人！库兹马社媒发布阳光下嗨歌动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzTf8QvJMrh/?igshid=1jrvyaplkf36x" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 09:47:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气逼人！库兹马社媒发布阳光下嗨歌动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/37118333a91238a4fb695c60bd8f289ab753960a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 湖人前锋凯尔-库兹马今天通过Instagram Story更新了自己在阳光下轻松嗨歌的动态。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190630/09/634e7953cf7319f95f0fb34bc9cf791b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190630/09/82031dc099f27843f614b5c414d0ab3f.gif"/>
+   </p>
+   <p>
+    此外，库兹马又通过Instagram发布一张个人昨日训练照，并配文道：“我的热爱。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190630/09/6e36a36ad76a016b5aa660150526be2a.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

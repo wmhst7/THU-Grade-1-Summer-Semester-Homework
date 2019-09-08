@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：盖伊计划2年3200万续约马刺
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145440006674309121" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 05:13:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：盖伊计划2年3200万续约马刺" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/303ac6e4bb1649bc4d22f924286ffadc69db5c5c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，鲁迪-盖伊计划与马刺达成2年3200万美元的续约协议。
+   </p>
+   <p>
+    过去两个赛季，盖伊均在马刺度过。2018-19赛季常规赛，盖伊场均上场26.7分钟，得到13.7分6.8篮板2.6助攻，季后赛场均上场25.6分钟，得到11.1分7.1篮板1.7助攻。
+   </p>
+   <p>
+    在盖伊13年的职业生涯中，他先后效力于灰熊、猛龙、国王，2017年夏天加盟了马刺。
+   </p>
+   <p>
+    马刺拥有盖伊的早鸟权，所以这可以让马刺提供比盖伊之前一个赛季薪水（1010万美元）高175%的涨薪。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

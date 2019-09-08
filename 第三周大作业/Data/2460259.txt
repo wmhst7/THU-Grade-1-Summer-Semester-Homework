@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：双胞胎科迪和凯莱布与黄蜂签下新秀合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1156568121274195969" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 22:59:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：双胞胎科迪和凯莱布与黄蜂签下新秀合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/c9a3c00b958d3634daefa554e32e3d8f586d19f0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 根据The Athletic记者Shams Charania的报道，来自内华达大学的双胞胎兄弟科迪-马丁和凯莱布-马丁与黄蜂签下新秀合同，一起进入NBA打球。
+   </p>
+   <p>
+    科迪-马丁是今年的36号秀，与黄蜂签下一份三年的新秀合同；凯莱布-马丁没有在选秀大会中被选中，与黄蜂签下一份部分保障合同。
+   </p>
+   <p>
+    2018-19赛季科迪-马丁在大学场均出战34.4分钟，能得到12.1分4.5篮板4.9助攻；今夏拉斯维加斯夏季联赛科迪-马丁出战5场，场均23.0分钟能得到8.6分3.6篮板1.8助攻。
+   </p>
+   <p>
+    2018-19赛季凯莱布-马丁在大学场均出战34.1分钟，能得到19.2分5.1篮板2.8助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/00/89237bedc0c4ffb506d833ffc15fa7ab.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

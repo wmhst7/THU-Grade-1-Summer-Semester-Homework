@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  FIBA官方战力榜：美国男篮居首位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www.fiba.basketball/basketballworldcup/2019/news/power-rankings-feels-like-a-repeat-of-madrid-2014-and-rio-2016-is-on-the-cards" target="_blank">
+     FIBA
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 22:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="FIBA官方战力榜：美国男篮居首位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/b6181a3697b7763ec633bfcc8fa3d9ac8304733a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 FIBA官方今日公布了参加今夏男篮世界杯32球队的战力榜，其中美国排名第一。
+   </p>
+   <p>
+    具体排名如下（按顺序）：美国、塞尔维亚、希腊、西班牙、法国、澳大利亚、阿根廷、尼日利亚、立陶宛、土耳其、意大利、德国、巴西、波兰、中国、波多黎各、加拿大、俄罗斯、菲律宾、黑山、捷克、日本、伊朗、突尼斯、新西兰、塞内加尔、委内瑞拉、多米尼加、安哥拉、韩国、科特迪瓦、约旦。
+   </p>
+   <p>
+    2019年篮球世界杯于8月31日正式开打，中国男篮所在的A组将在北京赛区进行比赛，同组对手有科特迪瓦、波兰和委内瑞拉。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

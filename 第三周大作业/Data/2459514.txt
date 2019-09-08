@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  犹他爵士签下落选秀朱万-摩根
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MikeAScotto/status/1155922407397429249" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 04:11:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="犹他爵士签下落选秀朱万-摩根" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/3a4f7f1a081f626b0435c3d3ab4f972c50ce5308.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 据The Athletic记者Michael Scotto报道，犹他爵士队和落选秀朱万-摩根达成协议，签下一份Exhibit 10合同。
+   </p>
+   <p>
+    朱万-摩根今年22岁，身高2.03米，体重105公斤，在场上司职前锋，毕业于印第安纳大学。
+   </p>
+   <p>
+    今年夏天，摩根曾代表爵士出战夏季联赛。18-19赛季，朱万-摩根代表印第安纳大学出战35场，场均得到15.5分8.2篮板1.9助攻，投篮命中率55.8%，三分命中率29.5%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：小乔丹和篮网达成4年4000万协议，KD欧文降薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145511196101136385" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 09:56:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：小乔丹和篮网达成4年4000万协议，KD欧文降薪" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/f28af367ec2b5fddeda73b376a9b29e1818e53bb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，自由球员德安德烈-乔丹和篮网达成4年4000万美元的口头协议。
+   </p>
+   <p>
+    Woj继续更新，为了让小乔丹得到年薪1000万美元的合同，凯文-杜兰特和凯里-欧文将会选择降薪。
+   </p>
+   <p>
+    今年7月，小乔丹将年满30岁，2018-19赛季，他在独行侠和尼克斯共出战69场比赛，场均能够得到11分13.1篮板1.1盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷晒杰拉德-格林、豪斯有趣组合名字：温室效应
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0QunxjBd2H/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 00:04:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷晒杰拉德-格林、豪斯有趣组合名字：温室效应" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/80149447e8da0b4025eb1402132a2c3ca79c949c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 今日，火箭总经理达瑞尔-莫雷在个人Instagram上晒出了火箭后卫杰拉德-格林与前锋丹纽尔-豪斯的合照（见新闻配图）。
+   </p>
+   <p>
+    并配文写道：“温室效应（Green House effect）。”
+   </p>
+   <p>
+    格林与豪斯均已与火箭正式完成续约。据此前报道，格林与火箭达成的是一份1年底薪续约协议；豪斯以3年1110万美元的合同与火箭完成续约。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出场20.2分钟，得到9.2分2.5篮板0.5助攻；豪斯场均出场25.1分钟，得到9.4分3.6篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

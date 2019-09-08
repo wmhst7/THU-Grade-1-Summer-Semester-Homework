@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙晒范弗利特和邦纳参加活动照片：玩得很开心
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0T86Jynfi7/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 15:03:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙晒范弗利特和邦纳参加活动照片：玩得很开心" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/f0a65a0104abeac39e8d8529a81dcf9a0c431378.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，猛龙官方Instagram发布一组弗雷德-范弗利特和马特-邦纳参加猛龙篮球学院（Raptors Basketball Academy）的照片（见新闻配图），并配文：“他们在TBA上玩的很开心。”
+   </p>
+   <p>
+    2018-19赛季常规赛范弗利特场均上场27.5分钟，得到11分2.6篮板4.8助攻；马特-邦纳曾先后效力于猛龙和马刺，生涯常规赛场均出场16.9分钟，得到5.8分3.0篮板0.7助攻。
+   </p>
+   <p>
+    猛龙篮球学院是一个面向7-17岁的年轻球员的夏令营，由猛龙的篮球发展部发起，邀请球员和教练作为嘉宾出场。参与者将参加关于基本技能、比赛技能和生活技能等的方面场上和场外训练模块。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d928zsvqj20u011etd7.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d928uxutj20u011en1k.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d9292qauj20u011en0m.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d9298pz7j20u011ite4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d92924lcj20u011ewji.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d929gd7xj20u011egpn.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d9295ldaj20u011egq9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d9296zupj20u011e77q.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

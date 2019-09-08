@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦基晒照确认回归湖人：湖人秀，重新开始！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzlSSkVHflA/?igshid=lcm90jtqqmcc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 03:29:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦基晒照确认回归湖人：湖人秀，重新开始！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/c594c8e2ad88e6b5eb254311af1f4e7c6d490a8b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 即将续约湖人的中锋贾维尔-麦基今日通过Instagram发布一张个人赛场照，表达自己归队的喜悦之情。
+   </p>
+   <p>
+    “湖人秀……重新开始！”麦基写道。
+   </p>
+   <p>
+    根据此前的报道，麦基与湖人达成了2年价值820万美元的续约协议。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫罗：火箭能成功的唯一方法是让威少打得分后卫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1150084636397199360" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 09:32:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫罗：火箭能成功的唯一方法是让威少打得分后卫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/dfb9853c9f14f7bed0453da629ec95956fa46ba4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 前雷霆球员安东尼-莫罗接受采访时谈到了拉塞尔-威斯布鲁克被交易到火箭的事情。
+   </p>
+   <p>
+    “我喜欢这笔交易，我认为他们能成功的唯一方法就是让哈登打控卫，让威斯布鲁克去打得分后卫，让威斯布鲁克去投篮得分，他们必须要分配角色，接受角色，他们两个都需要持球在手，但是哈登需要分出一些球权。”莫罗说道。
+   </p>
+   <p>
+    莫罗接着说：“有些球员在场上可以做到一切，他们运动能力十足，在场上有很强的存在感，这掩盖了其他人的表现，虽然其他人也可以做到这些，我认为威斯布鲁克不是要让步，他只是需要专注于做好一件事，他能分配球、抢篮板球和防守，他可以得分，他什么都可以做到，如果他有一个确定角色的话，在我看来，那就是得分，让哈登组织，让哈登在比赛最后关键时刻出手投篮，威斯布鲁克不需要拿到三双和10多个篮板才能赢球了。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

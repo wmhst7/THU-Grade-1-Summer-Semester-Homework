@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠新秀以赛亚-罗比今日更新社媒晒出球衣号码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzRBEOCpI5Z/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 17:21:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠新秀以赛亚-罗比今日更新社媒晒出球衣号码" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/b4fc65e00aab8a7328c0902f8be7811f87a1efe4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，独行侠新秀以赛亚-罗比更新了个人社交媒体Instagram，晒出自己未来的球衣号码（见新闻配图）。
+   </p>
+   <p>
+    罗比今年21岁，司职前锋，身高2.04米，体重97公斤。在2019年选秀中以第2轮第15顺位被活塞选中，随后被交易至独行侠。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190629/17/9e87c4b196bd70b20adb2e2b2c5c5e49.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,98 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：除了自己，我在2K中最喜欢使用的球员是詹姆斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nba2k/status/1170028955492990976?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 09:56:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：除了自己，我在2K中最喜欢使用的球员是詹姆斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/1e5ada54ea683a4d230bcb747ef15cc26bf81970.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 前NBA球员德维恩-韦德今日参加由NBA 2K20官推发起的在线问答活动，回答众多网友的提问。以下为问答内容节选（Q为提问，A为韦德的回答）：
+   </p>
+   <p>
+    Q：如果你可以和任意一名篮球运动员单挑，无论现役还是退役球员，你会选谁？
+   </p>
+   <p>
+    A：如果我可以和任意一名篮球运动员单挑，当然要选迈克尔-乔丹。
+   </p>
+   <p>
+    Q：哪支球队将会在新赛季夺冠？
+   </p>
+   <p>
+    A：完全不知道，不过我相信最终的冠军球队将出自洛杉矶。
+   </p>
+   <p>
+    Q：你会像乔丹那样复出吗？
+   </p>
+   <p>
+    A：我不清楚（笑），我觉得现在这些年轻人对我而言速度太快了，运动能力太好了。你永远不会把话说死，但我不觉得自己会选择复出。
+   </p>
+   <p>
+    Q：既然你已经退役，现在你最喜欢观看哪位年轻球员的比赛?
+   </p>
+   <p>
+    A：这个问题很难回答，因为我喜欢看许多年轻人的比赛。我就说几位吧：丹吉洛-拉塞尔、德文-布克、达龙-福克斯，这些都是我最喜欢观赏的年轻球员。
+   </p>
+   <p>
+    Q：既然你已经退役，现在你会利用空闲时间做什么？
+   </p>
+   <p>
+    A：信不信由你，我没什么空闲时间的。我有一个9个月大的女儿，她占据了我的时间。我有许多孩子。我有5个孩子，一位有工作的夫人，我也很忙，所以真的没多少空闲时间。不过如果我得到一些闲暇时光，我会前往高尔夫球场，打一会高尔夫。
+   </p>
+   <p>
+    Q：退役的感觉如何？
+   </p>
+   <p>
+    A：我还没有退役的感觉。我会在赛季期间回来与你们互动的。
+   </p>
+   <p>
+    Q：你在2K中最喜欢使用哪位球员？当然，你自己除外。
+   </p>
+   <p>
+    A：除了我自己，我在NBA 2K游戏中最喜欢的使用的球员是勒布朗-詹姆斯（笑）。现实比赛中他充满统治力，他在NBA 2K游戏里也是统治力十足。所以我就是喜欢用我的兄弟来玩游戏。
+   </p>
+   <p>
+    Q：谁是更好的2K选手，你还是扎伊尔-韦德（韦德大儿子）？
+   </p>
+   <p>
+    A：必须要说是我的儿子，因为我很忙，为了确保他玩得起游戏而奔波。所以我要忙于工作，时间不多，不过我会玩这款有我做封面的游戏，看看谁会赢。
+   </p>
+   <p>
+    Q：你最爱的生涯时刻？
+   </p>
+   <p>
+    A：我最爱的生涯时刻是在2003年被选中进入NBA的时刻。那一刻我意识到了不仅可以梦想成真，而且努力终有回报。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/5bb50e70d80118cd359c876c59e6db3f.JPG"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

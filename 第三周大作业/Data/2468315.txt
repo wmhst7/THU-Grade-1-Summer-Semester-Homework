@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥拉迪波训练师：奥拉迪波专注于恢复，制定了固定时间表
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1147198/2019/08/19/victor-oladipo-isnt-discussing-his-rehab-but-he-is-bullish-on-the-upcoming-season-i-think-it-could-be-special/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 10:49:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥拉迪波训练师：奥拉迪波专注于恢复，制定了固定时间表" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/3d4581f562d14d74e04f389245acd94dc728c0a7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 步行者后卫维克托-奥拉迪波的私人训练师Jay Henderson在近日接受采访时谈到了奥拉迪波的恢复情况。
+   </p>
+   <p>
+    奥拉迪波在2019年1月24日步行者对阵猛龙的比赛中右膝严重受伤，并于1月29日成功接受了右膝盖撕裂的四头肌腱修复手术，目前正在恢复当中。
+   </p>
+   <p>
+    “他制定了固定的时间表，从来都不会错过，”Jay Henderson说道，“即便是必须要外出，他仍然会将训练排在其余所有事情之前，他对于努力恢复的专注度令人难以置信。”
+   </p>
+   <p>
+    在恢复的过程中，奥拉迪波花费了大量的时间来完善自己的投篮技术，试图拥有更流畅、更迅速的出手。
+   </p>
+   <p>
+    谈到自己的恢复情况，奥拉迪波说：“我越来越接近了，我正在努力，但你不能操之过急，这是一个循序渐进的过程，毕竟罗马不是一天建成的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

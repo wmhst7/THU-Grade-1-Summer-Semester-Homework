@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  效果上佳！乐福晒出录制《The Shop》节目剧照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1MwIxzgnAc/?igshid=1deak9v0atszh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 07:50:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="效果上佳！乐福晒出录制《The Shop》节目剧照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/b7b5861e8d5823bb3ac4adb81d68970076ee09f1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 骑士球员凯文-乐福今日通过Instagram晒出两张他参与录制HBO电视台出品的《The Shop》脱口秀节目剧照。
+   </p>
+   <p>
+    “必须拿出珍藏多年的HBO Sports短袖参加《The Shop》的节目录制。第二张照片是要装裱起来的。”乐福写道。
+   </p>
+   <p>
+    参与本期节目录制的嘉宾还包括开拓者后卫CJ-麦科勒姆以及影视明星凯文-哈特。最新一期《The Shop》节目将于当地时间9月3日在HBO首播。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/07/a4f93c31f596a616c04d5dd99fd28511.jpeg"/>
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2465849.html">
+     乐福和麦科勒姆参与录制最新《The Shop》节目
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

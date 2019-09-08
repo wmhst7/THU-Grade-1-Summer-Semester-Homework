@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特：为国效力的意义高于自身，要学会成为一支队伍
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/kemba-walker-team-usa-lot-us-are-happy-those-guys-pulled-out?cid=Yahoo&amp;partner=ya4nbcs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 13:08:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特：为国效力的意义高于自身，要学会成为一支队伍" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/908f081d0d52b303ed81d5cd8b4e86b7c0cbce66.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 美国男篮近日在拉斯维加斯举行了训练营，凯尔特人球员马库斯-斯马特接受了采访。
+   </p>
+   <p>
+    尽管这支美国队缺乏顶级球星，但也为很多更有吸引力的年轻球员提供了机会。对此，马库斯-斯马特说：“球队中有很多人，以前大概都没人谈论他们，了解他们。我们得以亮相……美国队对于我来说是非常重要的。”
+   </p>
+   <p>
+    “我们正在为一些高于我们自身的东西打球。我们将对阵其他国家的球队，那些球队里的球员在一起打了好几年时间，他们已经建立起了那种兄弟情。而我们球队里的人大概从来没有一起打过球，我们要学会表现得像一支队伍并成为一支队伍，这并非易事。但是我们知道我们能够做到。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯马特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

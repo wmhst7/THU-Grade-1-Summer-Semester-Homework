@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  全副武装！西蒙斯晒出自己参加真人CS的一组照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1-SgIBn_v-/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 14:29:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="全副武装！西蒙斯晒出自己参加真人CS的一组照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/6f167412eb0894a1ade29c1140d9e2924f778450.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    今日，76人前锋本-西蒙斯更新了个人社交媒体Instagram并发布了一组自己参加真人CS时的照片。（见新闻配图）
+   </p>
+   <p>
+    “（枪）”“（酷）”西蒙斯配上了两个表情。
+   </p>
+   <p>
+    值得一提的是，西蒙斯热衷电脑游戏《绝地求生》，根据此前的报道，西蒙斯曾在自己的推特上发问：“谁是澳大利亚与新西兰最好的PUBG（绝地求生）选手？”
+   </p>
+   <p>
+    2018-19赛季常规赛，西蒙斯场均出场34.2分钟，可以得到16.9分8.8篮板7.7助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/ef78b96d9a105e6b67e0e930c56ce57b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/8017bcc008029b570584006875d094ec.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/eb38de7352697653488fda8c6240263c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/03fc163012376f20d987eb4feadf03d5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/19444ce418246edd306355871c1327eb.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/bddd449a6fcdc5d4f86fde89f9ba541d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

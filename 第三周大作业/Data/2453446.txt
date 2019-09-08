@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦克米兰：奥拉迪波现在看起来很棒，我们非常期待新赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1149847158763343873" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 14:37:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦克米兰：奥拉迪波现在看起来很棒，我们非常期待新赛季" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/65070091307b3c3b62b99b4f860b1c752d16e9e7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 步行者主教练内特-麦克米兰在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    球队后卫维克托-奥拉迪波在今年一月份遭遇了右膝盖四头肌腱伤病，赛季报销。谈到奥拉迪波的恢复状况，麦克米兰说：“他看起来真的很棒，他本周已经进行了三次训练，今天又进行了训练，他正在非常努力地尽快找回昔日的状态。我不会说他的恢复情况比预期更快，但我依旧对于他现在取得的进展感到兴奋，无论是在场上还是在场下，我们非常期待他的归来。”
+   </p>
+   <p>
+    谈到联盟形势的变化，麦克米兰说：“你知道的，联盟中的每支球队都信心满满，我们深知这一点。我认为我们在自由球员市场的操作非常出色，在选秀大会上的表现也很棒，我们很期待新赛季的开始。但我想说的是，联盟中其余29支球队也会有同样的想法，所以你需要让自己的球队脱颖而出，我相信我们的球队文化能够帮助我们做到这一点。我们相信球队建立的东西，团结一致，用正确的方式打球，建立良好的化学反应，球队内部建立深厚的友谊，这会给我们赢球的机会。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

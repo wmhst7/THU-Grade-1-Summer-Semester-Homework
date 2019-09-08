@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：去商店买我新球衣的人，我会送他主场球票
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JaredDudley619/status/1158855238012420097" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 10:50:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：去商店买我新球衣的人，我会送他主场球票" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/c34fcf05b399cd8a670e71c78b2afba3d2ea45ee.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 湖人球员贾里德-杜德利今天更新了个人推特。他这样写道：“我想做些球衣馈赠活动，你们有谁去球队商店去买我的新湖人球衣，我就会送他一张下赛季我们的主场球票。”
+   </p>
+   <p>
+    随后，就有网友打趣道：“当你去店里购买的时候，最好那里有你的球衣卖。”
+   </p>
+   <p>
+    杜德利回道：“我会让商店卖出100件，先到先得。”
+   </p>
+   <p>
+    还有网友说道：“我觉得球衣比球票更便宜，这是明抢啊！”
+   </p>
+   <p>
+    杜德利：“便宜多了！”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

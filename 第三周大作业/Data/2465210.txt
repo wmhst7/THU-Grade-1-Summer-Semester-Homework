@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  本届新秀谈NBA最初印象，乔丹科比詹姆斯韦德等被提及
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/usatodaysports/status/1161450112737898496" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 10:23:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="本届新秀谈NBA最初印象，乔丹科比詹姆斯韦德等被提及" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/39cd1717ec2addb22e524c81b1299c7a21a56b58.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 2019届NBA新秀在参加新秀定妆照拍摄活动期间接受了媒体采访，他们谈到了自己对于NBA的最初印象。
+   </p>
+   <p>
+    来自尼克斯的探花秀RJ-巴雷特说：“对于NBA的最初印象，我记得当时我看了很多科比（布莱恩特）和勒布朗（詹姆斯）的比赛，他们就是会在场上打出表现。特别是巅峰勒布朗，他那些疯狂的扣篮，这就是我所记住的。”
+   </p>
+   <p>
+    来自鹈鹕的状元秀蔡恩-威廉森说：“我会说是妈妈给我看的迈克尔-乔丹的集锦，他从左路突破到篮下，以各种不可思议的角度终结进攻。”
+   </p>
+   <p>
+    来自老鹰的四号秀德安德烈-亨特说：“我对于NBA的最初回忆就是看到底特律活塞队夺冠。”
+   </p>
+   <p>
+    来自尼克斯的次轮17号秀伊格纳斯-布拉兹代基斯说：“我的最初印象或许是德维恩-韦德带领热火赢得2006年总冠军，那是我看NBA的第一个赛季，之后我就深深爱上了它。”
+   </p>
+   <p>
+    来自公牛的七号秀科比-怀特说：“凯尔特人三巨头对阵湖人。”
+   </p>
+   <p>
+    来自热火的次轮二号秀KZ-奥克帕拉说：“科比对阵菲尼克斯太阳队的系列赛。”
+   </p>
+   <p>
+    来自森林狼的六号秀贾勒特-卡尔弗说：“我对于NBA的最初印象是身穿8号球衣的科比-布莱恩特，看到8号科比为湖人做到的事情，这让我爱上了这项运动。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

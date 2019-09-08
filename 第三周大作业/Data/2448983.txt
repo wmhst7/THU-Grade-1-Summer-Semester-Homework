@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊格达拉飞机落地更新推特，网友评论：你要被交易了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/andre/status/1145536738183528449" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:54:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊格达拉飞机落地更新推特，网友评论：你要被交易了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/cf7ff0c9825b61a7e1a5652d4771f411daedd265.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 今日，勇士球员安德烈-伊格达拉在飞机落地后更新推特。
+   </p>
+   <p>
+    “真是一次有趣的飞行，我拼出了一幅很棒的拼图，从周二就开始拼了，真好赶上了时间。”
+   </p>
+   <p>
+    下面有网友评论道：“兄弟，你要被交易了。”“感谢你的付出。”“不要这样对我。”
+   </p>
+   <p>
+    此前，据NBA记者Adrian Wojnarowski报道，勇士将安德烈-伊格达拉交易至灰熊。
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

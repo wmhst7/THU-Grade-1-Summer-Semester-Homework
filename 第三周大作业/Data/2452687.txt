@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官推晒丹尼-格林观战夏季联赛照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Lakers/status/1149154208190365697" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 11:42:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官推晒丹尼-格林观战夏季联赛照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/666bbab3ad9adccc71a57561845acb7c39f0e347.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日，湖人官方推特发布丹尼-格林到场观战夏季联赛的照片。
+   </p>
+   <p>
+    湖人官推配文：“[紫色爱心]&amp;[黄色爱心]&amp;[绿色爱心]”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/11/4d137dbab4c4d3ea574776d17c193b70.png"/>
+   </p>
+   <p>
+    丹尼-格林2018-19赛季常规赛代表猛龙场均上场27.7分钟，得到10.3分4.0篮板1.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

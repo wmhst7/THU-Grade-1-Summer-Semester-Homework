@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠官宣签回巴里亚，预计将参加完整训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1163516212975849472" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 02:30:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠官宣签回巴里亚，预计将参加完整训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/5da3beb50e31382f92c02ce506aa792c8e841a0d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 跟据此前的报道，
+    <a href="http://lite.hupu.com/s?u=nba/news/2449254&amp;type=1">
+     何塞-巴里亚与独行侠达成一份老将底薪协议
+    </a>
+    。
+   </p>
+   <p>
+    根据记者Tim MacMahon的补充报道，巴里亚预计将参加完整的球队新赛季前的训练营。
+   </p>
+   <p>
+    随后，独行侠官方推特宣布了这一签约：“官方声明：我们重新签下了@何塞-巴里亚！欢迎回来！（波多黎各国旗emoji）（举双手庆祝emoji）”
+   </p>
+   <p>
+    2018-19赛季常规赛，巴里亚共出战了38场比赛，场均上场19.8分钟得到10.9分2.5个篮板5.6次助攻。巴里亚在北京时间1月12日独行侠对阵森林狼的比赛中受伤，赛后经核磁共振检查为右跟腱撕裂。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/03/a58944ae2446b87128b5eb5ae0c77ea8.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

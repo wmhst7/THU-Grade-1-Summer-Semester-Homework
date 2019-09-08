@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师：詹姆斯AD格林布拉德利库兹马的阵容几乎无敌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/magicjohnson/status/1148328555610136576?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 08:24:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师：詹姆斯AD格林布拉德利库兹马的阵容几乎无敌" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/556411042de08f916170d393374cbce7d246ef0f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 魔术师约翰逊今天发推点评湖人即将引入埃弗里-布拉德利一事。
+   </p>
+   <p>
+    “埃弗里-布拉德利是湖人的一笔绝佳引援，因为他有不可思议的防守能力，还能投进三分球！”魔术师写道。
+   </p>
+   <p>
+    “湖人国度，我在梦想着湖人在第四节会排出勒布朗（詹姆斯）、AD（安东尼-戴维斯）、丹尼-格林、埃弗里-布拉德利以及凯尔-库兹马的阵容。那几乎是不可战胜的！”魔术师写道。
+   </p>
+   <p>
+    奇才后卫以赛亚-托马斯则回复表达异议：“魔术师我知道你对新援十分兴奋，但那套阵容肯定不是无敌的。他们非常出色，但并不是不可战胜的。”
+   </p>
+   <p>
+    根据其经纪人透露，埃弗里-布拉德利计划在度过澄清期后与湖人签下一份2年970万美元的合同，其中第二年为球员选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

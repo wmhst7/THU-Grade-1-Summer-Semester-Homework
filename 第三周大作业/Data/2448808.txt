@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  即使凯尔特人清理出薪资空间，霍弗德也不会回到球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SteveBHoop/status/1145442946797506565" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 05:40:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="即使凯尔特人清理出薪资空间，霍弗德也不会回到球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/a2d3a02b2ae2f212cf9f2a7de809eabe4c7d14ed.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据凯尔特人随队记者Steve Bulpett报道，据接近自由球员艾尔-霍弗德的消息人士透露，即使凯尔特人清理出薪金空间，霍弗德也不会回归凯尔特人。
+   </p>
+   <p>
+    根据此前的报道，霍弗德跳出合同，成为完全自由球员。多支球队和多位经纪人都相信，有一份4年价值1.12亿美元的合同在等待着霍弗德。
+   </p>
+   <p>
+    根据此前报道，国王对霍弗德很感兴趣，并打算提供一份巨额报价，但一位消息人士透露，国王感觉霍弗德可能会去别处，76人也对霍弗德非常感兴趣。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯：都会经历起伏，但人们对欧文的关注度太高
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/summer/2019/07/09/brooklyn-building-block-joe-harris-gets-a-kyrie-irving-reunion" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:26:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯：都会经历起伏，但人们对欧文的关注度太高" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/ee0c64aa817cbabf2bb381b514cb2c7357c8a844.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 此前，据The Athletic记者Shams Charania报道，消息人士透露，欧文将以4年1.42亿美元的合同签约篮网，其中第四年为球员选项。篮网球员乔-哈里斯与欧文是旧相识，近日他在接受采访时谈到了自己与老队友的重逢。
+   </p>
+   <p>
+    哈里斯说到：“你会在赛季中听到很多流言。但关于凯文-杜兰特，我觉得没有谁会持特别肯定的态度，直到事情发生的那天。我觉得我们比较确定的是凯里-欧文对篮网有兴趣。”
+   </p>
+   <p>
+    哈里斯跟欧文有着不错的关系，刚进入联盟时他就与欧文在骑士并肩作战。谈到欧文，哈里斯说到：“你可以去问那些曾和他做并肩作战的球员，他们肯定都会说他是一个很棒的队友，是一个很好相处的人。没有人是完美的，一个赛季里我们总是会经历起起伏伏。对于他来说，很不幸，他处在一个万人瞩目的位置，人们对他发挥失常时的关注太大了。这是他和别人不一样的地方，比如我，也有发挥失常的时候，但没人关心。人们只关心欧文的状态。”
+   </p>
+   <p>
+    同时欧文的场上表现也给哈里斯留下了很深的印象，哈里斯说到：“我看了他对阵马刺砍下57分的比赛，这是我亲眼见证过的最精彩的个人表演。他是那种你有机会一定要看的球员。我们都清楚他的天赋，但与他共事的一年半里我每天都见证着他的训练，见证他的场上表现，他真的天赋异禀，他是联盟前十的天赋。”
+   </p>
+   <p>
+    哈里斯在2014年次轮第3顺位被骑士选中，上赛季哈里斯场均出战30.2分钟，能得到13.7分3.8篮板2.4助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断0.51盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

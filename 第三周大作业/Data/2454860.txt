@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雄鹿签约萨纳西斯-阿德托昆博
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bucks/news/bucks-sign-thanasis-antetokounmpo" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 09:44:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雄鹿签约萨纳西斯-阿德托昆博" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/9bdd2171ebac42d38cac118d2e4ce857ffe6dced.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 雄鹿官方今日宣布，他们已经签下了自由球员前锋萨纳西斯-阿德托昆博，后者是雄鹿前锋扬尼斯-阿德托昆博的哥哥。
+   </p>
+   <p>
+    根据之前的报道，萨纳西斯-阿德托昆博将与雄鹿签下2年300万美元的全额保障合同，其中第一年的合同为145万美元。
+   </p>
+   <p>
+    “萨纳西斯是一名很有海外顶级联赛征战经验的年轻球员，他带来了强硬、运动能力、好性格和高智商，能让他加盟雄鹿，我们非常激动。”雄鹿总经理琼-霍斯特说道。
+   </p>
+   <p>
+    萨纳西斯-阿德托昆博于2014年次轮第21顺位被尼克斯选中。萨纳西斯此前曾在希腊联赛中连续两年（2019年希腊联赛全明星赛上，萨纳西斯19投18中得到39分6篮板5助攻）获得全明星MVP，2018-19赛季，萨纳西斯在帕纳辛纳科斯场均出战12.9分钟，可以拿到4.9分2.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

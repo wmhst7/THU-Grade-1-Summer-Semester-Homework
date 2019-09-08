@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯回顾自己05年隔扣达蒙-琼斯：他到底在想什么？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1153406561462571008?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 10:02:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯回顾自己05年隔扣达蒙-琼斯：他到底在想什么？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/67d86459327b05052715753569fffc941339ede8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 湖人前锋勒布朗-詹姆斯今日通过推特转发了自己2005年代表骑士在对阵热火的比赛中快攻隔扣热火球员达蒙-琼斯的视频。
+   </p>
+   <p>
+    “我的天！那家伙到底在想什么？他没在思考，这才是问题所在。”詹姆斯转发并评论道。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4397126635055763">
+     视频：05年骑士詹姆斯残暴隔扣达蒙-琼斯（32秒）
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/10/4c431917294e48d281db12d413cecfc7.jpeg"/>
+   </p>
+   <p>
+    达蒙-琼斯于2004-05赛季效力于热火，随后加入骑士与詹姆斯在成为队友并效力三个赛季。结束球员生涯后，琼斯转型成为教练，并于2016年作为骑士的助理教练与詹姆斯携手夺冠。琼斯于上赛季初期与泰伦-卢一同被骑士解雇，但他早已与詹姆斯成为好友并保持联系。
+   </p>
+   <p>
+    在此前的一次节目采访中，琼斯回顾这一回合时表示由于自己在前场传球失误被詹姆斯抢断发动快攻，他为了弥补错误必须积极回防遭受隔扣，并且声称裁判太专注于詹姆斯的扣篮，漏判了詹姆斯用手肘打到他的面部的进攻犯规（实际吹罚了琼斯防守犯规并让詹姆斯得到加罚机会）。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190723/09/64af9277ca5ba105704b4fd2ec004d76.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190723/09/d1bec4cf597070dea00ec659f76632d0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190723/09/2a1222daa880dcab6acba9055f1bb8f3.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190723/09/6e150019507da41e66450c54f6119062.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

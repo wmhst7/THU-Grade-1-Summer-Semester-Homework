@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达龙-福克斯NBA2K20能力值公布：86
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA2K/status/1153921194137047040" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 15:03:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达龙-福克斯NBA2K20能力值公布：86" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/1d72b9531b52fe9d67107a52b883cf904ce04127.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 NBA2K20官方今天公布了萨克拉门托国王队后卫达龙-福克斯的游戏初始能力值：86。
+   </p>
+   <p>
+    “就是这样（一个狐狸的表情）@萨克拉门托国王队#2K能力值。”NBA2K20官方写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，福克斯场均出场31.4分钟，得到17.3分3.8篮板7.3助攻1.64抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

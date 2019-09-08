@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  儒雅帅哥！考辛斯Ins晒照庆祝个人29岁生日
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1IHaX4J08V/?igshid=zgkxut8h4qrh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 10:18:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="儒雅帅哥！考辛斯Ins晒照庆祝个人29岁生日" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/01954179b59f1fa499fbc6b870553ea58f51f6c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 湖人球员德马库斯-考辛斯今日在Instagram上发布一张个人照，庆祝自己度过29岁生日。
+   </p>
+   <p>
+    “一路走来...29岁。”考辛斯写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯出场30场比赛，场均出战25.7分钟，能得到16.3分8.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

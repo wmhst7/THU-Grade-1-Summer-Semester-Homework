@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：之前没有想到哈登会变得如此出色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rockets_insider/status/1162108073399463946?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 09:29:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：之前没有想到哈登会变得如此出色" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/0f573f6b81c62dbb109173c1548863bad50a9674.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 火箭总经理达雷尔-莫雷作客节目时谈到了詹姆斯-哈登。
+   </p>
+   <p>
+    之前人们没有想到哈登能达到现在这么出色？莫雷说：“正确，事实上，我认为没人能想到，为了交易得到他，我们送出了我们所有的资产，但是之前没人能预测到他会成为世界上最好的球员。”
+   </p>
+   <p>
+    莫雷为何用所有的资产去交易得到哈登而不是其他球员？莫雷说：“肉眼可见的那些东西，任何看过他打球的人都能看出来，他很棒，如果你看看数据的话，那时候的数据，当他持球在手的时候，就算是到了当下，我仍然会听到很多sh**，会有人问我，谁是最好的得分手，乔丹还是哈登？根据事实来说，哈登是一位比乔丹更好的得分手。”
+   </p>
+   <p>
+    根据什么事实？莫雷说：“基于，如果你把球给他，在你传球给他之前，你得到了多少分，然后得到了多少分，这应该是衡量进攻的方法，到目前为止，哈登在这方面排在NBA历史上的第一位，即使是他还在雷霆的时候，他也是第一，只是他当时打替补，这一点被掩盖了，能把这一点识别出来，这需要好的数据，所以我们当时知道他有这样成为一名出色得分手的技术。”
+   </p>
+   <p>
+    莫雷接着说：“有不同的看法是合理的，人们说如果你把乔丹放到当今的一支球队里，他会做得比哈登更多，这是有可能的，但是如果你说在NBA历史上，如果你把球给一个球员，在对手拿到球之前，他的球队会拿到多少分，如果这么算，就是哈登（最多），我知道这么说会让人们感到生气，但是这真的就是一个事实。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

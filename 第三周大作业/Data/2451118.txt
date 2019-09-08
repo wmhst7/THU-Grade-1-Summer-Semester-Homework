@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：马刺完成三方交易，得到德马雷-卡罗尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/spurs/news/spurs-acquire-demarre-carroll" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 11:43:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：马刺完成三方交易，得到德马雷-卡罗尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/3a93fb1db22af7ff324da148563b44cc76be283a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 马刺官方今日正式宣布，他们已经完成三方交易，从篮网得到前锋德马雷-卡罗尔。在三方交易中，马刺将戴维斯-贝尔坦斯送到奇才，并且将内马尼亚-丹古比奇的签约权送到篮网，奇才将阿龙-怀特的签约权送到篮网。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2451042.html">
+     根据NBA记者Adrain Wojnarowski报道，多位消息人士透露，马刺与德马雷-卡罗尔的经纪人进行了重新谈判，合同将修改为3年2100万美元。
+    </a>
+   </p>
+   <p>
+    2018-19赛季常规赛，卡罗尔场均上场25.4分钟，得到11.1分5.2篮板1.3助攻，季后赛场均上场23.8分钟，得到6.6分4.0篮板。新赛季，卡罗尔将身披77号球衣。
+   </p>
+   <p>
+    卡罗尔已在NBA征战了10年，职业生涯场均出战24.2分钟，能够得到9.1分4.3篮板1.3助攻，投篮命中率为43%，三分命中率为36%，共出战了554场比赛。过去6个赛季中有5个赛季打进了季后赛，共出战了62场季后赛，场均能够得到9.1分4.4篮板1.1助攻，场均上场时间为28.2分钟。
+   </p>
+   <p>
+    在篮网之前，卡罗尔在猛龙效力过两个赛季（2015-2017），在老鹰效力过两个赛季（2013-15）。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2451041.html">
+     Woj：马刺将戴维斯-贝尔坦斯交易至奇才
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

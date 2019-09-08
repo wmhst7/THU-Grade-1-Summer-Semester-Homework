@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士老板：伊格达拉对球队成功至关重要，会退役他的球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WarriorsPR/status/1147918374749401089" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 01:37:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士老板：伊格达拉对球队成功至关重要，会退役他的球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/6e40382f932be37cc105627353a7f6cf66c18f15.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 根据勇士官方的报道，勇士正式完成安德烈-伊格达拉的交易，送出伊格达拉、200万现金和一个受保护的2024年的首轮选秀权交易得到双向合同球员朱利安-沃什伯恩。勇士由于通过先签后换得到了丹吉洛-拉塞尔，下赛季他们将被应用硬工资帽，任何情况下薪资都不能超过1.389亿，交易走伊格达拉能够让他们降低薪资总额。
+   </p>
+   <p>
+    在正式完成交易后，勇士老板乔-拉科布发表声明：“2013年的夏天，我们历经周折，在自由市场签下安德烈-伊格达拉。在那时，我们将他看作是这支年轻的冉冉升起的球队里的总冠军基因。回顾过去六年，我们仍感觉低估了他对于我们球队的作用，不管是场上还是更衣室里。安德烈为球队能够变得更好，牺牲了自己，在他的旅程中，最棒的故事莫过于他在2015年赢得总决赛MVP殊荣。毫无疑问，他是球队在过去五年连续进入总决赛并三夺总冠军的关键因素。我们感谢安德烈对勇士队的付出，并希望在未来能见证他的球衣在大通中心升起。”
+   </p>
+   <p>
+    伊格达拉在2013年夏天加盟勇士，在效力勇士的6个赛季里，伊格达拉帮助球队从2015年至2019年连续五年打入总决赛，并在2015年、2017年和2018年夺得总冠军，他本人也荣膺2015年总决赛最有价值球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

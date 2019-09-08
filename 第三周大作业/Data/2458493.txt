@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  谁是纽约最好的球队？特里尔：交手的时候就会有答案
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/26/allonzo-trier-shows-love-for-james-dolan-new-york-knicks/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 08:09:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="谁是纽约最好的球队？特里尔：交手的时候就会有答案" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/eb01e31cac016d9e6cee8cbaf8ed4c4395c7d98f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 根据TMZ体育的报道，尼克斯球员阿朗佐-特里尔接受采访时谈到了多个方面。
+   </p>
+   <p>
+    尼克斯能战胜篮网么？特里尔说：“我们看看吧，我认为我们有一群不错的球员。”
+   </p>
+   <p>
+    现在谁是纽约最好的球队？特里尔说：“当我们交手的时候，我们会知道的。”
+   </p>
+   <p>
+    谈到球队没有超级球星，特里尔说：“我喜欢我们拥有的球员。”
+   </p>
+   <p>
+    谈到尼克斯老板詹姆斯-多兰，特里尔说：“我爱詹姆斯-多兰。”
+   </p>
+   <p>
+    RJ-巴雷特能击败蔡恩-威廉森当选最佳新秀么？特里尔说：“为什么不能呢？我认为可以。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

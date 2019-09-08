@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戈贝尔：我渴望为国出战，就算受伤风险增加也不会后悔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nytimes.com/email-content/MSB_15924.html" target="_blank">
+     纽约时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 12:38:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戈贝尔：我渴望为国出战，就算受伤风险增加也不会后悔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/bdb2d6000746c49b5f6b9ad000de76da1b2c582b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据纽约时报记者Marc Stein的报道，爵士球员、来自法国的鲁迪-戈贝尔在采访中谈到了本届篮球世界杯的相关话题。
+   </p>
+   <p>
+    “你也得尊重那些退出国家队的人的选择，”戈贝尔说，“很多与我差不多年纪的球员都把篮球当做一项生意，他们会怀疑在新赛季即将开始的时候花六周时间在一个国际比赛里奋战是值得的。”
+   </p>
+   <p>
+    “但我不这么想，我是去那里代表我的国家，度过一段跟在NBA打球不同的时光。但每个人都有自己不同的想法，所以你必须尊重每个人的选择。”
+   </p>
+   <p>
+    “我对我的国家非常自豪。通过打这类比赛我可以拥有的情感——我不会说它比金钱更有价值，因为显然每个人都需要钱。但我认为那些记忆、我们可以因此建立的东西和我拥有的自豪感真的比钱更重要。就算我们都知道因此我增加了一些受伤的风险，但我觉得我不会后悔。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

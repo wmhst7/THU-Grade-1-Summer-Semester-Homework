@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦克勒摩：我已经等不及在火箭球迷们面前打球了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/clutchfans/status/1153845941792903168" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 18:27:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦克勒摩：我已经等不及在火箭球迷们面前打球了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/c3bf00dbea19ecba490f76b238328ee9caeafcd2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 火箭总经理达雷尔-莫雷今日宣布，他们已经签下了自由球员本-麦克勒摩，后者将身穿16号球衣。
+   </p>
+   <p>
+    “签约火箭让我感到谦虚和激动，这让我充满干劲，我感激莫雷和火箭所有人给我这个机会，我会做一切来确保他们回首今日时会感觉不错，我已经准备好来到球队竞争，我感觉我找到了一个非常合适的体系，我已经等不及与球队一起工作了，为他们提供他们需要的东西，休城球迷，我已经等不及在你们面前打球了，让我们把这变成一段难忘的征程！！！”麦克勒摩在社交媒体上写道。
+   </p>
+   <p>
+    NBA职业生涯至今，麦克勒摩为国王和灰熊效力过，出战过368场常规赛，场均出战23.7分钟可以拿到8.8分2.5篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

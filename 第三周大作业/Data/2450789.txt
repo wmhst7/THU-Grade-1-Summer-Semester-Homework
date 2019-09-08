@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  因地震问题，魔术与马刺的赌城夏联比赛第四节将取消
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA/status/1147360573916700673" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 12:30:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="因地震问题，魔术与马刺的赌城夏联比赛第四节将取消" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/35fddc87ef3b2bf755c8b5c552590099f14bd08f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 今日NBA官方宣布，因地震问题，魔术与马刺的拉斯维加斯夏季联赛比赛第四节将取消，比赛也因此提前结束。
+   </p>
+   <p>
+    目前魔术与马刺的比赛已经结束了三节的比赛，魔术以75-59领先。
+   </p>
+   <p>
+    根据此前美国地震勘测局的数据显示，此次地震的强度为7.1级，发生在加州。
+   </p>
+   <p>
+    因地震问题，鹈鹕与尼克斯以及掘金与太阳的比赛已经宣布暂停并延期进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

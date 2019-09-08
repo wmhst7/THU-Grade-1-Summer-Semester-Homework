@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲁迪-盖伊：我可以成为任何一支球队的重要拼图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spursfan_2/status/1144013106068295680?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1144013106068295680&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Fspurs-news-rudy-gay-says-he-" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 11:21:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲁迪-盖伊：我可以成为任何一支球队的重要拼图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/a44aa8d214cab0208a419e1a4fb13e9633295e32.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 前锋鲁迪-盖伊在近日接受电话采访时谈到了自己的身体情况和未来去向。
+   </p>
+   <p>
+    2017年1月，盖伊曾遭遇左跟腱撕裂，之后又饱受右脚跟黏液囊炎的困扰，盖伊表示自己已经找回了自我。
+   </p>
+   <p>
+    “我认为我依旧是一名重要的拼图型球员，我可以成为任何一支球队的拼图。显而易见，有很多人担心我受伤之后的水准，但我的表现和我付出的努力证明了一切皆有可能。”盖伊说道。
+   </p>
+   <p>
+    “最近有些球员也遭遇了类似的伤病，我有机会和他们进行了对话，我告诉他们，‘你可以继续做你自己。’显而易见，我花费了一些时间重新找到了比赛感觉，在圣安东尼奥，他们也帮助我做我自己。我现在感觉找到了自我。”盖伊补充道。
+   </p>
+   <p>
+    当被问及今年夏天的去向，盖伊笑着说：“兄弟，不要给我惹麻烦。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

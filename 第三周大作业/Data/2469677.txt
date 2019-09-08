@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王晒巴恩斯赛场照：目标就是金牌，向上海进发！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SacramentoKings/status/1166168456355602432" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 14:22:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王晒巴恩斯赛场照：目标就是金牌，向上海进发！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/fa7d7ca8becd29fd4fa59fceee5fb2eb2f5b0414.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日国王在官方推特上晒出了前锋哈里森-巴恩斯在美国与加拿大热身赛中的赛场瞬间（见新闻配图）。
+   </p>
+   <p>
+    “目标就是金牌，向上海进发！”配文写道。
+   </p>
+   <p>
+    世界杯开战在即，这届缺少星味的美国国家队男篮在最近几场热身赛中并没有展现出绝对统治力，外界对于这届美国男篮能否延续美国男篮的神话持保留态度。在昨天美国与加拿大的热身赛中，巴恩斯首发出场22分钟，6投3中得到9分3篮板2助攻。
+   </p>
+   <p>
+    今年夏天，巴恩斯以4年8800万美元与国王完成续约，2018-19赛季常规赛，巴恩斯场均出场32.9分钟，得到16.4分4.7篮板1.5助攻0.65抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：四肢不发达的萌萌)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗-皮尔斯转发有趣视频调侃JR-史密斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzOpgDPBJhP/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 14:14:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗-皮尔斯转发有趣视频调侃JR-史密斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/75d7b51adc46731efd7800f8b0f51bfc791863a8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日，前NBA球员保罗-皮尔斯更新了个人Instagram，上传了一段美国媒体The Score剪辑的有趣视频。
+   </p>
+   <p>
+    视频画面显示：骑士球员JR-史密斯唱歌给湖人球员勒布朗-詹姆斯，歌词为：你好，你正在寻找的就是我，我可以从你的眼睛中看出。
+   </p>
+   <p>
+    <img alt="GIF 1.7M" src="https://c1.hoopchina.com.cn/uploads/images/20190628/14/ddee2aa1b293679ceb461d19a40c5614.gif"/>
+   </p>
+   <p>
+    皮尔斯也配文说道：“某人需要给这个视频一个了结（笑哭的表情）。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

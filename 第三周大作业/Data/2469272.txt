@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登：场上做最好的自己，场下也要成为社区里的传奇
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BenDuBose/status/1165355623745314817?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1165355623745314817&amp;ref_url=https%3A%2F%2Frocketswire.usatoday.com%2F2019%2F08%2F24%2Fjame" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 08:04:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登：场上做最好的自己，场下也要成为社区里的传奇" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/11d91ee02ae8ca382ea73e34ba170f2e5a374f11.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 火箭的詹姆斯-哈登在自己的“詹姆斯-哈登休城周末”活动上表示，他将捐出24万美元来翻新休斯顿的篮球场。
+   </p>
+   <p>
+    “首先，感激大家能到场，大赞特纳市长（休斯顿市长），泰德-布朗（火箭CEO），还有火箭，感激所有人的努力，让这个活动能够举办起来。”哈登说道。
+   </p>
+   <p>
+    哈登接着说：“每一天我醒来，我都想着让自己成为一个传奇，在场上成为自己能够成为的最好的球员，另外一方面，我也想着如何才能影响这个世界，很明显的是，我在一点一点前进，最终，我也想成为场下的一个传奇，一个社区里的传奇。”
+   </p>
+   <p>
+    “我小时候成长于洛杉矶，就在公园里打球，我们需要更多的球场，这就是我有这个想法的主要原因。”哈登说道。
+   </p>
+   <p>
+    哈登最后说：“球场只是一个开始，这已经是我第三届的休城周末活动了，我的最终目标是改变休斯顿，让这里变得更好，哈维飓风之前影响到了这里，这是我想带来一些积极能量的原因，一点一点的，我们会完成目标。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

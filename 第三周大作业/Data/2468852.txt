@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥科吉：每天都努力训练，尼日利亚是股不可忽视的力量
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/YzzzY8/status/1165333693495427073" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 02:44:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥科吉：每天都努力训练，尼日利亚是股不可忽视的力量" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/8ffdd8c5f1a359766b0bee9c63ac856c2dc6d03b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 近日，效力于森林狼的尼日利亚球员约什-奥科吉接受了媒体采访，谈及为国家队效力的感受。
+   </p>
+   <p>
+    "对我而言，做出为国家队出征世界杯的决定并不困难，我想要为我的国家做一些贡献。我和我的队友们都想努力取胜。”奥科吉说道。
+   </p>
+   <p>
+    “首先，能够获得现在的机会是上帝的恩赐，我要感谢他。我们进入到了最后的正赛，这是不错的机会，努力打好这届世界杯是我们的主要目标。”奥科吉补充道。
+   </p>
+   <p>
+    谈及尼日利亚国家队会在8月27日结束热身赛后正式宣布12人大名单，奥科吉表示：“我每天都努力训练，努力会得到回报，剩下的一切就不是我能左右的了，但我没有感受到被裁的压力。”
+   </p>
+   <p>
+    本届男篮世界杯，尼日利亚与俄罗斯、阿根廷、韩国被分在B组，对此，奥科吉表示：“我认为我们将战胜任何一支球队。我从来不会在任何比赛开始前，就觉得我们会输。”
+   </p>
+   <p>
+    “我们是一支很棒的球队，有天赋的球员聚在一起且富有团队精神。我们将站上世界杯舞台并告知大家尼日利亚篮球是一股不可忽视的力量。”奥科吉补充道。
+   </p>
+   <p>
+    奥科吉今年20岁，在2018年第1轮第20顺位被森林狼选中，2018-19赛季场均出场23.7分钟，得到7.7分3.0篮板1.2助攻1.19抢断0.45盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

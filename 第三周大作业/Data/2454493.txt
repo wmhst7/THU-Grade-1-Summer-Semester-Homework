@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥谈球鞋合同：我决定忠于帮助过自己的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/the-story-behind-giannis-antetokounmpos-first-nike-signature-sneaker/" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 13:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥谈球鞋合同：我决定忠于帮助过自己的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/c03cd6a0338c2dc22c7a55df674a99fa80ef384d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 雄鹿前锋扬尼斯-阿德托昆博在接受采访时谈到了他的首双签名鞋“怪兽一代”。
+   </p>
+   <p>
+    “Nike是新秀赛季唯一给我机会的公司，”他说，“其他的公司并没有想要签我的意思...我不在名单里...但是Nike的人过来跟说’我们要那个小伙子，我们会照顾好他和他的家庭。这意味着很多。”
+   </p>
+   <p>
+    在2017年9月末，阿德托昆博和他的家人在密尔沃基市中心的酒店和Nike进行了会面。阿德托昆博在2016-17赛季场均得到22.9分8.8篮板5.4助攻，并且在他首次全明星比赛中穿着科比10砍下了30分。Nike决定和他续约，并且选择他成为公司历史上第22位拥有签名鞋的篮球运动员。更有纪念意义的是，这是Nike第一位不在美国出生和长大的签名鞋球员。
+   </p>
+   <p>
+    阿德托昆博不敢相信这是真的。
+   </p>
+   <p>
+    “这让我很感动，我的感觉就像是，好吧，这很疯狂...我就像科比，杜兰特，詹姆斯，所有那些有自己签名鞋的人一样，可以穿着他们打比赛。我真的很高兴，”他忍不住去回忆他在希腊的开始，“作为一个孩子长大，我从没有想过我会拥有自己的签名鞋....这是我的梦想。”
+   </p>
+   <p>
+    “我做这个决定很艰难，当时有很多其他公司愿意给我很多钱，给我很大的合同，”阿德托昆博说，他没有选择李宁和Adidas，“在这天的最后，我决定忠于帮助过自己的人。我想要在我开始的地方建立一个品牌。我就是这样的人。在我心里深处，我知道这是对的决定。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

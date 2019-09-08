@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士签下穆迪埃、杰夫-格林、埃德-戴维斯以及戈斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://stats.nba.com/transactions/" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 00:58:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士签下穆迪埃、杰夫-格林、埃德-戴维斯以及戈斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/15a5302f03e13a66cdf780087e2560321f77a52e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 犹他爵士队官方今日宣布，球队已经正式签下了前锋杰夫-格林、前锋埃德-戴维斯、后卫伊曼纽尔-穆迪埃以及后卫尼格尔-威廉姆斯-戈斯。
+   </p>
+   <p>
+    根据此前的报道，格林已经与爵士达成一份一年250万美元底薪协议，2018-19赛季常规赛，格林场均出战27.2分钟，得到12.3分4篮板1.8助攻。
+   </p>
+   <p>
+    穆迪埃已经与爵士达成一份一年协议，2018-19赛季常规赛，穆迪埃场均上场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <p>
+    戴维斯已经与爵士达成2年1000万美元的协议，2018-19赛季常规赛，戴维斯场均上场17.9分钟，得到5.8分8.6篮板0.8助攻。
+   </p>
+   <p>
+    戈斯是2017年的次轮第55顺位新秀，2017-18赛季效力于塞尔维亚贝尔格莱德游击队，场均出场30.8分钟，得到17.4分7.0助攻3.5篮板，并帮助球队夺取了塞尔维亚杯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/01/d24b15f7f0f8a2addb64ab3f6f122f7e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/01/07e4cd79b38c8b736a51c91b42af544a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/01/40c2459fa184f0ad35e3a716090f4c52.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

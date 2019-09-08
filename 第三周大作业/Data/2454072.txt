@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比永博社媒致敬费德勒：他是一位传奇
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/bismackbiyombo/status/1150509496424370176" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 10:40:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比永博社媒致敬费德勒：他是一位传奇" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/6f3401e9763493c0badf57b2479129edb50518b2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 在今天凌晨已经结束的2019温布尔顿网球锦标赛决赛中，诺瓦克-德约科维奇以3-2的比分艰难战胜罗杰-费德勒成功卫冕，从而也获得了其个人生涯第16个大满贯冠军。
+   </p>
+   <p>
+    赛后，夏洛特黄蜂队中锋俾斯麦-比永博更新了个人推特写道：“说实话，@罗杰-费德勒是一位传奇！8年前，我第一次观看他的比赛是在西班牙，而现在我不敢相信他整场比赛都能表现得那么稳重与冷静。”
+   </p>
+   <p>
+    德约科维奇与费德勒此前共交手47次，德约科维奇以25胜22负稍占优势，在大满贯的对决中9胜6负领先费德勒。在此前的温网比赛中，两人共对决3次，2012年半决赛费德勒获胜，2014、2015年决赛，德约科维奇连续战胜对手夺冠。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

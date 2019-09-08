@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔：有人说约翰-沃尔已经完蛋了，我要证明他们是错的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/washington/wizards/wizards-are-keeping-very-close-eye-john-wall-his-recovery-and-he-prefers-it-way" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 10:51:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔：有人说约翰-沃尔已经完蛋了，我要证明他们是错的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/49919c5924ccebadb0a6a56e2d0ac2fac6e59517.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 奇才球员约翰-沃尔在近日接受媒体采访时谈到了自己的恢复情况。
+   </p>
+   <p>
+    今年二月份，沃尔在家中不慎滑倒造成左脚跟腱撕裂，随后成功接受了左脚跟腱撕裂的修复手术。沃尔在接受采访时表示，今年夏天他一直在与球队的训练团队以及自己的训练师合作，努力进行恢复。
+   </p>
+   <p>
+    谈到球队对于自己的支持，沃尔说：“这对于我而言很重要，我为了这支球队和这座城市付出了自己的全部，能够得到他们的全力支持，相信我在回归时依旧会是受伤之前的那位球员，这真的很重要。这是最好的局面，我曾见过很多球队并没有站在球员身后支持他们。能够拥有Ted Leonsis这样的老板，总经理汤米（谢波德），主教练布鲁克斯，以及整个华盛顿社区的支持，这对于我意义重大。”
+   </p>
+   <p>
+    球队老板Ted Leonsis在接受采访表示，沃尔目前没有具体的付出时间表，但球队会全力支持他。
+   </p>
+   <p>
+    “约翰知道我们会支持他，我们一直在与他进行沟通，我们非常关心他。”Ted Leonsis说道。
+   </p>
+   <p>
+    谈到自己的恢复过程，沃尔说：“这是一个很有趣的过程，并不像人们想象中的那样无聊，我喜欢面对挑战。”
+   </p>
+   <p>
+    “我喜欢听到人们谈论，‘哦，曾经的他永远都不会回来了，约翰-沃尔已经完蛋了。’这让我每一天都充满动力，”沃尔说道，“每当我醒来，我的想法就是，‘我要证明有些人是错的。’”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：汤普森今日成功接受了左膝十字韧带撕裂修复手术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1146171073358127104?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 05:39:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：汤普森今日成功接受了左膝十字韧带撕裂修复手术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/c8e1db20583bc703b68745aba6ed221f232d27cf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据著名NBA记者Adrian Wojnarowski报道，勇士球员克莱-汤普森今日成功接受了左膝十字韧带撕裂修复手术。
+   </p>
+   <p>
+    汤普森在洛杉矶接受了手术，手术由Neal ElAttrache医生主刀。
+   </p>
+   <p>
+    汤普森预计能够完全康复，目前暂无回归时间表，汤普森的经纪人格雷格-劳伦斯表示汤普森的恢复周期可能为5-7个月，并且强调更可能会是偏向7个月。
+   </p>
+   <p>
+    “虽然我们对尽快复出感到乐观，但是克莱和球队都致力于在恢复过程里慢慢来。”劳伦斯说道。
+   </p>
+   <p>
+    在2018-19赛季总决赛第六场比赛中，汤普森遭遇左膝十字韧带撕裂，预计2019-20赛季全明星期间复出。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

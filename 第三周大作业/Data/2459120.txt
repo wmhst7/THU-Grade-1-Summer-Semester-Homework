@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯发布与大儿子Bronny所在球队合影：三连冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 00:37:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯发布与大儿子Bronny所在球队合影：三连冠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/880d8b7600b2050c4093ad18935f1b4c7934a76e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story连续更新了他昨日前往现场观看大儿子Bronny所在球队Blue Chips夺取一项AAU锦标赛全国冠军的图文动态。
+   </p>
+   <p>
+    詹姆斯晒出了他与大儿子所在球队赛后一同庆祝冠军的合影，并配文道：“连续三年全国冠军！太为这群人感到骄傲了！男孩们，我爱你们。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/00/034f769cbcdfa5136ade55f2211aaf54.jpeg"/>
+   </p>
+   <p>
+    此外，詹姆斯连续发布了Bronny的比赛高光片段以及自己在场边庆祝的画面。“（年轻的国王表情）昨天在冠军决赛中打疯了#詹姆斯帮 @Bronny”詹姆斯配文道。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190729/00/f3cb696125bc99205e98034b08db425b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190729/00/2a7220466b0edc23ceb68b13f3dec4f9.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190729/00/9de83caf55ec4dda77e68e38b7d32555.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

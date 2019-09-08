@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雄鹿签约凯尔-科沃尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bucks/news/bucks-sign-kyle-korver" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 07:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雄鹿签约凯尔-科沃尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/d87c060f7679f089d9fa39c12cce516984fba4ff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 雄鹿官方今日宣布，他们已经签下了自由球员凯尔-科沃尔。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，科沃尔与雄鹿达成了一份一年260万美元的签约协议。
+   </p>
+   <p>
+    “凯尔是一名顶级的三分投手，他会为我们球队扮演一个有影响力的角色，除了带来丰富的经验外，他还了解迈克-布登霍尔泽的体系，他在老鹰的时候为布登霍尔泽打过三个多赛季，凯尔是一名非常受尊重的球员，在场上和场下都深受尊重，我们激动地欢迎他和他的家人来到雄鹿。”雄鹿总经理琼-霍斯特说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，科沃尔为骑士出场16次，为爵士出场54次，场均出场19.1分钟得到8.6分2.3篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

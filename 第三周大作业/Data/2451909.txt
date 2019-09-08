@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：篮网正式签下前锋威尔森-钱德勒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/2019/07/08/brooklyn-nets-sign-wilson-chandler?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:52:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：篮网正式签下前锋威尔森-钱德勒" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/d33e3f82a3eca606a077ff40cce71a509ef32d62.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日布鲁克林篮网队官方宣布，球队已正式签下自由球员前锋威尔森-钱德勒。据球队政策，合同细节并没有被公布。
+   </p>
+   <p>
+    “威尔森是一位经验丰富的领袖，他将担任我们前场阵容中的老将角色，”篮网总经理肖恩-马克斯说道，“他团队至上的心态以及极佳的性格在赛场内外对我们的文化都将是很好的补充。我们很激动地迎接威尔森和他的家人来到布鲁克林。”
+   </p>
+   <p>
+    据此前雅虎体育记者Chris Haynes报道，联盟消息人士透露，篮网与自由球员威尔森-钱德勒达成一年协议，这是一份老将底薪合同，金额为2,564,753美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，钱德勒代表快船出场15次，场均15.1分钟，得到4.3分3.1篮板0.7助攻；代表76人出场36次，场均出场26.4分钟，得到6.7分4.7篮板2.0助攻0.61抢断0.50盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

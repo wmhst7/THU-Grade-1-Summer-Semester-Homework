@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  诺维茨基：拍全家福照片的时候，我偷偷把肚子吸起来了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/swish41/status/1149411834212098048" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 06:10:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="诺维茨基：拍全家福照片的时候，我偷偷把肚子吸起来了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/751c394937710efe61140ddf00f2ba5d6ad7ab2d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 今日，前NBA球员德克-诺维茨基更新个人社交媒体推特，讲述了一则生活趣事。
+   </p>
+   <p>
+    德克称：“我们今天一起拍了全家福照片，我第一次在拍照的时候偷偷吸气想把肚子收起来……别笑我，我相信你们肯定都干过这事。”
+   </p>
+   <p>
+    德克-诺维茨基自1998年进入联盟开始至退役一直效力于独行侠，生涯场均出场33.8分钟，得到20.7分7.5篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

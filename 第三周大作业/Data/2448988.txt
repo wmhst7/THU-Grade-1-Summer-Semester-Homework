@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  欧文更新个人社交媒体，杜兰特随后点赞
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzXAVPqHkjt/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 12:16:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="欧文更新个人社交媒体，杜兰特随后点赞" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/3f2cbc069f53a2efef14b2579092579c0fe37088.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 今日，NBA球员凯里-欧文更新Instagram晒出一张以眼睛为素材的漫画，写道：“旅途是对我的奖赏，只有我的眼睛知道什么最适合我，家庭永远是第一位。”
+   </p>
+   <p>
+    随后，凯文-杜兰特点赞了这条Ins。
+   </p>
+   <p>
+    此前，根据NBA记者Adrian Wojnaeowski报道，杜兰特和篮网达成4年1.64亿美元的口头协议。欧文将与篮网达成4年1.42亿美元协议，其中第4年为球员选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

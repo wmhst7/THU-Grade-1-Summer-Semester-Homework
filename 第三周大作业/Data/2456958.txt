@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙签下加拿大球员布里塞特，20人训练营名单已满
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.raptorshq.com/2019/7/22/20703567/nba-free-agency-2019-report-toronto-raptors-sign-oshae-brissett" target="_blank">
+     Raptors HQ
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 01:29:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙签下加拿大球员布里塞特，20人训练营名单已满" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/66a6a4cafcf6c3362b28d8120bef67659b9acbea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，猛龙官方推特更新，宣布球队已用Exhibit 10协议签下来自加拿大的小前锋奥沙-布里塞特（Oshae Brissett），至此球队20人训练营大名单已满。
+   </p>
+   <p>
+    布里塞特今年21岁，身高2米03，体重95公斤，为雪城大学效力2个赛季，场均上场35.7分钟，得到13.7分8.2篮板1.3助攻，命中率37%，其中三分命中率31%。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/01/f38fcb02fb31db166602dfe8845aeca7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

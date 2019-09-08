@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  名记：巴特勒很喜欢与詹姆斯搭档的想法，二人私交也很好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rachel__nichols/status/1144357866913927168?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 09:27:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="名记：巴特勒很喜欢与詹姆斯搭档的想法，二人私交也很好" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/4a1b108699b6f3e1ca0419d82a1a02e215c7b546.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 随着湖人通过交易清理出一个顶薪空间，NBA记者Rachel Nichols和Nick Friedell在今日的电视节目中探讨吉米-巴特勒是最适合搭档勒布朗-詹姆斯与安东尼-戴维斯的自由球员。
+   </p>
+   <p>
+    “随着他们清理出顶薪空间，看着那份候选人名单，我认为有个名字凸显出来——吉米-巴特勒，”Nick Friedell说道，“吉米一直以来都想前往洛杉矶为湖人效力。如果他能调整好心态，比如，‘我不会是当家球星，但我可以帮助球队夺冠。’那么勒布朗-詹姆斯会给他打电话的。我们在谈论自由市场，招募事宜，如果勒布朗-詹姆斯想要吉米-巴特勒，如果76人没有痛快地给出5年顶薪合同，而勒布朗极力招募吉米-巴特勒，我认为他就是最合适人选。”
+   </p>
+   <p>
+    Rachel Nichols则补充道：“过去数年来我和吉米多次聊过搭档勒布朗的想法，我要强调一下这不单指这个夏天，因为他（詹姆斯）有好几次作为自由球员的换队可能，所以我们过去几年内多次聊到这个话题。他非常喜欢他们在篮球层面的匹配程度，他在私交方面也很喜欢勒布朗，他们两个很合得来。问题就在于他是否愿意来担任队内第三选择？”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

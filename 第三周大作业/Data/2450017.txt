@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：太阳计划买断科沃尔，湖人、76人、雄鹿对其有意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1146516733756432385" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 04:33:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：太阳计划买断科沃尔，湖人、76人、雄鹿对其有意" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/fa5a475f17da5ff109df4b3e1347298fc69c09b4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，太阳有意买断刚刚交易得到的凯尔-科沃尔。
+   </p>
+   <p>
+    多位消息人士透露，湖人、76人、雄鹿都对其有意。消息人士透露，当科沃尔结束澄清期后，他也将考虑与上述三支球队之一签约。
+   </p>
+   <p>
+    裁掉科沃尔之后，太阳将有足够的空间来完成对里基-卢比奥3年5100万的签约。
+   </p>
+   <p>
+    在之前的交易中，太阳送出丹东尼-梅尔顿、约什-杰克逊、2020年的次轮签以及附带条件的2021年次轮签，从灰熊得到凯尔-科沃尔、杰文-卡特。
+   </p>
+   <p>
+    科沃尔上赛季效力于骑士，赛季中期被交易至爵士，赛季结束后在迈克-康利的交易中被送至灰熊。
+   </p>
+   <p>
+    科沃尔今年38岁，2018-19赛季常规赛，他为骑士出场16次，为爵士出场54次，场均出场19.1分钟得到8.6分2.3篮板1.2助攻。他目前还剩1年750万（其中344万保障，当地时间7月6日前不被裁转为全额保障）的合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

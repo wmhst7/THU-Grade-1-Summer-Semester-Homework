@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  谢里夫-奥尼尔更新社媒晒出与父亲的恶搞P图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0RhS02AxGU/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 10:19:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="谢里夫-奥尼尔更新社媒晒出与父亲的恶搞P图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/798e0bacd8f31db19fa6088924efcb19dde990f9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 NBA名人堂成员沙奎尔-奥尼尔儿子谢里夫-奥尼尔更新了个人Instagram，上传了一张兄弟二人同父亲的恶搞合影（见新闻配图），并配文道：“电影组合”。
+   </p>
+   <p>
+   </p>
+   <p>
+    奥尼尔职业生涯常规赛场均上场34.7分钟可以得到23.7分10.9篮板2.5助攻2.26盖帽
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190724/11/636eab11f2750d880dc2bea4e0b52a6e.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Nerbo)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎帕佐：脚踝情况在好转，需要保持耐心
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.marca.com/baloncesto/mundial/2019/08/27/5d654a4dca4741ce368b45ca.html" target="_blank">
+     马卡报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 18:11:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎帕佐：脚踝情况在好转，需要保持耐心" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/04e1ff4485486bf4a7ceeca59b83c19e7898c45b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 根据《马卡报》的报道，阿根廷后卫法昆多-坎帕佐表示，他的脚踝恢复情况不错，他会保持耐心，让伤势完全恢复。
+   </p>
+   <p>
+    之前在阿根廷与俄罗斯的热身赛里，坎帕佐遭遇右脚踝扭伤。
+   </p>
+   <p>
+    “我现在很不错，情况在好转，我不敢太着急，世界杯的比赛马上就要开始，我们在努力让脚踝尽可能恢复到最好的情况，但是有的时候疼，有的时候情况好一些，需要心态平和下来。”坎帕佐说道。
+   </p>
+   <p>
+    坎帕佐称他周二早上醒来的时候感觉好多了，他说：“情况好多了，但是脚踝仍然肿胀，我之前有些害怕，但是我上赛季左脚踝扭伤过，所以我心态很平和，我当时有点害怕，因为我感觉到了扭伤，上赛季当我扭伤左脚踝的时候，我感觉是一样的，所以我保持着镇静。”
+   </p>
+   <p>
+    本次世界杯，阿根廷、俄罗斯、韩国和尼日利亚同在B组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

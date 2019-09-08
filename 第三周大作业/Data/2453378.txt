@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伯克斯：我一开始选择签约雷霆是因为乔治和威少
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/anthonyVslater/status/1149799919579889664" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 08:33:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伯克斯：我一开始选择签约雷霆是因为乔治和威少" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/21032d8222fe33a2583623043cf2ee97a6e46cee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 勇士球员亚历克-伯克斯今日接受采访时谈到了自己今夏在自由球员市场上的情况，原本伯克斯与雷霆达成了签约协议，在保罗-乔治的交易后，因发生意料之外的改变，雷霆允许伯克斯重新评估他们的情况，伯克斯最终签约勇士。
+   </p>
+   <p>
+    “是我的一个朋友告诉了我乔治的交易，我自己在电视上看到了，在那之后，雷霆知道自己的前进方向是什么，大赞雷霆，他们跟我坦诚聊了他们的决定，告诉了我他们未来前进的方向，让我重新评估一下自己的情况，所以我们今日都在这里了。”伯克斯说道。
+   </p>
+   <p>
+    伯克斯接着说：“是的，我会说我们差不多都有这样的想法，大赞他们，是的，我当时在家里，堪萨斯的家里。”
+   </p>
+   <p>
+    多快决定签约勇士？伯克斯说：“一开始我的选择就是雷霆或者勇士，一开始选择雷霆是因为乔治和威少，并且堪萨斯距离俄克拉荷马不远，这也是一个重要因素，比利（多诺万）和萨姆（雷霆总经理萨姆-普雷斯蒂）都跟我聊了，我当时喜欢他们前进的方向，但是情况发生了改变。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

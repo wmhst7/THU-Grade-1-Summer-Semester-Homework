@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士要对伤病负责？杜兰特：当然没有，没有人需要负责
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/kevin-durant-on-if-the-warriors-mishandled-his-calf-injury-hell-no-211347829.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 05:38:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士要对伤病负责？杜兰特：当然没有，没有人需要负责" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/90e000bc96593d7682fa3a88e9724b7376d9666a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日篮网球员凯文-杜兰特接受了雅虎记者Chris Haynes的采访，谈到2019年总决赛期间带伤上阵，记者问勇士是否错误估计了杜兰特的伤势？
+   </p>
+   <p>
+    杜兰特缓缓从沙发上直起身来，脸上是困惑的表情，他说道：“当然没有，你怎么能怪（勇士）？当然没有。我听到有人说是勇士要求我上场，但我决定在恢复期上场比赛时没有谁跟我说了什么话。只有我和（医学指导）Rick每天在处理伤势。系列赛刚开始时，我就是预计第五场复出，但糟糕的是，（伤病）发生了。这就是篮球，糟糕的事情总会出现。没有人要对此负责，这就是比赛。我们必须向前看，因为我会重新回到赛场。”
+   </p>
+   <p>
+    杜兰特在总决赛第五场期间遭遇跟腱断裂，报道称他将会缺席下赛季所有比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

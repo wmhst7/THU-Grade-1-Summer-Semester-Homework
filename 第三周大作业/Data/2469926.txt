@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯更新Taco Tuesday视频：你们以为我上周忘记了？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2114704772790592150?utm_source=ig_story_item_share&amp;igshid=1lfhanusm27fv" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 08:00:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯更新Taco Tuesday视频：你们以为我上周忘记了？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/bccc80a9abc031cdd8435b36ce94a9c1531693c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 湖人前锋勒布朗-詹姆斯今日连续更新Instagram Story发布自己享用Taco以庆祝Taco Tuesday的自拍视频。
+   </p>
+   <p>
+    詹姆斯在视频中说道：“大家好，我度过了很棒的一天，正在《空中大灌篮2》的片场享受午餐休息时间，感受我哥们@djquik 的音乐氛围。我听到你了，quik。你们知道我的意思，我们就是在放松，午餐期间享受一点闲暇时光，别的什么都没想。我想的就是@djquik 的杰出音乐，还有《空中大灌篮2》……哇哈，你们都知道我还在想些什么！因为你们都知道今天是什么日子！Taco Tuesday！今天是什么日子啊，Bronny（詹姆斯大儿子）？（模仿儿子声音）今天是Taco Tuesday！你们都以为我上周忘记了你们（詹姆斯上周未更新Taco庆祝视频），绝不！因为这可是Taco Tuesday啊！”
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4410161424385657">
+     视频：詹姆斯录制今日Taco Tuesday庆祝视频
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/08/39ffef05f50ca49aa7e99f6db73ad7c7.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/08/46d4e07c930950a9c697faa711cb9fcd.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/08/5911530a691024b7e2ee17a008411fda.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/08/bb1c01e754742b20d2424d2643294dd6.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/08/c118c688412bf9d6b45257f176136f45.gif"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="GIF 2M" src="https://c1.hoopchina.com.cn/uploads/images/20190828/08/fda64d4af47bf7435f049128958aeb87.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

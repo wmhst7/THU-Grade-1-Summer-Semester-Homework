@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  飞天遁地！詹姆斯社媒回顾个人高中比赛精彩集锦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0HEoVkAWRq/?igshid=mczmyu5c0m5c" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 07:13:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="飞天遁地！詹姆斯社媒回顾个人高中比赛精彩集锦" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/7c127efce73f2b5a8fb363124e40310320135a3a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 湖人前锋勒布朗-詹姆斯今日在Instagram上发布一段个人高中时期的比赛集锦。
+   </p>
+   <p>
+    “一点高中的氛围！#那个来自阿克伦的小孩”詹姆斯写道。詹姆斯高中时期效力于俄亥俄州阿克伦地区的圣文森特圣玛丽高中。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4396014288542271">
+     视频：詹姆斯高中时期残暴集锦（48秒）
+    </a>
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯共出场55次，场均35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/07/a143f303ebe1a3e8754439071ea33aea.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/07/4bf4b6e7fab4723d395fd9291b612f79.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/07/d65e5117673a48a00548d37463fd5cf0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/07/729c641428a73fe02feb6ed916c398b4.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯：我现在非常专注，渴望证明自己的实力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1148812144768638976" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 14:23:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯：我现在非常专注，渴望证明自己的实力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/d9922f2b9f59e786d9fb2a00bedcf020174220c6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 奇才球员以赛亚-托马斯在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到加盟奇才的原因，小托马斯说：“选择签约华盛顿奇才队，对于我个人而言，这只关于机会。我想要找回昔日的状态，证明自己依旧能够打出高水准。奇才联系了我，他们展现了对我的兴趣，我们坐下来进行了商讨，最终敲定了这份合同。约翰-沃尔因伤将缺阵一段时间，我会得到出场的机会，我会努力打出高水准。”
+   </p>
+   <p>
+    谈到自己目前的身体状态，小托马斯说：“我感觉真的很棒，这是我在过去两年以来第一次有机会在夏天进行训练，过去两年的休赛期我都处于康复当中，今年我有机会保养我的身体，使我的双腿更强壮，找回能量和力量。我现在非常专注，我渴望变得更出色，过去两年我没有取得进步，我想要摆脱阴霾，这非常重要。我很高兴能够找回曾经的自己，获得打出高水准的机会，我想要证明我依旧是联盟顶级的球员。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

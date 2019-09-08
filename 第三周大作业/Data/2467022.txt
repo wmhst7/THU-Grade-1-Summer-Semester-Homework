@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米德尔顿：对阵澳大利亚是很棒的检验，球迷们会很疯狂
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KanePitman/status/1163389765367951361" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 19:27:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米德尔顿：对阵澳大利亚是很棒的检验，球迷们会很疯狂" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/0af39727c0e22968a6fb2b58c538cca2cb252506.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 美国男篮目前正在澳大利亚备战热身赛，来自雄鹿的球员克里斯-米德尔顿接受了媒体采访。
+   </p>
+   <p>
+    谈到球队的磨合，米德尔顿说：“其他国家队的球员们已经并肩作战多年了，而我们也在尽快建立默契，我认为我们的球员们做了很棒的工作，就是不断学习，尽可能地去适应彼此。”
+   </p>
+   <p>
+    谈到在球队中承担领袖角色，米德尔顿说：“这很酷，球队中有很多出色的球员，我们都想要帮助对方，适应在彼此身边打球。我们在此之前没有在一起打过球，就目前而言，情况很不错。”
+   </p>
+   <p>
+    谈到有可能在世界杯赛场上面对雄鹿队友扬尼斯-阿德托昆博，米德尔顿说：“我肯定会努力限制他，这很有趣，我之前每天都能看到他，现在他可能成为我的对手，当我们在场上碰面时，这会很有趣。我知道这家伙会冲着我们来，但没有人会将比赛视为私人恩怨，他是一位竞争者，我们也充满竞争精神，所以这会很有趣。”
+   </p>
+   <p>
+    谈到在即将到来的热身赛中面对前队友马修-戴拉维多瓦，米德尔顿说：“Delly是一位很棒的队友，也是我很好的朋友，他上赛季就谈论过国家队之间的对决，谈论过这场比赛会多么令人感到兴奋。我知道他是一位斗士，他会为了祖国而战。这只是又一次检验，我们知道这里的球迷们会很疯狂，这会是很棒的经历。对阵澳大利亚这样的球队，这肯定是一次很棒的检验。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

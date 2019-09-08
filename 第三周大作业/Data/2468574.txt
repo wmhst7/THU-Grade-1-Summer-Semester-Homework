@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方发布库兹马代表美国队热身赛组图：国际库
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/p/B1hEDulgJUy/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 08:42:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方发布库兹马代表美国队热身赛组图：国际库" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/fe45c7a4011af9429d20533583a548895de5869c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 湖人官方今日发布一组图片回顾球队前锋凯尔-库兹马近日代表美国男篮出战热身赛的情况。
+   </p>
+   <p>
+    “国际库。#湖人秀”湖人官方写道。
+   </p>
+   <p>
+    在此前美国男篮以102-86战胜澳大利亚男篮的比赛中，库兹马5投4中得到12分2篮板。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/08/a88e3f4ed2d5ee46dd43cd0c57c0d84d.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/08/92ac41a0720c630fb36fd1d40f5c13ee.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/08/f94f1e5d5eb55784a16671ecfa7d6373.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/08/a3e9739954e4449f6a4ebdef0c2c305b.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

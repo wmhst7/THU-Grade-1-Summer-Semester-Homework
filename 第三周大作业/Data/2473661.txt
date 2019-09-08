@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  惺惺相惜！库兹马转发罗斯名人堂言论致敬罗斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kylekuzma" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 15:53:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="惺惺相惜！库兹马转发罗斯名人堂言论致敬罗斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/1ef04c55ed548afdf6ab7647b248ab8b4ad8a29b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，美国媒体发布一张含有罗斯言论的图片，湖人队球员凯尔-库兹马转发了这张图片，并向德里克-罗斯致敬。（见新闻配图）
+   </p>
+   <p>
+    罗斯说道：“我就是一个名人堂球员。虽然不会所有人都会承认，但是在那些和我一起长大的人眼中，我已经做到了。”
+   </p>
+   <p>
+    库兹马转发了这条言论，并配文：“致敬！你就是一个名人堂球员，你是最棒的（GOAT）”
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    今年夏天，罗斯以2年1500万美元合同加盟活塞。2018-19赛季常规赛，罗斯场均出场27.3分钟，可以得到18.0分，2.8篮板，4.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/15/4712c54fdbdc28ee5ffc166fa7abb7e0.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

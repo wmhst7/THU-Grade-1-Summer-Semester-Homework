@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  百步穿杨！蔡恩参加新奥尔良圣徒队橄榄球训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/pelicansnba/status/1155928702636572672?s=21&amp;tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 10:27:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="百步穿杨！蔡恩参加新奥尔良圣徒队橄榄球训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/fae98988eb1570bce7e29689be4e15c9bd88b7d4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日，鹈鹕官方推特发布球队新秀蔡恩-威廉森参加新奥尔良圣徒队（NFL联赛南区球队）训练日的视频及照片。
+   </p>
+   <p>
+    官推配文：“在一天的训练日之后，圣徒有了新的武器！请持续关注蔡恩-威廉森在圣徒挑战赛上的表现吧。”
+   </p>
+   <p>
+    威廉森在今年选秀大会上首轮第1顺位被鹈鹕选中，大一赛季NCAA场均上场30.0分钟，得到22.6分8.9篮板2.1助攻2.12抢断1.79盖帽。
+   </p>
+   <p>
+    相关视频：
+    <a href="https://bbs.hupu.com/28726653.html">
+     百步穿杨！蔡恩-威廉森展现超强橄榄球天赋
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

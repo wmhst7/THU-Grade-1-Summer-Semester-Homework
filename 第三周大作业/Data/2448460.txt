@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  如果篮网没能得到杜兰特，预计他们会对哈里斯感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/nets/news/whats-next-for-nets-after-reportedly-nearing-deal-with-free-agent-kyrie-irving/308607648" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="如果篮网没能得到杜兰特，预计他们会对哈里斯感兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/4806ebcd72abc0733bd0327a8bd88bf42d104a5e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据SNY记者Ian Begley的报道，他们已经确认，如果篮网没有得到凯文-杜兰特的话，那么他们预计会对托拜厄斯-哈里斯感兴趣。
+   </p>
+   <p>
+    哈里斯合同今夏到期，届时他将成为一名完全自由球员，他是纽约长岛人。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里斯场均出战34.7分钟，可以拿到20分7.9篮板2.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

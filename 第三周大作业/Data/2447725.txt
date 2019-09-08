@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  消息人士表示伦纳德和巴特勒联手加盟快船的可能性在增加
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1049513/2019/06/27/nba-free-agency-mysteries-from-kawhi-to-kd-on-down-clues-emerge/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 01:09:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="消息人士表示伦纳德和巴特勒联手加盟快船的可能性在增加" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/6601febc2f4df6fbf3a01416fa17b1d5d266716c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据The Athletic记者Sam Amick报道，消息人士表示，自由球员吉米-巴特勒和科怀-伦纳德在快船联手的可能性似乎在增加。存在一些明显的暗示表明伦纳德对于搭档巴特勒感兴趣。
+   </p>
+   <p>
+    另一位大牌自由球员凯文-杜兰特据信更加倾向于加盟尼克斯，篮网和勇士之一。若快船想要创造两个顶薪空间，他们需要设法清理掉达尼罗-加里纳利的合同。
+   </p>
+   <p>
+    <span style="line-height: 1.6em;">
+     一位熟知尼克斯计划的消息人士声称尼克斯可能得到与伦纳德的会面机会。
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

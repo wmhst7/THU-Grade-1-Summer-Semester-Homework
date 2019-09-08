@@ -1,0 +1,72 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  祝贺！灰熊勇夺2019拉斯维加斯夏季联赛总冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 10:53:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="祝贺！灰熊勇夺2019拉斯维加斯夏季联赛总冠军" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/f525c0ad899a2c81684348271a3d8ef72a0b2e88.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 在今天已经结束的2019拉斯维加斯夏季联赛总决赛中，孟菲斯灰熊队以95-92的比分战胜明尼苏达森林狼队，从而获得了本届拉斯维加斯夏季联赛总冠军。
+   </p>
+   <p>
+    灰熊此次夏季联赛常规赛阶段战绩为3胜1负，以常规赛第8名的身份跻身淘汰赛。随后在淘汰赛阶段灰熊先后战胜了1号种子球队凯尔特人以及4号种子球队鹈鹕成功晋级决赛，并在今天战胜了3号种子球队森林狼成功夺冠。
+   </p>
+   <p>
+    拉斯维加斯夏季联赛开始于2013年，获得首届拉斯维加斯夏联的冠军队伍是金州勇士队。之后分别是国王（2014）、马刺（2015）、公牛（2016）、湖人（2017）以及开拓者（2018）。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2454396.html">
+     夏季联赛最佳阵容公布：克拉克、沃克领衔，巴雷特落选
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2454383.html">
+     灰熊前锋布兰登-克拉克当选2019夏季联赛MVP
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/35cfba280fb3f5b72adda3b3f0b852d4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/4a40c3127dd52e4080ad34e04ce9e194.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/1e30a8b5e534a4d0d90299c3e1b4ac5d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/12/e38bf25cd286d22573f7b802d9766061.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

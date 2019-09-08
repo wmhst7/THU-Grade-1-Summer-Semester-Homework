@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西蒙斯：队友里只有恩比德在打游戏和垃圾话方面比得上我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1156479270316720129" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 17:49:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西蒙斯：队友里只有恩比德在打游戏和垃圾话方面比得上我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/b6fbfdc1a4395a551c259c8980c51d81edafbc97.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 近日，76人后卫本-西蒙斯接受了采访。西蒙斯现在最喜欢玩的电子游戏是《绝地求生》，这个休赛期，他在洛杉矶参加了PUBG公司的绝地求生明星挑战赛。虽然这个版本的绝地求生游戏是在手机端进行的，西蒙斯打败了他对阵的所有NBA球员，还打败了雄鹿球员扬尼斯-阿德托昆伯所带领的一支队伍。
+   </p>
+   <p>
+    在离开比赛场地之前，西蒙斯还在阿德托昆伯正在接受采访时嘲笑了他，称他笑到了最后。
+   </p>
+   <p>
+    西蒙斯与自己的队友也会喷垃圾话，他提到只有一名队友在打游戏和喷垃圾话方面能比得上他——乔尔-恩比德。
+   </p>
+   <p>
+    西蒙斯说：“如果让我在电脑端打游戏的话，我会摧毁他的。他玩FIFA，我能在这个游戏中打败他。就是这样：我不玩FIFA，但是我曾在一局FIFA游戏中打败过他。任何游戏我都玩得来。”
+   </p>
+   <p>
+    在被问及他在垃圾话方面是否有优势时，西蒙斯说：“是的，但这很简单。我会把这个问题留给他。”
+   </p>
+   <p>
+    “我认为现在打游戏很酷，”西蒙斯说，“我认为，人们觉得打游戏并在公开场合让所有人知道你对游戏很痴迷并不是一件好事，但是对我来说，我喜欢这样。”
+   </p>
+   <p>
+    “参加完挑战赛后，我大概会回家，和朋友一起吃吃喝喝，打四个小时游戏，喷垃圾话。打电子游戏对我来说很有趣，我喜欢。”
+   </p>
+   <p>
+    2018-19赛季常规赛，西蒙斯场均出场34.2分钟，得到16.9分8.8篮板7.7助攻1.42抢断。恩比德场均出场33.7分钟，得到27.5分13.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

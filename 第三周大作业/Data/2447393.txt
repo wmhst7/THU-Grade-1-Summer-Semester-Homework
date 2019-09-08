@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA已从公牛工资簿中移除欧米尔-阿西克的合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1143922858416050176" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 03:08:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA已从公牛工资簿中移除欧米尔-阿西克的合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/ec15f7b0b9366f9ac77301810d54c208dddd1698.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据The Athletic著名记者Shams Charania报道，联盟消息人士透露，NBA官方已根据终结职业生涯伤病的缘由将欧米尔-阿西克的合同从公牛的工资簿中移除，这为公牛释放了300万美元的薪资空间。
+   </p>
+   <p>
+    公牛于4月底向联盟递交了这份申请。目前，公牛的薪金空间为2300万美元。
+   </p>
+   <p>
+    公牛于去年10月份裁掉了阿西克。2017-18赛季，阿西克共出战了18场比赛，场均上场10.1分钟得到1.2分2.6个篮板。
+   </p>
+   <p>
+    阿西克在NBA征战了8个赛季，曾效力于火箭、鹈鹕、公牛，共出战了471场比赛，场均上场19.6分钟得到5.3分7.1个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

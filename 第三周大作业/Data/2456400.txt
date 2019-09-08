@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  海滩上最靓的仔！乌布雷今日更新社媒晒出海边度假个人帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0HDbqRHLar/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 11:55:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="海滩上最靓的仔！乌布雷今日更新社媒晒出海边度假个人帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/37aa59aac0e2c2185263d12ee91d75d560572e1e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 今日，NBA球员凯尔-乌布雷更新社交媒体Instagram晒出海边度假帅照。（见新闻配图）
+    <br/>
+    <br/>
+    据此前的相关报道，太阳前锋凯利-乌布雷以2年3000万的合同续约太阳，该合同为全额保障，不附带球员选项和球队选项。
+    <br/>
+    <br/>
+    2018-19赛季，乌布雷为太阳出战了40场比赛，场均上场29.5分钟，可以得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/11/7ab1babd9033c22dafb8c0c5f5dc4548.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/11/6db8fa8d181b72e78c14856bc4bfde3b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/11/86c5ca934ec4fa4c7126553a7b5c4569.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

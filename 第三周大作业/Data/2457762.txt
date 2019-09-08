@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗：非常感谢休城球迷，期待着重回俄城打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0USw-LFRIs/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 08:51:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗：非常感谢休城球迷，期待着重回俄城打球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/3101d23d922d100e8eb12b1b9b3ac9dccc76ae4b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 克里斯-保罗在社交媒体上致谢火箭球迷，并且表达了自己对生涯新篇章的期待。
+   </p>
+   <p>
+    “非常感谢休城你们过去这些年对我和家人的慷慨和友善！能在职业生涯里拥有你们这样一直支持我的出色球迷，这是我的福气，新赛季加盟雷霆让我激动，能有机会与我的雷霆队友们并肩作战让我兴奋，我的NBA生涯开始于俄城，当时我在黄蜂打球，我期待着回到俄城！”保罗写道。
+   </p>
+   <p>
+    因为受到飓风影响，黄蜂主场搬家，保罗的NBA职业生涯开始于俄城。
+   </p>
+   <p>
+    雷霆之前将拉塞尔-威斯布鲁克交易到火箭，得到保罗，火箭的2024年和2026年的首轮签和2021年和2025年首轮签互换权。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

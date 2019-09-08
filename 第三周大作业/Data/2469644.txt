@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  森林狼众球员给纳兹-里德庆生：你只有一次20岁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Timberwolves/status/1166181263201452032" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 11:31:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="森林狼众球员给纳兹-里德庆生：你只有一次20岁" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/a96223a8be01bdcd61db8b74dbfe4295f8a77e7c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日，森林狼官方更新Twitter，晒出森林狼众球员给纳兹-里德庆生的照片。（见新闻配图）
+   </p>
+   <p>
+    森林狼官方配文道：“你只有一次20岁。”
+   </p>
+   <p>
+    纳兹-里德身高2.08米，司职前锋，毕业于路易斯安那州立大学，在拉斯维加斯夏季联赛中，场均18.6分钟，得到11.9分5.4篮板2.0盖帽。
+   </p>
+   <p>
+    纳兹-里德是今年的落选秀，由于今年夏天在夏季联赛上表现出色，故和森林狼达成了一份四年610万美元的合同，第一年合同薪水为全额保障。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/a6647cedbc2972c89e6458668769b3bd.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/67e1a31152df88c7ca9165d186d63082.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比妻子瓦妮莎更新个人社媒晒三个女儿合影：我的宝贝们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0uVm3DDLAa/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 09:57:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比妻子瓦妮莎更新个人社媒晒三个女儿合影：我的宝贝们" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/6dce701134154f6b03b778d1991dd102d0138feb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 今日，湖人名宿科比-布莱恩特的妻子瓦妮莎更新个人社交媒体Instagram，晒出自己3个女儿在一架直升机前的合照（见新闻配图）。
+   </p>
+   <p>
+    瓦妮莎配文道：“我的宝贝们。Gianna、Bianka和Natalia。”
+   </p>
+   <p>
+    根据此前报道，科比与妻子瓦妮莎目前育有4个女儿，她们分别是Natalia、Gianna、Bianka和Capri。最小的女儿于当地时间2019年6月20日出生。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

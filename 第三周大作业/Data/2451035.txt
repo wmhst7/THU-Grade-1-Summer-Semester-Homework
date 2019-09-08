@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乌杰里声明：感谢并祝福伦纳德和格林，球队将继续争取第二冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TimBontemps/status/1147593988809154561" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 04:24:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乌杰里声明：感谢并祝福伦纳德和格林，球队将继续争取第二冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/9281702905b8503e0bef02a0a6deae93906fde69.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 根据记者Tim Bontemps的报道，猛龙总裁马赛-乌杰里今天就科怀-伦纳德和丹尼-格林离队一事发表了声明。
+   </p>
+   <p>
+    乌杰里写道：“对于科怀和丹尼与我们一起在多伦多打球的这一年，我们感到非常感谢。对于你们为了帮助我们得到第一个冠军所做的一切，整个加拿大都非常感谢。我代表猛龙发自内心地对科怀和丹尼说一声谢谢，对他们和他们的家人，我们送去的只有祝福。作为一个球队，我们会专注于我们的未来，继续争取第二个总冠军。”
+   </p>
+   <p>
+    根据之前的报道，伦纳德加盟快船，格林加盟湖人。
+   </p>
+   <span id="editor_baidu">
+    (编辑：环环)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

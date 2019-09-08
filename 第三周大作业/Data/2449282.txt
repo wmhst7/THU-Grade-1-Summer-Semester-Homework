@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人曾向巴特勒提出五年顶薪报价，但后者想去热火
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tomhaberstroh/status/1145803646225043456" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 06:23:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人曾向巴特勒提出五年顶薪报价，但后者想去热火" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/4455116d0628975081df5d81a241841a47420ee2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据记者Tom Haberstroh报道，一位消息人士透露，吉米-巴特勒此前确实收到了76人提出的5年1亿9000万美元的顶薪合同，但巴特勒没有接受而是选择通过先签后换加入热火。
+   </p>
+   <p>
+    据此前NBA记者Adrian Wojnarowski报道，联盟消息人士透露，热火通过跟快船、76人、开拓者来完成了自由球员吉米-巴特勒的交易。
+   </p>
+   <p>
+    在这笔交易中，开拓者的莫里斯-哈克利斯被送去快船；热火还将一个未来首轮选秀权送至快船；76人得到热火的约什-理查德森；巴特勒得到他的4年1.42亿美元的顶薪合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

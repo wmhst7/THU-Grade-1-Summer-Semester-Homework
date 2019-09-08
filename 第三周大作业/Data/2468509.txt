@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：老鹰正式宣布签下前锋马库斯-德里克森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ATLHawks/status/1164968388092997637" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 05:06:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：老鹰正式宣布签下前锋马库斯-德里克森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/bc564cefdd4bac0c22f23d9dd98cce8a106acc09.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 根据The Athletic记者Shams Charania此前消息的报道，多位联盟消息人士透露，马库斯-德里克森已经与老鹰达成了一份Exhibit 10合同。
+   </p>
+   <p>
+    今日，老鹰官方正式宣布球队签下前锋马库斯-德里克森。
+   </p>
+   <p>
+    2018-19赛季常规赛，德里克森为勇士出战11场比赛，场均出战6.1分钟，可以拿到4.2分1.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

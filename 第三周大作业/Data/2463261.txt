@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞尔维亚男篮将球队大名单人数减少至14人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/917004/serbias-world-cup-preliminary-roster-to-14-players/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 07:09:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞尔维亚男篮将球队大名单人数减少至14人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/f5f0afe32973ae9d99ba8d407aa21194df740853.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 塞尔维亚篮协宣布，国家队男篮主帅Sasha Djordjevic已经从球队的初选大名单中裁掉了Dejan Todorovic、Aleksa Avramovic和Nikola Jovanovic。
+   </p>
+   <p>
+    现在塞尔维亚男篮大名单里还有14名球员：米洛什-特奥多西奇、斯特凡-约维奇、瓦里西耶-米西奇、波格丹-波格丹诺维奇、Dragan Milosavljevic、马尔科-古杜里奇、Vladimir Lucic、马科-西蒙诺维奇、内马尼亚-别利察、Stefan Bircevic、尼古拉-约基奇、米罗斯拉夫-拉杜利察、尼古拉-米卢蒂诺夫和博班-马里亚诺维奇。
+   </p>
+   <p>
+    塞尔维亚男篮还需要裁掉2名球员，塞尔维亚、意大利、菲律宾和安哥拉同在D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

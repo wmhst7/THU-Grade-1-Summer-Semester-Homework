@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝尔：唐斯和威金斯负责掌控进攻端，我会专注于防守端
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www.basketballinsiders.com/nba-daily-jordan-bells-new-opportunity-in-minnesota/" target="_blank">
+     Basketball Insiders
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 11:19:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝尔：唐斯和威金斯负责掌控进攻端，我会专注于防守端" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/7551fb8b9db5e303b23c7392d5b20092a819e8db.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 森林狼新援乔丹-贝尔在近日接受媒体采访时谈到了加盟森林狼，以及对于下赛季的展望。
+   </p>
+   <p>
+    谈到加盟森林狼，贝尔说：“这是机会，我当时给我的经纪人打电话，我告诉他不要给我说合同的数额，我只想上场打球，我只想得到一个机会，作为一名篮球运动员，我只想取得进步。”
+   </p>
+   <p>
+    “我在今年夏天拼命训练，尽管在金州打球也是非常棒的机会，但作为一名篮球运动员，我希望能够继续成长，我想去到一个能够有机会取得进步、提升自己的比赛水准的地方。”贝尔补充道。
+   </p>
+   <p>
+    谈到在森林狼的定位，贝尔说：“就是努力让身边的每个人变得更出色，我当然知道卡尔（安东尼-唐斯）和安德鲁-威金斯会是球队的焦点，他们负责掌控进攻端，而我会努力掌控防守端。就是将我在过去两年中从德雷蒙德（格林）、KD（凯文-杜兰特）和安德烈（伊格达拉）他们身上学到的东西带到这里，我认为我们拥有一个特别的团队，我们可以做到一些特别的事情。”
+   </p>
+   <p>
+    据此前的相关报道，森林狼与前锋乔丹-贝尔达成了一份1年160万的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，贝尔场均出战11.6分钟，能够得到3.3分2.7篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

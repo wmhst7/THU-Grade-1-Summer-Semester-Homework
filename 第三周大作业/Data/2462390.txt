@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈斯勒姆与热火续约一年，下赛季将为其效力热火第17季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1158828908856266752" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 03:56:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈斯勒姆与热火续约一年，下赛季将为其效力热火第17季" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/e2ed213ed41d315f8260d9dd6960dc0533be1eef.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 根据The Athletic记者Shams Charania报道，热火大前锋犹多尼斯-哈斯勒姆与热火签下一年合同，完成续约。下赛季将为哈斯勒姆为热火效力的第17个赛季。
+   </p>
+   <p>
+    此前热火在合同转为保障截止日前裁掉了前锋亚特-马滕。 这样一来，马滕2019-20赛季接受的10万美元的受保障合同没能转为15万美元，热火的大名单也空出了一个名额。
+   </p>
+   <p>
+    哈斯勒姆目前39岁，如果他与热火续约，他将得到260万的老将底薪，但只有160万会计入热火的薪资空间。（为了鼓励球队不要因为底薪标准不同，拒绝签下老将转而选择年轻球员，劳资协议中还有一条规定：当某名球员在NBA打了3个赛季或者更多的时候，如果他和球队签订一份底薪，为期一年、10天或者到当赛季结束的合同的话，联盟会代垫一部分球员的工资：球队只需按照两年经验的球员底薪标准支付，超过部分由联盟补偿。）
+   </p>
+   <p>
+    哈斯勒姆职业生涯至今16个赛季均在热火度过，他为热火出战855场常规赛，场均得到7.6分6.7篮板。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

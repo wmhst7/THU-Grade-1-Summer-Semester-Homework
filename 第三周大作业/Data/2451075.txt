@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  队友默契！湖人球员詹姆斯戴维斯库兹马同时亮相夏联现场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nba/status/1147650425543258112?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 08:41:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="队友默契！湖人球员詹姆斯戴维斯库兹马同时亮相夏联现场" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/6a00918d35750747d0cf1e2f83f372f20629b789.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 NBA官方和NBA夏季联赛官方今日分别通过推特发布了湖人球员勒布朗-詹姆斯、安东尼-戴维斯以及凯尔-库兹马一同来到夏季联赛现场观看比赛的图文动态。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/0fd9e6d799df53535790789a2554eb16.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/ba0b4881f350d2926c4a61613d897e9f.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/07c3cfd3906f9bd2a30ce0cff078d444.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/63088731b293dcde0338b129fb740a64.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/2e1b56c10d612ca5a8f1fc8a807cef66.jpeg"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/86e7f82f9a6272b60ad970096fc5fdfd.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/921a0bb822d14dbf8535a7a1377e43f2.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/f33a347ebffd21d564e3944dfd17215b.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

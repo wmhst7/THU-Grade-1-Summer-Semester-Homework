@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  齐聚巴塞罗那！米罗蒂奇发布自己与阿夫里内斯的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0QJEoChfhm/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 16:39:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="齐聚巴塞罗那！米罗蒂奇发布自己与阿夫里内斯的合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/3c962d8ac310bed18385b569a99a3e7f7fbb059c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据此前的新闻，巴塞罗那篮球俱乐部与亚历克斯-阿夫里内斯签下了一份2+1的合同，合同第3年带有球员选项。尼古拉-米罗蒂奇也与与巴塞罗那篮球俱乐部签下一份3+1的合同。
+   </p>
+   <p>
+    今天米罗蒂奇在Instagram上发布了自己和阿夫里内斯合影，他写道：“最近怎么样。@巴塞罗那篮球俱乐部”
+   </p>
+   <p>
+    阿夫里内斯于2013年选秀大会第32顺位被雷霆选中，在2016年正式登陆NBA。阿夫里内斯为雷霆效力3个赛季，出战174场常规赛，场均上场16分钟，得到5.3分1.4篮板。
+   </p>
+   <p>
+    米罗蒂奇2018-19赛季效力于NBA新奥尔良鹈鹕队以及密尔沃基雄鹿队，常规赛场均上场27.1分钟，得到15.1分7.4篮板。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2453259&amp;type=1&amp;entrance=26">
+     官方：巴塞罗那篮球俱乐部签约阿夫里内斯
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2450847&amp;type=1&amp;entrance=26">
+     官方：巴塞罗那篮球俱乐部签约米罗蒂奇
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

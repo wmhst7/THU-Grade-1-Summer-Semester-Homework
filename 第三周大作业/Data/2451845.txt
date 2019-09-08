@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  朗戴-霍利斯-杰弗森今日晒出身披猛龙战袍照片：加拿大
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzq5ibulsjd/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 09:52:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="朗戴-霍利斯-杰弗森今日晒出身披猛龙战袍照片：加拿大" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/67e07cf4519f27b654f9ee70e839d42bc64f4eab.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据之前NBA记者Adrian Wojnarowsk的报道，篮网不会给朗戴-霍利斯-杰弗森提供资质报价，杰弗森将成为一名完全自由的球员。随后根据The Athletic记者Shams Charania报道，消息人士透露，朗戴-霍利斯-杰弗森将以一年合同加盟猛龙。
+   </p>
+   <p>
+    今日，朗戴-霍利斯-杰弗森更新了个人社交媒体Instagram晒出一张自己身披猛龙战袍的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“哇哦，加拿大！”
+   </p>
+   <p>
+    朗戴-霍利斯-杰弗森于2015年被开拓者以首轮23顺位选中，然后被交易至篮网，2017-18赛季为篮网出场68次，其中59次首发，场均出场28.2分钟可以得到13.9分6.8篮板。
+   </p>
+   <p>
+    2018-19赛季常规赛，杰弗森共出战了59场比赛，场均出场20.9分钟，可以得到8.9分5.3篮板1.6助攻；季后赛期间，杰弗森场均出场15.5分钟，可以得到13.3分3.0篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

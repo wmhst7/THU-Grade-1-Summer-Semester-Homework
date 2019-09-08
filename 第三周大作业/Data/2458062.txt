@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金官方更新社交媒体：普拉姆利要去美国男篮训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0WO_tDgMmP/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 03:13:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金官方更新社交媒体：普拉姆利要去美国男篮训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/b7183c84fac587fcbffb860ba45121912e784355.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，掘金官方更新社交媒体Instagram，晒出梅森-普拉姆利将参加美国男篮训练营照片（见新闻配图）。
+   </p>
+   <p>
+    “普拉姆利将要参加美国男篮训练营！”配文写道。
+   </p>
+   <p>
+    根据此前报道，
+    <a href="https://voice.hupu.com/nba/2458042.html">
+     普拉姆利入选美国男篮训练营。
+    </a>
+   </p>
+   <p>
+    2018-19赛季常规赛，普拉姆利场均上场21.1分钟，得到7.8分6.4篮板3.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

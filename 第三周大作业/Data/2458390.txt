@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才今日正式向比尔提供3年1.11亿顶薪续约合同报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/davidaldridgedc/status/1154762405588668416" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 23:53:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才今日正式向比尔提供3年1.11亿顶薪续约合同报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/f15b038e0877fec7b0b47a07df02656f871e2c55.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 根据The Athletic记者David Aldridge报道，多位消息人士透露，奇才今日正式向布拉德利-比尔提供了一份3年1.11亿美元的顶薪续约合同。
+   </p>
+   <p>
+    根据报道，今日是奇才能够提供续约合同报价的第一天，所以球队立即采取了行动。
+   </p>
+   <p>
+    根据报道，尽管比尔对于球队的诚意表示感激，且不愿在球队艰难的时期放弃球队，但奇才在他职业生涯的巅峰期仍在短期和长期计划上存在着明显问题。
+   </p>
+   <p>
+    此外，如果比尔在下赛季结束后入选联盟最佳阵容，他便有资格签下一份数额更大的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔场均上场36.9分钟，得到25.6分5.0篮板5.5助攻1.48抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

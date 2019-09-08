@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾弗森晒自己老年特效图：我的内心总是保持着年轻
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0AIa3ngbjB/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 16:07:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾弗森晒自己老年特效图：我的内心总是保持着年轻" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/c9474250a578c4977e0e8c8269da7702edf161e6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日名人堂球员阿伦-艾弗森更新了自己的个人Instagram动态，晒了一张自己的老年特效图。
+   </p>
+   <p>
+    “我的内心总是保持着年轻...#2019 #2069 #还是很帅 ”艾弗森写道。
+   </p>
+   <p>
+    艾弗森在1996年选秀大会首轮第1顺位被76人选中，职业生涯曾效力于76人、掘金、活塞和灰熊，共上场914次，场均上场41.1分钟，得到26.7分3.7篮板6.2助攻2.17抢断。
+   </p>
+   <h5>
+    勘误：虎扑错误地将“6.2助攻”写成了“6.2抢断”，给广大JRs造成误解，在此致歉。
+   </h5>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

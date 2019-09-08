@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔-辛格勒与西班牙俱乐部特内里费签约一年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fiba-champions-league/912534/iberostar-tenerife-signs-kyle-singler/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 18:20:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔-辛格勒与西班牙俱乐部特内里费签约一年" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/ffc0c7ded4e0a142726de93068c650306c4134f8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 西班牙ACB联赛的特内里费俱乐部宣布，他们与凯尔-辛格勒签下了一年的合同。
+   </p>
+   <p>
+    31岁的辛格勒NBA职业生涯至今为活塞和雷霆出战过，打过356场常规赛，场均出战21.9分钟可以拿到6.5分2.9篮板。
+   </p>
+   <p>
+    辛格勒上赛季在西班牙ACB联赛的奥布拉多里奥俱乐部打球，场均出战21.8分钟可以拿到10.2分3.7篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

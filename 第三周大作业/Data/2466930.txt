@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞尔维亚神射手！FIBA祝波格丹诺维奇27岁生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1TIKuZCdL9/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 13:07:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞尔维亚神射手！FIBA祝波格丹诺维奇27岁生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/658d278b4e2d9d00423017e93d20f81c63f407b9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 国际篮联官方今日在Instagram上祝塞尔维亚后卫、国王球员波格丹-波格丹诺维奇27岁生日快乐。
+   </p>
+   <p>
+    “祝波格丹诺维奇生日快乐！”FIBA写道。
+   </p>
+   <p>
+    波格丹诺维奇出生于1992年8月18日，2014年第1轮第27顺位被太阳选中，在2017-18赛季加盟国王，开启自己的NBA生涯。2018-19赛季常规赛，场均出场27.8分钟，得到14.1分3.5篮板3.8助攻1.03抢断。
+   </p>
+   <p>
+    波格丹诺维奇是塞尔维亚男篮国家队的常客。先后代表国家队参加男篮世界杯、奥运会、欧锦赛等比赛，并获得2014年男篮世界杯亚军、2015年欧锦赛第四名、2016奥运会亚军、2017年欧锦赛亚军等荣誉。2017年欧锦赛中，波格丹诺维奇场均得到20.4分3.4篮板5.0助攻，命中率达到47.4%，入选赛事最佳阵容。
+   </p>
+   <p>
+    今年夏天，他将代表塞尔维亚国家队征战男篮世界杯，并与其他效力于NBA的塞尔维亚球员尼古拉-约基奇、博班-马里亚诺维奇等人一同为塞尔维亚争取更好成绩。塞尔维亚、意大利、菲律宾和安哥拉同在D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

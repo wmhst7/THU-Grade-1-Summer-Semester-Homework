@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加兰晒出与小凯文-波特合影，并与Bronny在线互动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0J9Txwj5mQ/?igshid=m4vffe88csr4" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 13:44:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加兰晒出与小凯文-波特合影，并与Bronny在线互动" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/32b40283b222dbdb06b06c769449f3dfcaf6d774.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 骑士新秀后卫达里厄斯-加兰今日通过Instagram晒出一张他与新秀队友小凯文-波特在夏季联赛场边的合影。
+   </p>
+   <p>
+    “嘿，IG（Instagram简称）。”加兰写道。加兰是本届选秀5号秀，小波特是30号秀。
+   </p>
+   <p>
+    此时，湖人前锋勒布朗-詹姆斯的大儿子Bronny也连续留言与加兰展开互动。
+   </p>
+   <p>
+    Bronny评论了一个“哇”字，加兰回复道：“哈哈，兄弟，冷静点。”
+   </p>
+   <p>
+    Bronny再次评论道：“我发现它是如何风靡标题了（Bronny开通Instagram后的第一条动态配文与加兰完全一致）。”加兰回复道：“后来的。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/13/ef05842a26f4b8e08a6e1d50e8df0ff1.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/13/45564412c9761ce99a7e0b1d086ac93a.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

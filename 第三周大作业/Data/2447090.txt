@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯对考辛斯感兴趣，并且与兰德尔相互有意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/is-the-knicks-change-in-culture-working/" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 08:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯对考辛斯感兴趣，并且与兰德尔相互有意" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/ed82203c927bfb4f95d0e5ac7b17c4ebc78097cd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 根据The Undefeated记者Marc J. Spears的报道，尼克斯希望可以在自由球员市场上与科怀-伦纳德会面，一位消息人士透露，尼克斯也对肯巴-沃克和凯里-欧文感兴趣。
+   </p>
+   <p>
+    Marc J. Spears在文中写道，尼克斯也对托拜厄斯-哈里斯和尼古拉-武切维奇感兴趣，之前尼克斯总经理斯科特-佩里在魔术任职的时候，武切维奇和哈里斯都在魔术效力。
+   </p>
+   <p>
+    多位消息人士透露，尼克斯其他感兴趣的自由球员包括德安德烈-乔丹、德马库斯-考辛斯、马基夫-莫里斯和马库斯-莫里斯，并且朱利叶斯-兰德尔和尼克斯对彼此有兴趣。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

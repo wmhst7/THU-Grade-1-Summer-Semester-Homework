@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：我能够预想到利文斯顿在未来会以某种身份回归勇士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/steve-kerr-hopes-shaun-livingston-involved-warriors-years" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 10:59:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：我能够预想到利文斯顿在未来会以某种身份回归勇士" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/90dfa295786629e083e9965744208249116f281c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 勇士主教练史蒂夫-科尔在近日接受媒体采访时谈到了今年夏天离队的肖恩-利文斯顿。
+   </p>
+   <p>
+    谈到利文斯顿被球队裁掉，科尔说：“这是我们能够预料到的事情，因为他的年龄和合同情况，我已经有了心理准备。但从领导力层面而言，失去他是巨大的损失。肖恩是那种你在任何情况下都想要和他待在一起的家伙，他很聪明、风趣、谦逊，他是一个很好的人，同时也是一位非常出色的篮球运动员和队友。我无法告诉你我和肖恩相处的五年有多开心。”
+   </p>
+   <p>
+    利文斯顿目前是一位自由球员，他还没有决定退役，科尔表示他能够预想到利文斯顿会在退役之后以某种身份出现在勇士。
+   </p>
+   <p>
+    “我希望他能够在球队中工作很多年，”科尔说道，“如果我们有机会这样做，那这就是我们的计划。但他现在不得不离队，获得一些自由，在决定下一步的计划之前，享受他的家庭时光。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

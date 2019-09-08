@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：国王与联盟已结束对主帅沃顿的性侵事件调查
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1164961286557503488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 02:04:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：国王与联盟已结束对主帅沃顿的性侵事件调查" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/9044185f8c212e948a6ca03823b8109bf5fa43c7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，国王与NBA联盟办公室已结束对主帅卢克-沃顿的不正当行为的调查，结果为证据不足以支持对沃顿的指控。
+   </p>
+   <p>
+    根据此前的报道，前Spectrum SportsNet女记者Kelli Tennant对沃顿在2014年担任勇士助教时与她在酒店房间会面期间的行为提出性侵指控，沃顿则坚持自己是清白的并会抗争到底，不会用钱来和解。
+   </p>
+   <p>
+    国王声明如下：
+   </p>
+   <p>
+    在调查过程中，我们走访了包括沃顿在内的20余人，仔细审查了大量文件以及其他相关材料。
+   </p>
+   <p>
+    检方多次尝试对Tennant女士进行走访沟通，但是，Tennant女士的律师出面回绝了这一提议。
+   </p>
+   <p>
+    在发现新的证据之前，本次调查到此结束。
+   </p>
+   <p>
+    根据NBA记者 Marc J.Spears 的报道，沃顿发表声明，表示自己“100%专注于执教这支国王，现在我动力十足，将和这些优秀的球员以及教练组成员一起，开始新赛季的季前备赛。除此之外，无可奉告。”
+   </p>
+   <p>
+    今年夏天，沃顿被湖人解雇，随后与国王签下了一份4年合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：不剩菜)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

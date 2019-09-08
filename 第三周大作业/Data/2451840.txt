@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗曾在拉斯维加斯指导丹尼斯-史密斯训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/08/knicks-dennis-smith-jr-is-getting-advice-from-chris-paul/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 09:40:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗曾在拉斯维加斯指导丹尼斯-史密斯训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/cbb5a4f5e74bdae2b87bf8bef4d66f6beccf6e96.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据纽约邮报记者Marc Berman的报道，NBA消息人士透露，尼克斯后卫丹尼斯-史密斯与火箭后卫克里斯-保罗近期曾在拉斯维加斯一起训练。
+   </p>
+   <p>
+    保罗与尼克斯的球员们在拉斯维加斯住同一个酒店，他指导史密斯如何成为一个更好的领导者。
+   </p>
+   <p>
+    保罗上赛季在火箭出战58场常规赛，场均32.0分钟能得到15.6分4.6篮板8.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

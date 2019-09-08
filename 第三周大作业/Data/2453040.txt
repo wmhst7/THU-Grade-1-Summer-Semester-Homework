@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  助教特纳：我跟这支火箭处境一样，进西决后没能更进一步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Like-the-Rockets-Elston-Turner-is-hungry-14089589.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 10:04:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="助教特纳：我跟这支火箭处境一样，进西决后没能更进一步" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/47e991c98d1b6a40756dcfd9fde9f2c15892105d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 NBA资深助教埃尔斯顿-特纳已经正式与火箭签约，担任球队的首席助教，专注于球队防守。
+   </p>
+   <p>
+    “我自己跟这支火箭处境差不多一样，我之前打进过西决，但是没能更进一步，我不喜欢这样的感觉，到现在仍然不喜欢，我仍然有着那样的渴望。”特纳说道。
+   </p>
+   <p>
+    特纳接着说：“我之前在开拓者的时候，在抢七大战第四节曾领先对手15分（但是输了），我之前在国王，对阵湖人，我们第六场输了，然后我们在我们的主场被淘汰，火箭那样的失利方式，这让你生气，这会让你下赛季回来更渴望，展示自己可以做到一些什么，我与火箭处境一样，目标夺冠，所有人都必须全力以赴才能这让实现，这会很美。”
+   </p>
+   <p>
+    60岁的特纳开心自己得到一个再次冲击总冠军的机会，他说：“我本可以轻轻松松做个解说员，或者什么都不做，我仍然爱我做的事情，一个工作机会来了，我决定工作。”
+   </p>
+   <p>
+    “火箭是一支不错的球队，这会让我多一些压力，这是很明显的，但是我1981年就进入联盟，作为球员和教练都经历过一些有压力的情况，这没什么新鲜的。”特纳说道。
+   </p>
+   <p>
+    特纳接着说：“这就是体育运动，当你打球的时候，当你执教的时候，你必须要热爱这个，火箭是一支常规赛赢了50多场的球队，他们有一个需要迈过的坎儿。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

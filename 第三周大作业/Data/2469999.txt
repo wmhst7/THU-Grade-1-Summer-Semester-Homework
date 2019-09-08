@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：想成为布拉德利那样的防守者，也在向斯马特学习
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sltrib.com/sports/2019/08/27/donovan-mitchell-has-goal/" target="_blank">
+     盐湖城论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 11:10:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：想成为布拉德利那样的防守者，也在向斯马特学习" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/1e9c98ab3977ff3a59d3c6e305f23e1c97d28665.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 爵士后卫多诺万-米切尔目前正在代表美国男篮备战世界杯，在此期间他接受了《盐湖城论坛报》记者Andy Larsen采访。
+   </p>
+   <p>
+    现如今米切尔已经成为了球队的进攻组织核心，但他在大学时期却以防守著称。在参加选秀之前，他经常被拿来与湖人球员埃弗里-布拉德利进行比较，当时效力于凯尔特人的布拉德利打出了职业生涯最出色的防守表现。
+   </p>
+   <p>
+    “对于我而言，最重要的事情就是找回我的初衷，提高我的防守水准，那是我被选中的原因，”米切尔说道，“我认为防守是我引以为豪的一件事，主教练格雷格-波波维奇也让我意识到了这一点。”
+   </p>
+   <p>
+    当被问及想要成为一名怎样的防守者时，米切尔首先提到了布拉德利，但他同时表示自己也在向美国男篮队友马库斯-斯马特学习。
+   </p>
+   <p>
+    米切尔与肯巴-沃克、斯马特被视为本届美国男篮的领导者，米切尔对此表示：“无论是在场上还是在场下与这些家伙们相处，我就是努力找到成为一名领导者的方法，努力起到话语领袖的作用。作为这支球队的领导者之一，这让我能够有机会提升自己的领导能力。即将到来的新赛季非常关键，这样的锻炼机会对于我的帮助将在下赛季得到非常明显的体现。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

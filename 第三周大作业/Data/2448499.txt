@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  内内很可能会选择退役
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rockets_Insider/status/1145048603523768323" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 09:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="内内很可能会选择退役" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/6ae2baff7fb2556670795dac3256b3f807597a53.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据The Athletic记者Alykhan Bijani的报道，在本周早些时候，火箭的一些消息人士透露，内内很可能会选择退役。
+   </p>
+   <p>
+    根据著名NBA记者Adrian Wojnarowski报道，内内将拒绝执行自己下赛季383万美元的球员选项，成为完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，内内场均出场13分钟可以得到3.6分2.9篮板。
+   </p>
+   <p>
+    内内是2002年选秀大会里唯一一个还在NBA打球的球员，NBA职业生涯至今，内内一共出战965场常规赛，场均出战26.2分钟，可以拿到11.3分6篮板1.8助攻1.1抢断0.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  考辛斯训练中可能遭遇膝盖伤势，将在今天接受进一步检查
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1162018825073676288" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 23:12:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="考辛斯训练中可能遭遇膝盖伤势，将在今天接受进一步检查" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/042207d89835bd02e8f1fce932495f2cf80dbf27.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，湖人中锋德马库斯-考辛斯可能在训练中膝盖受伤，将会在北京时间今日（当地时间周四）于洛杉矶接受进一步检查。
+   </p>
+   <p>
+    消息人士透露，考辛斯在当地时间周一于拉斯维加斯训练，一位消息人士透露，考辛斯与另一位球员在训练中膝盖碰撞后受伤，随后在训练途中他不得不离场。多位消息人士透露，考辛斯预计将与湖人医疗团队会面。
+   </p>
+   <p>
+    今夏，考辛斯和湖人签下了一份1年350万美元的合同。考辛斯在2017-18赛季效力于鹈鹕时曾遭遇跟腱撕裂，在上赛季效力于勇士期间也曾遭遇四头肌伤病。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯共上场30次，场均上场25.7分钟，得到16.3分8.2篮板3.6助攻1.33抢断1.47盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

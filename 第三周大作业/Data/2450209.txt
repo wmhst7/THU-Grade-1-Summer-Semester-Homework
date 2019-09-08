@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗更新Ins:祝爸爸妈妈37周年快乐，你们是最棒的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzelbooFNhO/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 15:58:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗更新Ins:祝爸爸妈妈37周年快乐，你们是最棒的" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/38c3aafdb4e3d56bb15e97486bd5e40c37c66016.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 今日，火箭球员克里斯-保罗更新Instagram，晒出自己父母的多张照片，并写道：“祝爸爸妈妈37周年纪念日快乐！你们是最棒的！！！#家庭第一”
+   </p>
+   <p>
+    骑士球员凯文-乐福在下面评论道：“基础。（原文foundation，意为家庭是一切的基础）”
+   </p>
+   <p>
+    ESPN记者Rachel Nichols：“你知道我爱保罗先生和夫人，纪念日快乐！”
+   </p>
+   <p>
+    鹈鹕球员埃尔弗里德-佩顿：“家庭！（爱心表情）”
+   </p>
+   <p>
+    前NBA球员拜伦-戴维斯：“爱心，100分。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/ee7c713ca109e2e1b6955049723109bf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/0b53f6bdae84aba709640cf25db02f4c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/f11f32140af9ad52e59aafce00897dcd.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

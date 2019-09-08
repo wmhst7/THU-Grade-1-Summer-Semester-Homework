@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯快船需要7000万空间以顶薪同时签下杜兰特伦纳德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AlbertNahmad/status/1145007140366667776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 00:50:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯快船需要7000万空间以顶薪同时签下杜兰特伦纳德" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/63ec4a275f0ff03d0f0910db9ce94b1cc47be7ec.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA薪资专家Albert Nahmad报道，在现有1.09亿美元工资帽下，尼克斯和快船若想同时以顶薪签下凯文-杜兰特和科怀-伦纳德，将至少需要7000万美元薪资空间。
+   </p>
+   <p>
+    尼克斯已具备7000万空间，快船现仅有5600万空间，快船有多种方式以腾出空间，如交易达尼罗-加里纳利；交易路易斯-威廉姆斯、蒙特雷兹-哈勒尔和杰罗姆-罗宾逊；用延伸条款裁掉威廉姆斯和哈勒尔，同时交易罗宾逊等方式。
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，科怀-伦纳德和凯文-杜兰特已商讨过加盟同队并联手的可能性。
+   </p>
+   <p>
+    根据Woj报道，目前两人有可能同时加盟的球队只有快船和尼克斯。
+   </p>
+   <p>
+    多位消息人士透露，伦纳德和杜兰特计划在自由球员市场开启后分别与快船和尼克斯谈判。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻0.74抢断1.08盖帽。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

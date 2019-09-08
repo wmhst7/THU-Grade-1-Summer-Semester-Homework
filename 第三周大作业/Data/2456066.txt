@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  炫彩灯光秀？詹姆斯面对大儿子Bronny镜头举手致意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/bronny/2091709444512837715?utm_source=ig_story_item_share&amp;igshid=1eg8vf1zykxnv" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 11:14:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="炫彩灯光秀？詹姆斯面对大儿子Bronny镜头举手致意" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/5778300b6cdbeb12e4bcc27a0be83b58be90ef49.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 湖人前锋勒布朗-詹姆斯的大儿子Bronny今天通过Instagram Story拍摄了一段他和父亲的视频。
+   </p>
+   <p>
+    Bronny和父亲勒布朗似乎身处一个灯光效果绚丽的大厅内，期间勒布朗对着儿子的拍摄镜头举手致意。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯共出场55次，场均35.2分钟，可以得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/11/2c10ab30b0a0a26aae8f689cdfe39629.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/11/1b0bb9a0287cf14275e2c4c4eda43c47.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

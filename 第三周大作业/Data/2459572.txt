@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  挥洒汗水！戴维斯分享与霍勒迪一同训练视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/antdavis23/2098882639741312081?utm_source=ig_story_item_share&amp;igshid=1bn2gi7aslhji" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 07:57:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="挥洒汗水！戴维斯分享与霍勒迪一同训练视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/8a535882705aed916510476069912039a5e5862f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 湖人前锋安东尼-戴维斯通过Instagram Story转发了一段自己今日与前鹈鹕队友朱-霍勒迪一起进行力量平衡等训练的视频。
+   </p>
+   <p>
+    2018-19赛季常规赛，戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻2.4盖帽；霍勒迪场均上场35.9分钟，得到21.2分5.0篮板7.7助攻1.63抢断0.81盖帽。
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190730/07/10bc95a6e8dd61ffdc55f611aeca7af6.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

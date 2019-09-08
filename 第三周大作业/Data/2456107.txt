@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  托拜厄斯-哈里斯：不惊讶欧文杜兰特去篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/18/revamped-nets-puts-76ers-tobias-harris-star-on-notice/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 13:46:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="托拜厄斯-哈里斯：不惊讶欧文杜兰特去篮网" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/3bdfe04e332b54c2ff82a5a87b16d4e7722298a0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 近日，76人前锋托拜厄斯-哈里斯参加了NBPA五星训练营，期间他接受了记者采访。
+   </p>
+   <p>
+    哈里斯认为前锋艾尔-霍弗德的加盟以及自己的续约完美符合76人的大目标。
+   </p>
+   <p>
+    哈里斯还承认，自己对凯里-欧文和凯文-杜兰特加盟篮网一事并不惊讶：“人们听到了很多关于此事的流言。我并不100%肯定。但是如果我要猜的话，我会说凯里和凯文将加盟篮网。几乎整个赛季你都听到了不同的流言。但是那是我的有根据的推测。”
+   </p>
+   <p>
+    哈里斯同时提到如果篮网没能得到杜兰特，他们可能对自己有意。如果自己没能与76人签下5年1.8亿美元的续约合同，他可能会与尼克斯会面。他的父亲和经纪人为他安排了与其他球队的会面，但是由于哈里斯与76人的合同已经敲定了，那些会面并未实际进行。他称与尼克斯会面的可能只是一个“如果”。
+   </p>
+   <p>
+    被问及对尼克斯下赛季的期望时，哈里斯避而不谈：“我并不为尼克斯效力。我不关心尼克斯的事。我不会浪费自己的精力。”
+   </p>
+   <p>
+    哈里斯在向训练营营员做演讲时说：“自由市场开启后，一切都发生得很快。你在事前就很能感受到了，会发生很多人员流动。今年的自由市场是非常传奇性的。我知道我想要留队，但是你永远不知道在自由市场开启后会发生什么。”
+   </p>
+   <p>
+    76人此前已经官宣和托拜厄斯-哈里斯完成续约，双方达成的是5年1.8亿美元的续约协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，托拜厄斯-哈里斯场均出场34.7分钟，得到20.0分7.9篮板2.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

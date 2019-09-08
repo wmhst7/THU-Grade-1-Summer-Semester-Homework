@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：詹姆斯组织湖人全队于9月开展迷你训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/stadium/status/1159102296560668672?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 22:38:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：詹姆斯组织湖人全队于9月开展迷你训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/064b5fe3903251b3018cbd3ab549bfe4581d7136.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 据The Athletic记者Shams Charania报道，湖人前锋勒布朗-詹姆斯将组织一个湖人队内的迷你训练营，以增进全队的凝聚力。
+   </p>
+   <p>
+    “消息人士向我透露，勒布朗-詹姆斯已经开始组织一个将于拉斯维加斯举行的队内迷你训练营，时间点在9月湖人训练营开始前几天。此举的意义是为了在正式的湖人训练营即将开始前刺激和增强球队凝聚力。”Shams在电视节目中说道。
+   </p>
+   <p>
+    “你将在全联盟范围内都看到这种现象，科怀-伦纳德和快船也在协调组织一个迷你训练营，我被告知可能的地点在迈阿密，时间点在赛季开始前，也就是正式训练营之前。”Shams补充道。
+   </p>
+   <p>
+    “关于湖人的迷你训练营，两位消息人士告知我，这是勒布朗-詹姆斯和湖人全队很好的举措，组织安排这样的迷你训练营有利于一支如此全新球队的融合，有助于他们在进入训练营之前就开始建立化学反应。”Shams总结道。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

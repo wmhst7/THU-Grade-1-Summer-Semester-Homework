@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  菲律宾主帅：我们还没得到克拉克森能出战世界杯的消息
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sukaiceltics/status/1163718266503647233" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 15:44:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="菲律宾主帅：我们还没得到克拉克森能出战世界杯的消息" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/e46bbc4dce16faad3ebb6679452245acd73c6746.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 菲律宾国家队主教练Yeng Guiao近日接受了Daily Tribune记者的电话采访。
+   </p>
+   <p>
+    在谈到骑士后卫乔丹-克拉克森是否会代表菲律宾出战本届世界杯时，他说道：“事情正变得不明朗，距离世界杯仅剩2周了，但我们还没有得到克拉克森能出战世界杯的消息。我觉得我们必须得前进了，时间不等人。我们必须得做好准备，并且在我们现有的球员基础上做到最好。”
+   </p>
+   <p>
+    此前，克拉克森曾代表菲律宾出战了第18届亚运会，并帮助球队取得了第5名的名次。
+   </p>
+   <p>
+    在世界杯的规则下，一名球员必须要在16岁之前取得他想代表的那个国家的护照才能代表那个国家出战世界杯，而克拉克森并不满足这个条件。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

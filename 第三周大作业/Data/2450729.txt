@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马卡比、米兰奥林匹亚有意欧米-卡斯比
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sportando.basketball/en/rumors-maccabi-tel-aviv-and-olimpia-milano-among-teams-interested-in-omri-casspi/" target="_blank">
+     Sportando
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 09:29:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马卡比、米兰奥林匹亚有意欧米-卡斯比" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/10fb8a1170556ff461427b6958b81877daa84893.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 根据sportando记者Alessandro Maggi报道，特拉维夫马卡比篮球俱乐部（以色列联赛）与米兰奥林匹亚篮球俱乐部（意大利联赛）有意以色列前锋欧米-卡斯比。
+   </p>
+   <p>
+    据报道，卡斯比目前的第一选择仍然是留在NBA，重回欧洲联赛是卡斯比的B计划，但卡斯比目前并没有收到一份NBA合同。
+   </p>
+   <p>
+    卡斯比于2009年首轮第23顺位被国王选中，上赛季效力于灰熊，职业生涯至今先后效力于国王、骑士、火箭等多支球队。NBA职业生涯至今，卡斯比共出战588场常规赛，场均出场20.3分钟，得到7.9分4.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟将重点调查球队是否存在不正当招募球员的行为
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nytimes.com/2019/07/23/sports/nba-free-agency-investigation.html" target="_blank">
+     纽约时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 09:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟将重点调查球队是否存在不正当招募球员的行为" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/4c620df45b95d5e11ae91f05da3ba454ba7bdb21.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 根据《纽约时报》记者Sopan Deb和Marc Stein的联合报道，一位直接了解情况的消息人士透露，NBA已经展开了关于球队今夏在自由球员市场上运作方式的调查，重点调查是否有球队存在绕过工资帽对球员展开不正当的引诱行为。
+   </p>
+   <p>
+    这位消息人士透露，在本月举行的联盟董事会上，多位球队老板提出了这个问题。
+   </p>
+   <p>
+    之前有报道称科怀-伦纳德阵营的人在安排伦纳德加盟快船期间向快船要求得到会违反劳资条款规定的额外福利，根据加拿大体育网的报道，伦纳德的舅舅丹尼斯-罗伯特森要求得到球员在标准的合同谈判时不会要求得到的东西。
+   </p>
+   <p>
+    现在还不清楚联盟的调查会进展到什么程度，今夏多位高水准的球员更换球队，联盟也在探索是否需要改变他们的反引诱球员条款规定，在今夏自由球员市场开启前，多名球员已经做出了加盟承诺，联盟规定，在自由球员市场开启前，球队不允许招募有合同在身的他队球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

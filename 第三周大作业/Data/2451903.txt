@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：勇士正式从老鹰交易得到前锋奥马里-斯佩尔曼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WarriorsPR/status/1148328567610040320" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:48:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：勇士正式从老鹰交易得到前锋奥马里-斯佩尔曼" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/3d9ffd3e0f058a1097e4f2e5bc223869ff45dd53.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日金州勇士队官方宣布，球队用中锋达米安-琼斯和2026年次轮选秀权从亚特兰大老鹰队交易得到前锋奥马里-斯佩尔曼。
+   </p>
+   <p>
+    斯佩尔曼是2018年NBA选秀大会的首轮30号秀，来自维拉诺瓦大学，2018-19赛季常规赛共代表老鹰上场46次，场均上场17.5分钟，得到5.9分4.2篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

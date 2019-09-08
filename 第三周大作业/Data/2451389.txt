@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗-乔治现身拉斯维加斯赌场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/07/paul-george-gambling-vegas-kawhi-leonard-clippers/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 07:25:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗-乔治现身拉斯维加斯赌场" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/e5bc3feea09f3288e86e4ce0e43a8d50505ff7f9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 根据TMZ体育的报道，在当地时间上周六，保罗-乔治现身拉斯维加斯赌场玩起了百家乐。
+   </p>
+   <p>
+    在当地时间上周五，雷霆将乔治交易到快船，乔治将与科怀-伦纳德联手。
+   </p>
+   <p>
+    为了得到乔治，快船送出了谢伊-吉尔杰斯-亚历山大和达尼罗-加里纳利，选秀权方面，快船送出了4个无保护的首轮签、1个受保护的首轮签和2个选秀权互换的权利。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雷霆正式签下首轮新秀达里厄斯-贝兹利
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/thunder-sign-first-round-pick-darius-bazley.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 08:35:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雷霆正式签下首轮新秀达里厄斯-贝兹利" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/3d6368ff46a835944287786d90ad923271812e3b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，雷霆正式签下在今年的选秀大会上用首轮23号签选中的新秀达里厄斯-贝兹利。
+   </p>
+   <p>
+    雷霆与贝兹利签订的合同为四年新秀合同，薪水分别约为228万（全额保障）、240万（全额保障）、251万（球队选项）、427万（球队选项）。
+   </p>
+   <p>
+    贝兹利今年19岁，身高2.06米，体重95公斤，司职前锋，高中毕业后没有进入NCAA，他靠在new balance实习一年赚到了100万美金。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

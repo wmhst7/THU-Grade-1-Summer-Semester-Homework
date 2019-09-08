@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  桑德斯：唐斯和威金斯是球队基石，期待威金斯下赛季爆发
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1149098508051369984" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 16:38:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="桑德斯：唐斯和威金斯是球队基石，期待威金斯下赛季爆发" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/b699b25ff33a26cdf3a6578d434d1c40651ed17f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 森林狼主教练莱恩-桑德斯在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到球队下赛季的前景，桑德斯说：“当你拥有像卡尔（安东尼-唐斯）这样的家伙时，显而易见，他能里能外，他是一位三分球命中率高达40%的七尺长人。而安德鲁（威金斯）能够有效地攻击篮筐，我们很期待他在下赛季迎来爆发，他最近一直待在训练馆里，我们对他非常有信心。”
+   </p>
+   <p>
+    “当拥有这样两位球队基石时，你需要围绕二人打造球队。我们的年轻球员处于同样的阶段，或许他们在职业生涯起步阶段的表现不尽人意，但他们依旧有机会强势证明自己。”桑德斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

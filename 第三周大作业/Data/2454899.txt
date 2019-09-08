@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  费沃斯：鹈鹕会开发我的进攻技能，大个子球员要抓住机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.thebirdwrites.com/2019/7/16/20696588/nba-pelicans-new-orleans-los-angeles-lakers-utah-jazz-lonzo-ball-brandon-ingram-trade-favors-hart" target="_blank">
+     The Bird Writes
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 11:11:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="费沃斯：鹈鹕会开发我的进攻技能，大个子球员要抓住机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/4ebe64f76082fd9f2f32bb9780810a90506ec23a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日，鹈鹕前锋德里克-费沃斯参加鹈鹕召开的新援新闻发布会。
+   </p>
+   <p>
+    根据此前报道，鹈鹕官方宣布，球队已经从爵士方面交易得到了前锋德里克-费沃斯。
+   </p>
+   <p>
+    “这对我意义很大，”他说，“我之前和联盟防守最好的球员一起打球，我有很多东西无法发挥出来。他们打电话来说我还有未开发的进攻技能，我对此很兴奋，我觉得这会非常适合我。”
+   </p>
+   <p>
+    他谈到了对当下年轻的大个子球员的建议：“弄明白怎么投入工作，抓住每个你创造的机会。保持进步并且对此持积极态度。”
+   </p>
+   <p>
+    2018-19赛季常规赛，费沃斯场均上场23.2分钟，得到11.8分7.4篮板1.2助攻0.74抢断1.39盖帽，季后赛场均上场20.6分钟，得到11.8分7.4篮板1.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

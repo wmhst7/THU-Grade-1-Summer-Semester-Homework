@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小加索尔：我们也缺少了多名球员，美国仍非常有天赋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/923633/marc-gasol-i-dont-feel-bad-for-usa-they-have-whole-bunch-of-talent-coming-up/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 07:50:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小加索尔：我们也缺少了多名球员，美国仍非常有天赋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/83019246866438f6e2ad316625da4b31ae03d59f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 西班牙男篮的马克-加索尔接受采访时谈到了今夏的男篮世界杯。
+   </p>
+   <p>
+    谈到美国男篮，小加索尔说：“我认为所有球队都有球员缺席，很明显的是，美国男篮有很多大牌，这对他们来说有些不同，他们仍然有很多有天赋的球员，对所有球队来说，总是会有转变的时刻，也许对他们来说，转变有些突然，但是在某种程度上来说，一直都有转变，我不会为他们感到难过，因为他们仍然非常有天赋。”
+   </p>
+   <p>
+    “我们缺少了尼古拉-米罗蒂奇、赛尔吉-伊巴卡、保罗-加索尔、赛尔吉奥-罗德里格斯和亚历克斯-阿夫里内斯，我们也少了很多球员，在我看来，如果你想的话，这些都可以是借口，缺少了一些球员是其他球员站出来的机会。”小加索尔说道。
+   </p>
+   <p>
+    谈到世界杯，小加索尔说：“我认为有很多球队水平差不多，很多事情和结果将取决于对时机的掌握，取决于哪支球队可以在正确的时间提升表现，在最重要的时候打出好的表现，所以我认为有8、9支球队水准差不多。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

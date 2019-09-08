@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士预计将在今日裁掉JR-史密斯，以避免奢侈税
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/chrisfedor/status/1150760420761886721?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 21:30:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士预计将在今日裁掉JR-史密斯，以避免奢侈税" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/2d3cfe4a03f8f6d10ac7ce7f7464861086ea658c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 据《克利夫兰老实人报》记者Chris Fedor报道，联盟消息人士透露，骑士预计将在当地时间今日下午裁掉JR-史密斯。
+   </p>
+   <p>
+    据The Athletic记者Joe Vardon报道，一位联盟消息人士透露，除非出现最后时刻的交易，骑士预计将在当地时间今天裁掉JR-史密斯。
+   </p>
+   <p>
+    一位消息人士透露，骑士可以选择将史密斯的合同转保障日期延迟至当地时间8月1日，但是球队认为如今交易史密斯是不太可能的事情，因为许多球队已经充分使用了薪资空间。骑士将会选择使用延伸条款裁掉史密斯，
+   </p>
+   <p>
+    目前史密斯的2019-20赛季保障薪水为437万美元，若使用延伸条款，骑士将在未来三年内每一年支付史密斯140万美元。
+   </p>
+   <p>
+    根据Joe Vardon报道，在多笔交易谈判中，骑士寻求交易得到一个未来的首轮签，甚至愿意接受年限为两年以上的垃圾合同。
+   </p>
+   <p>
+    多位消息人士透露，老板丹-吉尔伯特否决了一些潜在交易，仍在继续督促管理层接受垃圾合同以达成交易，但这些多笔交易方案包括的垃圾合同将花费骑士5000万美元（薪水和奢侈税的总和）。
+   </p>
+   <p>
+    多位消息人士透露，自由球员市场刚开始时，骑士向勇士提出了用史密斯交易伊格达拉的报价，他们认为他们的筹码比灰熊更具吸引力，骑士甚至提出为勇士的首轮签加上更多的保护条件。
+   </p>
+   <p>
+    若骑士决定裁掉史密斯，球队的阵容大名单人数为13人，而多位消息人士透露，骑士计划在新赛季开始时保留一个阵容大名单的位置。
+   </p>
+   <p>
+    据NBA薪资专家Bobby Marks报道，若史密斯没有在当地时间今日（7月15日）被裁，他的合同保障金额将由437万美元升至512万美元。此后，若骑士不能在当地时间7月31日前裁掉或交易史密斯，其合同将转为下赛季的全额保障金额即1570万美元。
+   </p>
+   <p>
+    据Chris Fedor报道，在裁掉史密斯后，骑士的薪资总额将下降至联盟奢侈税线以下。
+   </p>
+   <p>
+    此前据NBA记者Brian Windhorst报道，消息人士透露，史密斯与骑士协商同意将其合同转为全额保障的日期推迟至当地时间7月15日，并且双方都有选项将这一日期进一步推迟到8月1日。他的合同中下赛季保障金额将从390万美元提升至440万美元。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

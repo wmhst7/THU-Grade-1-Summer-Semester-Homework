@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  三分射手！特洛伊-丹尼尔斯发布身穿湖人球衣合成图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/troydaniels/status/1146411700532367360?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 22:22:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="三分射手！特洛伊-丹尼尔斯发布身穿湖人球衣合成图" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/cba5734f2a0d2a689bcd96166c995f7c6cf9955c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 此前与湖人达成加盟协议的后卫特洛伊-丹尼尔斯今日通过推特发布一张个人身穿湖人球衣的效果图。
+   </p>
+   <p>
+    “#湖人秀 又一个证明质疑者犯错的机会……#磨砺赛季 #马拉松在继续 #TD（个人姓名缩写）投三分 ”丹尼尔斯写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

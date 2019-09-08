@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥：我想通过鞋子向全世界介绍我的家庭
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/the-story-behind-giannis-antetokounmpos-first-nike-signature-sneaker/" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 12:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥：我想通过鞋子向全世界介绍我的家庭" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/3343bcf4634f8ced8fcb7fe33dc86b43c4423db5.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 雄鹿前锋扬尼斯-阿德托昆博在接受采访时谈到了他的首双签名鞋“怪兽一代”。
+   </p>
+   <p>
+    “我想要我的鞋子能向全世界介绍我和我的家庭。”扬尼斯说，每双球鞋外底都刻有他父母的名字：他的母亲Veronica以及已故的父亲 Charles，他们一起在20世纪90年代初从尼日利亚移民道希腊，让他们的孩子过上更好的生活。每个鞋跟和鞋底都有他的四个兄弟的名字：Francis，萨纳西斯，科斯塔斯以及Alex。
+   </p>
+   <p>
+    “我想要一双好看的鞋，这可以讲述一个和孩子相关的故事，”扬尼斯说道，“一双鞋能让一个孩子努力奋斗，一双鞋能让一个孩子去相信他的梦想。”
+   </p>
+   <p>
+    扬尼斯有一个思想“我是我父亲的遗产”。
+   </p>
+   <p>
+    “我想要我的父亲被记住。我想要人们知道他留下了什么。”扬尼斯说，“他唯一在乎的就是他的孩子们，我们是他的遗产，他的遗产就是我和我的兄弟们。我们对此感到自豪。我的每双鞋都会有这句话...当鞋子出来的时候，我知道他在天上看着，并且对此非常高兴。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

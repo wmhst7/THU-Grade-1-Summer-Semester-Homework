@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱：我会想念考辛斯，湖人得到了一位充满饥渴的好球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-08-05/klay-thompson-warriors-acl-surgery-nba-playoffs" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 17:58:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱：我会想念考辛斯，湖人得到了一位充满饥渴的好球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/39ac2433eaab0378adf8c3f1cd6276c777282fd5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 勇士后卫克莱-汤普森近日接受采访谈到了今夏转投湖人的前队友德马库斯-考辛斯。
+   </p>
+   <p>
+    “德马库斯是一名绝佳的队友，我和他建立了极好的化学反应，借助他的掩护获得机会，利用他的低位进攻完成空切，”汤普森说，“我会想念他的。我知道他将成为湖人的重要成员。当他们降速时，他在内线是如此出色，也是一名优秀的策应手。人们没有意识到他的决策能力有多棒。最重要的是，我喜欢他的竞争心。我们上赛季打总决赛期间他的伤势很重，但他仍在场上产生巨大影响，拿下两双数据。而且说实话，他帮我们赢下了一两场比赛。”
+   </p>
+   <p>
+    “他就是一个如此出色的球手，我会想念与他携手作战的感觉。湖人得到了一位充满饥渴的优秀球员。我知道他很渴望在场上向世人证明他仍是世界最佳球员之一，因为他拥有全部的天赋。”汤普森总结道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

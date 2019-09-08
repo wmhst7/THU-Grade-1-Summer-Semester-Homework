@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  森林狼会派出庞大的代表团前往洛杉矶参加自由球员招募争夺战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1050871/2019/06/28/wolves-free-agency-primer-to-chase-or-not-to-chase-that-is-the-question/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 07:17:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="森林狼会派出庞大的代表团前往洛杉矶参加自由球员招募争夺战" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/4e03281d982ae2dd064000a2713f111ffb938a4f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据The Athletic记者Jon Krawczynski的报道，多位联盟消息人士透露，森林狼会派出一个庞大的代表团前往洛杉矶参加自由球员招募争夺战。
+   </p>
+   <p>
+    根据之前的报道，森林狼的卡尔-安东尼-唐斯已经开始招募自由球员，向球员描述森林狼的新前景。
+   </p>
+   <p>
+    森林狼今夏没有充足的薪资空间，但是他们有可以完成先签后换的资产。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

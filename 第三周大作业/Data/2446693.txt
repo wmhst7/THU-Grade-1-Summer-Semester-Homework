@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥尼尔在红毯仪式上亲吻湖人老板珍妮-巴斯脸颊
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBAonTNT/status/1143307571177984000" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 09:12:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥尼尔在红毯仪式上亲吻湖人老板珍妮-巴斯脸颊" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/01257a5451f75823884961fb60723484826aa477.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 2019年NBA颁奖典礼即将开始，在此前的红毯环节，湖人老板珍妮-巴斯也出席了红毯仪式。
+   </p>
+   <p>
+    在接受采访时，路过的颁奖典礼主持人沙奎尔-奥尼尔和儿子谢里夫-奥尼尔先后亲吻了珍妮的脸颊，以表示礼貌。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190625/09/758c5615e54c072ea2d8f7658bcbba81.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：糖糖)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

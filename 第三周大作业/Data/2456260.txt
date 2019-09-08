@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：科沃尔与雄鹿达成一年260万签约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1152609436218941440" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 00:02:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：科沃尔与雄鹿达成一年260万签约协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/33444ce553eb30d54e5faaccf3ab6d98aea37d0b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，自由球员凯尔-科沃尔与密尔沃基雄鹿队达成一份一年260万美元的签约协议。
+   </p>
+   <p>
+    据Woj进一步报道，科沃尔最终在76人与雄鹿之间选择了雄鹿，而科沃尔与雄鹿主教练迈克-布登霍尔泽的关系在其中起了很重要的作用。
+   </p>
+   <p>
+    科沃尔职业生涯至今16个赛季的三分球命中率为43%，职业生涯至今科沃尔有4个赛季三分球命中率全联盟第一。科沃尔上赛季常规赛场均出场19.1分钟，得到8.6分2.3篮板1.2助攻，三分球命中率为39.7%。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

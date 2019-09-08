@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃尔南戈麦斯晒与前队友沃克国际赛场相遇：这是我的兄弟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/willyhg94/status/1163187483649171456/photo/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 07:08:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃尔南戈麦斯晒与前队友沃克国际赛场相遇：这是我的兄弟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/5e8afd1944e3d13ac9a6bc8504a79bd7f3df03ce.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 今日，黄蜂中锋吉列尔莫-埃尔南戈麦斯晒出了自己与美国男篮后卫肯巴-沃克在美国男篮与西班牙男篮的热身赛中打招呼的瞬间（见新闻配图）。
+   </p>
+   <p>
+    “这是我的兄弟。“埃尔南戈麦斯写道。
+   </p>
+   <p>
+    两人上赛季共同效力于夏洛特黄蜂队，并肩作战。沃克在今夏自由市场中，以4年1.41亿美元加盟凯尔特人。
+   </p>
+   <p>
+    在早前美国男篮以90-81战胜西班牙男篮的热身赛中，埃尔南戈麦斯出场13分钟，得到6分3篮板1盖帽；沃克出场22分钟，得到11分6篮板8助攻2抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，埃尔南戈麦斯场均出场14.0分钟，得到7.3分5.4篮板1.0助攻；沃克场均出场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断0.41盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

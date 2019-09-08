@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿里纳斯：威廉森在NBA中应该出任二号位或者三号位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Ballislife/status/1149819957003395073" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 09:31:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿里纳斯：威廉森在NBA中应该出任二号位或者三号位" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/0c92571ecabd752496c38180fae35df840324c81.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 前NBA球员吉尔伯特-阿里纳斯在近日参加播客节目时谈到了今年的状元秀蔡恩-威廉森。
+   </p>
+   <p>
+    谈到威廉森新秀赛季的前景，阿里纳斯说：“这取决于球队安排他打什么位置，我看了NBA夏季联赛，我对于鹈鹕的决定感到非常失望，他们让这个身高6尺7寸的家伙出任首发中锋，导致他有一种被统治的错觉。我所指的错觉就是让一位6尺7寸的后卫去对位对手的中锋，试图通过运球得到扣篮的机会。当他贡献精彩的扣篮时，每个人都会说，‘没错，蔡恩！’但那不是他的位置，他在NBA中应该出任二号位或者三号位，他可以顶到三号位，但他肯定非常适合打二号位。”
+   </p>
+   <p>
+    “他在新秀赛季还不需要学习如何投篮，因为他还处于开发技术的阶段，如果他减重至230磅，那么你就将拥有一名得分后卫。如果安排他出任大前锋或者中锋，他的饮食将会失去控制，体型也会走样。如果你看了夏季联赛，对手的中锋球员能够封盖他的投篮，当他不再面对中锋时，他能够运球获得扣篮的机会。”阿里纳斯说道。
+   </p>
+   <p>
+    “整个联盟的身高水准很高，并且充满职业性，当年轻人步入联盟，他们的表现完全取决于球队将他们放在哪个位置上。他可以顶到大前锋位置，并且表现得举步维艰，也可以出任二号位或者三号位，然后成为下一个历史最佳。”阿里纳斯接着说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

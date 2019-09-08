@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王已经裁掉前锋BJ-约翰逊
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/kings-waive-swingman-b-j-johnson.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 06:43:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王已经裁掉前锋BJ-约翰逊" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/f5723aafe7eae93686f92d4d51100e334472bd73.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据报道，国王已经裁掉球员BJ-约翰逊。
+   </p>
+   <p>
+    此前，国王与约翰逊签订的无保障合同价值约为140万美元。
+   </p>
+   <p>
+    BJ-约翰逊身高2.01米，体重91公斤，在场上司职前锋。上赛季，BJ-约翰逊曾代表过老鹰和国王出战了7场常规赛，场均出场7.0分钟，可以得到3.3分。其职业生涯大部分时间是在奥兰多魔术队的发展联盟附属球队度过的，在发展联盟的比赛中，他场均可以得到15.4分5.0篮板1.4抢断。
+   </p>
+   <p>
+    今年，BJ-约翰逊代表国王出战了此次拉斯维加斯夏季联赛，场均出场16.9分钟，可以得到7.3分。
+   </p>
+   <p>
+    根据报道，截至目前，国王已经有13位球员获得了保障合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

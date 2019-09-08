@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦克多诺：客场战绿衫军对欧文来说不会是令人愉快的一晚
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1161349796784934916" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 07:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦克多诺：客场战绿衫军对欧文来说不会是令人愉快的一晚" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/181ca9c7780310b08d5f272391822fe93c75c264.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 篮网球员凯里-欧文将在北京时间11月28日回到波士顿对阵老东家凯尔特人，欧文今夏休赛期以自由球员身份签约篮网。
+   </p>
+   <p>
+    前太阳总经理莱恩-麦克多诺接受采访时预测了这场比赛的氛围，他说：“那不会是一个令人愉快的氛围，我认为这不会达到勒布朗-詹姆斯2010-11赛季带领热火回到克利夫兰的那种程度，我之前跟一些热火的人聊过那件事，他们说那真的令人害怕，那不是令人舒服的感觉，很明显的是，勒布朗很好地应对了这些压力，就算如此，他们说当时他也很紧张，想快点打完比赛，你们还记得当时的嘘声，我认为欧文回到波士顿不会达到那样的程度，但是我知道那对欧文来说不会是令人愉快的一晚。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

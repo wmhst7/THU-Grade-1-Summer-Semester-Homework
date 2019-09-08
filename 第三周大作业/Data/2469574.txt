@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈克尔-汤普森：我预测新赛季西决会是勇士对阵湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1166093701984264199?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 07:59:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈克尔-汤普森：我预测新赛季西决会是勇士对阵湖人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/377e7af93a5b908b9f8219c6288d8fa55fdb43eb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 克莱-汤普森的父亲迈克尔-汤普森接受采访时做出了自己对新赛季西部决赛的预测。
+   </p>
+   <p>
+    “这一切都将取决于健康，因为如果勇士可以保持健康的话，整个季后赛所有人都保持健康的话，他们本可以横扫猛龙。”迈克尔-汤普森说道。
+   </p>
+   <p>
+    迈克尔-汤普森接着说：“还包括德马库斯-考辛斯，看看他是否可以打出那种水准，但是如果湖人可以让勒布朗AD还有其他所有人保持健康的话，我现在预测，会是勇士和湖人打西决。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

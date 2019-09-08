@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  为避免数千万美元经济损失，耐克不同意詹姆斯更换23号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1150225340708487168?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 20:40:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="为避免数千万美元经济损失，耐克不同意詹姆斯更换23号" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/e7640a3dd6ed909fd75e0e784d8d45deeb568386.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 据NBA记者Dave McMenamin报道，一位消息人士确认，由于球衣制造商耐克将面临的潜在生产和资金问题，湖人前锋勒布朗-詹姆斯将球衣号码23号让给队友安东尼-戴维斯的计划已经被推迟。戴维斯也因此转而选择3号。
+   </p>
+   <p>
+    詹姆斯此前在社交媒体上发帖似乎确认自己将把球衣号码更换为6号，同时将23号让给戴维斯。
+   </p>
+   <p>
+    一位联盟消息人士确认，NBA官方通知湖人，更换球衣号码的3月15日最后截止日期已过，但如果联盟球衣制造商耐克同意换号，NBA官方也也会放弃执行这一规定。一位消息人士透露，耐克公司不同意配合此事，因为那些已经被生产却还未售出的23号詹姆斯球衣将会造成“数千万美元的经济损失”。
+   </p>
+   <p>
+    那些尚未售出的23号球衣是耐克首要考虑的问题，不过多位业内消息人士向NBA记者Nick DePaula透露，詹姆斯即将发布的第17代签名战靴同样包含23号的设计元素，相关设计无法赶在球鞋今秋在线发售日期或新赛季开始前被更换为6号，因为这款战靴的设计方案已被确认，即将投入生产。
+   </p>
+   <p>
+    一位联盟消息人士告知McMenamin，截止至昨日，詹姆斯还未向联盟正式提交在2020-21赛季将球衣号码从23号更换至6号的申请。詹姆斯可以在明年3月15日之前提交更换申请。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

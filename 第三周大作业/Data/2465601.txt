@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方发布魔术师约翰逊庆生集锦：史上最佳控卫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1161802182569541633" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 10:40:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方发布魔术师约翰逊庆生集锦：史上最佳控卫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/2f45115e8830c95e8665ea7a33267f6682cc5d56.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 湖人官方推特今日发布一段球队名宿魔术师约翰逊的高光集锦，庆祝其迎来60岁生日。
+   </p>
+   <p>
+    “埃尔文。巴克。魔术师。祝福那位名满天下的男人60岁生日快乐，其中一个名号是史上最佳控卫。”湖人官方写道。
+   </p>
+   <p>
+    魔术师约翰逊职业生涯13个赛季全部效力于湖人，场均出战36.7分钟，得到19.5分7.2篮板11.2助攻。魔术师生涯共12次入选全明星，3次赢得常规赛MVP，3次赢得总决赛MVP，5次赢得总冠军。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4405496200896543">
+     视频：湖人官方出品历史最佳控卫魔术师高光集锦
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

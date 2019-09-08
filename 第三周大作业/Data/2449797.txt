@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卢卡-东契奇将成为NBA Live 20封面人物
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.forbes.com/sites/brianmazique/2019/07/01/nba-live-20-dallas-mavericks-star-luka-doncic-will-be-the-cover-athlete-according-to-sources/#5aad22ee175c" target="_blank">
+     福布斯
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 12:26:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卢卡-东契奇将成为NBA Live 20封面人物" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/37fc4d2e00f02754e036a67cacc62b4850d276f1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据《福布斯》记者Brian Mazique 报道，消息人士透露，独行侠新秀卢卡-东契奇将成为NBA Live 20的封面人物。
+   </p>
+   <p>
+    据报道，EA Sports曾试图与今年的热门新秀蔡恩-威廉森合作，但双方最终没有达成协议。随后，EA Sports对东契奇发起追逐。
+   </p>
+   <p>
+    目前该游戏的发布日期尚未确定。
+   </p>
+   <p>
+    2018-19赛季常规赛，东契奇场均出场32.2分钟，能够得到21.2分7.8篮板6助攻1抢断，并成功当选年度最佳新秀。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

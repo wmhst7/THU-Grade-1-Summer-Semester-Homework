@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德与开拓者开始商讨4年1.96亿美元的续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145397820410793984" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 02:26:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德与开拓者开始商讨4年1.96亿美元的续约合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/5f4f85b5a196611a3f533e01c541d872d8adfb49.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据The Athletic记者Shams Charania的报道，消息人士透露，开拓者后卫达米安-利拉德开始与球队商讨4年1.96亿美元的超级顶薪续约合同。
+   </p>
+   <p>
+    根据雅虎体育记者Chris Haynes的报道，利拉德的经纪团队将在今日与开拓者总经理尼尔-奥尔希在奥克兰会面。一旦续约成功，利拉德四年的合同金额分别为4375万美元、4725万美元、5075万美元和5425万美元，最后一年（2024-25赛季）拥有球员选项。
+   </p>
+   <p>
+    利拉德目前的合同还剩2年，将在2021年夏天到期，2019-20赛季的金额为2980万美元，2020-21赛季的金额为3163万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德场均出场35.5分钟，可以贡献25.8分4.6篮板6.9助攻1.10抢断；季后赛场均出场40.6分钟，贡献26.9分4.8篮板6.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伯克谈艾弗森：小身材爆发着大能量，偶像激励我前进
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sixers/status/1158754606547197952" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 23:49:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伯克谈艾弗森：小身材爆发着大能量，偶像激励我前进" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/8631dc89bddbb059e45971a9258b4c0a81f8f6da.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 近日，76人后卫特雷-伯克接受了媒体采访，谈及76人名宿阿伦-艾弗森对于自己成长路上的影响。
+   </p>
+   <p>
+    “艾弗森是我成长路上最爱的球员。他身高只有1.83米，却和球场上的大家伙们抗衡，小身材爆发着大能量。我认为这激励了我，像我这种小个子的后卫也有了参照的目标，你总想成为最棒的那个人。你看看他辉煌的职业生涯，和那些高光时刻。这些都成了激励我的动力。”
+   </p>
+   <p>
+    “我认为他是影响我比赛风格最多的人，当你看见你最爱的球员做了些什么，你也想踏上球场，模仿他的一举一动。”伯克补充道。
+   </p>
+   <p>
+    艾弗森身高1.83米，1996年第1轮第1顺位被76人选中，生涯场均出场41.1分钟，得到26.7分3.7篮板6.15助攻2.17抢断。
+   </p>
+   <p>
+    伯克身高1.85米，2013年第1轮第9顺位被森林狼选中，并在爵士开始自己的职业生涯，因其与艾弗森相似的身高、标志性的垄沟头，而勾起了球迷对于艾弗森的回忆。
+   </p>
+   <p>
+    今夏，伯克与76人签下一份1年184万美元的合同。2018-19赛季常规赛，伯克场均出场19.4分钟，得到10.9分1.7篮板2.7助攻0.57抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

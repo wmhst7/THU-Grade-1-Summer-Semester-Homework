@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  唐斯：我非常幸运，因为球队拥有出色的管理层和教练组
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thedailywolf/status/1151974363811504128" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 10:43:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="唐斯：我非常幸运，因为球队拥有出色的管理层和教练组" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/28ee4168f6762d8983ba2dcd2caf2857a735b473.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 森林狼球员卡尔-安东尼-唐斯在今日参加个人举办的训练营时接受了媒体采访。
+   </p>
+   <p>
+    谈到球队的前景，唐斯说：“我认为我非常幸运，因为球队拥有非常出色的管理层和教练组。无论是才华、经验还是球队文化，我们的教练组或许是全联盟最出色的。我们在这支球队所建立的球队文化非常特别，所以我感到非常开心，我非常高兴能够向今年的新秀贾勒特-卡尔弗、杰伦-诺埃尔介绍我们的球队文化，你知道的，我并不认为球队之前的氛围对他们有利。”
+   </p>
+   <p>
+    谈到球队年轻的主教练莱恩-桑德斯，唐斯说：“我认为这是一个明智的选择，你知道的，作为一名主教练，作为一位激励者和交流者，他拥有足够的才华，我认为他是联盟中最善于交流的主教练。”
+   </p>
+   <p>
+    谈到球队在休赛期的操作，唐斯说：“我们的管理层很出色，我们的教练组以及球队中的每个人都很出色。我认为这会是森林狼的球迷们希望看到的情况，这支球队不再是无人问津。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

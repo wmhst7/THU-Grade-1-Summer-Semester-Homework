@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊巴卡：我已跟伦纳德聊过，期待着12月12日与他对阵
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WolstatSun/status/1157426279655837701" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 08:37:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊巴卡：我已跟伦纳德聊过，期待着12月12日与他对阵" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/d8af0b40db939c8cb2595f7f1f7cc11ba523b192.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 在勒布朗-詹姆斯的多媒体平台Uninterrupted在加拿大的启动派对上，猛龙的赛尔吉-伊巴卡接受了采访。
+   </p>
+   <p>
+    伊巴卡称他已经与科怀-伦纳德交流过了，他期待着在北京时间12月12日对阵伦纳德。
+   </p>
+   <p>
+    根据今日的报道，快船将在北京时间12月12日客场对阵猛龙，伦纳德今年休赛期以自由球员身份3年1.03亿美元签约快船。
+   </p>
+   <p>
+    另外，伊巴卡称现在也是时候猛龙该有一场圣诞大战的比赛了，猛龙将在新赛季的圣诞大战里主场对阵凯尔特人。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

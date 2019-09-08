@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  恩比德女友晒同游长城照：我喜欢和你一起创造我们的回忆
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzOLqI_B8j7/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 07:46:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="恩比德女友晒同游长城照：我喜欢和你一起创造我们的回忆" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/2d7f1477f8cbddc97219e521c3a796615bba8d56.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 76人中锋乔尔-恩比德的女友Anne De Paula今日更新了自己的个人Instagram，晒出了恩比德中国行时，他们一起游览长城的照片（见新闻配图）。
+   </p>
+   <p>
+    “我喜欢和你一起创造我们的回忆。”De Paula写道。
+   </p>
+   <p>
+    据悉，De Paula是体育画报的一位泳装女郎。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190628/07/2eadf70d08a6f1278f11fc9ed0390f88.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

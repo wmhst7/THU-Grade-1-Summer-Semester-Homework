@@ -1,0 +1,72 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆官方更新社交媒体，晒照感谢保罗-乔治
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzvqdQDBUou/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 12:06:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆官方更新社交媒体，晒照感谢保罗-乔治" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/d298981062fb6235ba3fb656acba50d1428c7426.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日，雷霆官方更新社交媒体，晒照感谢保罗-乔治（见新闻配图）。
+   </p>
+   <p>
+    “感谢PG，对我们球队和社区的贡献。”配文写道。
+   </p>
+   <p>
+    根据此前报道，
+    <a href="https://voice.hupu.com/nba/2452534.html">
+     快船交易得到保罗-乔治
+    </a>
+    。
+   </p>
+   <p>
+    2018-19赛季常规赛，乔治场均上场36.9分钟，得到28.0分8.2篮板4.1助攻2.21抢断，季后赛场均上场40.8分钟，得到28.6分8.6篮板3.6助攻1.40抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/c0cd934d6f8f7814039ccc612a043bb3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/6004324fe58b9639a38939e283ccb914.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/8a63ce484e5f6000b286ec14a666e999.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/74dc2fb8cb242c54646c67ba32dc7afb.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/2513a9ffedb5552d5036bcd1b5deb892.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/3cf0bb2422042f1ef8fbf7b29c986f88.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

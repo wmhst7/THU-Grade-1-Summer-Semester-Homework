@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  流连忘返！海沃德更新社媒晒出中国行组图并表示感谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1KIaj9lCSb/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 13:28:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="流连忘返！海沃德更新社媒晒出中国行组图并表示感谢" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/a25151ef9a2cddde89255470741ca82e969d7274.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日，凯尔特人前锋戈登-海沃德更新了个人社交媒体Instagram晒出多张自己中国行的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“特别感谢安踏体育对我本次中国行的安排，这是一段令人惊奇的经历，等不及下次中国行了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，海沃德场均出场25.9分钟，可以得到11.5分4.5篮板3.4助攻0.96抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/13/c40247c4b78fd303e4c32174d00bee2f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/13/ff806e09fb53ff36c4ff8d718c35c56c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/13/98b4489662ec281dac14ab7885e1ff28.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/13/6ae8c90ff05be809c0a126684f2be7ea.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/13/85fc70d91893fb5415b070e166065000.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

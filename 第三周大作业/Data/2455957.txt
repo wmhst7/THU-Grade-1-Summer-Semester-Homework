@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾斯廷-霍勒迪与步行者达成一年价值480万美元的合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1152280110839533568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 02:15:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾斯廷-霍勒迪与步行者达成一年价值480万美元的合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/f159b74a0e73473788d7929e2da2191307ed7f0a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据The Athletic记者Shams Charania的报道，多位消息人士透露，自由球员贾斯廷-霍勒迪与步行者签下了一份为期一年价值480万美元的合同。根据报道，步行者将使用
+    <a href="https://nba.hupu.com/wiki/%E4%B8%AD%E4%BA%A7%E7%89%B9%E4%BE%8B">
+     空间中产特例
+    </a>
+    签下霍勒迪。
+   </p>
+   <p>
+    北京时间今年1月4日，公牛官方宣布，他们将贾斯廷-霍勒迪交易至灰熊，得到马尚-布鲁克斯、韦恩-塞尔登以及灰熊的2019年二轮签和2020年二轮签，另外，公牛裁掉了卡梅伦-佩恩。
+   </p>
+   <p>
+    值得一提的是，贾斯廷-霍勒迪的兄弟阿龙-霍勒迪也在步行者效力，届时兄弟二人将在赛场上联手。
+   </p>
+   <p>
+    2018-19赛季常规赛，霍勒迪场均上场31.8分钟可以得到10.5分3.9篮板1.8助攻1.5抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

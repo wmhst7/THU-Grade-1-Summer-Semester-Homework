@@ -1,0 +1,83 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  旧金山纪事报发布勇士众球员老年特效照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sfgate.com/warriors/article/Golden-State-Warriors-FaceApp-Old-Age-Filter-14101318.php#item-85307-tbla-17" target="_blank">
+     旧金山纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 15:30:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="旧金山纪事报发布勇士众球员老年特效照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/e1215c73d1f185cf4f14381288d3026281b1e5a7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 近日，一款“老年”滤镜在NBA球员中流行。该滤镜可以将自拍照片中的人像自动编辑成四十多年之后的长相。沙奎尔-奥尼尔，勒布朗-詹姆斯，德维恩-韦德，保罗-乔治，德马尔-德罗赞，和斯蒂芬-库里都在各自的Instagram上发布了相关照片。
+   </p>
+   <p>
+    旧金山纪事报发布了一组勇士球员经过这一滤镜处理后的照片。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/57af6438e6ec5867e721af407f6e45c5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/1d6c7c8923f2fd614d430efa9223971d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/fbde60219b6090263316f2b12409e473.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/0d4477c19209d03b91a367915de70046.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/9c96c24f7e7f1bcfc98706b069f3a3cc.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/d9971af39d818931ad1d5481038b3aa7.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/ae0cbbf69ce9d5aab56a8f8d48719108.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/601142763965b3e445a7664b6d82c295.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/3fe91fc1649d90766966431279348564.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/135006d00b3030df8fa48475e03b2cd4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/6f8844e11056a0363867098089ff4074.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/9335d7133b9950f6c5b568a5f5db3f28.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/15/0473a4dcfa156c1c5edf68eba101e1fa.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：布罗格登先签后换4年8500万加盟步行者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Pacers/status/1147634569438351360" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 14:39:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：布罗格登先签后换4年8500万加盟步行者" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/ba4fd8adde12f27da962908b134dcf71ad4e41b1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 步行者今天官方宣布，球队送出一位未来的首轮签和两个次轮签到雄鹿，换来马尔科姆-布罗格登，双方达成4年8500万美元的合同，且为全额保障。
+   </p>
+   <p>
+    2018-19赛季，布罗格登常规赛场均得到15.6分4.5篮板3.2助攻；季后赛场均13分4.9篮板3.4助攻。并且生涯首次跻身“180俱乐部”（投篮命中率至少50%，三分命中率至少40%，罚球命中率90%）。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

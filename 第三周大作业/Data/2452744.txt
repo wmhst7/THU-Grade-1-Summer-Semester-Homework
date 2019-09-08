@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米德尔顿打趣扬尼斯哥哥和小洛佩斯加盟：我也要找个兄弟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1149168579377393665" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 14:27:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米德尔顿打趣扬尼斯哥哥和小洛佩斯加盟：我也要找个兄弟" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/1a9a45074a51df39946c3a882e235b3cd7f07824.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 雄鹿球员克里斯-米德尔顿在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到今年在东部决赛中遗憾出局，米德尔顿说：“我们已经走到了那里，只是没有能够坚持到最后，我们必须努力完成工作。即便你拥有主场优势，即便你取得了2-0领先，这并不意味着系列赛已经结束了。猛龙的表现很棒，他们连赢了四场，让我们打得很艰难，他们做了很棒的工作，取得了最后的胜利。”
+   </p>
+   <p>
+    谈到队友扬尼斯-阿德托昆博当选MVP，米德尔顿说：“我不会说这完全归功于他的天赋，因为他付出了大量的努力，他渴望证明自己，渴望成为联盟最佳球员。他想要打好每一个回合，打磨自己的每一项技术，跳投、扣篮等等，你能够看到他在场上充满侵略性，他想要让每个人都知道他比你更出色。”
+   </p>
+   <p>
+    据此前的相关报道，扬尼斯-阿德托昆博的哥哥萨纳西斯-阿德托昆博和布鲁克-洛佩斯的弟弟罗宾-洛佩斯都将加盟雄鹿，米德尔顿打趣道：“这很疯狂，我现在在努力为自己找个兄弟，找个长得和我比较像的，或者和我同一个姓氏的。话说回来，这会非常棒，扬尼斯的兄弟，布鲁克的兄弟，我已经等不及看到他们的表现了，我认为他们都很有实力，能够在不同方面为球队提供帮助。”
+   </p>
+   <p>
+    据此前NBA记者Adrian Wojnarowski报道，多位消息人士透露，雄鹿后卫克里斯-米德尔顿将与雄鹿达成一份5年1.78亿美元的续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，米德尔顿场均上场31.1分钟，得到18.3分6.0篮板4.3助攻1.04抢断，季后赛场均上场34.3分钟，得到16.9分6.3篮板4.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

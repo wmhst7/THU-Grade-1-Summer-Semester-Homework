@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙与奥谢-布里塞特签下一份Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BlakeMurphyODC/status/1152644683396505601" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 04:30:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙与奥谢-布里塞特签下一份Exhibit 10合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/26fa9428f40a2b369e6636312af1b0f33955846c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 根据The Athletic记者Blake Murphy报道，多伦多猛龙队已经与前锋奥谢-布里塞特签下一份Exhibit 10合同。
+   </p>
+   <p>
+    签约后，奥谢-布里塞特也更新了个人Instagram写道：“为了这座城市的爱。”
+   </p>
+   <p>
+    奥谢-布里塞特今年21岁，出生于加拿大。大学期间他效力于雪城大学，共为球队出战71场比赛，场均出场35.7分钟，得到13.7分8.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

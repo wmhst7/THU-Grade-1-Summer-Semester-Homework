@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  见证传奇！乔丹新秀赛季所穿AJ1以55200美元成交
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/boardroom/status/1163839972182544385" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 13:26:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="见证传奇！乔丹新秀赛季所穿AJ1以55200美元成交" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/6dd50b1da19d0d3cf3c0ca0805b31b08e47c0ac5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 根据美国篮球媒体The Boardroom报道，一双迈克尔-乔丹在新秀时期穿着的AJ1黑脚趾配色在上周末的一场拍卖中以55200美元成交。
+   </p>
+   <p>
+    乔丹在1984年第1轮第3顺位被公牛选中，新秀赛季代表公牛打满82场常规赛，场均出场38.3分钟，得到28.2分6.5篮板5.9助攻2.39抢断0.84盖帽；季后赛尽管公牛首轮出局，但乔丹数据更上一层楼，场均出场42.8分钟，得到29.2分5.8篮板8.5助攻2.75抢断1.0盖帽。当赛季，乔丹力压同届状元哈基姆-奥拉朱旺获得最佳新秀。
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28625121.html">
+     趣味事实：耐克曾给乔丹的赞助合同提出几个要求，乔丹仅用一个赛季便全部超额完成&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭裁掉奇奥萨与德扬泰-戴维斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rockets_Insider/status/1156308190537101312" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 05:16:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭裁掉奇奥萨与德扬泰-戴维斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/1a421a6920f06523d86a9acdeb262faa1b00c643.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 根据The Athletic记者Alykhan Bijani报道，消息人士透露，火箭已经裁掉后卫克里斯-奇奥萨与前锋德扬泰-戴维斯。
+   </p>
+   <p>
+    奇奥萨今年23岁，此前，火箭使用他们的一小部分中产与奇奥萨签下了一份三年的合同，2018-19赛季后的合同均无保障。2018-19赛季常规赛，奇奥萨代表火箭出场7次，场均4.7分钟，得到0.9分0.6篮板0.6助攻；
+   </p>
+   <p>
+    戴维斯今年22岁，2016年第2轮第1顺位被凯尔特人选中，2018-19赛季常规赛代表老鹰出场9次，场均出场13.1分钟，得到4.0分4.0篮板，此前，他被老鹰裁掉后由火箭认领，现又被火箭裁掉。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

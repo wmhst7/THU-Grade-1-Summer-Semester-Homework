@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  公牛5名球员2K能力值公布：拉文85，马尔卡宁83
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/2kratings/status/1162041534868410374?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 09:37:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="公牛5名球员2K能力值公布：拉文85，马尔卡宁83" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/9ccba0b75de2617fd579077968ea2cad6db4b1da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 近日2K Ratings网站更新了多名公牛球员的NBA 2K20游戏初始值，详情如下：
+   </p>
+   <p>
+    扎克-拉文：85
+   </p>
+   <p>
+    劳里-马尔卡宁：83
+   </p>
+   <p>
+    奥托-波特：80
+   </p>
+   <p>
+    温德尔-卡特：78
+   </p>
+   <p>
+    丹尼尔-加福德：71
+   </p>
+   <p>
+    加福德是次轮总第38顺位新秀。此外，首轮第7顺位新秀科比-怀特的能力值此前已公布为76。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波普晒照确认回归湖人：这赛季我们要成就特殊事业
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzlObL3F_Go/?igshid=6narpr5u6ywh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 03:41:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波普晒照确认回归湖人：这赛季我们要成就特殊事业" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/392b4b69a2b2286745abeb261bb940da5123bfb9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 即将续约湖人的后卫肯塔维厄斯-考德威尔-波普今天通过Instagram发布了一组个人赛场照，表达自己重返湖人的激动心情。
+   </p>
+   <p>
+    “谦逊而饥渴！让我们重新开始。为我的新队友以及回归的队友而感到如此激动，我们这赛季要成就一番特殊事业。”波普写道。
+   </p>
+   <p>
+    根据此前的报道，湖人与肯塔维厄斯-考德威尔-波普达成2年1600万美元续约协议。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/03/185a18cdc0c144600075442867c57209.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/03/02550184e2de3c7296b0ab3e6730615d.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

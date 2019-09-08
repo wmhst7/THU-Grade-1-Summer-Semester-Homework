@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗更新社媒晒和德隆合照并感慨：14年了，现在依然强壮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CP3/status/1144806847792189441" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 13:10:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗更新社媒晒和德隆合照并感慨：14年了，现在依然强壮" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/aa7803863d5c1814b0caf2e2bc936abd52d233f5.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，休斯顿火箭球员克里斯-保罗更新个人社媒，上传了一张与前NBA球员德隆-威廉姆斯的合照（见新闻配图）。
+   </p>
+   <p>
+    并配文说道：“从选秀日算起已经14年了，现在仍然强壮！！！”
+   </p>
+   <p>
+    保罗和德隆同在2005年选秀进入联盟，德隆在首轮第三顺位由犹他爵士选中，保罗在首轮第四顺位由新奥尔良黄蜂（新奥尔良鹈鹕前身）选中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

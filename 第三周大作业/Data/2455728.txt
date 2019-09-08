@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔用乔治的例子鼓励考辛斯：伤病恢复需要时间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/7/18/20700091/lakers-news-frank-vogel-demarcus-cousins-achilles-recovery-anthony-davis" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 10:08:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔用乔治的例子鼓励考辛斯：伤病恢复需要时间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/e3f60c58d3b54aeb53768d76eb1f589b22d89b4e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 湖人球员德马库斯-考辛斯在2017-18赛季中期遭遇了左脚跟腱断裂，2018-19赛季他的各项数据相比伤前都有大幅下滑。
+   </p>
+   <p>
+    湖人主教练弗兰克-沃格尔近日接受了《洛杉矶时报》记者的采访，他相信考辛斯能恢复到受伤前的状态。沃格尔用保罗-乔治的伤病恢复经历来鼓励考辛斯，当时他是步行者的主教练。
+   </p>
+   <p>
+    沃格尔对记者说道：“我跟考辛斯谈过乔治的经历，看他是如何从腿部受伤中恢复的。伤病恢复的第一个赛季你不在球队，不参加比赛，甚至没有穿过球衣。第二个赛季，你开始穿上球衣，但是你会不在状态。戈登-海沃德经历了这样的一个赛季。在我看来，你需要第二个赛季整整一年的时间来找回自己的节奏，爆发力和速度。伤病恢复是需要时间的。”
+   </p>
+   <p>
+    沃格尔相信如果考辛斯这个赛季能够保持健康，他仍能打出高水平的比赛。沃格尔说道：“这个赛季我相信他能逐渐找回自己的状态，如果他做到了，那么我们就拥有了联盟最强力，最有统治力的球员之一。”
+   </p>
+   <p>
+    2014年保罗-乔治曾遭遇小腿严重受伤，2014-15赛季他仅出战6场比赛。2015-16赛季常规赛他出战81场，场均出战34.8分钟，能得到23.1分7.0篮板4.1助攻，各项数据较伤前都有提升。
+   </p>
+   <p>
+    2018-19赛季考辛斯加盟勇士，常规赛他出场30场比赛，场均出战25.7分钟，能得到16.3分8.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

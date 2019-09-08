@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍华德：希望成为格林一样无处不在的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://bleacherreport.com/articles/2844766-dwight-howard-says-ego-is-dead-talks-wanting-to-play-like-draymond-green" target="_blank">
+     Bleacher Report
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 09:00:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍华德：希望成为格林一样无处不在的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/833aeb59638e9bf58124ebd8cdfbce381fa79321.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 近日德怀特-霍华德接受了记者Shams Charania的采访，谈到了他从勇士前锋德雷蒙德-格林身上学到的东西。
+   </p>
+   <p>
+    霍华德说到：“我会去担任球队需要我担任的任何角色，生涯至今我在各种情况下打过球。我曾很讨厌德雷蒙德的打法，但我观察了他在季后赛的那些表现，我发现他做的一切都是为了球队。”
+   </p>
+   <p>
+    “他无处不在，他会得到技术犯规，他会站出来负责，他会出现在防守端的每一个地方，他会出声说话，他做了所有的事。这些不会在技术统计中体现，但每一个人都会看在眼里。我想成为那样的人。”
+   </p>
+   <p>
+    同时霍华德也表示自己不再自视甚高：“只有这样才能让我成为我自己。”
+   </p>
+   <p>
+    根据此前的报道，德怀特-霍华德被奇才交易至灰熊，灰熊计划裁掉他。2018-19赛季，霍华德因伤仅代表奇才出场9次，场均出战25.6分钟能得到12.8分9.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

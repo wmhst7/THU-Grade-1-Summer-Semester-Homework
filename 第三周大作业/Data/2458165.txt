@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦斯特：许多球员都具备曼巴精神，但不具备科比的技术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/RyanWardLA/status/1154564491939635200" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 09:50:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦斯特：许多球员都具备曼巴精神，但不具备科比的技术" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/fd1c5551470694ad6075debeda845aa39eb69616.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日快船特别顾问、湖人名宿杰里-韦斯特在接受采访时谈到了湖人名宿科比-布莱恩特。
+   </p>
+   <p>
+    “科比在比赛时比其他人都要更具怒气。我一直都听别人说’曼巴精神’。许多球员都具备曼巴精神，但他们不具备和科比一样的技术。人们以前看着科比比赛，甚至如今他都有许多曾经看过他比赛的球迷。尤其是这个年龄段的球员。年轻和冉冉升起的新星将会看着如今的球员，想着谁会成为他们的英雄，但正如你所见的，保罗-乔治是一位非常出色的攻防全能的球员。他很安静，但语气很平和，在球员方面他非常出色。他真的十分出色。”韦斯特说道。
+   </p>
+   <p>
+    科比在1996年选秀大会首轮第13顺位被选中，职业生涯效力于湖人，共上场1346次常规赛，场均上场36.1分钟，得到25.0分5.2篮板4.7助攻1.44抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季工资帽和奢侈税线公布：1.091亿及1.326亿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145127703286362112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:35:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季工资帽和奢侈税线公布：1.091亿及1.326亿" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/2712c0d8b3f9d71e03a06c93dbe343f93ee07f84.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据The Atheletic记者Shams Charania报道，多位消息人士透露，新赛季的工资帽和奢侈税线已经确定，分别为1.091亿及1.326亿。
+   </p>
+   <p>
+    NBA自由市场将于北京时间7月1日6点开启。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

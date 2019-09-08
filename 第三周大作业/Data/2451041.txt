@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：马刺将戴维斯-贝尔坦斯交易至奇才
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147618137929637890" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 05:34:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：马刺将戴维斯-贝尔坦斯交易至奇才" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/007b209ab00147f85241eb53260a57af4b3b6cea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，马刺将前锋戴维斯-贝尔坦斯交易至奇才。
+   </p>
+   <p>
+    根据Woj报道，奇才将使用交易特例吃下贝尔坦斯的合同，这将让马刺拥有薪资空间完成与德马雷-卡罗尔（3年2100万美元）的签约。
+   </p>
+   <p>
+    贝尔坦斯在去年夏天与马刺签下了一份2年1450万美元的合同，2019-20赛季年薪为700万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，贝尔坦斯场均上场21.5分钟，得到8.0分3.5篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布克回应阿里纳斯评论“不愿被包夹”言论：尊重你的想法
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1cKRRuh1yG/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 11:57:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布克回应阿里纳斯评论“不愿被包夹”言论：尊重你的想法" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/48ebce31b0a3f63c788e35e1a6fb1659dd5d424e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 前NBA球员吉尔伯特-阿里纳斯今天在个人Instagram就“布克抱怨打野球遭遇包夹”事件发表评论。
+   </p>
+   <p>
+    “@德文-布克，从一名杀手到未来......如果你只想成为一名全明星，那么你的抱怨是没问题的。但是如果你想成为一名超级巨星，你就得接受在打野球时遭遇包夹，并且你应该要求被包夹。当你打野球没有被包夹的话，你应该觉得没有被尊重。原因是如果你在NBA就一直被包夹的话，那么打野球时那些人怎么敢不包夹你。”
+   </p>
+   <p>
+    “你可以问@ricohinesbball（布克的训练师）在高中的时候，那些大学以及职业运动员在UCLA的比赛里有没有包夹我。我之所以刻苦训练则是为了不让对位者不尊重我（只是一对一地防我），我不在乎他以为自己是谁。每一次你踏上球场，你应该想象比赛就像......第二张照片（见新闻配图）是我新秀赛季的时候，我仍然能命中投篮，因为此前一直都处于那样的环境下（总共打21分，你得了20分）。现在，去完成你真正的事业吧。”阿里纳斯说道。
+   </p>
+   <p>
+    随后，布克在此条Instagram下回复道：“@吉尔伯特-阿里纳斯，我能理解你所说的，而我在这里回复真正的理由只有一个，那就是我尊重你。我成长于一个这样的环境，在我14岁的时候，我的父亲会让我去对位30岁的球员。在这样的对位下，我连续被对手打进5球。当我看向我的父亲求助时，他只给了我一个摊手的表情。在接下来的一周里，我都没有被击败过。”
+   </p>
+   <p>
+    “所以，在我人生接下来的每场野球当中，我都是抱着要么吃掉对手要么被对手吃掉的心态。在正式比赛中，如果你被包夹的话，通常正确的选择是立刻将球传出去，这样队友就可以有4打3的机会。并不是说我打得没有侵略性、不颜射对手，而是做出正确的选择、相信队友，这是赢球之道。我不希望在我愉快的周二下午遭遇包夹，我完全可以和我的兄弟在训练馆练习这个。非常尊重你所说的，hibachi（阿里纳斯绰号），有时间的话我们体育馆见。”
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/29040793.html?share_from=kqapp">
+     相关阅读：好好打比赛别上包夹！布克打野球时让对手不要包夹自己
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

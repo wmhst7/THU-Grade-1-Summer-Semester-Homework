@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  前NBA球员德安德烈-利金斯加盟西班牙联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WYMT/status/1158158174136012800" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 14:18:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="前NBA球员德安德烈-利金斯加盟西班牙联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/adc0b91ab537d39d399f3b856c9a72bdb77b29df.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 据欧洲体育记者Chema de Lucas报道，前NBA球员德安德烈-利金斯已经与西班牙联赛俱乐部Montakit Fuenlabrada签约。
+   </p>
+   <p>
+    利金斯在2011年选秀大会次轮第23顺位被魔术选中，NBA职业生涯曾为魔术、雷霆、热火、骑士、独行侠、雄鹿、鹈鹕出战过。
+   </p>
+   <p>
+    上赛季，利金斯效力于发展联盟，共出场25场比赛。此外，利金斯曾于2014年和2016年两次荣膺发展联盟最佳防守球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

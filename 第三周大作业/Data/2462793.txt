@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士发布英格尔斯在澳大利亚国家队的训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B03s5n-nI1X/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 03:11:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士发布英格尔斯在澳大利亚国家队的训练照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/ab155217367377c7a551241c2136f8f6ed0e57e2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据此前的报道，爵士球员乔-英格尔斯入选澳大利亚国家队最终12人大名单。本次男篮世界杯，澳大利亚和塞内加尔，加拿大和立陶宛同处H组。
+   </p>
+   <p>
+    今天爵士官方在Instagram上发布了英格尔斯在国家队训练营的照片。
+   </p>
+   <p>
+    澳大利亚具体名单如下：
+   </p>
+   <p>
+    阿隆-贝恩斯、安德鲁-博古特、乔纳-博尔登、Xavier Cooks、马修-戴拉维多瓦、Cameron Gliddon、Chris Goulding、乔-英格尔斯、尼古拉斯-凯、乔克-兰代尔、帕蒂-米尔斯和内森-索比。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/03/23466de79a51f5f7382cd36b29572c8e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/03/b6618bc7185c8cbf8bb0cddf86488770.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/03/2e7b3e4e187616d21fa9a37517dd7c42.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/03/b27f7dd484ca7821b2815aba29133012.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/03/a5d0245c7b0b4801954ce21e6b3a919a.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

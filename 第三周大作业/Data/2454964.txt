@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  神采飞扬！鹈鹕官方发布德里克-费沃斯球衣定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/pelicansnba/status/1151289887557083136?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 13:34:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="神采飞扬！鹈鹕官方发布德里克-费沃斯球衣定妆照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/1b637b3b9a3df9350379c065e937f2bf8458320e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 鹈鹕官方推特今日发布了一张球队新援德里克-费沃斯的球衣定妆照，费沃斯将身穿22号球衣。
+   </p>
+   <p>
+    在此前的一笔交易中，费沃斯被爵士交易至鹈鹕。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/b4f86fd44ca53624bbde5cef73814707.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

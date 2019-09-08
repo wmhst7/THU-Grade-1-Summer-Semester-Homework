@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士老板：我们的计划是退役杜兰特和伊格达拉的球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/joe-lacob-reiterates-warriors-desire-retire-kevin-durants-no-35-jersey" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 18:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士老板：我们的计划是退役杜兰特和伊格达拉的球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/30ab4cbc600f40e1355be725a6634e57e3f9f0ba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 勇士老板乔-拉科布在近日参加一档播客节目时重申了球队会退役前锋凯文-杜兰特和安德烈-伊格达拉的球衣。
+   </p>
+   <p>
+    在杜兰特7月份宣布加盟篮网之后，拉科布就曾公开表示只要勇士还属于他，就不会再有哪位勇士球员穿上35号球衣。
+   </p>
+   <p>
+    “我们的计划是让他的号码退役，我们之所以特别强调是因为他现在还在打球，”拉科布说道，“从某种程度上来说，当他还在联盟中效力的时候，你宣布将退役他的球衣是不合适的，但这就是我的打算。”
+   </p>
+   <p>
+    当被问及是否会退役伊格达拉的9号球衣时，拉科布表达了同样的观点。
+   </p>
+   <p>
+    “我们总是想要持有包容的心态，我们一直都这样说，像凯文-杜兰特或者安德烈-伊格达拉这样的球员，无论他是谁，作为自由球员，他们有权利做出自己的选择，这是他们应得的。”拉科布说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

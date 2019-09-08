@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  吉诺比利谈邓肯进入教练组：为他感到高兴！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/manuginobili/status/1153494233304768514" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 11:04:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="吉诺比利谈邓肯进入教练组：为他感到高兴！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/23d55fb571a93a4d3ade717710b494b1f994a645.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 马刺今日宣布球队名宿蒂姆-邓肯和威尔-哈迪将作为助教加入格雷格-波波维奇的教练组。
+   </p>
+   <p>
+    马刺名宿马努-吉诺比利转发了官方宣布的推特，并写道：“太棒了！为他（邓肯）感到高兴。我早就知道威尔-哈迪会从替补席转正的。（吐舌头的表情）”
+   </p>
+   <p>
+    邓肯自1997年首轮第1顺位被马刺选中后，生涯共19个赛季全部为马刺效力，常规赛生涯场均上场34.0分钟，得到19.0分10.8篮板3.04助攻2.17封盖。
+   </p>
+   <p>
+    威尔-哈迪自2010年大学毕业后以实习生身份进入马刺，后曾担任球队的夏季联赛主教练。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

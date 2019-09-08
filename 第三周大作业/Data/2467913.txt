@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  同门师兄弟合影！扎伊尔-史密斯晒出与卡尔弗定妆写真照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1cnkRMAnJP/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:20:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="同门师兄弟合影！扎伊尔-史密斯晒出与卡尔弗定妆写真照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/034a0eae0bc286eddc4a78948eca7412e98fec73.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 今日，76人后卫扎伊尔-史密斯更新了个人社交媒体Instagram晒出一组自己与森林狼新秀贾勒特-卡尔弗的定妆写真（见新闻配图）。
+   </p>
+   <p>
+    值得一提的是，二人都来自于德州理工大学。
+   </p>
+   <p>
+    扎伊尔-史密斯于2018年被太阳以首轮第16顺位选中，随后被送至76人，并于2018年夏天与76人签下4年价值1379万美金的合同。
+   </p>
+   <p>
+    贾勒特-卡尔弗于今年被太阳以首轮第6顺位选中，随后被送至森林狼，并于今夏与森林狼签下为期4年的新秀合同，其中第一年薪水为581万美金，2022年和2023年均为球队选项。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/9e35c6d10f3f4d71db51868eb6260579.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/a981126766da140303e1eecc9b8a0de2.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

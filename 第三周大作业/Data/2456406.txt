@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克：期待与海沃德一起打球，他的身体状态会好越来越好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/celtics-news-kemba-walker-excited-to-play-with-gordon-hayward-thinks-hell-be-comfortable-on-his-legs-in-2019-20/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 12:15:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克：期待与海沃德一起打球，他的身体状态会好越来越好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/998ca62891089469d88aab41f933c14e506baff8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 近日，肯巴-沃克在接受记者采访时谈到了凯尔特人前锋戈登-海沃德，沃克对于即将与海沃德成为队友感到非常兴奋。
+   </p>
+   <p>
+    沃克对记者说道：“我知道上赛季戈登可能没有打出他最好的状态，但我认为下个赛季他会找回状态，并且他的脚部情况会进一步恢复。我为他感到高兴。我很高兴能与他一起打球。从前在夏洛特的时候我们原本想引进海沃德，但现在我们在凯尔特人成为队友，事情的发展真是太疯狂了。”
+   </p>
+   <p>
+    此前，在2017年，凯尔特人客场对阵骑士的揭幕战的比赛中，海沃德左脚脚踝意外受伤。
+   </p>
+   <p>
+    2018-19赛季常规赛，海沃德场均上场25.9分钟，得到11.5分4.5篮板3.4助攻；季后赛场均出场29.7分钟，得到9.6分4.0篮板2.4助攻。
+   </p>
+   <p>
+    2018-19常规赛，肯巴-沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/12/6f44f2b8e75dadf6f7d98ae52224d9b4.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

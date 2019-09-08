@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯发推感叹自己体重：从预科学校以来从没这么瘦过
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/isaiahthomas/status/1161430691625615360?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1161430691625615360&amp;ref_url=https%3A%2F%2Flarrybrownsports.com%2Fbasketball%2Fisaiah-th" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 14:18:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯发推感叹自己体重：从预科学校以来从没这么瘦过" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/71eea8a3fdc6ac0ef04df3494fe4936b9452c49c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日，奇才球员以赛亚-托马斯更新了个人推特，说：“老天，今天我的体重是168磅。从大学预科学校之后我就再也没有这么瘦过了……我对下赛季迫不及待了！#缓慢磨砺”
+   </p>
+   <p>
+    以赛亚-托马斯正式登记的体重是185磅，这意味着他已经减重了将近20磅。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，小托马斯与奇才达成了一年协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯代表掘金出场12场比赛，场均出场15.1分钟，得到8.1分1.1篮板1.9助攻0.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：湖人的阵容很有竞争力，有望争夺总冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ocregister.com/2019/07/14/lakers-coach-frank-vogel-is-eager-to-show-his-evolution/" target="_blank">
+     橘郡纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 15:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：湖人的阵容很有竞争力，有望争夺总冠军" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/5204f5221a92103038f0956d3ef198b7c57cbd44.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 昨日，湖人为安东尼-戴维斯的加盟举行了新闻发布会。沃格尔表达了同佩林卡此前相同的观点：虽然球队有希望在自由市场中得到科怀-莱昂纳德，但他们也做好了两手准备。
+   </p>
+   <p>
+    沃格尔称这两种情况他都能接受，并且认为管理层在之后很好地围绕詹姆斯和戴维斯组建了一支有竞争力的阵容：“我们增添了一些能在安东尼-戴维斯和勒布朗身边发挥自己的作用的球员，对此我们感觉良好。我们阵容里的球员都会在场上发挥他们的作用，现在我们认为球队很有机会争夺总冠军。”
+   </p>
+   <p>
+    “夺冠路上会有很多坎坷。希望随着赛季的进行，球队能不断努力建立起总冠军级的化学反应。然后到了季后赛，希望球队能在正确的时候融合在一起。如果这种级别的天赋能融合在一起，学会彼此配合，无私地打球，努力防守，天空才是我们的极限。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

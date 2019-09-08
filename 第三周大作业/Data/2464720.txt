@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  友人感叹詹姆斯太努力导致自惭形秽，詹姆斯回复致歉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2108822323732938183?utm_source=ig_story_item_share&amp;igshid=1angmanz9j6x3" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 01:08:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="友人感叹詹姆斯太努力导致自惭形秽，詹姆斯回复致歉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/24add51e4f3bb0e7facd1282662534fec16ea173.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 湖人前锋勒布朗-詹姆斯今日在Instagram Story上与好友兼商业合作伙伴Paul Rivera展开社媒互动。
+   </p>
+   <p>
+    Paul Riveral发推对詹姆斯的日常工作点评道：“@勒布朗-詹姆斯 早上4点起床完成全负荷训练，然后在片场连续工作12个小时，这让我对自己感觉很不好，还有今早我那敷衍了事的跑步锻炼。”
+   </p>
+   <p>
+    詹姆斯转发这条推特并以图文形式回复道：“兄弟，我的错！不过你总归还是努力锻炼了。”
+   </p>
+   <p>
+    目前詹姆斯正在拍摄电影《空中大灌篮2》，他会在电影片场内设置的临时健身房和球场内完成每日训练任务。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/01/cc63ea5bf070e53ba512a04013eec23f.jpeg"/>
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2464682.html">
+     仙气缭绕？詹姆斯晒训练后身上散发雾气自拍：太疯狂了
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2464658.html">
+     早起的鸟儿有虫吃！詹姆斯晒出清晨4时许训练视频
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

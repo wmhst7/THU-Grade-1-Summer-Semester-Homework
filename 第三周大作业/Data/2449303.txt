@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  交易至快船！哈克利斯发推：请问你们谁有伦纳德电话号码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/moe_harkless/status/1145805298378002432" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 07:20:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="交易至快船！哈克利斯发推：请问你们谁有伦纳德电话号码" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/8c1b94b96fdc07ce26c8e13af3723cbcf1ec52bb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据今日此前消息报道，热火通过和快船、76人以及开拓者完成了前锋吉米-巴特勒的交易。
+   </p>
+   <p>
+    在这笔交易中，开拓者的莫里斯-哈克利斯被送去快船；热火还将一个未来首轮选秀权送至快船；76人得到热火的约什-理查德森；巴特勒得到他的4年1.42亿美元的顶薪合同。
+   </p>
+   <p>
+    随后，开拓者后卫CJ-麦科勒姆发推表达了对莫里斯-哈克里斯的感情，麦科勒姆发文说道：“我会想念你的，哈克利斯。我们失去了一些很棒的队友。希望你们将来诸事顺利。我以后会一直与你们电话联系。在过去的几年里，我们都和这个团队之间存在着特殊的纽带从而维系着我们。”
+   </p>
+   <p>
+    紧接着，哈克利斯转发了相关推文并回复道：“你知道的，爱你，兄弟。”
+   </p>
+   <p>
+    之后，哈克利斯发推调侃：“你们谁知道科怀-伦纳德的电话号码？”
+   </p>
+   <p>
+    根据此前消息报道，快船是前锋科怀-伦纳德的追求球队之一。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈克利斯场均出场23.6分钟，可以得到7.7分4.5篮板1.2助攻1.12抢断0.88封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

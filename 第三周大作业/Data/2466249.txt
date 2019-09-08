@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：火箭仍然愿意签下塞尔希奥-尤伊
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1162550535620182016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 10:29:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：火箭仍然愿意签下塞尔希奥-尤伊" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/09a3ee7476e29e40b3d4da962ad50c1e0ca2501d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据《纽约时报》记者Marc Stein的报道，他被告知火箭仍然愿意签下塞尔希奥-尤伊。
+   </p>
+   <p>
+    尤伊在2009年选秀大会第二轮总计第34顺位被掘金选中，火箭当时花了225万美元买下了他的签约权。
+   </p>
+   <p>
+    31岁的尤伊上赛季在皇马篮球俱乐部场均出战21.4分钟可以拿到10.6分3.7助攻2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

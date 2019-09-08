@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K官方宣布与蔡恩-威廉森达成多年合作
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://weibo.com/tv/v/HFUCqDZ4N?fid=1034:4399890264977063" target="_blank">
+     微博
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 23:53:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K官方宣布与蔡恩-威廉森达成多年合作" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/f90d9ec71b9c588d56b8cb1da3509b6b46162473.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 2K官方今日宣布，2019年NBA状元秀蔡恩-威廉森已经与NBA 2K签订协议，建立多年合作伙伴关系。 该协议将包括威廉森会参与多项游戏计划、营销活动、品牌创意和社交活动。
+   </p>
+   <p>
+    威廉森是自2011年以来，2K中初始能力值最高的新秀。
+   </p>
+   <p>
+    “NBA 2K已经是一个世界级的文化符号。我很兴奋，也已经准备好加入2K阵营中，成为‘下一程’的代表，将自己印刻在这个篮球文化符号中。”谈到与2K的合作，蔡恩表示。
+   </p>
+   <p>
+    “蔡恩代表着NBA下一代球员的顶级水平，我们很兴奋也很欢迎他加入2K阵营，”NBA 2K篮球运营高级副总裁Jason Argent说， “20多年来，NBA 2K一直与世界上最好的篮球天才合作。 我们见证过蔡恩在球场上令人难以置信的表现，因此更加高兴能在他的整个职业生涯中与他共同成长。”
+   </p>
+   <p>
+    <a href="http://t.cn/AiYvgGQA?m=4399890949529573&amp;u=6553536243">
+     视频：蔡恩与2K达成多年合作（1分40秒）&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：JJ-雷迪克受邀加入美国男篮训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 23:32:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：JJ-雷迪克受邀加入美国男篮训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/a8d4e005a08c55864face9ad085986ae7c289aa6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据记者Adrian Wojnarowski报道，JJ-雷迪克受邀加入美国男篮训练营名单。
+   </p>
+   <p>
+    他告诉记者：“我很高兴能够被考虑，但我也在尝试把我的家庭搬到新奥尔良。”
+   </p>
+   <p>
+    他希望尽快得到美国官员的回复。
+   </p>
+   <p>
+    雷迪克渴望加入美国男篮训练营，成为中国世界杯的一员。但是他表示，当他承诺有六周的休赛期时，他的家庭决定过渡到新的城市。
+   </p>
+   <p>
+    2018-19赛季常规赛，雷迪克场均上场31.3分钟，得到18.1分2.5篮板2.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

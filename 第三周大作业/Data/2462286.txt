@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  之前接受阑尾切除手术的加里纳利已经出院
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Carchia/status/1158678483259801601" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 18:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="之前接受阑尾切除手术的加里纳利已经出院" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/09471738889d4c9bae9010413e6799d428765da5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 根据Sportando体育Emiliano Carchia的报道，达尼罗-加里纳利已经出院，他在当地时间8月3日接受了阑尾切除手术。
+   </p>
+   <p>
+    加里纳利再次加入到了意大利男篮的训练营，他将在那里继续恢复，预计将在当地时间8月12日恢复与篮球相关的活动。
+   </p>
+   <p>
+    在今夏的男篮世界杯上，塞尔维亚、意大利、菲律宾和安哥拉同在D组。
+   </p>
+   <p>
+    2018-19赛季常规赛，加里纳利场均出战30.3分钟可以拿到19.8分6.1篮板2.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

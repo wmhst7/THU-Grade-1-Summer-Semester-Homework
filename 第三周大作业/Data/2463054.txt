@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  纳什：永远都不会想到我能征战18个赛季，我非常幸运
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CHATNewsToday" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 17:54:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="纳什：永远都不会想到我能征战18个赛季，我非常幸运" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/4e350a8d1e1a5ba14e6c09feefb082066da270e1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 NBA名宿史蒂夫-纳什近日在接受媒体采访时谈到了当年选择退役的原因以及猛龙上赛季夺冠。
+   </p>
+   <p>
+    纳什在2015年3月正式宣布退役，在饱经背部伤势困扰之后，他知道尽管自己依旧能够打球，但已经无法打出足够高的水准，因此他选择从湖人退役。
+   </p>
+   <p>
+    “我用了两年时间才意识到这一点，”纳什说道，“现在回想起来，我当年肯定不会想到我能够在联盟中征战18个赛季，我非常幸运。在职业生涯最后的一年半到两年时间里，我真的很挣扎，这很奇怪，我一如既往地投入了大量的精力，在场上全力以赴，但我的表现依旧不尽人意。”
+   </p>
+   <p>
+    “我是最后一个意识到这一点的，也是最后一个看清现状的，从某种意义上来说，我对此没有任何遗憾。”纳什补充道。
+   </p>
+   <p>
+    谈到现在的身体状况，纳什说：“我感觉非常棒，尽管我的背部伤势有时仍会困扰我。但我不会甘于现状，我每天都会进行锻炼，这是我的日常生活很重要的一部分。我的身体状况不复当年，但我依旧能够在周末的比赛中掌控全场。”
+   </p>
+   <p>
+    谈到自由球员市场的疯狂，纳什说：“我认为这就是市场自然发展的趋势，随着联盟的全球化进程不断推进，关注度和社交媒体的热度都在提升。球员们开始意识到他们是这台机器中不可替代的部分，因此他们开始使用自己的权力。”
+   </p>
+   <p>
+    纳什目前担任勇士顾问，但作为一个加拿大人，他表示自己对于猛龙击败勇士夺冠感到兴奋。
+   </p>
+   <p>
+    “能够看到猛龙夺冠以及整个加拿大陷入狂欢，这真的令人感到激动。”纳什说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

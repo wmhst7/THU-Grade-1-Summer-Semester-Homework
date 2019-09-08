@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火提拔夏联主帅埃里克-格拉斯为发展联盟主帅
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IraHeatBeat/status/1154817807378472961" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 06:43:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火提拔夏联主帅埃里克-格拉斯为发展联盟主帅" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/45785e8d0d169fff494887de45716bee0e19ae1a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 热火官方今天宣布，球队提拔了夏季联赛的主帅埃里克-格拉斯为发展联盟球队Sioux Falls Skyforce的主帅，并提拔埃里克-阿姆斯勒为热火球探和球员人事部门总监以及发展联盟球队总经理。此前执教热火发展联盟球队的Nevada Smith则已离队。
+   </p>
+   <p>
+    此外，球队已经提拔亚当-西蒙为热火篮球运营副总裁和助理总经理。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

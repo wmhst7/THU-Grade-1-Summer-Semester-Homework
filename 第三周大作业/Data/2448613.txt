@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿斯报：巴塞罗那给米罗蒂奇的报价为6年近8000万美元
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://as.com/baloncesto/2019/06/29/nba/1561827373_717645.html?id_externo_rsoc=comp_tw" target="_blank">
+     阿斯报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 13:15:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿斯报：巴塞罗那给米罗蒂奇的报价为6年近8000万美元" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/8b547d28dcd6feadd8f8759bf8455eff4c1609ca.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据西班牙媒体《阿斯报》的报道，多位消息人士透露，巴塞罗那篮球俱乐部为尼古拉-米罗蒂奇开出的报价差不多是6年7000万欧元（约7957万美元）。
+   </p>
+   <p>
+    最初，米罗蒂奇拒绝了巴塞罗那篮球俱乐部的这份报价，当时米罗蒂奇想接受一份NBA球队3年5000万美元的报价，这是一份与爵士3年4500万美元报价差不多的报价，最终米罗蒂奇接受了巴塞罗那篮球俱乐部的报价。
+   </p>
+   <p>
+    米罗蒂奇2018-19赛季效力于NBA新奥尔良鹈鹕队以及密尔沃基雄鹿队，常规赛场均出场27.1分钟得到15.1分7.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

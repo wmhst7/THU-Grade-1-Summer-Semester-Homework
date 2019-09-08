@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴塞罗那篮球俱乐部总裁：现在还无法确认将签约米罗蒂奇
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/903403/barcelona-president-negotiations-with-mirotic-are-advanced-but-not-finished/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 07:11:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴塞罗那篮球俱乐部总裁：现在还无法确认将签约米罗蒂奇" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/0722ee818fdf4cc94f0119d71ca97685e39af260.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 巴塞罗那篮球俱乐部总裁Josep Maria Bartomeu接受采访时谈到了尼古拉-米罗蒂奇，之前有报道称米罗蒂奇将与巴塞罗那篮球俱乐部签约。
+   </p>
+   <p>
+    “不，我无法确认签约，我们跟他的经纪人商讨过，我希望最终结果不错，我很愿意我们能签下他，但是我无法确认这一点，因为可能结果会不好，你永远不知道谈判最终结果如何，我现在可以告诉你们的是谈判很深入，但是根本还没有结束。”Bartomeu说道。
+   </p>
+   <p>
+    米罗蒂奇2018-19赛季效力于NBA新奥尔良鹈鹕队以及密尔沃基雄鹿队，常规赛场均出场27.1分钟得到15.1分7.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：与哈斯勒姆有很多交流，他是球队的重要领袖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/nba/miami-heat/article233766432.html#storylink=sectionheadlines" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 10:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：与哈斯勒姆有很多交流，他是球队的重要领袖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/88ebd98e932aac57fb4eb6b8cfa67565bac5cf96.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 近日，热火名宿德维恩-韦德出席了在奥兰多举办的Jr. NBA全球冠军赛，期间接受了《迈阿密先驱报》的采访。
+   </p>
+   <p>
+    谈到犹多尼斯-哈斯勒姆再战一季时，韦德说：“我认为这很棒。去年整个一年以及今年夏天我们有过很多交流，这是我们仍想要做的。他还没有准备好告别赛场，他还有很多可以在更衣室里传授给其他球员的经验，他仍能推动球队文化前进。他是领袖阶层的重要部分，也是埃里克-斯波尔斯特拉的重要球员，我认为热火方面明白这一点。我认为热火和犹多尼斯-哈斯勒姆双方一起谈过了，热火表示：‘嘿，我们仍旧想要你参与到你的角色中，继续做你为球员们所做的事。’”
+   </p>
+   <p>
+    根据The Athletic记者Shams Charania之前的报道，哈斯勒姆与热火签下一年合同，完成续约，这份合同价值260万美元。
+   </p>
+   <p>
+    哈斯勒姆职业生涯至今16个赛季均在热火度过，他为热火出场了854场常规赛，场均出场25.2分钟，得到7.6分6.7篮板。
+   </p>
+   <p>
+    在其职业生涯中，韦德共出场1054次常规赛，场均出场33.9分钟，得到22.0分4.7篮板5.4助攻1.54抢断0.84盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

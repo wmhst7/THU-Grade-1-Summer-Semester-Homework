@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  海沃德：球迷会爱上坎特带来的能量，他会成为球迷的宠儿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/gordon-hayward-everyones-going-love-enes-kanters-energy-celticsGordon" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 15:34:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="海沃德：球迷会爱上坎特带来的能量，他会成为球迷的宠儿" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/18d28a505844c2392956ae5d947087137d5c1795.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 凯尔特人球员戈登-海沃德在近日接受媒体采访时谈到了球队新援、前爵士队友埃内斯-坎特。
+   </p>
+   <p>
+    海沃德表示他在过去几年看到了坎特在持续提升自己的技术，并对坎特能够为凯尔特人带来的帮助感到兴奋。
+   </p>
+   <p>
+    “NBA联盟就像是周而复始的，这太不可思议了。当年我和埃内斯并肩作战时，我们都很年轻，现如今情况肯定会有所不同，我看到了他在多支球队中效力时取得的进步。”海沃德说道。
+   </p>
+   <p>
+    “他会是球迷的最爱，每个人都会爱上他为球队带来的能量。他是联盟中进攻篮板最出色的球员之一，这是毫无疑问的，他很擅长在油漆区内作业，并且做出正确的选择。现如今的比赛风格很少会有低位单打的球员，但他具有这样的投篮能力，特别是面对错位防守时。”海沃德补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

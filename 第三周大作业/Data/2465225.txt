@@ -1,0 +1,85 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K20新增的四支各个时代的传奇经典球队首发阵容公布
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA2K/status/1161306485579640832" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 11:06:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K20新增的四支各个时代的传奇经典球队首发阵容公布" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/8aa9e852e11689b17319a3a06f46053208eb5f4a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日，NBA 2K公司宣布，2K20新增了1980年代，1990年代，2000年代和2010年代的四支传奇球队，并公布了这四支球队的首发阵容。
+   </p>
+   <p>
+    1980年代的首发阵容为：魔术师约翰逊，迈克尔-乔丹，拉里-伯德，凯文-麦克海尔和摩西-马龙。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0sr2e09j21hc0u0q8k.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0t8kiryj20u00u0dkb.jpg"/>
+   </p>
+   <p>
+    1990年代的首发阵容为：约翰-斯托克顿，迈克尔-乔丹，斯科特-皮蓬，卡尔-马龙和哈基姆-奥拉朱旺。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0tkl6o1j21hc0u0dlf.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0tvhu0vj20u00u00xf.jpg"/>
+   </p>
+   <p>
+    2000年代的首发阵容为：阿伦-艾弗森，科比-布莱恩特，勒布朗-詹姆斯，蒂姆-邓肯和沙奎尔-奥尼尔。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0rwkrfdj21hc0u043k.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0saxpacj20u00u0wip.jpg"/>
+   </p>
+   <p>
+    2010年代的首发阵容为：斯蒂芬-库里，詹姆斯-哈登，勒布朗-詹姆斯，凯文-杜兰特和德怀特-霍华德。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0qe011jj21hc0u079f.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/7fbdde42gy1g5z0rdxtytj20u00u0n1g.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

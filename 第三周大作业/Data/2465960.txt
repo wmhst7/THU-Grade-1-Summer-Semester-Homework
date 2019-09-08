@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德雷蒙德-格林谈考辛斯受伤：无法用言语表达自己的感受
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NotoriousOHM/status/1162178411894169600" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 10:11:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德雷蒙德-格林谈考辛斯受伤：无法用言语表达自己的感受" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/27c4e62774bd181cca875d9fd21519c91df2b7c7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 据此前的相关报道，湖人中锋德马库斯-考辛斯当地时间周一在拉斯维加斯训练时与另一名球员发生膝盖碰撞，随后不得不离开球场。他在洛杉矶接受了最终检查，定论为左膝前交叉韧带撕裂。目前正在制定恢复日程表，手术日期尚未确定，新赛季能否复出成疑。
+   </p>
+   <p>
+    前队友德雷蒙德-格林在接受采访时表示，自己不知道该对考辛斯说些什么。
+   </p>
+   <p>
+    “下赛季我的目标之一就是德马库斯强势回归摧毁所有人，展现他是一位多么出色的球员，我认为这是他应得的，”格林说道，“我无法用言语表达自己的感受，但这真的伤害了我。”
+   </p>
+   <p>
+    格林表示，如果有人能够克服这一系列的伤病，那个人就是考辛斯。
+   </p>
+   <p>
+    “打进NBA非常困难，在NBA中立足也非常困难。他来自阿拉巴马州的莫比尔，他从家乡走了出来并且打出名堂，如果他能够做到这些，他就能够做到一切。”格林说道。
+   </p>
+   <p>
+    今年夏天，考辛斯和湖人签下了一份1年350万美元的合同。考辛斯在2017-18赛季效力于鹈鹕时曾遭遇跟腱撕裂，在上赛季效力于勇士期间也曾遭遇四头肌伤病。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯共上场30次，场均上场25.7分钟，得到16.3分8.2篮板3.6助攻1.33抢断1.47盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

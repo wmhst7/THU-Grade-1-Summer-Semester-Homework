@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沙马尼奇：选秀前希望被马刺选中，他们善于培养欧洲球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Basket_Infos/status/1156618072930828293" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 15:12:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沙马尼奇：选秀前希望被马刺选中，他们善于培养欧洲球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/005d4864250b9eda778688f7788ec849730b19e7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 马刺在今年选秀大会首轮第19顺位选中了来自克罗地亚的前锋卢卡-沙马尼奇。在进入NBA之前，沙马尼奇曾代表巴塞罗那篮球俱乐部青年队参加比赛，之后又加盟了斯诺文尼亚传统强队奥利匹亚。
+   </p>
+   <p>
+    “我在奥利匹亚只度过了一个赛季，我的出场时间很多，那段经历既美好也苦涩，”沙马尼奇回忆道，“我告诉我的家人，我认为我已经做好了进入NBA的准备，我会努力在那里打出名堂。”
+   </p>
+   <p>
+    “在选秀之前，我跟一位经纪人进行了交流，他告诉我，我会在第16-35顺位被选中，‘你可能在16顺位被选中，也可能滑落到第35顺位，选秀就是这样，你永远都不知道将会发生什么。’我当时已经做好了应对一切的准备，事实上，我内心里最希望被圣安东尼奥选中，因为他们拥有培养欧洲球员的历史。当听到自己的名字在第19顺位被叫到时，我当时喜出望外。”沙马尼奇说道。
+   </p>
+   <p>
+    在选秀前的试训过程中，沙马尼奇的表现非常出色。对于那些从大学期间就开始追踪明日之星的美国媒体而言，来自欧洲的沙马尼奇是一个陌生的面孔。
+   </p>
+   <p>
+    “当你的弹跳超过一米时，突然之间，每个人都想要知道你到底是谁，之前这听起来更像是一个笑话。我知道自己将要面对什么，我就是做好准备向他们展现自己的能力，最终我的付出也得到了回报。”沙马尼奇说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

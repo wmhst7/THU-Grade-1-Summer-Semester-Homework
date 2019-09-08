@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德晒出与科比在国家队时的赛场配合视频：我最喜欢之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Krb8ZH5E7/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 12:51:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德晒出与科比在国家队时的赛场配合视频：我最喜欢之一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/e75e5e70d95cac829a14e45fd64a97951b5e315f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日，前NBA球员德维恩-韦德更新了个人社交媒体Instagram晒出一段自己与科比代表美国男篮梦之队出战时的赛场配合视频（见GIF）。
+   </p>
+   <p>
+    并配文道：“我最喜欢的球场配合之一，这是我最棒的高抛传球还是最有难度的？”
+   </p>
+   <p>
+    韦德职业生涯常规赛，场均出场33.9分钟，可以得到22.0分4.7篮板5.41助攻1.54抢断。
+   </p>
+   <p>
+    <img alt="GIF 3.9M" src="https://c1.hoopchina.com.cn/uploads/images/20190815/12/3214556e7835d9aca9d937c4552a0dbd.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

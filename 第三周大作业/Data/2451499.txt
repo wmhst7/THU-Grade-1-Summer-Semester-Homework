@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳双子星！NBA官方发布布克和艾顿观战夏联现场图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nba/status/1148063816564891649?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 11:17:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳双子星！NBA官方发布布克和艾顿观战夏联现场图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/ab2994274438f3daf5af2d20b288e6e479d85cb6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 NBA官方推特今日发布了太阳球员德文-布克和德安德烈-艾顿来到现场观看夏季联赛的图片。
+   </p>
+   <p>
+    太阳官方也发布了一组布克、艾顿以及米卡尔-布里奇斯一同观战夏联的照片。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/7a17ffc20657b2f3a1d6326dc669865e.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/5f2455586faaa39c055a4d397536edd7.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/a994824331f0fccfb9f9c50358a00ddd.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/c3b59194d49ed6f898d8f0e99a937f8d.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

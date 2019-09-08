@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯转推致里奇-保罗：兄弟，我为你骄傲
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1151522587052109825?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 08:17:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯转推致里奇-保罗：兄弟，我为你骄傲" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/8a6e2b12bbc1e1a1c1ac65c57ae2554bc371d9b1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 湖人前锋勒布朗-詹姆斯今日在推特上转发关于经纪人里奇-保罗的一则消息并发表感想。
+   </p>
+   <p>
+    据《纽约时报》记者Marc Stein报道，里奇-保罗创办的Klutch Sports经纪公司已经与全球著名娱乐经纪公司UTA（United Talent Agency）达成合作关系，UTA将设立体育分部，保罗担任该部门主管，但Klutch Sports仍将保留自己的品牌及运行方式。UTA旗下代理的著名演员/歌手包括安吉丽娜-朱莉、凯文-哈特和克里斯-帕拉特等。
+   </p>
+   <p>
+    詹姆斯转发这则消息并写道：“为你骄傲，我的兄弟！你完全不知道我有多么自豪。继续改变舆论，推进文化吧！我们社区内如此多的孩子也在以你为榜样获取动力。通过认真工作，悉心投入以及全力把握机会，你正在树立极好的榜样！”
+   </p>
+   <p>
+    据The Athletic记者Joe Vardon报道，来自双方的高管透露，UTA将对Klutch Sports进行“大额”投资。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

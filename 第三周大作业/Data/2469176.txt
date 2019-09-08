@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老友重聚！特伦斯-罗斯晒和前队友参加帕特森婚礼照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1l4EvYnmyd/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 02:19:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老友重聚！特伦斯-罗斯晒和前队友参加帕特森婚礼照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/dbd12f762bcd172af47a12e5fe4ac1d2403188f6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今日，NBA球员特伦斯-罗斯更新自己的社交媒体Instagram晒出与前队友一同出席帕特里克-帕特森婚礼的照片。（见新闻配图）
+   </p>
+   <p>
+    特伦斯-罗斯配文道：“这是帕特里克-帕特森的婚礼，真心地为你感到高兴！能给重新看到这群老面孔真的是一件很棒的事情，我迫不及待的出席下一个婚礼了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，特伦斯-罗斯场均出场26.5分钟，可以得到15.1分3.5篮板1.7助攻0.89抢断；帕特森场均出场13.7分钟，得到3.6分2.3篮板。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/02/2b07b6f3dc1d421bf403f8cfc5e12e76.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/02/41cf458ebbe67373c6d5b48cac3e7edf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/02/6223b8dadcee35b414f22d7efc388abe.jpg"/>
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

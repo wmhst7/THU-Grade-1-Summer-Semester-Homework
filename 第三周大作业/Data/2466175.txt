@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯塔德迈尔：如果我留在太阳，那我们真的有机会夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1162384199371935746?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 06:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯塔德迈尔：如果我留在太阳，那我们真的有机会夺冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/7949d5a09a590e01b613133f5ed5f5153b0be079.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 阿马雷-斯塔德迈尔作客节目时谈到了多个方面。
+   </p>
+   <p>
+    “我本认为我们会在一起打更久，那我们会真的有机会夺冠，因为我在太阳的那些赛季里，我很年轻，我们球队大部分球员都很年轻，我们在学习，累积经验，在那些赛季里打季后赛，增加经验，如果我们在一起多打几个赛季的话，那我们本可以完成一些事情。”斯塔德迈尔谈到自己太阳的经历时说道。
+   </p>
+   <p>
+    为何在2010年夏天离开了太阳？斯塔德迈尔说：“当然了，我想待在那，留在太阳是我的第一选择，然后谈判没有像我希望的那样进行，不是我之前期待的那样，所以我必须要应对这样的情况。”
+   </p>
+   <p>
+    在2010年夏天，斯塔德迈尔加盟了尼克斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

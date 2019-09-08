@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦克勒摩：能与哈登威少一起打球，我超级兴奋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.thedreamshake.com/2019/8/14/20801089/ben-mclemore-excited-to-join-houston-rockets" target="_blank">
+     Dream Shake
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 10:21:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦克勒摩：能与哈登威少一起打球，我超级兴奋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/20379580750043090fe3fd2b8aba2c4a72d466d6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 本-麦克勒摩今夏加盟火箭，他将与詹姆斯-哈登和拉塞尔-威斯布鲁克并肩作战。
+   </p>
+   <p>
+    “跟他们一起打球，我超级兴奋，我认为这个联盟里的任何人都会这么说，我们谈论的可是世界级的运动员，他们有着世界级的天赋，很巧合的是，我与他们的比赛风格非常互补，我期待着跟他们一起努力工作。”麦克勒摩说道。
+   </p>
+   <p>
+    麦克勒摩上赛季在国王没有获得太多出场机会，他说：“实话实说，最大的挑战就是等待，我一直保持积极，在训练馆训练，让我的经纪人们去努力帮我找到下一个机会，当你身处我这样的位置时，身边能有人给你好的建议是非常重要的，如果你足够努力，在自己身上赌一把通常会有不错的结果，我总是相信这一点，这一次成功了。”
+   </p>
+   <p>
+    麦克勒摩最后说：“我还没有打过季后赛，就这一点对我来说就是很大的动力，加盟球队后的重点就是提升我的防守影响力，花很多时间在比赛录像室分析比赛，我想在季后赛里走得尽可能远，这些个人目标确定后，我将可以尽力帮助我的球队。”
+   </p>
+   <p>
+    NBA职业生涯至今，麦克勒摩为国王和灰熊效力过，出战过368场常规赛，场均出战23.7分钟可以拿到8.8分2.5篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

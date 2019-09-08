@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  强壮肌肉！湖人官方发布亚历克斯-卡鲁索训练组图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1164666798593044480?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 08:33:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="强壮肌肉！湖人官方发布亚历克斯-卡鲁索训练组图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/eea2c2e3dc850aa6e529e0043750647b46e266df.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 湖人官方推特和Instagram今日发布一组球队后卫亚历克斯-卡鲁索的训练图。
+   </p>
+   <p>
+    “我们在训练@亚历克斯-卡鲁索。”湖人官方写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡鲁索共出战25场，场均上场21.2分钟，得到9.2分2.7篮板3.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/f019f30518ea198f32b6c1d7fc315d33.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/9fc64171498e0dcd60df31bbd83833a2.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/a4c5bae47b55773bf2794b1b2952eb41.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/c8c5ef40134855b55651c95126ebf655.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/9f4f7c5039ada3ffa9c5051b5b8d0a69.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/ce80170f2e9ea935935946c9394889f1.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/d45d5e03f8ba80ba842ade4ca8c7f18c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/08/a206cd4042dbb467579a5626adff22bc.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

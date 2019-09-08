@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：独行侠与灰熊达成先签后换，将获得德朗-赖特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147968887503429634" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 04:42:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：独行侠与灰熊达成先签后换，将获得德朗-赖特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/bffdc931bfebad7b9be311cbcbda0834e48831e0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，独行侠与灰熊达成先签后换，将获得后卫德朗-赖特。
+   </p>
+   <p>
+    在这笔交易中，独行侠将付出两个次轮的选秀权。
+   </p>
+   <p>
+    据经纪人Greg Lawrence透露，德朗-赖特的合同为3年2900万。
+   </p>
+   <p>
+    根据此前的报道，
+    <a href="https://voice.hupu.com/nba/2450390.html" target="_blank">
+     独行侠打算为德朗-赖特开出邀请报价，灰熊会匹配合理报价&gt;&gt;
+    </a>
+   </p>
+   <p>
+    独行侠在今年自由市场中，续约了克里斯塔普斯-波尔津吉斯、德怀特-鲍威尔、马克西-克勒贝尔、JJ-巴里亚、多里安-芬尼-史密斯，签下了塞思-库里、博班-马里亚诺维奇，并通过先签后换得到了德朗-赖特。在完成所有签约之后，独行侠的工资总额将达到1.17亿，超过工资帽。
+   </p>
+   <p>
+    此前独行侠老板马克-库班表示，除非有机会出现，否则的话独行侠在自由球员市场上的运作基本已经结束了。
+   </p>
+   <p>
+    2018-19赛季常规赛，赖特为灰熊出战了26场比赛，场均上场30.8分钟得到12.2分5.4个篮板5.3次助攻1.62次抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

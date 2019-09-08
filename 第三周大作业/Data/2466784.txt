@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  男篮世界杯热身赛：塞尔维亚加时战胜希腊男篮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/920769/bjelica-and-bogdanovic-spoil-giannis-party/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 04:18:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="男篮世界杯热身赛：塞尔维亚加时战胜希腊男篮" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/c163833fc3aaa8ab17c1a2064354ded3cbf774da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 在刚刚结束的一场男篮世界杯热身赛，在两支欧洲劲旅希腊和塞尔维亚之间展开。最终塞尔维亚队在加时以85-80战胜希腊男篮。
+   </p>
+   <p>
+    塞尔维亚队方面：球队重要球员尼古拉-约基奇轮休，博格丹-博格丹诺维奇命中5记三分，砍下28分，别利察砍下18分14篮板。
+   </p>
+   <p>
+    希腊方面：“字母哥”扬尼斯-阿德托昆博砍下20分，塞纳西斯-阿德托昆博砍下17分，尼克-卡拉西斯得到15分5助攻。
+   </p>
+   <p>
+    战至半场时希腊已48-41领先，常规时间结束两队战成72平，加时塞尔维亚表现更好，拿下比赛，博格丹诺维奇和别利察在这场比赛表现出色。全场比赛，希腊队三分命中率只有34%，是输球的关键之一。
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

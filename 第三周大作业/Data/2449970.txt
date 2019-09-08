@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿夫里内斯：亲爱的篮球，我回来了，谢谢你一直等我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzc5EE7Dmkg/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 22:14:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿夫里内斯：亲爱的篮球，我回来了，谢谢你一直等我" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/45655ae369c66e40da1cd2bb960c7503f7910c43.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今日，NBA球员亚历克斯-阿夫里内斯更新了个人社交媒体Instagram晒出一段表达自己对篮球热爱的视频。
+   </p>
+   <p>
+    在视频中，阿夫里内斯说道：“亲爱的朋友们，感觉自己真的一团糟。我曾经花了很多时间与篮球待在一起，现在也依旧是篮球陪伴着我。甚至从我还没学会走路，我就和篮球已经互相了解了，年复一年极其深刻的关系。直到几个月前，一切都破灭了，篮球甚至让我感到恐惧。我甚至不想见到篮球，甚至有点讨厌篮球。和篮球在一起就像是一种义务。我真的很想逃避，我想要远离你，可是身边又与你息息相关。我花了很多时间告诉我自己，这些不可能是真的。这根本不合常理，它必须回到本来的样子。这就是我为什么向我的亲人寻求帮助。我努力回想曾经与篮球在一起的快乐时光。”
+   </p>
+   <p>
+    阿夫里内斯继续说道：“我决定下定决心，我想要为了我和篮球的友谊去斗争并且再次与篮球一起大笑。但这做起来并不容易。我曾经用毛巾遮住自己想过很多次。我必须想其他办法来让我振作起来。没有任何人曾经遭遇过我现在的低谷，我试图让自己坚强起来，结束这段噩梦。我开始重新拾起篮球，变得快乐。花上很长时间去与篮球待在一起。亲爱的篮球，我回来了。这就是我，亚历克斯。谢谢你篮球，一直在那等我。”
+   </p>
+   <p>
+    阿夫里内斯在今年2月10日被雷霆裁掉，他因为个人原因缺席了多场比赛，于是决定暂时远离赛场是最好的选择。阿夫里内斯放弃了他上赛季合同里剩余180万美元里的几乎全部薪水，双方和平分手，雷霆一直都很支持阿夫里内斯。
+   </p>
+   <p>
+    阿夫里内斯于2013年第32顺位被雷霆选中，在2016年正式登陆NBA，整个雷霆生涯共出战174场常规赛，场均上场16分钟，得到5.3分1.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

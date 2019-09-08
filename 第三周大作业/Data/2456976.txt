@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  邓肯友人：邓肯享受退役生活，但想念队友情谊和波波维奇
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tom_orsborn/status/1153415559033380864" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 05:33:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="邓肯友人：邓肯享受退役生活，但想念队友情谊和波波维奇" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/a857387688eeec7ebf6f45256b4d262418a278b7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 据记者Tom Orsborn报道，一位很接近马刺新任助教蒂姆-邓肯的消息来源称，邓肯加入马刺教练组的消息让他觉得“措手不及”。
+   </p>
+   <p>
+    消息来源称，邓肯总是说“我永远不会去指导那些NBA球员的”，而且他很享受他退役后的生活。但他天天泡在健身房里，他也很想念队友之间的情谊，很喜欢和（格雷格）波波维奇待在一起。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2456975&amp;type=1">
+     官方：马刺宣布邓肯加入波波维奇的教练组
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

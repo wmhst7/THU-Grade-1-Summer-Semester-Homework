@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  诺克斯：我经常和老板儿子玩《堡垒之夜》，甜瓜依旧出色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/18/kevin-knox-knicks-owner-james-dolan-fortnite/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 17:44:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="诺克斯：我经常和老板儿子玩《堡垒之夜》，甜瓜依旧出色" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/4cac9a28376c26fc8c5fbf921ee26f7e3e30cb87.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 尼克斯球员凯文-诺克斯今日在洛杉矶国际机场接受了美国媒体TMZ的采访，他谈到了多个方面。
+   </p>
+   <p>
+    当被问及夏天过得如何时，诺克斯说：“很棒，我一直在努力训练，为新赛季的到来做好准备。”
+   </p>
+   <p>
+    谈到球队探花秀RJ-巴雷特，诺克斯说：“他的表现很不错，我认为他会非常适合球队，我们在新赛季肯定需要他。”
+   </p>
+   <p>
+    谈到在夏季联赛中对位状元秀蔡恩-威廉森，诺克斯说：“他是一位充满竞争精神的斗士。”
+   </p>
+   <p>
+    谈到尼克斯老板詹姆斯-多兰，诺克斯说：“他很好，我很喜欢他，他在比赛前会和我们进行很多交流。他是一个很好的人，我和他的儿子经常一起玩《堡垒之夜》（一款射击游戏），他是一个很棒的家伙。”
+   </p>
+   <p>
+    当被问及卡梅罗-安东尼是否能够为尼克斯带来帮助时，诺克斯说：“我认为卡梅罗依旧是一位非常出色的球员，我在几天前还和他一起在洛杉矶进行了训练，毫无疑问，他现在的体型很棒，投篮手感也很好，他肯定能够为一支NBA球队提供帮助，希望他能够得到一份合同。他现在看起来很棒。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

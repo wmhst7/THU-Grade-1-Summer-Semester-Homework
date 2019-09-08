@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士总经理：对杜兰特当面告诉我他决定去篮网心怀感激
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/how-warriors-bob-myers-found-positive-final-kevin-durant-meeting?cid=Yahoo&amp;partner=ya4nbcs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 03:27:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士总经理：对杜兰特当面告诉我他决定去篮网心怀感激" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/dea2799c448231ad856dc5dc77fb472d481678f5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 近日，勇士总经理鲍勃-迈尔斯做客The Athletic记者Tim Kawakami的播客The TK Show，谈到了前勇士球员，现篮网球员凯文-杜兰特告知自己决定的经过。
+   </p>
+   <p>
+    今夏，杜兰特选择加盟篮网。在他宣布决定之前，杜兰特让迈尔斯坐飞机到纽约，使他得以亲口告诉迈尔斯自己的决定。对此，迈尔斯说：“这就是我所想要的。我看过有些人写文章（批评他）说他让我坐飞机一路飞到纽约。但我喜欢坐下来看着对方。我们彼此有联系。我喜欢亲耳听到消息。我认为在生活中，我们做这种事做得不够。我们来这样做吧，看着我，告诉我你的想法，无论那是好是坏。”
+   </p>
+   <p>
+    “我认为我们的关系使我们能够这么做。所以对我来说，即便是亲耳听到他不会回到勇士的消息，我始终都宁愿他是这么做的。我对此心怀感激。有些人会说：‘你坐飞机到纽约去就是为了听他说他不会归队的吗？’当然，我（甚至）会坐飞机到中国去和他聊他想要做什么。他赢得了这种权利，他值得我这么做，我也想要这么做。这也给了我一些亲密感，听到某个人的声音，看到他们的肢体语言，听到他们的决定，听到所有这一切，这对我来说要比一条短信，一条Instagram声明，或是一个电话要更好，我不想要那种东西。”
+   </p>
+   <p>
+    “他当面告诉了我，我对此心怀感激。在那之前我并不知道他的决定。我感觉事情可能会往另一个方向发展，但是我内心有一部分想随他去吧……那个时刻，对于所有球员来说都是这样，球员们不欠我们任何东西。那是他们成为自由球员的时候，他不需要告诉我，那时候他甚至不需要说任何话。他本可以说：‘等着吧，我会让你知道的’，或者是做任何他想做的事。他赢得了这种权利。”
+   </p>
+   <p>
+    “所以对我来说，我希望我能得到一个回答，我也确实得到了。他选择在那时候回答我，那是他的特权。所以我到那里时，我们聊了很多不同的事。但是显然，到了（说出决定）的时候，他告诉我他不会归队，我问了他他的想法，他告诉我了他的想法是什么。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

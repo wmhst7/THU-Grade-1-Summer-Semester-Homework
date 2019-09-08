@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NCAA就经纪人新规发表声明：会继续强调学位的重要性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/InsidetheNCAA/status/1159253597676351493?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1159253597676351493&amp;ref_url=https%3A%2F%2Fsports.yahoo.com%2Fncaa-points-finger-at-adv" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 18:09:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NCAA就经纪人新规发表声明：会继续强调学位的重要性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/98bd7b4168df5052e51f7d3634fae97709a96e0a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 近日NCAA官方发布了最新规定，对那些大学球员“试水NBA选秀”而签约的经纪人做出了一些新规定，其中一项规定就是要求经纪人必须拥有学士学位。
+   </p>
+   <p>
+    今天，NCAA官方就之前关于经纪人的规定再度发表声明，具体声明如下：
+   </p>
+   <p>
+    “尽管有一部分人在没有取得大学学位的情况下取得了成功，但是作为一个高等教育机构，NCAA重视大学教育并且会继续强调学位的重要性。大学篮球委员会在与经纪人以及顾问群体交流后，对我们的工作进行了指导建议，他们认为NCAA的认证过程应该要比当前的过程更加严格。”NCAA官方写道。
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2462514&amp;type=1">
+     相关阅读：NCAA新规：大学球员试水选秀签约的经纪人需持学士学位
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭目前还没有做出任何关于让哈登和威少轮休的计划
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/philadelphia/nba-insider-tom-haberstroh/who-are-top-nba-dnp-rest-candidates-2019-20" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 10:25:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭目前还没有做出任何关于让哈登和威少轮休的计划" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/14a9a998deff3761189f0ddd50d32f491b9aa249.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据NBC体育记者Tom Haberstroh的报道，多位消息人士透露，火箭目前还没有做出任何关于让詹姆斯-哈登和拉塞尔-威斯布鲁克在新赛季轮休的计划。
+   </p>
+   <p>
+    火箭总经理达雷尔-莫雷之前在节目里表示，在新赛季使用球员的一些策略方面，他们会制定一个详细全面的计划。
+   </p>
+   <p>
+    “为了让我们的球员们在明年4月达到最好的状态，我们会在赛季里制定一个详细的计划。”莫雷当时说道。
+   </p>
+   <p>
+    “我们在努力争冠，所以我们要确保我们的球员们在季后赛的时候达到最好的状态，想在季后赛拿到16胜可不容易，所以对我们来说，这是常识，我们不需要给这个事情设定一个专用词汇，我们不会把这个称作‘工作量管理’什么的，但是我们会提前与威少哈登和其他关键球员在一起制定一个计划。”莫雷当时说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

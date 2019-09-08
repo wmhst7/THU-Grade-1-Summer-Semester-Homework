@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布克：我会努力承担起领袖责任，期待和队友并肩作战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.brightsideofthesun.com/2019/8/3/20753151/phoenix-suns-devin-booker-team-usa-dangelo-russell" target="_blank">
+     BrightSideSun
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 13:25:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布克：我会努力承担起领袖责任，期待和队友并肩作战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/64690c6343a4a726f5d1f1a16de7cb4f46adcdec.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 太阳球员德文-布克近日在参加青少年篮球训练营时接受了媒体采访。
+   </p>
+   <p>
+    谈到为何选择举办篮球训练营，布克说：“我记得我在这个年纪是什么样子的，你正在学习并且享受这项运动。”
+   </p>
+   <p>
+    当被问及下赛季是否准备好赢下更多的比赛时，布克说：“是的，是的，每次你这样问我，我都会这样回答，我真的相信我们能够做到。”
+   </p>
+   <p>
+    布克详细说明了今年的太阳与往年的不同之处。
+   </p>
+   <p>
+    “我很兴奋，真的非常兴奋，”布克说道，“我们拥有出色的教练组，拥有很多在联盟中征战多年的球员，签下里基-卢比奥，续约凯利（乌布雷），得到达里奥-沙里奇和阿隆-贝恩斯，我非常期待和这些家伙并肩作战。”
+   </p>
+   <p>
+    “我们有一群非常优秀的球员，他们拥有季后赛经验，知道达到那个高度需要付出什么，我会跟随着他们的指导，与此同时，我也会努力承担起领袖责任。”布克补充道。
+   </p>
+   <p>
+    谈到球队主教练蒙蒂-威廉姆斯，布克说：“真正的脚踏实地，球队聘请他之后，我和他共进了几次晚餐，我们谈到了未来前进的规划，他会向你开诚布公，他会向你阐述他真正想要表达的意思，这真的非常重要。”
+   </p>
+   <p>
+    谈到在休赛期曾招募好友丹吉洛-拉塞尔，布克说：“显而易见，当你有机会和终生朋友并肩作战时，这真的是非常棒的机会。但我认为他现在在勇士的处境很理想，我们的关系不止于篮球。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

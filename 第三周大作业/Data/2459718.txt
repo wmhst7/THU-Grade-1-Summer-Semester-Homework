@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦康奈尔：步行者球风强硬，我希望成为球队文化的一部分
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/sports/nba/pacers/2019/07/29/indiana-pacers-t-j-mcconnells-primary-job-pushing-aaron-holiday/1849620001/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 15:31:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦康奈尔：步行者球风强硬，我希望成为球队文化的一部分" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/915a47a5a9df57570d8df136664b2c9b9775a0d1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 步行者官方今日宣布球队正式签下后卫TJ-麦康奈尔，后者在接受媒体采访时谈到了加盟步行者的前景。
+   </p>
+   <p>
+    谈到在球队中的定位，麦康奈尔说：“我们还没有过多地谈论此事，我只是会努力融入球队，继续做过去四年在费城所做的事情，一切都会水到渠成的。”
+   </p>
+   <p>
+    据此前的相关报道，消息人士透露，麦康奈尔的合同为2年700万美元。
+   </p>
+   <p>
+    “我非常尊重这支球队的球队文化，”麦康奈尔说道，“这支球队拥有很多很棒的家伙，我希望能够成为其中的一部分。”
+   </p>
+   <p>
+    “步行者的球风强硬，阵容年轻并且训练有素，这一切都源于内特（麦克米兰）教练，当我得知他们对我有意时，我对此非常感兴趣。”麦康奈尔说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，麦康奈尔场均出场19.3分钟，能够得到6.4分2.3篮板3.4助攻1.04抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

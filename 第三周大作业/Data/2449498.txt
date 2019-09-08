@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希腊男篮公布世界杯初选大名单，字母哥三兄弟领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/901784/greece-announces-2019-world-cup-preliminary-roster/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 18:10:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希腊男篮公布世界杯初选大名单，字母哥三兄弟领衔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/3066dd094a7b1e2c23ec83c9635520d1c4c319bd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据欧洲篮球媒体EuroHoops的报道，希腊篮协公布了征战今年男篮世界杯的18人初选大名单，由扬尼斯-阿德托昆博、科斯塔斯-阿德托昆博、萨纳西斯-阿德托昆博领衔。
+   </p>
+   <p>
+    具体18人大名单如下：
+   </p>
+   <p>
+    Giannis Athinaiou，扬尼斯-阿德托昆博（雄鹿），萨纳西斯-阿德托昆博（前尼克斯），科斯塔斯-阿德托昆博（独行侠），Panagiotis Vassilopoulos，尼克-卡拉希斯（前灰熊），Antonis Koniaris，Giannoulis Larentzakis，Vangelis Mantzaris, Dinos Mitoglou，扬尼斯-博洛西斯（2018-19赛季效力于CBA浙江广厦），泰勒-多西（上赛季效力于灰熊，今夏成为自由球员），乔治斯-帕帕扬尼斯（前国王），科斯塔斯-帕帕尼古拉乌（前火箭），Ioannis Papapetrou，吉奥哥斯-普林特齐斯，Christos Saloustros，Kostas Sloukas。
+   </p>
+   <p>
+    今夏成为自由球员的前国王中锋科斯塔-库佛斯遗憾落选。
+   </p>
+   <p>
+    2019年国际篮联篮球世界杯将于北京时间2019年8月31日至9月15日在中国北京、广州、南京、上海、武汉、深圳、佛山、东莞八座城市举行。希腊与新西兰、巴西、黑山同处F组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

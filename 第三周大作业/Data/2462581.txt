@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才聘请马克-辛普森担任球员表现部门副总裁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.washingtonpost.com/sports/2019/08/06/wizards-hire-another-clippers-executive-mark-simpson-continuing-la-emulation/?noredirect=on" target="_blank">
+     华盛顿邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 15:00:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才聘请马克-辛普森担任球员表现部门副总裁" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/94ccf37b83649f20cb1894a95ed2a021bf020a0d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 近日，奇才官方宣布，聘请马克-辛普森担任球队相关三支职业篮球队（奇才，WNBA华盛顿神秘人和奇才下属发展联盟球队首都Go-Go队）球员表现部门的副总裁。
+   </p>
+   <p>
+    加入奇才前三年，辛普森曾担任快船的球员表现部门主管。他在快船期间曾实施了一个系统，球员们穿戴GPS追踪仪器来评估他们的工作负担，并因此受到称赞，奇才使用了类似系统多年。此外，辛普森还实施了整整一年的“负荷管理计划”，向球员们提供出场时间和训练方面的推荐方案。
+   </p>
+   <p>
+    辛普森和奇才主教练斯科特-布鲁克斯也有渊源。辛普森加入快船之前，他曾在2011年至2016年间担任雷霆的运动表现科学部门主管，当时布鲁克斯曾在雷霆担任主教练。
+   </p>
+   <p>
+    辛普森是英国人，之前曾为英国职业运动队和奥运队工作，是英国体育学院的力量体能部门主管。
+   </p>
+   <p>
+    奇才总经理汤米-谢泼德说：“马克-辛普森带来了超过25年的运动科学经验。他大量的全球知识将成为我们的绝佳资产，帮助我们在我们所有球队的范围内推广和加强运动员护理和球员表现。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

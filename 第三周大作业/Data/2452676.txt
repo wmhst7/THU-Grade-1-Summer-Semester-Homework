@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰森-特里正在探索在大学或职业联赛执教的机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1149128206147997696" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 11:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰森-特里正在探索在大学或职业联赛执教的机会" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/86d49c2016e29d4c33463d6ae4cc819156755e92.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 根据雅虎体育记者Chris Haynes的报道，杰森-特里目前正在探索在大学或者职业联赛执教的机会。
+   </p>
+   <p>
+    目前特里的经纪人是The Sports Law Group的小克里斯-帕特里克。
+   </p>
+   <p>
+    41岁的特里NBA职业生涯至今打了1410场常规赛，场均出战29.8分钟可以拿到13.4分3.8助攻2.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

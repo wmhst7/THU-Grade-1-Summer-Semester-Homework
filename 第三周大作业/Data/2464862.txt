@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾巴尔：詹姆斯不需要向任何人证明自己，戴维斯攻防俱佳
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/story/2019-08-12/lebron-james-all-time-lakers-greats-kobe-bryant-shaq-magic-johnson" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 11:21:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾巴尔：詹姆斯不需要向任何人证明自己，戴维斯攻防俱佳" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/adc26ae60559e7987c8581f9525663f8b469db7b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 湖人前锋勒布朗-詹姆斯近日通过Instagram发布了此前网络上流行的一张他与多位湖人名宿的合成照，并发表感想。这张合成照展现了来自不同时期的多位前湖人球员聚集在替补席的场景。除詹姆斯外，照片中还包括魔术师约翰逊、科比-布莱恩特、沙奎尔-奥尼尔和卡里姆-阿卜杜尔-贾巴尔。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/11/ef99e3318c955957491777a8f1914b80.JPG"/>
+   </p>
+   <p>
+    “哇！！！无比荣幸以及感恩能够成为伟大的一员。另外，天啊，若这套首发阵容对阵任何球队的队史最强阵容，让我们搞定吧！#湖人秀 #我就是王 #曼巴 #Diesel(奥尼尔DJ艺名) #魔术师 #天勾王 ”詹姆斯写道。
+   </p>
+   <p>
+    湖人名宿贾巴尔近日在迪士尼世界参加NBA活动期间接受了媒体采访，他表示詹姆斯应该入选这套首发名单，并将会在下赛季展示能够入选的原因。
+   </p>
+   <p>
+    “他已经证明自己依旧是那个湖人想要得到的球员，所以我不认为他需要对此感到担心，”贾巴尔说道，“他们只是需要在他（詹姆斯）身边添加一些正确的拼图，在这个联盟当中，只有一位精英级别的球员是无法赢得总冠军的，你需要得到帮助，而我认为他现在得到了。”
+   </p>
+   <p>
+    贾巴尔并没有对下赛季的冠军归属做出预测，但他认为现如今的湖人是总冠军竞争者。
+   </p>
+   <p>
+    “如果他（詹姆斯）能够打出好的表现，球队能够在季后赛中展现出竞争力，并且打到更深入的阶段，这就足够了，”贾巴尔说道，“他已经不需要向任何人证明自己，但湖人球迷现在充满饥饿感，这是一个好兆头，他们想要赢球，他们想要支持这支球队。”
+   </p>
+   <p>
+    谈到湖人新援安东尼-戴维斯，贾巴尔表示：“戴维斯是一位全面的NBA球员，他在攻防两端无所不能，对于球队而言，他是一个很棒的补充。事实上，他和德马库斯-考辛斯之前曾在新奥尔良并肩作战，现在他们再度成为队友，这会很棒，他们曾做过队友，现如今他们将要和勒布朗-詹姆斯一起打球。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

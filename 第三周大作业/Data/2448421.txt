@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人为罗齐尔、泰斯提供资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1145050388665643009?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 03:25:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人为罗齐尔、泰斯提供资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/77467f81ebaaa779b13c1379613a180698f1a6de.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 凯尔特人已经为队中球员特里-罗齐尔、丹尼尔-泰斯提供资质报价，两者成为受限制自由球员。
+   </p>
+   <p>
+    2018-19赛季，罗齐尔场均出场22.7分钟得到9.0分3.9篮板2.9助攻；泰斯场均出场13.8分钟可以得到5.7分3.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

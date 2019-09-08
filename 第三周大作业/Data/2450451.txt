@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小佩顿：球队风格和队友吸引我选择尼克斯而非其他球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/07/04/nba-free-agency-rumors-knicks-new-york-elfrid-payton-randle-barrett-durant-kyrie-irving/?tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 11:04:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小佩顿：球队风格和队友吸引我选择尼克斯而非其他球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/2e9e500698cbc2cba0b43e66e217967e322bb179.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 此前与尼克斯达成协议的埃尔弗里德-佩顿今日接受HoopsHype采访，谈到自己自由球员签约相关事宜以及对球队未来的展望。
+   </p>
+   <p>
+    谈到自己今年的签约情况时，小佩顿表示：“我很兴奋，因为我今年有很多选择，与去年不同，当时并没有那么多球队（向我抛出橄榄枝）。刚开始我觉得：‘太好了！我有这么多选项！’但我很快就发现选项多的时候做决定更困难了，因为我得选出一个最适合我的。我觉得去年发生在我身上最好的事情就是去了鹈鹕，鹈鹕很适合我，也正是因此我才能用自己喜欢的方式打球。因此今年我也想尽量确保我选择了最适合我的地方。”
+   </p>
+   <p>
+    当被问及为什么在诸多选项中选定尼克斯时，小佩顿表示：“其中一个原因是上场时间。我完全不介意签一年的短合同，我去年就是这么签的，我觉得刚刚好。不过当你只签了一年合同的时候，你就得充分发挥来展示自己的能力了。对于一年合同的球员来说，如果无法上场打球，就像你的双手被束缚住了，你懂我意思吗？我也很看重教练和球队的风格，这个球队喜欢拼抢吗？其他队友在防守端积极吗？他们试图建立起什么样的体系？最后我还会关心球队的大名单与我是否相宜。当我看尼克斯的大名单并和朱利叶斯（兰德尔）沟通时，我认为这支球队是一个很好的选择。”
+   </p>
+   <p>
+    谈到与鹈鹕队友兰德尔再次合作，小佩顿说：“我一直很喜欢朱利叶斯，而且很尊重他的比赛。但在去年和他紧密联系、共同度过球队因伤病和其他难搞的事而非常艰难的一段时间之后，我更加了解这个人在困难来临无路可退时会怎么做。我真的很佩服他，这个联盟里所有这样的人我都很佩服。我对博比-波蒂斯的看法也是这样的，虽然我没和波蒂斯一起打过球，但我可以看得出他的坚韧。泰-吉布森也一样，看到这些名字出现在尼克斯的名单里的时候，做出这个决定就不费吹灰之力了。”
+   </p>
+   <p>
+    埃尔弗里德-佩顿2018-19赛季常规赛场均上场29.8分钟，得到10.6分5.2篮板7.6助攻1.05抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

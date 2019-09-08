@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔和罗伊斯-奥尼尔等人组团观看爵士夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzb7Rd8HC0S/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:53:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔和罗伊斯-奥尼尔等人组团观看爵士夏季联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/f7dc13d14503735556989d6b2a42cff8e39d15f5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今天爵士与骑士展开夏季联赛的交锋，爵士在主场86-71战胜骑士。
+   </p>
+   <p>
+    爵士官方在Instagram上发布了爵士球员多诺万-米切尔、乔治-尼昂和罗伊斯-奥尼尔在比赛现场的照片，并写道：“浓厚的夏天氛围。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

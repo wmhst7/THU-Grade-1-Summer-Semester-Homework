@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：雷迪克将无法参加美国男篮训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1154779881751928833" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 23:46:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：雷迪克将无法参加美国男篮训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/62ea049bbe65d5a8475b7fac9d3263f98cb2db3b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，JJ-雷迪克曾十分渴望加入美国男篮备战世界杯的训练营，但他将无法参加。
+   </p>
+   <p>
+    根据Shams报道，雷迪克和他的家人将在训练营开始前搬家至新奥尔良。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、凯文-乐福、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆、布拉德利-比尔、达米安-利拉德、德马尔-德罗赞和托拜厄斯-哈里斯等球员相继宣布不会代表美国参加今年夏天的男篮世界杯。
+   </p>
+   <p>
+    2018-19赛季常规赛，雷迪克场均上场31.3分钟，得到18.1分2.5篮板2.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

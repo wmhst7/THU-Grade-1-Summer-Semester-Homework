@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：76人有信心同时续约巴特勒和哈里斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1143975006726238223?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 06:34:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：76人有信心同时续约巴特勒和哈里斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/74154c09e4f8c66800e3a04d5dfcbec276a2806c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，76人一直在向整个NBA表达他们有信心能够同时与自由球员吉米-巴特勒和托拜厄斯-哈里斯完成续约。
+   </p>
+   <p>
+    目前并不清楚巴特勒对于以先签后换形式加盟火箭有多大兴趣。联盟消息人士透露，自由球员市场开启后，火箭计划招募吉米-巴特勒，迫使76人与火箭完成关于巴特勒的先签后换的交易。
+   </p>
+   <p>
+    多位消息人士透露，76人计划积极运作，寻求与巴特勒签下一份新合同，他们可能会用一份5年1.9亿美元的合同来对抗火箭对巴特勒的追逐。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

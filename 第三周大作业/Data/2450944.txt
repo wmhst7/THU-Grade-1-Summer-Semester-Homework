@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奎因-库克以两年600万的合同加盟湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1147502491585544192" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 21:48:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奎因-库克以两年600万的合同加盟湖人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/f896c6c796ed676a80628ed0689a8f74c7886dbd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据雅虎记者Chris Haynes报道，后卫奎因-库克以2年600万美元的合同加盟湖人。
+   </p>
+   <p>
+    奎因-库克在2017-18赛季以双向合同加盟勇士，在赛季后半段勇士出现伤病潮时表现出色，随后与勇士续约至2018-19赛季结束，在今夏，库克成为完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，库克场均上场14.3分钟，能得到6.9分2.1篮板1.6助攻；季后赛场均上场11.4分钟，得到4.2分1.1篮板0.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  人生哲理！麦基发布训练组图：做人应当像Wifi一样
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1rzG5Jn4U7/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 13:20:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="人生哲理！麦基发布训练组图：做人应当像Wifi一样" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/8875a236953206e058d813595cfdd0f82abf53e2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 湖人中锋贾维尔-麦基今日通过Instagram发布一组训练照，并表达人生感悟。
+   </p>
+   <p>
+    “卫星无法在室内工作，它们需要被放在高处才能起作用。请做一个Wifi!足以穿越墙壁，天花板，屋顶...这东西还能在室外工作！让全世界知晓你将在任何环境下发挥作用！#成为一个Wifi”麦基写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，麦基场均出场22.3分钟，得到12分7.6篮板1.97盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/57aa7624e19f15df9e6e3f4a7fa24c26.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/59175b2cbd3a7723a7df9646b3fd0444.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/505598eab61aa0039b9957862df43521.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/6e26fd072dbd0cb9ef41f6bf29acc7b5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/e39a5d7e36fe961f04172d812025aecf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/71dc0851b698c325e0c3d123470514cb.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/d2b2dedd5d46fc33b4959d6493550cb6.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/0773a22d9becca61cb2ee9931577eef7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

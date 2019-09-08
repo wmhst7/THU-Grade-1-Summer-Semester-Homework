@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德与开拓者达成4年1.94亿超级顶薪续约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1145461482127147014" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 06:38:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德与开拓者达成4年1.94亿超级顶薪续约协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/f686c92f81873b511106ae778627ac976c3eb29c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据雅虎记者Chris Haynes报道，多位消息人士透露，达米安-利拉德与开拓者达成4年1.94亿超级顶薪续约协议。
+   </p>
+   <p>
+    根据此前的报道，利拉德四年的合同金额分别为4375万美元、4725万美元、5075万美元和5425万美元，最后一年（2024-25赛季）拥有球员选项。
+   </p>
+   <p>
+    利拉德目前的合同还剩两年，将在2021年夏天到期，2019-20赛季的金额为2980万美元，2020-21赛季的金额为3163万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德场均上场35.5分钟，得到25.8分4.6篮板6.9助攻1.10抢断，季后赛场均上场40.6分钟，得到26.9分4.8篮板6.6助攻1.69抢断。
+   </p>
+   <h5>
+    勘误：虎扑错误地将“达成4年1.94亿超级顶薪续约协议”写成了“达成5年1.94亿超级顶薪续约协议”，给广大JRs造成误解，在此致歉。
+   </h5>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

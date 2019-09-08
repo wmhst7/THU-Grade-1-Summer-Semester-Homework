@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克拉克森更新社媒晒出自己在菲律宾球场训练的个人帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CZjW3BPpE/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 11:34:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克拉克森更新社媒晒出自己在菲律宾球场训练的个人帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/2e4bf7fbbc3b38cda43e883162e47784b6cea6a7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，骑士后卫乔丹-克拉克森更新了个人社交媒体Instagram晒出自己在菲律宾的球场训练时的个人照（见新闻配图）。
+   </p>
+   <p>
+    乔丹-克拉克森希望代表菲律宾出战此次在中国举办的2019FIBA男篮世界杯。
+   </p>
+   <p>
+    2018-19赛季常规赛，克拉克森场均出场27.3分钟，可以得到16.8分3.3篮板2.4助攻0.70抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

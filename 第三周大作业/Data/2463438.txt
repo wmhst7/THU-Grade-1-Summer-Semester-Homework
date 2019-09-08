@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格林：加盟湖人不是困难的决定，伦纳德也是普通人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Ubuntuhnh/status/1159731262463987712" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 15:42:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格林：加盟湖人不是困难的决定，伦纳德也是普通人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/fac42d75a4e03a0e50d0d9b5552d08872ac1087b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 湖人球员丹尼-格林近日在纽约长岛为青少年举办篮球训练营，期间他接受了STAT Sports记者Rob Lep的采访。
+   </p>
+   <p>
+    谈到加盟湖人的决定，格林说道：“很显然，这不是什么困难的决定。他们拥有两名超级球星，很容易就能围绕他们建队。我觉得我的到来为他们增加了一名有竞争力的球员，也能帮助他们扭转过去几年的不利局面。”
+   </p>
+   <p>
+    谈到下赛季湖人的前景，格林说道：“我觉得我们现在有了很出色的纸面阵容，但除非拿出场上的表现，否则一切都不重要。休赛期里大家的状态看起来都不错，看看我们能否在新赛季保持健康，看看我们之间的化学反应如何。现在球队里有了经验丰富的球员，也有了出色的领袖。”
+   </p>
+   <p>
+    格林上赛季随猛龙赢得了自己职业生涯的第二个总冠军，他说道：“很幸运能拥有不止一个（总冠军）。我会享受这一个总冠军，因为它的来之不易。想想这一路的旅程，重新回到那样的舞台是很不容易的，重新赢得总冠军当然也很不容易。我会认识到这对我来说是多么的幸运和特殊，我非常幸运。”
+   </p>
+   <p>
+    格林两次和科怀-伦纳德一起赢得总冠军，当被问到前队友伦纳德是怎样的人，格林的答案很简答：“他是一个普通人，和其他人一样。 ”
+   </p>
+   <p>
+    回到自己的家乡举办青少年训练营，格林说道：“这里是我长大的地方，一直很希望能回到自己的起点并帮助这里的孩子，从他们身上你能看到自己的影子，同时他们也希望长大后成为你一样的人。我们要来挖掘他们的可能，并帮助那些不幸的孩子。”
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，消息人士透露，丹尼-格林与湖人签下一份2年3000万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出战27.7分钟可以拿到10.3分4篮板1.6助攻，并帮助猛龙夺得了总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

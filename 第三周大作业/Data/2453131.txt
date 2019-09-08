@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  理查德森：期待自己为76人带来三分和防守
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/sixers-news-josh-richardson-looking-to-bring-3-and-d-presence-to-philly/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 15:55:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="理查德森：期待自己为76人带来三分和防守" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/a4444e4bb19189b7f68ff02e62989430874c4d00.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 76人新援约什-理查德森在接受随队记者Keith Pompey时表示，期待自己为费城带来三分和防守。
+   </p>
+   <p>
+    他表示：“我觉得自己能为本（西蒙斯）和乔尔（恩比德）拉开场上的空间。我认为自己在防守端能给对方后卫带来压力，我认为自己是个充满热情的家伙，也是一个好的更衣室球员。我在待过的每支球队都能起到胶水的作用，所以我认为自己能给球队带来不错的化学反应。”
+   </p>
+   <p>
+    另外，理查德森还谈到了自己的新队友，他表示：“你看到了艾尔（霍福德）在过去12年生涯所做的，乔尔（恩比德）让自己成为了联盟就算不是第一也是前三的中锋。西蒙斯持球反击就能带来威胁，还有哈里斯也成长为一名出色的球员。”
+   </p>
+   <p>
+    2018-19赛季，理查德森场均上场34.8分钟，得到16.6分3.6篮板4.1助攻1.1抢断，三分命中率达35.7%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯预计会与雷吉-布洛克达成一份新协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IanBegley/status/1149462373696016386" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 07:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯预计会与雷吉-布洛克达成一份新协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/8440b48a2e541118019bb94ee5e001c3f3d76273.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 根据SNY记者Ian Begley的报道，多位消息人士透露，尼克斯预计会与雷吉-布洛克达成一份新的协议。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，因为出现了一项医学问题，尼克斯和布洛克正在就之前达成的2年2100万美元协议进行重新商讨，双方都致力于就新的协议达成一致。
+   </p>
+   <p>
+    在布洛克出现了一项医学问题后，尼克斯和布洛克仍然都有兴趣重新商讨一份新的合同，布洛克的经纪人David Bauman和尼克斯仍然在继续商讨一份新合同，目前并不清楚这项医学问题是什么。
+   </p>
+   <p>
+    尼克斯可以为布洛克提供价值480万美元的空间特例，不再与布洛克签下2年2100万美元的合同可以让尼克斯用薪资空间签下马库斯-莫里斯。
+   </p>
+   <p>
+    2018-19赛季常规赛，布洛克场均出场29.8分钟，可以得到11.3分2.7篮板2.0助攻0.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

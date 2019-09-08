@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  高尔夫联队！卡特社交媒体晒与伊格达拉合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/mrvincecarter15/status/1150523618327011328" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 14:33:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="高尔夫联队！卡特社交媒体晒与伊格达拉合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/15c54d95423c9d22e0f0cc1c066cfd71829b56e1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，NBA球员文斯-卡特更新社交媒体Twitter，晒出自己于安德烈-伊格达拉以及Brian Urlacher参加美国名人世纪锦标赛的合影（见新闻配图）。
+   </p>
+   <p>
+    “和伊格达拉以及Brian组队的最后一天。很棒的一天，优秀的团队。”他写道。
+   </p>
+   <p>
+    美国名人世纪锦标赛是一项在美国内华达州举办的高尔夫赛事，举办日期为7月的第二个完整周的周末。这项赛事开始于1990年，至今已经举办了30年。
+   </p>
+   <p>
+    NBA职业生涯至今，现年42岁的卡特曾效力过猛龙、篮网、魔术、太阳、独行侠、灰熊、国王和老鹰，共上场1481场常规赛。此前他曾声称自己还会征战一个赛季，并且新赛季会是他在NBA的最后一个赛季。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡特场均上场17.5分钟，得到7.4分2.5篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

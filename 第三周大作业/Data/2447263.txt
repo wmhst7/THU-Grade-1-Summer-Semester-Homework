@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥：发表获奖感言之后，我所想的是下次的训练时间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Bucks/status/1143693862797549573" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 17:43:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥：发表获奖感言之后，我所想的是下次的训练时间" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/e28fd11847b093ad05b6a88d9984dc17aa486038.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 雄鹿前锋扬尼斯-阿德托昆博在接受媒体采访时谈到了当选MVP的感受。
+   </p>
+   <p>
+    “感觉非常不可思议，这是努力付出的回报。这是一段漫长的旅程，不仅是我在雄鹿效力的六个赛季，自从我12岁第一次拿起篮球开始，感谢一路走来相信我、支持我的人，我也相信自己，我认为这只是一个开始，我非常认真地说这句话。我会继续努力训练，继续努力变得更出色，无论是个人层面，还是帮助球队更进一步。”阿德托昆博说道。
+   </p>
+   <p>
+    “无论你是否相信，在发表获奖感言之后，我所想的就是下一次去训练馆训练是什么时候，我想要继续打磨自己的比赛。我渴望为球队赢得一座更大的奖杯，赢得那座金色的奖杯，赢得拉里-奥布莱恩杯。我知道这需要时间，这需要你在每一天付出努力，这正是我一直在做的事情，我会继续努力做下去。”阿德托昆博接着说道。
+   </p>
+   <p>
+    “总而言之，能够赢得MVP，我心怀感激，我非常珍惜这个时刻，但相比之下，站上总决赛的舞台会更加美妙。”阿德托昆博补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

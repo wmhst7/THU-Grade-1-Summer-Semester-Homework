@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师获奖后更新社媒：感谢萧华和杰克逊为我们颁奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MagicJohnson/status/1143370738440667136" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 15:08:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师获奖后更新社媒：感谢萧华和杰克逊为我们颁奖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/33f14a8cd59fa43dd005c8aa615b74b9bce07bea.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，魔术师约翰逊和拉里-伯德获得NBA终生成就奖。
+   </p>
+   <p>
+    颁奖典礼结束后，魔术师约翰逊上传了一张与NBA总裁亚当-萧华、著名演员塞缪尔-杰克逊以及拉里-伯德的合影（见新闻配图）。
+   </p>
+   <p>
+    并说道：“感谢总裁萧华以及我的好朋友塞缪尔-杰克逊为我们颁发这个奖项。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

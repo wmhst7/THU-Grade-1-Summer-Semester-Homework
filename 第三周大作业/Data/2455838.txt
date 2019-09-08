@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  JJ-雷迪克：朱-霍勒迪对我决定与鹈鹕签约有重大影响
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thephillyvoice/status/1151913799059947520" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 17:33:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="JJ-雷迪克：朱-霍勒迪对我决定与鹈鹕签约有重大影响" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/10522b5b792e50a7aa5ab27567363ac14f5ef831.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 今日，鹈鹕后卫JJ-雷迪克接受了PhillyVoice记者的电话采访。
+   </p>
+   <p>
+    在谈及自己与鹈鹕后卫朱-霍勒迪之间的联络时，雷迪克表示：“我们只是通过电话交流。我刚刚通过电话告诉朱-霍勒迪，‘伙计，你是我最喜欢的NBA球员之一’，我的确是这个意思。他是一个我长时间以来非常尊重和钦佩的人。尽管还有着指导年轻球员和发挥领袖作用的机会，但更多的就是有机会与朱-霍勒迪一起打球。我认为这是一个决定性因素。”
+   </p>
+   <p>
+    “我以为我肯定会在费城退役了，甚至我与约什-哈里斯（76人老板）谈话也聊到了这点。但有时，金钱也无法影响我的决定。”雷迪克说道。
+   </p>
+   <p>
+    根据此前的报道，雷迪克与鹈鹕签下2年2650万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，雷迪克场均上场31.3分钟，得到18.1分2.5篮板2.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我住球哥家楼下)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

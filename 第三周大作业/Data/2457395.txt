@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  肖恩-拉金与土耳其俱乐部艾菲斯签下一份1+1合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/911200/shane-larkin-officially-stays-with-efes/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 10:20:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="肖恩-拉金与土耳其俱乐部艾菲斯签下一份1+1合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/77df3041ec4e8ea175f8723a3ca5767d8d557d13.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 土耳其俱乐部艾菲斯官方今日宣布，球队后卫肖恩-拉金下赛季将继续为艾菲斯效力。
+   </p>
+   <p>
+    拉金与艾菲斯签下的是一份1+1合同，这份合同包含一个在2020年夏天可以跳出合同进入NBA的选项。根据此前的报道，活塞、雷霆以及魔术曾有意肖恩-拉金。
+   </p>
+   <p>
+    2018-19赛季，拉金帮助球队打入欧洲冠军联赛决赛，这也是艾菲斯队史首次打入欧冠决赛。决赛中，艾菲斯以83-91的比分不敌莫斯科中央陆军队，拉金本场比赛贡献了29分。此外，拉金还帮助艾菲斯赢得了队史首个土耳其超级联赛冠军，并当选总决赛MVP。
+   </p>
+   <p>
+    拉金职业生涯至今在NBA共出战256场常规赛，场均出场19.1分钟，得到5.5分1.9篮板2.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

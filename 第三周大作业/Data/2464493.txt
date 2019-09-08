@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃尔南戈麦斯晒出身披国家队战袍球场照：加油，西班牙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CJhEboAd0/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 10:03:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃尔南戈麦斯晒出身披国家队战袍球场照：加油，西班牙" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/1452b4182690f4596bd1da2bc5a131f3c998723d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，西班牙男篮国家队成员、黄蜂中锋吉列尔莫-埃尔南戈麦斯更新了个人社交媒体Instagram晒出一张自己身披西班牙国家队战袍的赛场照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“加油，西班牙！”
+   </p>
+   <p>
+    根据此前消息报道，西班牙男篮国家队已经裁掉了Pablo Aguilar和Joan Sastre，目前国家队还有14名球员，吉列尔莫-埃尔南戈麦斯仍在西班牙男篮国家队大名单之中。
+   </p>
+   <p>
+    今夏在中国举办的2019FIBA男篮世界杯，西班牙将在小组C组对阵波多黎各、突尼斯以及伊朗。
+   </p>
+   <p>
+    2018-19赛季常规赛，吉列尔莫-埃尔南戈麦斯场均出场14.0分钟，可以得到7.3分5.4篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

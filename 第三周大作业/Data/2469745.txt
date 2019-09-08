@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]下一站中国！林书豪NBA生涯高燃混剪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 18:53:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/tv/v/I4biroXT7?fid=1034:4409962374328791" onclick="openVideo('https://weibo.com/tv/v/I4biroXT7?fid=1034:4409962374328791');return false;" target="_blank">
+    <img alt="[视频]下一站中国！林书豪NBA生涯高燃混剪" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/2fa7e48df606f8f4c565405d468cc424c350d3ee.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯
+    <a href="https://weibo.com/tv/v/I4biroXT7?fid=1034:4409962374328791" target="_blank">
+     视频: [视频]下一站中国！林书豪NBA生涯高燃混剪»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

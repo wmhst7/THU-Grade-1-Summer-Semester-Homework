@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雄鹿签约韦斯利-马修斯和罗宾-洛佩斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bucks/news/bucks-sign-robin-lopez-and-wes-matthews" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 10:32:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雄鹿签约韦斯利-马修斯和罗宾-洛佩斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/3a4ebb22422cf8c859304b2ba1cb8dde749df6a6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 雄鹿官方今日宣布，他们已经签约自由球员韦斯利-马修斯和罗宾-洛佩斯。
+   </p>
+   <p>
+    “罗宾是一个在内线有影响力的中锋，可以为我们在中锋的位置上提供重要的阵容深度，与此同时，他还为我们带来了经验，罗宾是一个在场上和场下性格都很好的人，我们激动地欢迎他来到球队。”雄鹿总经理琼-霍斯特说道。
+   </p>
+   <p>
+    霍斯特接着说：“韦斯利是一名有经验的后卫，他会为我们的后场带来阵容深度，他是一名全面的球员，可以帮到我们的外线投篮，并且他还是一名很好的人，我们激动地欢迎他回到威斯康星（马修斯来自马奎特大学）。”
+   </p>
+   <p>
+    马修斯之前与雄鹿达成一份底薪协议，雄鹿使用全额空间特例签约洛佩斯，后者年薪大约为476万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，马修斯场均上场30.3分钟得到12.2分2.5篮板2.3助攻；洛佩斯场均出场21.7分钟可以得到9.5分3.9篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

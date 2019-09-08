@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王女助教感谢前东家：感谢76人让我成为球队一分子
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Lindsey_Harding/status/1152996806348984321" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 01:57:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王女助教感谢前东家：感谢76人让我成为球队一分子" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/caba216c9afe844965aeeb63e5e34c84ce1e0a09.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 据记者Ramona Shelburne报道，国王雇佣了Lindsey Harding为助教，此前她曾在76人担当球员发展教练。
+   </p>
+   <p>
+    今天Harding在推特上感谢了前东家76人，她写道：“永远感激76人突破阻隔，给我成为球队史上首位女性球探和教练的机会。感谢#费城 ，让我成为球队的一分子。”
+   </p>
+   <p>
+    Harding曾在WNBA效力过9个赛季，生涯场均能得到9.8分2.9篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

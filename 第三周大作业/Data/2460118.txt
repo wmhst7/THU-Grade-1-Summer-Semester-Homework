@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  以赛亚-罗比：与卡莱尔教练进行了交流，他提供了一些建议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Channel8ABC/status/1156410305892823044" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 15:20:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="以赛亚-罗比：与卡莱尔教练进行了交流，他提供了一些建议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/74381608fc97c26e242c7d9f19e5e2dd68bd64dd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 独行侠新秀以赛亚-罗比近日在内布拉斯加州林肯市参加了球迷见面活动，想要获得罗比的签名需要花费10美元，本次活动的全部收益都将捐给慈善机构Habitat for Humanity以及美国癌症协会。
+   </p>
+   <p>
+    罗比小时候在Habitat for Humanity机构资助的房子中长大，现在他选择回馈当年得到了帮助。
+   </p>
+   <p>
+    “能够真正拥有一所房子，这会让你非常安心，”罗比说道，“我喜欢Habitat for Humanity为人们所做的事情，它给了我更美好的童年时光。”
+   </p>
+   <p>
+    罗比是内布拉斯加州自1999年以来第一位被NBA选中的球员，他在今年选秀大会上被活塞在次轮第15顺位选中，随后被交易至独行侠。
+   </p>
+   <p>
+    “我只在达拉斯待了几天，”罗比说道，“我非常期待去到那里和球队一同努力工作，我们的教练组非常出色，我非常喜欢球队的环境，我很兴奋能够加盟独行侠。”
+   </p>
+   <p>
+    罗比代表独行侠参加了今年的夏季联赛，在出场的五场比赛中，场均能够得到8.8分5.2篮板1.4助攻1抢断1.2封盖。
+   </p>
+   <p>
+    “我之后和卡莱尔教练进行了沟通，他告诉了我需要专注于哪些方面，以便在下赛季为球队带来影响，”罗比说道，“我们的目标是打进季后赛，我会为此拼尽全力。”
+   </p>
+   <p>
+    就目前而言，罗比还在适应作为一名职业篮球运动员的身份，这对于一个来自小镇的孩子而言依旧非常疯狂。
+   </p>
+   <p>
+    “这有些疯狂，但在经历了夏季联赛之后，我知道我属于哪里。我在夏季联赛中首次登场是对阵篮网，我有机会去防守一些在NBA中获得稳定轮换位置的球员。所以我很感激能够面对这样的挑战，很感激能够获得帮助球队赢球的机会。”罗比说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加拿大总理：感谢伦纳德和格林帮助猛龙夺得了总冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JustinTrudeau/status/1147650116251279361" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 12:02:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加拿大总理：感谢伦纳德和格林帮助猛龙夺得了总冠军" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/447a75e46d2c8bf6c5d5a19b3b5ba2b049d19fa4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 加拿大总理贾斯廷-特鲁多在个人社交媒体上对前锋科怀-伦纳德和后卫丹尼-格林的离队发表了看法。
+   </p>
+   <p>
+    “科怀-伦纳德和丹尼-格林，看到你们离队很伤感。感谢你们帮助猛龙夺得了队史第一座总冠军奖杯。猛龙激励了加拿大新一代的篮球人和球迷！”
+   </p>
+   <p>
+    科怀-伦纳德在昨日决定以4年1.42亿美元的合同加盟快船，丹尼-格林在昨日决定以2年3000万的合同加盟湖人。
+   </p>
+   <p>
+    伦纳德和格林在2018年夏天被马刺交易至猛龙，2018-19赛季常规赛，格林场均出战27.7分钟可以得到10.3分4篮板1.6助攻，伦纳德场均上场34分钟，得到26.6分7.3篮板3.3助攻1.8抢断。两人帮助猛龙赢得了2018-19赛季NBA总冠军，伦纳德当选总决赛最有价值球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

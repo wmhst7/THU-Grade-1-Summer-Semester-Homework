@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝弗利、哈勒尔祝贺桑韦尔签约骑士：为你感到高兴
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/patbev21/status/1157796075257729024" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 08:05:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝弗利、哈勒尔祝贺桑韦尔签约骑士：为你感到高兴" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/1e00fe3aaf357a7fc2581a414e33a60f91568c28.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 据The Athletic记者Shams Charania今天报道，消息人士透露，自由球员辛达里厄斯-桑韦尔已经与骑士达成一份一年无保障合同协议。
+   </p>
+   <p>
+    随后，快船球员帕特里克-贝弗利与蒙特雷兹-哈勒尔均在推特向桑韦尔表示了祝贺。
+   </p>
+   <p>
+    “祝贺我的兄弟，伙计，祝贺你找到工作了。”哈勒尔写道。
+   </p>
+   <p>
+    “我的大男孩，祝贺你，为你感到高兴。”贝弗利写道。
+   </p>
+   <p>
+    桑韦尔是2017年的次轮第48顺位新秀，职业生涯前2个赛季效力于快船。根据此前的报道，快船在今年7月初裁掉了桑韦尔。
+   </p>
+   <p>
+    2018-19赛季常规赛，桑韦尔代表快船出战64场，场均出战4.9分钟可以拿到1分0.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

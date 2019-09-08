@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  由于泰勒-恩尼斯的健康情况，马卡比队将不会与其签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/914670/maccabi-will-reportedly-not-sign-tyler-ennis/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 17:36:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="由于泰勒-恩尼斯的健康情况，马卡比队将不会与其签约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/b83cb38a50ccf7a55d4cddf56071b2a4ed6e1322.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 据以色列媒体Sport 5记者Roi Cohen报道，由于前NBA球员泰勒-恩尼斯的腿部伤势需要6-8周才能康复，特拉维夫马卡比篮球俱乐部将不会与其签约。
+   </p>
+   <p>
+    当地时间2018年10月22日，当时效力于土耳其联赛费内巴切队的泰勒-恩尼斯在比赛中左腿严重受伤，随后球队官方宣布，恩尼斯遭遇左腿胫骨骨折，赛季报销。
+   </p>
+   <p>
+    据此前的相关报道，马卡比篮球俱乐部宣布，泰勒-恩尼斯已经抵达以色列，他将接受体检，如果能够通过体检，球队将与他签约。
+   </p>
+   <p>
+    在NBA效力期间，泰勒-恩尼斯曾为雄鹿、太阳、火箭和湖人出战过，场均出场12.6分钟，能够拿到4.2分1.9助攻1.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

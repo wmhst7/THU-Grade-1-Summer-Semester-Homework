@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：热火将怀特塞德交易至开拓者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145732637069385729" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 00:36:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：热火将怀特塞德交易至开拓者" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/ad8eab79edbf7796b8ff61abc0b36358213b8e81.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据NBA记者Adrain Wojnarowski报道，多位消息人士透露，热火将哈桑-怀特塞德交易至开拓者，得到莫里斯-哈克利斯和迈耶斯-伦纳德。
+   </p>
+   <p>
+    这笔交易后，热火腾出了足够的薪资空间以便完成吉米-巴特勒的先签后换，但球队仍需给予更多筹码以便达成巴特勒交易的薪资匹配（若巴特勒最高年薪为3270万美元，热火需要送出2610万美元的资产匹配，而理查德森的年薪仅为1010万美元）。
+   </p>
+   <p>
+    2018-19赛季常规赛，怀特塞德场均上场23.3分钟，得到12.3分11.4篮板0.8助攻1.89盖帽，哈克利斯场均上场23.6分钟，得到7.7分4.5篮板1.2助攻1.12抢断0.88盖帽，伦纳德场均上场14.4分钟，得到5.9分3.8篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

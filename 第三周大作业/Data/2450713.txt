@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才将霍华德交易至灰熊，得到CJ-迈尔斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1147304157835120640" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 08:40:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才将霍华德交易至灰熊，得到CJ-迈尔斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/6a88327bcfd4cc03ccf5facac4f5031135e756bf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 根据The Athletic记者Shams Charania的报道，多位消息人士透露，奇才已经将德怀特-霍华德交易至灰熊，随后根据NBA著名记者Adrian Wojnarowski的报道，灰熊将CJ-迈尔斯送到奇才得到霍华德。
+   </p>
+   <p>
+    根据Wojnarowski的报道，消息人士透露，灰熊将交易或者裁掉霍华德。
+   </p>
+   <p>
+    根据The Athletic记者Fred Katz的报道，消息人士透露，这笔交易不涉及现金和选秀权。
+   </p>
+   <p>
+    霍华德之前选择执行下赛季560万美元的球员选项，他合同剩下最后一年，2018-19赛季常规赛，霍华德仅代表奇才出场9次，场均出战25.6分钟得到12.8分9.2篮板。
+   </p>
+   <p>
+    2018-19赛季常规赛，迈尔斯场均出战16.2分钟，可以拿到6.4分1.8篮板。迈尔斯合同还剩一年，新赛季合同价值873万美元，他上赛季在马克-加索尔的交易里被猛龙交易至灰熊。这笔交易将为灰熊省下313万美元。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

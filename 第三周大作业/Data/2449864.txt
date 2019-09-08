@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  YahooSports官方Ins发布趣味视频打趣湖人招募伦纳德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzbFcJ7hDd3/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 16:28:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="YahooSports官方Ins发布趣味视频打趣湖人招募伦纳德" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/45058a6efad48b07834ad6c13ef2cc6a8d112317.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今日，Yahoo Sports官方Instagram上传了一段湖人招募科怀-伦纳德的有趣视频，视频画面显示：科怀-伦纳德在安东尼-戴维斯的催促下，站到跳水板上，而水池中的勒布朗-詹姆斯早已做好准备接着跳水的科怀-伦纳德。
+   </p>
+   <p>
+    并配文说道：“湖人已经为伦纳德的跳水（到来）做好准备。”
+   </p>
+   <p>
+    <a href="https://weibo.com/3937716761/HBKQI0fOJ">
+     视频：（时长44秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/d8c5fa9f6e6e3b224d67828d42197c07.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/5ab869486855d8d356a2b6628e980d1e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190703/16/db7d931c49c1517b6f7fc581eda521b3.gif"/>
+   </p>
+   <p>
+    根据The Athletic记者Shams Charania之前报道，伦纳德尚未决定选择哪只球队。2018-19赛季常规赛，伦纳德场均出战34分钟，可以拿到26.6分7.3篮板3.3助攻1.8抢断。伦纳德带领猛龙拿到了2018-19赛季NBA总冠军并获得FMVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

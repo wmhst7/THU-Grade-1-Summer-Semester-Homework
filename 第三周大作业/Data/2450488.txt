@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：如果伦纳德加盟，湖人会拥有更强的三巨头
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/updates_lal/status/1146991395133153280" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 13:26:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：如果伦纳德加盟，湖人会拥有更强的三巨头" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/3849855b124b36178bd8b2475cbd2f1ab3c3a294.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 7月3日，
+    <a href="https://voice.hupu.com/nba/2449676.html">
+     贾里德-杜德利与湖人达成1年260万美元底薪协议
+    </a>
+    。杜德利在周四参加《Woj Pod》节目时谈论到湖人有可能形成的由勒布朗-詹姆斯、安东尼-戴维斯和科怀-伦纳德组成的新三巨头。
+   </p>
+   <p>
+    “这和热火一样，但又比那时候要强一些，我这么说的原因是你很可能拥有前五球员里面的三个。AD，一年前你可能会说他是联盟中前二或者前三的球员；伦纳德今年带领他的球队赢得了总冠军；勒布朗，他的荣誉不言而明。”
+   </p>
+   <p>
+    “如果湖人得到伦纳德，那么毫无疑问，球队拥有所有的优秀球员。但这是不同的，因为我签的是底薪。但球队需要底薪球员，需要一些老将在关键时刻站出来，能找到这样的人并不容易。”
+   </p>
+   <p>
+    伦纳德在2018-19赛季带领猛龙夺得NBA总冠军并获得FMVP，于今夏成为自由球员，
+    <a href="https://voice.hupu.com/nba/2450023.html">
+     目前已完成与湖人快船猛龙完成会面，但还没做出最终决定
+    </a>
+    。
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

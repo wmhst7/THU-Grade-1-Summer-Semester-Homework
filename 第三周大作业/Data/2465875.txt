@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加索尔祝福考辛斯：你在归来之时会变得更强
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/paugasol/status/1162105322988810241" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 05:30:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加索尔祝福考辛斯：你在归来之时会变得更强" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/327aabf01dbb0d5d4dac335f6146725a72cf50fe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 根据此前The Athletic记者Shams Charania报道，多位消息人士透露，湖人中锋德马库斯-考辛斯遭遇左膝前交叉韧带撕裂。
+   </p>
+   <p>
+    开拓者中锋保罗-加索尔因此更新了自己的个人推特，表达了对考辛斯的祝福。
+   </p>
+   <p>
+    “兄弟，你在归来之时会变得更强@德马库斯-考辛斯，祝你很快康复！”加索尔写道。
+   </p>
+   <p>
+    今年夏天，加索尔与开拓者签下了一份1年260万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，加索尔场均上场12.0分钟，得到3.9分4.6篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

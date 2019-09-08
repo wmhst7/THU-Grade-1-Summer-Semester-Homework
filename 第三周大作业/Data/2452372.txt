@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍威尔：夺冠是非常不可思议的经历，夺冠庆典太疯狂了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1148783237629730817" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 15:44:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍威尔：夺冠是非常不可思议的经历，夺冠庆典太疯狂了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/a218243c1b34c61f3cebac6fe018ee0cfbfb8cb8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 猛龙球员诺曼-鲍威尔在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到上赛季夺冠，鲍威尔说：“说实话，当你有机会经历这一切时，你会尽情享受那个时刻。我就是在每天努力训练，为比赛做好准备，最终能够举起那座总冠军奖杯，这真的不可思议。”
+   </p>
+   <p>
+    回忆起之前的夺冠庆典，鲍威尔表示：“夺冠庆典简直太疯狂了，很多人参与了进来，我感觉整座城市都热情高涨。大量的球迷排队等候，主办方不得不花费数小时清空道路，我没有想到会有这么多人，我认为大概有两三百万人参与了庆典。”
+   </p>
+   <p>
+    科怀-伦纳德和丹尼-格林仅在球队中效力了一个赛季就赢得了总冠军，当被问及为何能够在一年之中形成良好的化学反应并且成功夺冠，鲍威尔说：“我认为这对于我们而言并不难，科怀和丹尼都来自马刺，过去很长时间联盟中最出色的球队之一，他们是一支团队至上的球队。我们有机会在去年的整个夏天一同训练，为了我们的目标而努力。科怀恢复了健康，他逐渐找到了状态，你能够看到他在场上的表现是多么出色。我们就是一场比赛一场比赛地付出努力，让每一个人都发挥自己的作用。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

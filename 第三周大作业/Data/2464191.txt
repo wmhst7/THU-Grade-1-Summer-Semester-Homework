@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：目标是夺冠或MVP，未来可能会冲击格莱美奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/10/damian-lillard-grammy-championships-nba-portland-trailblazers/DAME" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 14:47:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：目标是夺冠或MVP，未来可能会冲击格莱美奖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/98197b85d1ad3d821f950194e864332346e86f80.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 开拓者球员达米安-利拉德近日上线了第三张个人专辑《BIG D.O.L.L.A.》，他在接受美国媒体TMZ的采访时表示，自己的首要目标是夺得NBA总冠军，但如果能够在未来得到一座格莱美奖杯也会很不错。
+   </p>
+   <p>
+    谈到自己的新专辑，利拉德说：“我不关心它可能会达到怎样的高度，我关心的是赢得MVP或者总冠军。”
+   </p>
+   <p>
+    “有多少NBA全明星球员或者顶薪球员能说，‘我将有资格赢得一座格莱美奖杯。’我现在不会追求赢得一座格莱美奖杯，但我感觉十年或者十五年之后，当我回顾一切时，可能会心想，‘我真的想要赢得一座格莱美，’”利拉德说道，“我认为这一切都取决于支持，我得到了很多同行的支持，音乐人、运动员、艺术家等等，我知道他们正在聆听并且尊重我的作品。”
+   </p>
+   <p>
+    利拉德的第一张专辑《The Letter O》发行于2016年10月，第二张专辑《Confirmed》发行于2017年10月。
+   </p>
+   <p>
+    格莱美奖是美国国家科学院录音艺术与科学学院创办的音乐奖项，是美国最具代表性、最权威的音乐奖项之一。
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德场均出场35.5分钟，能够得到25.8分4.6篮板6.9助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

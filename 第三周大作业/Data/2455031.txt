@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆官方Ins发图感谢威斯布鲁克：感谢你对社区的贡献
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz_2mbAhzTi/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 17:41:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆官方Ins发图感谢威斯布鲁克：感谢你对社区的贡献" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/47fce9de0fe0c13d8029e6b91660d0822b0610a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日，雷霆官方Ins发布拉塞尔-威斯布鲁克服务社区的图集，感谢威斯布鲁克对社区的贡献。
+   </p>
+   <p>
+    雷霆之前将拉塞尔-威斯布鲁克交易到火箭，得到克里斯-保罗，火箭的2024年和2026年的首轮签和2021年和2025年首轮签互换权。
+   </p>
+   <p>
+    拉塞尔-威斯布鲁克2008年首轮第4顺位被雷霆选中，职业生涯此前一直效力于雷霆。威斯布鲁克共为雷霆出场常规赛821场，场均出场34.5分钟得到23分7篮板8.4助攻；出场季后赛98场，场均38.0分钟25.4分7.0篮板7.9助攻1.9抢断。在2016-17、2017-18、2018-19连续三个赛季完成常规赛场均三双。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/9912c8b593bcbec3591eca7fa5c6272a.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/5889713bd846507812c5a8d771e05864.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/fb093f3e172083ba638535695860f8aa.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/7157ef0b41ad2b7ee9ac2aa6b5275e55.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/bdd27c685e7abdc90a41b2a070f65546.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/a9b6346c671db8ae04ece6d85181a604.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/17/640d71f965036ab91a5cd36d61a1f6a2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

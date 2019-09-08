@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  除了追求巴特勒之外，火箭想引进1-2名有影响力的老将
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KellyIkoNBA/status/1144302714177953793" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 08:36:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="除了追求巴特勒之外，火箭想引进1-2名有影响力的老将" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/11dd22e6b9148688c626fa836aacb4fd063bf338.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据The Athletic记者Kelly Iko的报道，一位火箭消息人士透露，除了追求吉米-巴特勒之外，火箭想在自由球员市场上为球队增加1-2名有影响力的老将。
+   </p>
+   <p>
+    火箭的消息人士透露，火箭签约PJ-塔克和卢克-理查德-巴莫特都是有价值的球员受市场影响而签下低于身价合同的例子。
+   </p>
+   <p>
+    根据之前的报道，丹尼-格林、杰里米-兰姆、德安德烈-乔丹、凯文-卢尼、布鲁克-洛佩斯、塞思-库里、帕特里克-贝弗利、艾尔-法鲁克-阿米奴、加莱特-坦普尔、杰迈克尔-格林、雷吉-布洛克、马库斯-莫里斯、鲁迪-盖伊和朗戴-霍利斯-杰弗森都是火箭的目标。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

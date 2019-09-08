@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿龙-戈登晒野球场暴扣图：表演开始了！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1o7b_LhV5C/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 11:03:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿龙-戈登晒野球场暴扣图：表演开始了！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/125069c79366f5667fde4329fb164c92f735dd97.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日，阿龙-戈登更新了个人的社交媒体Instagram晒出自己在西雅图业余联赛中扣篮并为现场球迷签名的照片。
+   </p>
+   <p>
+    戈登配文道：“表演开始了！谢谢你们的爱，西雅图！”
+   </p>
+   <p>
+    戈登出生于1995年，今年23岁，2014年第1轮第4顺位被魔术选中。戈登的身体条件与扣篮能力极为出色，2016年全明星扣篮大赛中，戈登曾与扎克-拉文上演旗鼓相当的对决，被传为一段佳话。2018-19赛季常规赛，他场均出场33.8分钟，得到16.0分7.4篮板3.7助攻0.73抢断0.72盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/10/14a09de37e4b0a8c30a660d9451fa017.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/10/ab666c24c2472ea302c0f17b694e36de.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：jackhy1004)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

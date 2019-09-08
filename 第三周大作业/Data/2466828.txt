@@ -1,0 +1,78 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA官网发布乔-哈里斯的美国队热身赛赛场图集
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/gallery/2019/08/17/joe-harris-x-usa" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 07:06:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA官网发布乔-哈里斯的美国队热身赛赛场图集" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/bf3015b7193b2a0ffb85ffe4e79863edfa6d6750.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 近日，美国队进行了男篮世界杯的热身赛，以90-81击败西班牙男篮。今日，NBA官网发布了一组篮网球员乔-哈里斯在热身赛上的赛场照。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/06/fb56aa041916790fc2be65fa54c8d677.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/06/c8bb609fc94fd599dde17fda3925fb59.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/06/0880d60512ea503c341f91f5b5259319.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/06/acff04a09369788d428f4ab8988f3dc0.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/06/912b5c02d0113d8897b13d15b87c9680.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/06/0d5fb7fc1bd4fa38e541022ce941d808.jpg"/>
+   </p>
+   <p>
+    本场热身赛，乔-哈里斯出场19分钟，得到3分4篮板1助攻1抢断1盖帽。
+   </p>
+   <p>
+    北京时间8月17日至8月26日，美国男篮将与西班牙、澳大利亚、加拿大进行四场热身赛。
+   </p>
+   <p>
+    2018-19赛季常规赛，乔-哈里斯场均出场30.2分钟，得到13.7分3.8篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

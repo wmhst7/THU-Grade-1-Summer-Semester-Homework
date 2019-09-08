@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士预计在利文斯顿合同转为全额保障前与其协商买断
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mercurynews.com/2019/06/27/exclusive-andre-iguodala-has-positive-vibes-with-kevin-durant-and-klay-thompsons-future/" target="_blank">
+     圣何塞水星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:57:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士预计在利文斯顿合同转为全额保障前与其协商买断" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/92bca88cc33dff23d0c95eebc5360ed66ec731e9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据勇士随队记者Mark Medina报道，勇士预计将和肖恩-利文斯顿商讨合同买断，利文斯顿下赛季薪资为769万美元，其中只有200万美元是受保障的。若其在2019年6月30日之前不被裁，其合同将转为全额保障。
+   </p>
+   <p>
+    根据此前NBA记者Mark J.Spears报道，总决赛后，利文斯顿在接受采访时表示，他可能下赛季继续征战，但会认真考虑退役。
+   </p>
+   <p>
+    利文斯顿今年33岁，2018-19赛季常规赛场均出场15.1分钟，得到4.0分1.8篮板1.8助攻0.48抢断0.42盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

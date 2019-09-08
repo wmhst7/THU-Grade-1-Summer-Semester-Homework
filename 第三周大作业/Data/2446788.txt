@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布登霍尔泽获77张最佳教练第一选票，里弗斯13张
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TomerAzarly/status/1143358383115735040" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 12:09:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布登霍尔泽获77张最佳教练第一选票，里弗斯13张" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/d50ba009fd20a3c4907ba28928ee9cba32c93413.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     在今天的NBA颁奖大会上，雄鹿主教练布登霍尔泽当选为本年度的最佳教练。
+    </span>
+   </p>
+   <p>
+    在随后公布的得票结果中，布登霍尔泽获得了77张第一选票，14张第二选票，5张第三选票，总分432分排在第一。
+   </p>
+   <p>
+    道格-里弗斯13张第一选票，36张第二选票，27张第三选票，总分200分排在第二。
+   </p>
+   <p>
+    迈克-马龙6张第一选票，34张第二选票，22张第三选票，总分154分排在第三。
+   </p>
+   <p>
+    步行者主帅麦克米兰和篮网主帅阿特金森排在第五，尼克-纳斯和波波维奇各自2张第3选票。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

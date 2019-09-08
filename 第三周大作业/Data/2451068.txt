@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯、戴维斯和库兹马观战夏联，依次向韦斯特握手致意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sedanoespn/status/1147650107682230273?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 07:54:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯、戴维斯和库兹马观战夏联，依次向韦斯特握手致意" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/e106a83f326c67dcf37ff5c7263d67ac1d466084.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据多位现场记者报道，湖人球员勒布朗-詹姆斯、安东尼-戴维斯、凯尔-库兹马今日一同来到夏季联赛现场观战。
+   </p>
+   <p>
+    在快船与湖人的比赛开始前，詹姆斯、库兹马和戴维斯依次走到场边向湖人名宿、现快船顾问杰里-韦斯特握手致意。期间韦斯特还与詹姆斯展开了一次长谈。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4391329293317189">
+     视频：詹姆斯、库兹马、戴维斯分别向韦斯特友好致意（50秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/08/619ae543a3bb3033f08edc82374ccd89.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/07/427f5ec517e94c0a6f6797bb05545324.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/07/9a5b57dc92f752c24ae6d713eff6f906.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/07/ca1533e3dee7d5f2df2b0e083d1d2303.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/07/dc836f2bcfb8eb0760bf27415cc879d1.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

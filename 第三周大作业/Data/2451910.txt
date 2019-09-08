@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：老鹰交易得到达米安-琼斯和2026年次轮签
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hawks/hawks-acquire-damian-jones-from-golden-state-warriors?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:54:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：老鹰交易得到达米安-琼斯和2026年次轮签" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/342700daa6c3772695f58a8405def4bfb759abea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 老鹰官方今日宣布，他们已经正式从勇士交易得到达米安-琼斯和2026你年的次轮选秀权，为此老鹰将奥马里-斯佩尔曼送至勇士。
+   </p>
+   <p>
+    琼斯是2016年NBA选秀大会的首轮30号秀，2018-19赛季常规赛共代表勇士上场24次，其中首发22次，场均上场17.1分钟，得到5.4分3.1篮板1.2助攻1.04盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

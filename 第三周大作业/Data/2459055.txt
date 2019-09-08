@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼大学队友：甜瓜值得一个更好的结局
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/nba-news-etan-thomas-says-carmelo-anthony-deserves-a-better-ending-should-be-on-a-team-this-year/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 22:12:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼大学队友：甜瓜值得一个更好的结局" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/d3b64a560b1aabb40314156da3b6ec4dfa4d3ba2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 前NBA球员同时也是卡梅罗-安东尼在雪城大学的队友伊唐-托马斯近日在采访中谈到了安东尼这位大学队友。
+   </p>
+   <p>
+    托马斯对联盟对待安东尼的方式感到不满，他认为安东尼绝对是冠军球队的重要拼图，并且认为他在NBA值得一个更好的结局。
+   </p>
+   <p>
+    “梅罗今年应该在一支NBA球队里，他能为争冠球队带来有效的得分，他也能成为总冠军争夺者的重要部分。”托马斯说道。
+   </p>
+   <p>
+    目前安东尼仍为自由球员，在2018-19赛季常规赛，安东尼代表火箭上场10次，场均上场29.4分钟，得到13.4分5.4篮板。
+   </p>
+   <p>
+    伊唐-托马斯曾效力奇才、雷霆和老鹰。生涯出战过409场常规赛，场均能得5.7分4.7篮板1.0盖帽。
+   </p>
+   <p>
+    <span style="font-size:12px;color:#c0c0c0;">
+     勘误内容小编误将卡梅罗-安东尼的标签添加成了安东尼-戴维斯，给广大JRs造成困扰，特此致歉
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

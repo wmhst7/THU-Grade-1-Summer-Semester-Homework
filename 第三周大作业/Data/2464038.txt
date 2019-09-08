@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯晒湖人队史最强阵容照：很荣幸能成为伟大的一员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0_bYK5gVoL/?igshid=ik0i7kovbrow" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 05:52:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯晒湖人队史最强阵容照：很荣幸能成为伟大的一员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/b4dae395d5c25ea643d0de3d763accd38c89c4b2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram发布了此前网络上流行的一张他与多位湖人名宿的合成照，并发表感想。
+   </p>
+   <p>
+    “哇！！！无比荣幸以及感恩能够成为伟大的一员。另外，天啊，若这套首发阵容对阵任何球队的队史最强阵容，让我们搞定吧！#湖人秀 #我就是王 #曼巴 #Diesel(奥尼尔DJ艺名) #魔术师 #天勾王 ”詹姆斯写道。
+   </p>
+   <p>
+    这张合成照展现了来自不同时期的多位前湖人球员聚集在替补席的场景。除詹姆斯外，照片中还包括魔术师约翰逊、科比-布莱恩特、沙奎尔-奥尼尔和卡里姆-阿卜杜尔-贾巴尔。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

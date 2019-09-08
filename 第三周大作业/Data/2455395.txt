@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：特纳告诉我凯尔特人球队、球迷和教练组都很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/celtics-news-enes-kanter-called-evan-turner-to-ask-about-experience-playing-for-brad-stevens-before-committing-to-boston/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 12:02:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：特纳告诉我凯尔特人球队、球迷和教练组都很棒" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/13cadac2c04d0264bd081043758a21c01c3116f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 根据此前消息报道，中锋埃内斯-坎特与凯尔特人正式签下了一份2年价值1000万美元的合同。
+    <br/>
+    <br/>
+    在达成签约协议之前，坎特打电话给前开拓者队友埃文-特纳（在2014-15赛季和2015-16赛季曾效力于凯尔特人，现已被交易至亚特兰大老鹰队）询问为主帅布拉德利-史蒂文斯打球的经历。
+   </p>
+   <p>
+    坎特说：“特纳告诉了我一些美妙的事，关于凯尔特人这支球队，球迷群体，教练组成员以及其他所有方面。那真的很棒。”
+   </p>
+   <p>
+    2月坎特加入开拓者后，很快与特纳建立了联系。坎特逐渐信任了特纳的观点。这种信任使坎特开始考虑在凯尔特人打球的可能性。
+   </p>
+   <p>
+    坎特称，特纳对凯尔特人不吝溢美之词：“他告诉我，凯尔特人的管理层很美好也很友善，球队像家庭一样。从球员站上那片场地的时刻起，他们就会爱你，把你当家人看待。”
+   </p>
+   <p>
+    据称，特纳还对凯尔特人教练表示了赞赏：“他告诉我他非常信任布拉德-史蒂文斯。他一直在说他自己有多么信任史蒂文斯。”
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

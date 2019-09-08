@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普瓦里耶与凯尔特人的合同为2年510万美元
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TimBontemps/status/1150908712023986176" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普瓦里耶与凯尔特人的合同为2年510万美元" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/4e020d06c5e8fdee6b75ff38ba9da4e99741f78b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据NBA记者Tim Bontemps的报道，多位联盟消息人士透露，樊尚-普瓦里耶与凯尔特人的合同为2年总价值510万美元的合同。
+   </p>
+   <p>
+    普瓦里耶身高2.13米，体重107公斤，出生于1993年10月27日，今年25岁，此前6个赛季，普瓦里耶在海外联赛征战。
+   </p>
+   <p>
+    2018-19赛季他效力于西班牙联赛，共上场73次，其中首发59次，场均得到10.5分7.3篮板1.1助攻1.0盖帽，投篮命中率为61.6%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

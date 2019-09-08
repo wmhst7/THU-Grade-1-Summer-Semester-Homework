@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  吉诺比利推特晒照：这是我16个月以来首次打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/manuginobili/status/1166058143048241152" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 02:48:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="吉诺比利推特晒照：这是我16个月以来首次打球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/aac23a57ff927a59850e77b5c98b52873fa909c5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日，马刺名宿马努-吉诺比利更新个人社交媒体推特，预告自己将在16个月后首次打篮球。
+   </p>
+   <p>
+    吉诺比利配文：“今天将是我16个月以来首次打篮球！我很好奇再次打球会是什么感受，但可能不太好。”
+   </p>
+   <p>
+    四小时后，吉诺比利再次更新推特，发布了一张与前马刺球员马特-邦纳的合照，并配文：“这就是我们今天的球赛结束后的样子。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

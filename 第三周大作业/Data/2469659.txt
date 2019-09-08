@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  排排坐！尼克斯晒主帅菲兹代尔与五只爱犬合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1oWoa4FmLb/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 12:34:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="排排坐！尼克斯晒主帅菲兹代尔与五只爱犬合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/d09020d62c5aa5e8750211a787e77831cb859d6d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 每年的8月26日是美国的国家爱狗日。今日，尼克斯在官方Instagram上晒出了球队主帅大卫-菲兹代尔与家中五条爱犬的照片，照片中，五条爱犬依次穿着尼克斯1至5号球衣（见新闻配图）。
+   </p>
+   <p>
+    “看起来，菲兹代尔对待国家爱狗日很认真啊。”配文写道。
+   </p>
+   <p>
+    2018年5月4日，菲兹代尔和尼克斯达成4年协议，成为球队新任主教练。2018-19赛季常规赛，尼克斯取得17胜65负，排名东部第15。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/12/c7c896fa6277c72d8026d3e4248e669a.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

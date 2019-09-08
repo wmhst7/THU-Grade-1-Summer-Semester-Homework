@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：76人向西蒙斯开出5年1.68亿续约合同报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1146101162833252352" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 01:04:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：76人向西蒙斯开出5年1.68亿续约合同报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/60dd3ad58c24c0b1c88b672cda1da1dd0bf6912c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，76人已经向本-西蒙斯开出了一份5年1.68亿美元的提前续约合同（在预计到2020-21赛季工资帽涨幅的情况下，总金额可能会是1.7亿）。76人和西蒙斯的经纪人里奇-保罗希望在最终敲定合同前，就一些细节问题进一步进行沟通和协商。
+   </p>
+   <p>
+    根据薪资专家Bobby Marks的计算，西蒙斯续约合同每年的金额可能会是2925万美元（2020-21赛季）、3159万美元（2021-22赛季）、3393万美元（2022-23赛季）、3627万美元（2023-24赛季）、3861万美元（2024-25赛季）。
+   </p>
+   <p>
+    根据此前的报道，北京时间7月1日，76人已与西蒙斯的经纪人里奇-保罗开始商讨关于续约的事宜。
+   </p>
+   <p>
+    西蒙斯上赛季代表76人出战79场常规赛，场均34.2分钟得到16.9分8.8篮板7.7助攻1.4抢断，投篮命中率56.3%；出战12场季后赛，场均35.1分钟得到13.9分7篮板6助攻1.3抢断1盖帽，投篮命中率62.1%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回馈母校！雅各布-埃文斯办免费训练营，约300孩童参与
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkG_Medina/status/1161280251017781259/photo/3" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 23:35:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回馈母校！雅各布-埃文斯办免费训练营，约300孩童参与" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/2dc8d48f83cff132545ff24487facddad236ba7d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 近日，勇士二年级后卫雅各布-埃文斯重返自己的高中母校举办了自己的免费篮球训练营，在训练营上认真教授篮球技巧，并与小球迷热情互动，大约300名孩子参与了此次训练营。
+   </p>
+   <p>
+    埃文斯出生于1997年，2018年第1轮第28顺位被勇士选中，2018-19赛季常规赛代表勇士出场30次，场均6.8分钟得到1.3分0.8篮板0.8助攻0.17抢断0.10盖帽。
+   </p>
+   <p>
+    此前，他在接受采访时表示，今年夏天，
+    <a href="https://voice.hupu.com/nba/2462371.html">
+     他正在尝试接受出任控球后卫的角色转变&gt;&gt;。
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

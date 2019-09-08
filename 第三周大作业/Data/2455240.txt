@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特谈投三分：贝恩斯霍弗德能做到，我也能
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ByJayKing/status/1151561250675011585" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 02:46:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特谈投三分：贝恩斯霍弗德能做到，我也能" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/b21a4df9cdd71526048638ce44e06885cb562028.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人为新援肯巴-沃克和埃内斯-坎特举行加盟记者发布会。
+   </p>
+   <p>
+    坎特表现出了对投三分球的很大兴趣，称希望自己能在接下来的比赛中加入三分球。
+   </p>
+   <p>
+    坎特说：“（阿隆）贝恩斯、（艾尔）霍弗德等人都可以投出水花四溅的三分球，我相信我也能改变。”
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

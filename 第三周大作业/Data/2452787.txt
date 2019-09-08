@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  博雷戈：失去沃克是巨大打击，罗齐尔渴望证明自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1149069463804710912" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 17:16:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="博雷戈：失去沃克是巨大打击，罗齐尔渴望证明自己" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/3a2d71430a8c8fce06132131f415dabe149f9725.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 黄蜂主教练詹姆斯-博雷戈在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到球队新援特里-罗齐尔，博雷戈说：“他充满饥饿感，渴望证明自己，他才25岁，攻防兼备，极具竞争精神，他和我们希望在夏洛特打造的球队文化非常契合。”
+   </p>
+   <p>
+    谈到肯巴-沃克离队，博雷戈说：“显而易见，失去肯巴是一个巨大的打击，无论是对于球队而言，还是对于这座城市。我们非常爱他，他对于这支球队而言意义非凡，我们会非常想念他。但现在是时候向前看了，我认为25岁的特里-罗奇尔对于球队是很棒的补充，他能够和球队中的这些家伙一同成长，我认为他将会在下赛季打出非常出色的表现。他非常努力，他能够帮助球队做我们正在努力做的事情。所以，我们是幸运的，尽管失去了肯巴，但我们得到了特里-罗齐尔，一位充满饥饿感的球员。”
+   </p>
+   <p>
+    谈到球队下赛季的前景，博雷戈说：“你能够看到上赛季我们的进攻效率的提升，我们创造了球队历史单赛季三分球命中纪录。我们希望打得更快，我们希望出手三分球，我们希望有效地攻击篮筐，我认为特里能够做到这些，他在波士顿已经展现了这样的能力。我们需要球员能够挡拆后顺下，能够将速度推起来，肯巴上赛季做得非常棒，现在这个责任落在了特里肩上。我们会在下赛季打得更快，拉开场上空间，顺下攻击篮筐，出手更多的三分球，我认为你们会在关键时刻看到我们打出这样的风格，我们会在关键时刻重用年轻球员。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

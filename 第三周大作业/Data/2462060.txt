@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约什-理查德森更新社交媒体：我准备好了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0ywPajlEyT/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 03:11:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约什-理查德森更新社交媒体：我准备好了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/136c693d31112dd603b2738611eec577d5276d9b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，76人球员约什-理查德森更新社交媒体Instagram，晒出自己新赛季定妆照（见新闻配图）。
+   </p>
+   <p>
+    “我的意思...我准备好了。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，理查德森场均上场34.8分钟，得到16.6分3.6篮板4.1助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

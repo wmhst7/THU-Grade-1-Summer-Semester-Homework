@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沙马尼奇：第一场比赛既激动又紧张，很多人都还不了解我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.expressnews.com/sports/spurs/article/Spurs-rookie-Samanic-overcomes-jitters-to-shine-14065548.php" target="_blank">
+     圣安东尼奥新闻快报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 21:40:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沙马尼奇：第一场比赛既激动又紧张，很多人都还不了解我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/5f4bda12f93b702dc566382a6a1b52ab5e1fb445.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 在今天举办的NBA夏季联赛比赛中，马刺97-89战胜骑士。赛后，马刺19号秀卢卡-沙马尼奇接受了记者的采访。
+   </p>
+   <p>
+    “我在比赛里有点紧张，因为这是我的第一场NBA比赛，我既紧张又激动。我需要时间适应。”
+   </p>
+   <p>
+    “比赛一开始的时候，节奏非常快，我努力地集中注意力在我应该去哪，是不是该出手和该怎么帮助球队防守。然后到了第二节，情况就好多了。”
+   </p>
+   <p>
+    马刺球员朗尼-沃克对沙马尼奇的表现也表示了称赞。
+   </p>
+   <p>
+    “沙马尼奇每次接近篮筐都表现出了扣篮的欲望，这很好。”
+   </p>
+   <p>
+    而当沙马尼奇得知人们对于自己的弹跳力感到惊讶，他耸了耸肩。
+   </p>
+   <p>
+    “我认为很多人都还不了解我。”
+   </p>
+   <p>
+    本场比赛，沙马尼奇全场7投4中，三分1中1，罚球两罚全中，得到11分7篮板1抢断2盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

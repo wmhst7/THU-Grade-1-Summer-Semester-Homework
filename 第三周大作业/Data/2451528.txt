@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯官推晒出丹尼斯-史密斯训练视频：洒下汗水
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nyknicks/status/1147919193599168512" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 12:16:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯官推晒出丹尼斯-史密斯训练视频：洒下汗水" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/24edb58659ab8bdde3062e44e98829b915efdddd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，尼克斯官推发推晒出一段球队后卫丹尼斯-史密斯在球场上训练的视频（见GIF）。
+   </p>
+   <p>
+    并配文道：“给沉闷枯燥的环境洒下汗水。”
+   </p>
+   <p>
+    2018-19赛季常规赛，后卫丹尼斯-史密斯场均出场28.5分钟，可以得到13.6分2.9篮板4.8助攻1.26抢断。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2451197&amp;type=1&amp;entrance=26">
+     丹尼斯-史密斯：我们有信心打进季后赛
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 3.2M" src="https://c1.hoopchina.com.cn/uploads/images/20190708/12/0f22507682e11ce1b16e2ec0f3bb32bf.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

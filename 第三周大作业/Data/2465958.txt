@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克：我在美国国家队大部分时间都是打组织前锋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/P-J-Tucker-relishes-chance-to-play-in-World-Cup-14308345.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 10:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克：我在美国国家队大部分时间都是打组织前锋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/6691174519b2da704294aff68043b3042ce2e361.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 火箭的PJ-塔克目前正跟随美国男篮集训，他非常珍惜这样的机会。
+   </p>
+   <p>
+    “我认为之前没人做到过这样的事情，处在我的位置上，进入NBA，离开那么久，重新回来，证明自己，然后为我的祖国出战，能在我职业生涯最后阶段有机会拿到一枚金牌来画上句话，这非常酷，这是一个非常酷的经历。”塔克说道。
+   </p>
+   <p>
+    塔克今日脚踝扭伤，但是他留队的机会大小将取决于他如何扮演好队中自己的角色。
+   </p>
+   <p>
+    “毫无疑问，你可以看到他们在打造一支球队，不是全都是明星球员，你可以看到他们在打造出一支球队，我不会改变我做的事情。”塔克说道。
+   </p>
+   <p>
+    塔克接着说：“在很多时间里，我差不多是一名组织前锋，制造机会，因为国际比赛的规则有些不同，你需要从中路进攻来制造机会，在NBA里，场上空间很大，这是完全不同的事情，这里没有太多单打，我们更多的是不断移动，但是你仍然必须做那些没人做的脏活累活。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

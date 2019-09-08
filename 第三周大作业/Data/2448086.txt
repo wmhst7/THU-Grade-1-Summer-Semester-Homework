@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师：朋友告诉我伦纳德想和我会面，我说没问题
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ramonashelburne/status/1144722960709611520" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 05:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师：朋友告诉我伦纳德想和我会面，我说没问题" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/ab14a4e397f4ebf31bf9586422df7f8dd12115eb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日魔术师约翰逊在接受采访时表示，他愿意尽可能地在自由球员市场上帮助湖人，但NBA规则不允许他参加任何自由球员与球队的正式会面。
+   </p>
+   <p>
+    魔术师表示，湖人管理层和老板珍妮-巴斯还没有邀请他参加会面。
+   </p>
+   <p>
+    此外，约翰逊说道：“一个朋友告诉我伦纳德想要和我会面，我表示没有问题。如果他希望这么做，我随时有空。但我现在生活不错。我不会尝试去打扰任何人的工作。”
+   </p>
+   <p>
+    根据此前的报道，伦纳德阵营将与珍妮-巴斯和魔术师约翰逊在下周会面。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

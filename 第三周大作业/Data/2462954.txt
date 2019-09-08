@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马谈防守提升：保持体型和强硬心态，观看比赛录像
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/8/7/20758902/lakers-news-kyle-kuzma-defensive-improvement-stats-offseason-workout-usa-basketball-interview-espn" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 12:26:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马谈防守提升：保持体型和强硬心态，观看比赛录像" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/a89fd47523a0ad81925cc5ee58005ca717074477.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 湖人球员凯尔-库兹马目前正在参加美国男篮训练营，在此期间，他接受了媒体采访。
+   </p>
+   <p>
+    谈到自己在防守端的提升，库兹马说：“保持体型是一个方面，就是确保我能够不陷入疲惫，持续在防守端付出努力。然后就是保持强硬，相信我的脚步移动和我的思想，观看大量的比赛录像。总而言之，就是在每个方面付出努力。”
+   </p>
+   <p>
+    谈到作为一个来自密歇根州弗林特地区的孩子受邀参加美国男篮训练营的感受，库兹马说：“你总是会预想着自己能够打进NBA，但你真的不会想到自己会代表国家出战，这对于我而言是一段成功的旅程，我的努力得到了回报 。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

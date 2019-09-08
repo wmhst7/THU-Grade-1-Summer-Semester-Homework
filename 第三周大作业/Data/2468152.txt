@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加里纳利晒出自己身披国家队训练服帅照：另个美好的一天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1dt_A-Idj_/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 00:12:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加里纳利晒出自己身披国家队训练服帅照：另个美好的一天" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/d7cd662dc200d1fbcefac32fcc9e8799f23ed1f3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 今日，雷霆前锋、意大利男篮国家队成员达尼罗-加里纳利更新了个人社交媒体Instagram晒出一张自己身披国家队训练服的个人照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“另一个美好的一天。”
+   </p>
+   <p>
+    根据此前消息报道，加里纳利因为阑尾切除手术预计将缺席意大利男篮整个热身赛阶段。
+   </p>
+   <p>
+    值得一提的是，雷霆后卫克里斯-保罗点赞了该条动态。
+   </p>
+   <p>
+    2018-19赛季常规赛，加里纳利场均出场30.3分钟，可以得到19.8分6.1篮板2.6助攻0.72抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/00/9511f457addeca9f825ff7c3bdab1686.png"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

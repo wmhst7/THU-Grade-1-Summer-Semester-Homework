@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  劳埃德：我觉得自己是一名NBA球员，会试着回到联盟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/08/and-ones-loyd-mvp-race-bucks-sterling.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 01:06:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="劳埃德：我觉得自己是一名NBA球员，会试着回到联盟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/536edd205588e124920b28aeac9c60a6450eab9f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 前NBA球员乔丹-劳埃德谈到他加盟欧洲联赛，他之前与瓦伦西亚篮球俱乐部完成签约。
+   </p>
+   <p>
+    “今年，我签了一年的合同，然后试着回到联盟中来。老实说，我觉得这会对我有帮助，”他说道，“我把这一年看作是变成更好自己的一年，并且试着回到联盟。我觉得我是一个NBA球员，但是并不会天真的在那里等着海外的合同递给我。”
+   </p>
+   <p>
+    2018-19赛季，劳埃德与猛龙签下一份2年的双向合同，常规赛为猛龙出战12场，场均出战4.6分钟可以拿到2.4分0.8篮板0.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小贾伦-杰克逊发推：新赛季快点到来吧！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jarenjacksonjr/status/1155589896532185088" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 09:50:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小贾伦-杰克逊发推：新赛季快点到来吧！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/633e03f9e3a310c46dc217d2accabb91394729e4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 今日灰熊前锋小贾伦-杰克逊更新了自己的个人推特动态。
+   </p>
+   <p>
+    “新赛季快点到来吧！”杰克逊写道。
+   </p>
+   <p>
+    随后灰熊官推评论道：“等不及了！”
+   </p>
+   <p>
+    2018-19赛季常规赛，杰克逊场均上场26.1分钟，得到13.8分4.7篮板1.1助攻0.9抢断1.41盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

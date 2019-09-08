@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金预计将签约弗拉特科-钱查尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.denverpost.com/2019/07/13/vlatko-cancar-nuggets-expected-sign/" target="_blank">
+     丹佛邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 07:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金预计将签约弗拉特科-钱查尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/ef753bc91fbbc68c2eabe82bfcbce17f4501a65d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据《丹佛邮报》记者Mike Singer的报道，一位消息人士确认，掘金预计将签下在夏季联赛表现出色的弗拉特科-钱查尔。
+   </p>
+   <p>
+    钱查尔预计将进入掘金的15人大名单，这意味着掘金在这次签约后阵容还有一个空闲名额。
+   </p>
+   <p>
+    22岁的钱查尔身高2.03米，体重95公斤，来自斯洛文尼亚，他是2017年选秀大会的二轮秀，NBA球队签约权在掘金手上。
+   </p>
+   <p>
+    在今年的拉斯维加斯夏季联赛上，钱查尔场均出战30.1分钟，可以拿到9.7分4篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在威少之前被雷霆摆上货架时，尼克斯无意交易得到他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usatoday.com/story/sports/nba/2019/07/16/nba-summer-league-key-takeaways/1746486001/" target="_blank">
+     今日美国
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 08:10:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在威少之前被雷霆摆上货架时，尼克斯无意交易得到他" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/8c1619ad4e3a4cc5851023dff36b0e81697d2b28.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 根据今日美国记者Jeff Zillgitt的报道，根据他被告知的情况，当雷霆将拉塞尔-威斯布鲁克摆上货架的时候，尼克斯没有兴趣交易得到威斯布鲁克。
+   </p>
+   <p>
+    尼克斯今夏在自由球员市场上没有获得大牌球星，但是他们专注于他们的重建，不愿意放弃球队的资产，他们用合理的合同签下了一些自由球员，这让他们在2020年夏天和2021年夏天都可以保持薪资空间的灵活性。
+   </p>
+   <p>
+    最终，雷霆将威斯布鲁克交易到火箭，得到克里斯-保罗，火箭的2024年和2026年的首轮签和2021年和2025年首轮签互换权。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

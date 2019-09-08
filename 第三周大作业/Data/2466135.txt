@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  博班：我们的目标是金牌，约基奇无所不能
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/919898/boban-marjanovic-the-goal-is-gold/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 03:39:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="博班：我们的目标是金牌，约基奇无所不能" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/71ec626494f651def32ba11e44d34459a13a1242.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 在今天已经结束的一场2019男篮世界杯热身赛中，塞尔维亚以87-72的比分战胜了土耳其。赛后，塞尔维亚球员博班-马里亚诺维奇接受了Eurohoops记者George Efkarpides的采访。
+   </p>
+   <p>
+    在谈到塞尔维亚本届男篮世界杯的目标时，博班说道：“当然，我们的目标是金牌。如果你开始训练，你就会把你的期望值提到最高。无论你做什么都没关系，如果你打网球的话，你会想要赢。当你开始读一本书的时候，你会想要读完它，这就是目标。当你看一部电影时，你也会想看完它，这也是一样的。”
+   </p>
+   <p>
+    “当你开始训练并且身边有着一群饥渴的家伙时，他们会遇到一些问题...每一次你全力投入到某件事情时，你就会希望自己能够达到最高水平，因此你会去练习，因为你想要站在顶端。”博班补充道。
+   </p>
+   <p>
+    在谈到自己的国家队队友尼古拉-约基奇时，博班说道：“尼古拉是一名不可思议的球员，他能够做很多不同的事情，他庞大的身躯里住着一个控球后卫。他能够控球、传球，他无所不能。和他一起打球感觉很棒，他也是我的好朋友。当你和你的好朋友在一起时，事情就会变得更简单。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

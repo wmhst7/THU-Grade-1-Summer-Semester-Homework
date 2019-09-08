@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母弟谈见证哥哥获得MVP：我真的为他感到高兴和自豪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mavs.com/beaming-with-international-pride-kostas-antetokounmpo-looking-for-more-this-summer/" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 23:05:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母弟谈见证哥哥获得MVP：我真的为他感到高兴和自豪" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/1c75a9f344490fcbdcdbfe4df36b6dfb9a84d8c3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 独行侠前锋科斯塔斯-阿德托昆博在近日接受媒体采访时谈到了哥哥扬尼斯-阿德托昆博。
+   </p>
+   <p>
+    科斯塔斯-阿德托昆博表示自己在休赛季花费了大量时间和哥哥一起训练。
+   </p>
+   <p>
+    “我们总是会待在一起，和他以及我所有的兄弟，”科斯塔斯-阿德托昆博说道，“当赛季结束时，我会立刻赶到密尔沃基，和我的兄弟们一起训练。在此之后，我们会一同去旅行。”
+   </p>
+   <p>
+    谈到哥哥带领的雄鹿在东部决赛中不敌最终的总冠军猛龙，科斯塔斯-阿德托昆博说：“他有些沮丧，但这是成为一名更加出色的球员需要经历的过程，这是他成长的过程。他会努力训练，在下赛季卷土重来，我为他感到自豪。当你已经在季后赛中走到如此深入的阶段，距离总冠军不再遥远，在经历这一切之后，你会更加坚定地去追逐总冠军。”
+   </p>
+   <p>
+    谈到和哥哥一同出席NBA颁奖典礼，并且见证哥哥夺得MVP的感受，科斯塔斯-阿德托昆博说：“这是非常疯狂的经历，这是他毕生追逐的一个目标，能够看到他获奖，我真的为他感到高兴和自豪。当你见证了一个来自希腊的瘦弱孩子达到如今这样的高度，我感觉我哥哥给了那些想要打篮球的孩子希望。”
+   </p>
+   <p>
+    谈到多位国际球员在NBA颁奖典礼上获奖，科斯塔斯-阿德托昆博说：“这就是篮球的国际化，卢卡（东契奇）获得年度最佳新秀，帕斯卡尔-西亚卡姆、鲁迪-戈贝尔和扬尼斯，我为他们感到自豪，这显示了NBA在全球范围的影响力，证明了来自世界各地的球员都能够打出高水准。”
+   </p>
+   <p>
+    “像德克（诺维茨基）和哈基姆（奥拉朱旺）这样的球员为国际球员开辟了道路，他们就是拼命努力，永远不会把头低下来。”科斯塔斯-阿德托昆博补充道。
+   </p>
+   <p>
+    谈到跟随独行侠征战夏季联赛，科斯塔斯-阿德托昆博说：“当你知道自己正在做什么时，事情会变得更简单。我感觉我已经做好了准备，希望我能够在夏季联赛中打出好的表现。我的主要目标就是带着十足的动力努力打球，我想要成为一名精英级别的防守者和盖帽手。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

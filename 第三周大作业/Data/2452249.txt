@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：湖人签下德文特-卡考克和阿里奇-霍尔曼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1148767460130033664?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 09:41:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：湖人签下德文特-卡考克和阿里奇-霍尔曼" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/cdd25c6472ec37cfa9a5910df0c29179139c7228.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 湖人官方今日宣布，他们已经签下落选秀德文特-卡考克和阿里奇-霍尔曼。这两位球员均代表湖人出战了夏季联赛。
+   </p>
+   <p>
+    22岁的卡考克来自北卡罗来纳大学威明顿分校，身高2.03米，司职前锋，本赛季NCAA卡考克场均得到15.2分12.3篮板。
+   </p>
+   <p>
+    22岁的霍尔曼来自密西西比州立大学，身高2.08米，体重95公斤，臂展2.18米，司职大前锋。本赛季NCAA霍尔曼场均出战24.4分钟得到9.5分6.2篮板。
+   </p>
+   <p>
+    据NBA记者Dave McMenamin跟进报道，卡考克和霍尔曼与湖人签订的都是Exhibit 10合同。
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/%E5%8F%8C%E5%90%91%E5%90%88%E5%90%8C?night=0&amp;night=0">
+     相关阅读：篮球百科之什么是“Exhibit 10”合同？&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/09/55bb10d22fb1536c8f4f23cd2e901cbb.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/09/15530bcdb5c044d3f6b8e898354319b1.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

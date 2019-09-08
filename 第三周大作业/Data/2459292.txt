@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  刻苦训练！丹尼尔斯晒自己身穿湖人训练服训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0eWby4hy69/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 11:33:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="刻苦训练！丹尼尔斯晒自己身穿湖人训练服训练照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/bd038937b6f02ebde4015a3fd8aa94f7bbe14421.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 今日湖人球员特洛伊-丹尼尔斯更新社交媒体Instagram，晒出自己身穿湖人训练服训练照片（见新闻配图）。
+   </p>
+   <p>
+    “让我们继续交流我们的工作，感谢你，我的兄弟！”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，丹尼尔斯场均上场14.9分钟，得到6.2分1.4篮板。在其职业生涯中，丹尼尔斯场均命中1.7个三分球，三分命中率为40%。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/11/a03a63e064ec17fc0530a45093709c9c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/11/e094af2fbf2491969d0e4df95ccd26b3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/11/a6d5fddc8204b960c6e5cd88c0a3b3de.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/11/31b0cd504738354ec3ef0df9e4959283.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

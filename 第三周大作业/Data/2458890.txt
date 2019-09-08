@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  千锤百炼！诺克斯休赛期刻苦训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0cLStIlQ_B/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 10:43:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="千锤百炼！诺克斯休赛期刻苦训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/cff70da354a07c09f42ef801003a15b1306fd876.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 纽约尼克斯队前锋凯文-诺克斯今天在个人Instagram上传了一组自己的训练照（见新闻配图）。
+   </p>
+   <p>
+    “独立的赛季。”诺克斯写道。
+   </p>
+   <p>
+    诺克斯在2018年选秀大会上被尼克斯在首轮第9顺位选中，2018-19赛季常规赛，他场均出场28.8分钟，得到12.8分4.5篮板1.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/10/61c219df27afbcba52024a905c4fa791.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/10/40b350eb5e4e741e21972daad4c8e0a7.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/10/29339e0062575b597266f84ecfaa8725.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

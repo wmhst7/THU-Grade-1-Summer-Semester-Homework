@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  野兽归来！史蒂芬森更新社媒晒出参加业余联赛赛场短视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1K8w9fA11c/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 14:34:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="野兽归来！史蒂芬森更新社媒晒出参加业余联赛赛场短视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/c0874b7711ced2b8a9623d7a9e30c8a921fd8aa1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日，NBA球员、现中国CBA北京紫金勇士队后卫兰斯-史蒂芬森更新了个人社交媒体Instagram晒出一张自己参加NYC BASED联赛的赛场短视频（见GIF）。
+   </p>
+   <p>
+    并配文道：“热爱这项比赛，野兽归来！”
+   </p>
+   <p>
+    2018-19赛季常规赛，史蒂芬森场均出场16.5分钟，可以得到7.2分3.2篮板2.1助攻。
+   </p>
+   <p>
+    <img alt="GIF 2.4M" src="https://c1.hoopchina.com.cn/uploads/images/20190815/14/77e9fc0ed958f0784133f55d1e954e18.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

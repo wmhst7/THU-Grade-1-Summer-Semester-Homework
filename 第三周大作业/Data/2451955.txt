@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴德蒙：我对于未来充满期待，国王的快速篮球将会很有趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1068534/2019/07/08/after-dewayne-dedmons-inner-3-point-shooter-emerged-so-did-an-opportunity-with-the-kings/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 14:21:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴德蒙：我对于未来充满期待，国王的快速篮球将会很有趣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/2bf0da17d30a2e2ceafbae940c4b6b30cbbd6800.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 国王新援德维恩-戴德蒙在近日接受了The Athletic记者Jason Jones采访，他回顾了在马刺、老鹰效力的经历，并且对于在国王的前景进行了展望。
+   </p>
+   <p>
+    戴德蒙是一位具有外线投篮能力的大个子球员，他表示一直在打磨自己的投篮。
+   </p>
+   <p>
+    “三分球，投篮，这是我始终在这些方面付出努力，”戴德蒙说道，“在NBA中效力，你会有一个角色定位，你必须承担起你的角色。我总是在打磨自己的投篮，打磨自己的各项技术，等待机会的到来，一旦我获得了机会，我就能够做好准备。”
+   </p>
+   <p>
+    在老鹰效力时，时任主教练迈克-布登霍尔泽允许戴德蒙投三分球，这逐渐成为了后者的常规得分手段。
+   </p>
+   <p>
+    “在亚特兰大效力时，我被允许投三分球，”戴德蒙说道，“我和布登霍尔泽教练在赛季前进行了交流，他告诉我他希望我做到什么。他想让我投三分球，他说先尝试12场比赛，看一下结果如何，球队会在12场比赛之后再进行评估。然后我就开始投进三分球，12场比赛之后，也就没有什么值得评估的了，从那以后，三分球就成了我的比赛方式之一。”
+   </p>
+   <p>
+    当被问及在马刺效力时是否有机会投三分，戴德蒙说：“不不不，根本没有，我在圣安东尼奥的工作就是抢篮板，我所做的事情就是拼抢篮板和补篮。”
+   </p>
+   <p>
+    成为自由球员的戴德蒙在今年夏天选择加盟国王，他表示对于未来非常期待。
+   </p>
+   <p>
+    “我毫无疑问充满期待，”戴德蒙说道，“球队的快速篮球，在场上奔跑，接传球出手一些三分球，这将会非常有趣，我非常期待。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

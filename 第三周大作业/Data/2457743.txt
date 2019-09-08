@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船与乔纳森-莫特利续签一份双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jovanbuha/status/1154165384800395265" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 07:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船与乔纳森-莫特利续签一份双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/ab4981ec76890243bb13c9d83ae24b2cc37ede74.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据The Athletic记者Jovan Buha的报道，多位联盟消息人士透露，快船已经与他们上赛季的双向合同球员乔纳森-莫特利续签了一份双向合同。
+   </p>
+   <p>
+    双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得比普通发展联盟球员更多的工资，此举的目的是希望他们不要前往海外打球。
+   </p>
+   <p>
+    2018-19赛季常规赛，莫特利在快船场均出战7.1分钟，可以拿到4.6分2.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

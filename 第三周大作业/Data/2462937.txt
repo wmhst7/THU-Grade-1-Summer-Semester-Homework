@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  《空中大灌篮2》剧组为主演詹姆斯聘用了一位篮球替身
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/hmfaigen/status/1159189029931212800?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 11:29:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="《空中大灌篮2》剧组为主演詹姆斯聘用了一位篮球替身" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/a7bbb16ee31469cf35a6f1eab7d18d54cc110313.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 据NBA记者Harrison Faigen报道，电影《空中大灌篮2》剧组已经为其主演、湖人前锋勒布朗-詹姆斯聘用Sheldon Bailey担任其在片中的篮球替身演员。
+   </p>
+   <p>
+    身高1.98米的Sheldon Bailey曾出演包括《Game Shakers》在内的多部剧集和电影，他是一位职业篮球运动员，也是好莱坞最成功的替身演员之一。（注：替身演员在电影拍摄中被普遍使用，他们将代替主演完成部分危险性动作及高难度镜头的拍摄。）
+   </p>
+   <p>
+    Sheldon Bailey曾饰演NBA2K18和2K19游戏中的主要角色ATM，也曾是NBA2K15游戏中“My Player”模式的主要球员原型人物之一。
+   </p>
+   <p>
+    《空中大灌篮2》目前正在拍摄之中，该片定于2021年7月16日于北美地区上映。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/10/94ae1220c6b1156fa87f1ff971c17ee2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

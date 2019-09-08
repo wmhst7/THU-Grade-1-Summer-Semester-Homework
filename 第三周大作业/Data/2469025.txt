@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小萨博尼斯情况好转，有可能出战与安哥拉的比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Urbodo/status/1165523005805453313" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 15:46:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小萨博尼斯情况好转，有可能出战与安哥拉的比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/97520b7a3c0e9246fb6534ba7b416e90c3bbc485.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 据立陶宛篮球记者Donatas Urbonas的报道，立陶宛男篮国家队想确定多曼塔斯-萨博尼斯和Marius Grigonis是受到了哪种病毒或者细菌的影响。
+   </p>
+   <p>
+    小萨博尼斯和Grigonis因为遭遇食物中毒缺席了上一场立陶宛与韩国的热身赛，多位消息人士透露，上与韩国的比赛前，小萨博尼斯没有去医院，只有Grigonis去了医院。
+   </p>
+   <p>
+    现在小萨博尼斯情况有了好转，参加了今早的训练，也许会出战今日与安哥拉的比赛，Grigonis因为食物中毒会缺席与安哥拉的比赛，他是立陶宛国家队的二号得分手，他仍然无法训练，但是情况有了好转，也许会出战下周二立陶宛与捷克的热身赛。
+   </p>
+   <p>
+    本届世界杯，立陶宛、澳大利亚、加拿大和塞内加尔被分在H组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

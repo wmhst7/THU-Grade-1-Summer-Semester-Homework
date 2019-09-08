@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林：伦纳德和乔治认为他们今夏联手一事很幸运
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/mcten/status/1149451391229759493?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 12:26:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林：伦纳德和乔治认为他们今夏联手一事很幸运" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/b791b771d225ee3f09e382d139857ad732400466.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 湖人新援丹尼-格林今日接受采访谈到了他的前队友科怀-伦纳德今夏选择加盟快船一事。
+   </p>
+   <p>
+    “我觉得这一切都让我震惊，”格林说道，“但不如科怀去快船那么惊人。我不觉得他会选择这条路（加盟湖人），我感觉他想走自己的路。我认为他将在他们（快船）和回归（猛龙）之间选择。我认为他经历的这一个赛季，以及球迷们的表现等等，让他很难表达拒绝并离开多伦多。不过我知道他想离家近一点。”
+   </p>
+   <p>
+    由于湖人为追逐伦纳德坚持保留顶薪空间，格林等其他自由球员是否能够加盟湖人需要等待伦纳德做出决定。
+   </p>
+   <p>
+    谈到等待伦纳德决定去向的5天时间，格林说：“那5天感觉就像是5个月那般漫长，每过一天我都都在联系科怀，‘哟，你的会面进展如何？’他说，‘明天我有一个会面。’‘明天？所以我还得再等一天？’你觉得一天似乎过得很快，但事情发生的过程，我和他交流的方式，让你觉得好像过了一星期。好比说，‘哥们，我还要再等一天？快点儿啊！’”
+   </p>
+   <p>
+    保罗-乔治在伦纳德宣布签约快船的同一时间被雷霆交易至快船，相关报道称伦纳德一直在幕后招募乔治提申请交易与他聚首快船。
+   </p>
+   <p>
+    虽然格林自认为能够加盟湖人足够幸运，他透露称伦纳德和保罗-乔治同样认为这个休赛期很走运。
+   </p>
+   <p>
+    “在那之后我和他俩有过短暂交流，他们认为自己在这件事上运气很好，”格林说，“没人事先知道。我完全不知道。我一直在跟科怀聊天。他一点新动态都没给我透露。我不知道他要去哪里。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,67 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  AAU联盟主管：没有收到任何关于詹姆斯观赛行为的投诉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/02/gary-charles-lebron-james-nba-bronny-backlash-dunk/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 13:02:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="AAU联盟主管：没有收到任何关于詹姆斯观赛行为的投诉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/98abf1b0958109fbf9af458ba68ff21b7fdc130d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 湖人球员勒布朗-詹姆斯因在观战大儿子Bronny的AAU锦标赛期间的赛场行为遭到了外界的一些质疑，AAU联盟主管Gary Charles今日在接受美国媒体TMZ的采访时对此发表了自己的观点。
+   </p>
+   <p>
+    “我认为这真的太棒了，他就是参与到比赛当中，表现出纯粹的快乐，但我最喜欢的是我正在见证一位父亲支持他儿子的球队，”Gary Charles说道，“我在过去一周都在关注这个家庭，他们每天的风度都是顶级的。我看到了勒布朗是如何处理自己的家庭事务，当孩子们打球的时候，他是如此热情。勒布朗，我向你致敬，继续做你该做的事情。”
+   </p>
+   <p>
+    当被问及目前收到了多少青少年父母对于詹姆斯行为的投诉时，Gary Charles说：“零。”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2459102&amp;type=1&amp;entrance=26">
+     兴奋过度！詹姆斯转推解释掉鞋事件：鞋子就那么脱落了
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2459730&amp;type=1&amp;entrance=26">
+     观战儿子比赛过于兴奋？Bronny队友发推力挺詹姆斯
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2460244&amp;type=1&amp;entrance=26">
+     小托马斯力挺詹姆斯观赛行为：记者们实在没体育新闻了
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]率队取胜！泰勒-希罗今日比赛高光表现集锦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 14:53:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/1883881851/HBUbWiaeC" onclick="openVideo('https://weibo.com/1883881851/HBUbWiaeC');return false;" target="_blank">
+    <img alt="[视频]率队取胜！泰勒-希罗今日比赛高光表现集锦" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/c291680402d2bd577bd6975d740d68dc365e1a08.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯
+    <a href="https://weibo.com/1883881851/HBUbWiaeC" target="_blank">
+     视频: [视频]率队取胜！泰勒-希罗今日比赛高光表现集锦»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

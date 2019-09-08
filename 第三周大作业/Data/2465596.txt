@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：努力提升防守和篮板，希望将好习惯带到新赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/8/14/20806171/lakers-news-kyle-kuzma-team-usa-practice-quotes-defense-gregg-popovich-scrimmage" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 10:25:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：努力提升防守和篮板，希望将好习惯带到新赛季" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/d7fbe903feed1aada6f838e470b3a8882ca1b9fa.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 美国男篮目前正在洛杉矶备战热身赛，来自湖人的前锋凯尔-库兹马接受了媒体采访。
+   </p>
+   <p>
+    库兹马表示如果想要入选最终大名单，防守和篮板是重中之重。
+   </p>
+   <p>
+    “防守和篮板是两个最关键的方面，我们拥有一个很棒的团队，当你在这样一支星光熠熠的球队中打球时，每个人都必须承担起特定的角色。自从我来到这里以来，防守和篮板是我一直以来表现不错的方面。”库兹马说道。
+   </p>
+   <p>
+    “就像我刚才所说的那样，能够和如此多的球星并肩作战，这真的超级有趣，特别是当你在用正确的方式打球时。你想要多做一次额外的传球，你想要为球队的表现欢呼，你想要在防守端打出一定的水准，因为这就是美国男篮的标准。”库兹马补充道。
+   </p>
+   <p>
+    库兹马希望能够将一些好的习惯带到下赛季的常规赛中。
+   </p>
+   <p>
+    “这是显而易见的，尽管国际篮联的规则和NBA的规则不同，但这依旧是我打磨自己比赛的一个机会。就像我所说的，防守和篮板，这是美国男篮所需要的，也是我能够承担的角色，这也会帮助我在NBA的新赛季打出表现。你知道的，人们总是会说在为美国男篮征战之后，球员们能够在接下来的一个赛季取得进步，打出职业生涯最佳表现，这就是我正在努力做的事情。”库兹马说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

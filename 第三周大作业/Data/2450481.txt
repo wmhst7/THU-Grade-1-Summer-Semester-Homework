@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-罗斯：我认为勇士下赛季能进季后赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/why-jalen-rose-still-believes-warriors-despite-losing-kevin-durant" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 12:49:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-罗斯：我认为勇士下赛季能进季后赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/2c29b667bddf67303d6e9412d3a2f035b573d200.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 前NBA球员、知名评论员杰伦-罗斯近日在一档节目上谈到了下赛季的勇士，他认为尽管缺少了凯文-杜兰特，勇士还能打进季后赛。
+   </p>
+   <p>
+    他表示：“我预测勇士能打进季后赛，如果你们说勇士进不了季后赛，就好像库里不是那支73胜勇士的全票MVP一样，就好像德雷蒙德-格林打得不像一个顶薪球员一样，明年可是他的合同年。”
+   </p>
+   <p>
+    “并且克莱（汤普森）会在下赛季的某个时间点回归。”杰伦-罗斯补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

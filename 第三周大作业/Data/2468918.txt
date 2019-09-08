@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉带领30名孩子在超市购物，为他们准备开学用品
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KHOUSportsMatt/status/1165324110823600130" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 08:36:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉带领30名孩子在超市购物，为他们准备开学用品" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/6e07136e2233ec65f874f86e804ceda7c91eead1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 火箭的克林特-卡佩拉与30位来自Big Brothers Big Sisters的孩子们一起在沃尔玛超市购物，帮助他们准备开学用品。
+   </p>
+   <p>
+    “我在这里与我的基金会一起，与这些孩子们在一起，帮助他们为返校做好准备，他们周一就要开学了。”卡佩拉说道。
+   </p>
+   <p>
+    卡佩拉接着说：“我给了他们每人300美元的购物卡，我们在沃尔玛，我在帮助他们购物，到目前为止，这很有乐趣，这令人激动。”
+   </p>
+   <p>
+    2018-19赛季常规赛，卡佩拉场均出战33.6分钟，可以拿到16.6分12.7篮板1.4助攻1.5盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  生涯从未单场得过27+7+7？詹姆斯回应：疯狂的数据
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1151266526785232896?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 07:18:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="生涯从未单场得过27+7+7？詹姆斯回应：疯狂的数据" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/91a5e968bcb0edeb8516b982fbcb2457fe33f291.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 湖人前锋勒布朗-詹姆斯和凯尔-库兹马今日在推特上就一项关于詹姆斯的奇特数据统计展开互动。
+   </p>
+   <p>
+    媒体The Talk发推总结道：“勒布朗生涯场均数据为27分7篮板7助攻。目前他已参加过1437场NBA比赛，但还没有在任何一场比赛里完成过精确的27+7+7数据。哇。”
+   </p>
+   <p>
+    库兹马对此转推评论道：“你们都想要这个家伙有能力跳到月球上面呢，哈哈。”
+   </p>
+   <p>
+    詹姆斯回复道：“我就是要前往月球！让我们搞定吧。顺便说一句这个数据很疯狂。令人惊叹。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/07/7fd49c9e479c2e98811048620fe7cfd5.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/07/6a5964bbdbcb70fe10591e4b01a01346.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

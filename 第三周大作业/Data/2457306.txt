@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷迪克：一直都想与霍勒迪合作，下赛季目标进季后赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WillGuillory/status/1153684186370326528" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 02:25:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷迪克：一直都想与霍勒迪合作，下赛季目标进季后赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/2a1011184c0741af3f335ad75b5f13cfc53e46cc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 今日，鹈鹕为新援JJ-雷迪克举办了新闻发布会。
+   </p>
+   <p>
+    谈及雷迪克的加盟，鹈鹕篮球运营副总裁大卫-格里芬表示：“雷迪克是球队在自由市场上的首要目标，主教练阿尔文-金特里提到过想让球队在自由市场上签下雷迪克类型的球员，我们接着就成功签约了雷迪克本人。”
+   </p>
+   <p>
+    “总经理特拉扬-兰登和雷迪克的关系也推动他来到了新奥尔良，他们都是杜克大学校友。”格里芬补充道。
+   </p>
+   <p>
+    谈及来到鹈鹕的感受，雷迪克说道：“为鹈鹕效力会有很多乐趣，光是在新奥尔良这座城市生活，我就已经很激动了。我期待我们新赛季能打入季后赛，如果我认为一支球队不能进季后赛，我就不会加盟了。”
+   </p>
+   <p>
+    谈及自己作为老将的领导作用，雷迪克表示：“我的领导方式不是来到大伙面前，并开始朝着每一个人大吼大叫，我更喜欢一对一的沟通。”
+   </p>
+   <p>
+    谈及自己的新队友，雷迪克说道：“我们得到蔡恩-威廉森后，我就知道鹈鹕肯定会有所交易了。我们阵中还有朱-霍勒迪，他是我一直以来都想进行合作的球员，我认为他在球场攻防两端的能力也能帮助我表现得更好。我认为我们这支球队迸发着充沛的动力。”
+   </p>
+   <p>
+    根据此前报道，雷迪克与鹈鹕签下2年2650万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，雷迪克场均出场31.3分钟，得到18.1分2.5篮板2.7助攻，三分命中率为39.7%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

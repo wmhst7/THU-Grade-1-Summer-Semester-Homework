@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丁威迪：篮网现在是纽约最棒的球队，从小是湖人球迷
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SDinwiddie_25/status/1163834504739319808" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 06:56:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丁威迪：篮网现在是纽约最棒的球队，从小是湖人球迷" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/4e26a844c15d099d60ed49910081699e11802e0a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 近日，布鲁克林篮网队后卫斯潘塞-丁威迪在推特转发了一条预测2019-20赛季东部前8球队的推特。
+   </p>
+   <p>
+    丁威迪写道：“我闭眼选老鹰进季后赛。”
+   </p>
+   <p>
+    一名网友则评论道：“我知道你不会想听到这个，但我觉得尼克斯最终能挤进季后赛。”
+   </p>
+   <p>
+    丁威迪回复道：“对每一个可能已经误解我意思的人，我还想再说一遍，我并不是从小就讨厌尼克斯，我从小就是一名湖人球迷。而我现在为篮网效力，并且我们现在是这座城市最棒的球队，他们只是不能接受这个事实罢了。如果他们能够进季后赛的话，对纽约来说当然是一件好事。”
+   </p>
+   <p>
+    2018-19赛季常规赛，丁威迪场均上场28.1分钟，得到16.8分2.4篮板4.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

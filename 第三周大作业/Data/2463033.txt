@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布克：我很高兴能够看到训练营的孩子们享受篮球的乐趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/features/booker-continues-show-commitment-phoenix-through-second-annual-basketball-procamp#" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 16:44:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布克：我很高兴能够看到训练营的孩子们享受篮球的乐趣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/9cc5485372fe0e8c8e5394c9377076f94070ec24.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 太阳球员德文-布克近日举办了第二届个人训练营，为期两天的训练营内容包括提供篮球基本功培训和高质量的对抗比赛，360个参加训练营的孩子能够得到布克及其训练团队手把手的指导。
+   </p>
+   <p>
+    “去年在我的首届训练营结束后，我得到的最棒的赞扬就是孩子们面带微笑地对我说，‘你的训练营很棒，’”布克说道，“我也曾参加过训练营，我在训练营中得到的收获受用至今，这真的能够帮助我成长。”
+   </p>
+   <p>
+    “这里的孩子们玩得很开心，我记得当我也是这么大的时候，你正在学习并享受这项运动的乐趣，我很高兴能够看到这样的画面。”布克说道。
+   </p>
+   <p>
+    布克个人训练营合作伙伴Gregg Darbyshire表示：“德文是一个很棒的榜样，训练营能够帮助这些孩子们成长为德文这样的人。这些家伙的休赛期所剩无几，但他们依旧来到这里和孩子们相伴，这能体现他的职业素养以及来自一个怎样的家庭。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

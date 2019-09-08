@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  与热火会面后巴特勒取消了其他球队的会面，韦德功不可没
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.thescore.com/nba/news/1800783" target="_blank">
+     The Score
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 13:27:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="与热火会面后巴特勒取消了其他球队的会面，韦德功不可没" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/e51561656534afb2b4a0cb51c7c2f075bbd998d6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 根据此前消息，吉米-巴特勒通过先签后换加盟热火，巴特勒将签下4年1.42亿美元的顶薪合同。
+   </p>
+   <p>
+    近日，消息人士透露，在与热火签约之前巴特勒曾打算与几个球队代表会面，但当他与热火代表会面后，他立即取消了与其他球队的会面。消息人士透露，前NBA球员德维恩-韦德对巴特勒加盟热火功不可没。
+   </p>
+   <p>
+    巴特勒在此前的采访中谈到韦德：“他（韦德）总是跟我说迈阿密有多好。我指的是球队的管理层和这里面的人，以及他们是如何打理球队事务的。他总是说，‘这（热火）是一个很适合你的地方，这里的人，你在这里的心态，以及热火的球队文化，这些都很适合你。’”
+   </p>
+   <p>
+    对于加盟热火，巴特勒的经纪人表示：“对他来说，一切都在合适的时间以一种合适的方式结合到了一起。现在他加入了一个目标非常明确的球队，他们与巴特勒非常契合。”
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒场均出场33.6分钟，得到18.7分5.3篮板4.0助攻。季后赛出场35.1分钟，得到19.4分6.0篮板5.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

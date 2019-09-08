@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  队友默契！詹姆斯晒出和麦基、波普一同训练动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2114704772790592150?utm_source=ig_story_item_share&amp;igshid=1lfhanusm27fv" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 23:32:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="队友默契！詹姆斯晒出和麦基、波普一同训练动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/8ab084485d6d87b73d170a36b804ea8cdf779e5d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新一组他和队友贾维尔-麦基、肯塔维厄斯-考德威尔-波普完成训练的动态。
+   </p>
+   <p>
+    詹姆斯为这些自拍视频配文道：“训练！@贾维尔-麦基。@波普 不愿进镜头。”
+   </p>
+   <p>
+    视频画面显示训练后躺着放松的詹姆斯将镜头慢慢转向场边的麦基并说道：“大麻烦，干嘛呢？大个子？干嘛呢？训练，训练，训练！”麦基也回答道：“训练。永远都要训练。”
+   </p>
+   <p>
+    麦基随后转发这段视频并配文道：“太专注，太有决心了。”
+   </p>
+   <p>
+    此外，詹姆斯还晒照展示了自己使用的多双训练用鞋并配文道：“低帮球鞋摆放，以及（眼睛表情）。”
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190821/23/14442145fb111341a28263c6b2639ece.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190821/23/4dce5d199169200413deb89e949ced22.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/23/ebe393bc5bea0fb969cf1b43c5dfe7b9.png"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190822/08/01439a9fbe56b9cdecd50cc9f1e69709.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

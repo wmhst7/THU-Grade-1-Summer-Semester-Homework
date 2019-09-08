@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼-戴维斯将在2K20游戏正式封面中身穿湖人球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/la-sp-anthony-davis-lakers-nba-2k20-20190701-story,amp.html" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 22:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼-戴维斯将在2K20游戏正式封面中身穿湖人球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/ce7754a341e621e780c0759d73b12c687e2d64d2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据《洛杉矶时报》记者Arash Markazi报道，即将被交易至湖人的前锋安东尼-戴维斯在最新发布的NBA 2K20游戏封面中作为封面球员身穿一件鹈鹕球衣，但他用双臂环抱篮球遮挡了胸前的球队标志。当NBA 2K20游戏于9月6日起正式发布时，戴维斯将在游戏封面上身穿一件湖人球衣。
+   </p>
+   <p>
+    戴维斯被鹈鹕交易至湖人的交易将于7月6日正式完成。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

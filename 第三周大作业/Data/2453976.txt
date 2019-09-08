@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德发布自己与友人在意大利伊斯基亚的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6SkIynY9F/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 05:32:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德发布自己与友人在意大利伊斯基亚的合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/8ebca74a2adaf74356bc807632d17362db718601.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今天前NBA球员德维恩-韦德在Instagram上发布了一张合影，合影中包括韦德妻子尤尼恩，以及犹多尼斯-哈斯勒姆夫妇。
+   </p>
+   <p>
+    韦德写到：“#567”，照片的定位是意大利伊斯基亚。
+   </p>
+   <p>
+    德维恩-韦德于2018-19赛季宣布退役，职业生涯场均出场33.9分钟，能得到22.0分4.7篮板5.41助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

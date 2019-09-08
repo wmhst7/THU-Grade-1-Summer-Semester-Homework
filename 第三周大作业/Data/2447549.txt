@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  吉布森今日晒出个人帅照：感谢所有给予我生日祝福的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzL3Ibxg1xs/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 13:23:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="吉布森今日晒出个人帅照：感谢所有给予我生日祝福的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/0a42e87683aa2d997715020caad2048ef5b94ec4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，森林狼前锋泰-吉布森更新了个人社交媒体Instagram晒出个人帅照（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“生日感觉很疯狂，感谢所有给予我生日祝福和爱的人。”
+   </p>
+   <p>
+    2018-19赛季常规赛，吉布森场均出场24.1分钟，可以得到10.8分6.5篮板1.2助攻0.76抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

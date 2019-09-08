@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伯奇：为家乡加拿大的篮球热高兴，希望下赛季复仇猛龙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1153176438759026688" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 15:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伯奇：为家乡加拿大的篮球热高兴，希望下赛季复仇猛龙" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/39dfa84aabb139fa3985e76433e277ff379fadb8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 近日，魔术前锋肯-伯奇在自己的家乡加拿大蒙特利尔举办了肯-伯奇精英篮球训练营。40名年龄在7到16岁之间的孩子与教练一起进行篮球训练，伯奇本人也出席了训练。训练营之前在渥太华举办，7月底将在加拿大新斯科舍省南部的达特茅斯举办。
+   </p>
+   <p>
+    猛龙夺得今年的NBA总冠军后，加拿大掀起了一股篮球热潮。伯奇很高兴自己成为了这一潮流的一部分，他将把注意力集中在获得奥运会参赛资格，以及复仇猛龙上，猛龙在之前的季后赛首轮淘汰了魔术。
+   </p>
+   <p>
+    伯奇说：“从我们国家的角度来说，我喜欢这件事。但是我依旧对他们打败了我们耿耿于怀。我真的很想在下赛季打败他们。”
+   </p>
+   <p>
+    伯奇入选了加拿大队的训练营阵容，有机会参加今夏即将进行的篮球世界杯。
+   </p>
+   <p>
+    伯奇说：“我在篮球上倾尽了全力，到目前为止我取得了成功。”
+   </p>
+   <p>
+    根据此前的报道，肯-伯奇与魔术的合同金额为2年600万美元。伯奇在2017年夏天与魔术签下了一份2年219万美元的合同，他的合同在今年夏天到期。
+   </p>
+   <p>
+    2018-19赛季常规赛，肯-伯奇场均出场12.9分钟，得到4.8分3.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

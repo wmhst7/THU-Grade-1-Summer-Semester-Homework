@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬：我当时对詹姆斯求胜欲的担忧是无稽之谈
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/platform/amp/2019/8/2/20752107/lakers-david-griffin-great-relationship-lebron-james-sports-illustrated-comments-taken-out-context" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 07:54:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬：我当时对詹姆斯求胜欲的担忧是无稽之谈" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/71b9cf4b4b3989834fd18c4ebd02cab6384b6bf2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 鹈鹕篮球运营副总裁、前骑士总经理大卫-格里芬今日在《The Jump》节目上澄清了他此前关于湖人前锋勒布朗-詹姆斯以及骑士的采访言论。《The Jump》节目主持人表示，鹈鹕官方昨晚与节目组取得联系，告知格里芬希望参与直播节目连线采访以澄清他涉及詹姆斯的言论。
+   </p>
+   <p>
+    谈到他与詹姆斯及其经纪人里奇-保罗的共事经历时，格里芬表示：“我认为吸引人的一点在于，如果你分析那篇文章本身并阅读了全文，关于伴随组建一支球星云集球队所产生的噪声那部分内容是在报道结尾以极为匆忙的方式被提到的。但整篇采访的背景和它相关，包括我对它的应对有多么糟糕。因此我会说我与勒布朗和里奇的关系曾经非常稳固，现在也依然如此。就在一周前，勒布朗还发推宣传了我妻子所做的一个慈善活动，我想说我们绝对拥有很好的关系，也曾享受共事的时光。”
+   </p>
+   <p>
+    格里芬曾在采访中表示，2016年夺冠后的詹姆斯“没有很多其他追求了，我认为他不再那么渴求胜利了。”
+   </p>
+   <p>
+    对此格里芬解释道：“这篇采访的主题是围绕我们过去的失败，从中吸取的教训，以及我们如何将经验运用于建立鹈鹕等主题展开的。在采访中我坦诚的一件事就是夺冠过后，我在让所有人拥有正确的紧迫感方面做得非常失败。当时我的想法是，不可能再有任何一个出生于俄亥俄州阿克伦市的人在为克利夫兰带来52年以来首个冠军后还和从前一样。那是不可能的，你也是人，你是正常人。当时我的担忧在于他不会再拥有那般相同的、非人类般的求胜欲了。”
+   </p>
+   <p>
+    “显然，我们都见证了在那以后他又多次打入NBA总决赛，证明我当时的担忧是无稽之谈，但那篇文章没有给出上下文表明我谈到的时间点。讽刺的是，勒布朗本人也曾公开谈及那个特定的时间点，说过他无需再证明自己之类的话。因此话说回来，这些都不算新的信息，但文章的表述方式让我听上去好像是现在说的这些话，然而那完全不符合实情。”格里芬说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

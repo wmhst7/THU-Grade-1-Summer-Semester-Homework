@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  积极恢复！杜兰特社媒发布近期训练和生活组图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0E0L9XjRV6/?igshid=16xx52c0fv4o3" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 08:30:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="积极恢复！杜兰特社媒发布近期训练和生活组图" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/a6f497916f7bf755d30f088eabdea9151b242728.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 篮网球员凯文-杜兰特今日更新Instagram发布一组他在近期进行水下恢复性训练以及日常生活的组图。
+   </p>
+   <p>
+    杜兰特在上月的总决赛G5中遭遇右脚跟腱断裂，随后接受手术。篮网方面表示杜兰特目前不存在复出时间表。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/08/7c45aeea9e5d13f25bd4cb92ea76cb16.jpeg"/>
+    ​
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/08/e3b995b8c25dd8732e89e238df343853.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/08/cc1144396769461c556d074e6dd75dd4.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/08/ecb561d1eef8340ac01393b46bc9f5ce.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

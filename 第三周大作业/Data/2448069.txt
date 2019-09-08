@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术准备为武切维奇提供4年超过9000万的续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1144701600218398721" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 04:19:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术准备为武切维奇提供4年超过9000万的续约合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/3fac6fdbe732ea982f7020373be93db192a9fe43.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《纽约邮报》记者Marc Stein报道，多位消息人士透露，魔术准备为中锋尼古拉-武切维奇提供一份4年超过9000万的续约合同，球队希望在自由球员市场开启后立即达成合同。
+   </p>
+   <p>
+    武切维奇在2015年夏天与魔术签下了一份4年5300万美元的合同，他将在今年夏天成为完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，武切维奇场均上场31.4分钟，得到20.8分12.0篮板3.8助攻1.01抢断1.11盖帽，季后赛场均上场29.4分钟，得到11.2分8.0篮板3.0助攻1.00盖帽，他在本赛季生涯首次入选全明星。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

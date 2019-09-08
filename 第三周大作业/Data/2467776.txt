@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯转发张伯伦集锦：他将在任何时代展现统治力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1164160864074625024?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 21:25:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯转发张伯伦集锦：他将在任何时代展现统治力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/a6d7537916c85b9733ab13f27c2c657a64806f85.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 湖人前锋勒布朗-詹姆斯今日通过推特转发一段NBA名宿威尔特-张伯伦的精彩集锦并表达对张伯伦的赞赏。当地时间今日（8月21日）是张伯伦的诞辰日。
+   </p>
+   <p>
+    媒体Ballislife.com为其发布的张伯伦集锦配文道：“生日快乐，威尔特！高中三场比赛：74，78，90。大学首秀：42分29篮板；NBA新秀赛季：场均38分27篮板；第3个赛季：场均50分26篮板；1962年：场均出场48.53分钟；NBA史上唯一领跑助攻榜的中锋；从未犯满被罚出场；篮网曾为50岁的他提供一份合同。”
+   </p>
+   <p>
+    詹姆斯对此转发评论道：“绝对的野兽，不可思议的运动能力！他将在任何时代展现统治力，毫无疑问。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

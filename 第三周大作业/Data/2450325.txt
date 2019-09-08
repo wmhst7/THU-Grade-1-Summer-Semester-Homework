@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科詹联手！媒体回顾科比詹姆斯国家队配合集锦，后者点赞
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzfxQ1LBqlV/?igshid=nffp0hsw3p6p" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 23:00:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科詹联手！媒体回顾科比詹姆斯国家队配合集锦，后者点赞" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/3295bed6a85bef997c45892131ac402afbc2fce3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 媒体throwbackhoops今天通过Instagram发布了一段湖人名宿科比-布莱恩特与湖人球员勒布朗-詹姆斯此前在2008年北京奥运会期间的美国国家队配合集锦，詹姆斯本人也对此点赞。
+   </p>
+   <p>
+    “科比和勒布朗同队打球就是作弊。7月4日美国独立日快乐！”这家媒体写道。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4390464746575273">
+     视频：科比詹姆斯08年美国梦之队配合片段（57秒）&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,85 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  演出现场！詹姆斯连续更新26条歌舞自嗨动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2105233865303120545?utm_source=ig_story_item_share&amp;igshid=1fuaooxlwggfk" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 08:27:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="演出现场！詹姆斯连续更新26条歌舞自嗨动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/d7315af69a8d0361a33230c366da06a201cd1b09.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 湖人前锋勒布朗-詹姆斯今日在Instagram Story上连续发布了多达26条歌舞自嗨动态。
+   </p>
+   <p>
+    在这些自嗨动态中，詹姆斯在接受化妆和面部护理时摇头晃脑哼唱歌曲，随后在室内上演多段热辣舞蹈，最后在车内完成了说唱表演。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4402916666081920">
+     视频：詹姆斯今日歌舞表演长篇集锦
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/6742811e641977572d5b8d9bb9b34927.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/71aafb117c6690d8fe7cb8cc1bb8d447.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/6620b90e4647595155e015e8fb362afc.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/c888e3454661ec8ef91b376c7c7d7cb5.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/6fdf8902cc1eb9c6dfbac5d0e0ab2066.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/e33bd0f2ac7be4e82af5bc8ef70304ef.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/bcc67ca7de7774a521089c135c3f06f0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/57a8fe15d2d18098827fc35aa2f17e3d.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/eccc890f0cd7ab9a77da18d0ff542f75.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/09/f57d1e15e58b214668f77fd6038c2ed0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/08/1e630fd8e89a0ed331a9d16704e5d06d.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

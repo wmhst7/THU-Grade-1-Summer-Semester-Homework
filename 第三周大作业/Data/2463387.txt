@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈斯勒姆：巴特勒是出色的领袖，他能激励身边的队友
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/nba/miami-heat/article233646197.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 11:54:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈斯勒姆：巴特勒是出色的领袖，他能激励身边的队友" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/f6e127166d0049ddce8a9cb831bf7863426d6787.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 热火官方日前宣布，球队已经与犹多尼斯-哈斯勒姆完成续约。
+   </p>
+   <p>
+    哈斯勒姆职业生涯至今16个赛季均在热火度过，他为热火出战854场常规赛，场均上场25.2分钟，能够得到7.6分6.7篮板。这位39岁的老将在接受采访时表示，他能够为更衣室带来领导力。
+   </p>
+   <p>
+    “作为球队队长，我在球队中得到了比在篮球比赛中更多的尊重，作为队长，你必须以身作则，每场比赛都拼尽全力。在摄像机关闭的时候，你需要起到领导作用，即便是没有人会看到。作为队长，你必须在各个方面为球队、为某位球员、为我们这个团队带来影响，球队能够持续选择我担当那个角色，这绝对是极大的荣耀。”哈斯勒姆说道。
+   </p>
+   <p>
+    谈到球队新援吉米-巴特勒，哈斯勒姆说：“我们得到又一位领袖，又一位不可思议的竞争者，他的经验非常丰富，能够激励身边的队友，真正在比赛中促进队友的表现，而不像我只能在场下或者训练中起到类似的作用。他能够在比赛胶着时抗起球队，也能在替补席上做到我在努力做的事情。我认为贾斯蒂斯（温斯洛）身上也有同样的特质，巴姆（阿德巴约）同样如此，他正在不断成长，并且变得更加自如。球队中本就有这样的家伙，但我认为吉米是对此最擅长的，因为他在过去很长时间都是这样做的。”
+   </p>
+   <p>
+    “作为队长，我的工作就是更多地参与其中，在特定的时刻采取特定的措施。为了帮助这些家伙成为最棒的自己，我必须拼尽全力，这就是我打算做的事情的一部分，这也是我选择回归的原因之一。”哈斯勒姆补充道。
+   </p>
+   <p>
+    据The Athletic记者Shams Charania此前的报道，哈斯勒姆与热火达成一份一年260万美元的续约合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

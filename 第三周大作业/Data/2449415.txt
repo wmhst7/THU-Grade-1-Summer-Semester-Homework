@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  致谢波特兰！阿米奴：过去四年是一段令人难以置信的经历
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzZZVO6gxxi/?utm_source=ig_web_copy_link" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:17:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="致谢波特兰！阿米奴：过去四年是一段令人难以置信的经历" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/9c633e1fd10802edec8c329483a4c3b19a1fa6d8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <div>
+    虎扑7月2日讯  根据此前消息报道，开拓者阵容发生了较大的改变，埃文-特纳被交易至老鹰；莫里斯-哈克利斯被交易至快船；埃内斯-坎特离开开拓者与凯尔特人签约；迈耶斯-伦纳德被交易至热火；塞思-库里签约独行侠；艾尔-法鲁克-阿米奴加盟魔术。
+    <br/>
+    <br/>
+    今天，魔术前锋艾尔-法鲁克-阿米奴更新了个人社交媒体instagram晒出一张上赛季球队在飞机上的合影（见新闻配图）。
+    <br/>
+    <br/>
+    并发文说道：“过去的四年是一段难以置信的经历。感谢我的队友、教练组、球队管理层和球迷们。”
+    <br/>
+    <br/>
+    2018-19赛季常规赛，艾尔-法鲁克-阿米奴场均出场28.3分钟，可以得到9.4分7.5篮板1.3助攻0.84抢断。
+   </div>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

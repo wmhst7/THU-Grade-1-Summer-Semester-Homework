@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火会将戈兰-德拉季奇交易至独行侠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/townbrad/status/1145506983644147714?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 09:40:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火会将戈兰-德拉季奇交易至独行侠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/5863a0783e312c9b82d657f862587f7a74ce3739.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据Sports Day独行侠记者Brad Townsend报道，热火会将戈兰-德拉季奇交易至独行侠，这是吉米-巴特勒交易的一部分。
+   </p>
+   <p>
+    一位消息人士透露，独行侠会用他们的薪资空间吃下德拉季奇的合同，他们不会送出任何补偿给热火，独行侠拥有3000万美元薪资空间，并且他们还有价值2120万美元的交易特例（来自哈里森-巴恩斯的交易）。
+   </p>
+   <p>
+    卢卡-东契奇和德拉季奇都来自斯洛文尼亚，在NBA征战的斯洛文尼亚球员只有他们两人，他们之前一起在斯洛文尼亚国家队合作过。
+   </p>
+   <p>
+    2018-19赛季常规赛，德拉季奇场均出战27.5分钟可以拿到13.7分4.8助攻3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

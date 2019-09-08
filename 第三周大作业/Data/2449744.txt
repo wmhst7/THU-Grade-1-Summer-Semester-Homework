@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  钱宁-弗莱：爵士并不是在西部可以随便击败的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/channingfrye/status/1146230120115367937" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:23:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="钱宁-弗莱：爵士并不是在西部可以随便击败的球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/e7e072e65c0af4527c9e679f3772bfeea51d45cb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今日，前NBA球员钱宁-弗莱更新个人社媒，谈到犹他爵士。
+   </p>
+   <p>
+    钱宁-弗莱说道：“我受够周边的人说犹他是在西部可以随便击败的球队这种说法了。他们也已经受够了排在西部第六、第七、第八名的位置。他们要更进一步！”
+   </p>
+   <p>
+    根据之前报道，爵士在这个休赛期，接连获得迈克-康利、博扬-波格丹诺维奇、埃德-戴维斯、伊曼纽尔-穆迪埃、杰夫-格林等球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

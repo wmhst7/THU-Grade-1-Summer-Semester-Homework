@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  努力训练！小托马斯更新社媒晒出赛场照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0CkwPql5wb/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 15:18:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="努力训练！小托马斯更新社媒晒出赛场照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/545d6fcaa35d15ef2283ea0e2a230ddbbb61c521.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，华盛顿奇才队球员以赛亚-托马斯更新自己的社交媒体Instagram晒出自己的训练照片。（见新闻配图）
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，小托马斯与奇才达成了一年的协议，小托马斯来自华盛顿的塔科马。
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯代表掘金出场12场比赛，场均出场15.1分钟，场均得到8.1分1.1篮板1.9助攻0.4抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/15/d11ea61d8c42b5d7a956ad5dd657444e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/15/f558c86501fa019060504cd066c64478.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/15/24f35b58bcb73bc71761d0f06dbf9cd9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/15/783a1a63bb83f8b29ce929bce6c1db7b.jpg"/>
+    ​
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

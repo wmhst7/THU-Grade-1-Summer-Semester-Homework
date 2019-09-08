@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  未雨绸缪！里弗斯：我看遍过去两年伦纳德、乔治所有比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/clippers-news-doc-rivers-has-watched-every-game-kawhi-leonard-paul-george-have-played-in-last-2-years-since-landing-them/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 08:02:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="未雨绸缪！里弗斯：我看遍过去两年伦纳德、乔治所有比赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/6b692e43d3996387eea31e02520ef8a402c4e0b4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 近日，快船主教练道格-里弗斯接受了记者的采访。
+   </p>
+   <p>
+    在谈及前锋科怀-伦纳德和保罗-乔治的携手加盟时，里弗斯对记者说道：“自从他们二人宣布携手加盟的这一切尘埃落定后，我几乎将保罗-乔治过去两年打的每一场比赛以及伦纳德打的每一场比赛都看了一遍。我甚至一直回顾了当年我执教凯尔特人时期皮尔斯是如何打球的。这是一种未雨绸缪，防患于未然，毕竟你有很多工作可以做。”
+   </p>
+   <p>
+    今年夏天，伦纳德离开猛龙，转投快船。2018-19赛季，伦纳德常规赛代表猛龙出场60次，场均34分钟可以得到26.6分7.3篮板3.3助攻；季后赛出场24次，场均39.1分钟可以得到30.5分9.1篮板3.9助攻。
+   </p>
+   <p>
+    保罗-乔治常规赛场均出场36.9分钟，可以得到28.0分8.2篮板4.1助攻；季后赛，场均出场40.8分钟，可以得到28.6分8.6篮板3.6助攻1.40抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

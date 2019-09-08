@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉率领瑞士打进欧锦赛，给队友每人2000美元奖金
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/overtime/status/1164311032107606016?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 07:18:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉率领瑞士打进欧锦赛，给队友每人2000美元奖金" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/4639cabb4e7e7a85e643677a76b33a3a07ba1173.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 在之前结束的一场欧锦赛预选赛中，瑞士以109-85战胜冰岛，顺利拿到2021年欧锦赛入场券，这是他们自1955年以来首次跻身欧锦赛正赛。
+   </p>
+   <p>
+    在这组预选赛中，瑞士与冰岛、葡萄牙分别进行了主客场对决，胜者将进入欧锦赛正赛E组，与芬兰、格鲁吉亚和塞尔维亚展开对决。
+   </p>
+   <p>
+    本场比赛，卡佩拉出场33分钟，得到18分15篮板，正负值达到+23。
+   </p>
+   <p>
+    值得一提的是，本场比赛前，冰岛战绩为2胜1负，瑞士的战绩为1胜2负，瑞士必须净胜21分才能凭小分优势晋级，而他们最后净胜24分，有惊无险地达成晋级目标。
+   </p>
+   <p>
+    在这场赛后，卡佩拉给了自己瑞士队友每人2000美金的奖金，他们之中没有人在NBA打球。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

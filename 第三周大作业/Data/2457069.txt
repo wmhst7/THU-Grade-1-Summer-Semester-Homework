@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  考利-斯坦：戴德蒙的三分和护框更好，他比我更适合国王
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sacbee.com/sports/nba/sacramento-kings/article232809462.html" target="_blank">
+     萨克拉门托蜜蜂报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 10:18:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="考利-斯坦：戴德蒙的三分和护框更好，他比我更适合国王" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/e8751b45c836f3759378b58a0bed8755b72f46ea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据此前的报道，国王与前老鹰球员德维恩-戴德蒙达成了一份3年4100万的协议。近日，前国王球员，现勇士球员威利-考利-斯坦接受了萨克拉门托蜜蜂报的采访，谈到了戴德蒙与国王的适配度。
+   </p>
+   <p>
+    考利-斯坦说：“我认为在他们所需要的方面——三分投射、护框等等，他的适配度更高。显然，球队觉得我在这些方面做的不太好。我认为戴德蒙是联盟中在这些方面做得较好的球员之一，所以对他们来说，我认为这是一笔重要的签约。”
+   </p>
+   <p>
+    戴德蒙效力于联盟6个赛季，前4个赛季都没有三分出手。而效力于老鹰的近两个赛季，他有133次三分出手。上赛季，他的三分命中率达到了38.2%。而考利-斯坦在效力于国王的4个赛季中，仅有18次三分出手，命中4次。
+   </p>
+   <p>
+    2018-19赛季常规赛，德维恩-戴德蒙场均上场25.1分钟，得到10.8分7.5篮板1.4助攻1.08抢断1.11盖帽。威利-考利-斯坦场均上场27.3分钟，得到11.9分8.4篮板2.4助攻1.19抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：火箭与杰拉德-格林达成续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/apphttps://twitter.com/HoustonRockets/status/1153389403609411586" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 03:54:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：火箭与杰拉德-格林达成续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/779f1afe07b75cb24f77edc629343a3d1c767ef3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，火箭更新官方推特，宣布球队正式与杰拉德-格林达成续约。
+   </p>
+   <p>
+    跟据此前的报道，格林与火箭达成的是一份1年底薪续约协议。
+   </p>
+   <p>
+    格林过去的两个赛季为火箭效力期间，场均在21.1分钟内可以得到10.3分2.8篮板并命中2.3记三分球，共命中255记三分球。当格林得到两位数的得分时，火箭的战绩为44胜15负。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/03/cf765958f963e7cf479f363d38a28406.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

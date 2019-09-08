@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔晒训练照：真正的乐趣在于过程
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0bkrUMAU27/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 09:34:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔晒训练照：真正的乐趣在于过程" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/052680dc261c6ce58f57b7b6488d36f036666acd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 纽约尼克斯队前锋朱利叶斯-兰德尔今天在个人Instagram上传了一张自己的训练照（见新闻配图）。
+   </p>
+   <p>
+    “真正的乐趣在于过程！热爱你所做的事情！”兰德尔写道。
+   </p>
+   <p>
+    本赛季休赛期，兰德尔与尼克斯签下了一份3年6300万美元的合同。2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

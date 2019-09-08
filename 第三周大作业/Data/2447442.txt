@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：若勇士提供5年顶薪，汤普森将很快达成续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1047095/2019/06/26/charanias-inside-pass-rockets-move-forward-top-free-agents-in-decision-mode-plus-more-nba-notes/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 07:40:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：若勇士提供5年顶薪，汤普森将很快达成续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/6bfcb54fb5ebb7b3ea68a66c7072e8dc03df7a7f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据The Athletic记者Shams Charania报道，联盟消息人士透露，本周自由球员市场开启时，勇士将与自由球员克莱-汤普森进行会面。
+   </p>
+   <p>
+    消息人士透露，若勇士在会面中向汤普森提供一份5年1.9亿美元的顶薪合同，预计双方将很快达成续约协议。
+   </p>
+   <p>
+    消息人士透露，汤普森希望留在勇士，但假如与勇士的谈判出现停滞，他愿意与快船展开会谈。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人将谢米-奥杰莱下赛季合同转为全额保障
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AdamHimmelsbach/status/1144260098837176320" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 09:15:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人将谢米-奥杰莱下赛季合同转为全额保障" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/2bc96339cb32426fb92f83367f9c9a45d9164a1a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据《波士顿环球报》记者Adam Himmelsbach报道，有消息源表示，没有任何意外，凯尔特人已将前锋谢米-奥杰莱下赛季的合同转为全额保障。
+   </p>
+   <p>
+    奥杰莱在2017年夏天次轮共第37顺位被凯尔特人选中，他在2019-20赛季的薪水为162万美元。
+   </p>
+   <p>
+    2018-19赛季，奥杰莱共为凯尔特人出战了56场常规赛，场均10.6分钟内可以得到3.3分1.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

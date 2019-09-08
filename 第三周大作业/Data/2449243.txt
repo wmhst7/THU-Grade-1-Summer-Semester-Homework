@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：爵士计划裁掉后卫劳尔-内托
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145743555341836291" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 01:22:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：爵士计划裁掉后卫劳尔-内托" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/d44ee5955bc0ffa676b6b3a6c98c12641f3bcfdd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，爵士计划裁掉后卫劳尔-内托，创造薪资空间完成迈克-康利的交易。
+   </p>
+   <p>
+    根据Shams报道，内托将成为市场上极具竞争力的替补后卫选择。
+   </p>
+   <p>
+    2018-19赛季常规赛，内托场均上场12.8分钟，得到5.3分1.7篮板2.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

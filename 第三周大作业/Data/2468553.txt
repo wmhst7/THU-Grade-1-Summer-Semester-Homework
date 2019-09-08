@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊朗男篮公布出战今夏世界杯的12人大名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/922773/iran-announces-the-12-man-world-cup-roster/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 07:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊朗男篮公布出战今夏世界杯的12人大名单" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/dd8ac9b18be6f28caf6dc1852ffeafcee553f411.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 伊朗男篮国家队公布了他们今夏参加男篮世界杯的最终12人大名单。
+   </p>
+   <p>
+    具体名单如下：阿龙-杰拉米普尔、哈马德-哈达迪、穆罕默德-哈桑扎德、哈马德-侯赛因扎德、穆罕默德-詹姆希迪、萨马德-尼卡-巴赫拉米、萨贾德-玛莎耶希、拉苏尔-莫扎法里、梅桑-米尔扎伊、迈克-罗斯塔姆保尔、贝南-雅赫查利和阿尔曼-赞加内。
+   </p>
+   <p>
+    在今年的世界杯上，西班牙、波多黎各、突尼斯和伊朗同在C组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳官方晒出布里奇斯在美国男篮训练营精彩照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B03wyUAnXwB/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 12:57:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳官方晒出布里奇斯在美国男篮训练营精彩照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/89892536d3423289740d032ddb43abdf2b95bf1a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，太阳官方更新社交媒体Instagram，晒出米卡尔-布里奇斯在美国男篮训练营中的照片（见新闻配图）。
+   </p>
+   <p>
+    “美国篮球。”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，布里奇斯场均出场29.5分钟，得到8.3分3.2篮板2.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/12/a24fcaf35ec5b166e7b024171f1748aa.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/12/00e97e6ed3d575f9fed779aa1b8bd89d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

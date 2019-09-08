@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟消息人士认为追求霍弗德的“神秘球队”是凯尔特人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KevinOConnorNBA/status/1145378973502910464" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 02:19:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟消息人士认为追求霍弗德的“神秘球队”是凯尔特人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/d9a62cbbe351f9ab27e89c82c6f4774f45ac25eb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Kevin O'Connor的报道，一些联盟消息人士相信，那支追求艾尔-霍弗德的“神秘球队”正是凯尔特人。但如果凯尔特人想要同时得到霍弗德和肯巴-沃克的话，则必须用特里-罗齐尔先签后换得到沃克，这并不是一件容易的事情。随后The Athletic记者Sam Amick也证实了这一消息。
+   </p>
+   <p>
+    根据此前的报道，霍弗德选择跳出合同，成为完全自由球员，他也被认为在凯尔特人的时光已经结束了。国王准备在自由市场开启后为霍弗德提供巨额的合同，同时76人也对霍弗德非常感兴趣。
+   </p>
+   <p>
+    上赛季常规赛，霍弗德为凯尔特人场均出战29分钟可以拿到13.6分6.7篮板4.2助攻1.3盖帽，季后赛场均上场34.4分钟，得到13.9分9.0篮板4.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

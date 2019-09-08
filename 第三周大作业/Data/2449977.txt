@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：达柳斯-米勒与鹈鹕达成2年1425万续约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1146426841651175425" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 22:35:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：达柳斯-米勒与鹈鹕达成2年1425万续约协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/057fc72d60d418db0a75e9766f91ed24822b6f18.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，达柳斯-米勒与鹈鹕达成2年1425万美元的续约协议，其中第二年合同为无保障。
+   </p>
+   <p>
+    此前鹈鹕利用薪资空间签下了雷迪克和先签后换得到了费沃斯，所以他们会使用米勒的早鸟权与其进行帽上续约。
+   </p>
+   <p>
+    米勒在2012年NBA选秀大会上被黄蜂选中（鹈鹕前身），NBA职业生涯至今五个赛季都效力于新奥尔良，其中2015-16和2016-17赛季在德国联赛征战。他的上一份合同是在2017年夏天签下的2年431万美元合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，米勒场均上场25.5分钟，得到8.2分1.9篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

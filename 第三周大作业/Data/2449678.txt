@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠展示出与丹尼-格林和马库斯-莫里斯达成协议的兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/fishsports/status/1146202675718963201" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 07:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠展示出与丹尼-格林和马库斯-莫里斯达成协议的兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/ac516939f315ea4fcb4de2e21881be7b603a3724.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据CBS 247 Sports记者迈克-费舍尔的报道，多位联盟消息人士透露，独行侠展示出了与丹尼-格林和马库斯-莫里斯都达成协议的兴趣。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出战27.7分钟可以拿到10.3分4篮板1.6助攻；莫里斯场均出场27.9分钟可以拿到13.9分6.1篮板1.5助攻0.57抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

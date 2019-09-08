@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  放飞自我！詹姆斯连续更新今日嗨歌动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2099684170203690571?utm_source=ig_story_item_share&amp;igshid=15tfemtt2pnbc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 01:52:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="放飞自我！詹姆斯连续更新今日嗨歌动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/107533f7226a3a872b42576844a6ef283b89ef07.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 湖人前锋勒布朗-詹姆斯今天通过Instagram Story连续分享了他在早餐和休息期间嗨歌的动态。
+   </p>
+   <p>
+    在其一边吃早餐一边拍摄的一段嗨歌视频中，背景音乐的歌词中包含“这是一个男人的世界”的语句，詹姆斯将接下来的歌词“但假如没有一个女人或女孩，它将毫无意义”一句作为视频配文，并添加了爱心和双手合十的表情。
+   </p>
+   <p>
+    在另一段视频中，詹姆斯则躺在床上非常投入地跟随音乐哼唱。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4400289689811544">
+     视频：詹姆斯今日嗨歌动态合集
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/2520d01289cd17a9862bcf08be32514f.png"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/2b78c8783e43c83b1bd57409e6c3143a.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/9c9430f69e0ab9160cccc0a5255249c4.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/75792170e6bca017b19b1de84f7984c9.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/3b62961960cef3eed28cd7f727516a1f.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/07/f88173dfa9c6969475afc86b7a19aacd.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才通过三方交易得到瓦格纳、琼斯、邦加及选秀权
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-acquire-wagner-bonga-jones-lakers-trade" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 11:47:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才通过三方交易得到瓦格纳、琼斯、邦加及选秀权" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/f0c5ceefce4a4d60a2690b6e1d7771441fbfd781.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 奇才官方宣布，球队完成与湖人、鹈鹕的三方交易，得到伊萨克-邦加、莫里茨-瓦格纳、杰梅里奥-琼斯以及湖人2022年的二轮签。
+   </p>
+   <p>
+    奇才球队运营副总裁 Tommy Sheppard表示：“能够获得三名有前途的年轻球员，以及未来的选秀，对我们来说是一个理想的情况。 在去年的选秀过程中，我们对莫非常感兴趣，并期待让邦加和琼斯和球员一起成长。”
+   </p>
+   <p>
+    在2018-19赛季，瓦格纳场均能得到4.8分2板0.6助攻；琼斯场均4.5分8.2板2.2助攻1.2抢断，邦加场均0.9分1.1板0.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

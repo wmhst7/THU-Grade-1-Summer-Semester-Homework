@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥奎因：如果不用场上表现证明自己，任何称赞都没有意义
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/quotebook-offseason-introductory-press-conference" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 22:15:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥奎因：如果不用场上表现证明自己，任何称赞都没有意义" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/4612e5256363db7754aa912ffc2d629f9fc1c8a2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 76人今日为新签约的球员举行了新闻发布会，球队新援凯尔-奥奎因接受了媒体采访。
+   </p>
+   <p>
+    谈到在球队中的定位，奥奎因说：“当然，我最主要的目标就是赢得队友们的尊重，我认为这也是我来到这里的原因。如果你不能用场上表现来证明自己，就算别人如何称赞你都没有意义。在我职业生涯过去的七个赛季中，我感觉我承担了很多不同的角色，我曾有幸首发出场，也曾沦落为球队的边缘角色。但我始终认为，付出努力终究会有回报，我随时做好准备迎接机会的到来。我认为这也是布雷特-布朗教练和埃尔顿（布兰德）想要向我传达的最重要的信息，无论机会何时出现，我都会时刻严阵以待，我说这话的时候非常自信。”
+   </p>
+   <p>
+    据此前76人记者Kyle Neubeck的报道，76人与中锋凯尔-奥奎因达成一份一年底薪协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，奥奎因场均出场8.2分钟，能够得到3.5分2.6篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

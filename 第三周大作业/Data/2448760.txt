@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭马刺快船等7队有意艾尔-法鲁克-阿米奴
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AlexKennedyNBA/status/1145366318075568128" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 00:40:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭马刺快船等7队有意艾尔-法鲁克-阿米奴" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/f4519ae8a5b9f28935e01e4535110b9cf1af6e0e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据HoopsHype记者Alex Kennedy报道，联盟消息人士透露，篮网、76人、魔术、马刺、快船、火箭、步行者有意开拓者前锋艾尔-法鲁克-阿米奴。
+   </p>
+   <p>
+    2018-19赛季常规赛，阿米奴共出战了81场比赛，场均上场28.3分钟得到9.4分7.5个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

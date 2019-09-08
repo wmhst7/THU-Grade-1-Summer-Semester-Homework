@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  三叶草军团！凯尔特人发布入选国家队的四人合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B03aakbp6FZ/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 00:53:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="三叶草军团！凯尔特人发布入选国家队的四人合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/4f5ff83cc4661c24c69c1db140d6e0200e54cd54.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 凯尔特人球员马库斯-斯马特、杰伦-布朗、杰森-塔特姆和肯巴-沃克都入选了美国男篮国家队初选名单。
+   </p>
+   <p>
+    今天凯尔特人官方在Instagram上晒出了四人在国家队训练营中的合影，并写道：“三叶草军团。美国队。”
+   </p>
+   <p>
+    2018-19赛季常规赛，塔特姆场均出场31.1分钟，得到15.7分6.0篮板2.1助攻；布朗场均出场25.9分钟，得到13.0分4.2篮板1.4助攻；斯玛特场均出场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断；沃克场均出场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/00/cdd32d51fd5bf89cce68a3bd94311ee2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

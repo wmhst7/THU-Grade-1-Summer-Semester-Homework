@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰厄斯-琼斯：感谢森林狼，明尼苏达永远是我的家
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzwDNCWAjCN/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 12:12:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰厄斯-琼斯：感谢森林狼，明尼苏达永远是我的家" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/5157c7fe486ba33b9a571322e9c80a57b71a3e8c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 根据此前的报道，灰熊为泰厄斯-琼斯提供了3年的合同，森林狼选择放弃匹配灰熊给琼斯的邀请报价。今天琼斯在Instagram上晒出了自己身穿灰熊球衣的照片，并写道：“孟菲斯！！！让我们加油吧！#磨炼之城#书写自己的故事。”
+   </p>
+   <p>
+    随后琼斯又晒出一张图片，感谢森林狼。图片中写道：“致森林狼所有球迷和支持者们。我的队友、教练、工作人员，特别是Glen Taylor（森林狼老板）——我要感谢你们，感谢你们自我成为职业运动员以来给予我和家人的支持和付出。我还要特别感谢菲利普-桑德斯让我有机会在家乡打球，过去的四年我有幸在自己长大的地方征战。对此，我由衷的感激。明尼苏达永远是我的家，这一点不会变。现在我要迈进人生旅程和职业生涯的下一个篇章了，我对未来感到激动。”
+   </p>
+   <p>
+    琼斯是2015年选秀大会的24号秀，生涯至今四个赛季都效力于森林狼，2018-19赛季常规赛，琼斯场均上场22.9分钟，得到6.9分2.0篮板4.8助攻1.19抢断。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2452320.html">
+     Woj：森林狼将不会匹配灰熊给泰厄斯-琼斯的报价
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/12/22206c1c644f82336ae5b182076aceae.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

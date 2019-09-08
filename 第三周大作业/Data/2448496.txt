@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  思念赛场！丁威迪今日更新社媒晒出赛场投篮照：2+1
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzT6UekJb5J/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 09:06:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="思念赛场！丁威迪今日更新社媒晒出赛场投篮照：2+1" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/4e6a52f2064ea817d770ed4b130759a22367e772.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，篮网后卫斯潘塞-丁威迪更新了个人社交媒体Instagram晒出一张自己球场投篮照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“2+1。”
+   </p>
+   <p>
+    2018-19赛季常规赛，丁威迪场均出场28.1分钟，可以得到16.8分2.4篮板4.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

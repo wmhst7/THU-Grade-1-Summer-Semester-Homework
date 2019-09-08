@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：目标转变为建立球队风格，不会让格林库里上场过久
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mercurynews.com/2019/08/06/warriors-steve-kerr-offers-a-sneak-preview-on-how-he-will-handle-next-seasons-roster/" target="_blank">
+     圣何塞水星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 11:44:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：目标转变为建立球队风格，不会让格林库里上场过久" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/a730222a28eb8df33eed53fb956eca9de731e824.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 近日，美国男篮训练营在拉斯维加斯进行训练，美国队助教、勇士主教练史蒂夫-科尔接受了采访。
+   </p>
+   <p>
+    谈到新赛季的执教时，科尔说：“下赛季的情况和过去几年不太一样。过去几年里，不考虑伤病的话，我知道我们将赢下很多比赛。球队的目标更多是为季后赛做准备，我们的胜场数是57场还是65场并不那么重要。能说出这样的话是一种极大的奢侈。现在球队加入了一些新球员，可能会经历一些失利，球队的目标转变为建立球队的风格。过去五年里我们知道我们是怎样的球队，而现在并非如此。这是一个全新的挑战。”
+   </p>
+   <p>
+    谈到斯蒂芬-库里和德雷蒙德-格林的负担是否会加重时，科尔说：“在我们实际比赛之前，这是很难说的。但是我知道一点，我不会让他们一场比赛出场40分钟的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。德雷蒙德-格林场均出场31.3分钟，得到7.4分7.3篮板6.9助攻1.44抢断1.06盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍华德：感谢科比当年对我的直言不讳，谢谢他的良苦用心
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.complex.com/sports/2019/07/dwight-howard-kobe-bryant-soft?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=complexnewsfb&amp;fbclid=IwAR0gflVGmOux9hs89UESVcwJ5eUiRLre_rYJGxoLxR9Se1cg4rPLEyU3" target="_blank">
+     Complex
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 10:36:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍华德：感谢科比当年对我的直言不讳，谢谢他的良苦用心" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/07cb046b2147b6e17550fb6aaab197825540af78.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 近日，NBA球员德怀特-霍华德做客了一档访谈节目。
+   </p>
+   <p>
+    在谈到自己当年与科比不和的一些原因时，霍华德表示：“我只是觉得当时的我们在心理上处于两个不同的层次，他从未见过我这样的人。一个可以享受篮球但又同时不那么严肃的人。但这其实不是我。”
+   </p>
+   <p>
+    霍华德在2012-13赛季效力于湖人，但由于与科比并不合拍，在一年后霍华德加盟火箭。在2014-15赛季火箭对阵湖人的比赛中，霍华德因肘击科比导致二人发生口角，当时科比称霍华德为“软蛋”。
+   </p>
+   <p>
+    对此，霍华德谈到：“我有点讨厌他这么说我，但其实我当时应该理解错了他的意思。我认为他当时应该主要是在说我的心态而不是我在场上的表现。我当时没有意识到这一点，因为环绕在他周围的声音都在说我是个软蛋。说真的，当时我真的恨透他了。”
+   </p>
+   <p>
+    科比在2015年接受采访时谈到此事时说道：“我在试着教德怀特。我试着展示给他看。但现实是当你对总冠军球队抱有想法时，你会觉得这个队伍的球员都很外向合群，并且有良好的更衣室氛围，所有人都把你看作朋友。我认为德怀特就是这种想法。但当他面对现实时，他感到很不舒服，要克服这些困难，应对挑战是非常困难的。我认为他不愿意面对这些令人不安的挑战。”
+   </p>
+   <p>
+    现在霍华德对当年科比的做法表示理解并谈到：“每个人在不同的时间段成熟度不同。我想我当时还没有达到他那种成熟度。现在我非常感激他当时能那样对我说，谢谢你，科比。直到现在我才明白你的良苦用心。”
+   </p>
+   <p>
+    在之前的一笔交易里，灰熊将CJ-迈尔斯送到奇才得到霍华德。但根据此前消息报道，灰熊计划裁掉德怀特-霍华德。
+   </p>
+   <p>
+    2018-19赛季常规赛，霍华德仅代表奇才出场9次，场均出战25.6分钟得到12.8分9.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

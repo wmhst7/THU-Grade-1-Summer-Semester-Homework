@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  旅行怀旧日！巴特勒社媒回顾里约热内卢之旅
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B060l7vBwcu/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 08:46:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="旅行怀旧日！巴特勒社媒回顾里约热内卢之旅" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/95e89e7c53a27ce474aa3cb4a38e246e6f0d22d9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 迈阿密热火队前锋吉米-巴特勒今天在个人Instagram上传了一组自己的旅行照（见新闻配图）。
+   </p>
+   <p>
+    “旅行怀旧日，巴西里约热内卢（用西班牙语拼写的），这就是我们巴西人如何拼写它的。”巴特勒写道。
+   </p>
+   <p>
+    本赛季休赛期，巴特勒在一笔多方交易中先签后换被76人交易至热火。2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/08/68dde9eced47434acdcc195dd19d645c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/08/41086dadb6919d504743e16c18418ddd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/08/1b9b4966937087067bab7b7c680bb602.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/08/f484ad307a77c7e941b8b7d8e6f7534b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/08/bec2bdd6a2729a345207e469031d6f24.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/08/5909bb035b6349a97dc20ea491312c2f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

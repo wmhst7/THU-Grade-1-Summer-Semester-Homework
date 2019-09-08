@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王官方晒趣图展示沃克对福克斯盛赞：他的速度令人发指
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1riCF8nnNg/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 10:29:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王官方晒趣图展示沃克对福克斯盛赞：他的速度令人发指" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/19c9dced24bb146e21f92ee6c33f618d4b736201.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今天，国王官方更新了社交媒体Instagram晒出一张趣图，展示了凯尔特人后卫肯巴-沃克对国王后卫达龙-福克斯的赞赏。
+   </p>
+   <p>
+    图中写道：“这太疯狂了，他跑全场的速度真的令人发指，他很快就会成为全明星。”
+   </p>
+   <p>
+    “没有说谎。”国王官方配文道。
+   </p>
+   <p>
+    今夏，肯巴-沃克和达龙-福克斯一起入选了美国男篮训练营，但最后福克斯因个人原因退出了本届美国男篮国家队训练营。
+   </p>
+   <p>
+    2018-19赛季常规赛，福克斯场均上场31.4分钟，可以得到17.3分3.8篮板7.3助攻1.64抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/10/2ed8e336f99d6d0f924ead1df5f2adb6.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

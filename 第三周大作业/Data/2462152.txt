@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波维奇：上赛季我每天都在考虑美国男篮的事情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/rumors/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 10:08:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波维奇：上赛季我每天都在考虑美国男篮的事情" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/33e9fe1de118775f92227a064b8548b526ba4074.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 当地时间今天，美国男篮世界杯训练营完成了他们此次拉斯维加斯集训的首次训练。训练结束之后，美国男篮主教练（马刺现任主教练）格雷格-波波维奇接受了NBA记者Brian Windhorst的采访。
+   </p>
+   <p>
+    “我们的责任不仅仅只是要成为我们所能成为的最棒的队伍，我们还代表着美国，我们代表了很多人。我们担负着很大的责任，不仅仅只是用一种很优雅的方式去代表着这个国家，我们还要延续美国男篮在过去12年里取得的成就。”波波维奇说道。
+   </p>
+   <p>
+    在这次拉斯维加斯集训开始之前，包括詹姆斯-哈登、安东尼-戴维斯等NBA球员都退出了本届男篮世界杯训练营。此外，包括达龙-福克斯、乔-哈里斯等球员也从预备队被征召到预选队当中。
+   </p>
+   <p>
+    在谈到这一点时，波波维奇说道：“我现在只关心在这里的人，我已经拥有了由一群不错的家伙组成的团队，我们会尽我们所能地做到最好。这是将一群家伙凝聚到一起的最让人满意的形式，他们之间团结友爱，只有这样我们才能成为一支可以击败那些欧洲强队的队伍。”
+   </p>
+   <p>
+    在谈到自己的教练工作时，波波维奇说道：“我们已经习惯于压力以及那些事情了，但是我能说的就是在上个赛季我没有一天不在考虑美国男篮的事情，我会考虑让队员们做什么，教练组成员应该有哪些？这些都在我的脑子里，那段时间感觉就像是我的脑子里同时有两支球队，老K教练（美国男篮前任主教练）已经做了12年了，我也想尝试能不能像他一样。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

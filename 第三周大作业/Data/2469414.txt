@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波什晒出08年奥运会夺冠瞬间：不敢相信已经过去了十年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1mE45XpfQa/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 17:47:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波什晒出08年奥运会夺冠瞬间：不敢相信已经过去了十年" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/ff1efdb899a8509578e0e6908cabe23189ce7bb1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 2019FIBA男篮世界杯还有不到五天的时间即将在中国举行。
+   </p>
+   <p>
+    今日，前NBA球星克里斯-波什更新了个人社交媒体Instagram晒出2008年北京奥运会美国男篮梦之队赛场照以及夺冠庆祝现场照（见新闻配图）。
+   </p>
+   <p>
+    并发文感叹道：“我简直不能相信距离这一时刻已经过去了十年了，我们组成了一个很出色的团队，我最美好的记忆之一就是在自己的职业生涯期间把奥运金牌带回了家。”
+   </p>
+   <p>
+    2008年北京奥运会男篮决赛，美国梦八队以118-107战胜由保罗-加索尔带领的西班牙男篮夺得当年奥运会金牌。当时代表美国男篮出征奥运会的NBA球员包括，科比-布莱恩特、勒布朗-詹姆斯、卡梅罗-安东尼、德维恩-韦德、克里斯-波什、克里斯-保罗等众球员。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/17/f4f9b8c0d378507b6dd90b299e850a10.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/17/e71327a9147e7192036574bb7e7c8daa.png"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：四肢不发达的萌萌)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

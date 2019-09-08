@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  时尚潮男！穆迪埃更新社交媒体Instagram晒出帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B07KAAggELi/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 10:16:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="时尚潮男！穆迪埃更新社交媒体Instagram晒出帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/6c87b7bb69caf95149d6b2acdd1f6e5dcbea6556.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 今日，爵士队球员伊曼纽尔-穆迪埃更新自己的个人社交媒体Instagram晒出自己的帅照。（见新闻配图）
+   </p>
+   <p>
+    穆迪埃配文道：“当你不想看镜头，还希望拍出来好看时。”
+   </p>
+   <p>
+    此前据NBA记者Adrian Wojnarowski报道，穆迪埃与爵士达成一份一年底薪合同的加盟协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，穆迪埃场均出场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/10/d46ac02353cb1ad1583d0efe523a506e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/10/aceabfebf18b7dbda3b4e3dde5941b47.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奥利尼克右膝盖骨撞伤，将缺席今夏世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/heat/news/kelly-olynyk-injury-update?utm_medium=social&amp;utm_source=twitter_heat&amp;utm_campaign=heatdotcom_pressrelease" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 08:04:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奥利尼克右膝盖骨撞伤，将缺席今夏世界杯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/a49cf1f8e8b079bc9a0961aae7856ade536ac8b7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 热火官方今日宣布，核磁共振检查结果显示凯利-奥利尼克右膝盖骨撞伤，在之前加拿大男篮与尼日利亚男篮的热身赛里，奥利尼克受伤。
+   </p>
+   <p>
+    奥利尼克今夏不会再继续代表加拿大男篮出战，预计会在NBA新赛季开始时做好打球准备。
+   </p>
+   <p>
+    2018-19赛季常规赛，奥利尼克在热火场均出战22.9分钟可以拿到10分4.7篮板1.8助攻0.7抢断0.5盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

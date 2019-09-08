@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：丹尼-格林2年3000万加盟湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1147389514366824448" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 14:19:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：丹尼-格林2年3000万加盟湖人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/5b51a77c37275fbcbbb0e8be6aefc7957afe6634.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据The Athletic记者Shams Charania报道，消息人士透露，丹尼-格林将加盟湖人。
+   </p>
+   <p>
+    此前前锋科怀-伦纳德加盟快船，丹尼-格林在社交媒体上对其表示了祝贺，并宣布自己随后将决定下家。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，消息人士透露，丹尼-格林与湖人签下的是一份2年3000万美元的合同。
+   </p>
+   <p>
+    丹尼-格林刚刚度过他的32岁生日，2018-19赛季常规赛，格林场均出战27.7分钟可以拿到10.3分4篮板1.6助攻，并帮助猛龙夺得了总冠军。
+   </p>
+   <p>
+    在签下丹尼-格林之后，湖人还有大约1500万左右的薪资空间。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

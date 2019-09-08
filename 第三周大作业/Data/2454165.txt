@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  洛瑞：我期待明年继续参加美国高尔夫名人锦标赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz7aX-EFPQR/?igshid=3k5ccw92otp9" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 15:23:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="洛瑞：我期待明年继续参加美国高尔夫名人锦标赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/13a302af8daf6ad2e589a3c3d1b1303751d7c8a0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日猛龙后卫凯尔-洛瑞更新了自己的Instagram动态，晒出了自己今日参加高尔夫美国名人世纪锦标赛的一组照片。
+   </p>
+   <p>
+    “第二年参加美国名人世纪锦标赛，又是一个难忘的周末！我真的十分享受这个活动，以及美丽的塔霍湖。我的高尔夫必须打得更好，但是我已经准备好理由了（哭笑不得的表情）！谢谢你，美国名人世纪锦标赛，你总是让我度过一段不错的时光！我期待明年继续参赛！”洛瑞写道。
+   </p>
+   <p>
+    美国名人世纪锦标赛是一项在美国内华达州举办的高尔夫赛事，举办日期为7月的第二个完整周的周末。这项赛事开始于1990年，至今已经举办了近30年。
+   </p>
+   <p>
+    2018-19赛季常规赛，洛瑞场均上场34.0分钟，得到14.2分4.8篮板8.7助攻1.4抢断，季后赛场均上场37.5分钟，得到15.0分4.9篮板6.6助攻1.29抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/e554790440d72c2770d04247f0a14ab5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/6422bb33e58bbbae2b006d30d0ca53db.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/7f30bc9c992992836a8277c234bcdb93.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/e16a3047918b68cb70ad21a4fcb59225.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/196b7f6c73aa17e168f2674dd2405fa3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/c94ec27188841449508dafe1947cef0c.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/ea80ace04f5671ccb1dd5e91ad49446c.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/15/0cf02c81a6669d79eaf1b942568926fd.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

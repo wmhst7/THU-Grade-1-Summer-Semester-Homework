@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：步行者签约亚卡尔-桑普森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/pacers/news/pacers-sign-jakarr-sampson" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 06:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：步行者签约亚卡尔-桑普森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/d5c068aed71d2bdf4ada50e0f3af05bf6ed7ff48.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 步行者官方今日宣布，他们已经签下了自由球员亚卡尔-桑普森。
+   </p>
+   <p>
+    根据之前The Athletic记者Shams Charania报道，步行者与桑普森达成了一份底薪合同。
+   </p>
+   <p>
+    2018-19赛季，桑普森在CBA的山东队打球，随后与公牛在赛季末签下了一份10天短合同，代表公牛上场4次，场均上场31.8分钟，得到20分8篮板1助攻1抢断。
+   </p>
+   <p>
+    NBA职业生涯至今，桑普森为公牛、国王、掘金和76人出战过，打过173场常规赛，场均出战16分钟可以拿到5.5分2.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

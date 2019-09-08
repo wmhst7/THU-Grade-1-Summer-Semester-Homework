@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：国王正式裁掉弗兰克-梅森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/kings/blog/kings-waive-frank-mason-iii" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 02:14:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：国王正式裁掉弗兰克-梅森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/4db22d2d2bd02f023644d0d024ae39a91a94502d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日国王官方宣布，球队正式裁掉后卫弗兰克-梅森。
+   </p>
+   <p>
+    梅森在2017年夏天与国王签下了一份3年418万美元的合同，其中2019-20赛季的薪水为无保障的162万美元，在2019年10月15日之后他的第三年合同将转为全额保障。
+   </p>
+   <p>
+    2018-19赛季常规赛，梅森共上场38次，场均上场11.4分钟，得到5.1分1.1篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

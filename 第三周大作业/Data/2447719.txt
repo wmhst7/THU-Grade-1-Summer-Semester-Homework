@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：灰熊将不会为泰勒-多西提供资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1144278483096559616" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 00:20:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：灰熊将不会为泰勒-多西提供资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/947ada894d1d279f6eef481c6f6870862ae34de0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，灰熊将不会为后卫泰勒-多西提供资质报价合同，后者将成为完全自由球员。
+   </p>
+   <p>
+    根据Woj报道，灰熊对于多西回归球队的可能性持开放态度。
+   </p>
+   <p>
+    2018-19赛季常规赛，多西场均上场14.5分钟，得到6.2分2.3篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

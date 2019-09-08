@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕特森晒新婚照：因为你永远属于我，我才是最幸运的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1pSmvhF57D/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 10:23:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕特森晒新婚照：因为你永远属于我，我才是最幸运的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/e3dd508fe95149bc0317d127b32afbad83c8c7c7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 刚与快船签约的帕特里克-帕特森今早在自己的Instragm上晒出了与自己妻子的婚礼照片，并写道："使你的梦想成真，也是我一直想实现的梦想，知道你将永远属于我，我是最幸运的人。”除了收到各界的祝福外，诺曼-鲍威尔、凯尔-洛瑞、特伦斯-罗斯等众多NBA球员均出席了帕特森的婚礼。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2469189.html">
+     潇洒帅气！鲍威尔晒在帕特森婚礼上的合照&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2469176.html">
+     老友重聚！特伦斯-罗斯晒和前队友参加帕特森婚礼照片&gt;&gt;
+    </a>
+   </p>
+   <p>
+    2018-19赛季效力于雷霆队的帕特里克-帕特森场均出场13.7分钟，拿下3.6分，2.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：四肢不发达的萌萌)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

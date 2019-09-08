@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热身赛准备！NBA官推晒出球员入场及更衣室照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA/status/1159987228178669568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 08:50:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热身赛准备！NBA官推晒出球员入场及更衣室照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/cca813c3bdabbda0202f644387aefbaafa0aad55.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 北京时间今日10:00，世界杯热身赛美国男篮队内赛即将开始。
+   </p>
+   <p>
+    NBA官方推特晒出球员入场及更衣室照片，并配文：“十点钟记得来看美国男篮的蓝白对抗赛！”
+   </p>
+   <p>
+    虎扑将对本场比赛进行文字直播。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5uamzfc6bj21af1kwgxg.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5uan0iltqj21801kwtj0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5uamzs5coj20v714tn15.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5uanm7uvbj214h1kw47s.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

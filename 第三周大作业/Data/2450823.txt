@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德与乔治本周早些时候有过会面，快船一直是领跑者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147393454617575424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 14:44:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德与乔治本周早些时候有过会面，快船一直是领跑者" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/cc48ed1c330997668a34c81a70888adced257989.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，科怀-伦纳德和保罗-乔治在本周早些时候在洛杉矶进行过一次会面，而快船一直以来都领跑伦纳德争夺战，但是如果快船没有能够交易得到乔治，伦纳德也不太可能会与快船签约。快船几乎已经认为伦纳德会成为湖人的第三巨头了，他们知道自己别无选择，于是完成了与雷霆的交易，得到保罗-乔治。
+   </p>
+   <p>
+    伦纳德并不想加入湖人的超级球队，他想要在快船与另一个球星一起合作打球。并且在与快船的会面中，他告诉快船老板史蒂夫-鲍尔默，你们得到乔治，我就加入快船。
+   </p>
+   <p>
+    根据此前的报道，伦纳德同意加盟快船，4年1.42亿的超级顶薪签约快船；随后，快船用谢伊-吉尔杰斯-亚历山大、达尼罗-加里纳利、4个无保护的首轮签，1个受保护的首轮签和2个选秀权互换的权利，从雷霆交易得到保罗-乔治。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

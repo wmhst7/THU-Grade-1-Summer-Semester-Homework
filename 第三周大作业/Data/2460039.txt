@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约什-史密斯更新社交媒体，晒出自己BIG3赛场照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0jTEvaH77C/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 10:52:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约什-史密斯更新社交媒体，晒出自己BIG3赛场照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/0bb8aaf97fa2aae31de8640ee44f66e92fd06188.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日，前NBA球员约什-史密斯更新社交媒体Instagram，晒出自己在BIG3赛场照片（见新闻配图）。
+   </p>
+   <p>
+    “持续施压并且保持谦虚。”他写道。
+   </p>
+   <p>
+    在NBA职业生涯中，史密斯出战过894场常规赛，场均上场32.4分钟，能够得到14.5分7.4篮板3.1助攻1.2抢断和1.9盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/71312f565af501052b8d8a32f1e8092f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

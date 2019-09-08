@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克：塔特姆和布朗是我加盟凯尔特人的主因
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/celtics-news-kemba-walker-explains-how-jayson-tatum-jaylen-brown-influenced-his-decision-to-sign-with-boston/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 11:42:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克：塔特姆和布朗是我加盟凯尔特人的主因" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/46e39626be6dd0d594e348a91497d734c280345a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 近日，凯尔特人新援肯巴-沃克接受了媒体采访。他透露杰森-塔特姆和杰伦-布朗是他今夏选择加盟凯尔特人的主要原因。沃克表示，他想要与品德高尚的球员一起打球，而塔特姆和布朗符合这一标准。
+   </p>
+   <p>
+    沃克对塔特姆表示了赞赏，称塔特姆在21岁这个年纪表现得非常成熟。他透露他和塔特姆一起呆在巴黎时，塔特姆招募了他，但塔特姆并未直截了当地让沃克来凯尔特人。
+   </p>
+   <p>
+    沃克在采访中对记者说道：“他只字未提让我加入凯尔特人的事。他说的话更多是关于波士顿这座城市，那里的球迷以及氛围，主教练史蒂文斯，以及队内一些球员的事，以及上赛季的情况是怎么样的。”
+   </p>
+   <p>
+    沃克还透露，自己曾在两年前与杰伦-布朗一起在非洲呆了一段时间。在这段时间里，他看到了杰伦-布朗是一个非常接地气的人。沃克还说，布朗是个好人，是他理想的队友。
+   </p>
+   <p>
+    根据此前的报道，沃克已经与凯尔特人达成了一份4年1.41亿美元的签约协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。塔特姆场均上场31.1分钟，得到15.7分6.0篮板2.1助攻1.06抢断。杰伦-布朗场均上场25.8分钟，得到13分4.2篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

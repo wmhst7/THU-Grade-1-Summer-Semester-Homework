@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方发布杜德利和丹尼尔斯参观训练馆照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1150810129865957376?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 06:29:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方发布杜德利和丹尼尔斯参观训练馆照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/0084cde64b67c9009001dee1cf1f7cda57bb2319.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 湖人官方推特今日发布一张球队前锋贾里德-杜德利此前参观球队训练馆时的照片，并发布了今日特洛伊-丹尼尔斯来到球队训练馆接受采访的照片。
+   </p>
+   <p>
+    “注视着奖赏。”湖人官方对杜德利的照片配文道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/06/171b23d4bed9a14ba8bb03242f78fcab.jpeg"/>
+   </p>
+   <p>
+    “@特洛伊-丹尼尔斯 正在以首次参观湖人总部的方式度过他的生日。”湖人官方写道。此前湖人官方也发图祝福丹尼尔斯28岁生日快乐。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190716/06/e21a4369f153f13217e687aaebcffe16.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

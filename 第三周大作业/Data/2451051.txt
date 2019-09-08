@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术裁掉中锋季莫费-莫兹戈夫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JoshuaBRobbins/status/1147569311667515393" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 06:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术裁掉中锋季莫费-莫兹戈夫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/64256a5e1a1daddfd9bf93770d5b51f12320c169.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 根据The Athletic记者Josh Robbins的报道，魔术已经裁掉了中锋季莫费-莫兹戈夫。
+   </p>
+   <p>
+    莫兹戈夫2019-20赛季薪水1670万美元，如果魔术使用延伸支付条款裁掉莫兹戈夫的话，那么分三个赛季支付莫兹戈夫新赛季的薪水可以让魔术理论上有足够的薪资空间续约肯-伯奇。
+   </p>
+   <p>
+    因为膝伤莫兹戈夫2018-19赛季未代表过魔术出战过。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

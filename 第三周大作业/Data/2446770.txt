@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  路威打趣三度获得最佳第六人：再多也不嫌多，对吧？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBAonTNT/status/1143336065987518464" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:28:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="路威打趣三度获得最佳第六人：再多也不嫌多，对吧？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/572a9722802217a4829ece8a83e811545d35f442.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 2019NBA颁奖典礼正在进行当中，快船球员路易斯-威廉姆斯获得了最佳第六人，职业生涯第三次获得该奖项。随后，威廉姆斯发表了获奖感言。
+   </p>
+   <p>
+    “这个奖再多也不嫌多，对吧？”威廉姆斯笑着说道。
+   </p>
+   <p>
+    “我要向我的队友蒙特雷兹（哈勒尔）致敬，我想要和他分享这一刻。还有道格（里弗斯）、史蒂夫（鲍尔默），我要向你们致敬，你们打造了一支我可以称之为家的球队。我要感谢我的队友们，他们尊重我的表现，让我能够打出高水准。我还要感谢我的家人朋友，我的团队，他们让我没有后顾之忧，能够安心上场打球。”威廉姆斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

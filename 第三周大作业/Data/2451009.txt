@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：威少方面正和普莱斯蒂讨论未来，包括将其交易可能性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147572442593992704" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 02:28:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：威少方面正和普莱斯蒂讨论未来，包括将其交易可能性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/6603db939c3fac6390845c5db6b123afbb8249ce.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据著名NBA记者Adrian Wojnarowski报道，消息源透露，雷霆球员拉塞尔-威斯布鲁克与其经纪人Thad Foucher正和雷霆总经理萨姆-普莱斯蒂积极讨论下一步计划，这其中，包括在今年夏天将威斯布鲁克交易的可能性。
+   </p>
+   <p>
+    消息人士表示，威斯布鲁克与雷霆一共有11年的合作，而现在双方都明白，是探索威少交易可能性的时候了。保罗-乔治被送到快船，谢伊-吉尔杰斯-亚历山大这样的新鲜血液的到来也标志着雷霆阵容开始走向重塑。
+   </p>
+   <p>
+    Woj在文章中写到，在雷霆目前竞争力可能并不够强的情况下，留下威斯布鲁克剩余4年1.7亿的合同可能不再明智。雷霆可能仍会重新调整阵容，围绕威斯布鲁克和史蒂夫-亚当斯继续打造有竞争力的阵容，但这看起来可能性不大，雷霆目前需要缴纳4300万美元的奢侈税，在乔治被交易走之前，他们已经处于缩减成本的模式中，而现在他们只会加速这一进程。
+   </p>
+   <p>
+    威斯布鲁克2017年9月以5年2.05亿美元提前续约，2023年他的合同将到期，2022-23赛季为球员选项，他目前剩余的合同为4年约1.7亿美元。
+   </p>
+   <p>
+    威斯布鲁克2008年首轮第4顺位被雷霆选中，职业生涯一直效力于雷霆，生涯至今，他常规赛场均出场34.5分钟，得到23分7篮板8.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

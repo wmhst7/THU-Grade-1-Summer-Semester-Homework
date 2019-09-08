@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：骑士与活塞完成交易，得到新秀凯文-波特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/cavs/status/1144055946500608003?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 09:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：骑士与活塞完成交易，得到新秀凯文-波特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/65c39fa6aa60d5f1b5bd221fc6d30409c5230e17.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 骑士官方今日宣布，他们已经与活塞完成交易，正式得到今年30号新秀后卫凯文-波特的签约权。骑士为此付出了2020年来自爵士的次轮签、2021和2023年来自开拓者的次轮签、2024年来自热火的次轮签（受保护）以及现金。凯文-波特在此前的选秀大会中起初被雄鹿在第30顺位选中。
+   </p>
+   <p>
+    此前活塞已经官方宣布他们正式完成与雄鹿的交易，送出乔恩-洛伊尔，得到托尼-斯内尔以及本届30号新秀凯文-波特的签约权。
+   </p>
+   <p>
+    据《克利夫兰老实人报》记者Chris Fedor报道，消息人士透露，骑士为了从活塞交易得到30号签选中后卫凯文-波特所付出的具体筹码如下：2020年来自爵士的次轮签，2021年和2023年来自开拓者的次轮签，2024年来自热火的次轮签（只有顺位落在第55位至60位之间才能得到）。骑士同时付出了500万美元的现金。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

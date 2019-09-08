@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科兰杰洛：怀特的表现令人印象深刻，他是一位独特的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tom_orsborn/status/1159629262208610304" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 09:14:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科兰杰洛：怀特的表现令人印象深刻，他是一位独特的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/0f2bdf34f18b6c8d0b87aef575ee7abe5bde564f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 美国男篮总经理杰里-科兰杰洛在近日接受媒体采访时谈到了马刺球员德里克-怀特。
+   </p>
+   <p>
+    据此前的相关报道，怀特将受邀参加美国男篮在洛杉矶的集训，他和国王球员马文-巴格利正被认真考虑召入美国男篮15人大名单。
+   </p>
+   <p>
+    “我认为怀特的表现非常非常出色，他的经历是多么精彩，当你回顾他一路走来的历程，他是一位非常独特的球员，能够稳步提升自己，他的抛投很有趣，同时也是一位出色的传球手，他在场上很‘狡猾’，他的表现令人印象深刻。”科兰杰洛说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

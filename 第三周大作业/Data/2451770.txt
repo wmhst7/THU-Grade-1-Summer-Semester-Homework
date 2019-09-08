@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  康利打趣：过去担心传空接小加索尔接不到，但戈贝尔不同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tribjazz/status/1148361740914085888" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 06:54:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="康利打趣：过去担心传空接小加索尔接不到，但戈贝尔不同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/6ee466393184a1273de29def0d5832ede2caaf98.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今天，爵士新援迈克-康利参加了新闻发布会，接受了记者的采访。
+   </p>
+   <p>
+    谈到被灰熊交易到爵士，康利说：“一开始我有点伤感，我就是坐在那里，开始回想过去的这些年。然后大概坐了20分钟，之后我开始想到所有加入爵士后可能会发生的事情，然后我变得超级激动。”
+   </p>
+   <p>
+    谈到和鲁迪-戈贝尔一起打球，康利打趣说：“这会需要我做出一些调整。马克-加索尔过去总让我给他传空接，但我不觉得他能跳那么高，所以我不是很听他的。但戈贝尔在接空接方面是完全不同的一个球员，就像一只野兽。”
+   </p>
+   <p>
+    谈到和丹特-埃克萨姆号码重叠（康利过去穿11号），康利说：“（在交易后）我立刻联系了他，让他知道我会改变球衣号码，这样他就不必有什么压力。”
+   </p>
+   <p>
+    此外，康利表示自己还没有问过主教练奎因-斯奈德能否戴头带。
+   </p>
+   <p>
+    “我还没问！我有点怕这么做——我会先等一段时间。如果不能戴，我也没关系。”
+   </p>
+   <p>
+    康利2007年首轮第4顺位被灰熊选中，之后一直效力到灰熊到2018-19赛季。职业生涯至今，康利共代表灰熊出战788场常规赛，场均32.6分钟可以得到14.9分3.0篮板5.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

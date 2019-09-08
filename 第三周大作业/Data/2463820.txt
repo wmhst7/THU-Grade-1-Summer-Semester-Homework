@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔特姆：我们的表现有可提升空间，控制犯规对我们很重要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1160038535295930368" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 12:31:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔特姆：我们的表现有可提升空间，控制犯规对我们很重要" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/861ee2dd834ac28ffac7e46574f6f17eec9d5470.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 在今日结束的美国男篮热身赛中，美国蓝队以97-78击败白队，赛后，蓝队球员杰森-塔特姆在场边接受了媒体采访。
+   </p>
+   <p>
+    谈到身穿美国男篮球衣出战的感受，塔特姆说：“这是梦想成真，能够代表着你的国家出战，以国际水准去竞争，为Pop（格雷格-波波维奇）和史蒂夫-科尔这样的家伙打球，与如此多出色的球员同场竞技，你知道的，我才21岁，我就是很高兴能够来到这里。”
+   </p>
+   <p>
+    谈到今天蓝队的表现，塔特姆说：“我们能够表现得更好，你知道的，我们仅仅磨合了三四天时间，我们的表现还算不错，但我很确信Pop会认为我们有大量的可提升空间，所以我们会继续回去工作。”
+   </p>
+   <p>
+    谈到球队需要提升哪些方面的表现，塔特姆说：“我们的犯规太多了，我们不能在国际赛场上拿出这样的表现，因为对手的技术很出色，他们肯定能够命中罚球，所以控制犯规对我们很重要。”
+   </p>
+   <p>
+    本场比赛，塔特姆得到了17分4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

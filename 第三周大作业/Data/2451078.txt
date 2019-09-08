@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在与湖人达成续约前，卡鲁索收到了来自勇士的强烈兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ramonashelburne/status/1147669836975099904?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 08:57:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在与湖人达成续约前，卡鲁索收到了来自勇士的强烈兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/3e97e807ffdb9cacdc36dac3a328f667dbdac6f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据NBA记者Ramona Shelburne报道，在与湖人达成两年550万美元的续约协议之前，控卫亚历克斯-卡鲁索收到了来自勇士的强烈兴趣。
+   </p>
+   <p>
+    据NBA记者Ohm Youngmisuk报道，湖人内部很喜欢卡鲁索，并认为他可能将担任相比本赛季更加重要的替补角色。
+   </p>
+   <p>
+    湖人此前为卡鲁索提供了资质报价，使他成为一名受限制自由球员，湖人可以匹配任何针对他的报价。
+   </p>
+   <p>
+    2018-19赛季，卡鲁索共出战了25场比赛，场均上场21.2分钟得到9.2分2.7个篮板3.1次助攻1次抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

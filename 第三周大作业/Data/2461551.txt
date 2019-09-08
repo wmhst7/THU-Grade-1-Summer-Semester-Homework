@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃内斯-坎特今日更新社媒晒出身着凯尔特人球衣定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0ubbGsFggi/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 11:46:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃内斯-坎特今日更新社媒晒出身着凯尔特人球衣定妆照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/1370e3cdc0372a47c03268f9b0aadc25849c1ef0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 今日，凯尔特人球员埃内斯-坎特更新个人社交媒体Instagram，晒出自己身着凯尔特人11号球衣的定妆照（见新闻配图）并配文了一个三叶草表情。
+   </p>
+   <p>
+    根据此前报道，坎特与凯尔特人达成了2年1000万美元的协议，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特代表开拓者上场23场，场均上场22.3分钟，得到13.1分8.6篮板1.4助攻；季后赛出场28.8分钟，得到11.4分9.6篮板1.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190804/11/098572b1e55b33a26eff81b7792c6e39.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

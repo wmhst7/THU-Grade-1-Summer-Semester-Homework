@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔治：能够每晚都看到父母在场边支持我感觉很特别
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rachel__nichols/status/1154272167019913216?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 19:00:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔治：能够每晚都看到父母在场边支持我感觉很特别" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/193b1ca0f2f5cd2897e2f67063f4ab07129dfd4b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 快船新援保罗-乔治与科怀-伦纳德今日一同接受了NBA记者Rachel Nichols的专访，谈及加盟快船的一些话题。
+   </p>
+   <p>
+    谈到回归家乡打球的感受，乔治说：“这对我意味着许多，我的父母自从我小时候起就一直前来观看我的所有比赛，每一场都不落下。当我在弗雷斯诺（乔治曾效力于NCAA加利福尼亚州立大学弗雷斯诺分校）打球时，每到比赛日他们都会开三个小时的车来看我比赛，他们无比支持我。因此我认为到了我生涯的当前阶段，这是我对他们的回馈，这样他们可以延续最初的习惯，观看我的每场比赛，到场支持我。他们清楚我对于回到家乡的热爱，能够每晚都看到他们，这种感觉很特别，无论从任何方面来看都是如此。”
+   </p>
+   <p>
+    谈到对于球队风格的展望，伦纳德说：“在攻防两端努力投入，打球无私，为了胜利倾其所有。你们肯定会看到我们在防守端展开竞争。”
+   </p>
+   <p>
+    乔治则表示：“坚韧和强硬。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

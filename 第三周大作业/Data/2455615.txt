@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人将会与贾文特-格林签下部分保障合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TimBontemps/status/1151950445755215873" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 05:00:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人将会与贾文特-格林签下部分保障合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/85fc866991af0b4f19dd62a4cc89b5cc9c5a449b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 根据NBA记者Tim Bontemps报道，多位消息人士透露，凯尔特人将会与贾文特-格林签下一份部分保障合同。
+   </p>
+   <p>
+    在今年的拉斯维加斯夏季联赛上，格林代表凯尔特人出战，场均上场22.6分钟，得到10.8分4.8篮板2.8助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

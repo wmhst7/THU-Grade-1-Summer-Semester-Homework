@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  心情大好！德维恩-韦德社交媒体晒与妻子合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzwo4l0nBnN/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 16:55:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="心情大好！德维恩-韦德社交媒体晒与妻子合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/2b29586e64bbd2fd1ad3fadb8dca265d0c996fb8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日，前NBA球员德维恩-韦德更新社交媒体Instagram，晒出自己与妻子出席ESPY颁奖礼照片（见新闻配图）。
+   </p>
+   <p>
+    “我们不是来玩的，我们是来屠杀的！”韦德写道。
+   </p>
+   <p>
+    根据此前报道，德维恩-韦德获得了由NBA球员工会颁发的“最受尊敬奖”。去年球员工会的“最受尊敬奖”获得者是文斯-卡特。
+   </p>
+   <p>
+    2018-19赛季，韦德共出战72场常规赛，场均出场26.2分钟，得到15分4篮板4.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/16/6dc99729af95c6c4910eb92a3cb4e4f0.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

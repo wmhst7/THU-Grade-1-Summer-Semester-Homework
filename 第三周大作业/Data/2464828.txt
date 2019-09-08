@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希伯特谈担任76人球员发展教练：我希望能够回馈年轻人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ClutchPointsApp/status/1161076128037031937" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 09:28:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希伯特谈担任76人球员发展教练：我希望能够回馈年轻人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/7ce3507f56b2b5ce0886e7f52c2292d7258797c8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 据The Athletic记者Shams Charania此前的相关报道，费城76人队将聘请前NBA球员罗伊-希伯特担任球员发展教练。希伯特在近日接受The Athletic记者Ben Standig采访时对此发表了自己的观点。
+   </p>
+   <p>
+    “实话实话，你知道的，我是17号秀（2008年NBA选秀大会），我曾两次入选全明星，曾打出过高水准。然后一些事情发生了改变，你必须努力去适应，你必须去拉开场上空间，”希伯特说道，“我曾赚到过不错的薪水，我现在拥有一个美满的家庭，我很满足，我现在只想成为一名教练，并且希望能够回馈年轻人。”
+   </p>
+   <p>
+    希伯特今年32岁，NBA职业生涯曾效力于步行者、湖人、黄蜂和掘金，共两次入选全明星。希伯特职业生涯共出战过662场常规赛比赛，场均出场24.8分钟，能够得到10.0分6.3篮板1.3助攻1.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

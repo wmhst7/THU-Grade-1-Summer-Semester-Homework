@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝莱因：温德勒的表现令人印象深刻，他能让队友变得更好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cleveland.com/cavs/2019/07/dylan-windlers-promising-debut-not-enough-cleveland-cavaliers-lose-salt-lake-city-summer-league-opener-97-89.html" target="_blank">
+     克利夫兰老实人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:06:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝莱因：温德勒的表现令人印象深刻，他能让队友变得更好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/0299c9ea45f594a4ecfe4689bede47fdb46b62ab.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 在今日结束的一场夏季联赛中，骑士89-97不敌马刺。赛后，骑士主教练约翰-贝莱因接受了媒体采访。
+   </p>
+   <p>
+    本场比赛，骑士首轮26号秀迪伦-温德勒出场30分钟，14投8中，三分球8投3中，得到19分6篮板3助攻2抢断。
+   </p>
+   <p>
+    谈到温德勒的表现，贝莱因说：“他的表现真的很不错，我在试图找到最好的使用他的方法，我希望我们能够激发他的全部潜能。他是那种能够让身边的每一个人都变得更出色的球员，他能够为队友拉开空间，能够及时传给处于空位的队友，他不会过多地运球，他会在合适的时机传球给合适的队友。训练营迄今，他的表现给我留下了深刻的印象。他今天得到了19分，我还不太清楚他的助攻数是多少，但显然他本应该得到更多助攻，我们有一些进攻终结不理想。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

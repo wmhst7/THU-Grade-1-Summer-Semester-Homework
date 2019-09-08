@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林：库兹马建了聊天群，勒布朗会谈论发生了什么
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShowtimeForum/status/1148758342384390144?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1148758342384390144&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Flakers-news-danny-green-a" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 12:37:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林：库兹马建了聊天群，勒布朗会谈论发生了什么" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/80c2872d983a2cb3ec8f84ac22660fb41b88ca97.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 湖人新援丹尼-格林在今日参加播客节目时谈到了新队友凯尔-库兹马和勒布朗-詹姆斯。
+   </p>
+   <p>
+    “作为一个年轻人，Kuz（库兹马）在球队中起到了领袖作用，他建了一个聊天群，确保队友之间能够知道对方的联系方式，以便在夏天也能保持联系。”格林说道。
+   </p>
+   <p>
+    “Bron（詹姆斯）会在群里及时地告诉我们发生了什么，他在整个过程之中起到了非常重要的作用，他使我保持了耐心。我们会在群里积极地交流，每个人的声音都会被听到。”格林接着说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

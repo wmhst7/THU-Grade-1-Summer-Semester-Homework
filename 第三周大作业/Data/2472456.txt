@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  努力去争！麦迪更新社媒晒出其指导小球员照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1942INl1R9/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 13:03:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="努力去争！麦迪更新社媒晒出其指导小球员照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190904/3ac28e3da899e4a99ff26b080d4c8c21e2faf26d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 今日，名人堂成员特雷西-麦克格雷迪更新了个人社交媒体Instagram晒出自己指导训练营小球员的照片（见新闻配图）。
+   </p>
+   <p>
+    “领导力是要靠自己赚来的，不是天生的！”他写道。
+   </p>
+   <p>
+    麦迪职业生涯常规赛场均出场32.7分钟，可以得到19.6分5.6篮板4.44助攻1.21抢断0.86封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：二轮秀文科生)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

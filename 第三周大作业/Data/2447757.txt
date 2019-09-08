@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  考比-卡尔和迈尔斯-西蒙会执教湖人夏季联赛队伍
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NotoriousOHM/status/1144370218321379328" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:31:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="考比-卡尔和迈尔斯-西蒙会执教湖人夏季联赛队伍" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/8d8acc538bcd2849bcd47f31c096a5d4631d0551.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据NBA记者Ohm Youngmisuk的报道，考比-卡尔会执教湖人在萨克拉门托的夏季联赛队伍，球队助教迈尔斯-西蒙会执教湖人在拉斯维加斯的夏季联赛队伍。
+   </p>
+   <p>
+    考比-卡尔是湖人在发展联盟的附属球队南湾湖人队的主帅，他是NBA名帅乔治-卡尔的儿子。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士曾与勇士商讨过关于伊格达拉的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisFedor/status/1150032102399889409" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 08:44:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士曾与勇士商讨过关于伊格达拉的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/e22523446f8e0eca1473486e0a4c50a2b4d383f8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据《克利夫兰老实人报》记者Chris Fedor的报道，多位消息人士透露，骑士之前与勇士商讨过关于安德烈-伊格达拉的交易。
+   </p>
+   <p>
+    骑士想送走JR-史密斯部分受保障的合同来与勇士达成交易，史密斯新赛季1560万美元的合同只有437万美元受保障。
+   </p>
+   <p>
+    最终，勇士将伊格达拉送到了灰熊，并且在交易里向灰熊送出了现金和一个未来受保护的选秀权。
+   </p>
+   <p>
+    多位消息人士透露，骑士在与勇士商讨交易时要求得到一个受保护程度对勇士更有利的选秀权，但是勇士也没有接受，因为史密斯合同里仍然有437万美元受保障，这对勇士来说看起来是一个问题。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

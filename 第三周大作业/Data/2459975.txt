@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱社交媒体晒复健训练照：罗马不是一天建成的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/klaythompson/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 08:47:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱社交媒体晒复健训练照：罗马不是一天建成的" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/d858ddf986ac6e281aa861d6f572b16db3de7bf4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日，勇士后卫克莱-汤普森更新个人社交媒体Instagram，发布了一张自己抱着篮球进行恢复性训练的照片。
+   </p>
+   <p>
+    克莱配文：“罗马不是一天建成的！一起加油！”
+   </p>
+   <p>
+    汤普森在2018-19赛季总决赛对阵猛龙的第六场比赛中遭遇左膝十字韧带撕裂，预计恢复时间为5-7个月。此前勇士官方宣布，球队已经与汤普森签下了一份5年1.9亿美元的续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，汤普森场均上场34.0分钟，得到21.5分3.8篮板2.4助攻1.08抢断。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5iqclffh9j20rs1dddon.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

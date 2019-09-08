@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波普：我会帮助其他人实现梦想，行善事，热爱身边其他人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzL8-tnFMSW/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 14:13:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波普：我会帮助其他人实现梦想，行善事，热爱身边其他人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/e2c4426910e5e96f4c5bcbc20232b739b36301ab.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 前日，NBA常规赛颁奖典礼顺利举行，最终圆满闭幕。在颁奖典礼上，奇才球员布拉德利-比尔荣膺年度社区关怀奖。
+   </p>
+   <p>
+    今日，湖人球员肯塔维厄斯-考德威尔-波普更新了个人社交媒体Instagram晒出自己与妻子在颁奖典礼与奇才球员布拉德利-比尔及其女友的合影（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“成为一名NBA球员的梦想，我已经实现了。同时，这也是个机会，来到这个平台从而去帮助其他人去实现他们的梦想。我很荣幸能够和我的家人一起参加这次颁奖典礼，庆祝那些对他人提供帮助的人获得奖项。这鼓舞着我去贡献更多和变得更好。行善事，热爱你身边的人，一起前进吧！”
+   </p>
+   <p>
+    2018-19赛季常规赛，波普场均出场24.8分钟，可以得到11.4分2.9篮板1.3助攻0.89抢断；比尔场均出场36.9分钟，可以得到25.6分5.0篮板5.5助攻1.48抢断0.71封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

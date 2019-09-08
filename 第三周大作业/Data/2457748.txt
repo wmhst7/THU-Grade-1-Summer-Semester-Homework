@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔谈戴维斯要求被交易：你签了合同，就应该履行合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/warriors-coach-steve-kerr-says-anthony-davis-lakers-saga-bad-nba?tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 08:00:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔谈戴维斯要求被交易：你签了合同，就应该履行合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/31f92694a2e2b419b8ef07f364ccf81b39c9e535.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 勇士主教练史蒂夫-科尔谈到了安东尼-戴维斯要求被交易的事情。
+   </p>
+   <p>
+    “我更关注安东尼-戴维斯的情况是，一个球员非常健康，合同还有几年，然后他说‘我想离开’，联盟真的要解决这个问题，球员也要谨慎。”科尔说道。
+   </p>
+   <p>
+    “当你在合同上签了字，你就要为了这个城市，为了球迷去贡献自己的力量。当你合同到期，作为自由球员，你完全有权利去离开。但是当你签了合同，你就应该遵守合同。”他继续说道。
+   </p>
+   <p>
+    “如果你和球队达成协议，这对我们可能是最好的方式，这是一回事。但是戴维斯这件事确实是一种开创性的，希望这不是一种趋势，因为这对联盟来说是不利的。”他补充道。
+   </p>
+   <p>
+    “作为一个前球员，我总是愿意给自由球员权力，”科尔说，“如果他们想为自己的职业生涯做点什么，我会全力支持。他们赢得了这个权力。”
+   </p>
+   <p>
+    “我唯一的问题就是，球员决定不履行合同，这是个问题。这真的会影响到联盟。”科尔说道。
+   </p>
+   <p>
+    “离开是一种方式，不离开也是一个办法，”科尔说，“詹姆斯怎么做的，打完了他的合同。杜兰特来到勇士和离开勇士时做了什么。你签了合同，你把它打完然后再离开，这是应该做的。”
+   </p>
+   <p>
+    “令人不安的一点是，在合同到期之前就发生一些动作，这让球队和联盟变成了人质，我不喜欢这样，这对所有人都不好。”科尔说。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

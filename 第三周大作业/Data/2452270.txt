@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  默契十足！扎克-拉文晒与队友观看夏季联赛合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzt0q27FojG/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:24:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="默契十足！扎克-拉文晒与队友观看夏季联赛合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/f6ddedd9c5d4b5bf33c62295328f562ddcf23534.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今日，公牛后卫扎克-拉文更新社交媒体，晒出自己与队友观看夏季联赛照片（见新闻配图）。
+   </p>
+   <p>
+    “队伍。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，扎克-拉文场均出场34.5分钟，得到23.7分4.7篮板4.5助攻。扎克-拉文2014年第1轮第13顺位被森林狼选中，两次夺得全明星扣篮大赛冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

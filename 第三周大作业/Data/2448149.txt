@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  挥洒汗水！媒体发布戴维斯与霍勒迪合练集锦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzRX1vzgyL2/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 09:20:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="挥洒汗水！媒体发布戴维斯与霍勒迪合练集锦" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/953f9d729f2a40214b01cc1299ed34081d7b0751.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 媒体Swishcultures今日发布了湖人前锋安东尼-戴维斯与鹈鹕后卫朱-霍勒迪一同在洛杉矶曼巴体育学院内进行专项训练的集锦。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4388437925061269">
+     视频：浓眉与霍勒迪一同训练投篮（1分钟）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    鹈鹕此前达成交易协议将安东尼-戴维斯交易至湖人，这笔交易将于7月6日正式完成。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

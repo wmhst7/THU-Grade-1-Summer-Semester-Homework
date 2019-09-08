@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：篮网为丹吉洛-拉塞尔提供资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1144716072165285888" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 05:16:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：篮网为丹吉洛-拉塞尔提供资质报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/9310f4cd4cc6a6ef78efc1c49a6b76c819c45229.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，篮网为后卫丹吉洛-拉塞尔提供资质报价，后者成为受限制自由球员。
+   </p>
+   <p>
+    在提供自己报价后，篮网有权匹配针对拉塞尔的任何合同报价。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均上场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断，季后赛场均上场29.6分钟，得到19.4分3.6篮板3.6助攻1.40抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

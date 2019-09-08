@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约瑟夫-杨新赛季将继续代表江苏同曦征战CBA
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Carchia/status/1156996448992530434" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 03:21:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约瑟夫-杨新赛季将继续代表江苏同曦征战CBA" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/a572b9780bf44aff5e070506f0bdd40d7909a312.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 根据Sportando记者Emiliano Carchia报道，前NBA球员约瑟夫-杨下赛季将继续代表江苏同曦队征战CBA。
+   </p>
+   <p>
+    约瑟夫-杨现年27岁，2015年选秀大会上，他被步行者在次轮第43顺位选中。职业生涯至今，他共出战127场常规赛，场均出场8.5分钟得到3.4分。
+   </p>
+   <p>
+    根据此前的报道，约瑟夫-杨代表湖人出战了2019年夏季联赛。2018-19赛季，杨在CBA场均出场41.9分钟，能够得到36.1分5.1篮板5.2助攻，并当选了CBA全明星赛MVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

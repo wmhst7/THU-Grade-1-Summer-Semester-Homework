@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拜仁慕尼黑篮球俱乐部欢迎门罗：一切都归于你的承诺
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/fcb_basketball/status/1154300779836182529?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 22:50:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拜仁慕尼黑篮球俱乐部欢迎门罗：一切都归于你的承诺" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/56d36a1eb0b63829f640f4206744126e35d7a975.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日，拜仁慕尼黑篮球俱乐部更新社交媒体，欢迎新援格雷格-门罗。
+   </p>
+   <p>
+    “欢迎来到拜仁慕尼黑大家庭。一切都归结于门罗的承诺。”配文写道。
+   </p>
+   <p>
+    门罗在2010年选秀大会上首轮第7顺位被活塞选中，职业生涯曾效力于活塞、雄鹿、凯尔特人、太阳、猛龙和76人，共上场632次常规赛，场均上场27.7分钟，得到13.2分8.3篮板你2.1助攻1.06抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，门罗共代表凯尔特人、76人和猛龙上场43次，场均上场11.2分钟，得到5.3分4.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

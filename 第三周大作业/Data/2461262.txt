@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  有爱！海沃德夫妇中国行期间与路人宝宝互动并合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 14:33:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="有爱！海沃德夫妇中国行期间与路人宝宝互动并合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/f1c3e1dab98b287c2802eb99999240dd169de0b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，凯尔特人前锋戈登-海沃德在北京开启了中国“型”第一天的活动。在体验北京当地早点和游览故宫的过程中，海沃德夫妇与路人的宝宝热情互动并合影（见新闻配图）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/14/44f05d83bf52b7ed30a3155bc09dbcad.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/14/9f708934eb52d500c61cea543b515479.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/14/a635eb994b340b494e59b793d051e421.jpeg"/>
+   </p>
+   <p>
+    海沃德夫妇于2015年结婚，目前育有三个女儿。本次海沃德中国行活动将于北京时间8月3日正式开始，共持续八天，分别在北京、郑州、东莞、厦门、泉州、上海、南京与球迷进行互动。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

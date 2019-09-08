@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾弗森参加球鞋类脱口秀节目，社媒晒出帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0MWR6ngK49/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 14:33:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾弗森参加球鞋类脱口秀节目，社媒晒出帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/4dc03c08aebd00ba0666f44981d79111498958ca.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 前NBA球员阿伦-艾弗森今天在个人Instagram上传了两张自己参加脱口秀节目FSR的照片（见新闻配图）。
+   </p>
+   <p>
+    FSR全称Full Size Run，是一档为球鞋爱好者制作的脱口秀节目，主持人有三人，分别为Trinidad James、Brendan Dunne以及Matthew Welty。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/14/dda23906098de54992829e86d9a0e692.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

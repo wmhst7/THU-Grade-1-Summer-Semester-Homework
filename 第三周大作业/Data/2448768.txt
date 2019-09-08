@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  若巴特勒加盟火箭，则国王会是卡佩拉潜在的下家之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sam_amick/status/1145381338897252352" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 01:33:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="若巴特勒加盟火箭，则国王会是卡佩拉潜在的下家之一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/53a2df5a0fca964f9bb743b7ef8c0d646298e990.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据The Athletic记者Sam Amick的报道，消息源透露，尽管国王对霍弗德非常感兴趣，并且愿意奉上4年1亿美元左右的合同，但是他们仍感觉到霍弗德最终可能会选择其他球队。因此国王更有可能会得到德维恩-戴德蒙。此外，如果巴特勒决定加盟火箭，那么国王可能会是卡佩拉的下家（不止一支球队对卡佩拉感兴趣，出价高的球队会得到卡佩拉）。
+   </p>
+   <p>
+    根据此前的报道，一位了解火箭想法的消息人士透露，火箭相信他们能够为克里特-卡佩拉找到交易下家，不过他们不打算交易卡佩拉，除非他们确定他们能够得到76人自由球员吉米-巴特勒。
+   </p>
+   <p>
+    上赛季常规赛，卡佩拉场均出战33.6分钟，得到16.6分12.7篮板1.4助攻1.5盖帽；季后赛场均出战30.1分钟，得到9.7分10.3篮板1.5助攻1.1盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

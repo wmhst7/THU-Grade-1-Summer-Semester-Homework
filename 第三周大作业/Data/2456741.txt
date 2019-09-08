@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯妻子吐槽老公打2K游戏，后者转而选择观看电影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/mrs_savannahrj/2093243640546386729?utm_source=ig_story_item_share&amp;igshid=kivv9zq7bfbn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 10:49:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯妻子吐槽老公打2K游戏，后者转而选择观看电影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/86cd33a2878d94d6b3e003ed97e57c954a0c45fd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 湖人前锋勒布朗-詹姆斯的妻子Savannah今日在个人Instagram Story上分享了一段丈夫勒布朗玩NBA 2K游戏的动态。
+   </p>
+   <p>
+    “被迫观看电子游戏……”Savannah写道。视频中詹姆斯躺在妻子身边专心地玩着2K游戏。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190722/10/759a1656232ed7f2a5c89c3e2013bb8c.gif"/>
+   </p>
+   <p>
+    然而，一个多小时后，根据詹姆斯本人的最新Instagram Story动态，他已经来到客厅打开电视观看由NBA名宿迈克尔-乔丹主演的电影《空中大灌篮》。詹姆斯本人主演的系列续作《空中大灌篮2》目前正在拍摄中，并将于2021年7月16日在北美地区上映。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190722/10/20a0b9d627c7be179f4a3ce1d2ccd04f.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190722/10/16d961f85c22234e78a881b3f6465307.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190722/10/b4e83c08482ef406c9d5b976978de399.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

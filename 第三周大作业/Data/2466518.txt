@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  默里出席家乡篮球场开放仪式：篮球对孩子们有好处
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cbc.ca/news/canada/kitchener-waterloo/jamal-murray-waterloo-basketball-court-backups-1.5251177?cmp=rss" target="_blank">
+     CBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 06:48:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="默里出席家乡篮球场开放仪式：篮球对孩子们有好处" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/f22fb4930ad0fe7ae553bc5942e88471a0c7bea8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 近日，掘金球员贾马尔-默里回到家乡Waterloo出席社区新球场开放仪式，并为当地的孩子们发放了书包等学习用品。
+   </p>
+   <p>
+    “我喜欢这些孩子们的能量。不论男孩还是女孩，他们热爱这项运动，篮球能让他们远离麻烦。我有时候会回来，和一些孩子们一起投投篮，融入社区。”
+   </p>
+   <p>
+    默里表示，希望新的球场能让孩子们走出家门并且放下手机。
+   </p>
+   <p>
+    “任何时候，你开设了新球场，而孩子们想要成长和寻找玩伴，那么这么做就不只是体育了，也包括让他们动起来、让他们保持健康和让他们拥抱户外。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/06/2ee771c97b6feb9749bce182ac51b331.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

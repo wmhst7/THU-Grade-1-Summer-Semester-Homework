@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：76人与富尔坎-科尔克马兹达成2年续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1154081001167118338" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 01:37:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：76人与富尔坎-科尔克马兹达成2年续约合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/9b198ce23247d2f821abee81da3a5f0276d4ac23.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据NBA记者Adrian Wojnarowski报道，经纪人透露，76人与富尔坎-科尔克马兹达成一份2年续约合同。
+   </p>
+   <p>
+    根据Woj报道，这份合同的第一年为全额保障。
+   </p>
+   <p>
+    根据薪资专家Bobby Marks报道，这份合同为老将底薪合同，第一年年薪为162万美元，第二年年薪为176万美元。
+   </p>
+   <p>
+    科尔克马兹在2016年选秀大会首轮第26顺位被76人选中，2017-18赛季登陆NBA。此前76人官方宣布，球队没有执行科尔克马兹第三年的球队选项，后者成为一名完全自由球员。
+   </p>
+   <p>
+    根据Woj报道，失去JJ-雷迪克以及在自由球员市场上错失凯尔-科沃尔让76人更加需要留下科尔克马兹，后者可以在轮换阵容中提供投篮能力。
+   </p>
+   <p>
+    2018-19赛季常规赛，科尔克马兹共上场48次，场均上场14.1分钟，得到5.8分2.2篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

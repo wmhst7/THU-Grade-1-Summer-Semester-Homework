@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾巴里-帕克：对所有经历心怀感激，我会努力承担起责任
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.chicagotribune.com/sports/bulls/ct-bulls-jabari-parker-basketball-camp-20190803-235cvj3r4nfztcb4tk3wdb7qei-story.html" target="_blank">
+     芝加哥论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 11:44:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾巴里-帕克：对所有经历心怀感激，我会努力承担起责任" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/8a0fc0dce5651a07918ff849a9c5b466ea9f01bb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 老鹰球员贾巴里-帕克近日在家乡芝加哥举办了篮球训练营，期间他接受了媒体采访。
+   </p>
+   <p>
+    谈到举办篮球训练营的意义，帕克说：“我们专注于所有方面，除了篮球天赋之外的一些品质也是我们所看中的。参加这个训练营给我带来了欢乐和幸福，我就是从这里起步的，现在是时候回馈了。在我之前，总是会有人举办一些免费训练营，因此我一直是被上天眷顾的，我有责任去坚持做同样的事情，希望这样的训练营我们能够继续举办20年，我们会携手共进。”
+   </p>
+   <p>
+    谈到自己儿时参加训练营的经历，帕克说：“我受益最大的就是参加朱万-霍华德的训练营，这也是我对他当选密歇根大学教练如此欣喜若狂的原因。我知道他真的非常爱孩子们，他根本不需要去执教，他对于篮球的热爱和能量能够帮助身边的每一个人。”
+   </p>
+   <p>
+    “芝加哥篮球充满着兄弟情谊，这也就是我需要回馈社区的原因，对于孩子们而言，能够在夏天拥有这样的回忆，这真的很棒。我教给他们最重要的事情是享受快乐，努力做好每一件事情，如果你没有感受到快乐，那你做这一切都没有意义。”帕克补充道。
+   </p>
+   <p>
+    谈到加盟老鹰，帕克说：“任何事情都不能确保会顺利进行，但仅从我的感受和能量而言，我认为我处于一个很棒的情况。特雷-杨既能得分也能组织，约翰-科林斯也是一位非常非常出色的球员。”
+   </p>
+   <p>
+    “我知道外界对于我们有所期待，我会努力承担起我的职责，我很年轻，我的队友们更年轻，我最引以为豪的一件事是，我已经经历过所有不同的角色，从球队的头号选择，到球队的边缘人物，我对于所有的这些经历都心怀感激。”帕克补充道。
+   </p>
+   <p>
+    谈到公牛新援、前队友托马什-萨托兰斯基，帕克说：“他被低估了，他有出色的体型和运动能力，并且只有27岁，拥有出色的篮球智商，他是一台两双机器，能够覆盖场上的大多数位置，他充满侵略性。同时他也有出色的弹跳能力，人们根本不清楚他到底能跳多高。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

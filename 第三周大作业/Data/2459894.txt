@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雄鹿正式签下前太阳前锋德拉甘-本德尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bucks/news/bucks-sign-dragan-bender" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 01:54:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雄鹿正式签下前太阳前锋德拉甘-本德尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/e2ebc34a90296c7d21a7ec59b24126c18899d968.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 密尔沃基雄鹿队今日宣布球队正式签下前锋德拉甘-本德尔。
+   </p>
+   <p>
+    雄鹿总经理乔恩-霍斯特接受采访时表示：“本德尔是一个具有天赋的年轻运动员，我们很激动能将他补充进我们的阵容中。他现在只有21岁，在迈克-布登霍尔泽教练和其他优秀教练的指导下，他能继续进步。”
+   </p>
+   <p>
+    此前，据NBA记者Adrian Wojnarowski报道，多位消息人士透露，前锋德拉甘-本德尔与雄鹿达成一份2年合同。
+   </p>
+   <p>
+    根据此前的报道，本德尔与今年的欧冠冠军莫斯科中央陆军达成了一份为期多年的口头协议。协议中有一项条款为，除非本德尔在最后时刻接受了一份有兴趣的NBA球队报价，否则他将接受莫斯科中央陆军的合同。
+   </p>
+   <p>
+    本德尔在2016年NBA选秀大会首轮第四顺位被太阳选中，职业生涯至今共三个赛季效力于太阳。
+   </p>
+   <p>
+    2018-19赛季常规赛，本德尔共上场46次，场均上场18.0分钟，得到5.0分4.0篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

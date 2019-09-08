@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：76人续约詹姆斯-恩尼斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/team-re-signs-ennis-iii" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 21:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：76人续约詹姆斯-恩尼斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/b4b76ed2f43fbe2683f2f143bdfcd5b8aa6fd90f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 76人官方今日宣布，他们已经与詹姆斯-恩尼斯完成续约，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    “我们非常激动地欢迎詹姆斯回到76人，詹姆斯之前有机会去别的地方，但是他决定留在费城赢球，他就是这样的竞争者，这显示了他是多么在乎我们的球迷和这支球队，他的在乎、他的拼搏和组织能力是我们上赛季成功不可或缺的一部分，我们很开心他能回来。”76人总经理埃尔顿-布兰德说道。
+   </p>
+   <p>
+    根据之前The Athletic记者Shams Charania的报道，恩尼斯将以2年410万美元的合同重回76人，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，恩尼斯场均上场21.2分钟得到6.7分3.1篮板0.7助攻；季后赛场均上场21.1分钟得到7.5分3.8篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

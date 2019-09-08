@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特：当时我们1-3落后，这就是我G5想要上场的原因
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/kevin-durant-on-if-the-warriors-mishandled-his-calf-injury-hell-no-211347829.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 07:25:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特：当时我们1-3落后，这就是我G5想要上场的原因" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/bdfa98d4a1609c730e44e876449be758e8c73d6e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日篮网球员凯文-杜兰特接受了雅虎记者Chris Haynes的采访，谈到2019年总决赛期间带伤上阵的相关情况。
+   </p>
+   <p>
+    杜兰特表示：“不管那是哪一轮系列赛，我就是计划出战第五场比赛，我们那时1-3落后了，这就是我要上场的原因。我只是想要在总决赛上场，只是想要投篮而已，特别是如果我可以上场的话。我当时每天都在训练，感觉到自己在逐渐恢复，我把自己的精力锁定在比赛上，并试图回到赛场上。我真的很想在那轮系列赛里上场打球。”
+   </p>
+   <p>
+    杜兰特在总决赛第五场期间遭遇跟腱断裂，报道称他将会缺席下赛季所有比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

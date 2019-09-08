@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奈特发推晒出自己球场训练视频：让我们锻炼起来吧
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Goodknight11/status/1145078625781342211" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:05:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奈特发推晒出自己球场训练视频：让我们锻炼起来吧" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/87de5c4f4ff1c3a00830da1a860b73e4192fa466.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，骑士后卫布兰登-奈特发推晒出自己在球场上磨炼球技的视频（见GIF）。
+   </p>
+   <p>
+    并配文道：“让我们锻炼起来吧！夏日训练。”
+   </p>
+   <p>
+    2018-19赛季常规赛，奈特场均出场18.9分钟，可以得到6.8分1.5篮板1.8助攻。
+   </p>
+   <p>
+    <img alt="GIF 2.1M" src="https://c1.hoopchina.com.cn/uploads/images/20190630/08/c94895be40da474b4b19bbf7149b1587.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2.3M" src="https://c1.hoopchina.com.cn/uploads/images/20190630/08/5d10a22468a848a1a216267a17b51b8f.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

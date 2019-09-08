@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  林书豪中国行Day 1：学京剧&amp;毛笔字，与粉丝亲密互动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 23:16:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="林书豪中国行Day 1：学京剧&amp;毛笔字，与粉丝亲密互动" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/d07541d4f68ffe7cebb0d2aad2fef6f5acfe2acb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 随着与特步的正式签约，自由球员林书豪也开始了自己的中国行与球迷见面，今日，他在北京开启了中国行的第一站。
+   </p>
+   <p>
+    下午，林书豪来到北京某戏院，体验了传统的京剧服装及妆容，林书豪亲自上阵扮演赵云。
+   </p>
+   <p>
+    随后，他在老师的教导下学习了写毛笔字，并写上了自己妈妈的名字，作为自己妈妈的生日礼物。
+   </p>
+   <p>
+    最后，林书豪来到北京某商场，与球迷进行了互动。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/30a220048fd1e1fb0860838d289af0d5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/ef85add81ad3bc3fd4cb318e085ecf66.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/23/6e61bfb7563ab8a8ddaa16491e64accd.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

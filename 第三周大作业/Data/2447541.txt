@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  纽约记者澄清：奥克利与杜兰特的合照并非拍摄于纽约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ianbegley/status/1144074177848254465" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 12:17:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="纽约记者澄清：奥克利与杜兰特的合照并非拍摄于纽约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/568ec9f3d1a92bd2f980d1dd15fbe9e896372d25.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 尼克斯名宿查尔斯-奥克利今天通过推特发布了一张
+    <a href="https://voice.hupu.com/nba/2447476.html">
+     他与勇士前锋凯文-杜兰特的合照
+    </a>
+    ，而纽约记者Ian Begley曾经在推特上转发这张合照称这是一张拍摄于纽约的照片。
+   </p>
+   <p>
+    随后，Ian Begley发推澄清道：“一点澄清：这张查尔斯-奥克利与凯文-杜兰特的合照的拍摄时间并非本周。一处更正：关于这张照片的拍摄地点我得到了错误信息。它并非拍摄于纽约。对于这一错误我深表歉意。”
+   </p>
+   <p>
+    杜兰特在总决赛G5期间遭遇右脚跟腱断裂，目前他已接受手术并留在纽约继续恢复。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

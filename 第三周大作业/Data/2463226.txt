@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人官方今日正式宣布签下前锋以赛亚-迈尔斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/08/sixers-sign-isaiah-miles.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 02:33:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人官方今日正式宣布签下前锋以赛亚-迈尔斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/78bd39a8d5f3a4f5fa2f322f5dc0834392970b6f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 根据报道，76人官方今日正式宣布签约前锋以赛亚-迈尔斯。但由于球队政策，合同具体细节并未透露，但很有可能是一份无保障的训练营合同。
+   </p>
+   <p>
+    迈尔斯此前曾于2017年和2018年代表76人参加夏季联赛。以赛亚-迈尔斯今夏代表魔术出战了本届拉斯维加斯夏季联赛，在夏联的比赛中，迈尔斯总共代表魔术出战了4场比赛，场均出场17.8分钟，可以得到6.3分2.3篮板。
+   </p>
+   <p>
+    迈尔斯来自于圣约瑟夫大学，是2016年的落选秀，过去三年一直在海外打职业比赛。他曾效力于法国和土耳其联赛的球队，曾在2018-19赛季为法国联赛俱乐部Limoges CSP效力。在效力于该俱乐部的50场比赛中，迈尔斯场均出场22.9分钟，可以得到9.6分3.7篮板，三分命中率达到41.4%。
+   </p>
+   <p>
+    在签下迈尔斯之后，76人在他们的20人休赛期球员名单上只剩下一个位置。他们此前已经有14名球员签有保证合同，2人签下双向合同，还有另外2人为无保证合同。
+   </p>
+   <p>
+    <span style="font-size:12px;color:#c0c0c0;">
+     勘误：小编一时眼花将落选看成开除，现已更正，跪求各位JRs原谅
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

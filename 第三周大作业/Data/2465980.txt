@@ -1,0 +1,73 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比-怀特、海斯、八村垒、希罗等新秀2K能力值公布
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/2KRatings/status/1162178834386415617" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 11:04:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比-怀特、海斯、八村垒、希罗等新秀2K能力值公布" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/846e70e8efea57a22d2b1b7cf6bf49af50830d9b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 今日，NBA 2K Rating通过推特公布了一组新秀球员的2K20初始能力值。
+   </p>
+   <p>
+    公牛的7号新秀科比-怀特为76；
+   </p>
+   <p>
+    鹈鹕的8号新秀贾克森-海斯为74；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g61c1ghinsj21hc0u0jva.jpg"/>
+   </p>
+   <p>
+    奇才的9号新秀八村垒为74（根据其本人Instagram公布）；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g61e435czfj20u00u0jue.jpg"/>
+   </p>
+   <p>
+    热火的13号新秀泰勒-希罗为73；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g61c3lels2j21hc0u0n1c.jpg"/>
+   </p>
+   <p>
+    此外，太阳的11号新秀卡梅伦-约翰逊的2K20初始能力值为72；活塞的15号新秀塞古-敦布亚为73。
+   </p>
+   <p>
+    目前尚未公布2K20初始能力值的乐透秀还有老鹰的10号新秀卡姆-雷迪什、黄蜂的12号新秀PJ-华盛顿、凯尔特人的14号新秀罗密欧-朗福德。
+   </p>
+   <p>
+    <span style="font-size:12px;color:#c0c0c0;">
+     此前根据2Krating网站的总结，八村垒的能力值为73，但八村垒本人Instagram晒出的图片为74，小编决定以本人晒出的图片上的数值为准，固将新闻正文内的八村能力值修改为74。
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

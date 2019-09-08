@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美媒发布趣图恭喜戈贝尔当选最佳防守球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BleacherReport/status/1143350384536088576" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:24:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美媒发布趣图恭喜戈贝尔当选最佳防守球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/ea7d5008b630fcc43357a0155360025666653cd0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，爵士球员鲁迪-戈贝尔当选2018-19赛季最佳防守球员。这是他第二次获得最佳防守球员。
+   </p>
+   <p>
+    戈贝尔常规赛为爵士出场81次，场均出场31.8分钟，能够贡献15.9分12.9篮板2.0助攻0.81抢断2.31盖帽。
+   </p>
+   <p>
+    美国媒体Bleacher Report发布趣图恭喜戈贝尔当选最佳防守球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人已经联系塞思-库里的经纪人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ba_turner/status/1145129663028555776?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:39:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人已经联系塞思-库里的经纪人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/5d9eedf482667183e58e4ebaa1a03a75d73095d5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据《洛杉矶时报》记者Brad Turner报道，消息人士透露，湖人已经联系塞思-库里的经纪人。
+   </p>
+   <p>
+    据Turner报道，塞思-库里是湖人所渴求的那类外线射手，其上赛季45.6%的三分命中率位列联盟第三。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

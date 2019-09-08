@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  这颜值如何？泰勒-希罗更新社媒晒为棒球队开球照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0j4a7bgYr9/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 10:50:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="这颜值如何？泰勒-希罗更新社媒晒为棒球队开球照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/8e27906a40c2038b5adf4cfffc08e7bca96e6369.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日，热火队球员泰勒-希罗更新社交媒体晒出为迈阿密马林鱼队开球照片。（见新闻配图）
+   </p>
+   <p>
+    希罗配文道：“感谢你，马林鱼队，你的赛季就是我的休赛期，如果你需要一个投手的时候请告诉我下。”
+   </p>
+   <p>
+    泰勒-希罗在今年选秀大会上被热火以首轮第13顺位选中。泰勒-希罗今年19岁，身高1.98米，体重87公斤，司职得分后卫。2018-19赛季在NCAA为肯塔基大学出战37次，场均出场32.6分钟，能够得到14.0分4.5篮板2.5助攻1.1抢断0.3盖帽。
+   </p>
+   <p>
+    在今年的夏季联赛，希罗共上场6场，场均拿到19.5分4.3篮板3.8助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/64f762d4263b3a0354b91cd92a33d7a4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/5cf4862f641b6a3b1aa5d340255eaa8d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/570bd66e8c0f105cb11744856a6ef033.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/675430e9435fc82fca0907124e046e45.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/e9db85755b7a4a555bfc0eff3ad0d68c.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

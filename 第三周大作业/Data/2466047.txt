@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克：考辛斯是我对抗过的最出色的内线球员之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/story/2019-08-15/anthony-davis-play-center-after-demarcus-cousins-injury" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 17:33:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克：考辛斯是我对抗过的最出色的内线球员之一" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/a8801e56166c84c125ebac3c4b53e250349a6cd4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，湖人中锋德马库斯-考辛斯遭遇左膝前交叉韧带撕裂，随后考辛斯的经纪人确认了这一消息。
+   </p>
+   <p>
+    根据此前的报道，考辛斯在当地时间周一在拉斯维加斯训练时与另一名球员发生膝盖碰撞，随后因伤不得不离开球场。
+   </p>
+   <p>
+    “他是至今我对抗过的最出色的大个子之一，他很棒。”目前正跟随美国男篮集训的火箭前锋PJ-塔克谈到考辛斯时说道。
+   </p>
+   <p>
+    缺少了考辛斯的湖人会让谁打中锋呢？塔克说：“这是他们必须要找到答案的事情，因为这是一个重要的位置，特别是在比赛的最后时刻，所有球队在比赛最后时刻都打小个阵容，所有球队都使用小个阵容，能有考辛斯这样一个可以投篮控球并且做到他那一切的大个子，这是一个难打的位置，我确定他们会有人站出来，但是他们有了一个空缺，这是肯定的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

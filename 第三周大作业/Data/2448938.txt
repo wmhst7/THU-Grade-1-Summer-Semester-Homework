@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：诺埃尔向雷霆申请重新考虑先前达成的口头协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145519015818911744" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 10:29:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：诺埃尔向雷霆申请重新考虑先前达成的口头协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/e4b259bcfdcead8b6b7af97c79ceb3c3b91d3cca.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，自由球员纳伦斯-诺埃尔请求雷霆给予他时间以重新考虑先前达成的续约口头协议，双方仍在继续谈判。
+   </p>
+   <p>
+    此前据报道，多位消息人士透露，中锋纳伦斯-诺埃尔将与雷霆完成续约。
+   </p>
+   <p>
+    2018-19赛季常规赛，诺埃尔场均出场13.9分钟得到4.9分4.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,73 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA新秀调查之最佳射手：希罗最高，太阳两新秀进前四
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/2019-20-nba-rookie-survey" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 07:32:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA新秀调查之最佳射手：希罗最高，太阳两新秀进前四" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/6eafee5696bfe752740d3a5236535286a045ec2c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 NBA官网近日对本届通过选秀进入联盟的42位新秀（参与了定妆照拍摄的新秀）进行了问卷调查。各位新秀将就一系列问题投票给出自己的选择。部分调查结果如下：
+   </p>
+   <p>
+    这届新秀谁是最佳射手？
+   </p>
+   <p>
+    泰勒-希罗（热火），得票率33%
+   </p>
+   <p>
+    凯尔-盖伊（国王），得票率29%
+   </p>
+   <p>
+    卡梅伦-约翰逊（太阳），得票率13%
+   </p>
+   <p>
+    泰-杰罗姆（太阳），得票率8%
+   </p>
+   <p>
+    乔丹-普尔（勇士），得票率4%
+   </p>
+   <p>
+    其余得到选票的球员：伊格纳斯-布拉兹代基斯（尼克斯），卡森-爱德华兹（凯尔特人），达里厄斯-加兰（骑士），蔡恩-威廉森（鹈鹕）、迪伦-温德勒（骑士）。
+   </p>
+   <p>
+    去年，票选出来的最佳射手的新秀为特雷-杨，获得了47%的选票。
+   </p>
+   <p>
+    值得一提的是，凯尔-盖伊在上赛季的大学生涯中，投进了120记三分，三分命中率为43%。这是泰勒-希罗（投进60记三分，三分命中率36%）上赛季在肯塔基三分命中数的两倍。而太阳选中的两名新秀的选票率均排在了前四，这让他们在未来将从中受益。
+   </p>
+   <p>
+    <span style="font-size:12px;color:#c0c0c0;">
+     勘误内容小编误将国王新秀凯尔-盖伊写错成了马刺，跪求原谅
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

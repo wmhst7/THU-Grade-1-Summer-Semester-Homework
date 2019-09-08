@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才老板：不确定比尔是否会提前续约，尊重他的选择
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/washington/wizards/ted-leonsis-expects-bradley-beal-take-his-time-consider-new-contract-offer" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 09:33:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才老板：不确定比尔是否会提前续约，尊重他的选择" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/2a04b9d536571b915c27249197050a08525b65da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 据NBA记者Adrian Wojnarowski此前的报道，消息人士透露，奇才计划于当地时间周五向布拉德利-比尔提供3年1.11亿美元顶薪提前续约合同。
+   </p>
+   <p>
+    “布拉德利是一个高度诚信的家伙，他希望我们的球队和粉丝能够得到最好的结果，”奇才老板Ted Leonsis在接受采访时表示，“所以，我们当然会尊重他、他的管理团队以及他的家人。”
+   </p>
+   <p>
+    Ted Leonsis表示并不确定比尔是否会在当地时间7月26日签下续约合同。如果比尔下赛季入选最佳阵容，他将有资格得到一份五年顶薪合同。
+   </p>
+   <p>
+    “当汤米-谢波德（球队总经理）在26号见到布拉德利时，我不确定他会说‘谢谢’，然后签下续约合同。”Ted Leonsis说道。
+   </p>
+   <p>
+    奇才管理层近日进行了人事变更，Ted Leonsis表示会确保比尔能够在第一时间得知球队的变化，管理层也需要将比尔纳入球队长期规划当中。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔场均上场36.9分钟，能够得到25.6分5.0篮板5.5助攻1.48抢断。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2456921&amp;type=1&amp;entrance=26">
+     官方：奇才正式任命汤米-谢波德为球队总经理
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

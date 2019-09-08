@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：希望自己打球更聪明，与米切尔志同道合
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.deseretnews.com/article/900081215/qanda-kyle-kuzma-on-sharing-birthday-with-karl-malone-relationship-with-donovan-mitchell-and-flint-homecoming.html" target="_blank">
+     犹他州早报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 17:43:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：希望自己打球更聪明，与米切尔志同道合" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/08f28c8965cd43b0e455e6d10f8f36763579015b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 近日，湖人前锋凯尔-库兹马在接受记者采访时谈到了自己今夏的训练及好友爵士后卫多诺万-米切尔。
+   </p>
+   <p>
+    在谈到今年夏天自己的训练时，库兹马对记者说：“我只是更专注于通过训练让自己变得打球更聪明。我觉得去年夏天我只是尽可能多地努力，但有时我也很聪明，知道什么时候该努力，什么时候要放松。我认为这对于我在未来能拥有一个较长的职业生涯和在下赛季打出好的表现是很重要的。”
+   </p>
+   <p>
+    在谈到与自己同年进入NBA的好友米切尔时，库兹马表示自己与米切尔关系亲密，并且他想穿米切尔的“蜘蛛侠”战靴。
+   </p>
+   <p>
+    “是的，他是我的好兄弟。我们有很相似的背景，在选秀时被人忽视，而且当时也没人会想到我们能在联盟中达到现在我们所达到的高度，我认为我们有很多相似之处，所以我们一拍即合。他是一个非常优秀的人，他的优点我很难在这么短的时间说完。‘小蜘蛛’，我爱你。”库兹马说道。
+   </p>
+   <p>
+    在谈到爵士是否会成为湖人在西部最有力的竞争对手之一时，库兹马说：“嗯，这是肯定的。去犹他打球总是很艰难，尤其是作为湖人的一员。在对阵湖人的比赛中他们总是很有优越感，而且爵士在这个休赛期的操作也很棒。”
+   </p>
+   <p>
+    在2017年选秀大会上，米切尔在第1轮第13顺位被掘金选中，后被交易至爵士。库兹马在第1轮第27顺位被篮网选中，后被交易至湖人。
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，米切尔场均上场33.7分钟，得到23.8分4.1篮板4.2助攻1.38抢断；季后赛出场38.6分钟，得到21.4分5.0篮板3.2助攻。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

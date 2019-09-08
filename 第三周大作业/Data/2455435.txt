@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚历山大：感谢快船，感谢球迷支持，很激动来到俄城
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shaiglalex/status/1151616576627576835?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 14:47:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚历山大：感谢快船，感谢球迷支持，很激动来到俄城" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/eb5227c54f67adad0882be8a1c10c8f095b9e165.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 雷霆球员谢伊-吉尔杰斯-亚历山大今日发推就自己被快船交易至雷霆一事发表感想。
+   </p>
+   <p>
+    “只想借此机会感谢快船让我度过了值得记忆的首个职业赛季！非常感谢在新秀赛季期间一直支持我的杰出球迷们！但我很激动能够在俄克拉荷马城大放异彩！#雷霆万钧”亚历山大写道。
+   </p>
+   <p>
+    亚历山大于2018年被快船以首轮第11顺位选中，此前在保罗-乔治的交易中被快船送至雷霆。
+   </p>
+   <p>
+    2018-19赛季常规赛，亚历山大场均出场26.5分钟，能够得到10.8分2.8篮板3.3助攻1.17抢断0.55盖帽；季后赛场均上场28.8分钟，得到13.7分2.7篮板3.2助攻1抢断0.83盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

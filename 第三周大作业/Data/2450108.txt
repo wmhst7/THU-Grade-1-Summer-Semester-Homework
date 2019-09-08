@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士夏联主帅：弗雷戴特仍然有能力在篮球赛场上立足
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.mercurynews.com/2019/07/03/jimmer-fredette-leaves-warriors-summer-league-team/" target="_blank">
+     圣何塞水星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 10:14:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士夏联主帅：弗雷戴特仍然有能力在篮球赛场上立足" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/bbc0b019f980f160149336a4fca120df40b3f449.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 根据此前消息报道，后卫吉默-弗雷戴特正在考虑多份海外联赛报价，为了减少受伤的风险，所以离开了勇士的夏季联赛队伍，将不再出战。随后，勇士夏联队主帅亚伦-迈尔斯接受了记者的采访。
+   </p>
+   <p>
+    在谈及弗雷戴特退出夏季联赛时，迈尔斯对记者说道：“我祝他一切顺利。具体他身上到底发生了什么我不太清楚，但是我很清楚他有能力在篮球赛场上立足。”
+   </p>
+   <p>
+    迈尔斯继续说道：“他是一个很有比赛激情的球员。在比赛中我们都会使用战术，有时候在比赛中觉得你被犯规了，可是裁判并没有吹罚，因此你就会变得很沮丧，这就是比赛的一部分。”
+   </p>
+   <p>
+    “他仍然可以上场打球，我认为他应该继续打球。或者这么说，他应该是做了对于他和他的家人有利的决定，很多时候球员不是年纪大了，而是在心态上变得老了，会考虑得更多。我不是很清楚他的具体情况，但是我认为他依然可以在篮球赛场上立足。”
+   </p>
+   <p>
+    弗雷戴特共为勇士出战了两场夏季联赛，分别得到14分和5分。
+   </p>
+   <p>
+    上赛季弗雷戴特在结束了CBA为上海队效力的赛季后加盟了太阳并效力至赛季结束，共出场6次，场均能够得到3.7分1.2篮板1.3助攻，目前他是完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

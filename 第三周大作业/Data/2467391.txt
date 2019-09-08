@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塞尔维亚主教练：特奥多西奇有99%的可能性无缘世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/921311/milos-teodosic-not-traveling-to-china/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 18:51:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塞尔维亚主教练：特奥多西奇有99%的可能性无缘世界杯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/f761719720cce28a711b8c11b5d452dc73a7724f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 塞尔维亚男篮主教练Sasha Djordjevic在今日接受采访时透露了此前遭遇足底筋膜伤病的后卫米洛什-特奥多西奇最新情况。
+   </p>
+   <p>
+    “目前的情况看起来并不理想，足底筋膜破裂依旧存在，这将阻止他与我们一起前往中国。队长特奥多西奇有99%的可能性将不会与我们一同参加本届世界杯。”Sasha Djordjevic说道。
+   </p>
+   <p>
+    在塞尔维亚男篮以72-68战胜立陶宛男篮的热身赛中，特奥多西奇脚部受伤离场。随后，塞尔维亚男篮国家队队医Dragan Radovanovic在新闻发布会上表示特奥多西奇遭遇了足底筋膜伤病，将缺席今夏的男篮世界杯。
+   </p>
+   <p>
+    据此前的相关报道，塞尔维亚男篮主教练Sasha Djordjevic在接受采访时表示，在球队最终大名单确定之前，他依旧愿意等待米洛什-特奥多西奇的回归。
+   </p>
+   <p>
+    塞尔维亚男篮接下来将前往中国参加最后的热身赛阶段，此次前往中国的12人名单如下：斯特凡-乔维奇，瓦西里耶-米齐奇，波格丹-波格丹诺维奇，马尔科-古杜里克，弗拉基米尔-卢西奇，内马尼亚-别利察，史蒂文-比塞维奇，马克-西莫诺维奇，博班-马里亚诺维奇，米罗斯拉夫-拉杜利察，尼古拉-米卢蒂诺夫，尼古拉-约基奇。
+   </p>
+   <p>
+    本届男篮世界杯，塞尔维亚与意大利、菲律宾和安哥拉同处D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  费沃斯下一份合同想要起薪达到差不多1700万美元
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SeanDeveney/status/1145474289132552192" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 07:37:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="费沃斯下一份合同想要起薪达到差不多1700万美元" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/2b0467b8609ec7e1c744857ccf39e7dfacec2c90.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Sean Deveney的报道，消息人士透露，德里克-费沃斯下一份合同想要得到一份起薪差不多1700万美元左右的合同。
+   </p>
+   <p>
+    费沃斯上赛季合同1700万美元，消息人士说：“他将会想要一份起薪差不多那么多的合同。”
+   </p>
+   <p>
+    费沃斯的2019-2020赛季的合同无保障，若在当地时间2019年7月6日前不被裁则变为受保障合同，随着爵士得到博扬-波格丹诺维奇，爵士可能会放弃费沃斯。
+   </p>
+   <p>
+    2018-19赛季常规赛，费沃斯场均出战23.2分钟，可以拿到11.8分7.4篮板1.2助攻1.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比卢普斯将成为快船的比赛解说员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/08/16/michelle-beadle-is-off-nba-countdown-and-out-of-jobs-at-espn/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 07:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比卢普斯将成为快船的比赛解说员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/a9cd5d91e0021fbc928bc6e8a08652b066f3cc4e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 根据《纽约邮报》记者Andrew Marchand的报道，多位消息人士确认，Michelle Beadle下赛季不会担任ESPN节目NBA Countdown的主持人。
+   </p>
+   <p>
+    ESPN节目The Jump的主持人Rachel Nichols和ESPN的Maria Taylor会成为NBA Countdown的主持人。
+   </p>
+   <p>
+    NBA Countdown的分析员昌西-比卢普斯下赛季也不会留在该节目里，多位消息人士透露，比卢普斯将成为快船的比赛解说员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

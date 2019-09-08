@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：伊曼纽尔-穆迪埃与爵士达成一年协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1146219534652780547" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 08:51:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：伊曼纽尔-穆迪埃与爵士达成一年协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/9bf203d77f4fb498d9d2c5d421b33b50ffc2eea8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据NBA著名记者Adrian Wojnarowski的报道，多位联盟消息人士透露，自由球员伊曼纽尔-穆迪埃与爵士达成一份一年的协议，这是一份底薪合同。
+   </p>
+   <p>
+    根据The Athletic记者托尼-琼斯的报道，消息人士透露，爵士想签下穆迪埃并且帮助他成长进步，并且随着市场上球队的薪资空间越来越少，穆迪埃阵营想让穆迪埃加盟爵士，因为爵士非常擅长培养球员，并且爵士把穆迪埃看作是一个可以得分的高大后卫。
+   </p>
+   <p>
+    2018-19赛季常规赛，穆迪埃场均上场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

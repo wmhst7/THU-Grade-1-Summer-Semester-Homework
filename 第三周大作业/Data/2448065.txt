@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：勇士计划给克莱-汤普森提供五年1.9亿美金的顶薪合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1144681974642216960" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 03:01:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：勇士计划给克莱-汤普森提供五年1.9亿美金的顶薪合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/ddd8d325380c69f01b7ae080feed78a067365a95.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据著名NBA记者Adrian Wojnarowski报道，消息人士透露，勇士计划在自由球员市场开启后给克莱-汤普森提供五年1.897亿美金的顶薪合同。勇士方面希望双方在自由球员市场开启后尽快达成协议。
+   </p>
+   <p>
+    此前据the Athletic记者Shams Charania报道，联盟消息人士透露，汤普森和勇士将于本周在洛杉矶会面，若勇士为汤普森提供5年1.897亿美元的顶薪合同，那么双方预计会很快达成协议。
+   </p>
+   <p>
+    在2018-19赛季总决赛第六场比赛中，汤普森遭遇左膝十字韧带撕裂，预计2019-20赛季全明星期间复出。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

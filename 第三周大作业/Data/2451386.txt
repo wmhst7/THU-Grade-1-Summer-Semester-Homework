@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：国王签约阿里扎，后者将身披0号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/kings/news/kings-sign-trevor-ariza" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 07:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：国王签约阿里扎，后者将身披0号球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/07663449738b8119a1c37b65e21a86c3f865040f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 国王官方今日宣布，他们已经与完全自由球员特雷沃-阿里扎签约。根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    根据之前The Athletic记者Shams Charania的报道，阿里扎与国王达成2年2500万美元的协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，阿里扎场均上场34.0分钟，得到12.5分5.4篮板3.7助攻1.3抢断。
+   </p>
+   <p>
+    阿里扎将在国王身披0号球衣。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/7e282846149f704760d85f9a401ad0bd.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/fc923f4c595969d14c752c9bc87adf3a.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/11/e8c152fe369fc40fb86825a7391e850a.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

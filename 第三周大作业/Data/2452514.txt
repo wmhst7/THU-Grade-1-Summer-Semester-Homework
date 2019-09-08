@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯因医学问题重新商讨布洛克的合同，希望签下莫里斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/could-reggie-bullocks-restructure-lead-to-knicks-signing-free-agent-marcus-morris/308911808" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 23:48:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯因医学问题重新商讨布洛克的合同，希望签下莫里斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/814c7146ba97cee7354176624b1b1f620dcd8245.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 据纽约记者Ian Begley报道，一位联盟消息人士确认，因浮现出的一项医学问题导致尼克斯质疑其打满整个赛季的能力，雷吉-布洛克正在与其经纪人David Bauman致力于与尼克斯重新达成一份合约。
+   </p>
+   <p>
+    在2018-19赛季最后阶段，布洛克因为足底筋膜炎缺席了湖人最后10场比赛中的8场。
+   </p>
+   <p>
+    一位消息人士透露，尼克斯希望在布洛克合同问题出现的情况下签下马库斯-莫里斯。
+   </p>
+   <p>
+    尼克斯在自由市场开启时就对莫里斯强烈有意。在布洛克体检事件出现前，一位熟悉尼克斯想法的消息人士就曾表示，尼克斯被莫里斯的强硬以及其对年轻球员的影响深深吸引。
+   </p>
+   <p>
+    据《纽约邮报》记者Marc Berman报道，一位NBA消息人士表示布洛克的体检出了问题，导致他的签约被推迟。布洛克此前与尼克斯达成了2年2100万美元的签约协议，合同中包含第二年的球员选项。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski和Marc J.Spears联合报道，消息人士透露，此前和马刺达成2年2000万口头加盟协议的前锋马库斯-莫里斯，正在重新考虑协议。马库斯-莫里斯正考虑与尼克斯达成协议，后者与雷吉-布洛克正在重新商讨协议，可能能够腾出足够的薪资空间来签下马库斯-莫里斯。
+   </p>
+   <p>
+    据雅虎体育记者Chris Haynes报道，尼克斯为莫里斯提供了一份1年1500万的合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

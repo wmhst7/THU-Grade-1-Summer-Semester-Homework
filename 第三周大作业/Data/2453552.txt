@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奈杰尔-威廉姆斯-戈斯可能会签约NBA球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nikosvarlas/status/1150016899578830849" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 20:39:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奈杰尔-威廉姆斯-戈斯可能会签约NBA球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/72bfdee9f461617117e976851d26b5265f186a45.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据Eurohoops记者Varlas Nikos的报道，多位非常可靠的消息人士透露，奈杰尔-威廉姆斯-戈斯也许会在接下来几个小时里得到一份NBA合同。
+   </p>
+   <p>
+    如果是这样的话，奈杰尔-威廉姆斯-戈斯将使用他合同里的NBA跳出选项，成为一名完全自由球员，然后与NBA球队签约。
+   </p>
+   <p>
+    24岁的奈杰尔-威廉姆斯-戈斯身高1.91米，体重86公斤，他是2017年选秀大会的二轮秀，他的NBA球队签约权在爵士手上，但是这也不意味着他不会通过交易加盟其他NBA球队。
+   </p>
+   <p>
+    2018-19赛季，奈杰尔-威廉姆斯-戈斯在奥林匹亚科斯场均出战25.7分钟，可以拿到10.1分4.4助攻2.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：生涯前两年都从替补打起，然后我证明了自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1125596/2019/08/09/im-still-going-to-get-my-game-off-regardless-kyle-kuzma-ready-to-earn-role-as-lakers-look-to-build-chemistry/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 23:40:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：生涯前两年都从替补打起，然后我证明了自己" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/d335ac9a4b04fa2bb468f78ce16c66abb5546956.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 湖人前锋凯尔-库兹马近日接受The Athletic记者Shams Charania的专访，谈及个人新赛季的前景。
+   </p>
+   <p>
+    关于自己是否会接受球队替补角色的问题，库兹马表示：“无论是否替补，我都会让自己全力发挥。我生涯的头两年都是从替补打起的。我就此证明了自己，为自己打出了名堂。教练的职责永远是将最好的球员们派上场，而我在过去两年内已经展示了这个过程。赛季一开始我都是从替补打起，然后证明了自己。无论场上有谁，我总会想方设法打好我的比赛。每当我踏上球场，我都自认为是场上较好的球员之一。我的心态一向如此，我从不会担心自己无法控制的事。”
+   </p>
+   <p>
+    “和众人相处促使我的心态每天都在进化，”库兹马说，“与勒布朗（詹姆斯）建立交情，他对我的指点迷津让我信心倍增。与魔术师约翰逊和科比（布莱恩特）接触，和所有人相处。水滴石穿，愈发成熟，最终生成那种足以定义你一生的心态。”
+   </p>
+   <p>
+    “我的动力就是成为那个队内第三号球星，”库兹马表示，“能够和勒布朗及AD（安东尼-戴维斯）并肩作战，单凭这一件事我就对自己抱有极高期望，要在我的生涯内取得非凡成就。因此，这件事本身就带有激励作用。这印证了我的职业精神，也是为我过去两年来的联盟经历打下基础。从个人的角度出发，我必须专注于自我。整个生涯内我都充满动力，因此可以说我已准备好了，这一点不会改变。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

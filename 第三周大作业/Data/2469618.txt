@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  班巴与队友艾萨克同游迪士尼，晒与星球大战角色合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1pczUugy0j/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 10:21:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="班巴与队友艾萨克同游迪士尼，晒与星球大战角色合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/0114ec50812763f7b34a79dcb540edee760be03c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今天魔术球员穆罕默德-班巴在Instagram上晒出了自己和队友乔纳森-艾萨克参加国家爱狗日活动的合影。
+   </p>
+   <p>
+    “祝所有人国家爱狗日快乐，对于那些顽固的星球大战粉丝而言，一条狗正给我发送死亡威胁（笑哭）。丘巴卡的名字来源于俄罗斯一种狗的名称，在俄语中代表狗对吗？ @俄罗斯中锋季莫费-莫兹戈夫@disney @disneysprings @starwars”班巴写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，穆罕默德-班巴场均出场16.3分钟，可以得到6.2分5.0篮板1.36盖帽，乔纳森-艾萨克场均出场26.6分钟，可以得到9.6分5.5篮板1.31盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/10/acb5ff5f821b1421eca8220acb7a0861.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍弗德没有安排与其他球队会面，两周前就确定加盟76人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonherald.com/2019/07/01/timing-of-horford-irving-deals-is-curious-source-tells-herald/" target="_blank">
+     波士顿先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 09:46:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍弗德没有安排与其他球队会面，两周前就确定加盟76人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/5933d26e144ebe1fb78bd6e6bd7a90abc4d240f0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据《波士顿先驱报》记者 Mark Murphy报道，艾尔-霍弗德加盟76人在两周之前就已经敲定。
+   </p>
+   <p>
+    霍弗德没有安排与其他任何球队会面，甚至连电话都没有接。
+   </p>
+   <p>
+    “艾尔不会回到波士顿，他和费城的合同两周之前就敲定了。”一位知悉双方协商详情的消息人士透露。
+   </p>
+   <p>
+    谈到霍弗德选择加盟76人的原因，这位消息人士表示：“钱是部分原因，还有其他因素。我认为艾尔想要和一位真正的中锋并肩作战。乔尔-恩比德是联盟最佳中锋，艾尔再也不需要去防守他了。”
+   </p>
+   <p>
+    此外该消息人士还透露，凯文-杜兰特和凯里-欧文携手共赴篮网在数月之前就初具雏形。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，多位消息人士透露，艾尔-霍弗德与76人达成4年1.09亿美元的协议。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

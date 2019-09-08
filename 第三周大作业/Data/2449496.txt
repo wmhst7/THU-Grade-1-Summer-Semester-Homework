@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王的未来！巴恩斯晒出自己和队友观看夏联的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzZyopVBZhO/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 18:00:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王的未来！巴恩斯晒出自己和队友观看夏联的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/8ab0402305eef60900ec8e037403a7c5005d7603.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据此前消息报道，国王前锋哈里森巴恩斯与国王达成4年8800万美元的续约协议。
+   </p>
+   <p>
+    今天，国王前锋巴恩斯更新社交媒体Instagram，晒出自己和四位队友一同观看夏季联赛的照片。从左到右依次是：马文-巴格利，哈里-贾尔斯，哈里森-巴恩斯，巴迪-希尔德，达龙-福克斯
+   </p>
+   <p>
+    2018-19赛季常规赛，巴恩斯场均上场32.9分钟，得到16.4分4.7篮板1.5助攻0.65抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

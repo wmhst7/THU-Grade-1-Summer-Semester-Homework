@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网总经理：球队需要适应变化，主教练会做他该做的事情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/usatodaynba/status/1153111166438260736" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 09:51:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网总经理：球队需要适应变化，主教练会做他该做的事情" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/c64ad0326166300687cc44d6dc42fea6492b7a6f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 篮网总经理肖恩-马克斯在近日接受WFAN电台采访时表示球队将进行调整，以适应凯文-杜兰特的融入。
+   </p>
+   <p>
+    根据马克斯的观点，这一变化需要从主教练肯尼-阿特金森开始。阿特金森教练是一位强硬的领导者，他会向球员们提出很多要求。
+   </p>
+   <p>
+    “我认为一切都需要稍微改变一下，因为我们之前并没有这样天赋异禀的球员，事情会发生改变，我们必须及时适应改变。我们必须开始建立球队文化，必须不断进行学习。这些球员都是精英级别的，我们必须从他们身上找到需要学习的方面。”马克斯说道。
+   </p>
+   <p>
+    阿特金森或许需要放弃一些对于球队的掌控权，但他也必须坚持自己的执教风格，因为杜兰特之所以选择加盟篮网，很大一部分原因是因为球队之前打造的良好氛围。
+   </p>
+   <p>
+    “我可以向你保证，肯尼会继续做他应该做的事情。”马克斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

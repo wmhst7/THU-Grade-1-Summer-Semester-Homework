@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：我爱尼克斯，但我预计杜兰特将和欧文一起去篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/why-enes-kanter-believes-kevin-durant-wont-be-signing-with-the-knicks/308513868" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 01:31:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：我爱尼克斯，但我预计杜兰特将和欧文一起去篮网" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/829fc36aba3a6b6b9f995bdcbc4978cb4e54385a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 开拓者中锋埃内斯-坎特最近接受采访表示他预计自由球员凯文-杜兰特不会选择加盟尼克斯。
+   </p>
+   <p>
+    “如果我是他，别误会我的意思，”坎特说，“我爱纽约，我爱尼克斯，我爱那里的球迷和麦迪逊广场花园，一切都很酷，但我预计他将和凯里（欧文）一起去篮网。”
+   </p>
+   <p>
+    “我了解凯文，了解他的性格等等，”坎特说道，“纽约的媒体可能会对他略微严厉。因为如果你是KD去了尼克斯，然后当你没有赢球时，他们就会指责你。我预测他会去布鲁克林。我希望他加盟尼克斯，但我预计他将前往布鲁克林。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉姆斯：伦纳德是一个加州的孩子，他热爱这里
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/06/24/lou-williams-la-clippers-pitch-kawhi-leonard/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 22:45:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉姆斯：伦纳德是一个加州的孩子，他热爱这里" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/ca14cb63e450ce0ffe5df90f8d5d433914b8dade.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 快船球员路易斯-威廉姆斯在近日接受TMZ街头采访时谈到了当选最佳第六人以及自由球员科怀-伦纳德。
+   </p>
+   <p>
+    谈到当选最佳第六人的感受，威廉姆斯说：“这就是我的人生风格，这就是我为自己打下的名号。”
+   </p>
+   <p>
+    谈到伦纳德是否有可能加盟快船，威廉姆斯说：“你看现在太阳出来了，这里不像多伦多那么寒冷。他已经拿到了总冠军戒指，现在快来联系我们吧。没有什么能够击败加州的温暖阳光，这里常年70华氏度（约21摄氏度），没有其它地方能够和这里相提并论。”威廉姆斯说道。
+   </p>
+   <p>
+    “显而易见，他是一个加州的孩子，他热爱这里。他有机会去做一些特别的事情，他已经是一位传奇，他已经是一位名副其实的大场面球员，”威廉姆斯说道，“因此，对于他而言，能够有机会在加州打出名堂，这应该非常酷。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

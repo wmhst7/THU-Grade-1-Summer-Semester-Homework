@@ -1,0 +1,80 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA官方晒美国男篮训练营球员赌城报到的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0xGvsmAeFk/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 11:52:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA官方晒美国男篮训练营球员赌城报到的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/b83ada04ea63b5050f74f51fb0ce4d6644b80540.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 今日NBA官方更新了一组美国男篮训练营球员的照片。
+   </p>
+   <p>
+    “美国男篮训练营的球员们抵达拉斯维加斯，并在第一时间进行了签名的工作！”NBA官方写道。
+   </p>
+   <p>
+    这组照片包括湖人球员凯尔-库兹马、凯尔特人球员肯巴-沃克、爵士球员多诺万-米切尔、热火球员巴姆-阿德巴约、国王球员达龙-福克斯和哈里森-巴恩斯、凯尔特人球员杰森-塔特姆和杰伦-布朗、火箭球员PJ-塔克、猛龙球员凯尔-洛瑞和雄鹿球员克里斯-米德尔顿。
+   </p>
+   <h5>
+    勘误：虎扑错误地将“凯尔特人球员肯巴-沃克”写成了“黄蜂球员肯巴-沃克”，给广大JRs造成误解，在此致歉。
+   </h5>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/287f0eab44d79ddddb0c3f66369c22bf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/25455b185829ed25655d68159fb99b41.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/cdbcd01b52d1cdd152f3487419371adf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/98ef4c8f1835dc8f3f97a233c53f04fc.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/2945eb08165a5bbe01493df475f0ee7c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/9294417b0eb2a0e886f0b4485b13c61d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/8ab2177f2bfdc9dee08bb75f299e44cb.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/e52aa8cade5b64fbe63eb30e84e7e8f9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/d0bb9f7f308f471afbc50af8aa02de44.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/904a8527f33b183e4dfa6f8d95d62a65.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

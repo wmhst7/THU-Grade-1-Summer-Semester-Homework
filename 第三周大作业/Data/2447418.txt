@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克谈火箭兜售自己的报道：这就是生意的一部分
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1143977957637181440" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 06:50:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克谈火箭兜售自己的报道：这就是生意的一部分" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/866dc522271fc5a295b6250d4a4303d8374ba7ed.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，火箭正在向联盟中拥有宽裕薪资空间的球队分别兜售克林特-卡佩拉、埃里克-戈登和PJ-塔克，以为他们寻求与76人先签后换得到自由球员前锋吉米-巴特勒做准备。
+   </p>
+   <p>
+    联盟消息人士透露，火箭希望从这三名球员身上得到最好的首轮选秀权回报，这样他们就可以在与76人关于巴特勒的进一步交易中使用它们。
+   </p>
+   <p>
+    对此，塔克说：“情况就是这样，这就是生意的一部分，在火箭的这两个赛季，在季后赛和常规赛，我每晚都打出我的表现，其他的我什么都没做，这不是我可以控制的事情，我能控制的一切就是做我做的事情。”
+   </p>
+   <p>
+    “你可以感觉有点失望，我之前选择来到火箭，在自由球员市场上放弃其他球队而选择火箭，那时候这是我想做的事情，最终，这就是生意，你必须要像生意那样对待这一切，我必须坐下来等着看看，就像其他所有人一样。”塔克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

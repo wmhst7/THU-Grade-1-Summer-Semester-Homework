@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：篮网会放弃匹配拉塞尔报价，或先签后换将其交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheAthleticNBA/status/1144979029008760837" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 23:42:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：篮网会放弃匹配拉塞尔报价，或先签后换将其交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/b15bc3f85d43ab8a4f43d8748f75272670f2c33c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据The Athletic记者Shams Charania报道，消息人士透露，篮网最终会选择放弃匹配其他球队对丹吉洛-拉塞尔的报价，或考虑在自由市场开启后通过先签后换的方式将他交易。
+   </p>
+   <p>
+    此前，根据Shams报道，篮网在当地时间周五为拉塞尔提供了资质报价，使其成为受限制自由球员。提供自己报价后，篮网有权匹配针对拉塞尔的任何合同报价。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均出场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断，并入选全明星阵容。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

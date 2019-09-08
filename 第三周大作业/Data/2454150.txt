@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：知道自己想要什么，向鹈鹕提出交易申请是有益的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rachel__Nichols/status/1150643495025201152" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 14:34:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：知道自己想要什么，向鹈鹕提出交易申请是有益的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/4e4dc6997415b619f8389a9b296d546834d91ee5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 昨日，湖人新援安东尼-戴维斯接受NBA记者Rachel Nichols的专访。
+   </p>
+   <p>
+    当提及听到别人用“湖人球员安东尼-戴维斯”来称呼他时有什么感受，戴维斯表示：“这是很不同的，我当然对成为一名湖人很兴奋，但有时听到别人这么叫也会觉得有点奇怪。”
+   </p>
+   <p>
+    被问及是否曾经去参观过放着奥布莱恩杯的房间时，戴维斯笑着说：“没有，我来到湖人才见到奥布莱恩杯。每一次我走进来，看到那些奖杯和横幅，再看看身边的队友，就会感觉到力量。”
+   </p>
+   <p>
+    当被问及为什么要在赛季中期提出申请交易时，戴维斯表示：“我知道我不会和鹈鹕续约，我在新奥尔良的时间肯定会结束。并且，你知道的，我看到很多人说，‘等等’或者‘你应该这样做，就这样。’但对我来说，我已经在联盟中呆了足够长的时间。我已经成成长了，我知道我想要什么。因此，我认为我在当时那样做是对我自己和球队最有益的选择，让他们得到最好的交易回报，这样球队仍然拥有基础。我不会后悔，我仍希望坚持自己当时的做法。我是一个非常坦率和诚实的人，我喜欢新奥尔良市。但从职业角度和篮球本身来看，我觉得现在是我继续前进的时候了。”
+   </p>
+   <p>
+    当被问及成为父亲后心态是否发生了改变，戴维斯说：“是的，而且直到你真的为人父母前，你永远无法体会这种成长。我现在所做的一切不光是为了我自己了，还要为了她。”当记者指着他脖子上装有女儿照片的项链时，戴维斯说：“是的，她一直陪在我身边。”
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼-戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻；德马库斯-考辛斯场均出场25.7分钟，得到16.3分8.2篮板3.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

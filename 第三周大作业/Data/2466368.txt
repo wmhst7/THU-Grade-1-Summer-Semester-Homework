@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人多名球员2K能力值公布：霍弗德、哈里斯均为85
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162688705959739393?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 20:07:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人多名球员2K能力值公布：霍弗德、哈里斯均为85" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/e53ccb500620c13a8af59dd6810f1b259b15fb73.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2K Ratings网站近日更新了一批球员的NBA 2K20游戏初始能力值，5名76人球员的能力值得以确定。
+   </p>
+   <p>
+    最新公布的76人球员2K20初始能力值如下：艾尔-霍弗德85，托拜厄斯-哈里斯85，约什-理查德森80。此前已公布的76人球员初始能力值为乔尔-恩比德91、本-西蒙斯87。
+   </p>
+   <p>
+    2018-19赛季常规赛，霍弗德场均上场29分钟，得到13.6分6.7篮板4.2助攻1.26盖帽；哈里斯场均上场35分钟，得到18.2分7.9篮板2.9助攻；理查德森场均上场34.8分钟，得到16.6分3.6篮板4.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

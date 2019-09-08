@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小凯文-波特社媒晒出正式签约照：我是一名骑士了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzed8BnnH-3/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 11:59:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小凯文-波特社媒晒出正式签约照：我是一名骑士了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/ac04df341c96311af2090d010ae8f1082c988187.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 骑士新秀小凯文-波特今日通过Instagram晒出了自己与球队正式签约的照片。
+   </p>
+   <p>
+    “官方了！我是一名骑士了。”小凯文-波特写道。骑士官方今日宣布正式签约三位新秀达里厄斯-加兰、迪伦-温德勒和小凯文-波特。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/11/a9da61ca272fe448f34762e74e505d55.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

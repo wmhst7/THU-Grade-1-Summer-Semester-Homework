@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网官方晒主帅阿特金森参加非洲篮球无国界活动的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0mIr4Qh3E-/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 08:56:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网官方晒主帅阿特金森参加非洲篮球无国界活动的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/5ddcba19b1aeaed46615f2e3171ac0c401b63818.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 今日篮网官方更新了Instagram动态，晒出了主帅肯尼-阿特金森参加NBA非洲篮球无国界活动的照片。
+   </p>
+   <p>
+    “一直在执教的男人 #非洲篮球无国界” 篮网官方写道。
+   </p>
+   <p>
+    阿特金森在2016年夏天成为篮网主帅，目前他执教篮网的总战绩为90胜156负。他带领球队在2018-19赛季取得了42胜40负的战绩，并打进了季后赛首轮。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/08/78083d8c9b2171bbee0af768d9e4a812.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/08/52ea813ae89fc6c34f9b169bec835dce.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/08/3906a351abe7a5e7ec4795ebd7c85485.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

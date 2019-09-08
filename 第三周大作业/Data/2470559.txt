@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：阿拉巴马州已发出对考辛斯的逮捕令
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1167161571015057408?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-30 04:01:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：阿拉巴马州已发出对考辛斯的逮捕令" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190830/a8d90f8eb72ec8200f0bc1f2a23b6e0ea9b453e6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月30日讯 根据NBA记者Adrian Wojnarowski报道，美国阿拉巴马州 Mobile县法院在其网站上公示了对于考辛斯的三级通讯骚扰（third-degree harassing communications）的指控。
+   </p>
+   <p>
+    其他细节并未披露，但根据警方发言人给出的消息，“逮捕令已经发出”。
+   </p>
+   <p>
+    考辛斯前女友Christy West在恐吓事件发生后正在申请针对考辛斯的限制令（restraining order）。
+   </p>
+   <p>
+    考辛斯在于湖人签下一年合约后，已宣布因左膝韧带受伤，将缺席下赛季的比赛。
+   </p>
+   <p>
+    在刚刚过去的2018-2019赛季里，考辛斯出战30场比赛场均可以拿到16.3分，8.2个篮板以及3.6个助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：不剩菜)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

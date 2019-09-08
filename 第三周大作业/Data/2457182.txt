@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆发布2019-20赛季城市版球衣：幸存树
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/thunder/news/release-uniforms-190723" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 18:31:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆发布2019-20赛季城市版球衣：幸存树" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/59c5e8e654060d65827b54f64cb05f9b4a83433a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 俄克拉荷马城雷霆队官方今日公布了2019-20赛季球队的城市版球衣，该球衣是为了缅怀1995年发生在俄克拉荷马市阿尔弗雷德-默拉-联邦大厦的爆炸事件中的逝者。
+   </p>
+   <p>
+    雷霆总经理普雷斯蒂说：“1995年4月19日永远改变了这座城市，它让我们记住我们所失去的，也让我们团结起来关爱受害者。雷霆将继续加深与城市的社区的联系，并通过城市版球衣来让更多的人记住这样的时刻，让每个人都能提高警惕，保护我们的城市，这是至关重要的。”
+   </p>
+   <p>
+    在这件城市版球衣的设计上，采用了幸存树的寓意，并且在球衣背面印有“我们永远记得被1995年4月19日永远改变人生轨迹的人”（We Remember Those Who Were Changed Forever, April 19, 1995.）的字样。
+   </p>
+   <p>
+    阿尔弗雷德-默拉-联邦大厦是美国联邦政府建筑，位于俄克拉荷马城市区西北第五大街200号。该建筑是1995年4月19日俄克拉何马城爆炸案的袭击目标，在这次袭击中，共有168人遇难，其中包括19名儿童。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/18/c87c9271a018f0a32a04c780ff56db03.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/18/cbb57dc1eeabaa3e16f15f6ec90b8146.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

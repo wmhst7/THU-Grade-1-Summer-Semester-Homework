@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  铁汉柔情！詹姆斯将Instagram头像改为女儿照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/kingjames?igshid=1ihaqo3yvwg4p" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 07:53:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="铁汉柔情！詹姆斯将Instagram头像改为女儿照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/6747d304fb6df906031747276f7273bcf2558310.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 湖人前锋勒布朗-詹姆斯今日将他的Instagram账户头像更换为女儿Zhuri的照片。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190727/07/e88fe63327c2c867c48caa992627ba9b.jpeg"/>
+   </p>
+   <p>
+    过去一年多来，詹姆斯使用的头像是其创办的I Promise学校照片（见新闻配图），今日他将头像换为女儿Zhuri的笑脸照。
+   </p>
+   <p>
+    Zhuri出生于2014年10月，她是詹姆斯夫妇的第三个孩子。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190727/07/ec9d3b3e685545de78a59f3cb5f93353.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190727/07/f61f8e4503f31202bf1527162613165b.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

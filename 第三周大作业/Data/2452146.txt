@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回到最初的起点？考辛斯发推暗示新赛季可能穿回15号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/boogiecousins/status/1148617996866211840" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 00:09:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回到最初的起点？考辛斯发推暗示新赛季可能穿回15号" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/fbebc77eabea10b840e4a691bc9a24fd40450726.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今日，刚刚与湖人签约的中锋德马库斯-考辛斯在推特晒出一张带有“#15”背景为紫色的图（见新闻配图），很有可能暗示自己下赛季将身穿15号战袍。
+   </p>
+   <p>
+    考辛斯在国王效力的七个赛季里身穿的正是15号战袍，而在鹈鹕效力的两个赛季和在勇士效力的一个赛季，他都是身穿0号战袍。
+   </p>
+   <p>
+    根据此前的报道，考辛斯与湖人签下1年350万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯场均出场25.7分钟，能够得到16.3分8.2篮板3.6助攻1.3抢断1.5封盖；季后赛场均出场16.6分钟，能够得到7.6分4.9篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

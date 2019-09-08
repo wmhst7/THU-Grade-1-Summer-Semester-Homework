@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克拉克斯顿：篮网球队文化很棒，我会努力为球队做出贡献
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BrooklynNets/status/1154486910678704129" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 10:08:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克拉克斯顿：篮网球队文化很棒，我会努力为球队做出贡献" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/e212c13ac7368439c8d40a70f864dc20dfe059ad.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 篮网新秀尼古拉斯-克拉克斯顿在近日接受媒体采访时谈到了加盟篮网。
+   </p>
+   <p>
+    “我知道布鲁克林对于我而言是一个很棒的去处，那里的球队文化非常棒，我知道我能够很好地融入球队。就像我父亲之前所说的那样，被篮网选中是我在选秀夜非常期待的事情，能够在那个夜晚被篮网选中，这是非常不可思议的经历。”克拉克斯顿说道。
+   </p>
+   <p>
+    “我依旧在不断地打磨自己的比赛，努力提升自己，适应职业联赛的比赛节奏。实话实说，这一切都需要一个学习适应的过程，但我正处于正确的轨道之上，”克拉克斯顿接着说道，“我的队友们到夏季联赛现场支持我们，这真的很棒，他们给了我很多建议。”
+   </p>
+   <p>
+    “无论教练组需要我做什么，我都义不容辞，我会拼尽全力为球队做出贡献，为球队防守端带来能量，总而言之，我只希望能够为球队带来积极的影响。”克拉克斯顿补充道。
+   </p>
+   <p>
+    20岁的克拉克斯顿身高2.11米，体重98公斤，司职前锋，他在今年选秀大会次轮第一顺位被篮网选中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

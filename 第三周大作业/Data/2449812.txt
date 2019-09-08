@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  理查德森谈被交易：这令我猝不及防，对热火唯有感激
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WillManso/status/1146220216856338432" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 13:12:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="理查德森谈被交易：这令我猝不及防，对热火唯有感激" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/d9834ea1df1aecef7c3906fab5b0c3ec99ac17d4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 76人球员约什-理查德森此前在一笔多方交易中从热火加盟76人，近日，他接受了记者的采访，谈及自己被交易一事。
+   </p>
+   <p>
+    “起初我感到猝不及防，当我和教练交谈后，我感到十分兴奋。对于热火，我唯有感激。如果不是他们选秀时选择了我，并给予我出场机会，我不知道我现在是否还会出现在联盟中。”
+   </p>
+   <p>
+    理查德森在2018-19赛季常规赛中，场均出场34.8分钟，得到16.6分3.6篮板4.1助攻1.08抢断0.47盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

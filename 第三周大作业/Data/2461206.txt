@@ -1,0 +1,76 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯与Drake在多伦多合影宣布达成商业合作协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0ru5AOganv/?igshid=pykg99z3pshq" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 10:17:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯与Drake在多伦多合影宣布达成商业合作协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/9e6fe52dafdea12eceafc15f72e8a32115d05249.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 由湖人前锋勒布朗-詹姆斯创建的数字媒体娱乐公司Uninterrupted官方Instagram发布一张詹姆斯与著名加拿大歌手Drake今日在多伦多的合影。
+   </p>
+   <p>
+    “UNINTERRUPTED已经正式来到多伦多。”Uninterrupted官方写道。
+   </p>
+   <p>
+    近日，Uninterrupted官方宣布将与Drake展开商业合作，进军加拿大市场。
+   </p>
+   <p>
+    在此前的官方声明中，詹姆斯表示：“当我们创办Uninterrupted时，目的在于为运动员提供一个以前所未有方式分享自身故事、与体育迷们展开交流的平台。并展示我们在体育赛事之外的爱好和热情。如今这一构想引领了一个全新的时代，世界各地的运动员们都感到自己拥有权力去做更多的事，看到这一幕令人激动。进入加拿大市场，与一些杰出伙伴展开合作，这让Uninterrupted进入了全球化规模，为更多运动员和体育迷提供参与我们所建立事物的全新机会。”
+   </p>
+   <p>
+    Drake在声明中表示：“Uninterrupted已经成为一个不可思议的平台，为运动员们提供讲述自身故事并与体育迷们交流互动的机会。我很荣幸能与勒布朗展开合作，将Uninterrupted带到加拿大，这是一个持续支持创新和创意的国度。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/10/658907a0e62da5b9ba7b6a7dea05169d.jpg"/>
+   </p>
+   <p>
+    此外，詹姆斯还在Uninterrupted加拿大分部发布仪式上发表了演讲。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4401169998302207">
+     视频：詹姆斯在多伦多活动仪式上发表演讲
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/11/37a7a0e0050034092e057026b4f50b28.png"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/12/7fe3af10544bbec61e90a7453da6069f.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/12/fbb8dbf34a5ba16ae26011ad775b0c6e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/12/7e06598bcfc05063bf01e327c2633ae4.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

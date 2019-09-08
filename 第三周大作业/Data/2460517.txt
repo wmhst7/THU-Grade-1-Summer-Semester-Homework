@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫斯科中央陆军队与罗恩-贝克签下为期一年的合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/914230/cska-pens-ron-baker-to-one-year-deal/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 15:41:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫斯科中央陆军队与罗恩-贝克签下为期一年的合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/9308a6579381e2edf9ad500bd6c98f585c49d967.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 莫斯科中央陆军队今日宣布，球队已经与前NBA球员罗恩-贝克签下为期一年的合同。
+   </p>
+   <p>
+    “我对于莫斯科中央陆军队为我提供的全新的机会感到兴奋，”贝克在接受采访时说道，“在与主教练Dimitris和队长Kyle Hines进行了交流之后，我发现我非常适合这支球队，这里的球队文化和球队取得的成就正是我在自由球员市场所追求的。”
+   </p>
+   <p>
+    贝克累计在NBA中出战96场，其中为尼克斯出场92场，为奇才出战4场。北京时间1月8日，奇才宣布裁掉贝克。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

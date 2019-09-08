@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德ins晒女儿詹姆斯-尤尼恩-韦德的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0xCgseHeaP/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 11:24:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德ins晒女儿詹姆斯-尤尼恩-韦德的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/23d180b970d9c4c15bdc09a27dfac13f185ed3f5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 今日NBA退役球星德维恩-韦德更新了自己的个人Instagram动态，晒出了自己的女儿詹姆斯-尤尼恩-韦德。
+   </p>
+   <p>
+    “所以你认为你会在周末开始节食吗？爸爸可不聪明！”韦德写道。
+   </p>
+   <p>
+    北京时间2018年11月9日，韦德在个人社交媒体宣布了女儿詹姆斯-尤尼恩-韦德出生的消息。
+   </p>
+   <p>
+    在其职业生涯中，韦德共上场1054次常规赛，场均上场33.9分钟，得到22.0分4.7篮板5.4助攻1.54抢断0.84盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

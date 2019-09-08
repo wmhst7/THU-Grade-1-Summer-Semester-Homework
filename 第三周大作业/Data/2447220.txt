@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多位关注安东尼动向的联盟高管认为湖人是他最可能的下家
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/could-carmelo-anthony-vince-carter-be-among-knicks-backup-free-agent-options/308471280" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 13:54:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多位关注安东尼动向的联盟高管认为湖人是他最可能的下家" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/3e604780a024300a33ca1d4269ce538ec936b09f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 SNY记者Ian Begley今日撰文谈到了自由球员卡梅罗-安东尼。
+   </p>
+   <p>
+    Ian Begley表示，多位关注安东尼动向的联盟高管认为湖人将会是安东尼最可能的下家。
+   </p>
+   <p>
+    Ian Begley同时表示，安东尼对加盟尼克斯、在纽约结束自己的职业生涯也感兴趣，但目前尼克斯的引援前景并不明朗，如果今年夏天没有吸引超级球星加盟，尼克斯暂时不会考虑安东尼。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

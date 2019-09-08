@@ -1,0 +1,80 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔预测自由球员去向：杜兰特去纽约，汤普森续约勇士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/hoopshype/status/1144244337418690560/video/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 10:06:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔预测自由球员去向：杜兰特去纽约，汤普森续约勇士" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/17e4a4ad79afa7d241764c8f8501f6271d52d92f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 爵士后卫多诺万-米切尔在今日参加节目时预测了今年夏天自由球员的去向。
+   </p>
+   <p>
+    以下为米切尔的预测情况：
+   </p>
+   <p>
+    凯文-杜兰特：纽约，不确定是尼克斯还是篮网；
+   </p>
+   <p>
+    克莱-汤普森：肯定留守勇士；
+   </p>
+   <p>
+    吉米-巴特勒：不确定去哪，但不会留在费城；
+   </p>
+   <p>
+    托拜厄斯-哈里斯：留在费城；
+   </p>
+   <p>
+    艾尔-霍弗德：完全不知道；
+   </p>
+   <p>
+    科怀-伦纳德：与猛龙续约，没有理由离开多伦多；
+   </p>
+   <p>
+    肯巴-沃克：尼克斯；
+   </p>
+   <p>
+    克里斯-米德尔顿：留在雄鹿；
+   </p>
+   <p>
+    丹吉洛-拉塞尔：不知道；
+   </p>
+   <p>
+    凯里-欧文：肯定去篮网；
+   </p>
+   <p>
+    德马库斯-考辛斯：不知道，猜测留在勇士；
+   </p>
+   <p>
+    马尔科姆-布罗格登：留在雄鹿。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

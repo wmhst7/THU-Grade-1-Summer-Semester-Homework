@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  活塞不会执行格伦-罗宾逊三世新赛季的球队选项
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MikeAScotto/status/1144747036996247552" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 07:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="活塞不会执行格伦-罗宾逊三世新赛季的球队选项" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/784d15428e1522b531f64ad67751460557e10196.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据The Athletic记者Michael Scotto的报道，他们已经获知活塞不会执行格伦-罗宾逊三世新赛季价值428万美元的球队选项。
+   </p>
+   <p>
+    格伦-罗宾逊三世于2018年夏天与活塞签订了一份为期2年价值830万美元的合同，2019-20赛季合同带有球队选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，格伦-罗宾逊三世场均出场13.0分钟，可以得到4.2分1.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

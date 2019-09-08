@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴特勒预计会告诉热火官员他希望为热火打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ByTimReynolds/status/1145393449987973120" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 02:26:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴特勒预计会告诉热火官员他希望为热火打球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/8e03bca611228d5bb78a2b6cdc853e3ebb038e06.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据热火记者Tim Reynolds报道，消息人士透露，自由球员前锋吉米-巴特勒预计会在当地时间今晚告诉热火官员，他希望为热火打球。
+   </p>
+   <p>
+    昨天，据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，巴特勒预计将于当地时间周日在南佛罗里达州跟热火会面。
+   </p>
+   <p>
+    根据此前的报道，巴特勒打算不执行下赛季价值1980万美元的球员选项，试水自由球员市场。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出场55次，场均出场33.2分钟，得到18.2分5.3篮板4.0助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

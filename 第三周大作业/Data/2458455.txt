@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  活塞将任命唐尼-廷德尔为发展联盟球队主帅
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/2Ways10Days/status/1154793380175466502" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 07:18:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="活塞将任命唐尼-廷德尔为发展联盟球队主帅" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/923c14ffc94165c496481400ef3edf18dc97ae51.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 据网站2ways10days报道，联盟消息人士透露，活塞预计会任命唐尼-廷德尔为发展联盟球队大急流城驱动队主帅。
+   </p>
+   <p>
+    过去三个赛季，唐尼-廷德尔在猛龙发展联盟球队担任助理教练，并随队在2017年夺冠。
+   </p>
+   <p>
+    大急流城驱动队前任主帅是瑞安-克鲁格。在他执教期间，常规赛共取得53胜35负并连续两年打进季后赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

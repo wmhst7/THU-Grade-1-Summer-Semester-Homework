@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波蒂斯：不理会别人的想法，努力工作是唯一的路
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzbZWnuAYPy/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 09:29:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波蒂斯：不理会别人的想法，努力工作是唯一的路" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/7b3545a61cbb814856b393f49cf816ffeb314917.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据此前的报道，前锋博比-波蒂斯以2年3100万的合同加盟尼克斯。今天波蒂斯更新了自己的Instagram，晒出照片并发表感想。
+   </p>
+   <p>
+    波蒂斯写道：“永远不要去理会别人的想法……要做的就是努力工作！这就是唯一的路，逆袭者的道路！！加油吧纽约！感恩。”
+   </p>
+   <p>
+    2018-19赛季常规赛，波蒂斯共出场50次，场均26分钟可以得到14.2分8.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

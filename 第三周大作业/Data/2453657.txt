@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：西蒙斯可能不会代表澳大利亚出战今夏男篮世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1150153738595663873" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 05:35:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：西蒙斯可能不会代表澳大利亚出战今夏男篮世界杯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/fdb0ab33feba9791e6f744cf71deb8a39e34e2ff.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 据NBA记者Adrian Wojnarowski报道，76人前锋本-西蒙斯的经纪人里奇-保罗告诉ESPN，西蒙斯今年夏天为澳大利亚出战男篮世界杯的概率为50%（doubtful），西蒙斯更有可能花整个休赛期的时间来为76人下赛季的比赛做准备。
+   </p>
+   <p>
+    此前西蒙斯曾宣布自己将代表澳大利亚参加今年中国男篮世界杯，他也晒出过自己身着澳大利亚国家队队服的视频。此前公布的澳大利亚大名单上包括德拉维多瓦，贝恩斯、博古特、英格尔斯、米尔斯、博尔登、阿德尔和西蒙斯等NBA球员都赫然在列。
+   </p>
+   <p>
+    本次男篮世界杯，澳大利亚和塞内加尔，加拿大和立陶宛同处H组。澳大利亚的首场小组赛将在北京时间9月1日在东莞进行，对手是加拿大。
+   </p>
+   <p>
+    西蒙斯上赛季代表76人出战79场常规赛，场均34.2分钟得到16.9分8.8篮板7.7助攻1.4抢断，投篮命中率56.3%；出战12场季后赛，场均35.1分钟得到13.9分7篮板6助攻1.3抢断1盖帽，投篮命中率62.1%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

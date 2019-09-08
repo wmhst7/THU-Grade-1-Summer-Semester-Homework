@@ -1,0 +1,73 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  激情四射！詹姆斯在电影片场录制Taco Tuesday视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2094449238577767016?utm_source=ig_story_item_share&amp;igshid=1au4opushsh4d" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 09:48:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="激情四射！詹姆斯在电影片场录制Taco Tuesday视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/cfb640aa393f44a6bc68d8c0a86de618d33a0b8d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story分享了一组他在电影《空中大灌篮2》片场兴奋庆祝Taco Tuesday的视频。
+   </p>
+   <p>
+    “Taco Tuesday之《空中大灌篮2》版本。”詹姆斯配文道。
+   </p>
+   <p>
+    詹姆斯在自拍视频中说道：“你们都知道我正在《空中大灌篮2》的片场拍摄电影。你们都希望我能展示完整的电影角色球衣，但我不能这么做。但更重要的是，你们都清楚今天是什么日子，对吧？Taco Tuesday！Taco Tuesday！他们都知道我是什么意思吧？Taco Tuesday！”
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4397494127039043">
+     视频：詹姆斯在电影片场庆祝Taco Tuesday（42秒）
+    </a>
+   </p>
+   <p>
+    詹姆斯随后发布图片表达对于Taco Tuesday的感想时写道：“在Taco Tuesday这天想念我的家人。但我知道身处拉斯维加斯的他们此时也在庆祝。所有人都在庆祝，除了@Savannah（詹姆斯妻子）！@Bronny，Bryce Maximus，Zhuri Nova（詹姆斯三个子女的名字）。”
+   </p>
+   <p>
+    而Savannah也不甘示弱，转发回复老公道：“我是正经吃饭的，没心情参与恶作剧。”詹姆斯则回复道：“嘘——！”
+   </p>
+   <p>
+    Taco Tuesday是一项流行在周二享用墨西哥煎玉米饼的北美饮食传统。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190724/09/c02819055a64867814cee5dc6e12412f.jpeg"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/09/f8339f8c903ad1375102b734b2e23f3b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/09/7408a73a8ed20356032a0987734af7a0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/09/a2901b26a07405783996df98a46828c7.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

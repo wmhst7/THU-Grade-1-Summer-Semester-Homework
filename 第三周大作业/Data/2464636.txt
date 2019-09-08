@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  南多-德科洛谈法国男篮：球队阵容深度出色且充满天赋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/918389/de-colo-on-france-we-all-want-to-do-great-things/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 18:29:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="南多-德科洛谈法国男篮：球队阵容深度出色且充满天赋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/2d53600e2bcc919a54542012acf6862c979e9165.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 法国男篮球员南多-德科洛在近日接受媒体采访时谈到了法国队在本届男篮世界杯的前景。
+   </p>
+   <p>
+    “我们必须思考并专注于我们的比赛内容和我们的团队，”德科洛说道，“最关键的事情是专注于我们自己，我们需要努力达到令对手感到恐惧的水准，而不是过多地考虑对手的实力，我这样说并没有不尊重对手的意思。我一直都是这样想的，我认为这是我们保持前进的最佳方式。”
+   </p>
+   <p>
+    谈到训练营的进展，德科洛说：“训练营的时间不长，我们在波城和里昂进行了两个关键阶段的训练，旨在形成最佳的化学反应，沟通非常重要。我们都渴望做到一些伟大的事情，我们付出了大量努力，并且保持同样的赢球心态。”
+   </p>
+   <p>
+    谈到法国男篮的阵容，德科洛说：“当我第一次入选国家队时，球队阵容体型不足，在此之后，我们得到了一些大个子，但又缺少一些投手。当我们得到了更多投手时，防守又出现问题。而现如今，我们在各个位置都拥有稳定且充满天赋的球员。”
+   </p>
+   <p>
+    “我们拥能够为自己创造投篮机会的球员，我们拥有能够在油漆区、在低位、在关键时刻得分的球员，我们的后卫防守也非常出色。球队阵容深度出色且充满天赋，我们拥有像鲁迪-戈贝尔这样的家伙，他是NBA的最佳防守球员，但防守是场上五个人的责任，只有每个人齐心协力，球队防守策略才会奏效。”德科洛补充道。
+   </p>
+   <p>
+    目前法国男篮大名单还有Andrew Albicy、尼古拉斯-巴图姆、南多-德科洛、埃文-富尼耶、鲁迪-戈贝尔、Louis Labeyrie、Paul Lacombe、Mathias Lessort、蒂莫泰-卢瓦乌-卡巴罗、Amath M’Baye、Adrien Moerman、弗朗克-尼利基纳、樊尚-普瓦里耶和阿克塞尔-唐佩恩。
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

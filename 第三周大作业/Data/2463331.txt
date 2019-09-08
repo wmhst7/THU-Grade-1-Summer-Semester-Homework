@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克雷格谈美国队训练：展现出强度，展现出有对抗的防守
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nuggets/news/craig-earning-rave-reviews-with-usab-20190808" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 10:06:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克雷格谈美国队训练：展现出强度，展现出有对抗的防守" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/62fcefbb34332c57966383fcdf45653ec0697811.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 掘金球员托里-克雷格替代快船后卫兰德里-沙梅特入选美国男篮选拔队。美国男篮的训练场地内很容易找到克雷格，他常常以其他明星球员的防守者的身份出现。
+   </p>
+   <p>
+    克雷格说道：“我要打出强度，我必须时刻展现出强度，不管我有多累。不管我在防守谁，我要确保他们时刻能感受到我的存在。我知道大家都不喜欢这样有身体对抗的防守，我要为了美国队的成功做一切我需要做的事。”
+   </p>
+   <p>
+    即使克雷格在替补席，他也保持着活跃。他在旁边鼓励着选拔队的队友们，或者用吼叫来提醒场上的防守。
+   </p>
+   <p>
+    杰夫-范甘迪了解克雷格进入NBA之前在澳大利亚的经历，他说道：“我爱克雷格，他知道自己是谁。他用了很大的努力才到这里（美国队），同时他也是一个出色的竞争者。对于这样的球员你永远都不嫌多。很庆幸我们能拥有他，我喜欢他。”
+   </p>
+   <p>
+    2014年落选后，克雷格先后为澳大利亚和新西兰的几只球队效力，2017年签约掘金。2018-19赛季克雷格场均出战20.0分钟，能得到5.7分3.5篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

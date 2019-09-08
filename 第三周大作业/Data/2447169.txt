@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比尔谈沃尔：总有流言说我们不和，但我们的关系超越篮球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.washingtonpost.com/sports/2019/06/25/wizards-bradley-beal-with-service-award-hand-definitely-open-extension-talks/" target="_blank">
+     华盛顿邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 11:11:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比尔谈沃尔：总有流言说我们不和，但我们的关系超越篮球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/b6833da7ce88bde41f8c338c2294cc2fbab6545b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 奇才后卫布拉德利-比尔昨日在NBA颁奖典礼上接受了年度社区关怀援助奖，队友约翰-沃尔也到场支持。
+   </p>
+   <p>
+    比尔透露是自己要求沃尔为他上台颁奖的。“我真的希望联盟能够接纳他，看到我们投身于社区活动，我们是兄弟，”比尔在谈到沃尔时说，“总是存在流言蜚语说我们不喜欢对方。需要防患于未然，向大家展示我们的关系超越篮球。”
+   </p>
+   <p>
+    比尔在采访中
+    <a href="https://voice.hupu.com/nba/2447018.html">
+     谈到了自己的未来问题
+    </a>
+    ，同时也谈到了因跟腱撕裂伤势仍将缺席下赛季大部分比赛的沃尔。
+   </p>
+   <p>
+    “上赛季很耗费身体，这赛季将会是10倍的程度，”比尔说道，“联盟中的每个人都知道奇才缺少约翰。我将承担重任，但过去几年内我都在为此做着准备。我不是那种喜欢大包大揽的人，我信任全体队友将会挺身而出，接过重担。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

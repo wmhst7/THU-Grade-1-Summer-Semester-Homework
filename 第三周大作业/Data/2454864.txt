@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利：威廉森需要控制体重，他的膝盖承受了太大压力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/GetUpESPN/status/1151111856871878662?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1151111856871878662&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Fpelicans-news-charles-barkley" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 09:50:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利：威廉森需要控制体重，他的膝盖承受了太大压力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/1c2c3323f85334bd8bf1d07e38eb4deedf7593ff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 NBA名宿查尔斯-巴克利在今日接受采访时谈到了鹈鹕新秀蔡恩-威廉森，他表示威廉森需要控制好自己的体重。
+   </p>
+   <p>
+    “我要对你实话实说，我当年很胖，”巴克利说道，“他们需要对蔡恩的身体进行一些检测，因为他看起来根本不胖。我当年很胖，所以必须减重。我在大学时期体重达到300磅（约136公斤），我认为这是我在大学联赛打球的完美体重。当我进入联盟之后，我必须减重50磅，才最终成为了一位名人堂球员。我认为新奥尔良的训练体系很出色，我喜欢大卫-格里芬和阿尔文-金特里，但他们必须为蔡恩制定一个全方位的计划，看一看他的最佳体重应该保持在多少。”
+   </p>
+   <p>
+    “我听说他现在体重达到了280磅，这样的体重是打不了NBA的，他的膝盖需要承担太大的压力，他是如此高大强壮，但NBA中的每个人都高大强壮。他是一个很棒的孩子，我希望他能够取得成功，但我认为他需要制定详尽的计划，确保自己的体重能够保持在最佳水平。”巴克利说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

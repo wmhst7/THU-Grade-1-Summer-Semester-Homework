@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气侧颜！库兹马社媒发布今日自嗨动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/2096796526698190261?utm_source=ig_story_item_share&amp;igshid=66ssluzgb2l9" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 10:07:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气侧颜！库兹马社媒发布今日自嗨动态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/99d09e7532eb5732a0329844dce34a06448a4c2a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 湖人前锋凯尔-库兹马今日通过Instagram Story更新了一组自嗨动态。
+   </p>
+   <p>
+    “我的天，@Chancetherapper 兄弟你早就知道这将变得疯狂！”库兹马写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出战33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190727/10/ecd67f9b6a69c8dd642f76db99da9808.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190727/10/289e61e758abb8575617cb9cc50b7151.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190727/10/6a00023688616b922ce05a2a664a96b6.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

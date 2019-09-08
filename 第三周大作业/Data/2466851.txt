@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特伦斯-琼斯发布长文总结其在菲律宾效力经历：感谢所有人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UcXFFptu0/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 07:57:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特伦斯-琼斯发布长文总结其在菲律宾效力经历：感谢所有人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/4934bfe448445cb3d63c217e07f9214a7684af02.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 前NBA球员特伦斯-琼斯效力的菲律宾联赛球队TNT KaTropa在联赛决赛中不敌对手，无缘总冠军。赛后，琼斯在个人Instagram上发表长文，对赛季进行总结。
+   </p>
+   <p>
+    “哇哦，这段旅程和经历让人难以置信！我首先想要感谢所有支持我和支持球队的球迷，感谢你们！不只是在比赛中，在平日的生活里，我也感受到了你们满满的爱。”
+   </p>
+   <p>
+    “我也要感谢你们款待我的儿子、我的家庭。我也要对我所有的队友和TNT这支球队表示感谢，自我来的第一天起，就张开双臂热情欢迎我，并与我一路战斗至最终的总决赛。你们总在背后支持着我，我对此深表感激。”
+   </p>
+   <p>
+    “尽管，我们短期内失利了，但是一整个旅程都使我得到了磨练，让我为未来做好准备，感谢你们！感谢我的对手们，你们让我在精神上和身体上都得到了历练，这使我变得更强更棒。”
+   </p>
+   <p>
+    “我爱菲律宾的生活，我爱这里的人们和这个国家。我会回来的！感谢你们！”琼斯写道。
+   </p>
+   <p>
+    此前接受采访时，琼斯表示赛季结束后，期待重返NBA，加盟火箭。火箭总经理达雷尔-莫雷也透露球队很可能会把琼斯带回球队。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466252.html">
+     莫雷：我们很可能会把特伦斯-琼斯带到球队中&gt;&gt;
+    </a>
+   </p>
+   <p>
+    27岁的琼斯是2012年选秀大会的首轮18号秀，当时他被火箭选中。
+   </p>
+   <p>
+    NBA职业生涯至今，琼斯打过234场常规赛，场均出战23.8分钟可以拿到10.4分5.7篮板1助攻1.2盖帽，他上赛季为火箭打了2场比赛。
+   </p>
+   <p>
+    琼斯今年在菲律宾联赛场均出战44.6分钟可以拿到31.2分15.6篮板7.5助攻1.8抢断3盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

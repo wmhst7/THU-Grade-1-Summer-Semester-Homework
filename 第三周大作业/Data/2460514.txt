@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰斯-史蒂芬森1年400万美金加盟辽宁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1156830598939308032" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 15:35:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰斯-史蒂芬森1年400万美金加盟辽宁" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/c7975c11ed726de54477720bc5aa3e6e9be9e961.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 据雅虎体育记者Chris Haynes报道，消息人士透露，后卫兰斯-史蒂芬森以1年400万美金的合同加盟CBA辽宁队。
+   </p>
+   <p>
+    史蒂芬森身高196cm，司职后卫，2010年通过选秀进入NBA，先后效力于步行者、黄蜂、快船、灰熊、鹈鹕、森林狼以及湖人等球队。
+   </p>
+   <p>
+    在上赛季为湖人效力期间，史蒂芬森场均16.5分钟的上场时间里可以贡献7.2分3.2篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

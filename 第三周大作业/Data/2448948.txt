@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：海佐尼亚与开拓者达成1年底薪协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145523960177713152" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 10:47:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：海佐尼亚与开拓者达成1年底薪协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/a61d9313d8341986f25d626150c48503087f3ee3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Adrian Wojnarowski报道，经纪人透露，马里奥-海佐尼亚与开拓者达成1年底薪协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，海佐尼亚场均上场20.8分钟，得到8.8分4.1篮板1.5助攻0.98抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

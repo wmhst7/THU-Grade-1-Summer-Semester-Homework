@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：76人与西蒙斯达成5年1.7亿顶薪续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1150820954513260545" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 01:35:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：76人与西蒙斯达成5年1.7亿顶薪续约合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/1b5df5625df30da11f65d4dfd0821f763dedf52f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据The Athletic记者Shams Charania报道，经纪人里奇-保罗透露，76人与本-西蒙斯达成一份5年1.7亿美元的提前顶薪续约合同。
+   </p>
+   <p>
+    根据此前薪资专家Bobby Marks报道，西蒙斯续约合同每年的金额可能约为2925万美元（2020-21赛季）、3159万美元（2021-22赛季）、3393万美元（2022-23赛季）、3627万美元（2023-24赛季）和3861万美元（2024-25赛季）。
+   </p>
+   <p>
+    根据薪资专家Bobby Marks报道，在续约西蒙斯后，目前76人新赛季的11人大名单薪资总额为1.48亿美元，比预计的奢侈税线高出600万美元。
+   </p>
+   <p>
+    西蒙斯在2016年选秀大会首轮第1顺位被76人选中，他因为左脚骨折缺席了2016-17赛季。
+   </p>
+   <p>
+    2018-19赛季常规赛，西蒙斯场均上场34.2分钟，得到16.9分8.8篮板7.7助攻1.42抢断0.77盖帽，投篮命中率为56.3%，季后赛场均上场35.1分钟，得到13.9分7.0篮板6.0助攻1.25抢断1.0盖帽，投篮命中率为62.1%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

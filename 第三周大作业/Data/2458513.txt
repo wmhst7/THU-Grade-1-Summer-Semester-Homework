@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰拉德-格林：对保罗只有赞美，他是未来的名人堂
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/rockets-news-gerald-green-has-nothing-but-good-things-to-say-about-chris-paul/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 09:11:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰拉德-格林：对保罗只有赞美，他是未来的名人堂" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/2183c45c2399e968d526279871a3a11c0c41baaf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 火箭后卫杰拉德-格林今天在采访中谈到了前队友克里斯-保罗。
+   </p>
+   <p>
+    他表示：“他是那种能对球队产生影响的球员，让每个人关注于胜利，他这方面一直做得不错。能和他打球是我的荣幸，他是我合作过最好的控卫之一，我无意冒犯那些跟我打过球的控卫，但我感觉保罗就是最好的控卫之一。我们永远会是朋友，作为朋友，我为他高兴，他是未来的名人堂成员，我很确定会有越来越多人尊重他的职业生涯。”
+   </p>
+   <p>
+    “所以，我对保罗只有赞美，对我而言，他一直是个很酷的家伙，希望他在雷霆顺利，打出最好的表现。”格林继续说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

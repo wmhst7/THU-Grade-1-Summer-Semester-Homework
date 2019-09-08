@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约翰尼-奥布莱恩特将签约库班火车头篮球俱乐部
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Carchia/status/1160214398293741570" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 08:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约翰尼-奥布莱恩特将签约库班火车头篮球俱乐部" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/e5bd7d2762446c88c85c22109acbf789d4b46279.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 根据立陶宛篮球记者Donatas Urbonas的报道，多位消息人士透露，约翰尼-奥布莱恩特预计将与俄罗斯劲旅库班火车头篮球俱乐部签约。
+   </p>
+   <p>
+    根据Sportando体育Emiliano Carchia的报道，他可以确认奥布莱恩特将与库班火车头篮球俱乐部达成协议，预计很快官宣。
+   </p>
+   <p>
+    奥布莱恩特在2014年NBA选秀大会中第36顺位被雄鹿选中，曾效力于雄鹿、掘金和黄蜂，共出战了147场比赛，场均上场11.5分钟得到3.5分2.4个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

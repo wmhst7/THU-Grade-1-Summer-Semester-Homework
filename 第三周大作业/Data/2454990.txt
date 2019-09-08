@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  红白14号！鹈鹕官网发布英格拉姆球衣定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/pelicans/gallery/first-look-new-pelicans-players" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 14:52:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="红白14号！鹈鹕官网发布英格拉姆球衣定妆照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/a8002a1664f636a394c9f3acb22af26b4d20e5f1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 鹈鹕官网今日发布了布兰登-英格拉姆、朗佐-鲍尔、约什-哈特和德里克-费沃斯的球衣定妆照。
+   </p>
+   <p>
+    2018-19赛季常规赛，英格拉姆场均上场33.8分钟，得到18.3分5.1篮板3.0助攻；鲍尔场均上场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断；哈特场均上场25.6分钟，得到7.8分3.7篮板1.4助攻；费沃斯场均上场23.2分钟，得到11.8分7.4篮板1.2助攻1.39盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/14/57d77d6214fa1c868e4eded0682ae2b8.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/14/eb92b0249d346ac4f8638c055954506f.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/14/1e8e4d2cc494599dd8d487258a83c82d.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/14/8a92d7f21e65dfbfb262bf835b019856.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

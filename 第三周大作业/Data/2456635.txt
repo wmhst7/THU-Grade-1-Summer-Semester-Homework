@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  时光飞逝！公牛官推展示十年前的绿色版公牛球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0L57W0A0Rt/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 01:18:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="时光飞逝！公牛官推展示十年前的绿色版公牛球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/825eb5b485ca8e340130154384e72bedb47aaac2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 今天公牛官方在推特上展示出2009年柯克-辛里奇穿着一套绿色版公牛球衣的照片。
+   </p>
+   <p>
+    公牛官方写道：“给大家展示一套来自2009年的绿色版公牛球衣，感觉如何？”
+   </p>
+   <p>
+    柯克-辛里奇职业生涯为公牛出战748场常规赛，场均31.5分钟，能得到11.4分3.0篮板5.1助攻。
+   </p>
+   <p>
+    此前公牛官方还展示过多套公牛历史球衣。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/01/90075c3e331699021dcad5c0417386a5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/01/76e237b6920780fd172e01f2856ff4c0.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

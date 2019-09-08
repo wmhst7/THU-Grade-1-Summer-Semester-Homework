@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林近期在温哥华遭遇了车内物品被盗事件
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.thestar.com/vancouver/2019/07/10/former-toronto-raptor-danny-green-says-he-was-robbed-outside-a-vancouver-airbnb.html" target="_blank">
+     多伦多星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 09:19:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林近期在温哥华遭遇了车内物品被盗事件" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/a287299bef769cdf1eb55d26950c8a4dcf24c292.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 近日丹尼-格林参加了一档播客节目，节目中格林讲述了自己在加拿大温哥华遭遇的一次偷盗事件。
+   </p>
+   <p>
+    近期格林在温哥华举办青少年篮球训练营，他和朋友们在Airbnb上预定了一处“照片上看起来很不错”的民宿。但他们到达民宿准备办理入住时才发现现场与图片不符，“我们必须换一家，那里太旧了，看起来破破烂烂的像闹鬼一样。”格林说道。
+   </p>
+   <p>
+    格林与友人一起下车查看住处，留了两个大包在车上。“我们进去有10分钟……然后我们回到车上，然后发现两个包被偷了。”格林说道。根据格林的讲述，包里有“电子设备，电脑，笔记本电脑”，还包括他们收取的训练营报名费。
+   </p>
+   <p>
+    据此前的报道，丹尼-格林与湖人签下一份2年3000万美元的合同。2018-19赛季常规赛，格林场均出战27.7分钟可以拿到10.3分4篮板1.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

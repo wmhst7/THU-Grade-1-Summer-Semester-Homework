@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳感觉拉塞尔场下对布克会有不好影响，所以没有追求拉塞尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.azcentral.com/story/sports/nba/suns/2019/07/01/phoenix-suns-felt-dangelo-russell-wouldnt-good-influence-devin-booker/1615193001/" target="_blank">
+     亚利桑那共和报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳感觉拉塞尔场下对布克会有不好影响，所以没有追求拉塞尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/6f7efd091fcf29dd2c81a96ea3d5c94840b42990.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据《亚利桑那共和报》记者Duane Rankin的报道，一位了解情况的消息人士透露，尽管德文-布克想让太阳追求好友丹吉洛-拉塞尔，但是太阳没有这么做。
+   </p>
+   <p>
+    太阳方面感觉拉塞尔在场下对布克会有不好的影响，于是太阳选择签下里基-卢比奥。
+   </p>
+   <p>
+    布克和拉塞尔是同一年的乐透秀，他们相识已经很久，自从高中开始，拉塞尔和布克就成为了好友。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

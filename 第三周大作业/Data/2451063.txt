@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕森斯：当我健康时，我仍是一名出色高效的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CVivlamoreAJC/status/1147632003447062528" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 07:34:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕森斯：当我健康时，我仍是一名出色高效的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/c309623b911a2470ee74f581418385f1c0b8a2a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 根据NBA记者Adrian Wojnarowski之前的报道，多位消息人士透露，灰熊将钱德勒-帕森斯交易至老鹰，得到所罗门-希尔和迈尔斯-普拉姆利。
+   </p>
+   <p>
+    在今日的夏季联赛上，帕森斯与约翰-科林斯、凯文-赫尔特和特雷-杨一起到场观战。
+   </p>
+   <p>
+    谈到加盟老鹰，帕森斯说：“非常激动，能在一支像老鹰这样的球队重新开始，对我来说，这令人难以置信，他们的年轻核心真的很特别。”
+   </p>
+   <p>
+    帕森斯称自己刚从德国回到美国，他在德国再次接受了“The Regenokine Program”的膝盖治疗方案。
+   </p>
+   <p>
+    “过去三个赛季对我来说产生了严重的不良影响，这令人沮丧，但是与此同时，我仍然还能做到很多，当我健康的时候，我仍然是这个联盟一名出色高效的球员。”帕森斯说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

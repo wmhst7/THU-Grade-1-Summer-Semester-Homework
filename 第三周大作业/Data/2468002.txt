@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才主教练：我上个赛季的工作做得不好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/08/21/scott-brooks-wizards-thunder-john-wall-bradley-beal-isaiah-thomas-podcast?utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=thecrossover&amp;xid=socialflow_twitter_si" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 13:16:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才主教练：我上个赛季的工作做得不好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/0f9c2aa8a30851993bd81561280a2a5ba1070498.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 奇才主教练布鲁克斯近日在采访中回顾了上个赛季，他坦言自己做得并不好。
+   </p>
+   <p>
+    “好吧，你知道上赛季球队发生了很多的事情，回顾过去几个月，我回想起的第一件事，就是觉得我的工作并没有做好。我本可以做些不同的事情，我们遭遇了不幸的伤病，这不是你喜欢的，但你没有为此做好准备。”
+   </p>
+   <p>
+    “你无法为沃尔上赛季缺席40场而这赛季缺席50场做出准备，你不知道他什么时候能出战，他现在在努力恢复，致力于回归比赛。我们遭遇了一个糟糕的伤病年，但上赛季是发生在赛季初，这非常艰难。沃尔是球队重要的一部分，当他健康的时候，我们就能表现得很好。”
+   </p>
+   <p>
+    奇才上赛季取得32胜50负的战绩，排名东部第11，无缘季后赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

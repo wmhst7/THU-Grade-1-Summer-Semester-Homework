@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小佩顿：现在的尼克斯由一群等着证明自己的人组成
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/07/04/nba-free-agency-rumors-knicks-new-york-elfrid-payton-randle-barrett-durant-kyrie-irving/?tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 14:00:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小佩顿：现在的尼克斯由一群等着证明自己的人组成" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/b88109793939d1c81c9adb5db0094a7863cc2ec7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 此前与尼克斯达成协议的埃尔弗里德-佩顿今日接受HoopsHype采访，谈到自己自由球员签约相关事宜以及对球队未来的展望。
+   </p>
+   <p>
+    被问及觉得球队潜力如何时，小佩顿表示：“我觉得我们真的很棒。很显然，我们有像RJ-巴雷特和凯文-诺克斯这样的年轻人，他们是后起之秀。然后，有像我和朱利叶斯（兰德尔）这样的过渡。然后，把泰-吉布森这样真正的、有丰富季后赛经验的老兵混合进球队。这是一个很好的组合，我认为我们有机会一起做一些特别的事。”
+   </p>
+   <p>
+    当被问及有什么话想对那些因为没有引援到大牌球星而沮丧的尼克斯球迷说时，小佩顿说：“伙计们，就坐下来接着看吧。球迷们会逐渐爱上尼克斯现有的球员的。当你错过了像凯文-杜兰特和凯里-欧文这种球员的时候，觉得难过是很正常的。但我觉得他们总有一天会爱上这群人的。我认为我们代表了当下纽约的篮球——一群不怕苦的、强硬的人，肩上扛着使命，等着证明自己。”
+   </p>
+   <p>
+    谈到在奥兰多、新奥尔良这样的小球市待过后来到麦迪逊广场花园后的感受，小佩顿表示：“我认为这是很好的向别人展示我真实水平的机会。可能很多人只是听说过我偶尔会拿个三双，或者很多人只是知道我的发型。现在人们终于有机会看看我的比赛以及我是如何每年进步的了。这里是篮球的圣地！”
+   </p>
+   <p>
+    埃尔弗里德-佩顿2018-19赛季常规赛场均上场29.8分钟，得到10.6分5.2篮板7.6助攻1.05抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

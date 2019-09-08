@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗伊斯-怀特：安东尼肯定被封杀了，我们都知道他的出色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ESPNNBA/status/1163810968176123904" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 11:57:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗伊斯-怀特：安东尼肯定被封杀了，我们都知道他的出色" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/9bb4408ddae73931e159ff42913c855bfd17243e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 近日，前NBA球员，现BIG3联赛球员罗伊斯-怀特接受了记者采访，谈到了卡梅罗-安东尼。
+   </p>
+   <p>
+    “卡梅罗-安东尼肯定是被封杀了。你知道，他不像我，他不会说一些尖刻或是直接的话，但是他拥有职业道德和原则，他已经为这个比赛付出了很多，而他们不允许他继续在联盟征战了。他们出于球队文化的考虑，做出了一个决定或是约定，认为安东尼不再足够优秀了。但联盟里所有在高水平上竞技的人都知道他有多么优秀。湖人不可能去签了贾里德-杜德利，而没有签卡梅罗-安东尼。”
+   </p>
+   <p>
+    “另一个问题是，勒布朗-詹姆斯这样的一名球员表现得像是他是联盟门面以及球员们的发声代表，他怎么能对他那已经做好了准备，等待着机会的‘香蕉船’兄弟坐视不管，而湖人签下了贾里德-杜德利而不是卡梅罗-安东尼呢？如果任何看着我说这段话的人认为贾里德-杜德利能比肩卡梅罗-安东尼，我会扇他们耳光的。”
+   </p>
+   <p>
+    杜德利在推特上回应：“这不是卡梅罗-安东尼在和他自己比，安东尼是一位首次提名就能入选名人堂的球员。我们都希望看到他回归联盟。罗伊斯在说这些话并在这种情况下提到我的名字的时候似乎并没有意识到，联盟签约球员的原则是哪名球员最适合球队，而非哪名球员比另一名球员好。”但之后杜德利删除了这条推特。
+   </p>
+   <p>
+    快船球员帕特里克-贝弗利转发了罗伊斯-怀特的这段视频，并评论：“他说得没错。”
+   </p>
+   <p>
+    2012年选秀大会上，火箭用首轮16号签选中罗伊斯-怀特。在今年的2019年BIG3选秀大会上，Enemies用状元签选中了罗伊斯-怀特。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

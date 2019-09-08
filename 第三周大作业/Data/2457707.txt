@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔默现身乔治伦纳德新闻发布会：我实在是太激动了！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1154112281157877760" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 03:38:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔默现身乔治伦纳德新闻发布会：我实在是太激动了！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/32db6760b85fd713df87efb1a3b06507f95b933b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日快船为保罗-乔治和科怀-伦纳德举办了介绍新援的新闻发布会，球队老板史蒂夫-鲍尔默进行了激情的演讲。
+   </p>
+   <p>
+    “我做好了演讲稿，但我现在只想说，来到这里，我感觉整个人太兴奋了！太酷了，这太酷了！我实在是太激动了。哇哦！我们在上赛季是非常出色的球队，我们有着正确的比赛方式，我们很努力和顽强，这就是我们。我们打出了一个非常、非常、非常出色的赛季！我很自豪我们拥有这些球员，我很自豪与球员达成续约。我们认为乔治和伦纳德的组合很完美，他们让我们有机会达成我们唯一想要达成的成就。我们不是为了成为第二或第四。我们来到这里只有一个原因，就是我们会赢下一切，我很自豪我们拥有这样的管理层团队，为球队找来了这样两名球员，我很敬佩他们的职业生涯，我很激动他们来到这里。我很自豪站在这里，我感到很荣幸。
+   </p>
+   <p>
+    “这对于球队而言十分重大，我们和球员们将在社区作出更多贡献。但更多的是，我感到非常激动，欢迎乔治和伦纳德加盟快船！大家一起来欢迎他们！都站起来！（全体起立）我们得到了我十分激动想要得到的两名球员，他们的比赛都很坚韧，他们每个赛季都在变得更好，我对于他们的不懈努力感到十分鼓舞。
+   </p>
+   <p>
+    “他们两个都是MVP级别的球员。乔治打出了职业生涯最棒的赛季，尽管遭遇小伤病，最终在MVP投票中排名第三。伦纳德当选了总决赛MVP，这太棒了！我们会赢下很多比赛，但我们只要赢下NBA整个赛季的最后一场比赛，这是我们必须赢下的。”鲍尔默十分激动地说道。
+   </p>
+   <p>
+    此前快船正式宣布，球队正式签下伦纳德，并与雷霆达成交易得到乔治。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

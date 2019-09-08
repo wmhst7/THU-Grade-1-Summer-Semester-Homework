@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布拉兹代基斯：想让纽约骄傲，休息使我的身心做好了准备
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/zion-williamson-says-knicks-are-getting-a-killer-in-rj-barrett/309897160" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 15:09:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布拉兹代基斯：想让纽约骄傲，休息使我的身心做好了准备" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/8d6e14ca408de9e21dd49dea51fab77e3b6e4ddf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 近日，尼克斯球员伊格纳斯-布拉兹代基斯参加了球星卡公司的NBA新秀摄影活动，期间接受了采访。
+   </p>
+   <p>
+    今夏，尼克斯签下了自由球员朱利叶斯-兰德尔、马库斯-莫里斯、博比-波蒂斯和埃尔弗里德-佩顿。对此，布拉兹代基斯说：“我认为我们拥有一支出色的队伍。我认为我们都有相同的心态，那就是我们只想赢球，让纽约感到骄傲。我认为我们会打出很棒的表现，我们会有很好的配合。”
+   </p>
+   <p>
+    在被问到夏季联赛结束之后自己做了什么时，布拉兹代基斯说：“我与我的密友和家人共度了很长一段时光。我需要这段时间——整个一年我都在不停工作。夏季联赛之后我有几星期时间稍微放松一下。从身体和心理上这对我都是有好处的，所以我现在准备好继续前进了。”
+   </p>
+   <p>
+    谈到给球星卡签名的感受时，布拉兹代基斯说：“实际上，给自己的球星卡签名让我感到不真实，这真的太疯狂了。因为从小到大，我是球星卡的发烧友。我过去常常会收集所有球星卡。现在我拥有了自己的球星卡，并给它们签名，这实在太令人惊叹了。”
+   </p>
+   <p>
+    伊格纳斯-布拉兹代基斯来自于立陶宛，被国王以次轮第17顺位选中，随后被送至尼克斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯利用保罗Ins发布其训练视频，随后转发至自己账号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/cp3/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 22:07:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯利用保罗Ins发布其训练视频，随后转发至自己账号" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/925bb342a928294f7e4aa42f5eff6c703e02d4d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 湖人前锋勒布朗-詹姆斯今天利用雷霆后卫克里斯-保罗的Instagram账号拍摄并发布了保罗与自由球员卡梅罗-安东尼的训练视频。
+   </p>
+   <p>
+    该组视频中保罗面对地上摆放的一对杠铃的重量似乎有些异议，不时转向一旁正在进行举重训练的安东尼，并与詹姆斯的训练师进行沟通。此时的拍摄者詹姆斯对保罗说道：“嗨，你在干嘛呢？这都是你的。不，这都是为你准备的，现在就做！没关系，你是那个上半身壮如牛的人，试试吧！壮汉，壮汉，是的，那就是我，快试试吧。”
+   </p>
+   <p>
+    值得一提的是，詹姆斯在这段视频中艾特了自己和安东尼，似乎在模仿该账号真正主人保罗的配文习惯。最后，詹姆斯又将这段本人拍摄的视频转发至个人Instagram Story中，并为之添加了一连串的笑哭表情，圆满完成此次角色扮演。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4403495505586806">
+     视频：詹姆斯“劫持”保罗Ins账号拍摄训练视频
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190809/22/4456843eb0109ab177dbb0e3dd9c1075.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190809/22/627350452cea1685c134af66323f470b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190809/22/ea95c29e7cc619f4fbdb190bf80eafac.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/22/0b13f433795f8e42a220657cdac83d84.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

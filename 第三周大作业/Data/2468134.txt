@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克更新社媒晒出美国男篮热身赛前入场照：我的兄弟们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1d3n99D2Ap/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 23:09:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克更新社媒晒出美国男篮热身赛前入场照：我的兄弟们" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/7f0052644e2985efa1c59c2a14deb42061994fc1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 今日，美国男篮热身赛以102-86大胜澳大利亚男篮，赢得了本场热身赛的胜利。
+   </p>
+   <p>
+    随后，凯尔特人后卫、美国男篮国家队成员肯巴-沃克更新了个人社交媒体Instagram晒出一张热身赛前美国男篮入场照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“我的兄弟们！”
+   </p>
+   <p>
+    本场热身赛，肯巴-沃克表现出色，砍下23分6篮板。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

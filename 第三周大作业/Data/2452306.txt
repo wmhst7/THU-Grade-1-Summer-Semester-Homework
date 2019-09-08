@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷-阿伦发布自己与汀布莱克等人打高尔夫的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzt7u_LhGBD/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 11:25:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷-阿伦发布自己与汀布莱克等人打高尔夫的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/cadba1eac6d8692a9dc6d2bf43344b89c79568d0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今天前NBA球员雷-阿伦在Instagram上发布了一张自己与贾斯汀-汀布莱克等人打高尔夫球的合影。照片的定位是加利福利亚的South Lake Tahoe。
+   </p>
+   <p>
+    雷-阿伦写道：“和朋友们一次很棒的练习。”
+   </p>
+   <p>
+    贾斯汀-汀布莱克是美国著名歌手、演员、商人和音乐制作人。雷-阿伦职业生涯出战1300场常规赛，场均出战35.6分钟能得到18.9分4.1篮板3.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

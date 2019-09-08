@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  忠实粉丝！西蒙斯发布自己身穿电竞队服的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzuBiqPnrGF/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 11:15:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="忠实粉丝！西蒙斯发布自己身穿电竞队服的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/c18604fd5c0f120c9025c3b0e895204f346f6f5e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今天76人球员本-西蒙斯在Instagram上发布了自己的个人照，照片中他身穿FaZe Clan堡垒之夜分队的队服。
+   </p>
+   <p>
+    FaZe Clan是美国一只职业电竞俱乐部，参加项目包括绝地求生、CSGO、使命召唤、堡垒之夜等。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/11/15ee65605a5e33f445f55d9cb6c61458.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/11/614d9cbc0be1c9b55e65f584847d45e7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

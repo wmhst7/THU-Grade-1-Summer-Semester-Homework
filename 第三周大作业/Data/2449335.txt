@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈耶斯-伦纳德致谢开拓者：感谢波特兰的所有人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MeyersLeonard11" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 09:04:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈耶斯-伦纳德致谢开拓者：感谢波特兰的所有人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/8eaa495405f228e80b9d1ee6cef39fc7a796ad43.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 在今天达成的一笔交易中，开拓者将迈耶斯-伦纳德送至热火，将莫里斯-哈克利斯送至快船，得到了内线哈桑-怀特塞德。随后，迈耶斯-伦纳德在个人推特上发表多张图片并对开拓者表达了感谢。
+   </p>
+   <p>
+    迈耶斯-伦纳德写道：“波特兰，其实我甚至不知道该如何开口。20岁时我就来到了这里，那时我的梦想就是进入NBA，能够照顾好我的家人，并打上我喜欢的比赛。”
+   </p>
+   <p>
+    “我在波特兰成为了一个男人，我在波特兰与我美丽的妻子结缘。我觉得球队帮助我构建出了一种经久不衰的文化，我非常感谢在过去7年里球队给我的机会。”
+   </p>
+   <p>
+    “感谢我所有的队友、教练、工作人员、媒体记者、波特兰开拓者俱乐部和球迷们，当然还有波特兰这座城市。谢谢，我真心的把自己的灵魂都奉献给了你们，我也真诚地希望我能给你们留下了一个美好的回忆。”
+   </p>
+   <p>
+    “心中永远带着爱和忠诚，再见波特兰！”
+   </p>
+   <p>
+    迈耶斯-伦纳德在2012年首轮第11顺位被开拓者选中，之后共为开拓者出战了393场常规赛，场均15.5分钟内可以得到5.6分3.7篮板0.9助攻。
+   </p>
+   <p>
+    <img alt="" src="https://wx1.sinaimg.cn/mw1024/3ed1808dly1g4l7s3oxtuj20gk0gp3zo.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://wx1.sinaimg.cn/mw1024/3ed1808dly1g4l7s3p7v0j20n50faq4o.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://wx2.sinaimg.cn/mw1024/3ed1808dly1g4l7s3lf70j20gi0gfq3r.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://wx1.sinaimg.cn/mw1024/3ed1808dly1g4l7s3hfs2j20hi0bp0tc.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

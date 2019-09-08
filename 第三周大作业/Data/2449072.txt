@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利：对杜兰特加盟篮网感到惊讶，他配得上这份合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/be808/status/1145490997880561664" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 17:13:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利：对杜兰特加盟篮网感到惊讶，他配得上这份合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/edd5eddde033f4ec586fdaa81ee275a638c00f73.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 NBA名宿查尔斯-巴克利在今日接受电话采访时谈到了凯文-杜兰特和凯里-欧文加盟篮网。
+   </p>
+   <p>
+    谈到听到杜兰特加盟篮网后的第一反应，巴克利说：“惊讶，我感到非常惊讶，显而易见，凯文下赛季出场的可能性不大，但我一直认为有些球队会为他奉上一份他配得上的合同。你知道的，很多球队有薪资空间，也愿意花钱，但他们却得不到任何球员。我认为篮网做了很棒的工作，我认为这支球队配得上拥有超级球星。”
+   </p>
+   <p>
+    “我知道你们肯定会讨论，杜兰特需要一年时间才能重返赛场，凯里独自带队将何去何从？他们可不能放松心态挥霍一个赛季，这也就是他们得到德安德烈-乔丹的原因，他们也有一些不错的年轻球员。”巴克利补充道。
+   </p>
+   <p>
+    谈到杜兰特加盟篮网的动力，巴克利说：“他需要这样做，他对之前遭遇的一些状况感到不高兴，就是这样，他100%不想陷入那种处境当中，他和德雷蒙德（格林）之间的关系一度很紧张，他应该不喜欢在那种情况下打球。我也不知道，我也只是猜测，但是显而易见他并不高兴，他在勇士的前景非常理想，现如今他选择离开那个环境，这肯定是有原因的，这是很简单的道理。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

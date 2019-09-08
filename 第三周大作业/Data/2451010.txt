@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：祖巴茨4年2800万合同留守快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147573711710695424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 02:32:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：祖巴茨4年2800万合同留守快船" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/238735df7b30578cb104a7b3f8adc117e40d40dd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据NBA记者Adrian Wojnarowski报道，消息源透露，伊维察-祖巴茨已经与快船达成一份4年2800万的合同，留守快船。
+   </p>
+   <p>
+    2018-19赛季结束后，快船为祖巴茨提供了资质报价，后者成为受限制自由球员。
+   </p>
+   <p>
+    祖巴茨在2016年选秀大会次轮第2顺位被湖人选中，上赛季被交易到快船。在季后赛首轮主场105-131不敌勇士的比赛中，祖巴茨得到18分15篮板的大号两双数据，以22岁31天的年纪成为快船队史在季后赛砍下两双的最年轻球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，祖巴茨场均出场17.6分钟可以得到8.9分6.1篮板，季后赛场均上场9.8分钟，得到5.0分5.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  触景生情！詹姆斯：看到两个儿子早起打球，我哭了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1165322145972359169?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 08:07:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="触景生情！詹姆斯：看到两个儿子早起打球，我哭了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/ea012ba0d697b747215d769f205001a4723e3a34.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 湖人前锋勒布朗-詹姆斯今日通过推特发表自己对于父子关系的感触。
+   </p>
+   <p>
+    詹姆斯在当地时间今早5时许曾拍摄他的两个儿子先后来到自家后院篮架下练习篮球的场景。随后，詹姆斯发布一张图文对此表抒发感想：“天啊，看到我的两个男孩早上5点来到外面打球，这真的让我在前往训练的路上坐在车里哭了。这是一个身为人父的骄傲时刻，你永远不会从我的角度理解这种感受，除非你的一生从未有过父亲的陪伴，除非你在努力向自己的孩子灌输‘刻苦精神’，因为他们永远不必经历你曾经不得不承受的体验。”
+   </p>
+   <p>
+    詹姆斯为这段文字配文道：“#詹姆斯帮。生活。笑容。爱意。”
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/08/f01eb22777b6bd78c6b3583b2f67bc22.jpeg"/>
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2468752.html">
+     父子传承！詹姆斯拍摄两个儿子清晨5点后院练球动态
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

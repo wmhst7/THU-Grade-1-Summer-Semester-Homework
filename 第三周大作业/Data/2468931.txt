@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔：磨合很重要必须尽快进入状态，不在意人们的轻视
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/08/24/julius-randle-is-already-attacking-knicks-biggest-issue/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 09:30:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔：磨合很重要必须尽快进入状态，不在意人们的轻视" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/780efd86ace4433e0aec8524a9895f23e8643ff1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 近日，尼克斯球员朱利叶斯-兰德尔接受了《纽约邮报》记者的采访。
+   </p>
+   <p>
+    谈到尼克斯在洛杉矶进行的训练时，兰德尔说：“那是很棒的。我们进行了二打二，三打三的训练赛。球队中有很多新球员——我们签约了七名球员，我们还有RJ-巴雷特和伊格纳斯-布拉兹代基斯这两名新秀，了解彼此并在训练营开始前一起在球场上呆一段时间对我们来说是很重要的。”
+   </p>
+   <p>
+    “球队中有很多新球员。每个人都要努力弄清楚他们的角色。主教练大卫-菲兹代尔将很好地帮助我们完成这一过程。如果我们想成为一支优秀的队伍，获得一个机会，我们必须很快进入状态，调整自己。”
+   </p>
+   <p>
+    拉斯维加斯预测的尼克斯新赛季胜场数仅为28胜。对此，兰德尔说：“人们很容易轻视我们球队，因为过去几个赛季里球队的状况是艰难的。但是我们是一支具备阵容深度的球队。我们的阵容很有深度，从第一人到第十五人都是能够上场打球的球员。如果人们轻视我们，我对此并不在意。”
+   </p>
+   <p>
+    谈到自己在休赛期的训练时，兰德尔说：“我的训练涉及到很多方面，在进攻端我想让我的表现更加高效，在防守端我会看录像，看看我能怎样进行提高。”
+   </p>
+   <p>
+    今夏，兰德尔与尼克斯签下了一份3年6300万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

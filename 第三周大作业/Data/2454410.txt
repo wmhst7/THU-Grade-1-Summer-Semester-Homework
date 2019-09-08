@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K20五大三分射手三分能力值公布：库里99
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:45:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K20五大三分射手三分能力值公布：库里99" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/84a2994f6adfddd17dd5b32ac27ceaa3ee5aa0fb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 2K官方的首次NBA 2K20能力值公布视频直播正在进行中，2K官方刚刚公布了三分能力值最高的五名射手球员。
+   </p>
+   <p>
+    勇士球员斯蒂芬-库里三分能力值达到了99，排名第一；库里的队友克莱-汤普森三分能力值97排名第二；排名第3-5位的三分射手分别是乔-哈里斯（3分能力值94）、JJ-雷迪克（3分能力值90）、巴迪-希尔德（3分能力值90）。
+   </p>
+   <p>
+    这是2K官方首次将球员能力值以视频直播的形式集中公布。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

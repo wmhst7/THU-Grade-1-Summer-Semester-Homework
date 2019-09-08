@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戈贝尔获得65张第一选票，字母哥26张，乔治6张
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TomerAzarly/status/1143358932481503232" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:40:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戈贝尔获得65张第一选票，字母哥26张，乔治6张" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/d60241bc65a474d8938246753d09b7e8d88bab79.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     在今天的颁奖大会上，爵士内线鲁迪-戈贝尔当选为本年度的最佳防守球员。
+    </span>
+   </p>
+   <p>
+    在随后颁布的得票情况里，戈贝尔得到65张第一选票，27张第二选票，5张第三选票，总分411分高居第一。
+   </p>
+   <p>
+    雄鹿前锋扬尼斯-阿德托昆博得到26张第一选票，44张第二选票，18张第三选票，总分280分排在第二。
+   </p>
+   <p>
+    雷霆前锋保罗-乔治得到6张第一选票，23张第二选票，51张第三选票，总分150分排在第三。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

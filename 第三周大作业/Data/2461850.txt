@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾利尔-奥卡福：很幸运能够举办我的个人训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0weXLHBu54/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 11:36:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾利尔-奥卡福：很幸运能够举办我的个人训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/e9b3b0b23c1a57bf01231f308b94cb4d95fbcd8e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 今日鹈鹕球员贾利尔-奥卡福更新了自己的个人Instagram动态，晒出了自己举办个人训练营的照片。
+   </p>
+   <p>
+    “很幸运能够举办我的个人训练营，人们想要参与其中，我感到很荣幸。谢谢主办方帮忙策划这次活动，让我和所有参与其中的孩子们感到快乐！”奥卡福写道。
+   </p>
+   <p>
+    今年夏天，鹈鹕宣布执行奥卡福2019-20赛季的球队选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，奥卡福场均上场15.8分钟，得到8.2分4.7篮板。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/2547c900c6ef4f136db2da6be016a708.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/3680d27f54ae9c49fbb0bd1ce1ec4b93.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/3e064bbb367e8a0245708462611871ad.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/11/e4e20d82d48af0fd0f1ba666459960c9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

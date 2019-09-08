@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔-哈里斯：所有人关注的都是成为尽可能优秀的美国队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-20.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 17:02:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔-哈里斯：所有人关注的都是成为尽可能优秀的美国队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/94ae46d7f90e96b026470bc7b2b5fbe0d7971d25.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 美国男篮目前正在澳大利亚备战热身赛，篮网球员乔-哈里斯在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到对于热身赛的期待时，哈里斯说：“我们每天都在努力进步。所以不管是训练还是比赛，我们都将以我们提升自己，不断进步的方式竞争，无论我们的对手是谁。也许我们会进行今天这样的训练赛，与彼此对阵，但是我们所有人所关注的都是成为一支尽可能优秀的美国队，希望我们能将一切整合起来。那时候，你会希望如果我们以正确的方式行事，成果会接踵而至。”
+   </p>
+   <p>
+    在之前美国队对阵西班牙队的热身赛中，乔-哈里斯出场19分钟，得到3分4篮板1助攻1抢断1盖帽。
+   </p>
+   <p>
+    北京时间8月17日至8月26日，美国男篮将与西班牙、澳大利亚、加拿大进行四场热身赛。
+   </p>
+   <p>
+    2018-19赛季常规赛，乔-哈里斯场均出场30.2分钟，得到13.7分3.8篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

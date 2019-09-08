@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  史蒂文斯：没有人是比波波维奇教练更出色的沟通者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/celtics-team-usa-get-taste-gregg-popovich-experience" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 12:18:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="史蒂文斯：没有人是比波波维奇教练更出色的沟通者" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/21021c716796ef2f48e07ce3077dfc6cf35824c8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 凯尔特人主教练布拉德-史蒂文斯在近日接受媒体采访时谈到了杰森-塔特姆、杰伦-布朗、马库斯-斯马特和肯巴-沃克在美国男篮训练营中接受美国男篮主教练格雷格-波波维奇的指导。
+   </p>
+   <p>
+    “显而易见，没有人是比Pop（波波维奇）更出色的沟通者，没有人做得比他更好，对于这些家伙而言，能够得到Pop的指导，这非常棒。”史蒂文斯说道。
+   </p>
+   <p>
+    布朗表示：“为格雷格-波波维奇教练打球，我愿意在一周中的任何一天这样做。”
+   </p>
+   <p>
+    “这太不可思议了，我在两年之前曾有幸在选拔队中为Pop效力，我看到了Pop与在联盟中执教时不同的一面，”斯马特说道，“他总是在开玩笑，他是一个很棒的家伙，他是一位你会想要为他工作的教练。我一直在波士顿效力，整个职业生涯都在为布拉德（史蒂文斯）教练打球，每位教练都有不同的执教风格，你可以从每一位教练身上学习，并且将学到的东西融合在一起。”
+   </p>
+   <p>
+    沃克与波波维奇的相处非常融洽，二人在训练营中总是面带微笑。
+   </p>
+   <p>
+    “这太棒了，在成长的过程中，你见证了Pop教练带队赢得总冠军，你看到了他的采访风格等类似的东西，能够为他打球，这是一种荣幸。”沃克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

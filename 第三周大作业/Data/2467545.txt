@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少：我只想能够影响和激励尽可能多的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://people.com/sports/nba-star-russell-westbrook-joins-initiative-to-promote-job-skills-for-at-risk-young-adults/" target="_blank">
+     人民网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 07:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少：我只想能够影响和激励尽可能多的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/a8ddcd232ef25a78ff83a0c0bf4034e427046bbf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 根据《人民网》记者Reagan Alexander的报道，火箭球员拉塞尔-威斯布鲁克昨日在洛杉矶市中心启动了威斯布鲁克/布朗斯坦绿色科技项目，目的是为了帮助那些处于危险之中的市区年轻人远离大街，回到教室。
+   </p>
+   <p>
+    “我感觉这个项目真的可以影响到很多孩子们的未来，改变他们之前的心态，我肯定可以理解这些，因为我感觉我之前也是这样的孩子之一，小时候成长于洛杉矶，努力寻找自己的出路，找到对我来说最好的前进方向。”威斯布鲁克说道。
+   </p>
+   <p>
+    威斯布鲁克接着说：“这就是我的动力，真的，我之前没有寻求任何人的帮助，但是我肯定认为有能力的人可以提供帮助的话会很重要，能做到这一点是我的动力，让我可以回馈，给处于我之前情况里的孩子们一些帮助。”
+   </p>
+   <p>
+    “我小时候就像我今日看到的这些孩子们一样，这真的可以引起我的共鸣，我可以跟他们交流，因为我知道缺少一些东西，没有资源，没有书，没有可以取得成功的那些东西和工具是什么样的感受。”威斯布鲁克说道。
+   </p>
+   <p>
+    威斯布鲁克最后说：“我只想能够影响和激励尽可能多的人，我可以理解他们，因为我之前就是他们中的一个，他们清楚这一点很重要，让他们明白我来是提供帮助的，给他们能在这个世界上取得成功的那些资源。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

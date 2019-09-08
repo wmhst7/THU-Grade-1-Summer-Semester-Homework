@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  走漏风声？新秀snapchat透露布克艾顿沃尔等2K能力值
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SunsDa1ly/status/1161452310704377861" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 16:27:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="走漏风声？新秀snapchat透露布克艾顿沃尔等2K能力值" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/454021aaa83195262238a0522f3895d7d06d3e90.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日，太阳新秀泰-杰罗姆和凯尔特人新秀格兰特-威廉姆斯在个人社交媒体snapchat上发布了新秀定妆照拍摄后的一系列活动小视频。视频中可以看到屏幕上所显示的部分NBA球员2K20初始能力值。
+   </p>
+   <p>
+    根据这些爆料可以看出，太阳球员德文-布克的2K20初始能力值为87，太阳球员德安德烈-艾顿的为83，泰-杰罗姆本人的为72；奇才球员约翰-沃尔的为86，奇才球员八村垒的为73。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5zaat6zncj20qa1kwdiq.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5zabiuwryj20rs1mtten.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

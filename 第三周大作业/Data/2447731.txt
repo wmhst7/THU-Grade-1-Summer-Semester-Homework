@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人将瓦格纳等人换到奇才，以作为浓眉交易的一部分
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1144308810670120960" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 02:18:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人将瓦格纳等人换到奇才，以作为浓眉交易的一部分" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/e128d3d292ee60baadd80e4e1f4155746a9993d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，湖人将莫里茨-瓦格纳、伊萨克-邦加、杰梅里奥-琼斯交易至奇才，以作为安东尼-戴维斯交易的一部分。
+   </p>
+   <p>
+    据The Athletic记者Shams Charania报道，消息人士透露，湖人还在交易中为奇才送出了他们2022年的次轮选秀权。
+   </p>
+   <p>
+    据Woj进一步报道，奇才原本就在2018年的选秀中有意选择瓦格纳，而湖人在首轮第25顺位摘下瓦格纳。瓦格纳预计将在奇才得到机会。奇才还向鹈鹕送出现金，这笔三方交易将于7月6日正式完成。
+   </p>
+   <p>
+    据NBA记者David Aldridge报道，奇才在这笔交易中向湖人送出了现金。奇才去年就有意选中瓦格纳，但无法通过交易得到能够选中他的顺位。此外，奇才也很满意得到邦加。
+   </p>
+   <p>
+    据奇才记者Candace Buckner报道，奇才还在这笔交易中将现金110万美元送至鹈鹕。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

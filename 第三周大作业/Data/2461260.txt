@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  暖心大男孩！阿尔德里奇更新Ins晒参加社区活动照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0q0dziA93r/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 14:16:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="暖心大男孩！阿尔德里奇更新Ins晒参加社区活动照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/1dcc342b497d1ca47e8f078e7f8d355b06aeb731.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，马刺球员拉马库斯-阿尔德里奇更新社交媒体Instagram晒出参加社区活动的照片。（见新闻配图）
+   </p>
+   <p>
+    评论中有一位圣安东尼奥的粉丝写道：“作为圣安东尼奥的孩子和德克萨斯大学的毕业生，我很感激你为促进圣安东当地的发展所做的努力。感谢您成为社区的栋梁，感谢您以身作则激励年轻一代。”
+   </p>
+   <p>
+    阿尔德里奇是2006年的二号秀，职业生涯前9个赛季都在开拓者度过，2015-16赛季加盟圣安东尼奥马刺队。
+   </p>
+   <p>
+    2018-19赛季常规赛，阿尔德里奇出战81场，场均出战33.2分钟，能得到21.3分9.2篮板2.4助攻。
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/14/e2ff1702d79805e08d19d9d2338eadcf.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/14/c5fbd1052411849a41ddd25d4b41cbd2.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/14/68cf9e15c16e46403d4b7957c413637d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

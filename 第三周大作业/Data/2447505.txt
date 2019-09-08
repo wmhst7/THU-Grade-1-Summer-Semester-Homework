@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  若未能签下杜兰特，尼克斯考虑为考辛斯提供1年大合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1144073295219908608" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 10:43:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="若未能签下杜兰特，尼克斯考虑为考辛斯提供1年大合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/00c5311020e97344c8292a152cc0478bcb9f55ea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据《纽约邮报》记者Marc Stein报道，多位消息人士透露，若未能在自由球员市场上签下凯文-杜兰特，尼克斯将考虑为德马库斯-考辛斯提供1年报价丰厚的大合同。
+   </p>
+   <p>
+    根据Stein报道，尼克斯一直在计划追求杜兰特、欧文和伦纳德，但如果未能签下上述球员，他们预计会为其他自由球员提供年限较短的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯共上场30次，场均上场25.7分钟，得到16.3分8.2篮板3.6助攻1.33抢断1.47盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

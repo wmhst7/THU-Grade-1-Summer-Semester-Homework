@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比-怀特回忆和乔丹见面：握了一下手，没敢和他说话
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.chicagotribune.com/sports/bulls/ct-bulls-coby-white-michael-jordan-20190624-sdgaz64gbvgqlntkuvc6ucyflu-story.html" target="_blank">
+     芝加哥论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 16:14:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比-怀特回忆和乔丹见面：握了一下手，没敢和他说话" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/fb42d8885b3be72821d3fbf643804297d5a87b62.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 在日前结束的2019NBA选秀大会上，公牛在第七顺位选中了来自北卡罗莱纳大学的后卫科比-怀特。怀特在近日接受采访时谈到与球队名宿、校友迈克尔-乔丹见面时的场景。
+   </p>
+   <p>
+    “我只是和他握了一下手，我其实挺害怕和他进行交谈或者做其它一些类似的事情，”怀特说道，“我记得当时我和Naz（纳西尔-利特尔）在商量，‘我们应该告诉他我们要去北卡罗莱纳大学吗？’我的想法是，‘我还是不要告诉他了，我可能不想搞砸任何事情。’”
+   </p>
+   <p>
+    坐在一旁的球队执行副总裁约翰-帕克森（公牛王朝成员）说道：“如果你想要见他，我可以安排一下。”
+   </p>
+   <p>
+    “如果你可以的话，那我真的非常愿意。”怀特说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

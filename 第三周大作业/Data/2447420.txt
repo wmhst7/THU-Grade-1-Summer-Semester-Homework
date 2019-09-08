@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃里克-戈登：如果我们保留现在的阵容，我们将很有机会夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1143987688422461440" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 06:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃里克-戈登：如果我们保留现在的阵容，我们将很有机会夺冠" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/7ca0a90a7881414ca19c601572fd439a0e3a3e42.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，火箭正在向联盟中拥有宽裕薪资空间的球队分别兜售克林特-卡佩拉、埃里克-戈登和PJ-塔克，以为他们寻求与76人先签后换得到自由球员前锋吉米-巴特勒做准备。
+   </p>
+   <p>
+    联盟消息人士透露，火箭希望从这三名球员身上得到最好的首轮选秀权回报，这样他们就可以在与76人关于巴特勒的进一步交易中使用它们。
+   </p>
+   <p>
+    对此，戈登说：“我之前经历过这一切，这都是生意，我真的一点也不担心这个。”
+   </p>
+   <p>
+    戈登称这样的报道没有让他感到失望或者困扰，他说：“一点也没有，这就是生意，我能做的一切就是当一名球员，无论我在休斯顿还是哪里，我就是上场打球，这真的不会困扰到我。”
+   </p>
+   <p>
+    “我感觉如果我们保留现在的阵容的话，我们肯定会有一个不错的夺冠机会，如果球队选择一个不同的前进方向或者是如果我留下，我就是去做一名球员。”戈登说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

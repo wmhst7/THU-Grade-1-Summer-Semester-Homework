@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA 2K20MC模式细节曝光，现已开启试玩Demo下载
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 02:44:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA 2K20MC模式细节曝光，现已开启试玩Demo下载" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/274238e1140b47c625d8525b2e7a2fb662870aec.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 2K官方今日宣布，旗下游戏NBA 2K20的试玩Demo现已开放下载，玩家将正式可以试玩2K20。
+   </p>
+   <p>
+    另外，2K官方公布了其最新的My Career模式的第二段宣传片，最新的MC模式给予了玩家在创建自建球员时更高的自由度，同时根据玩家选择类型的不同，有全新的成长系统。
+   </p>
+   <p>
+    在这段宣传片中，主角Che最终代表鹈鹕拿到了NBA总冠军。（见新闻配图）
+   </p>
+   <p>
+    NBA 2K20将于9月6日正式发售。
+   </p>
+   <p>
+    <a href="http://t.cn/AiQCFM8c?m=4407863676414643&amp;u=6553536243">
+     视频：NBA 2K20 MC新宣传片（3分19秒）&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

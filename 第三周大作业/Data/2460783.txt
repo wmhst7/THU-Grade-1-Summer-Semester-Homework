@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬：在骑士时太执着于结果，完全失去了乐趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/08/01/david-griffin-pelicans-rebuild-zion-williamson-anthony-davis-trade-lebron-james-cavaliers" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 08:22:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬：在骑士时太执着于结果，完全失去了乐趣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/7dd98dbdbfdac5533dad3704ceba3b30c330b72f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日，《体育画报》发布长文。文中，鹈鹕篮球运营副总裁大卫-格里芬谈到了自己在骑士担任总经理时的经历。
+   </p>
+   <p>
+    大卫-格里芬在2014年2月升任骑士总经理，同年7月，勒布朗-詹姆斯加盟骑士。谈到詹姆斯的到来所带来的压力时，格里芬说：“原因在于，勒布朗得到了一切赞赏，没有受到任何责备。这对于人们来说并不有趣，他们不喜欢成为这种世界的一部分。”当詹姆斯在《体育画报》上发表回家宣言时，格里芬首先进行了庆祝，但他很快就倒在办公室地板上哭泣，因为他感受到了前方等待着他的巨大压力。
+   </p>
+   <p>
+    “很大程度上，我们夺冠了，尽管我们的球队文化存在问题，我知道这一点，我知道我们没有在做的事。那段时间里有很多事都是我想要以不同的方式去做的，如果你让一切都关于‘那是一个终点，让那些破坏因素（torpedoes）都去他的吧，我将抵达哪里’，那你可能只能完成这个目标一次。”
+   </p>
+   <p>
+    谈到与詹姆斯的沟通时，大卫格里芬说：“他知道我可以帮助他赢球。你得愿意与勒布朗进行一些非常困难的沟通，而我一直愿意这么做。这就是我们关系不错的原因，因为我会告诉他他需要听到的话，而他对我出于正确的理由告诉他这件事表示尊重。”
+   </p>
+   <p>
+    2016年总决赛，骑士在曾经以大比分1-3落后的情况下逆转勇士夺冠。谈到骑士夺冠后队内球员的心态问题，格里芬说：“让球员们夺冠后对他们的任务保持专注，这一点上有其他人做得比我更好。后一年，我在带给球员们足够的紧迫感方面做得非常糟糕。”
+   </p>
+   <p>
+    “而詹姆斯，他没有很多其他追求了。我认为他不再那么渴求胜利了。”
+   </p>
+   <p>
+    谈到要在高额奢侈税下每年维持有竞争力的阵容的压力时，格里芬说：“我们所做的一切都非常缺乏活力（inorganic），不可持续，而且坦白来说，并不有趣。我感到痛苦（miserable）。实际上在我们夺冠的时候，我知道我要离队了，无论给我多少钱我都不会留下的。”
+   </p>
+   <p>
+    “我不再看联盟的比赛了，也不再热爱比赛了。我太执着于结果，完全失去了我的乐趣。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

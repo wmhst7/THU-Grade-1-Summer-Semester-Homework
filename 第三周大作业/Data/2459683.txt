@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  朝五晚九！詹姆斯16小时内连续完成电影拍摄和个人训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 13:02:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="朝五晚九！詹姆斯16小时内连续完成电影拍摄和个人训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/d2be49118448278ff1c851142cf47ef75e8f3460.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story发布自己结束训练后汗流浃背的自拍视频。
+   </p>
+   <p>
+    詹姆斯在视频中赤裸上身，气喘吁吁，并展示了他刚刚使用过的球鞋、球衣、头巾和毛巾等训练装备。
+   </p>
+   <p>
+    “正式收工了！早上5点半开启片场时间/下午5点半结束拍摄。立即赶到球队训练馆，训练至晚9点15分才收工。”詹姆斯配文道。
+   </p>
+   <p>
+    作为电影《空中大灌篮2》的主演，詹姆斯近期一直在参与该片的拍摄工作。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190730/13/24676b848d90527975d4f4ddca3cee15.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

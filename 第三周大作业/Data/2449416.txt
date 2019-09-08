@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  诺曼-鲍威尔更新社媒晒出个人夺冠游行帅照庆祝加拿大日
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzZZuswAlFn/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:22:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="诺曼-鲍威尔更新社媒晒出个人夺冠游行帅照庆祝加拿大日" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/6f0f75ac2016e3115663e700e8bd1690c288c888.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，猛龙球员诺曼-鲍威尔更新instagram，晒自己在夺冠庆典欢呼照，并配字写道：”那就是加拿大日的感觉！”（加拿大日是加拿大的国庆日，定于每年7月1日，是加拿大全国公共假日）
+   </p>
+   <p>
+    诺曼-鲍威尔2018-19赛季季后赛场均出场15.9分钟，得到6.5分2.2篮板1.1助攻0.39抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/12/51c5d4056f9caae75d60124c77692fd6.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

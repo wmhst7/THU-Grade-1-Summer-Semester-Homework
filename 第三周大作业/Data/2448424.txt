@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：沃克计划跟凯尔特人签订4年1.41亿顶薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145068763345248258" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 05:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：沃克计划跟凯尔特人签订4年1.41亿顶薪" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/58d87d407eb45957a0064f0e2729170c8ed0da7c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据The Athletic记者Shams Charania报道，联盟消息人士透露，肯巴-沃克计划在自由市场开启之后致力于跟凯尔特人签订一份4年1.41亿美元的顶薪合同。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，沃克计划在当地时间周日在波士顿跟凯尔特人敲定一份正式合约。
+   </p>
+   <p>
+    据黄蜂记者Rick Bonnell报道，多位消息人士透露，沃克已经通知黄蜂自己计划与凯尔特人签约。
+   </p>
+   <p>
+    Woj曾于6月28日报道，多位消息人士透露，凯尔特人预计将会在自由球员市场开启后给沃克提供一份4年1.41亿美元的合同，沃克现在越来越可能会接受这份合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

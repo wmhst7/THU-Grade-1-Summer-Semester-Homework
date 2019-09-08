@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加拿大篮协官方公布19人训练营大名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://basketball.ca/en/news-article/slug-znpqlf" target="_blank">
+     加拿大篮协官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 00:40:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加拿大篮协官方公布19人训练营大名单" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/1e4948e6cabfe46de8e5ed2e0f686b248f394c7d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，加拿大篮协官方公布19人训练营大名单：RJ-巴雷特、阿龙-贝斯特、肯-伯奇、克里斯-布歇、布里塞特、Melvin Ejim、布雷迪-赫斯利普、科里-约瑟夫、Kaza Kajami-Keane、贾马尔-默里、Andrew Nembhard、杜安-诺蒂斯、凯利-奥利尼克、Eugene Omoruyi、Kevin Pangos、艾迪生-帕特森、Phil Scrubb、Thomas Scrubb、Kyle Wiltjer。
+   </p>
+   <p>
+    根据此前报道，贾马尔-默里以及RJ-巴雷特将不会为加拿大出战本届男篮世界杯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

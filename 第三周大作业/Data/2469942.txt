@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿伦：欧文已整装待发，我准备好出任4、5号位摇摆
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nydailynews.com/sports/basketball/nets/ny-jarrett-allen-20190827-cjmzn6dkrvazpmb2zbiloru4we-story.html" target="_blank">
+     纽约每日新闻报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 08:36:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿伦：欧文已整装待发，我准备好出任4、5号位摇摆" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/0982a3b2c62d016e55a2c632cd5b36210e91a4d1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近日，篮网中锋贾勒特-阿伦接受了媒体采访，谈及新赛季的篮网。
+   </p>
+   <p>
+    谈及凯里-欧文的加盟，阿伦说道：“我和他训练后各自做自己的事情，因此还并没有太多的交流互动。但我能判断，欧文是一个努力的球员，是一个好人，并已经准备好成为篮网的一员了。”
+   </p>
+   <p>
+    今夏德安德烈-乔丹以4年4000万美元加盟篮网，谈及他的加盟可能不能再让自己出任熟悉的中锋位置了，阿伦说道：“说到底，我们都是职业篮球运动员，我们都想在场上勇争第一。但是到头来，我会去做能帮助球队获胜所要求的一切。”
+   </p>
+   <p>
+    “我不知道会发生什么以及教练的安排。但对我而言，我以及做好准备出任大前锋或者是中锋了，这是可以调整的，无论他们怎么安排，我都已经做好准备了。”阿伦补充道。
+   </p>
+   <p>
+    阿伦出生于1998年，2017年第1轮第22顺位被篮网选中，身高2.08米，臂展2.27米，2018-19赛季代表篮网首发出场80场常规赛，场均出场26.2分钟，得到10.9分8.4篮板1.50盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

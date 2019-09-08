@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  白曼巴：杜兰特昨日的言论会让勇士退役他的球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1159547690549743616" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 08:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="白曼巴：杜兰特昨日的言论会让勇士退役他的球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/cb20f1c09373c973966fd8da8c4452032b89a6b1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 “白曼巴”布莱恩-斯卡拉布莱恩接受SiriusXM NBA Radio采访时表示，凯文-杜兰特昨日的言论会让勇士退役他的球衣。
+   </p>
+   <p>
+    杜兰特之前在接受雅虎体育记者Chris Haynes的采访时表示，勇士不该为自己受伤负责。
+   </p>
+   <p>
+    “是的，很棒的决定，在当下，坐在那里扮演一名受害者是很轻松的，说他们对我做了这个，说他们对我做了那个，而他没有这么做，他说这是他自己的原因，只有他和伤病防范理疗师在处理伤势问题，我认同你的看法（杜兰特的言论会让勇士退役他的球衣），这是杜兰特的一个聪明做法。”斯卡拉布莱恩说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

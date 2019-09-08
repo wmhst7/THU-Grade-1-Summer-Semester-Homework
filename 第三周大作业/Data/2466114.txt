@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安吉：布朗是一个成熟的孩子，他会成为一位出色的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/danny-ainge-jaylen-brown-handled-difficult-situation-better-anybody-celtics" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 00:11:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安吉：布朗是一个成熟的孩子，他会成为一位出色的球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/7a3ed01bff5785ab1c3b7baef1deee779447123d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 波士顿凯尔特人队总经理丹尼-安吉近日做客了一档播客节目，在播客节目中安吉谈到了队内球员杰伦-布朗。
+   </p>
+   <p>
+    “上赛季，在应对这些困难情况时他可能比队中其他任何人都处理得更好。一个非常成熟的孩子，他想要变得出色并且知道是时候了。”安吉在谈到布朗时说道。
+   </p>
+   <p>
+    “对他来说保持耐心有点困难，但他一直很耐心。他总是在努力并且正在尝试找到方法让自己变得更加出色，我觉得杰伦将来会成为一位非常出色的球员并且会有一个非常光明的未来。”安吉说道。
+   </p>
+   <p>
+    接受采访期间，安吉还透露了一个有关布朗的趣事，安吉说道：“他走过来并且坐在我的身后说道‘你觉得我们和1986年的那支凯尔特人（1986年的凯尔特人在常规赛取得了67胜的战绩，而那一年布朗还没有出生），哪支球队更加出色？’然后我就离开了，我的天呐，他真是太年轻了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，布朗场均出场25.9分钟，得到13.0分4.2篮板。季后赛他场均出场30.4分钟，得到13.9分5.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

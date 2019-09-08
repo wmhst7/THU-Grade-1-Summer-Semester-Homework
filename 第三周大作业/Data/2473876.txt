@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗斯：我职业生涯一直只有一个目标，那就是总冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/chicago/bulls/derrick-rose-still-believes-nba-championship-his-future" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 07:28:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗斯：我职业生涯一直只有一个目标，那就是总冠军" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/de8adb78d1930507a75922b9aa47027a4a27b5a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 近日，活塞后卫德里克-罗斯在做客一档访谈类节目中他谈到了与基德对位时的感受。
+   </p>
+   <p>
+    罗斯对此表示：“基德，他是第一位让我在场上产生敬畏感的球员。我记得那时他还在独行侠效力。讲真，在场上和他对位的时候我真的很紧张。虽然那只是一场非常普通的比赛，一场常规赛罢了。但基德真的是那种会让人心生敬畏的对手，他是名人堂成员，和他对位让我第一次懂得了这个联盟有多可怕。”
+   </p>
+   <p>
+    在谈到对于下赛季的期待时，罗斯表示：“我的职业生涯一直都只有一个目标，那就是追求总冠军，但是事实上这很难。现在联盟中有太多的实力强劲的对手，我也确实不像过去那样能够去左右比赛，这些都是事实。洛杉矶有两支非常棒的球队，西部的竞争激烈到令人窒息，去年我已经在那深深地体验过了。东部现在也强队如林，但我认为活塞是有机会的，我们有几位非常不错的球员，我期待能在下赛季为球队做出自己的贡献。”
+   </p>
+   <p>
+    今年夏天，罗斯以2年1500万美元合同加盟活塞。2018-19赛季常规赛，罗斯场均出场27.3分钟，可以得到18.0分2.8篮板4.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

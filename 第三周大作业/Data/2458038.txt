@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才官方：CJ-迈尔斯将接受左脚应力性骨折手术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 00:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才官方：CJ-迈尔斯将接受左脚应力性骨折手术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/6767816180f8fece56d9f67265ab3336e4ec03de.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 奇才官方宣布，CJ-迈尔斯将接受左脚应力性骨折手术，将在六周后接受评估。
+   </p>
+   <p>
+    “我们的医疗团队对CJ－迈尔斯的情况做出了出色的诊断，并且建立了治疗方案，”奇才总经理汤米－谢泼德说道，“他康复后会继续为球队带来积极影响，并且我们期待他健康的回到场上。”
+   </p>
+   <p>
+    根据此前报道，奇才此前完成一笔交易，将中锋德怀特-霍华德送至灰熊，得到后卫CJ-迈尔斯。
+   </p>
+   <p>
+    2018-19赛季常规赛，迈尔斯场均出战16.2分钟，可以拿到6.4分1.8篮板。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

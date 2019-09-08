@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA新秀调查之运动能力最强：蔡恩获历史最高选票
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/2019-20-nba-rookie-survey" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 07:13:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA新秀调查之运动能力最强：蔡恩获历史最高选票" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/095639dd64dd36769b9cb236399b45f3e766e1e9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 NBA官网近日对本届通过选秀进入联盟的42位新秀（参与了定妆照拍摄的新秀）进行了问卷调查。各位新秀将就一系列问题投票给出自己的选择。部分调查结果如下：
+   </p>
+   <p>
+    这届新秀谁的运动能力最强？
+   </p>
+   <p>
+    蔡恩-威廉森（鹈鹕），得票率87%
+   </p>
+   <p>
+    布兰登-克拉克（灰熊），得票率8%
+   </p>
+   <p>
+    其余得到选票的球员：贾克森-海斯（鹈鹕），小凯文-波特（骑士）。
+   </p>
+   <p>
+    去年，票选出来的运动能力最强新秀为扎伊尔-史密斯，获得了24%的选票。
+   </p>
+   <p>
+    值得一提的是，蔡恩-威廉森此次赢得的87%的选票是新秀调查历史上任何球员在任何问题上获得的最高的得票率，超过了斯蒂芬-库里在2009年获得的79%的“最佳射手”得票率。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

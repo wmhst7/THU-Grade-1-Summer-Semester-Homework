@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人和快船的球星双人组球衣号码均为洛杉矶电话区号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SBNation/status/1154138855370416129" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 11:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人和快船的球星双人组球衣号码均为洛杉矶电话区号" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/33b1a581b7b74226d6a4ff535a9f7982cadd896c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日，快船为新援科怀-伦纳德和保罗-乔治举办记者发布会，会上公布二人的球衣号码：伦纳德2号，乔治13号。
+   </p>
+   <p>
+    随后，美国媒体SB Nation在推特上晒出趣图，称伦纳德乔治球衣号码组成的213和湖人球员安东尼-戴维斯及勒布朗-詹姆斯球衣号码组成的323两串数字均是洛杉矶地区的电话区号。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/907f9a588560ecc57d35c2c08e01cd9e.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

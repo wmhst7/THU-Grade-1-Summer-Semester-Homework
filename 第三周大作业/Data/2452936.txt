@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：老鹰正式签下前锋贾巴里-帕克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ATLHawks/status/1149362877473726464" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 01:16:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：老鹰正式签下前锋贾巴里-帕克" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/21caf0b7d5826ca4ba2d0cc04c13b1dffed4cb64.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 今日，老鹰官方推特更新内容，正式宣布球队与自由球员贾巴里-帕克签约。
+   </p>
+   <p>
+    老鹰官推配文：“欢迎来到亚特兰大。”
+   </p>
+   <p>
+    根据此前的报道，双方达成的协议为2年1300万，其中第二年是球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，帕克场均上场26.9分钟，得到14.5分6.6篮板2.4助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/01/f8703149665c8067e3348e973958887d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

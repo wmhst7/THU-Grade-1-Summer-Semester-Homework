@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰公布下赛季季前赛赛程：首战鹈鹕
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hawks/preseason?utm_source=s_h&amp;utm_medium=t&amp;utm_campaign=1920preschedrelease&amp;utm_term=1920preschedule&amp;utm_content=0727" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 09:22:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰公布下赛季季前赛赛程：首战鹈鹕" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/3e4b731a31938224e44340d92a5dc5b81b82d0a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 老鹰官方今天公布了2019-20赛季的季前赛赛程，共有5场比赛，2个主场，3个客场。其中首战将主场面对鹈鹕，届时老鹰的4号秀德安德烈-亨特和10号秀卡姆-雷迪什将迎战鹈鹕状元秀蔡恩-威廉森和8号秀贾克森-海斯。以下为具体赛程：
+   </p>
+   <p>
+    10月8日，主场迎战鹈鹕；
+   </p>
+   <p>
+    10月10日，主场迎战魔术；
+   </p>
+   <p>
+    10月15日，客场挑战热火；
+   </p>
+   <p>
+    10月17日，客场挑战尼克斯；
+   </p>
+   <p>
+    10月18日，客场挑战公牛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

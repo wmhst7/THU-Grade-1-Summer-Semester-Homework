@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯对乔治-希尔、韦恩-艾灵顿和雷吉-布洛克感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/knicks-have-interest-in-free-agents-george-hill-and-wayne-ellington/308604262" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 07:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯对乔治-希尔、韦恩-艾灵顿和雷吉-布洛克感兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/f3cae1b8a4593019565fb4183e87b59a8fd28fe7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据SNY记者Ian Begley的报道，多位消息人士透露，尼克斯预计会对乔治-希尔和韦恩-艾灵顿感兴趣。
+   </p>
+   <p>
+    消息人士透露，尼克斯也众多对雷吉-布洛克感兴趣的球队之一，并且布洛克和尼克斯相互有意。
+   </p>
+   <p>
+    多位消息人士透露，尼克斯仍然对特里-罗齐尔非常感兴趣，并且他们对朱利叶斯-兰德尔和博比-波蒂斯也感兴趣。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

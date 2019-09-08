@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伤病退散！字母哥赛后更新社媒为受伤队友祈祷
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UbRxMFmai/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 09:48:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伤病退散！字母哥赛后更新社媒为受伤队友祈祷" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/93e11d52c2fced23c29db0470650b5676e5b7e62.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 在今天凌晨已经结束的一场希腊与塞尔维亚的热身赛上，希腊后卫扬尼斯-阿西埃努仅出场18秒就遭遇前交叉韧带伤病，并且预计将缺席本届男篮世界杯。
+   </p>
+   <p>
+    赛后，阿西埃努国家队队友扬尼斯-阿德托昆博更新了个人Instagram写道：“为我的兄弟@扬尼斯-阿西埃努祈祷。”
+   </p>
+   <p>
+    本场比赛，阿德托昆博出场33分钟49秒，得到20分4抢断4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

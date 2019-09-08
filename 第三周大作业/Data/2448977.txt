@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：伊格达拉被交易至灰熊
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145537783207006208" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:41:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：伊格达拉被交易至灰熊" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/3f2999b3df1bf44f89b9946a82972fbc7148d9f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，勇士将安德烈-伊格达拉交易至灰熊。
+   </p>
+   <p>
+    勇士由于通过先签后换得到了丹吉洛-拉塞尔，下赛季他们将被应用硬工资帽，任何情况下薪资都不能超过1.389亿，交易走伊格达拉能够让他们降低薪资总额。
+   </p>
+   <p>
+    勇士为此搭上了一个2024年受保护首轮，在2024年将是1-4顺位保护，若被保护住，则变为2025年首轮签（状元签受保护），若再被保护住，将变为2026年无保护首轮。
+   </p>
+   <p>
+    据The Athletic记者David Aldridge报道，灰熊希望伊格达拉能够帮助队内年轻球员学习如何赢球。显而易见，他将在灰熊队中扮演一个十分重要的角色。但是对于伊格达拉本人而言，被交易一定让他感到震惊，他将与灰熊高层和新任主教练泰勒-詹金斯进行谈话。
+   </p>
+   <p>
+    2018-19赛季常规赛伊格达拉出场68次，场均23.2分钟，能得到5.7分3.7篮板3.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

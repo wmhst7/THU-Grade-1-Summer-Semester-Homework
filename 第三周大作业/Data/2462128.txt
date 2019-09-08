@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黄蜂新秀PJ-华盛顿与NIKE签下为期数年球鞋合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickDePaula/status/1158526315747667968" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 08:34:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黄蜂新秀PJ-华盛顿与NIKE签下为期数年球鞋合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/6639b0b03ddfdc9eb52a3f4f6ce95c64ea0226b0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，根据记者Nick DePaula的报道，黄蜂新秀PJ-华盛顿与NIKE签下一份为期数年的球鞋合同。
+   </p>
+   <p>
+    PJ-华盛顿新秀赛季最多可以拿到383万美元的薪水，第二个赛季可以拿到402万美元，第三个赛季可以拿到421万美元，合同最后一年为球队选项。
+   </p>
+   <p>
+    PJ-华盛顿今年21岁，身高2.03米，体重103公斤，司职前锋，2018-19赛季NCAA，PJ-华盛顿代表肯塔基大学场均得到15.2分7.5篮板，并入选了东南联盟第一阵容和全美第三阵容。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

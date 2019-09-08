@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  浓眉举办训练营：没有哪个地方的篮球能比得上芝加哥
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0JK89tAPBa/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 02:53:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="浓眉举办训练营：没有哪个地方的篮球能比得上芝加哥" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/2b851134908764ede35086439e7e1413eb8a2b2a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 洛杉矶湖人队前锋安东尼-戴维斯今天在个人Instagram上传了一组个人训练营的照片（见新闻配图）。
+   </p>
+   <p>
+    “昨天在我个人训练营中和孩子们度过了一段很美妙的时光，这座场馆里有一些很有天赋的孩子，没有哪个地方的篮球能比得上芝加哥！”戴维斯写道。
+   </p>
+   <p>
+    戴维斯出生于芝加哥南部地区，在本赛季休赛期的一笔交易当中被鹈鹕交易至湖人。2018-19赛季常规赛，戴维斯场均出场33.0分钟，得到25.9分12.0篮板3.9助攻1.57抢断2.41盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/02/5f76b803cb00fed4c18ffaebc9652122.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/02/abe5db98c94c7fb95047c1a021c000dd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/02/95c6ea36a008826c0d67c73ccc9596e4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/02/5f6943234881b0f2e52a9357c6d80a4d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/02/a76a1982f5d7cdc0d6c0a20371a35ee1.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/02/cc45d6e66ddc17a30e57d437ae3b6166.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

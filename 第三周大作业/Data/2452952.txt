@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在与湖人交流过后，勇士助教罗恩-亚当斯选择留队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChereAurora/status/1149418072236810240" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 04:48:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在与湖人交流过后，勇士助教罗恩-亚当斯选择留队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/59d3d577d503c8a083a8541f807d8da8f174a673.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 据NBA记者Ohm Youngmisuk报道，联盟消息人士透露，在与湖人交流过后，勇士助教罗恩-亚当斯拒绝湖人的工作邀约，继续留队辅佐史蒂夫-科尔，但他的角色有所改变。
+   </p>
+   <p>
+    一位联盟消息人士透露，湖人从勇士取得了与亚当斯面谈加盟球队教练组的许可，但他们未曾提出过正式报价。
+   </p>
+   <p>
+    亚当斯自2014年起担任勇士助教，负责球队防守层面的工作，被认为是联盟最顶级的防守助教之一。他刚刚结束在科尔手下的第5个赛季，以及作为NBA助教的第25个赛季。
+   </p>
+   <p>
+    根据此前报道，湖人有意邀请亚当斯加入弗兰克-沃格尔的教练组，也获得了亚当斯和勇士的面试许可，但是他最终选择了留队。
+   </p>
+   <p>
+    目前湖人的教练组已有杰森-基德和莱昂内尔-霍林斯两位助理教练。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

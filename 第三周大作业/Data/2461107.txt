@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：独行侠球员德怀特-鲍威尔退出FIBA加拿大队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1157328724855013381" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 00:39:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：独行侠球员德怀特-鲍威尔退出FIBA加拿大队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/d8cf10e2e66e63dfc87e0c9d565e6658571f57eb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 据NBA记者Marc Stein报道，消息人士透露，独行侠球员德怀特-鲍威尔退出FIBA加拿大队，声称将专注于即将到来的新赛季。
+   </p>
+   <p>
+    德怀特-鲍威尔2018-19赛季常规赛场均上场21.6分钟，得到10.6分5.3篮板1.5助攻。
+   </p>
+   <p>
+    本周，尼克斯新秀RJ-巴雷特也宣布退出FIBA加拿大队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

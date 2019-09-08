@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj修正：考辛斯的合约为1年350万美元
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147594055716614145" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 03:59:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj修正：考辛斯的合约为1年350万美元" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/73e003f8b72b7e8c10c73be278e5dc328b81c93a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 著名记者Adrian Wojnarowski刚刚更新了推特，修正了德马库斯-考辛斯与湖人达成的合约的具体金额，修正后的金额为1年350万美元。
+   </p>
+   <p>
+    根据之前Wojnarowski的报道，考辛斯与湖人达成了一年230万美元合同的协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯场均出场25.7分钟，能够得到16.3分8.2篮板3.6助攻1.3抢断1.5封盖；季后赛场均出场16.6分钟，能够得到7.6分4.9篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

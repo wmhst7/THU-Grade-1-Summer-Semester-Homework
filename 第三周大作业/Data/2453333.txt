@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火对得到保罗进行评估，不像追求威少那样积极
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/flasportsbuzz/status/1149776598389776384" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 05:05:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火对得到保罗进行评估，不像追求威少那样积极" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/81ab5455c043242be0f8272ef1ca1c74b9474c87.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据迈阿密先驱报记者Barry Jackson报道，消息人士透露，热火正在对得到克里斯-保罗进行一系列评估，目前并没有很积极地追求。不像之前尝试得到拉塞尔-威斯布鲁克那样，做出很多努力。
+   </p>
+   <p>
+    在此前火箭和雷霆达成的交易中，保罗被送至雷霆。雷霆可以马上交易保罗，只要在交易中不包括雷霆的其他球员；而如果要在交易中搭上其他的球员，则需要等到两个月后才能交易。
+   </p>
+   <p>
+    此前Woj在节目中透露，雷霆打算尽快交易走保罗。
+   </p>
+   <p>
+    2018-19赛季常规赛，保罗场均上场32.0分钟，得到15.6分4.6篮板8.2助攻1.97抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美记：哈尔滕施泰因一级右脚踝扭伤，预计缺席2-3周
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/apphttps://twitter.com/KellyIkoNBA/status/1149410880687345664" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 04:17:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美记：哈尔滕施泰因一级右脚踝扭伤，预计缺席2-3周" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/806deb55215a0f9b011f634f19341e8fd3604aba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 今日，The Athletic记者Kelly Iko在推特上表示，火箭中锋以赛亚-哈尔滕施泰因被诊断为一级右脚踝扭伤，预计缺席2-3周。
+   </p>
+   <p>
+    在7月10日火箭与国王的拉斯维加斯夏季联赛中，哈尔滕施泰因在一次落地时右脚受伤，倒在火箭板凳席前，随后被队友搀扶下场。
+   </p>
+   <p>
+    根据记者Jonathan Feigen报道，他当时为了避免在投篮后踩在一名国王球员的脚而选择往后撤步，但不幸踩在了替补席队友的脚。
+   </p>
+   <p>
+    在此前两场夏季联赛的比赛中，哈尔滕施泰因场均得到21分9.5篮板，投篮命中率达到50%。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈尔滕施泰因共上场28次，场均上场7.9分钟，得到1.9分1.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

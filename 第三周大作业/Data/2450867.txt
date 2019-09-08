@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔治可能因肩部手术的恢复过程缺席下赛季初的数周比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147406006483337216?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 18:24:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔治可能因肩部手术的恢复过程缺席下赛季初的数周比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/e487feaf59766a3e51c89a1a3c53a47d48ab810f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据NBA记者Ramona Shelburne报道，联盟消息人士透露，刚刚被交易至快船的前锋保罗-乔治因肩部手术的恢复过程可能在下赛季初段缺席数周。
+   </p>
+   <p>
+    根据此前的报道，快船用谢伊-吉尔杰斯-亚历山大、达尼罗-加里纳利、4个无保护的首轮签，1个受保护的首轮签和2个选秀权互换的权利，从雷霆交易得到保罗-乔治。
+   </p>
+   <p>
+    2018-19赛季结束后，乔治先后接受了右肩旋转肌手术与左肩上唇肌肉的微弱撕裂修复手术，两场手术的预计恢复时间相同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

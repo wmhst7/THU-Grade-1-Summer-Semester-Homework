@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  恩爱又甜蜜！阿耶莎更新社媒晒与库里合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0v6SoFHq8Q/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 02:04:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="恩爱又甜蜜！阿耶莎更新社媒晒与库里合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/737e74237d7c4e590539b77b8d28862db45729de.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 近日，阿耶莎-库里更新社交媒体Instagram晒出与丈夫NBA球员斯蒂芬-库里合照。（见新闻配图）
+   </p>
+   <p>
+    阿耶莎配文道：“直到永远。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/02/246703fbe3c76857289fb9d5d278ce3b.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

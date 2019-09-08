@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特晒出与友人O'Hearn及其妻儿合影：超极泰坦来啦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B07E8FyFtX-/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 10:45:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特晒出与友人O'Hearn及其妻儿合影：超极泰坦来啦" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/838a08f55e5c8222a8c26f09c8e0259c097a9563.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 今日，凯尔特人球员埃内斯-坎特更新个人社交媒体Instagram，晒出自己与健美运动员O'Hearn及其妻儿的合影，并配文：“非常感谢传奇人物@Mike O'Hearn和@Mona Muresan，以及他们的@Titan O'Hearn。#超极泰坦”
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5t8bk74l2j20u011idko.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5t8bv23v8j20u011iq7s.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5t8c7m01uj20u011iah9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5t8cl6phnj20u011iwjx.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特打趣：选11号球衣是因为不想让其他人穿这个号码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/celtics-enes-kanter-trolls-kyrie-irving-hilarious-comment-choosing-no-11" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 01:41:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特打趣：选11号球衣是因为不想让其他人穿这个号码" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/d1216694ce62d897cb236d5a5da3a2d195ed3f88.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人为新援肯巴-沃克和埃内斯-坎特举行加盟记者发布会。
+   </p>
+   <p>
+    被问及为何选择11号球衣时，坎特说：“这是我的旧球衣号码，顺便说一下，11号，（笑）我希望我会成为以后没有人能穿它的原因。”
+   </p>
+   <p>
+    谈到对凯尔特人球迷的印象时，坎特说：“我总是讨厌作为一名客场球员来到这里，因为球迷们总是疯狂的.....比赛之前，教练们总是会说不要让波士顿人的喧哗进入我们的脑袋。”
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

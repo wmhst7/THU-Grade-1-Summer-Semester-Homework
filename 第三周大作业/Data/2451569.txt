@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼利基纳谈交易流言：我现在正专注于恢复健康并提升自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/amid-trade-rumors-frank-ntilikina-focusing-on-year-3-with-knicks/308843828" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 14:51:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼利基纳谈交易流言：我现在正专注于恢复健康并提升自己" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/a3107f7b73c85867fc7c95cbe1b327ae366717aa.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 在今天已经结束的一场夏季联赛比赛中，纽约尼克斯队以100-105的比分不敌菲尼克斯太阳队。
+   </p>
+   <p>
+    本场比赛，尼克斯后卫弗朗克-尼利基纳现场观战，在谈到最近关于自己的交易流言时说道：“我很高兴成为一名尼克斯球员，无论是面对何种情况，我仍然会尽我所能地去学习。我现在还是球队的一份子，我很高兴我是一名尼克斯球员。我很高兴留在这儿，我会努力训练以便让处境变好。”
+   </p>
+   <p>
+    尼克斯此前已经与至少一支球队商谈过关于尼利基纳的交易，尼克斯的要求是一个二轮靠前的选秀权或是一个首轮靠后的选秀权。
+   </p>
+   <p>
+    “训练进行得不错，我已经训练了一段时间了，我现在正专注于恢复健康并且提升自己。目前来说进展还不错，我很开心，”尼利基纳在谈到自己休赛期的训练时说道，“我现在正努力寻找一个不错的比赛节奏。我现在很健康，夏天正在过去，而我也在努力训练。我对我现在所处的位置感觉不错，所以我必须得拿出我最好的状态来努力训练以便在这个夏天结束时变成最好的那个自己。”
+   </p>
+   <p>
+    尼利基纳夏天将会随法国队征战男篮世界杯，而之后他将会参加新赛季的训练营，而在新赛季的训练营他将会和尼克斯新援埃尔弗里德-佩顿、丹尼斯-史密斯、卡迪姆-阿伦等人竞争出场时间。
+   </p>
+   <p>
+    “这将会很有竞争性，这就是我们在每天结束的时候所想要的东西，”尼利基纳说道，“我们会从彼此之间学到一些东西，当然我们彼此之间也会竞争，这对每个人来说都并不轻松。”
+   </p>
+   <p>
+    2018-19赛季常规赛，尼利基纳因伤仅出战43场比赛，场均出场21分钟，能够得到5.7分2.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

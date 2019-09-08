@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：湖人与特洛伊-丹尼尔斯达成1年210万美金的协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/davidaldridgedc/status/1145741506118148096?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 01:12:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：湖人与特洛伊-丹尼尔斯达成1年210万美金的协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/536b6990b8596e1bad1d37b9d2e06d811a675ef9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据NBA记者David Aldridge报道，湖人接近与后卫特洛伊-丹尼尔斯达成协议。
+   </p>
+   <p>
+    据Shams Charania跟进报道，丹尼尔斯与湖人达成一份1年210万美金的合约。据Shams报道，210万的底薪合同对湖人的薪金空间并无影响。
+   </p>
+   <p>
+    过去两个赛季，丹尼尔斯为太阳效力，2018-19赛季常规赛，丹尼尔斯场均出场14.9分钟得到6.2分1.4篮板。丹尼尔斯生涯场均以40%的命中率命中1.7个三分球。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  壮汉本色！詹姆斯健身房内面对镜子连续自拍展示肌肉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2114704772790592150?utm_source=ig_story_item_share&amp;igshid=1lfhanusm27fv" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 23:31:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="壮汉本色！詹姆斯健身房内面对镜子连续自拍展示肌肉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/c8f66b6d619619ef2c7f15d5ee0b6b5a4f46fdf9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 湖人前锋勒布朗-詹姆斯今日更新Instagram Story晒出他在健身房内的训练动态。
+   </p>
+   <p>
+    詹姆斯首先拍摄了健身房内正在播放背景音乐的音响，随后将手机镜头对准镜子，做动作展示自己的傲人身材。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/23/1fdb831ae9fcf8864ffb9a686f67eeae.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/23/bf3e0498c3738c64e4e047fbf7e736e1.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190827/23/d8f1489ea8128dde7294416a802de774.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

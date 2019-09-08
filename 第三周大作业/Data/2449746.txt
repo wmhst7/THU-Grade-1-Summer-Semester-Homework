@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船与麦格鲁德达成一份3年1500万的协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1146243854250598401" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:28:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船与麦格鲁德达成一份3年1500万的协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/e72517c9ce61512b7cde4af6c3cf4158a80ee3e1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据雅虎记者Chris Haynes报道，消息人士透露，快船与自由球员罗德尼-麦格鲁德达成一份3年1500万美元的协议。
+   </p>
+   <p>
+    上赛季热火裁掉麦格鲁德之后，快船认领了他并在合同到期后提出资质报价。
+   </p>
+   <p>
+    快船拥有贝弗利的鸟权，且之前对麦格鲁德提出了资质报价，通过签约顺序的调整，快船仍能给出一份顶薪合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，麦格鲁德场均出战23.5分钟，可以拿到7.6分3.6篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

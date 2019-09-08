@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  享受休赛期，帕楚里亚社交媒体晒自己打高尔夫照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6MJIxAfvr/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 10:34:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="享受休赛期，帕楚里亚社交媒体晒自己打高尔夫照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/ce0a22da69f262d9072506456c75c71167485327.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，NBA球员扎扎-帕楚里亚更新社交媒体Instagram，晒出自己打高尔夫照片（见新闻配图）。
+   </p>
+   <p>
+    “周日，娱乐日。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，帕楚里亚代表活塞出战68场，场均出场12.9分钟，得到3.9分3.9篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

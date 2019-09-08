@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克雷格谈入选美国男篮训练营陪练队：努力竞争，享受乐趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nuggets/status/1159257917867999232" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 10:20:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克雷格谈入选美国男篮训练营陪练队：努力竞争，享受乐趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/00d0df96cb49809aed8f17e33a48f3ab79588bd7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 掘金球员托里-克雷格目前正在参加美国男篮训练营，在此期间，他接受了媒体采访。
+   </p>
+   <p>
+    谈到入选美国男篮训练营陪练队，克雷格说：“只要能够代表美国男篮，我都感到非常自豪，无论是在初选阵容还是陪练队。我们知道我们是陪练队，我们就是踏上球场拼尽全力，让对面的那些家伙知道我们来这里是为了竞争。这就是我们一直在做的事情，我们就是努力竞争，并且享受乐趣。”
+   </p>
+   <p>
+    “我认为教练组做了很棒的工作，让每个人都能够各司其职，我们都为了彼此而战，优先选择是分享球，我们想要打出团队篮球，这和我在掘金效力时的情况差不多，对于我而言，过渡的过程很轻松。”克雷格说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

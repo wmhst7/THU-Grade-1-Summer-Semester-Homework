@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅哥标配！本-西蒙斯更新社媒晒出自己的豪车
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzPNmeqH8uY/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 14:26:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅哥标配！本-西蒙斯更新社媒晒出自己的豪车" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/cdd81b9ac8b4262d200d16136d70d49aa9771a22.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日，费城76人球员本-西蒙斯更新了个人Instagram，上传了一张自己的豪车照片（见新闻配图）。
+   </p>
+   <p>
+    并配文说道：“这个澳大利亚小孩......艾特冠军汽车，谢谢你们让我爱车看起来这么酷。”
+   </p>
+   <p>
+    2018-19赛季常规赛，西蒙斯场均出场34.2分钟，得到16.9分8.8篮板7.7助攻1.42抢断0.77盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

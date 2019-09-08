@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比尔-西蒙斯质疑沙梅特退出陪练队，后者回应：健康第一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://larrybrownsports.com/basketball/landry-shamet-bill-simmons-team-usa/507509" target="_blank">
+     拉里布朗体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 00:21:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比尔-西蒙斯质疑沙梅特退出陪练队，后者回应：健康第一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/60dba74e72c4e981ce50d8033417941e5452ace8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 近日，快船球员兰德里-沙梅特退出了美国队训练营陪练队。
+   </p>
+   <p>
+    对此，媒体人比尔-西蒙斯发推：
+    <br/>
+    “‘嘿，兰德里-沙梅特，你想花一周时间与NBA中一些最出色的球员和教练一起训练吗？’
+    <br/>
+    ‘不，6个月前我是哈里斯交易中的添头，一共打了6场季后赛。我不确定这次美国队的经历能帮到我。还是谢谢了。’”
+   </p>
+   <p>
+    沙梅特发推回应：“6个月前你甚至不知道怎么念我的名字以及我是谁，所以看到你现在知道这些了感觉还不错。放轻松。我最想要的就是这周能呆在美国队训练营里。健康第一，事情就是如此。我不能在八月带伤打球。”
+   </p>
+   <p>
+    2018-19赛季常规赛，沙梅特场均上场22.8分钟，得到9.1分1.7篮板1.5助攻。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2461089.html">
+     相关链接：快船球员兰德里-沙梅特退出美国队训练营陪练队
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

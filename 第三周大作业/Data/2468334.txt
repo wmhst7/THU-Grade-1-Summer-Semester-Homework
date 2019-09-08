@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰雷布科：基里连科是我的偶像，想像他那样打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/922270/jonas-jerebko-growing-up-i-tried-to-be-like-kirilenko/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 11:58:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰雷布科：基里连科是我的偶像，想像他那样打球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/3ece06ab971a133a62df01d8fb96a022b5c6342a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 前NBA球员约纳斯-杰雷布科今天接受了采访，谈到了他加盟俄罗斯俱乐部希姆基的话题。
+   </p>
+   <p>
+    他表示自己从小的篮球偶像就是安德烈-基里连科，“虽然我不是很了解他，但我和他打过球，在我的成长过程中，他是我的偶像之一，我希望能像他一样打球，在比赛中展示出耐心。我还有一件他的签名球衣，他是那种我十分敬佩的人之一。”
+   </p>
+   <p>
+    谈到接下来的赛季，杰雷布科表示：“我们有能力击败任何俱乐部球队，无论是莫斯科中央陆军还是皇家马德里俱乐部。休赛期的主要任务就是培养化学反应，提升球员的信心。我喜欢教练的篮球哲学，所以我迫不及待想要开始训练。”
+   </p>
+   <p>
+    “在过去九年，我主要是在NBA，由于繁忙的工作，我无瑕去做其他事情。但我很想念欧洲风格的篮球，我觉得这很适合我，能展开出我最好的一面。而且欧洲的比赛不像是NBA的常规赛，每一场都很重要，这让我更兴奋。”
+   </p>
+   <p>
+    据此前报道，杰雷布科已经和俄罗斯希姆基队签下了一份两年合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

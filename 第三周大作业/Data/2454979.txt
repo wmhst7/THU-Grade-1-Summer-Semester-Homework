@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭高层：威斯布鲁克极具天赋，与哈登组合效果会更好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1076194/2019/07/15/why-not-how-daryl-morey-placed-the-biggest-bet-in-las-vegas/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 14:26:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭高层：威斯布鲁克极具天赋，与哈登组合效果会更好" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/c899d3a6f1bce29d05ff2efc84dcf69553f9f166.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 根据此前消息报道，火箭官方今日宣布，他们已经完成了拉塞尔-威斯布鲁克的交易，他们送出了克里斯-保罗，两个受保护的首轮签和其他的选秀权条件，得到了威斯布鲁克。
+   </p>
+   <p>
+    随后，根据火箭随队记者Kelly Iko的报道，当快船与雷霆达成有关保罗-乔治的交易时，火箭就开始关注雷霆的情况。球队消息人士已经知道，雷霆的下一步是要交易后卫拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    根据消息报道，哈登在伦敦和巴黎参加活动的时候参与了有关威斯布鲁克的交易过程，并且火箭老板费尔蒂塔和主教练德安东尼也参与到了这场交易之中，最终交易得到火箭老板费尔蒂塔的允许。
+   </p>
+   <p>
+    球队高层认为，从年龄和巅峰期来看，威斯布鲁克和哈登的组合会比保罗和哈登的组合要好。在现如今需要靠天赋来赢得总冠军的联盟中，火箭强调了天赋的重要性，并且认为威斯布鲁克极具天赋。火箭相信威斯布鲁克能发挥出自己的优势，并且在哈登身边能取得成功。
+   </p>
+   <p>
+    最后，根据球队消息人士透露，威斯布鲁克和哈登的出场时间将会错开，类似于之前使用保罗和哈登一样。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔-威斯布鲁克场均出场36.0分钟，可以得到22.9分11.1篮板10.7助攻1.95抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

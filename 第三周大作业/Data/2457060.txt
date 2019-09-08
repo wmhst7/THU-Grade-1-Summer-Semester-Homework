@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约什-奥科吉宣布将代表尼日利亚队参加世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CallMe_NonStop/status/1153401490846945286" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 09:53:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约什-奥科吉宣布将代表尼日利亚队参加世界杯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/8a8c4cfb5abbb556246060ec63167db428feadfd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，NBA球员约什-奥科吉更新了自己的推特，宣布了将代表尼日利亚队参加在中国举办的男篮世界杯。
+   </p>
+   <p>
+    “我很自豪的宣布，我将代表我的国家尼日利亚参加今年在中国举办的男篮世界杯。”约什-奥科吉发推说。
+   </p>
+   <p>
+    奥科吉出生于尼日利亚，在2018年第1轮第20顺位被森林狼选中，本赛季，场均出场23.7分钟，得到7.7分3.0篮板1.2助攻1.19抢断。
+   </p>
+   <p>
+    本届世界杯将于2019年8月31日至9月15日在中国北京、广州、南京、上海、武汉、深圳、佛山、东莞八座城市举行。尼日利亚与俄罗斯、阿根廷、韩国同处B组。
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

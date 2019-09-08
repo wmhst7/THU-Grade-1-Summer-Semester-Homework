@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才签约9号秀八村垒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WashWizards/status/1145815317689618432" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 08:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才签约9号秀八村垒" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/1318325b7c76a073cd549bc3a2d87f0ccae5656e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 奇才官方今日宣布，他们已经签下了八村垒，在2019年选秀中，八村垒在第1轮第9顺位被奇才选中。
+   </p>
+   <p>
+    八村垒第一年薪水最大可以达到446.9万美元，第二赛季和第三赛季可以达到469.3万美元和491.6万美元，第四年为第三年薪水54%的涨幅（最后两年都有球队选项）。
+   </p>
+   <p>
+    八村垒今年21岁，身高2.03米，体重107公斤，司职前锋，2018-19赛季在NCAA代表冈萨加大学出场37次，场均出场30.2分钟，得到19.7分6.5篮板1.5助攻0.9抢断0.7盖帽。
+   </p>
+   <p>
+    据此前报道，八村垒已承诺今夏将代表日本出战男篮世界杯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

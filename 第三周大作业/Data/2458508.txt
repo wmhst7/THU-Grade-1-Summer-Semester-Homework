@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少打趣：如果哈登还可以做到的话，我会给他传空接
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/rockets/video/archive" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 08:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少打趣：如果哈登还可以做到的话，我会给他传空接" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/2f8fe72d9ffb678731adbe9137ed2b8a2d6c13f8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今日，火箭为拉塞尔-威斯布鲁克举行了新闻发布会，期间威斯布鲁克也开起了玩笑。
+   </p>
+   <p>
+    谈到适应火箭的打法，威斯布鲁克说：“实话实说，我认为能够1到5号位无限换防，这会让对手很难进攻，因为我之前应对过这样的防守，很难跑出战术。”
+   </p>
+   <p>
+    “对我来说，我可以找到方法抢下篮板球，完成换防，抢断，给哈登传出空接，如果他还能做到的话。”威斯布鲁克开玩笑说道。
+   </p>
+   <p>
+    随后达雷尔-莫雷和威斯布鲁克都笑了起来。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

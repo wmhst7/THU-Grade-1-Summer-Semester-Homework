@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NCAA新规：大学球员试水选秀签约的经纪人需持学士学位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/ncaa-creates-ridiculous-rich-paul-020053799.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 11:02:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NCAA新规：大学球员试水选秀签约的经纪人需持学士学位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/a66698fbaa6e0a1d76eb284e141aaf4916e483ee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 近日NCAA发布最新规定，对那些大学球员“试水NBA选秀”而签约的经纪人做出以下规定：
+   </p>
+   <p>
+    1.获得学士学位；
+   </p>
+   <p>
+    2.获得至少三年的NBPA球员工会认证；
+   </p>
+   <p>
+    3.通过印第安纳波利斯的NCAA办公处的现场考试。
+   </p>
+   <p>
+    NCAA办公室要求经纪人“同意与NCAA办公室保持合作，便于官方对可能的违规行为进行调查和分析，包括经纪人执照资格外的涉嫌违规内容”。
+   </p>
+   <p>
+    NCAA办公室解释，此举是为了“保护运动员在试水后，若选择退选，则仍能保证有资格回到NCAA”。
+   </p>
+   <p>
+    根据《纽约时报》记者Marc Stein的报道，NCAA委员会不喜欢里奇-保罗去年处理达里厄斯-贝兹利的方式，贝兹利并未进入NCAA，而是与球鞋公司签下100万美元一年的实习合同，在今年符合参选年龄后参加了NBA选秀，并于首轮第23顺位被选中。
+   </p>
+   <p>
+    NCAA的此项新规剥夺了NBA知名球员经纪人里奇-保罗为大学球员代言的资格（里奇-保罗并不具备学士学位），里奇-保罗的好友和客户勒布朗-詹姆斯将此项规定称为“里奇-保罗规则”，连续发布多条推特表达自己的不满。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2462439.html">
+     有感而发？詹姆斯连续发推：他们很生气，也很害怕
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

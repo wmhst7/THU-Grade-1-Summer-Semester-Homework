@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  活塞高级顾问：球队会保持观望，物色合适的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.detroitnews.com/story/sports/nba/pistons/2019/06/27/ten-possible-targets-detroit-pistons-free-agency/1583961001/" target="_blank">
+     Detroit News
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 23:10:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="活塞高级顾问：球队会保持观望，物色合适的球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/72d9c6c427db7b0b7e149c53c4c18923534b7035.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 活塞高级顾问Ed Stefanski在近日接受采访时谈到了活塞休赛期的补强策略。
+   </p>
+   <p>
+    活塞今年夏天没有薪资空间，只有一个价值920万美元的中产特例和一个价值大约为360万美元的双年特例。Ed stefanski表示，活塞的补强前景不容乐观，但球队依旧会努力物色合适的球员。
+   </p>
+   <p>
+    “这很困难，因为你只有920万美元可用，如果是在日常生活中，这是很大一笔钱，但是在NBA当中这并不是很多，”Ed stefanski说道，“你是想要在自由球员市场开启后就表现出侵略性呢，还是保持耐心持续观望？”
+   </p>
+   <p>
+    “你会想要等到自由球员市场开启后的第二周再物色一些漏网之鱼。”Ed stefanski补充道。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

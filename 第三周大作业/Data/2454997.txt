@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管：哈里斯表现与薪资不匹配，但费城没有选择余地
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://bleacherreport.com/articles/2845734-can-anyone-in-this-years-nba-free-agent-class-be-a-max-level-leader" target="_blank">
+     Bleacher Report
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 15:39:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管：哈里斯表现与薪资不匹配，但费城没有选择余地" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/884e6f1ba03109b3647732268e2fa18a88424f40.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 Bleacher Report记者Ric Bucher近日采访了多位联盟高管，并且撰文谈到了这些联盟高管对于今年自由球员市场达成的交易签约的看法。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski此前的报道，前锋托拜厄斯-哈里斯与76人达成5年1.8亿美元的续约协议。
+   </p>
+   <p>
+    一位东部联盟高管认为，哈里斯无法在场上拿出与薪资相匹配的表现，并且有可能因此造成更衣室的不和谐，但他理解76人为何依旧选择这样做。
+   </p>
+   <p>
+    76人在今年2月份通过交易从快船得到哈里斯，并且为此付出了高昂的代价。据NBA记者Adrian Wojnarowski报道，快船送出托拜厄斯-哈里斯、博班-马里亚诺维奇、迈克-斯科特，从76人得到兰德里-沙梅特、威尔森-钱德勒、迈克-穆斯卡拉、2020年的首轮签、2021年来自热火不受保护的首轮签以及两个次轮签。
+   </p>
+   <p>
+    “你不想失去任何资产，”一位联盟高管说道，“费城为了得到托拜厄斯-哈里斯付出了高昂的代价，尽管为他奉上一份大合同有可能会限制球队的发展，使你在未来没有多少变通的余地，但你还有其它选择吗？”
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里斯场均上场34.7分钟，得到20.0分7.9篮板2.8助攻，季后赛场均上场36.9分钟，得到15.5分9.1篮板4.0助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热爱公益！特雷-杨今日晒出与一起参加公益搭档们的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B09lPy3JXvI/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 05:52:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热爱公益！特雷-杨今日晒出与一起参加公益搭档们的合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/08cb82436da6d870fdc3ebee4c0d831e1dc35076.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今日，老鹰后卫特雷-杨更新了个人社交媒体Instagram晒出自己与多位即将参加今年在加利福尼亚举办的第六届儿童运动选择活动搭档们的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“你知道的我不是一个会拒绝友谊赛的人。周六晚上8点（当地时间）敬请期待。”
+   </p>
+   <p>
+    儿童选择运动是一个为2-12岁的儿童提供青少年体育指导的项目。通过提供各种各样的项目，给孩子们提供了许多不同运动的选择，让他们亲自去尝试。这样他们就能找到他们最适合的运动。该项目教授的每一项运动的技巧和规则都被分解成简单的概念，这些概念学习起来很有趣，也很容易理解。截至1目前，该项目活动已经举办了五届。
+   </p>
+   <p>
+    根据此前消息报道，特雷-杨因眼部轻微感染退出了在拉斯维加斯的美国男篮训练营。
+   </p>
+   <p>
+    2018-19赛季常规赛，特雷-杨场均出场30.9分钟，可以得到19.1分3.7篮板8.1助攻0.89抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

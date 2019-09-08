@@ -1,0 +1,92 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴西公布男篮世界杯大名单：巴博萨、瓦莱乔等老将入选
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www.fiba.basketball/basketballworldcup/2019/news/veterans-varejao-huertas-and-barbosa-in-brazil-world-cup-squad" target="_blank">
+     FIBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 18:15:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴西公布男篮世界杯大名单：巴博萨、瓦莱乔等老将入选" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/131f85ac395500ae43fd3c70ae9c9f3ca27cb89f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 巴西男篮官方近日公布了球队2019年世界杯阵容名单，前NBA球员莱昂德罗-巴博萨以及安德森-瓦莱乔等球员入选。
+   </p>
+   <p>
+    具体阵容名单如下：
+   </p>
+   <p>
+    安德森-瓦莱乔
+   </p>
+   <p>
+    莱昂德罗-巴博萨
+   </p>
+   <p>
+    克里斯蒂亚诺-费利西奥
+   </p>
+   <p>
+    布鲁诺-卡博克洛
+   </p>
+   <p>
+    亚戈-马特乌斯-多斯-桑托斯
+   </p>
+   <p>
+    维托里诺-贝尼特斯
+   </p>
+   <p>
+    马科斯-洛扎达-席尔瓦
+   </p>
+   <p>
+    阿莱士-加西亚
+   </p>
+   <p>
+    马塞洛-韦尔塔斯
+   </p>
+   <p>
+    拉斐尔-弗莱雷-卢斯
+   </p>
+   <p>
+    卢卡斯-迪亚斯-席尔瓦
+   </p>
+   <p>
+    马库斯-维埃拉
+   </p>
+   <p>
+    奥古斯托-利马
+   </p>
+   <p>
+    Rafael Hettsheimeir
+   </p>
+   <p>
+    Jhonatan Luz dos Santos
+   </p>
+   <p>
+    本届世界杯巴西被分在F组，同组的对手包括新西兰、黑山以及希腊。2014年，巴西在男篮世界杯获得了第6名的好成绩。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

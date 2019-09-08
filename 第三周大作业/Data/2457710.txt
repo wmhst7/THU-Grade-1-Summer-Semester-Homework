@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：保罗-加索尔与开拓者达成1年老将底薪合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1154116983484555264" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 03:52:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：保罗-加索尔与开拓者达成1年老将底薪合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/671e02e5c55b8c265cab3dd3a85dcdb871cb477a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，保罗-加索尔与开拓者达成一份1年合同。
+   </p>
+   <p>
+    根据薪资专家Bobby Marks报道，加索尔签下了一份1年260万美元的老将底薪合同。
+   </p>
+   <p>
+    上赛季，加索尔在赛季中期与马刺达成买断，随后加盟雄鹿，但在赛季末遭遇脚踝伤病，之后接受了左脚舟骨应力性骨折手术。
+   </p>
+   <p>
+    2018-19赛季常规赛，加索尔共代表雄鹿和马刺上场30次，场均上场12.0分钟，得到3.9分4.6篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

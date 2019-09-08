@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  灰熊3名球员2K能力值公布：莫兰特79，克拉克73
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 16:07:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="灰熊3名球员2K能力值公布：莫兰特79，克拉克73" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/8edacd48ef0599849b61fc1f263045fa2081a406.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，灰熊有3名球员2K能力值得以确定。
+   </p>
+   <p>
+    灰熊3名球员2K初始能力值为：
+   </p>
+   <p>
+    小贾伦-杰克逊 82
+   </p>
+   <p>
+    贾-莫兰特 79
+   </p>
+   <p>
+    布兰登-克拉克 73
+   </p>
+   <p>
+    2018-19赛季常规赛，小贾伦-杰克逊场均出场26.1分钟，可以得到13.8分4.7篮板1.1助攻1.41封盖。
+   </p>
+   <p>
+    贾-莫兰特于今年被灰熊以首轮第2顺位选中。今夏与灰熊签下一份为期四年的新秀合同，其中第一年薪水为873万美金，2022年和2023年为球队选项。
+   </p>
+   <p>
+    布兰登-克拉克于今年被雷霆以首轮第21顺位选中，随后被送至灰熊。今夏与灰熊签下一份为期四年的合同，其中第一年薪水为247万美金。2022年和2023年为球队选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

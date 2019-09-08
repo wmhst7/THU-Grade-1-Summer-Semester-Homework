@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴格利和德里克-怀特正被认真考虑召入梦之队15人名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1159498769152405504" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 00:37:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴格利和德里克-怀特正被认真考虑召入梦之队15人名单" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/1e1b9f2763de24d9334fa7e41444f5b17a9dee0c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 根据《纽约邮报》记者Marc Stein报道，他得知，国王前锋马文-巴格利和马刺后卫德里克-怀特正被认真考虑在下周召入梦之队15人大名单。
+   </p>
+   <p>
+    根据Marc Stein报道，梦之队将在下周前往洛杉矶，全部26名球员预计都将参加当地时间周五的队内对抗赛，随后梦之队的训练营人数将缩减至15人，进行下一步的训练以及备战与西班牙的训练赛。
+   </p>
+   <p>
+    多位消息人士透露，梦之队主教练格雷格-波波维奇正认真考虑在本月晚些时候带领大约15人的大名单前往澳大利亚，而并非在离开美国前将阵容大名单人数缩减至12人。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴格利场均上场25.3分钟，得到14.9分7.6篮板1.0助攻，怀特场均上场25.8分钟，得到9.9分3.7篮板3.9助攻1.00抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

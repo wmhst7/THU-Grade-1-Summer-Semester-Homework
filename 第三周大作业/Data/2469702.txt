@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布雷克：卢比奥是极致的控球后卫，能让队友享受比赛乐趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/GlennClarkRadio/status/1164597756343853057" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 16:32:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布雷克：卢比奥是极致的控球后卫，能让队友享受比赛乐趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/e0ae68b868e5af9cd27ba34c388234ef763b21e5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 菲尼克斯太阳队助理教练史蒂夫-布雷克在近日接受电台采访时谈到了球队新援里基-卢比奥。
+   </p>
+   <p>
+    “管理层在今年夏天对球队阵容做出了一些很棒的改变，”布雷克说道，“里基-卢比奥是一位极致的控球后卫，他是一个传球至上的家伙，他能够创造机会，让场上的队友享受比赛的乐趣。我们的一些球员需要对手采取包夹战术才能够限制，所以我认为身边的这些家伙能够帮助我们赢球。”
+   </p>
+   <p>
+    今年夏天，卢比奥以3年5100万美元合同加盟太阳。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢比奥场均出场27.9分钟，能够得到12.7分3.6篮板6.1助攻1.3抢断；季后赛场均出场33.6分钟，能够得到15.4分3.2篮板8.6助攻2.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

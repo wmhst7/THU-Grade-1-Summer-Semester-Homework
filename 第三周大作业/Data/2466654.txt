@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  个人首张专辑！巴格利今日晒出专辑封面照并公布发布日期
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1SUtLvlDwq/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 14:48:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="个人首张专辑！巴格利今日晒出专辑封面照并公布发布日期" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/464eb0be44fd31fbdabc5e23822f24c7de309d18.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 今日国王前锋马文-巴格利更新了个人社交媒体Instagram晒出两张自己即将出版的个人专辑封面照（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“我很高兴宣布，我的首张专辑《Big Jreams》将于当地时间8月24日在所有平台上发布，敬请期待!”
+   </p>
+   <p>
+    随后，篮网前锋凯文-杜兰特 （easymoneysniper） 评论道：“让我们来听听看。”
+   </p>
+   <p>
+    2018-19赛季常规赛，巴格利场均出场25.3分钟，可以得到14.9分7.6篮板1.0助攻0.95封盖。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/14/9841a95088f40f71a9dfabfed7f0e4ad.png"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/14/a4630fb666f130a2dc5075df6dd57a5f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

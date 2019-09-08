@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才多名球员2K20能力值公布：沃尔88，八村垒74
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162650446978326528?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 17:16:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才多名球员2K20能力值公布：沃尔88，八村垒74" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/2d982c2e7914adb6a786ab6696fe8484304f48d2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2KRatings网站近日公布了一批球员的NBA 2K20游戏初始能力值，多名奇才球员的能力值得到确认。
+   </p>
+   <p>
+    奇才球员2K20初始能力值的具体公布情况如下：约翰-沃尔88，布拉德利-比尔87，托马斯-布莱恩特78，戴维斯-贝尔坦斯76，以赛亚-托马斯75，八村垒74，伊安-马辛米73，特洛伊-布朗73，伊斯梅尔-史密斯73，CJ-迈尔斯73，莫里茨-瓦格纳71。
+   </p>
+   <p>
+    沃尔目前正处于左脚跟腱伤势的恢复期，而八村垒是本届选秀的9号新秀。
+   </p>
+   <p>
+    2018-19赛季，沃尔场均出战34.5分钟，得到20.7分3.6篮板8.7助攻；比尔场均出战36.9分钟，得到25.6分5.0篮板5.5助攻；布莱恩特场均出战20.8分钟，得到10.5分6.3篮板1.3助攻；贝尔坦斯场均出战21.5分钟，得到8.0分3.5篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

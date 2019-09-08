@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人历史三大中锋排名？奥尼尔给出自己的答案
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CdY5sFvuL/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 05:28:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人历史三大中锋排名？奥尼尔给出自己的答案" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/67ddd49d27e3ab1057f41c6adaca9e68b2f920bf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今天NBA名宿沙奎尔-奥尼尔在Instagram上晒出了湖人历史历史三大中锋的图片。
+   </p>
+   <p>
+    奥尼尔在评论中给出了自己对三位中锋的排名，他写道：“我在Instagram上看到了这个，我想知道你们的看法。我的看法是卡里姆-阿卜杜尔-贾巴尔、威尔特-张伯伦、最后是我自己。”
+   </p>
+   <p>
+    奥尼尔为湖人出战514场常规赛，场均能得到27.0分11.8篮板2.5盖帽，为湖人赢得3座总冠军奖杯。
+   </p>
+   <p>
+    贾巴尔为湖人出战1093场常规赛，场均能得到22.1分9.4篮板2.5盖帽，为湖人赢得5座总冠军奖杯。
+   </p>
+   <p>
+    张伯伦为湖人出战339场常规赛，场均能得到17.7分19.2篮板，为湖人赢得1座总冠军奖杯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

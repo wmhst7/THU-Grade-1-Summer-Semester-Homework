@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人4人入选美国男篮大名单，创历史纪录
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nesn.com/2019/08/celtics-making-history-with-four-players-on-team-usas-world-cup-roster/" target="_blank">
+     新英格兰体育网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 11:38:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人4人入选美国男篮大名单，创历史纪录" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/ae0f88775aa6f774b8333b38230481df7ff49b02.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 在已公布的男篮世界杯美国男篮12人大名单中，凯尔特人球员肯巴-沃克、马库斯-斯马特、杰森-塔特姆和杰伦-布朗悉数入选。
+   </p>
+   <p>
+    根据NBC记者Dan Feldman的报道，这创造了同一支NBA球队中同时入选美国男篮人数的纪录。2012年的雷霆（凯文-杜兰特、拉塞尔-威斯布鲁克、詹姆斯-哈登）和2016年的勇士（凯文-杜兰特、德雷蒙德-格林和克莱-汤普森）是此前仅有的两支同时有三名球员入选同期美国男篮的NBA球队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

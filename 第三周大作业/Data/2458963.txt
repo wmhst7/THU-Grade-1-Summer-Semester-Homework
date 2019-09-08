@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网球员谈球队文化：球队永远将球员和家庭置于首位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/07/27/nba-brooklyn-nets-free-agency-rumors-kevin-durant-kyrie-irving-deandre-marks-dinwiddie-temple-chandler/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 16:48:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网球员谈球队文化：球队永远将球员和家庭置于首位" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/37d0976828a471a92a009412baf58216aa3cf525.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 近日，篮网后卫斯潘塞-丁威迪和前篮网球员特雷沃-布克接受了美国媒体HoopsHype采访，谈到今年夏天篮网的转变。
+   </p>
+   <p>
+    丁威迪在今年2月曾接受过HoopsHype的采访，当时他对记者说会在规定范围内尽自己所能吸引球员加盟篮网，但从未考虑对球员的选择进行干预。
+   </p>
+   <p>
+    “这（能够吸引凯里-欧文和凯文-杜兰特的加盟）表明我们球队整体向前迈出了一大步，在此之前我觉得很多人认为这是不可能的。当时你（指记者）我谈论过这件事（吸引球星加盟），很多人都在嘲笑我异想天开！我当时非常坦率的说：‘嘿，我张开双臂欢迎各位球星的到来。’但是大家都笑了，他们的反应是，‘好吧，听起来不错，但这不会发生’。我想这件事（人们当时的嘲笑）让现在这次经历（欧文和杜兰特的加盟）变得更加甜蜜了。”丁威迪说道。
+   </p>
+   <p>
+    在谈到篮网的队内氛围和球队文化时，丁威迪对记者说：“我认为我们球队最好的一点就是将家庭和球员置于首位。他们会特意让你的整个家庭都感到这里很特别。这对球员来说真的很有帮助。当你的家人在这里感到快乐和舒适的时候，这会积极地影响你的情绪。你的家庭生活很重要，他们在这方面做得很好。球员们会被我们吸引，我一点儿也不惊讶，尤其是在我们还能取得一些胜利的前提下。”
+   </p>
+   <p>
+    前篮网球员特雷沃-布克在谈到篮网时对记者说道：“篮网与其他球队的不同之处在于，他们真的很关心自己的球员。一切都是面向家庭的。如果你有什么需要，他们就会带给你。他们希望每个球员都感到舒适，这样你就可以专注于篮球。这就是他们的不同之处。我曾经效力过几支球队，他们根本不关心你的家庭，这真是太糟了。我在几支这样的球队打过球，但是我并不开心，因为我的家庭对我来说非常重要。对他们来说，一切都是为了生意，你进来做你的工作就好，就是这样。篮网的管理水平是一流的，他们的管理团队和员工都在做正确的事。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

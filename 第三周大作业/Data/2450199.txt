@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊赛亚-托马斯更新社交媒体：缅怀高中教练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzdeSYfgF4i/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 15:13:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊赛亚-托马斯更新社交媒体：缅怀高中教练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/0e81ee4fbf29eb3bd2f946001bd561d3449218c7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 前NBA球员伊塞亚－托马斯更新社交媒体Instagram，晒照缅怀传奇高中教练Gene Pingatore（见新闻配图）。
+   </p>
+   <p>
+    “谢谢你，Pingatore教练 #RIP#，”他写道。
+   </p>
+   <p>
+    Gene Pingatore是美国传奇高中教练，他是伊利诺伊州历史上最有名的男子篮球教练。2017年2月11日，他获得生涯第1000场胜利，总战绩为1035胜383败。并且是伊利诺伊州唯一一位胜场超过900的高中教练，他的一生培养了许多优秀球员，如NBA球员埃文-特纳，名人堂球员伊塞亚-托马斯等 。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/d0d72ec369773bc403ebe39b075d5f9e.png"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

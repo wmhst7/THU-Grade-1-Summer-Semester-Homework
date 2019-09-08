@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比-怀特谈个人本场表现：我本可以打得更好一些
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/chicagobulls/status/1148044039884804101" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 09:48:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比-怀特谈个人本场表现：我本可以打得更好一些" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/10319be68d9a1f74ac35ab83f5f6e6fd4585fe66.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 在今天已经结束的一场夏季联赛比赛中，芝加哥公牛队以75-82的比分不敌克利夫兰骑士队。
+   </p>
+   <p>
+    赛后，公牛新秀后卫科比-怀特在接受采访时说道：“我本可以打得更好一些，但今晚的比赛对两支球队来说都是一场艰难的战斗，我的能量已经不在上一场比赛了，我们明天还会有新的一场比赛。”
+   </p>
+   <p>
+    本场比赛，怀特出场33分钟，16投7中得到15分6篮板5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,69 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：球员干预达到了新高度，应避免限制性的自由市场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1101973/2019/07/29/jared-dudley-on-dangelo-russell-and-a-wild-nba-free-agent-summer/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 09:33:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：球员干预达到了新高度，应避免限制性的自由市场" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/7df642a8382a5ce59325600cce0b82939277179f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 近日，湖人前锋贾里德-杜德利接受了The Athletic记者Ethan Strauss的采访，谈到了自由市场问题。
+   </p>
+   <p>
+    “我只是觉得这个休赛期，干预（tampering）达到了前所未有的高度。我看到即便是在球员们在打球的时候，仅仅是要保持专注就已经很难了。听说在12月，凯里-欧文告诉斯潘塞-丁威迪，你得到KD了，以及他的想法。谈到科怀-伦纳德和保罗-乔治，某一天伦纳德甚至说从他在马刺而乔治在步行者时他就想跟乔治一起打球了。这些人他们会说一些话，他们不介意发出召唤。所以球员要做的就是开始上场比赛。美国篮球有一张庞大的关系网，球员必须开始（建立关系网）。”
+   </p>
+   <p>
+    “我对球员们现在几乎都想签年限较短的合同并不惊讶。并且因为这一点，球员们拥有了更多权力，球员们让合同更具灵活性。我们正在这么做，事情现在已经发展到了有像科怀-伦纳德这样的球员改变了局势。他说嘿，我只会打65场比赛。而且他预先告诉你了，他告诉你了他打算怎么打球。在某种程度上我喜欢这一点。球队老板们在挣钱，球员也在挣钱。我认为，老一辈球员大概不会喜欢这种情况的原因是，这样就没有球队的概念了。”
+   </p>
+   <p>
+    谈到自己对于这种干预的看法时，杜德利说：“这是不可能管控的。你要怎么告诉一名球员他不能做给教练组成员发短信之类的事呢？我只会说，他们应该对自由市场的过程进行一些调整。我会说自由市场需要一点点改变，我不知道亚当-萧华可以怎样去做出改变，但是他是个聪明人，每个人都喜欢他，每个人都尊敬他。所以我认为他可以找到一些可能有帮助的方法。”
+   </p>
+   <p>
+    “我认为应该避免限制性的自由市场，一旦球员被限制在一支球队太久了，他们想要马上离开。一旦他们离开了，之后他们每年都想换队。这时候转变就发生了，因为他们在早些时候太受限制了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，杜德利场均出场20.7分钟，得到4.9分2.6篮板。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2455371.html">
+     丁威迪：欧文去年12月告诉我，下赛季纽约也许会很有趣
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2457777.html">
+     伦纳德：乔治向步行者申请交易时，我曾努力让马刺换来他
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

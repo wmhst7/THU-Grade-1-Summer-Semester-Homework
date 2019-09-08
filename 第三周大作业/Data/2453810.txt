@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  集结训练！快船官方更新社交媒体，晒众人训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz3gAefBySu/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 14:09:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="集结训练！快船官方更新社交媒体，晒众人训练照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/a11b0bf07fca9c497582092497f296da3bac56db.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 今日，快船官方更新社交媒体Instagram，晒出训练营照片（见新闻配图）。
+   </p>
+   <p>
+    “享受我们劳动的果实。”配文写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/14/ceb39a7ed39ba6a0d51f9ea0f5d43831.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/14/23d19c15248957fce8efa7a7a3eb38b6.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/14/59964024682a5dc50fd2aa7f12b2ebfb.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/14/19481d6927887d14df38e05a8248c14c.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/14/6474a3318b5c02b1dd66e1c0b339ea37.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

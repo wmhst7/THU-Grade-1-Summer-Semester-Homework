@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里：不会被外界批评左右，阵容融合要让球员们适应体系
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/warriors-arent-nba-title-contenders-steph-curry-laughs-notion?cid=Yahoo&amp;partner=ya4nbcs&amp;tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 17:24:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里：不会被外界批评左右，阵容融合要让球员们适应体系" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/71864d501a64606431e8d82cff033391d30a95d6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 近日，勇士后卫斯蒂芬-库里出席了在奥克兰举办的Warriors All-Girls年度篮球训练营，期间接受了采访。
+   </p>
+   <p>
+    谈到很多人认为勇士不再是争冠球队的观点时，库里说：“我只是付之一笑。现在任何人都能对任何事情说任何话，而且事情还会不断发酵。所以我们受到过很多支持，一路走来也受到过很多批评，这些批评现在仍未改变。他们的说法不同了，这一点不会改变我们如何对待我们的工作。”
+   </p>
+   <p>
+    谈到新阵容的融合问题时，库里说：“这只是真正努力让球员们适应体系，努力突出球员们拥有的不同技能和不同优势，努力突出球队的化学反应。这需要一点时间以及很多努力，但是就像我所说的，我们的核心阵容里有很多高球商的人，他们对于我们所做的事展现出了很强的领导力和责任心。所以到了训练营以及之后的时候，你必须有一种心态，觉得随着赛季的进行，球队会不断进步的。”
+   </p>
+   <p>
+    谈到自己对于球队即将搬迁到旧金山的感受时，库里说：“当然，这始终是苦乐参半的。因为我猜我们在甲骨文球馆待了10年了。我记得我第一次训练营是和唐-尼尔森、凯兰纳-阿祖布克以及球队阵中的所有人。10年后，对于在这支球队待了10年的人来说……感觉有些奇怪也不太一样，但当然还是令人兴奋的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

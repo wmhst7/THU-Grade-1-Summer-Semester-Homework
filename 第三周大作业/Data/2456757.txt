@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库克：队内群聊很活跃，最近在跟詹姆斯库兹马等队友训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/07/21/lakers-nba-rumors-quinn-cook-free-agency-lebron-davis-demarcus-interview-los-angeles-rondo-duke-warriors/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 11:49:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库克：队内群聊很活跃，最近在跟詹姆斯库兹马等队友训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/0e34c870005e94fea54eab692fd51e7c88cb802a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 湖人后卫奎因-库克近日接受采访谈到了他与球队的融入情况。
+   </p>
+   <p>
+    “赛季结束后我休息了一下，但我仍然继续保持着身体状态，”库克说道，“现在我完全恢复训练，一天两练，有时一天三练。从各位共事过的老将、训练师以及教练那里学到经验后，我现在的训练更加聪明了。今夏我的训练明智了许多，但我仍然很认真地投入训练，努力提升我的比赛。我想成为一名状态更加稳定的替补球员，比上赛季更好。当上赛季得到机会拥有大量出场时间时，我自认为表现得很好，希望能够再接再厉。”
+   </p>
+   <p>
+    “我们建了一个队内聊天群，大家都在群聊里很活跃。感觉就像这支球队已经在一起一段时间了。所有人都在群里踊跃发言。自从签约后，我直接去了洛杉矶，然后我一直在跟Bron（勒布朗-詹姆斯），Kuz（凯尔-库兹马），肯塔维厄斯-考德威尔-波普以及贾维尔（麦基）一起训练。我们训练了许多内容，我有机会向教练组讨教，与主教练沃格尔频繁交谈，并与西蒙教练一起训练。自从签约起，每个人都对我热情款待。我知道其他队友也会陆续加入，我们将继续努力训练备战新赛季。全体队员都对于开启合练很激动。我知道对于球员教练和球迷而言这都将是一个很棒的赛季。如果你是一个篮球迷，这个赛季将精彩绝伦。”库克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

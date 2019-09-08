@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克拉克：我必须要让自己的投篮更稳定一些
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Gary-Clark-looks-to-make-strides-toward-14086651.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 09:57:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克拉克：我必须要让自己的投篮更稳定一些" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/d5fca33a4b41eaf2d1f41c56224770cdf5274eff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 根据《休斯顿纪事报》记者Jonathan Feigen的报道，火箭想让加里-克拉克利用好夏季联赛来开发自己的技术，让他不仅仅做一名定点三分投手。
+   </p>
+   <p>
+    在昨日的夏季联赛上，火箭以94-92战胜国王，克拉克最后的突破上篮得分帮助球队锁定了胜利。
+   </p>
+   <p>
+    “我很可能投丢了所有的投篮，在那之前投丢了4、5个，就是努力冲起来完成突破，我知道当时是关键时刻，努力得分。”克拉克说道。
+   </p>
+   <p>
+    “我很放松，当我可以上场的时候，我通常都可以打得高效，你们真的不会看到我去努力得分，我只是出手定点投篮，出手三分，我当时突破得分是想表明我的态度。”克拉克说道。
+   </p>
+   <p>
+    克拉克接着说：“我认为我的投篮范围在上赛季和选秀前让很多人印象深刻，现在我的主要专注点就是让自己的表现更稳定。”
+   </p>
+   <p>
+    “作为一名职业球员，我学到的一点就是，你知道的，埃里克-戈登真的可以走出更衣室就连续命中40个投篮，当到了比赛里，他可以连续命中10个，你看看我的数据，在投篮这方面，我的表现不稳定。”克拉克说道。
+   </p>
+   <p>
+    克拉克接着说：“保罗总是会说，这一切都是心理问题，我们会进行投篮比赛，他们每次都能赢，他们做职业球员很久了，他们知道如何调整心态。”
+   </p>
+   <p>
+    “他们总是说，如果你是一名职业球员，一名投手，这是有原因的，相信自己的能力，你在这个联盟是有原因的，球员拿钱就是打出表现，德安东尼教练真的坚持让我们出手，我还记得上赛季初期有一次，当时我出场时间很多，我上半场投丢了4个，他告诉我下半场再投5个，我最终命中了3个。”克拉克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

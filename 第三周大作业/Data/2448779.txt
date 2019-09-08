@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  绿军有意促成与篮网黄蜂的三方交易，意在保留住中产特例
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145409029151363072" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 03:18:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="绿军有意促成与篮网黄蜂的三方交易，意在保留住中产特例" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/a3169930aaf67fae2dcb6926b18f2ba13bc7c802.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据ESPN知名记者Adrian Wojnarowski的报道，消息源透露，凯尔特人有兴趣将凯里-欧文、肯巴-沃克和特里-罗齐尔的签约变为先签后换的三方交易。在交易中，欧文去到篮网、沃克来到凯尔特人、罗齐尔去到黄蜂。
+   </p>
+   <p>
+    凯尔特人此举的意图是能够保留一个完整的中产特例，为此可能需要至少付出一个首轮签给到篮网。根据薪资专家Bobby Marks的解释，交易走欧文和罗齐尔会让凯尔特人创造出3270万美元的交易特例，而凯尔特人则可以用这个交易特例签下沃克，而不动用空间签人，从而保留住全额中产特例（930万），并且保留帽上续约霍弗德和莫里斯的权利。目前交易仅停留在探索阶段。
+   </p>
+   <p>
+    根据此前的报道，篮网有意与欧文签下4年1.41亿的合同，凯尔特人有意与沃克签下4年1.41亿的合同，黄蜂有意得到罗齐尔。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  由于资金、医疗条件和将帅不和，委内瑞拉男篮已拒绝训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/919572/venezuela-players-go-on-strike/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 12:26:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="由于资金、医疗条件和将帅不和，委内瑞拉男篮已拒绝训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/a0913262fbcda089e01866a09092336a475f5653.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 据体育媒体Cancha Latina报道，目前正在意大利备战的委内瑞拉男篮已经决定罢赛不再进行训练。
+   </p>
+   <p>
+    由于国家队未支付男篮队员居住酒店的费用，球队在意大利的停留受到了影响，目前情况非常严重，球员们可能会被限制离开酒店。
+   </p>
+   <p>
+    这并不是唯一的问题，委内瑞拉国家队也没有为球员们提供适当的医疗设备，以预防意外伤病的发生。有消息称，球队甚至没有为球员们提供防止脚踝受伤的医用绷带。
+   </p>
+   <p>
+    最重要的是，球员们对于主教练Fernando Duro在场上以及场下的决定感到非常不满，他们的关系已经恶化到不可挽回的地步。
+   </p>
+   <p>
+    本届世界杯，委内瑞拉与中国、波兰、科特迪瓦同处A组，小组赛在北京举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

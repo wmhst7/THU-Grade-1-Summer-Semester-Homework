@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙总经理谈续约伦纳德：我们相互了解，不会感到焦虑
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sportsnet.ca/basketball/nba/raptors-gm-bobby-webster-keeping-kawhi-knows/" target="_blank">
+     Sportsnet
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 09:11:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙总经理谈续约伦纳德：我们相互了解，不会感到焦虑" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/00b8cad41bde791d66e5e7ff36dae87018826c19.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 猛龙总经理鲍比-韦伯斯特在今日接受媒体采访时谈到球队续约科怀-伦纳德的前景。
+   </p>
+   <p>
+    “我不会称之为压力或者焦虑，”韦伯斯特说道，“他会做出对于自己而言最好的决定，我们对此完全尊重。”
+   </p>
+   <p>
+    “我认为他很了解我们这支球队，我们显然有机会坐下来好好谈一谈。我认为这是我们在一年前交易得到他的好处，他能够通过这一年来了解这座城市，了解我们这支球队。幸运的是，那次交易帮助我们赢得了总冠军。”韦伯斯特说道。
+   </p>
+   <p>
+    “他很了解我们这支球队，我们也非常了解他。”韦伯斯特补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

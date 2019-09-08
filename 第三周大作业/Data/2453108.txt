@@ -1,0 +1,151 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  7月14日开打！夏联最终8强锦标赛赛程出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/summerleague/2019/schedule" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 13:52:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="7月14日开打！夏联最终8强锦标赛赛程出炉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/47c90caed3bde69dbf541917236878da022f1705.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 NBA夏季联赛官方今天公布了此次拉斯维加斯夏季联赛最终8强锦标赛的赛程。
+   </p>
+   <p>
+    <strong>
+     具体赛程如下：
+    </strong>
+   </p>
+   <p>
+    <strong>
+     7月14日
+    </strong>
+   </p>
+   <p>
+    比赛场馆：托马斯马克中心球馆
+   </p>
+   <p>
+    灰熊（8）vs凯尔特人（1）（北京时间凌晨4点30分）
+   </p>
+   <p>
+    热火（5）vs鹈鹕（4）（北京时间上午6点30分）
+   </p>
+   <p>
+    篮网（7）vs活塞（2）（北京时间上午8点30分）
+   </p>
+   <p>
+    独行侠（6）vs森林狼（3）（北京时间10点30分）
+   </p>
+   <p>
+    <strong>
+     7月15日
+    </strong>
+   </p>
+   <p>
+    比赛场馆：托马斯马克中心
+   </p>
+   <p>
+    半决赛两场时间分别为：北京时间6点以及8点
+   </p>
+   <p>
+    <strong>
+     7月16日
+    </strong>
+   </p>
+   <p>
+    比赛场馆：托马斯马克中心
+   </p>
+   <p>
+    决赛时间：北京时间8点
+   </p>
+   <p>
+    <strong>
+     此外，未进入此次夏联8强锦标赛的其他球队将会进行定级赛，具体赛程如下：
+    </strong>
+   </p>
+   <p>
+    <strong>
+     7月13日
+    </strong>
+   </p>
+   <p>
+    比赛场馆：托马斯马克中心
+   </p>
+   <p>
+    湖人（31）vs勇士（10）（北京时间凌晨4点30分）
+   </p>
+   <p>
+    中国男篮（29）vs太阳（12）（北京时间上午6点30分）
+   </p>
+   <p>
+    步行者（32）vs快船（9）（北京时间上午8点30分）
+   </p>
+   <p>
+    老鹰（25）vs马刺（16）（北京时间上午10点30分）
+   </p>
+   <p>
+    比赛场馆：考克斯体育馆
+   </p>
+   <p>
+    76人（27）vs猛龙（14）（北京时间凌晨4点）
+   </p>
+   <p>
+    克罗地亚男篮（30）vs雷霆（11）（北京时间上午6点）
+   </p>
+   <p>
+    骑士（28）vs国王（13）（北京时间8点）
+   </p>
+   <p>
+    开拓者（26）vs雄鹿（15）（北京时间10点）
+   </p>
+   <p>
+    <strong>
+     7月14日
+    </strong>
+   </p>
+   <p>
+    比赛场馆：考克斯体育馆
+   </p>
+   <p>
+    黄蜂（24）vs爵士（17）（北京时间凌晨4点）
+   </p>
+   <p>
+    尼克斯（23）vs奇才（18）（北京时间上午6点）
+   </p>
+   <p>
+    魔术（22）vs公牛（19）（北京时间上午8点）
+   </p>
+   <p>
+    掘金（21）vs火箭（20）（北京时间上午10点）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/13/e4a09ed539773297768165e4ff84a2d5.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

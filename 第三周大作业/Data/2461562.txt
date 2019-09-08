@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  梅森：我和扬尼斯一同进行了训练，很兴奋能与他并肩作战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www2.kusports.com/weblogs/tale-tait/2019/aug/2/former-jayhawk-frank-mason-iii-fired-up-/" target="_blank">
+     KU体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 12:15:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="梅森：我和扬尼斯一同进行了训练，很兴奋能与他并肩作战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/6b3f8d65bcec3dad8cf3e7c48fa6ca5b292e00be.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 雄鹿球员弗兰克-梅森近日在堪萨斯举行了一年一度的弗兰克-梅森篮球训练营，期间他接受了媒体采访。
+   </p>
+   <p>
+    谈到参加训练营的感受，梅森说：“这总是非常有趣，我喜欢和孩子们待在一起，我热爱回馈社区，热爱去帮助他们，帮助他们成为更出色的篮球运动员和更好的人。”
+   </p>
+   <p>
+    梅森在今年夏天与雄鹿签下了双向合同，他在接受采访时透露，自己已经与新队友、上赛季常规赛MVP扬尼斯-阿德托昆博一同进行了训练。
+   </p>
+   <p>
+    “在拉斯维加斯夏季联赛期间，我有机会和他一起训练，并且与他进行了一对一比赛。这是非常重要的时刻，我们进行了大量的训练，还和克里斯-米德尔顿和帕特-康诺顿，那是非常美好的时光。我们都取得了进步，能够亲眼看到他，见证他的职业素养，这真的太不可思议了。我很兴奋能够成为这支球队的一员，能够与这样的球员一起打球。”梅森说道。
+   </p>
+   <p>
+    当被问及最喜欢阿德托昆博比赛内容的哪些方面时，梅森毫不犹豫地回答：“所有方面，他是一个身高七尺的球场‘恶霸’，他在快攻时难以阻挡，他在篮筐附近的表现是出于本能的。同时他也非常谦虚，他是一名乐于受教的球员，我很兴奋能够与他并肩作战，他会让我的工作变得更加轻松。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

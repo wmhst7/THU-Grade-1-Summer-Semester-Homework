@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼获得2019年“曼尼-杰克逊”篮球人文精神奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www.hoophall.com/news/carmelo-anthony-tyrone-brown-and-dawn-staley-named-winners-of-2019-mannie-jackson-basketballs-human-spirit-award/" target="_blank">
+     名人堂官方网站
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 12:35:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼获得2019年“曼尼-杰克逊”篮球人文精神奖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/a5e005070342b9da6f016b7fa3ad1e9ef97cfbea.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 奈史密斯篮球名人堂宣布，卡梅罗-安东尼获得了2019年“曼尼-杰克逊”篮球人文精神奖。
+   </p>
+   <p>
+    与他一起获此殊荣的还有女篮运动员唐-斯特利和哈林篮球队成员蒂龙-布朗。
+   </p>
+   <p>
+    “曼尼-杰克逊”篮球人文精神奖是用来表彰那些致力于为他人生命带来积极影响力的运动员。
+   </p>
+   <p>
+    安东尼曾在2006年在他的家乡巴尔的摩成立了青少年发展中心，此外安东尼为移动教室慈善项目捐助了150万美元，在东巴尔的摩地区超过35000名青少年受益于此项目。安东尼在近期又像他的母校雪城大学捐助了300万美元，用于建造新的篮球训练场。
+   </p>
+   <p>
+    唐-斯特利是三届奥运会冠军、WNBA历史十五大球员之一。在场下，斯特利致力于帮助那些需要被帮助的人。1996年她成立了唐-斯特利基金会为女中学生提供学术、运动和社区关怀方面的援助。
+   </p>
+   <p>
+    蒂龙-布朗从9岁开始就想成为哈林篮球队的一员，在16年的努力训练后梦想成真，他在哈林篮球队效力了11年。在退役后，他周游世界，将他的故事分享给世界各地的青少年，意在激励他们。2017年，他成立了基金会，免费为学校的学生提供篮球课程。
+   </p>
+   <p>
+    2018年“曼尼-杰克逊”篮球人文精神奖的获奖者为何塞-巴里亚、提娜-查尔斯和伯瑞斯-迪奥。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

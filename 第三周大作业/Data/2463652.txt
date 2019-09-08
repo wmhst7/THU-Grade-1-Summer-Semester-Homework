@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人公布季前赛赛程，将两遇骑士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SteveBHoop/status/1159841914750787586" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 23:39:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人公布季前赛赛程，将两遇骑士" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/64e0487b56a6ad91a5aeb863b988c81d425fb04a.gif"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 今日，凯尔特人公布了球队2019-2020年季前赛赛程，赛程如下（均为北京时间）：
+   </p>
+   <p>
+    10月6日上午6点将坐镇主场对阵夏洛特黄蜂队
+   </p>
+   <p>
+    10月11日上午7点将做客奥兰多对阵魔术
+   </p>
+   <p>
+    10月13日上午3点将在主场迎战克里夫兰骑士队
+   </p>
+   <p>
+    10月15日上午7点将再次对阵骑士队
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190809/23/8bb713820bba5575660516f6434e7e84.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

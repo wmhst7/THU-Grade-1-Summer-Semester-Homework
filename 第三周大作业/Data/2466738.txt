@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士更新官方社媒庆祝球队新援考利-斯坦生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1T4d7rJpwm/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 00:12:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士更新官方社媒庆祝球队新援考利-斯坦生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/f4616ca2b94a7c7623cb4ac906cb38dada60f408.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 今日，金州勇士队更新球队官方媒体Instagram晒出球队新援威利-考利-斯坦照片，祝贺其生日快乐。（见新闻配图）
+   </p>
+   <p>
+    今年夏天，勇士签下中锋威利-考利-斯坦，考利-斯坦与勇士签下的合同为2年440万美元，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，威利-考利-斯坦场均上场27.3分钟，得到11.9分8.4篮板2.4助攻1.19抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/00/dfdf2240edd48dd9324dd645662b68c6.jpg"/>
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

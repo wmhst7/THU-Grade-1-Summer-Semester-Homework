@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黑夜里最帅的仔！范弗利特更新Ins晒出自己的帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz_bLlgH9S9/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 16:21:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黑夜里最帅的仔！范弗利特更新Ins晒出自己的帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/3b7ffa2a941e07871add62377c0ae11661a8410a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日，多伦多猛龙队球员弗雷德-范弗利特更新社交媒体Instagram晒出自己的帅照。（见新闻配图）
+   </p>
+   <p>
+    2018-19赛季常规赛，范弗利特场均出场27.5分钟，得到11.0分2.6篮板4.8助攻0.89抢断；季后赛场均出场24.7分钟，得到8.0分1.7篮板2.6助攻0.75抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

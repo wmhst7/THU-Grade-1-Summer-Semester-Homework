@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴格利：和沃顿教练经常交流，非常期待新赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1122139/2019/08/07/im-super-excited-to-get-this-thing-rolling-marvin-bagley-iii-is-raring-to-go-for-his-second-nba-season/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 10:53:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴格利：和沃顿教练经常交流，非常期待新赛季" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/76e153aa3562b586f0be141776c2377b74086221.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 美国男篮目前正在拉斯维加斯进行集训，萨克拉门托国王队前锋马文-巴格利也入选了此次训练营陪练队名单。训练营期间，巴格利接受了The Athletic记者Jason Jones的采访。
+   </p>
+   <p>
+    上赛季，巴格利为国王出战了62场比赛，仅有4场比赛首发。但巴格利从未抱怨过他与前任主教练戴夫-乔尔格的关系，尽管国王管理层一度怀疑乔尔格是否与巴格利有过交流。
+   </p>
+   <p>
+    而在谈到新任主教练卢克-沃顿时，巴格利说道：“只需要做好准备，一切都将会变得让人兴奋。当我训练时，我会时不时地与他进行交流，而他也会时不时地出现在我的训练当中。我们有过很多交流，并且经常共进午餐、晚餐等等。这让人很兴奋，我已经迫不及待地想回归球队接触新的教练组了并了解他们会做什么，只需要回归到训练当中并从中获得乐趣。”
+   </p>
+   <p>
+    在谈到自己休赛期的训练时，巴格利说道：“我甚至不能告诉你我已经做过的所有事情，很多令人兴奋并且有趣的我在训练馆里所做的事情。我和Rico（国王助理教练）在那儿，加强一些我已经拥有的一些技巧。我很兴奋，我对能够让事情开始并运转起来感到超级兴奋，所以下赛季绝对是一个让人兴奋的赛季。”
+   </p>
+   <p>
+    上赛季巴格利的三分命中率仅为31.3%，并且场均出手仅有1.5次。在谈到这一点时，巴格利说道：“它（指自己在三分线外的表现）会变得更好的，他会变得更好的。就像我刚刚所说的，我正在加强我的那些技巧，休赛期我一直在努力并且有所进步。每一天都在进步，所以我真的很期待新赛季。那将会很有趣，相比较上赛季我们会有一个更出色的赛季。我很兴奋，伙计，我等不及了。”
+   </p>
+   <p>
+    在谈到美国男篮训练营陪练队的主教练杰夫-范甘迪时，巴格利说道：“我受益匪浅，从这些家伙身上，我学到了很多东西，特别是教练杰夫-范甘迪。只需要来到这里向他学习并将他的知识化为己用。波波（格雷格-波波维奇），看着他，这真的很出色，一段很棒的经历，一段很棒的旅程，我很兴奋。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

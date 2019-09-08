@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  未来是你们的！NBA新秀今日集体拍摄定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1BsIcdAyvZ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 23:54:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="未来是你们的！NBA新秀今日集体拍摄定妆照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/54605baf455d4ba83fbf0003dd3c0c4fe0bea23e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今天NBA官方召集了2019级新秀，为他们拍摄新赛季定妆照。
+   </p>
+   <p>
+    NBA官方在Instagram上发布了新秀们拍摄大合影的现场视频。
+   </p>
+   <p>
+    2019年NBA选秀大会，鹈鹕在第一顺位选中蔡恩-威廉森；灰熊在第二顺位选中贾-莫兰特；尼克斯在第三顺位选中RJ-巴雷特。
+   </p>
+   <p>
+    <img alt="GIF 4.7M" src="https://c1.hoopchina.com.cn/uploads/images/20190811/23/7e255d8107541a233ba8d21a99deb5aa.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3.5M" src="https://c1.hoopchina.com.cn/uploads/images/20190811/23/dbf0c4d28bb3a68f9b768470802656c1.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/01/5d2302349eef1ac3993eb2b67b466522.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

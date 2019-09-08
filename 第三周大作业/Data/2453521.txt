@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：成为湖人一周以来，我的社媒热度达到了新高
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/hmfaigen/status/1149775626665988096" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 19:36:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：成为湖人一周以来，我的社媒热度达到了新高" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/2ff4bcbd1f6c9d8ca932ff1d773aea9836bb6f21.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 湖人前锋贾里德-杜德利今日接受采访谈到了加盟湖人的话题。
+   </p>
+   <p>
+    杜德利是南加利福尼亚州圣地亚哥市人，当被问到他选择湖人是否由于家乡地域因素时，杜德利表示：“假如快船给我提供报价，我不会去那里的，我就会回布鲁克林打球了，所以原因显然不仅仅在于南加州。 我认为原因在于得到争冠机会，得到在勒布朗-詹姆斯和安东尼-戴维斯身边打球的机会。然后我们实话实说：湖人的品牌效应。这可能是整个体育界最大的品牌。自从我成为湖人球员一周以来，我的社交媒体热度是我从未经历过的，这展现了湖人的品牌效应多么强大。就是这个机会，而且我妈妈也是湖人铁杆球迷，所以能够邀请我的父母兄弟从圣地亚哥开车过来观看我的比赛，这一点通常有巨大的影响。但我认为能够有机会竞争总冠军是我考虑的头号因素，特别是在我生涯的晚期阶段而言。”
+   </p>
+   <p>
+    值得一提的是，杜德利曾于2013-14赛季效力于快船。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

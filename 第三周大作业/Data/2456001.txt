@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔-库兹马将与自己的经纪人分道扬镳
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/taniaganguli/status/1152359688895225857" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 07:42:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔-库兹马将与自己的经纪人分道扬镳" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/298d232100006c10b7b5bfc733814d05965c28bb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据《洛杉矶时报》记者Tania Ganguli的报道，多位消息人士透露，为了着眼于提升自己的商业利益，湖人的凯尔-库兹马将与他的经纪人Priority Sports and Entertainment经纪公司的Mark Bartelstein和Zach Kurtin分道扬镳。
+   </p>
+   <p>
+    目前库兹马还没有与可能雇佣的经纪人们进行会面。
+   </p>
+   <p>
+    随后Bartelstein发表声明：“我祝凯尔一切都好，这只是因为我们所处的情况清楚显示我们的看法已经不再一致，当是这样的情况时，再继续合作下去就讲不通了，再一次，我祝凯尔一切都好。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

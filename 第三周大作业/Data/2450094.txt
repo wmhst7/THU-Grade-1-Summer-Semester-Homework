@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  赤膊骑士！乐福社媒晒出个人度假照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzeEZBsApD9/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 09:50:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="赤膊骑士！乐福社媒晒出个人度假照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/ecb8a099bb3cac70a2f1545fa4da64e3b35ff0e7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 克利夫兰骑士队中锋凯文-乐福今天在个人Instagram上传了一张自己的度假照（见新闻配图）。
+   </p>
+   <p>
+    “有趣的家伙——广阔的国家。”乐福写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，乐福因左脚趾伤势仅出战22场比赛，场均出场27.2分钟得到17.0分10.9篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

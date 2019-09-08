@@ -1,0 +1,82 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  JR-史密斯晒训练照，詹姆斯戴维斯阿里扎西蒙斯等入镜
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B18_aPZBeBu/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 14:07:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="JR-史密斯晒训练照，詹姆斯戴维斯阿里扎西蒙斯等入镜" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190904/98f551a013a71296a219f4223aad288ce70bc232.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 今日，自由球员JR-史密斯更新个人Instagram，晒出多张自己以及自己和其他NBA球员的训练照，入镜的球员有湖人球员勒布朗-詹姆斯和安东尼戴维斯、76人球员本-西蒙斯、马刺球员德章泰-默里、骑士球员乔丹-克拉克森以及国王球员特雷沃-阿里扎。
+   </p>
+   <p>
+    JR-史密斯写道：“恰当的准备能防止糟糕的表现。#Klutch体育”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/7b0f15c76ddb68943c79505e9cbcd568.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/8352272d5942177f36327283d9a0ec0d.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/6cb75a060e540c018ebefaf8260e3153.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/500cedb26428583a3a7fd850a0d19ce5.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/158da1507acc9b4463250c0f1e560ddd.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/938df8fe43276bf60d358a933edc7d5b.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/0afa9ddad9bb4865899981818efac880.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/c964d0e497fff74af423f7b5678a7d1a.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

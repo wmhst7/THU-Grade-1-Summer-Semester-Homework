@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃克萨姆：休赛期首要目标是努力康复，球队阵容非常出色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.foxsports.com.au/basketball/nba/dante-exum-talks-about-his-relationship-with-quin-snyder-the-newlook-utah-jazz-playing-on-the-wing-and-the-aussie-boomers/news-story/b60e4c0974f89112216046a" target="_blank">
+     福克斯体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 10:42:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃克萨姆：休赛期首要目标是努力康复，球队阵容非常出色" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/d8f497085833b81e939ab0095590a73bc52e1d2c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 爵士球员丹特-埃克萨姆在近日接受了福克斯体育的采访，他谈到了休赛期的规划以及新赛季的前景。
+   </p>
+   <p>
+    埃克萨姆在上赛季遭遇了右膝髌韧带部分撕裂，他表示自己休赛期的首要目标就是努力康复。
+   </p>
+   <p>
+    “显而易见，康复一直是我的首要任务，在重新回到赛场之前，我要确保自己能够100%的健康。对于我而言，健康是重中之重。”埃克萨姆说道。
+   </p>
+   <p>
+    埃克萨姆今年夏天留在美国进行训练，他在努力打磨自己的投篮技术。
+   </p>
+   <p>
+    “你知道的，跳投是我休赛期主要的训练内容，就是确保我的投篮稳定性，希望下赛季急停跳投能够成为我的常规武器。我认为这对于我而言大有裨益，当我持球顺下时，如果对手的大个子收缩防守，我可以选择急停跳投，这会为我的比赛带来不同的内容。”埃克萨姆说道。
+   </p>
+   <p>
+    谈到爵士休赛期的引援，埃克萨姆说：“我认为我们拥有一个很棒的团队，这不仅是就账面上而言，球队中的每个人都是很棒的家伙，我们能够很好地相处。我已经和迈克-康利、伊曼纽尔-穆迪埃一起进行了训练，所有人都想要努力工作，试图变得更出色。我们都是团队至上的球员，只要我们能够赢球，每个人都会很开心，我认为无论何时当一支NBA球队能够拥有这样的心态，总会是最理想的情况。”
+   </p>
+   <p>
+    谈到自己在球队中的定位，埃克萨姆说：“我想要获得出场时间，我认为想要保持前进，最重要的事情就是站在场上。球队的进攻风格已经发展为无论谁抢到篮板或者抢断，就立刻在场上跑起来。我真的很擅长打攻守转换，在场上持球奔跑，无论我在哪个位置得到球，都能够奏效。我和奎因（斯奈德）教练的关系很好，我已经和他进行了沟通，当我加盟球队的时候，他们对于我的期望很高，我也喜欢给自己制定高标准。我或许会有更严格的要求，我期待着自己能够站上赛场坚持自己的标准。”
+   </p>
+   <p>
+    谈到澳大利亚男篮在本届世界杯的前景，埃克萨姆说：“很多人都说这是澳大利亚男篮的黄金时期，这是我们赢得奖牌的机会，但我认为，在未来几年时间里，我们会一直向奖牌发起冲击，我们期待着赢得多枚奖牌。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

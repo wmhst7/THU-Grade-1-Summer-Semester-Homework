@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：詹姆斯对待湖人迷你训练营的态度极为认真
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1125596/2019/08/09/im-still-going-to-get-my-game-off-regardless-kyle-kuzma-ready-to-earn-role-as-lakers-look-to-build-chemistry/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 23:00:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：詹姆斯对待湖人迷你训练营的态度极为认真" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/608f6567c2bcf319c922ccc7a8d6177adef42586.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 据The Athletic记者Shams Charania报道，消息人士透露，湖人前锋勒布朗-詹姆斯对于自己组织的湖人迷你训练营抱有极为认真的态度——这是一次只有球员参加的活动，旨在增强全队赛场内外的凝聚力。
+   </p>
+   <p>
+    根据此前《洛杉矶时报》的报道，为了在争冠赛季让全队尽快融合，湖人前锋勒布朗-詹姆斯已定于下月在拉斯维加斯为湖人组织迷你训练营，全体湖人球员均计划前往参加。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

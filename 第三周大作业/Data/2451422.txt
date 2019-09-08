@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网经理：得到KD提升了我们与联盟顶级球队竞争的能力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/2019/07/07/brooklyn-nets-acquire-10-time-all-star-and-two-time-nba-champion-kevin-durant" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 09:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网经理：得到KD提升了我们与联盟顶级球队竞争的能力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/4def1a1723b617dc59709f073c86778dacc85533.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 篮网官方今日宣布，他们已经从勇士得到凯文-杜兰特和一个2020年的受保护首轮签，他们为此送出了丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄姆，这是一笔先签后换的交易。
+   </p>
+   <p>
+    “凯文是一个冠军，多届全明星，历史最佳之一，增加一名有着凯文能力的球员到我们球队提升了我们与联盟顶级球队竞争的能力，他的惊人才能还有对提升技术的投入让他成为了我们见过的最有天赋的进攻球员之一，我们还有整个布鲁克林激动地欢迎凯文和他的家人来到篮网。”篮网总经理肖恩-马克斯说道。
+   </p>
+   <p>
+    马克斯接着说：“我们也想感谢丹吉洛过去2个赛季为篮网的贡献，他是我们球队成长中不可或缺的一部分，他成为了篮网和布鲁克林的一个杰出代表，我们希望他、沙巴兹和特雷韦恩接下来一切都好。”
+   </p>
+   <p>
+    “跟联盟其他所有人一样，我们教练组一直都很赞赏凯文杰出的技术、韧性和坚毅，他已经证明了自己是一位冠军，而且还是史上最佳球员之一，欢迎他来到布鲁克林，这让我们非常兴奋。”篮网主帅肯尼-阿特金森说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

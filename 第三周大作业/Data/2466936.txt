@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  萌娃姐妹团！海沃德妻子晒三个女儿合照：好福气
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UnywAA5vd/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 13:50:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="萌娃姐妹团！海沃德妻子晒三个女儿合照：好福气" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/c8d505482d5e23f95b2f4b2cf0873b3bd2a2345e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 凯尔特人球员戈登-海沃德的妻子Robynm Hayward今日在个人Instagram上晒出了自己与海沃德的三个女儿的照片（见新闻配图）。
+   </p>
+   <p>
+    “好福气啊。@gordonhayward”配文写道。
+   </p>
+   <p>
+    海沃德和妻子共育有三个女儿，大女儿出生于2015年，二女儿出生于2016年，小女儿则出生于2019年1月。海沃德时常一边抱着女儿，一边打电脑游戏，带娃电竞两不误。
+   </p>
+   <p>
+    2018-19赛季常规赛，海沃德场均出场25.9分钟，得到11.5分4.5篮板3.4助攻0.86抢断0.32盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/13/a93971635f517e6bc74fee90cb7c064a.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：热爱犹他的一切，不会去追逐大球市
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/utahjazz/status/1146530808418586624" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 11:13:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：热爱犹他的一切，不会去追逐大球市" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/50ba1281dea8cac6fb8ddbc8894ebced48bde701.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日爵士球员多诺万-米切尔参加了播客节目Light Harted，节目中米切尔与采访者聊到了在小球市犹他成为一名球星的感觉。
+   </p>
+   <p>
+    采访者说道现在许多球员都渴望纽约之类的大球市，米切尔对此有什么看法？
+   </p>
+   <p>
+    米切尔说道：“我在纽约长大，我见过那些东西，而我不需要那些东西。我在意的就是自己对比赛的专注和投入。犹他允许我做自己，让我保持初心。在纽约你在街上会碰到很多尾随者，跟你说我需要拍这张照片，我需要这需要那的，我觉得这些完全没有必要。我喜欢在犹他的感觉，在场下时你有自己的空间，享受和家人共处的时光，没有比这更棒的事了。”
+   </p>
+   <p>
+    “我喜欢犹他的一切，这不会改变。我不需要大球市来让自己感到开心。就像约翰-斯托克顿，卡尔-马龙他们一样，犹他不会限制他们成为伟大的球员。你不需要主动去追逐市场，市场会来发现你。”
+   </p>
+   <p>
+    约翰-斯托克顿和卡尔-马龙都是爵士名宿，名人堂成员。斯托克顿职业生涯为爵士出战1504场常规赛，场均13.1分10.5助攻。马龙为爵士出战1434场常规赛，场均25.4分10.2篮板。
+   </p>
+   <p>
+    米切尔上赛季在爵士场均出战33.7分钟，能得到23.8分4.1篮板4.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

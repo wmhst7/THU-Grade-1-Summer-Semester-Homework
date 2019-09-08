@@ -1,0 +1,172 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [汇总]自由市场第九日签约裁员及流言一览
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 16:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="[汇总]自由市场第九日签约裁员及流言一览" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/a95dd86ca9b455d28ddcf34f9ba2087656d4279c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今天是自由市场正式开启的第九天，一起来看看今天有哪些达成的签约或者交易，又有哪些新的流言。
+   </p>
+   <p>
+    <strong>
+     今日要闻：
+    </strong>
+   </p>
+   <p>
+    1、Shams：雷霆愿倾听其他球队对威少的交易报价
+   </p>
+   <p>
+    2、Haynes：湖人打算让詹姆斯担任新赛季首发控卫
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190709/15/66679ff6eb3481ad36d4875cb0b6f901.jpg"/>
+   </p>
+   <p>
+    3、周琦砍17+9，中国男篮84-80胜黄蜂迎夏联首胜
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190709/15/7553ef6b03aebd9576c670d1e8764731.jpg"/>
+   </p>
+   <p>
+    4、30支球队的代表将与亚当-肖华进行一系列不公开的会面
+   </p>
+   <p>
+    <strong>
+     今日达成签约及协议：
+    </strong>
+   </p>
+   <p>
+    1、Woj：雷霆将杰拉米-格兰特送到掘金，得到2020年首轮签
+   </p>
+   <p>
+    2、Woj：埃弗里-布拉德利计划2年970万签约湖人
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190709/15/54bccf58a73cf96bb9c7bf1e47279434.jpg"/>
+   </p>
+   <p>
+    3、勇士将达米安-琼斯和次轮签交易至老鹰，得到斯佩尔曼
+   </p>
+   <p>
+    4、Shams：亚历克-伯克斯与勇士达成1年合同
+   </p>
+   <p>
+    5、猛龙已经与帕特里克-麦考达成2年续约协议
+   </p>
+   <p>
+    6、Shams：杰迈克尔-格林2年1000万续约快船
+   </p>
+   <p>
+    7、贾巴里-帕克2年1300万签约老鹰，第二年球员选项
+   </p>
+   <p>
+    8、森林狼认领此前被快船裁掉的后卫蒂龙-华莱士
+   </p>
+   <p>
+    9、篮网与西奥-平森达成一份2年续约合同
+   </p>
+   <p>
+    <strong>
+     裁员及流言：
+    </strong>
+   </p>
+   <p>
+    1、官网：太阳已经裁掉38岁的老将凯尔-科沃尔
+   </p>
+   <p>
+    2、Woj：威斯布鲁克同样被热火吸引，是潜在的目的地
+   </p>
+   <p>
+    3、热火已表达对威少的兴趣，其球技和好胜心适合他们
+   </p>
+   <p>
+    4、Shams：雷霆允许穆斯卡拉和伯克斯重新评估情况
+   </p>
+   <p>
+    5、鹈鹕有意前火箭防守助教杰夫-布兹德里克
+   </p>
+   <p>
+    6、掘金撤回为莱尔斯开出的资质报价，后者将成完全自由球员
+   </p>
+   <p>
+    <strong>
+     今日官宣：
+    </strong>
+   </p>
+   <p>
+    1、官方：国王正式续签前锋哈里森-巴恩斯
+   </p>
+   <p>
+    2、官方：马刺正式续约鲁迪-盖伊
+   </p>
+   <p>
+    3、官方：太阳与后卫里基-卢比奥签下一份多年合同
+   </p>
+   <p>
+    4、官方：篮网正式签下前锋威尔森-钱德勒
+   </p>
+   <p>
+    5、官方：老鹰交易得到钱德勒-帕森斯
+   </p>
+   <p>
+    6、官方：勇士正式签下中锋威利-考利-斯坦
+   </p>
+   <p>
+    7、官方：森林狼正式签下前锋诺阿-冯莱
+   </p>
+   <p>
+    8、官方：独行侠与灰熊完成先签后换交易，得到德朗-赖特
+   </p>
+   <p>
+    9、官方：湖人正式续约拉简-隆多
+   </p>
+   <p>
+    10、官方：鹈鹕正式签约新秀海斯和沃克
+   </p>
+   <p>
+    11、官方：国王正式签下中锋德维恩-戴德蒙
+   </p>
+   <p>
+    12、官方：马刺与49号秀奎因达里-韦瑟斯庞签下双向合同
+   </p>
+   <p>
+    13、官方：灰熊交易得到所罗门-希尔和迈尔斯-普拉姆利
+   </p>
+   <p>
+    14、官方：灰熊签换交易得到两个未来次轮签和辛格的签约权
+   </p>
+   <p>
+    15、官方：灰熊与落选秀后卫约翰-康查尔签订双向合同
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

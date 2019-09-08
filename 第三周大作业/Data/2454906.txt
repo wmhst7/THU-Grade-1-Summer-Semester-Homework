@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬：在这个联盟里，你总是要有更大的梦想
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.pe.com/2019/07/16/pelicans-introduce-lonzo-ball-brandon-ingram-josh-hart-in-new-orleans-expect-exciting-future/" target="_blank">
+     PE
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 11:18:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬：在这个联盟里，你总是要有更大的梦想" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/5cfc53a29423a7b89bf91d74daaaba7f76e574fe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日鹈鹕为布兰登-英格拉姆、朗佐-鲍尔和约什-哈特三人召开了新闻发布会，篮球运营总裁大卫-格里芬在接受采访时谈到了球队新援的加入。
+   </p>
+   <p>
+    “这对于我们意味着许多，拥有对球队都抱以承诺的球员是很有意义的。”格里芬说道。
+   </p>
+   <p>
+    在谈到球队在休赛期的补强运作时，格里芬说道：“在这个联盟里，你总是要有更大的梦想，我认为我希望每个人的心态都应该是，‘为什么不能是我们呢？我们没有理由无法达成我们希望的成就。’”
+   </p>
+   <p>
+    格里芬表示，他和主教练阿尔文-金特里都认为，英格拉姆、鲍尔和哈特的三人组能让球队成为“联盟里最好的防守球队之一”。他说道：“我们队内拥有很多无私的、对胜利充满渴望的球员，他们都愿意担任球队需要他们承担的角色。”
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.9分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断；英格拉姆场均出场33.8分钟，得到18.3分5.1篮板3.0助攻0.54抢断0.60盖帽；哈特场均出场25.6分钟，得到7.8分3.7篮板1.4助攻0.96抢断0.60盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人官方发图纪念张伯伦诞辰日：领跑多项队史纪录
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sixers/status/1164326941471780865" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 10:57:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人官方发图纪念张伯伦诞辰日：领跑多项队史纪录" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/5d0377a292128a6e8dbe886ac8bb4a543f1b93b5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 76人官方推特今日发布一张图片祝福球队名宿威尔特-张伯伦诞辰日快乐。张伯伦出生于1936年8月21日，逝世于1999年10月12日，享年63岁。
+   </p>
+   <p>
+    “他仅为我们效力了三个完整赛季。但数据说明一切。”76人官方写道。
+   </p>
+   <p>
+    这张官方图片对张伯伦76人生涯期间所获荣誉统计如下：“队史场均得分纪录：27.6分；队史场均篮板纪录：23.9篮板；队史场均命中率纪录：58.3%；赢得1967年NBA总冠军；赢得3届MVP；3次入选NBA全明星。”
+   </p>
+   <p>
+    张伯伦职业生涯共出战14个赛季，曾效力于76人3个半赛季，场均上场45.8分钟，得到30.1分22.9篮板4.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

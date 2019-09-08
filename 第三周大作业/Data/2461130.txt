@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙裁掉双向球员乔丹-劳埃德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JLew1050/status/1157404270481874945" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 05:40:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙裁掉双向球员乔丹-劳埃德" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/c9189b4421c71f7d6857acfb00da70f8a2237df5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 据NBA记者Josh Lewenberg报道， 猛龙已裁掉双向球员乔丹-劳埃德，这是双方共同的决定，目的是能让球员寻找更多机会。
+   </p>
+   <p>
+    猛龙阵容内目前还有1个训练营名额和2个双向名额。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

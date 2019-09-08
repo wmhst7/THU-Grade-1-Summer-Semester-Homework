@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美媒更新社媒晒出字母哥帅气特效图并祝贺其夺得MVP
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzHgq1ThdXW/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 10:32:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美媒更新社媒晒出字母哥帅气特效图并祝贺其夺得MVP" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/e3e46ccfd8b7bb7b11d8a51a235399cf5a832591.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 NBA常规赛各大奖项颁奖典礼在昨日举办，官方在颁奖礼上宣布，雄鹿球员扬尼斯-阿德托昆博当选2018-19赛季常规赛MVP，这是他职业生涯首次当选常规赛MVP。
+   </p>
+   <p>
+    随后，美国媒体tysonbeck更新了自己的官方Ins晒出扬尼斯-阿德托昆博个人特效图（见新闻配图）。
+   </p>
+   <p>
+    并向其祝贺道：“2019 NBA MVP，恭喜你扬尼斯！”
+   </p>
+   <p>
+    2018-19赛季常规赛，扬尼斯-阿德托昆博场均出场32.8分钟，可以砍下27.7分12.5篮板5.9助攻1.28抢断1.53封盖。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190626/10/962a643e6ad03220fbf45997bbbec6ad.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

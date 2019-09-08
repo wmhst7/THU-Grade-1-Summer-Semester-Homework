@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿尔德里奇发布合影祝德里克-怀特生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzbBox8AMpN/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 09:49:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿尔德里奇发布合影祝德里克-怀特生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/9b45ea595c5095a4db175f3ccd3dab2929d7f233.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 马刺球员德里克-怀特出生于1994年7月2日，美国时间的今天是他的生日。
+   </p>
+   <p>
+    马刺队友拉马库斯-阿尔德里奇在Instagram上发布了自己与怀特的赛场合影，并写道：“生日快乐我的小兄弟！@怀特”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

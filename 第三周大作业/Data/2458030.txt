@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普雷斯蒂：乔治处理的很好，我们也充分利用了这一情况
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/royceyoung/status/1154422656562802688" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 00:26:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普雷斯蒂：乔治处理的很好，我们也充分利用了这一情况" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/6be30690d2c287c806440591e7051480d0966b65.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，雷霆总经理萨姆-普雷斯蒂召开新闻发布会。
+   </p>
+   <p>
+    他在发布会上说道：“首先，我们需要重新定位球队，其次我们需要补强球队。因为我们在过去一直追求维持球队的竞争力，以期待可以年复一年地打进季后赛
+    <span style='color: rgb(25, 31, 37); font-family: "Microsoft YaHei", "Segoe UI", system-ui, Roboto, "Droid Sans", "Helvetica Neue", sans-serif, Tahoma, "Segoe UI Symbol"; font-size: 14px; white-space: pre-wrap;'>
+     。
+    </span>
+    我在这不能告诉你这个过程何时会发生。”
+   </p>
+   <p>
+    在谈到保罗-乔治时，他说道：“我认为乔治以职业球员的方式很好的处理了和我们的事，我们也充分利用了这个情况。”
+   </p>
+   <p>
+    他还说道，他并不太同意在保罗-乔治的交易上用“双方”这一词，他指出这是算不上是敌对的，但确实不是雷霆希望发生的。
+   </p>
+   <p>
+    普雷斯蒂说，他今年夏天与威斯布鲁克和乔治进行了“富有成效的”对话，来讨论球队事态。在一次令人失望的结局后，没有人感到高兴。但是，雷霆听到的第一个交易请求，是乔治要求被交易到快船。
+   </p>
+   <p>
+    在谈到克里斯-保罗时，他说道：“我认为他有机会用积极的方式去影响球队，我不知道从现在开始的两到三年后会发生什么，我不知道如何在NBA预测超过两个小时的事情，以及它会发展成什么状态，我都不知道。我认为他将在下一年为我们带来良好的表现。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

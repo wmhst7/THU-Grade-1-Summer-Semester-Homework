@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：哈登说他知道如何与威少一起打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ZachLowe_NBA/status/1149661610518016004" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 22:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：哈登说他知道如何与威少一起打球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/a19d34275ce806d679209ea8caf50241c81937c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，雷霆与火箭达成交易，火箭送出克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    根据NBA记者Zach Lowe的报道，火箭总经理达雷尔-莫雷在当地时间周四在拉斯维加斯接受了采访，他透露了交易背后的一些细节。
+   </p>
+   <p>
+    随着火箭与雷霆交易谈判的深入，莫雷打电话联系了詹姆斯-哈登，商讨哈登和威斯布鲁克如何合作的事情，哈登温和地打断了莫雷，哈登说：“我知道如何跟拉塞尔一起打球，他也知道如何跟我一起打球。”
+   </p>
+   <p>
+    哈登和威斯布鲁克之前当过3个赛季的队友，并且在2012年一起打进过总决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

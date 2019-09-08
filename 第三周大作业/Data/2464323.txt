@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师转发湖人历史五人组照：很荣幸也很感激！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0_-sArgt-o/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 23:35:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师转发湖人历史五人组照：很荣幸也很感激！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/37739a52d0a75764e7b340e920d1ba2884c6714b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 湖人名宿魔术师约翰逊在Instagram上转发了一张湖人历史最强五人组的合成照。
+   </p>
+   <p>
+    约翰逊写道：“转发自@勒布朗-詹姆斯，很荣幸也很感激能成为伟大的一部分。这五人组对上其他球队的历史最佳五人组会怎样？#LakeShow#国王#曼巴#DJ迪赛尔#魔术师#天勾”
+   </p>
+   <p>
+    这张合成照展现了来自不同时期的多位前湖人球员聚集在替补席的场景。照片中包括魔术师约翰逊、科比-布莱恩特、勒布朗-詹姆斯、沙奎尔-奥尼尔和卡里姆-阿卜杜尔-贾巴尔。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

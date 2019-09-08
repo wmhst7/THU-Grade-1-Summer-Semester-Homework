@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾萨克谈入选陪练队：感到激动，会帮助正队做好准备
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JoshuaBRobbins/status/1154478532971651078" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 06:58:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾萨克谈入选陪练队：感到激动，会帮助正队做好准备" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/0c14a1231e2f146e0d91d84d019062b62babd294.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今天，魔术球员乔纳森-艾萨克接受了记者的采访，谈到了入选美国男篮陪练队一事。
+   </p>
+   <p>
+    “不论得到什么征召，都是值得激动的事情。我对入选感到激动，我会代表魔术，会帮助这届队伍为接下来的比赛做好准备。”
+   </p>
+   <p>
+    “我认为陪练队最重要的目的是向更有经验的球员们学习，并且在和他们对阵的过程中帮助他们为比赛做好准备。”
+   </p>
+   <p>
+    此外，艾萨克表示由于休赛季的锻炼，自己相比上赛季末增重了25磅。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦特斯：他们嘲笑我身材走样，却不知我在经历什么
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz9dE23AdbN/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 11:31:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦特斯：他们嘲笑我身材走样，却不知我在经历什么" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/693e45caf14ea8799d6c6d5ceb4cfd54030fddeb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 今天热火球员迪昂-韦特斯在Instagram上发布了一张自己身材的对比图。
+   </p>
+   <p>
+    韦特斯写道：“上赛季我度过了人生中最失落和沮丧的阶段。从伤病中回复，感觉失去了自我，身材也走了样，身体和心理都处在暗无天日的地带，因为手术让我远离了我最爱的比赛。社交媒体的时代，他们嘲笑我，拿我开玩笑，完全不知道我每天在经历怎样的煎熬。所以我没有去在意这些，我告诉自己，我还经历过比这更糟的状况。所以我给自己立下承诺，我要疯狂地锻炼以恢复受伤前的状态。我现在还没有完成，但我要给某些人说清楚。保持积极的态度，屏蔽外界的噪音，投入训练中。”
+   </p>
+   <p>
+    2018年1月韦特斯接受了左脚脚踝手术，恢复近一年才复出。上赛季他因伤只出战44场比赛，场均25.9分钟能得到12.0分2.6篮板2.8助攻。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2375331&amp;type=1&amp;entrance=26">
+     韦特斯：不在意网上说我胖了或拿了钱就不打的言论
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

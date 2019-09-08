@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝尔：新篇章即将开始，但永远不会忘记勇士的时光
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzrNwq7BGZ6/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 09:11:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝尔：新篇章即将开始，但永远不会忘记勇士的时光" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/b1e353123183b1cd217d10876ddf5b53756810ee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 据雅虎记者Chris Haynes报道，消息人士透露，森林狼与前锋乔丹-贝尔就一份1年160万的保障合同达成协议。勇士没有匹配森林狼为乔丹-贝尔开出的合同。
+   </p>
+   <p>
+    协议达成后贝尔在Instagram上晒出了自己效力于勇士时期的照片，并写道：“我在勇士的生涯可能是我的人生至今最重要的一个篇章。我对能获得这样的机会感到十分感激。这是最好的球队（队友们，办公人员们，还有球队里的所有人），感谢你们！感谢湾区，感谢你们在我效力期间给我的爱。我的新篇章即将开启，但我永远不会忘了在这里的时光。感谢勇士国度！”
+   </p>
+   <p>
+    贝尔生涯前两个赛季均效力于勇士，上赛季他场均出战11.6分钟，能得到3.3分2.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

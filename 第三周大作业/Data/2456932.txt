@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  路易斯安那州立大学将退役阿卜杜勒-拉尔夫的35号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LSUBasketball/status/1153288836325101568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 23:37:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="路易斯安那州立大学将退役阿卜杜勒-拉尔夫的35号球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/874802e943e0d9f795ea2506e4fca24bf3fd429a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 路易斯安那州立大学体育名人堂选举委员会全票通过将退役穆罕默德-阿卜杜勒-拉尔夫的35号球衣。球衣退役仪式将在2019-20赛季的其中一场比赛中进行。
+   </p>
+   <p>
+    路易斯安那州立大学体育理事斯科蒂-伍德沃德说：“理事会全票通过将退役穆罕默德-阿卜杜勒-拉尔夫的35号球衣，他是学校历史上最出色的球员之一，完全配得上这一殊荣。”穆罕默德-阿卜杜勒-拉尔夫成为路易斯安那州立大学老虎队校史退役的第五件球衣，在此之前鲍勃-佩蒂特（50号）、皮特-马拉维奇（23号）、鲁迪-马克林（40号）、沙奎尔-奥尼尔（33号）的球衣均已退役。
+   </p>
+   <p>
+    穆罕默德-阿卜杜勒-拉尔夫在路易斯安那州立大学效力了2个赛季，他连续两年成为SEC年度最佳球员，他在效力期间共参加了64场比赛，其中63场得分上双，52场得分超过20，28场得分超过30，11场得分超过40，4场得分超过50，并且至今仍然保持着校史的三分命中纪录（172个）。
+   </p>
+   <p>
+    穆罕默德-阿卜杜勒-拉尔夫在1990年选秀大会第三顺位被掘金选中，在NBA总共效力9个赛季，共出场586场常规赛，场均14.6分1.9篮板3.5助攻。穆罕默德-阿卜杜勒-拉尔夫目前在BIG3联赛效力。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

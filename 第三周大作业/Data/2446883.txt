@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术总经理：富尔茨不会出战今年的夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/969thegame/status/1143272058488590343" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 17:38:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术总经理：富尔茨不会出战今年的夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/47b09b1140e737613a6a510011578ed4f22076d8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     据魔术总经理约翰-哈蒙德透露，球队后卫马克尔-富尔茨不会出战今年的夏季联赛。
+    </span>
+   </p>
+   <p>
+    赛季中期，魔术通过交易得到了富尔茨，不过至今他还未为魔术出战过一场比赛。富尔茨此前遭遇了神经性胸廊出口综合症，目前处于康复阶段。
+   </p>
+   <p>
+    2018-19赛季，富尔茨共出战19场常规赛，场均得到8.2分3.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

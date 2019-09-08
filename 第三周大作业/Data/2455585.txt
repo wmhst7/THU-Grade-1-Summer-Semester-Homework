@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：洛瑞已经接受了左手大拇指脱臼修复手术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1151880762402250752" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 23:54:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：洛瑞已经接受了左手大拇指脱臼修复手术" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/0aa85bb003a608266609f54e56cbb28be0640c9f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，猛龙后卫凯尔-洛瑞接受了左手拇指脱臼修复手术。
+   </p>
+   <p>
+    洛瑞是在上赛季季后赛半决赛对阵76人的第七场比赛中遭遇了左手大拇指脱臼，在随后的季后赛中，洛瑞一直带伤上阵。
+   </p>
+   <p>
+    目前洛瑞仍希望能够赶上8月6日-10日在拉斯维加斯举行的美国男篮训练营，并能够代表美国队参加今年夏天在中国举行的男篮世界杯。洛瑞出现在美国队19人训练营大名单中，在为期5天的训练营里将选拔出最终参加世界杯的12人大名单。
+   </p>
+   <p>
+    2018-19赛季常规赛，洛瑞场均上场34分钟，得到14.2分4.8篮板8.7助攻1.4抢断，季后赛场均上场37.5分钟，得到15.0分4.9篮板6.6助攻1.29抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

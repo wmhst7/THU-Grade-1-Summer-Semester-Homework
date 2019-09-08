@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉谈瑞士欧锦赛资格赛首胜：这是一个不错的开始
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B006qmZnEM8/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 10:30:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉谈瑞士欧锦赛资格赛首胜：这是一个不错的开始" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/e7924051ab832b86528ffba59d44faf4de246dd3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 休斯顿火箭队中锋克林特-卡佩拉今天在个人Instagram上传了一组自己在瑞士国家队的照片（见新闻配图）。
+   </p>
+   <p>
+    “瑞士将我视为这项运动（篮球）的大使，我会尽我所能地帮助这项运动在这里发展。这是一个不错的开始，第一场比赛，第一次在这个国家球票销售一空。这周六的胜利多么美好啊，继续前进。”卡佩拉写道。
+   </p>
+   <p>
+    在此前已经结束的一场欧锦赛预选赛资格赛中，瑞士以77-71的比分击败葡萄牙。卡佩拉出场26分钟，9投6中得到16分11篮板。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/42720c772b77bf50e13de5a73ce0c2e4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/a8a552d09693710eb267fc0b66f1d6e5.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

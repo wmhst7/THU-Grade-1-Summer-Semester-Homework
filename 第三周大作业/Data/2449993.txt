@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：考辛斯聘请杰夫-施瓦茨为经纪人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1146440697601507328" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 00:07:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：考辛斯聘请杰夫-施瓦茨为经纪人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/7514e32de293917beeea7190f3948cc84a47637a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据NBA记者Marc Stein报道，NBA球员德马库斯-考辛斯，为签下新合同，聘请了Excel Sports的杰夫-施瓦茨为其经纪人。
+   </p>
+   <p>
+    考辛斯曾在2018年1月遭遇跟腱撕裂，受伤后与勇士签下一份一年534万美元的合同，今夏到期，在上赛季一共为勇士出战30场，场均出场25.7分钟，拿到16.3分8.2篮板3.6助攻。
+   </p>
+   <p>
+    杰夫-施瓦茨同时也是布雷克-格里芬、凯文-乐福、CJ-麦科勒姆、尼古拉-约基奇等20多位球员的经纪人。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

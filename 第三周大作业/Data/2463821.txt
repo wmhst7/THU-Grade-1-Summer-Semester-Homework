@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德里克-怀特、巴格利被提拔入美国国家队初选阵容
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WindhorstESPN/status/1160045358526808068" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 12:32:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德里克-怀特、巴格利被提拔入美国国家队初选阵容" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190810/54be48a73f0d2b9b4356c163dcdb8823a33bce83.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 据《纽约时报》记者Marc Stein报道，美国男篮总经理杰里-科兰杰洛宣布，马刺后卫德里克-怀特和国王前锋马文-巴格利被提拔入美国国家队初选名单。
+   </p>
+   <p>
+    据NBA记者Brian Windhorst报道，此前被提拔入初选名单的达龙-福克斯和乔-哈里斯将继续留在初选名单中。
+   </p>
+   <p>
+    据Marc Stein此前报道，赛迪斯-杨和巴姆-阿德巴约将离开美国国家队训练营。
+   </p>
+   <p>
+    在刚刚结束的美国队蓝白对抗赛中，德里克-怀特得到了12分8助攻，马文-巴格利得到8分。
+   </p>
+   <p>
+    目前美国队初选阵容为：
+   </p>
+   <p>
+    德里克-怀特、马文-巴格利、达龙-福克斯、哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、PJ-塔克、马库斯-斯马特、杰伦-布朗、乔-哈里斯和梅森-普拉姆利
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

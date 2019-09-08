@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  训练师布里克利：安东尼只是想要有个告别赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0gaYoIBI0S/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 13:54:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="训练师布里克利：安东尼只是想要有个告别赛季" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/395e7b7091add68f6a10ef2f2e96d57352961b26.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 著名训练师克里斯-布里克利（Chris Brickley）近日接受了NBA记者Brandon Robinson的采访。
+   </p>
+   <p>
+    在谈到自由球员卡梅罗-安东尼时，他说道：“他比60%到70%的NBA球员都强，那些球队只是害怕他‘我想要打首发’，而事实并非如此。梅罗只是想要有一个告别赛季，就像德维恩-韦德那样，球衣交换。他有着出色的职业生涯，他是一位名人堂级别的球员，我希望他能够有一个告别赛季。”
+   </p>
+   <p>
+    克里斯-布里克利是NBA著名训练师，包括勒布朗-詹姆斯、凯文-杜兰特、本-西蒙斯等NBA球员在休赛期都会参加他的训练营。
+   </p>
+   <p>
+    安东尼目前是一名完全自由球员，2018-19赛季常规赛，安东尼代表火箭上场10次，场均上场29.4分钟，得到13.4分5.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克：会做我应该做的事，下赛季只想赢球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1143463/2019/08/20/inside-p-j-tuckers-impact-on-team-usa-and-why-his-absence-is-more-painful-than-the-ankle-injury-that-caused-it/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 02:40:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克：会做我应该做的事，下赛季只想赢球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/f96e743d217a23d145ce833a5a69c6aeb9f28b2d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，NBA球员PJ-塔克接收到了记者的采访，谈到了今年球队和雷霆的交易，以及下个赛季的展望。
+   </p>
+   <p>
+    在谈到今年火箭下赛季展望时，塔克说道：“下一个赛季么，我只想要赢球，兄弟，仅此而已，我们只是想变成更好的球队。也许在去年我们有一些退步，但是我们今年希望有大跨步进步。”
+   </p>
+   <p>
+    在谈到火箭和雷霆的交易时，塔克说道：“我们失去了一个很棒的球员，但是我们也得到了一个很棒的球员，同时也有很多的球员回归。我们依然有弱点，但团队还可以。就是这样，这就是NBA，充满了很多变数。你所要做的就是审视自己和队友，关注下个赛季，并努力追求胜利。”
+   </p>
+   <p>
+    在谈到在队伍内的角色时，塔克说：“我将会做我应该去做的事情，我也会尽力帮助韦斯特布鲁克。我希望能够成为球队中的领袖之一。尤其是在防守端。我们走着瞧吧。我们看看会发生什么。我很期待，让我们拭目以待。”
+   </p>
+   <p>
+    在谈到自己和休斯顿火箭的未来时，塔克表现的很胸有成竹，也很乐观，他相信能在明年合同到期后再获得一份合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，塔克场均出场34.2分钟，得到7.3分5.8篮板1.61抢断
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

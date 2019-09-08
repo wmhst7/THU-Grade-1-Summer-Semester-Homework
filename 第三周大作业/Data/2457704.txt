@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多诺万-米切尔发推祝福库兹马24岁生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spidadmitchell/status/1154060577318289408" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 03:01:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多诺万-米切尔发推祝福库兹马24岁生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/86f0842dc146925384dba98b2ffa89f5e3994bcb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日爵士后卫多诺万-米切尔更新了自己的个人推特动态，祝福湖人球员凯尔-库兹马24岁生日快乐。
+   </p>
+   <p>
+    “生日快乐 @凯尔-库兹马” 米切尔写道。
+   </p>
+   <p>
+    有趣的是，米切尔发布的照片为他与库兹马以及仍穿着湖人球衣的约什-哈特的合影，对此米切尔评论道：“不，我不会加盟湖人的。#记下来”
+   </p>
+   <p>
+    2018-19赛季常规赛，米切尔场均上场33.7分钟，得到23.8分4.1篮板4.2助攻1.38抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

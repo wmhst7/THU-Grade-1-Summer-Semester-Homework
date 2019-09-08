@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：马刺正式签下特雷-莱尔斯，后者将身穿41号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spurs/status/1149801374512635904" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 06:12:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：马刺正式签下特雷-莱尔斯，后者将身穿41号球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/98e0016ad717e4e37cf22a1a89c6a42e4c222d6b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 马刺今日正式宣布，球队签下前锋特雷-莱尔斯。由于球队政策，合同具体信息不会公开。
+   </p>
+   <p>
+    莱尔斯将身穿41号球衣。
+   </p>
+   <p>
+    此前据The Athletic记者Shams Charania的报道，消息人士透露，自由球员特雷-莱尔斯将与马刺签下一份2年的合同。
+   </p>
+   <p>
+    掘金之前撤回为莱尔斯开出的资质报价，后者成为一名完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，莱尔斯场均出场17.5分钟，得到8.5分3.8篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

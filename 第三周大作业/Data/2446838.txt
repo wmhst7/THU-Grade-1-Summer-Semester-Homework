@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾巴尔祝贺字母哥获得MVP：看你打球是一种享受
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzHiGDxgWOt/?igshid=7kq14jxop1yl" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 14:51:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾巴尔祝贺字母哥获得MVP：看你打球是一种享受" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/461a67bd54be4fc00c90b30fd5703c5dd6256c68.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA名宿卡里姆-阿卜杜尔-贾巴尔今天发布Instagram动态，祝贺雄鹿前锋扬尼斯-阿德托昆博获得2018-19赛季的常规赛MVP。
+   </p>
+   <p>
+    “特别祝贺@扬尼斯-阿德托昆博 赢得MVP奖项。看你打球总是一种享受。”贾巴尔写道。
+   </p>
+   <p>
+    贾巴尔曾是雄鹿队史首位获得MVP的球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波士顿环球报：霍弗德的凯尔特人生涯已结束
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonglobe.com/sports/celtics/2019/06/27/from-kemba-walker-kyrie-irving-terry-rozier-here-latest-celtics/YU1zmUfu3mne4LO1rIt58K/story.html" target="_blank">
+     波士顿环球报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 07:24:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波士顿环球报：霍弗德的凯尔特人生涯已结束" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/9ba845ff1d4d9f62bbcb64055ca3b1f95db6ddbe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据《波士顿环球报》记者Adam Himmelsbach的报道，多位消息人士透露，凯尔特人已经在假设艾尔-霍弗德和凯里-欧文都将离队的情况下运作打算了数周。
+   </p>
+   <p>
+    一位霍弗德身边的消息人士透露，霍弗德已经回到了他在亚特兰大的家中，目前还没有决定自己的未来，无论如何，一位联盟消息人士坚称霍弗德在凯尔特人的时光已经结束了。
+   </p>
+   <p>
+    这位消息人士透露，欧文还没有正式告知凯尔特人自己将离队，但是这位消息人士透露，此刻还不清楚凯尔特人还是否想让欧文回到球队。
+   </p>
+   <p>
+    一位联盟消息人士透露，丹吉洛-拉塞尔会是一个可以吸引凯尔特人兴趣的球员，但是要发生很多的情况才能走到那个地步。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

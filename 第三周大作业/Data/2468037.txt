@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿兰-休斯敦探班美国男篮训练营，晒与米切尔合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1cmxVPlZJx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 15:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿兰-休斯敦探班美国男篮训练营，晒与米切尔合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/526f9fe1f0e29a4cd146d97479f9ad34315fb92a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 前NBA球员阿兰-休斯敦今日来到澳大利亚墨尔本探班正在进行备战男篮世界杯的美国国家队，他在个人Instagram上晒出了自己与后卫多诺万-米切尔的合影（见新闻配图）。
+   </p>
+   <p>
+    “我还记得我第一次听说这位年轻人并和他见面的场景，他后来就读于我家乡附近的路易斯维尔大学。为你成长为一位职业球员和领袖而自豪，永远准备好迎接新的挑战！”
+   </p>
+   <p>
+    阿兰-休斯顿绰号“中投王”，1993年第1轮第11顺位被活塞选中，生涯场均出场33.7分钟，得到17.3分2.9篮板2.37助攻0.67抢断，2次入选全明星。他是2000年悉尼奥运会美国男篮国家队成员，随队夺得金牌，场均得到8.0分1.9篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

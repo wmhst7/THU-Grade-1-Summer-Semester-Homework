@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  身材挺标致！迈尔斯-布里奇斯更新社媒晒训练照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UPXy0Fvbl/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 03:48:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="身材挺标致！迈尔斯-布里奇斯更新社媒晒训练照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/26ec963e3f2ebe642cee697a3cf797a81bb0a9b8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 今日，黄蜂队球员迈尔斯-布里奇斯更新个人社交媒体Instagram晒出个人训练照。（见新闻配图）
+   </p>
+   <p>
+    2018-19赛季常规赛，布里奇斯场均上场21.2分钟，可以贡献7.5分4.0篮板1.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/03/a991bc2489a0399eac9d1acffc248130.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/03/78e992cd94e5719ab39f25c9e51c5e35.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/03/00d09a24a5855740a1048a9cf08d8a57.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

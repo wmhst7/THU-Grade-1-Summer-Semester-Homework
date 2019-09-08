@@ -1,0 +1,77 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特：我为我的防守感到自豪，我们之间互相学习
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-20.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 16:29:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特：我为我的防守感到自豪，我们之间互相学习" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/f13c6ff590b1d87a3e00725cfbc5c323d900be8b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 美国男篮目前正在澳大利亚墨尔本进行集训，集训期间，凯尔特人后卫马库斯-斯马特接受了记者采访，采访如下：
+   </p>
+   <p>
+    1、和波士顿的队友一起为国征战的感觉怎么样？
+   </p>
+   <p>
+    这感觉很棒，这对我来说一种恩赐。这是一个很多人都希望得到的机会，能够和这十二三个家伙在一起感觉很棒。此外，能够和我的几位队友一起在这儿的感觉更棒。
+   </p>
+   <p>
+    2、当美国队征召你的时候，你会有一些犹豫吗？
+   </p>
+   <p>
+    没有犹豫，这是一件当你还是孩子的时候就梦想过的事情。每个人都有他们退出的理由，但是我们没必要在意那个。我的名字被喊到了，那么我就必须去执行这个任务。
+   </p>
+   <p>
+    3、之前小腿的伤势是否困扰了你？
+   </p>
+   <p>
+    是的，但是我将要迈入我生涯的第6个赛季了。我有点老了，是时候变得更聪明一些了，我还要为凯尔特人征战呢，所以相比较受伤我宁愿选择保守一些。
+   </p>
+   <p>
+    4、过去这些天的训练你感觉如何？
+   </p>
+   <p>
+    不可思议，我感觉不错，能够在这儿我感觉很不错。
+   </p>
+   <p>
+    5、你觉得你的防守能在国际篮联的比赛中发挥作用吗？
+   </p>
+   <p>
+    当然，防守就是防守。无论你处在什么地方、什么级别的比赛，这一切都只关乎于努力，我为自己的防守感到自豪。
+   </p>
+   <p>
+    6、为格雷格-波波维奇教练打球的感觉如何？他有教你什么特殊的东西吗？
+   </p>
+   <p>
+    是的，波波是一个出色的家伙。他很好笑，他做了很多让你能够专注并且真正让你做好准备的事情。但是对我们来说，我们所学到的东西是不可思议的，因为我们通常都只是为一名教练打球。但在这里则不一样，我们有波波、有史蒂夫-科尔，还有Jay Wright。我们有一群家伙在这里，我们互相学习。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

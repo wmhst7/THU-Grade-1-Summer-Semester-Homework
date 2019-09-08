@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  最好的祝福！麦科勒姆更新ins：爱你们所有人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzY3-y_loay/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 10:27:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="最好的祝福！麦科勒姆更新ins：爱你们所有人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/39d1844519541197badb0dec26862003861241cf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，开拓者后卫CJ-麦科勒姆更新instagram，晒出多张与队友合照。
+   </p>
+   <p>
+    麦科勒姆写道：“祝你们在新的篇章里万事如意。这些都是我们的回忆，我们一定都会保持联系。爱你们所有人。这是一群这几年让球队变得特别的人。”
+   </p>
+   <p>
+    根据此前的报道，埃文-特纳被交易至老鹰；莫里斯-哈克利斯被交易至快船；埃内斯-坎特与凯尔特人签约；迈耶斯-伦纳德被交易至热火；塞思-库里签约独行侠；艾尔-法鲁克-阿米奴加盟魔术。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/10/083f7519f82a82827034d2792a1519f6.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/10/4d981fd30c5a83831384c25ea955617a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/10/43f0bd24a839a3325d3b962775acdc15.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/10/922e59df96f293ef0e2c5200b7f3fd10.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

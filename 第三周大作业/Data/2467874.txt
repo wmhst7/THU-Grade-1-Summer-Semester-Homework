@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登：保罗对球队贡献很大，新赛季会很特别
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=DkXrJaOBFcM&amp;feature=youtu.be" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 07:18:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登：保罗对球队贡献很大，新赛季会很特别" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/c0577978d5ce01c288cf6a6fd155bcde57734138.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 火箭的詹姆斯-哈登作客节目时谈到了新赛季。
+   </p>
+   <p>
+    “我很兴奋，很明显的是，克里斯（保罗）在这的两个赛季表现令人难以置信，对我们球队的帮助很大，我们球队中的大部分球员都回到了球队，核心球员都回来了，而且我们还得到了威少，我们都知道他是如何打球的，他在场下的表现甚至可以说是更好的。”哈登说道。
+   </p>
+   <p>
+    哈登接着说：“之前对抗他很难，因为他带着那种侵略性和愤怒在打球，现在有他在我们球队，这是更好的，现在我们有了他和塔克，我们还续约了小里弗斯，我们还签下了泰森-钱德勒，他是一名老将，拿到过总冠军，我们有很多老将，还有格林和豪斯，豪斯也来自休斯顿，他在不断进步，我们很多球员都回来了，而且我们还得到了威少，这很特别。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

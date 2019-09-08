@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：新赛季开始我才算退役，现在在打高尔夫但还很生疏
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://chicago.suntimes.com/sports-saturday/2019/7/27/8932622/retirement-community-dwyane-wade-never-forgets-where-he-came-from" target="_blank">
+     芝加哥太阳报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 06:58:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：新赛季开始我才算退役，现在在打高尔夫但还很生疏" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/5ccc07998e6722ea511019f92b15f2761cce2dc8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 近日，前NBA球员德维恩-韦德接受了记者的采访。
+   </p>
+   <p>
+    谈到退役后生活如何，韦德表示，自己也说不清楚。
+   </p>
+   <p>
+    “我还不知道呢。我退役才3个月，实际上还没怎么体验退役生活。新赛季开始的时候，我会告诉你我作何感受的。”
+   </p>
+   <p>
+    记者询问韦德，是否有什么新的爱好？
+   </p>
+   <p>
+    韦德说：“我猜我最新的爱好是高尔夫吧。所以从事运动员职业的后来都去打高尔夫，这是一项富有竞争的运动。另外我花了很多时间陪家人，我有好几个孩子，他们有很多事情要做。”
+   </p>
+   <p>
+    那么韦德的高尔夫成绩如何呢？
+   </p>
+   <p>
+    “（笑）我现在还不想提这个。我是新手，我是新手。（笑）”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

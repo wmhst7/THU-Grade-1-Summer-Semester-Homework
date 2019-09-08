@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝兹莫尔谈安芬尼-西蒙斯让出24号球衣：我会好好感谢他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/kent-bazemore-going-take-care-anfernee-simons-changing-his-jersey-number" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 16:35:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝兹莫尔谈安芬尼-西蒙斯让出24号球衣：我会好好感谢他" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/97e40b2abdb8c1972be396c589fb5874190a986f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 此前，开拓者通过交易送出埃文-特纳，从老鹰得到肯特-贝兹莫尔。
+   </p>
+   <p>
+    为了让贝兹莫尔能够继续身披他在职业生涯中最常穿的24号球衣为开拓者征战，刚刚结束自己新秀赛季的后卫安芬尼-西蒙斯主动让出了自己的24号球衣，选择特纳留下的1号作为自己新球衣号码。
+   </p>
+   <p>
+    贝兹莫尔在新闻发布会上谈及对于西蒙斯此举的感谢："自我12、13岁起，我就穿24号了，它陪伴了我很长时间，对我意味着很多。你知道，进攻时间是24秒，一天有24小时，我和我妈妈也刚好相差24岁，所以24有着很多意义。”贝兹莫尔说道。
+   </p>
+   <p>
+    “西蒙斯为我让出了24号球衣，我会好好感谢他的。”贝兹莫尔补充道。
+   </p>
+   <p>
+    西蒙斯在2018年第1轮第24顺位被开拓者选中，常规赛场均出场7.0分钟，得到3.8分0.7篮板0.7助攻。贝兹莫尔上赛季代表老鹰，常规赛场均出场24.5分钟，得到11.6分3.9篮板2.3助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

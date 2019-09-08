@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  弗雷泽：加盟活塞关键原因是凯西教练，很期待罗斯的表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/pistons/features/frazier-gives-pistons-depth-point-guard-allowing-casey-pair-rose-jackson" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 12:42:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="弗雷泽：加盟活塞关键原因是凯西教练，很期待罗斯的表现" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/05bdb8b2df9d3b309b0a177321880eacb0f942d7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 活塞新援蒂姆-弗雷泽在近日接受媒体采访时谈到了主教练德韦恩-凯西和新队友德里克-罗斯、马基夫-莫里斯。
+   </p>
+   <p>
+    弗雷泽在罗斯已经与活塞达成协议的情况下依旧选择加盟，他在接受采访时表示，之所以选择活塞，最重要的原因是凯西教练。
+   </p>
+   <p>
+    “你也看到了他在多伦多执教时所做的事情，特别是从一个后卫的角度出发，”弗雷泽说道，“我所想的是弗雷德-范弗利特，一个小个控球后卫，一位岌岌无名的落选秀，凯西教练依旧给了他机会，让他打出了名堂。”
+   </p>
+   <p>
+    谈到一同加盟球队的莫里斯和罗斯，弗雷泽说：“马基夫是我的好朋友，我认为他能够为底特律篮球带来更多的强硬。球队在引进德里克方面也做了很棒的工作，他将会在下赛季做自己，找回昔日的MVP风采，我很期待他的表现。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

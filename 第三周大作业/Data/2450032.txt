@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳今日的运作可以让他们处在一个续约乌布雷更有利的位置上
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/davidaldridgedc/status/1146521154812895232?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 06:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳今日的运作可以让他们处在一个续约乌布雷更有利的位置上" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/8e83bbdb4d5385664ec45932fffa022552800a09.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据NBA著名记者Adrian Wojnarowski报道，消息人士透露，灰熊与太阳完成交易。
+   </p>
+   <p>
+    灰熊送出凯尔-科沃尔、杰文-卡特，从太阳得到丹东尼-梅尔顿、约什-杰克逊、2020年的次轮签以及附带条件的2021年次轮签，并且太阳计划买断科沃尔。
+   </p>
+   <p>
+    根据NBA记者大卫-阿尔德里奇的报道，消息人士透露，太阳今日一连串的运作可以让他们处在一个续约他们的受限制自由球员凯利-乌布雷更有利的位置上，目前双方还没有完全展开续约谈判。
+   </p>
+   <p>
+    2018-19赛季，乌布雷为太阳出战了40场比赛，场均上场29.5分钟得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

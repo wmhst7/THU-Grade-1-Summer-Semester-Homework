@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉沙德-沃恩加盟波斯尼亚俱乐部Igokea
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/HoopsRumors/status/1156980403053453317" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 01:51:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉沙德-沃恩加盟波斯尼亚俱乐部Igokea" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/7e6e411c12284d413b22ae3d6a6bf95e7c7ee846.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 波斯尼亚俱乐部Igokea官方今天宣布，球队已经正式签下前NBA球员拉沙德-沃恩。
+   </p>
+   <p>
+    沃恩是2015年的首轮第17顺位新秀，大学效力于内华达大学拉斯维加斯分校。
+   </p>
+   <p>
+    职业生涯至今，他共为雄鹿效力三个赛季，之后曾短暂效力于篮网、魔术以及发展联盟球队。
+   </p>
+   <p>
+    根据此前的报道，沃恩为火箭出战了2019年拉斯维加斯夏季联赛，沃恩在夏季联赛中共出战2场比赛，场均出场6.5分钟，得分、篮板以及助攻数据均为0。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

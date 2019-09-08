@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃文斯：我必须努力打出表现，巩固出场时间和球队定位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sfchronicle.com/warriors/article/Warriors-Jacob-Evans-eyes-fresh-chance-on-14103837.php" target="_blank">
+     旧金山纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 14:36:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃文斯：我必须努力打出表现，巩固出场时间和球队定位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/0dcc2f492f5f8d98a10fcf0342e030f80957b3b4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 勇士球员雅各布-埃文斯在近日接受媒体采访时谈到了下赛季在球队中的前景。
+   </p>
+   <p>
+    随着凯文-杜兰特、安德烈-伊格达拉和肖恩-利文斯顿离队，克莱-汤普森因膝盖手术缺席一段时间，勇士需要埃文斯这样的年轻球员做出贡献。
+   </p>
+   <p>
+    “下赛季会有很多机会，”埃文斯说道，“克莱正从伤病中恢复，球队有很多新面孔，阵容更加年轻化，很多位置都存在机会，这令人感到激动。”
+   </p>
+   <p>
+    “这真的取决于我自己，我必须站上赛场努力打出表现，做我必须该做的事情，巩固我的出场时间和球队定位。”埃文斯说道。
+   </p>
+   <p>
+    埃文斯表示自己下赛季更倾向于打控球后卫，但他在打控球后卫时的表现并不稳定，助攻失误比达到1:1。如果他想取代利文斯顿承担起斯蒂芬-库里的替补角色，依旧有大量的工作需要做。
+   </p>
+   <p>
+    “我认为改打一号位能够为球队提供更大的帮助，不仅是在进攻端，防守端同样如此，”埃文斯说道，“我想要去防守对手阵中的高水平得分手，我能证明自己在防守端可以做到什么，这将会是一个很棒的过渡，我非常兴奋。”
+   </p>
+   <p>
+    谈到自己的投篮能力的进步，埃文斯说：“当你和克莱（汤普森）、斯蒂芬（库里）、KD（杜兰特）一起训练时，你能够听到的只有皮球划过篮网的声音。”
+   </p>
+   <p>
+    埃文斯同时表示，球队顾问史蒂夫-纳什帮助他加强平衡感和核心力量的练习，这是他的投篮手感更加顺滑的重要原因。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

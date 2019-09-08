@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黄蜂新赛季赛程：共12次背靠背，11月8日沃克回归
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hornets/press-releases/hornets-announce-2019-20-regular-season-schedule" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 11:38:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黄蜂新赛季赛程：共12次背靠背，11月8日沃克回归" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/4ec6b024a06bbfc19653191b80f44ff69a2c2f64.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 今天NBA公布了下赛季各支球队的赛程，夏洛特黄蜂队2019-20赛季完整赛程出炉。北京时间10月24日黄蜂揭幕战主场迎战公牛，4月16日黄蜂常规赛收官战客场挑战76人。下赛季黄蜂仅有1场全美直播比赛，即11月8日主场迎战凯尔特人，这也是肯巴-沃克首次回到黄蜂主场。除此之外黄蜂还有2场NBATV直播。
+   </p>
+   <p>
+    2019-20赛季黄蜂最长的连续主场为5场，最长的连续客场为4场。下赛季黄蜂共12次背靠背比赛，比上赛季少了3次。
+   </p>
+   <p>
+    重点比赛（北京时间）：
+   </p>
+   <p>
+    10月24日主场迎战公牛
+   </p>
+   <p>
+    11月8日主场迎战凯尔特人
+   </p>
+   <p>
+    11月10日主场迎战鹈鹕
+   </p>
+   <p>
+    3月22日主场迎战湖人
+   </p>
+   <p>
+    完整赛程：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/11/659f9091f3c65b9cc59a2d1a2f3a7592.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

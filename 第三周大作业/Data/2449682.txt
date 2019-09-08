@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：我已等不及跟詹姆斯和戴维斯并肩作战了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AlexKennedyNBA/status/1146203252729569280" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 08:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：我已等不及跟詹姆斯和戴维斯并肩作战了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/c6082c168c581e87599a344ce777bbbfcd6737fe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据NBA著名记者Adrian Wojnarowski的报道，联盟消息人士透露，自由球员贾里德-杜德利与湖人达成1年260万美元签约协议。
+   </p>
+   <p>
+    在接受HoopsHype记者Alex Kennedy采访时，杜德利确认了这个消息，他对于回到家乡（加利福尼亚州圣地亚哥）加州感到兴奋，他已经等不及与勒布朗-詹姆斯和安东尼-戴维斯并肩作战了。
+   </p>
+   <p>
+    谈到加盟湖人，杜德利说：“这是我一直在仔细考虑的事情，我会得到一个竞争总冠军的机会，自从离开了纳什后，我一直都没有这样的机会，我就是想着可以回到家乡为湖人效力，还有什么能比这个更好？”
+   </p>
+   <p>
+    2018-19赛季常规赛，杜德利共出战59场，场均20.6分钟内可以得到4.9分2.6篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

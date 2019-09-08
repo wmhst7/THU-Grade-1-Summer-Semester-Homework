@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：湖人签下前锋乔丹-卡罗林
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/lakers/releases/190720-lakers-sign-caroline" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 01:13:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：湖人签下前锋乔丹-卡罗林" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/71b733a47a0088c7809fa61ec4e2c089f005e283.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 洛杉矶湖人队官方今日宣布，球队已经签下前锋乔丹-卡罗林，根据球队政策，合同细节并未被公布。
+   </p>
+   <p>
+    乔丹-卡罗林大学效力于南伊利诺伊州大学以及内华达州大学。大学期间，他共出战138场比赛，场均出场32.9分钟，能够得到14.8分8.4篮板1.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

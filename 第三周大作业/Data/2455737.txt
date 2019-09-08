@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  悠闲自在！克莱今日晒出与巴恩斯下棋照以及爱犬合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/klaythompson/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 10:37:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="悠闲自在！克莱今日晒出与巴恩斯下棋照以及爱犬合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/df8e622c0044aaac98e32bb8d6078b88c7c7062e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 今日，勇士后卫克莱-汤普森更新社交媒体Instagram，晒出与哈里森-巴恩斯下棋照片（见新闻配图）。
+   </p>
+   <p>
+    汤普森发文说道：“@哈里森-巴恩斯，象棋历史上最伟大的反败为胜！还在为此恼火（愤怒emoji）（愤怒emoji）(笑哭emoji)。”
+   </p>
+   <p>
+    同时，汤普森还更新社媒晒出与爱犬合照（见新闻配图）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/10/6ffb485146538152d84ab1d25f021be8.png"/>
+   </p>
+   <p>
+    他写道“@Rocco，是一个忠诚的骏马。”
+   </p>
+   <p>
+    2018-19赛季常规赛，汤普森场均出场34分钟，可以得到21.5分3.8篮板2.4助攻；季后赛场均出场39分钟，可以得到20.7分4.1篮板2.1助攻。
+   </p>
+   <p>
+    汤普森于2018-19赛季总决赛对阵猛龙的比赛中，其左膝十字韧带撕裂。根据此前消息报道，克莱于前段时间在洛杉矶已成功接受左膝十字韧带撕裂修复手术，预计恢复周期为5-7个月。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

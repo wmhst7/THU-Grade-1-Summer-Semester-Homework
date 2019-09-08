@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：凯尔特人和独行侠将会积极追逐肯巴-沃克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thesteinline/status/1143607262050705408?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 04:25:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：凯尔特人和独行侠将会积极追逐肯巴-沃克" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/40934f36b22f9a36a15b21f319cd702fab60cf14.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 据《纽约时报》记者Marc Stein报道，联盟消息人士透露，凯尔特人和独行侠将会积极追逐肯巴-沃克。
+   </p>
+   <p>
+    NBA记者Rick Bonnell则发推表示两名NBA消息人士向他确认，凯尔特人对于肯巴-沃克拥有强烈兴趣。
+   </p>
+   <p>
+    根据此前的报道，黄蜂与沃克都把续约视为自由球员市场开启后的首要目标，沃克本人也曾表示留在黄蜂是他的首选，而湖人、尼克斯和独行侠都有意签下他。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,108 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伯克斯：最爱的食物是烧烤，隐藏才能是会打台球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/warriors/status/1152014438884696065" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 11:30:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伯克斯：最爱的食物是烧烤，隐藏才能是会打台球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/a533bd5c5b121dc292c25b0de9577f51c327e745.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 勇士官方推特今日发布了一段球队新援亚历克-伯克斯的自我介绍视频，以下为内容详情：
+   </p>
+   <p>
+    <strong>
+     最喜欢的食物？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“我最爱的食物是烧烤，我来自堪萨斯城，烧烤之乡，那里的烧烤是全美国最棒的。”
+   </p>
+   <p>
+    <strong>
+     最近在循环播放哪首歌曲？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“我最近并没有一直听哪首歌，我会听各种不同类型的歌。”
+   </p>
+   <p>
+    <strong>
+     有何隐藏的才能？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“我的隐藏才能是会打台球。”
+   </p>
+   <p>
+    <strong>
+     最喜欢的电影是？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“我最喜欢的电影是《家庭聚会》，我就是喜欢它，那是一部很棒的电影。”
+   </p>
+   <p>
+    <strong>
+     最喜欢的动物？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“老虎。”
+   </p>
+   <p>
+    <strong>
+     最喜欢的数字？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“8。”
+   </p>
+   <p>
+    <strong>
+     最大的爱好？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“我现在最大的乐趣就是和我的女儿一起玩，和我的家人待在一起，看到她一天天长大，这对于我而言真的不可思议。”
+   </p>
+   <p>
+    <strong>
+     对下赛季有何展望？
+    </strong>
+   </p>
+   <p>
+    伯克斯：“把握住机会，努力打球，享受乐趣。”
+   </p>
+   <p>
+    根据之前The Athletic记者Shams Charania的报道，伯克斯与勇士达成一份1年合同。2018-19赛季常规赛，伯克斯曾效力于爵士、骑士和国王，场均上场21.5分钟，得到8.8分3.7篮板2.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

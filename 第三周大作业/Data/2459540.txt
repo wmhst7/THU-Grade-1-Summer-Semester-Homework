@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  今夏有多支球队向步行者询价迈尔斯-特纳
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/knicks-guard-kadeem-allen-looking-to-earn-a-permanent-roster-spot-in-training-camp/309437852" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 06:44:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="今夏有多支球队向步行者询价迈尔斯-特纳" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/f8c75faaf15806480a3c10cd4bd4677e1f1aad21.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 根据SNY记者Ian Begley的报道，多位消息人士确认，在今年选秀大会的前后，多支球队都向步行者询价迈尔斯-特纳。
+   </p>
+   <p>
+    现在还不清楚这些与步行者有过交流的球队是否在特纳交易谈判里取得了进展，但是多位消息人士透露，多支与步行者有过交流的球队得到的感觉是需要一个特别好的报价才可以得到特纳。
+   </p>
+   <p>
+    2018-19赛季常规赛，特纳场均出战28.6分钟，可以拿到13.3分7.2篮板1.6助攻2.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

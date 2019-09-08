@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡尔弗晒出森林狼球衣定妆照：下一个篇章
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzmEoHvgOoh/?igshid=ghnunzs7mj4n" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 13:36:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡尔弗晒出森林狼球衣定妆照：下一个篇章" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/60142478403b84492af205de9436b5286965adc7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 森林狼新秀贾勒特-卡尔弗今日更新Instagram就自己正式通过交易加盟森林狼发表感想。
+   </p>
+   <p>
+    卡尔弗发布了一组个人球衣定妆照。“下一个篇章……为这段旅程祈祷过！”卡尔弗写道。
+   </p>
+   <p>
+    此外，卡尔弗还通过推特转发了森林狼官方的欢迎内容，并写道：“官方了！很荣幸成为森林狼的一员！！”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/13/20f1e069cdb9e119bd4ee98092438f02.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/13/b4cea6dc063f9f9719aa12625173454d.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

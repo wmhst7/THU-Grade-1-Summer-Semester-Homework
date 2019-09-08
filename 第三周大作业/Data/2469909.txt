@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥：我近两年来首次回归国家队，我们要培养化学反应
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/924496/giannis-antetokounmpo-i-havent-played-with-the-nt-for-two-years-we-needed-to-find-our-chemistry/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 07:21:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥：我近两年来首次回归国家队，我们要培养化学反应" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/570f646d0e33d458199a99ee42ac14ffee050f67.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 2019年苏州八国赛决赛昨日落幕，希腊以74-51大胜委内瑞拉，夺得冠军。赛后，因膝盖不适缺阵的扬尼斯-阿德托昆博接受了媒体采访，谈及本次热身赛的重要性。
+   </p>
+   <p>
+    “这是一轮非常重要的热身赛，这三场比赛有助于培养我们的化学反应。我们剩下的球员已经在一起打球有一阵了，但是这是我近两年来首次回归国家队，所以我们需要找到我们的化学反应。”
+   </p>
+   <p>
+    “我们面对了不同篮球风格、但同样非常凶狠的对手，他们进行了很多远距离出手，这些比赛对我们备战世界杯绝对有所帮助。”字母哥补充道。
+   </p>
+   <p>
+    在希腊以92-65战胜约旦的首场热身赛中，阿德托昆博高效地得到13分4篮板4助攻3抢断2盖帽，在第二场大胜多米尼加的比赛中，字母哥得到国家队生涯新高的26分。
+   </p>
+   <p>
+    本届男篮世界杯，希腊与巴西、黑山、新西兰同处F组，比赛将在南京进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  福克斯：很荣幸被提拔至初选阵容，我想充分利用这次机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-7.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 10:42:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="福克斯：很荣幸被提拔至初选阵容，我想充分利用这次机会" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/0cba6a9a281dd87ba1823d4b0df9fe4cac9b6bb7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 国王球员达龙-福克斯目前正在参加美国男篮训练营，第三天的训练结束之后，他接受了媒体采访。
+   </p>
+   <p>
+    谈到训练营第三天的感受，福克斯说：“今天我更多的是专注于速度，这是教练一直向我强调的事情，凭借速度攻击油漆区，迫使对手过来协防，为队友创造机会。”
+   </p>
+   <p>
+    当被问及是否认为自己会进入最终大名单时，福克斯说：“我认为现在一切都还没有确定，我既然来到了这里，就会拼尽全力，努力为球队提供帮助。如果我有幸能够入选，这是上帝的安排，我会在赛场上帮助球队赢球。”
+   </p>
+   <p>
+    谈到得知自己被提拔至初选阵容的感受，福克斯说：“绝对是心怀感激，我很荣幸能够得到提拔，成为初选阵容的一员，我想要充分利用这次机会。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

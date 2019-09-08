@@ -1,0 +1,42 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  自由球员迈克尔-比斯利与活塞达成一年加盟合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 10:10:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="自由球员迈克尔-比斯利与活塞达成一年加盟合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/default/newLogo.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   虎扑8月11日讯 自由球员迈克尔-比斯利与活塞达成一年加盟合同。
+   <p>
+    虎扑将尽快为您报道更加详细的信息。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

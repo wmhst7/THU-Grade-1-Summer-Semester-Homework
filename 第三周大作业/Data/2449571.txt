@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  还拥有千万以上薪资空间球队：湖人、快船、独行侠和老鹰
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/albertnahmad/status/1146053335213981698?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 22:41:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="还拥有千万以上薪资空间球队：湖人、快船、独行侠和老鹰" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/f8f48a4a28ddc9d1867c22f1faa203d183290a1f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据薪资专家的统计，目前还剩下超过1000万薪资空间还剩下4支球队。
+   </p>
+   <p>
+    他们分别是：快船3200万，湖人3200万，独行侠2300万，老鹰1400万。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/22/fb1a5b25d23861bd2faceed504babf0e.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

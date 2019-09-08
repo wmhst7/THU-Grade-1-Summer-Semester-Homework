@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  栩栩如生！灰熊新赛季主场地板两款设计图出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://imgur.com/a/tWlbdMB" target="_blank">
+     imgur
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 16:55:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="栩栩如生！灰熊新赛季主场地板两款设计图出炉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/f5d866c17fd0f4b39f526faf1b81eabd9ae0bf7a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 一位Reddit网友今日在imgur上分享了NBA全部30支球队将在2019-20赛季推出的主场地板设计效果图。
+   </p>
+   <p>
+    以下为灰熊将在新赛季主场比赛中推出的主要版本和复古版球场设计效果图：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/16/53f8f94bf3f01eeee6ee546bab2e66a5.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/16/a30d4e02a938667bd58bf809a0d01ce1.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

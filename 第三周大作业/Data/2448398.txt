@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯将罗宾-洛佩斯作为目标，以作为罗宾逊的替补
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1053928/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 23:56:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯将罗宾-洛佩斯作为目标，以作为罗宾逊的替补" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/84e5411f47db3914d170400f13139e9b1e85c06e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据the Athletic记者Shams Charania报道，消息人士透露，尼克斯在自由市场上瞄准了罗宾-洛佩斯，以将其作为队中中锋米切尔-罗宾逊的替补。
+   </p>
+   <p>
+    洛佩斯与公牛的4年5400万的合同将于今年夏天到期，他将成为完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，洛佩斯场均出场21.7分钟可以得到9.5分3.9篮板；米切尔-罗宾逊场均出场20.6分钟可以得到7.3分6.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

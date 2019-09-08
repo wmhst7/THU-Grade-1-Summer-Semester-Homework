@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  《空中大灌篮2》中詹姆斯大儿子饰演者：这是梦想成真
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/highschool/story/2019-08-12/ceyair-wright-lebron-james-space-jam-2" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 17:15:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="《空中大灌篮2》中詹姆斯大儿子饰演者：这是梦想成真" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/9c42b76a2f4669a49a10bed9b95b7ac73b49d699.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 据《洛杉矶时报》报道，来自洛杉矶洛约拉高中的橄榄球角卫球员Ceyair Wright被选为电影《空中大灌篮2》中扮演主角勒布朗-詹姆斯儿子一角的演员，上周他曾请假离校参加该片的拍摄。
+   </p>
+   <p>
+    Wright近日在结束橄榄球训练后对于自己扮演詹姆斯之子一事表示：“感觉太棒了，现在想起来都觉得很疯狂。这是一次梦想成真。充满乐趣，我很享受这段时光。” Wright的队友已经在打趣地将他称为“Bronny”，也就是詹姆斯大儿子的昵称。
+   </p>
+   <p>
+    今年三月，Wright为詹姆斯儿子一角面试；随后他接到通知进行了一次剧本试读，最终接到了剧组录用他的电话通知。 Wright自从6月起就一直在洛杉矶地区参与该片的拍摄。到了电影上映的2021年7月，Wright预计将在高中毕业后追求参加大学橄榄球赛事。
+   </p>
+   <p>
+    Wright表示他在片场见到了数位NBA球员，还向朋友们展示了自己与他们的合影。对于主演詹姆斯，Wright评价道：“他是一个如此谦逊的家伙。他就像是你的朋友那般。现在他成为了我的精神导师。” Wright透露他希望自己可以说服詹姆斯前来观看一场洛约拉高中的橄榄球赛。
+   </p>
+   <p>
+    16岁的Wright在片中扮演15岁的小詹姆斯。即便他主要在高中从事橄榄球比赛，Wright还是利用他的运动能力在片中展现了一些篮球技巧。Wright透露自己在4岁时出演过一部音乐视频，5岁时担任过模特，9岁时出演过广告，不过这次的电影角色是他演艺生涯中最重大的任务。《空中大灌篮2》的拍摄预计将在本周末结束，Wright也得以专注于眼前的高中橄榄球赛季。他的百米冲刺成绩为10.84秒，但观众必须等到2021年才能一睹他的篮球风采。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/16/05d1537529ccf4b3b701a1184463998d.jpg"/>
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2411033.html">
+     美国女星正在洽谈出演《空中大灌篮2》中詹姆斯妻子一角
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

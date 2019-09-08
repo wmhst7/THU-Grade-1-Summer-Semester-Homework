@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  因对前女友发出死亡威胁，考辛斯被对方报案并起诉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/27/demarcus-cousins-accused-threatening-shoot-baby-mama-before-wedding/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 21:42:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="因对前女友发出死亡威胁，考辛斯被对方报案并起诉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/4c44ed1c94ef84dbf32ae8805d54ff58e1e0f16b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯  据TMZ体育独家报道，他们已经取得了湖人球员德马库斯-考辛斯前女友Christy West提交的法庭诉讼书和警方报案记录，她声称考辛斯在当地时间8月23日曾对她发出死亡威胁，就在考辛斯举行婚礼的前一天，而且她可以提供音频证实。
+   </p>
+   <p>
+    West声称她实际上录到了那段死亡威胁，且已经向法官们播放了录音。TMZ体育目前也获取了这段录音证据。
+   </p>
+   <p>
+    在这段音频中，男方说道：“在我将事态升级之前，我再问你一遍这个问题。能让我儿子来这里吗？我能在这里见到我儿子吗？”女方：“不，他不会去的。”男方随后回应道：“我绝对会一枪崩了你的脑袋（I'm gonna make sure I put a bullet in your f**king head.）。”
+   </p>
+   <p>
+    据West声称，她是在陪伴她与考辛斯所育的7岁儿子在阿拉巴马州的一个蹦床公园玩耍时完成了这段通话录音，她坚称录音中的男人就是考辛斯。West在诉讼书中寻求法官对考辛斯施加行动限制令，并声称考辛斯还表示要杀了她，“即便他不必亲自动手杀人。”West希望法官保护她和她的儿子远离考辛斯，但她也表示可以接受考辛斯对儿子进行受监视的探视。
+   </p>
+   <p>
+    West还前往当地警察局进行报案，并向警方提交了案情报告。一位警方发言人表示他们已经对此案展开调查。据TMZ了解，考辛斯的7岁儿子并没有出席婚礼。TMZ已经就此事联系考辛斯方面，但目前未能得到回应。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

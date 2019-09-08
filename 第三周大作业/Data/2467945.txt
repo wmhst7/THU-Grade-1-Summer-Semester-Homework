@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克谈外界质疑：这会是一种动力，我们现在充满饥渴感
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/2019-team-usa-basketball-has-a-chip-on-its-shoulder/" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 10:28:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克谈外界质疑：这会是一种动力，我们现在充满饥渴感" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/1e185fd8a0c01dafcfbb72484f15177d1c736ee0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 美国男篮目前正在澳大利亚备战热身赛，来自凯尔特人的后卫肯巴-沃克接受了媒体采访。
+   </p>
+   <p>
+    谈到外界对于美国男篮的质疑，沃克说：“我们会尽可能地接受，这会为我们提供动力。球队中的很多人在成长过程中一直被轻视，我们现在充满饥饿感。”
+   </p>
+   <p>
+    北京时间今日下午五点半，美国男篮将迎战澳大利亚男篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

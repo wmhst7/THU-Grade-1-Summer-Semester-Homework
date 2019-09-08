@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]一夫当关，万夫莫开！贝兹利背后上演遮天大帽
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:07:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://m.365yg.com/i6711821511969210887/?utm_source=hupu&amp;app=video_article" onclick="openVideo('https://m.365yg.com/i6711821511969210887/?utm_source=hupu&amp;app=video_article');return false;" target="_blank">
+    <img alt="[视频]一夫当关，万夫莫开！贝兹利背后上演遮天大帽" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/11f84e4c596245a8b3485f6d42911f680de7ee8a.jpg"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯
+    <a href="https://m.365yg.com/i6711821511969210887/?utm_source=hupu&amp;app=video_article" target="_blank">
+     视频: [视频]一夫当关，万夫莫开！贝兹利背后上演遮天大帽»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

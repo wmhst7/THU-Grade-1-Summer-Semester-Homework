@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  足篮两开花！纳什加盟特纳体育将参与NBA与足球欧冠报道
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nbaontnt/status/1158778261008277504?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 10:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="足篮两开花！纳什加盟特纳体育将参与NBA与足球欧冠报道" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/428693f6a70f3b1e739527eec0ebe7d183e1616a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 NBA on TNT官方今天在推特上传了一张前NBA球员史蒂夫-纳什的封面照（见新闻配图）。
+   </p>
+   <p>
+    “@史蒂夫-纳什将会在特纳体育（TNT母公司）延续他的生涯。两届常规赛MVP得主将会加盟@NBA on TNT，并且他还会参与@B/R football关于足球欧冠联赛的报道。”TNT官方写道。
+   </p>
+   <p>
+    纳什职业生涯常规赛共出战1217场常规赛，场均出场31.3分钟，得到14.3分3.0篮板8.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

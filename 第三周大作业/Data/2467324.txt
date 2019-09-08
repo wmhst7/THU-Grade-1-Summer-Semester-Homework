@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  橄榄球球员谈最爱的体育记忆：06年总决赛韦德率队逆转
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1163703101364117505" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 14:44:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="橄榄球球员谈最爱的体育记忆：06年总决赛韦德率队逆转" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/55e245dbc093b7b644b4fff753f4b87241728f94.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 近日，西北大学橄榄球队野猫队跑卫贾斯廷-杰克逊在Stadium网站上谈到了自己最爱的体育记忆：2006年总决赛德维恩-韦德率队逆转。
+   </p>
+   <p>
+    杰克逊说：“我是一名热火球迷，德维恩-韦德是我最喜欢的篮球球员，当时我坐在家里看比赛，他们以大比分0-2落后，而且第三场第四节时，他们一度落后大概13分，我感觉他们获胜的几率渺茫了起来，我非常难过。之后突然，韦德好像在最后7分钟里得到了14还是15分。他们逆转赢得了那场比赛，令人难以置信。我看比赛的时候比我自己打比赛的时候紧张多了。德维恩-韦德真是太不可思议了。他是有史以来最好的两名后卫之一。他真的太棒了。”
+   </p>
+   <p>
+    2005-06赛季季后赛，热火首轮4-2淘汰公牛，4-0横扫篮网，4-2战胜活塞。总决赛里，热火一度以0-2落后，最终在韦德的带领下以4-2逆转夺冠。韦德在总决赛中场均出场43.1分钟，得到34.7分7.8篮板和3.8助攻，并当选为FMVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

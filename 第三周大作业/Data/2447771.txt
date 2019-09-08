@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭难留小里弗斯法里德，有意阿里扎和小乔丹等球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1047290/2019/06/27/houston-rockets-free-agency-agents-primer-players-to-pursue/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:54:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭难留小里弗斯法里德，有意阿里扎和小乔丹等球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/d08df932c44388d57a72a16e7de113cc09cf5391.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据The Athletic记者Kelly Iko的报道，球队多位消息人士透露，火箭正在寻求签下像弗雷德-范弗利特和安德烈-伊格达拉这样的球员，他们在各自球队总决赛征程里都在正确时间站出来打出了表现。
+   </p>
+   <p>
+    多位消息人士透露，火箭留下肯尼思-法里德和奥斯汀-里弗斯会很难，因为他们各自的市场价值和其他球队可以给他们开出更大的合同。
+   </p>
+   <p>
+    火箭总经理达雷尔-莫雷已经和詹姆斯-哈登和克里斯-保罗通过视频 电话商讨了一些潜在的目标球员，消息人士透露，这份名单有大约30-50名球员。
+   </p>
+   <p>
+    火箭的消息人士透露，火箭仍然相信德安德烈-乔丹想回到家乡，休斯顿是小乔丹的家乡，仍然非常喜欢特雷沃-阿里扎，所以双方的合作只是合同是否合适的问题。
+   </p>
+   <p>
+    消息人士透露，丹尼-格林、塞思-库里、帕特里克-贝弗利、艾尔-法鲁克-阿米奴、加莱特-坦普尔、杰迈克尔-格林、雷吉-布洛克、马库斯-莫里斯、鲁迪-盖伊都是火箭的目标。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

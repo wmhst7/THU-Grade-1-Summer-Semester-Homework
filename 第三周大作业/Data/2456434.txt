@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  众球员发推感叹曼尼-帕奎奥战胜凯斯-瑟曼赢得拳王大战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/nba-news-nba-players-react-to-manny-pacquiaos-win-vs-keith-thurman/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 13:56:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="众球员发推感叹曼尼-帕奎奥战胜凯斯-瑟曼赢得拳王大战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/bbd4ee0bdddcebc04563e8c6010d81cdbf42cc65.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 今日，世界著名拳王”亚洲驱逐舰”曼尼-帕奎奥在美国拉斯维加斯米高梅酒店举办的世界职业拳坛的比赛中，击败了美国拳王凯斯-瑟曼。对此世纪大战，众多NBA球员纷纷发推表达了自己的看法。
+   </p>
+   <p>
+    骑士后卫乔丹-克拉克森：“曼尼！！！！”
+   </p>
+   <p>
+    凯尔特人中锋埃内斯-坎特：“恭喜我的兄弟曼尼！鼓掌！@曼尼-帕奎奥”
+   </p>
+   <p>
+    森林狼前锋卡尔-安东尼-唐斯：“多么精彩的一场决战！多么震撼的一场胜利！@曼尼-帕奎奥”
+   </p>
+   <p>
+    马刺前锋昆西-庞德塞特：“必须粉你了@曼尼-帕奎奥。”
+   </p>
+   <p>
+    前NBA球员尼克-范埃克塞尔：“哇！帕奎奥又一次做到了！”
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2456383&amp;type=1&amp;entrance=26">
+     利拉德谈拳王世纪之战：瑟曼很硬，但是帕奎奥会笑到最后
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

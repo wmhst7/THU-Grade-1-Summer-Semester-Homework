@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人记者：欧文方面曾在湖人清理空间前私下咨询顶薪情况
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakeshowworld/status/1144795472613138432?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 17:52:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人记者：欧文方面曾在湖人清理空间前私下咨询顶薪情况" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/e7adc605c37f20b20b9aee35633a5701df890144.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 NBA记者Ohm Youngmisuk和Brian Windhorst先后做客节目谈到了湖人与凯里-欧文之间的转会传言。
+   </p>
+   <p>
+    谈到欧文作为自由球员加盟湖人的可能性，Youngmisuk说：“我认为有机会得到他。湖人在尽一切努力搞清楚他的意图，我认为他也在理清自己的思路。”
+   </p>
+   <p>
+    谈到湖人通过交易清理出一个顶薪合同空间的举动，Youngmisuk说：“我得到了风声，湖人清理薪资空间的前一晚，有个人告知我，‘嘿，通过一些幕后渠道，凯里方面的人员想知道你们（Youngmisuk为湖人资深跟队记者）能够多大程度上创造接近顶薪的空间。’这发生在他们清理空间之前，他们做到了。”
+   </p>
+   <p>
+    “我被告知，当然这个事情不是完全确定的，但在凯里的阵营内，有些人认为他应该胸怀大志，去和安东尼-戴维斯一起打球。不过凯里和他的阵营同时也很喜欢布鲁克林。他的阵营真的还在摸索答案。”Youngmisuk说道。
+   </p>
+   <p>
+    Windhorst则在Get Up节目中表示：“我认为凯里-欧文有意加入篮网，但我要告诉大家，即便在过去7到10天内，我听说凯里身边的人已经在收集关于湖人的信息，准备制定一个备选方案。”
+   </p>
+   <p>
+    据《纽约时报》记者Marc Stein报道，联盟消息人士透露，随着湖人确定能够创造顶薪合同空间，除科怀-伦纳德外，凯里-欧文仍是湖人的重点追逐目标。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季亚历山大将身穿2号球衣，保罗将身穿3号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EtienneCatalan/status/1157033159147642888" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 09:00:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季亚历山大将身穿2号球衣，保罗将身穿3号球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/f5c89b5d7254dd9bd2ce071d59092f1896603d45.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日，根据NBA记者Etienne Catalan报道，雷霆新援克里斯-保罗将在新赛季身穿3号球衣，而原本在雷霆身穿3号球衣的纳伦斯-诺埃尔将更换球衣号码。谢伊-吉尔杰斯-亚历山大将继续身穿2号球衣。
+   </p>
+   <p>
+    此前，雷霆将保罗-乔治交易到快船，得到谢伊-吉尔杰斯-亚历山大、达尼罗-加里纳利、4个无保护的首轮签、1个受保护的首轮签和2个选秀权互换的权利。此外，雷霆还与火箭达成交易，火箭送出保罗、2024年和2026年的首轮签、2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。保罗的合同还有三年，总价值1.24亿美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，保罗场均上场32.0分钟，得到15.6分4.6篮板8.2助攻1.97抢断。诺埃尔场均出场13.9分钟，得到4.9分4.2篮板。亚历山大场均上场26.5分钟，得到10.8分2.8篮板3.3助攻1.17抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗斯在脖子处添加新纹身，内容为“神的速度”
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0mVLXzHi44/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 10:56:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗斯在脖子处添加新纹身，内容为“神的速度”" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/3bac5f3df1c7df4d559663bd9e9487a590cd8d5c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 根据Bleacher Report报道，活塞球员德里克-罗斯在自己的脖子处增加了一个新的纹身，内容为“神的速度”。
+   </p>
+   <p>
+    今年夏天，罗斯与活塞签下了一份2年1500万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，罗斯场均上场27.3分钟，得到18.0分2.7篮板4.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

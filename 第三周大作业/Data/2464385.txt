@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  飞人蔡恩！鹈鹕发布蔡恩-威廉森单臂劈扣照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CIaZpn6Uz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 02:25:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="飞人蔡恩！鹈鹕发布蔡恩-威廉森单臂劈扣照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/ad73c1a26aa65347b011d8e5f735d6743ba6fff2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今天NBA官方召集了2019级新秀，为他们拍摄新赛季定妆照。
+   </p>
+   <p>
+    鹈鹕官方发布了蔡恩-威廉森在在拍摄现场完成的一张扣篮照。鹈鹕官方写道：“飞人蔡恩。”
+   </p>
+   <p>
+    根据此前的报道，蔡恩与Jordan品牌完成签约。他的这张扣篮照与乔丹品牌的logo飞人乔丹有几分相似。
+   </p>
+   <p>
+    威廉森出生于2000年7月6日，在2019年第1轮第1顺位被鹈鹕选中。上赛季威廉森效力于NCAA的杜克大学，上赛季他场均22.6分领跑ACC（大西洋海岸联盟），在NCAA所有联盟里排名第15；投篮命中率68%在ACC排名第1，在NCAA排名第2。场均3.5进攻篮板在ACC排名第1，在NCAA排名第9。这位一年级的新生带领球队获得ACC联盟的冠军，打进NCAA锦标赛精英八强。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/02/436c21c0fb46f562e71e588a6138741d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

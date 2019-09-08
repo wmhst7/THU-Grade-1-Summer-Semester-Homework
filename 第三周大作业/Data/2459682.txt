@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金总经理：约基奇将中锋的传球技术提升到了新的高度
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nuggets/news/karnisovas-joins-woj-pod-20190729" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 14:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金总经理：约基奇将中锋的传球技术提升到了新的高度" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/ea3266bf2e7a3869c5df8573dab977993d94391c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 近日，掘金总经理阿尔图拉斯-卡尔尼绍瓦斯做客了ESPN记者Adrian Wojnarowski的播客节目“The Woj Pod”。
+   </p>
+   <p>
+    谈到自己在选秀前发掘约基奇的过程，卡尔尼绍瓦斯说：“在选秀前，任何一支NBA球队都可以来看他的表现，包括在篮球巅峰赛上。我们从马克-加索尔只有18到19岁，还在西班牙打球的时候就开始看他的录像带了……那时候每个人都在想，约基奇的运动能力不足以在联盟立足，但是他的技术一直都在。从传球到投篮，再到大概是我们见过的最好的控球技巧。重申一下，他的发展还是取决于他在身体方面的提升，以及他的技术能在我们的体系中发挥什么样的作用。现在我们说他是我们的控卫，发起了我们的大部分进攻。很多人问我他和阿维达斯-萨博尼斯相比怎么样，你知道作为一名中锋，他是怎样的一名传球手。我认为约基奇将中锋的传球技术提升到了新的高度，因为他还能带球过半场。他能拿下篮板，带球过半场，然后发起进攻。”
+   </p>
+   <p>
+    “有多少球队在比赛还剩两分钟的时候是让中锋持球过半场的？而我们在季后赛中就是这么做的。”
+   </p>
+   <p>
+    谈到自己是何时发现约基奇的潜力的，卡尔尼绍瓦斯说：“约基奇是逐渐进步的。夏季联赛时，他场均10分7篮板。你不会在这之后就说他将在MVP票选中排名第四，就像他今年所做到的那样。所以，这是一个循序渐进的过程，但是我认为在他的第三年，我们在12月15日让他担任首发之后，他开始在后两个月里打出疯狂的数据……所以那时候我们认为他可能会成为联盟的球星。”
+   </p>
+   <p>
+    谈到球队新援杰拉米-格兰特，卡尔尼绍瓦斯说：“杰拉米-格兰特的到来使我们成为了一支非常优秀的球队。我们已经很优秀了，但是杰拉米-格兰特可以在防守端帮助我们。”
+   </p>
+   <p>
+    2018-19赛季常规赛，约基奇场均上场31.3分钟，得到20.1分10.8篮板7.2助攻1.35抢断。格兰特场均出场32.7分钟，得到13.6分5.2篮板1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

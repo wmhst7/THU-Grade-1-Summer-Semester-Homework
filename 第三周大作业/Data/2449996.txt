@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  温德尔-卡特将接受修复核心肌肉的手术，不会缺席训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1146449367441784832" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 00:13:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="温德尔-卡特将接受修复核心肌肉的手术，不会缺席训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/89d25bef2a797159db4fe197a3adfa37b9d7bd41.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据The Athletic记者Shams Charania报道，公牛中锋温德尔-卡特将接受手术来修复他的核心肌肉，预计他会在新赛季的训练营开始前恢复健康。
+   </p>
+   <p>
+    温德尔-卡特上赛季被公牛以首轮第7顺位选中，为公牛出场44次，场均25.2分钟可以得到10.3分7.0篮板。在今年1月，卡特接受了左手拇指韧带修复手术，并缺席了赛季剩余的所有比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  隐藏的足球迷！杰森-特里晒照：我爱博洛尼亚
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jasonterry31" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 17:45:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="隐藏的足球迷！杰森-特里晒照：我爱博洛尼亚" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/7bac5a9b09363c3268f05ef3208c375541b6a432.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 今日前NBA球员杰森-特里更新自己社交媒体Instagram，晒出自己身穿博洛尼亚球衣（见新闻配图）。
+   </p>
+   <p>
+    “博洛尼亚！我爱这件衣服！”他写道。
+   </p>
+   <p>
+    博洛尼亚是意大利甲级联赛球队，成立于1909年，7次获得意甲冠军。
+   </p>
+   <p>
+    杰森-特里生涯常规赛场均出场29.8分钟，得到13.4分2.3篮板3.84助攻，2010-11赛季随独行侠夺得NBA总冠军。
+   </p>
+   <p>
+    据此前消息，杰森-特里正式加盟今夏举办的BIG3联赛。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/17/7d8abab3f52e56a106192ddaf5abdcfa.png"/>
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2407665.html">
+     特里：参加BIG3让我的生涯更精彩，想打破四分球纪
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

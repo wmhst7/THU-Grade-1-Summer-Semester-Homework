@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才与贾斯廷-罗宾逊签下三年部分受保障合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FredKatz/status/1150202800648929280" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 08:51:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才与贾斯廷-罗宾逊签下三年部分受保障合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/73beaa200f92d9b928e92d5a69601c20990195d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据The Athletic记者Fred Katz的报道，一位联盟消息人士透露，奇才已经与贾斯廷-罗宾逊签下了一份三年的合同，合同里每个赛季的薪水都是部分受保障的。
+   </p>
+   <p>
+    21岁的罗宾逊身高1.88米，体重88公斤，他是今年选秀大会的落选秀，来自弗吉尼亚理工大学。
+   </p>
+   <p>
+    2018-19赛季，罗宾逊场均出战29.7分钟可以拿到13.5分5助攻3.2篮板1.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

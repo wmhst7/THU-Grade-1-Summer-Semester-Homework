@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师约翰逊已与伦纳德及他舅舅有过交流，尚未安排会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BA_Turner/status/1145443433525305344" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 05:49:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师约翰逊已与伦纳德及他舅舅有过交流，尚未安排会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/23ee52b0ebfd1555d97d06f40d44e19c050ac066.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据湖人跟队记者Brad Turner报道，魔术师约翰逊表示，在伦纳德阵营联系他之后，他已与伦纳德及他的舅舅有过交流。双方目前尚未安排会面。
+   </p>
+   <p>
+    据此前的报道，由于魔术师是前湖人运营总裁，他不能参与湖人与伦纳德的正式会面。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

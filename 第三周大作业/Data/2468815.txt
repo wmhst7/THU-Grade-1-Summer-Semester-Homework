@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷吉-米勒迎54岁生日，步行者为队史传奇送祝福
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Pacers/status/1165233806825218048" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 00:43:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷吉-米勒迎54岁生日，步行者为队史传奇送祝福" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/0cd5cdffdffcc465d667759b39082d64844c674a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 美国当地时间8月24日是步行者名宿雷吉-米勒的生日，步行者官方为他送上了生日祝福。
+   </p>
+   <p>
+    “祝我们的传奇雷吉-米勒生日快乐！”步行者官推写道。
+   </p>
+   <p>
+    米勒出生于1965年8月24日，1987年第1轮第11顺位被步行者选中，职业生涯始终为步行者一支队伍效力。生涯场均出场34.3分钟，得到18.2分3.0篮板2.98助攻1.08抢断，三分命中率为39.5%。曾5次入选全明星，并在2012年入选名人堂，其31号球衣也已被步行者退役。
+   </p>
+   <p>
+    其职业生涯代表作之一为“米勒时刻”。美国当地时间1995年5月7日，步行者在东部季后赛半决赛中107-105逆转尼克斯，米勒在8.9秒内连得8分，上演了难以置信的“米勒时刻”。
+   </p>
+   <p>
+    终场前18.7秒，步行者99-105落后尼克斯，米勒接到发球后直接出手三分稳稳命中，随后直接抢断尼克斯底线发球，运球退出三分线果断出手再次命中三分。步行者在防守中犯规，尼克斯后卫约翰-斯塔克斯两罚不中，米勒抢到篮板并造成犯规，随即两罚全中。
+   </p>
+   <p>
+    在这轮系列赛中，步行者以大比分4-3击败尼克斯，顺利挺进东部决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

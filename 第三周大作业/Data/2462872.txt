@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安哥拉男篮公布12人大名单：40岁明加斯将第5次出战世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/916723/angola-announces-final-roster-for-world-cup/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 08:47:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安哥拉男篮公布12人大名单：40岁明加斯将第5次出战世界杯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/2527f7fb976039f5723e78e5e416f29f1e85a4c6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 安哥拉男篮公布了征战今夏男篮世界杯的12人大名单，40岁的爱德华多-明加斯将第5次出战男篮世界杯。
+   </p>
+   <p>
+    具体名单如下：何塞-安东尼奥、Olimpio Cipriano、Leandro Jacques Conceicao、Gerson Domingos、Jerson Lukeny Goncalves、Valdelicio Joaquim、 Hermenegildo Mbunga、爱德华多-明加斯、卡洛斯-莫里斯、雷吉-摩尔、Yanick Morais、Leonel Paulo。
+   </p>
+   <p>
+    2019男篮世界杯，安哥拉被分在D组，同组对手还有塞尔维亚、意大利、菲律宾，D组球队将在佛山开启世界杯之旅。安哥拉世界杯小组赛具体赛程如下：
+   </p>
+   <p>
+    8月31日 15：30 安哥拉VS塞尔维亚
+   </p>
+   <p>
+    9月2日 15：30 安哥拉VS意大利
+   </p>
+   <p>
+    9月4日 15：30 安哥拉VS菲律宾
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

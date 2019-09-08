@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  怀特塞德谈加盟开拓者：感觉就像在海滩上看日落
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.oregonlive.com/blazers/2019/07/hassan-whiteside-seeks-fresh-start-after-landing-in-a-perfect-situation-with-portland-trail-blazers.html?utm_campaign=oregonian_sf&amp;utm_source=twitter&amp;utm_med" target="_blank">
+     俄勒冈人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 12:21:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="怀特塞德谈加盟开拓者：感觉就像在海滩上看日落" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/eff755a96b3ef2d408cc01aa7a70412fac853d56.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 开拓者球员哈桑-怀特塞德在近日接受《俄勒冈人报》采访时谈到了加盟开拓者的感受。
+   </p>
+   <p>
+    “你去过海滩吗？”怀特塞德说道，“就是很放松的状态，喝着一杯水，看着美丽的日落，这就是我的感受。”
+   </p>
+   <p>
+    “对于我而言，这是完美的情况，”怀特塞德补充道，“这是全新的开始，我真的认为我们这支球队有机会做到一些特别的事情。”
+   </p>
+   <p>
+    谈到外界对于自己的质疑，怀特塞德说：“我认为都是无稽之谈，关于更衣室氛围和我身边的队友，我认为热火的氛围很棒，我在那里度过了六年时间，尽管经历了一些起起伏伏，但我认为美好的回忆肯定比糟糕的经历更多。我现在依旧可以和那些人打电话，帕特（莱利）教练（埃里克-斯波尔斯特拉），球队中的每一个家伙，我们的对话依旧充满欢声笑语。我认为我在热火效力时期并没有遇到什么问题，如果遭遇了大问题，我也不会在那里效力这么久。”
+   </p>
+   <p>
+    2018-19赛季常规赛，怀特塞德场均上场23.3分钟，得到12.3分11.4篮板0.8助攻1.89盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

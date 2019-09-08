@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爱德华兹新赛季将身穿凯尔特人4号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBCSCeltics/status/1155914886255452165" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 16:02:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爱德华兹新赛季将身穿凯尔特人4号球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/81f352210838523e0fd7c399929d9cc186b1db2d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 根据此前的报道，今年选秀大会的33号秀卡森-爱德华兹与凯尔特人达成了一份4年协议，合同受保障部分超过450万美元，合同前3年全额受保障，第4年合同带有球队选项。
+   </p>
+   <p>
+    卡森-爱德华兹在新赛季将身穿4号球衣为凯尔特人出战，凯尔特人4号球衣的前任使用者是后卫以赛亚-托马斯。
+   </p>
+   <p>
+    今年6月爱德华兹接受采访时曾向前辈以赛亚-托马斯致敬，他说到：“他（以赛亚-托马斯）是一个出色的球员。他为球队付出了很多，献出了自己的一切。在失去了自己的妹妹之后，他仍然为球队奉献了不可思议的表现。先不提他在场上表现得有多出色，他坚持出战的精神值得一切尊重。我觉得，每一个球员都会尊重他所做的一切，我享受看他的比赛。”
+   </p>
+   <p>
+    “作为一个小个子球员他做到了，这给我激励和希望。”爱德华兹接受采访时曾说道。
+   </p>
+   <p>
+    拉斯维加斯夏季联赛中，卡森-爱德华兹出场了5场比赛，场均得到19.4分3.8篮板，投篮命中率48%，三分命中率接近47%。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/16/f1c507c8127d665c5a77088821821124.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

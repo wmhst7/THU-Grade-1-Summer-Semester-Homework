@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕官方公布夏季联赛名单：蔡恩-威廉森领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PelicansNBA/status/1147157812197433345?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 23:46:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕官方公布夏季联赛名单：蔡恩-威廉森领衔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/63f1412aebebc896b479eb141f4cbf4bdf3f6fcb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日，鹈鹕官方推特公布了鹈鹕夏季联赛的球队名单，名单中共包括十三人，具体名单如下。
+   </p>
+   <p>
+    1号蔡恩-威廉森（2019年状元新秀，来自杜克大学）、5号特雷旺-布卢伊特（2018-19赛季与鹈鹕签订双向合同，来自泽维尔大学）、14号比江岛慎（日本球员）、15号弗兰克-杰克逊（2017年次轮第1顺位，来自杜克大学）、20号杰伦-亚当斯（2018-19赛季与老鹰签订双向合同，来自康涅狄格大学）、22号托尼-卡尔（2018年次轮第21顺位，来自宾夕法尼亚州立大学）、24号奥布里-道金斯（落选秀，Exhibit10合同，来自中佛罗里达大学，上赛季场均15.6分5板1.4助攻）、32号伦敦-珀兰特斯（2017-18赛季与骑士签订双向合同，来自弗吉尼亚大学）、34号肯里奇-威廉姆斯（2年228万美元合同，2020年夏天到期，来自德克萨斯基督教大学）、35号克里斯蒂安-伍德（2年316万美元合同，2020年夏天到期，来自内达华大学）、41号加文-贝斯（落选秀，来自圣路易斯大学，上赛季场均15.3分6.8篮板1.8助攻）、42号卢克-彼得拉舍克（哥伦比亚球员）、45号奇兰-奇萨姆。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190705/23/50205ad7a7a0f1726ed7e80854379fc5.jpg"/>
+   </p>
+   <p>
+    鹈鹕的夏季联赛首场比赛将于北京时间7月6日9:30对阵尼克斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

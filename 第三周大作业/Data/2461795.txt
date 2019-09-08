@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乌布雷更新社交媒体，晒出自己参加比赛照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0wrbWAnYDV/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 09:28:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乌布雷更新社交媒体，晒出自己参加比赛照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/e1b167c7849e4f24932c27fa1b1b573c26430ffe.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 今日，太阳前锋凯利-乌布雷更新社交媒体Instagram，晒出自己参加zekeend锦标赛照片（见新闻配图）。
+   </p>
+   <p>
+    “他还并不老...”他写道。
+   </p>
+   <p>
+    2018-19赛季，乌布雷出战40场比赛，场均上场29.5分钟，可以得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/5684e06564213c867c48337606b6aa14.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/7acf70c5490cbf56208c37cac5edeb31.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/9ed6226a629da71e8a257207918d6e0c.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

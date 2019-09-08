@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  媒体晒照回顾詹姆斯高中队友：来自阿克伦的孩子们
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1MzpG9HAKY/?igshid=5v3xt4oudboe" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 15:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="媒体晒照回顾詹姆斯高中队友：来自阿克伦的孩子们" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/0b2f68aa75421268d2de408e136a31efa2b436b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 媒体Bleacher Report今日通过官方Instagram晒出一张今昔对比图，回顾湖人前锋勒布朗-詹姆斯与他的几位高中队友。
+   </p>
+   <p>
+    “来自阿克伦的孩子们。”Bleacher Report官方写道。
+   </p>
+   <p>
+    詹姆斯于近日回到家乡阿克伦市自己投资创办的I Promise学校开展慈善活动，并与几位挚友重聚。年少时期的詹姆斯曾效力于俄亥俄州阿克伦市圣文森特圣玛丽高中，2003年高中毕业后以NBA状元秀身份被骑士选中。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2465856.html">
+     兄弟情深！詹姆斯发布与几位挚友合影：绝无仅有
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

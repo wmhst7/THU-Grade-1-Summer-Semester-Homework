@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：快船与后卫贝弗利完成续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LAClippers/status/1149755366202232833" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 03:26:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：快船与后卫贝弗利完成续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/5487f8c37e618df65c6c691746e5304a6840cb75.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 快船运营总监劳伦斯-弗兰克宣布，快船与后卫帕特里克-贝弗利已正式完成续约。根据球队政策，合同的细节没有公开。
+   </p>
+   <p>
+    2018-19赛季常规赛，贝弗利共为快船出战78场比赛，场均出战27.4分钟，能够得到7.6分5.0篮板3.8助攻，帮助快船进入季后赛。季后赛，贝弗利出战6场比赛，场均出战32.5分钟，能够得到9.8分8.0篮板4.7助攻。
+   </p>
+   <p>
+    根据此前Woj的报道，贝弗利与快船达成的是一份3年价值4000万的合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

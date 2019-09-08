@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才与骑士助教迈克-隆加巴迪就加盟有过初步交流
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CandaceDBuckner/status/1152373279405105158" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 09:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才与骑士助教迈克-隆加巴迪就加盟有过初步交流" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/f738292813a0c63e5a00269ba4d6fcebdaf60e04.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据《华盛顿邮报》记者Candace Buckner的报道，他们已经获知奇才已经与骑士防守助教迈克-隆加巴迪就加入奇才教练组有过初步交流。
+   </p>
+   <p>
+    隆加巴迪于2016年加盟骑士教练组，之前在太阳和凯尔特人担任助教，在凯尔特人担任助教期间，他与球队在2008年夺得NBA总冠军。
+   </p>
+   <p>
+    在加盟凯尔特人之前，隆加巴迪曾经在杰夫-范甘迪手下担任火箭助教。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：考辛斯遭遇了球员们最怕受的两个伤，愿他尽快康复
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BenGolliver/status/1162116866812211200" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 05:55:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：考辛斯遭遇了球员们最怕受的两个伤，愿他尽快康复" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/bfbd48ae327a2021b32be2b2ef95dcb9a9386d46.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 今天，勇士主帅、美国队助教史蒂夫-科尔接受了记者的采访，谈到了德马库斯-考辛斯遭遇膝盖前交叉韧带撕裂一事。
+   </p>
+   <p>
+    “在这两三年里，考辛斯遭遇了NBA球员最害怕遭遇的两个伤病——跟腱撕裂和膝盖前交叉韧带撕裂。这闻所未闻。这对他和湖人是非常大的打击，希望他能尽快康复。”
+   </p>
+   <p>
+    美国队球员、湖人球员凯尔-库兹马表示，听到这个消息，他很难过。
+   </p>
+   <p>
+    “我们知道考辛斯有多么热爱篮球。”
+   </p>
+   <p>
+    库兹马还表示，他非常尊敬考辛斯对抗伤病和恢复的经历。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：我们在努力争冠，要确保球员在季后赛达到最佳状态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SalmanAliNBA/status/1157028390685368324" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 07:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：我们在努力争冠，要确保球员在季后赛达到最佳状态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/ffa339add45d5840304c80f230d14d73f14401e4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 火箭总经理达雷尔-莫雷作客节目时谈到了新赛季使用球员的一些策略。
+   </p>
+   <p>
+    “我们在努力争冠，所以我们要确保我们的球员们在季后赛的时候达到最好的状态，想在季后赛拿到16胜可不容易，所以对我们来说，这是常识，我们不需要给这个事情设定一个专用词汇，我们不会把这个称作‘工作量管理’什么的，但是我们会提前与威少哈登和其他关键球员在一起制定一个计划。”莫雷说道。
+   </p>
+   <p>
+    莫雷接着说：“如果你连续赢下多场比赛，压力就减少，如果连续输掉多场比赛，压力会增加，看看赛季情况进展如何，这很重要。”
+   </p>
+   <p>
+    所以莫雷不确定会在哪一天轮休球员？莫雷说：“基本上来说，在一个理想的世界里，我们会按照我们的节奏在常规赛拿到55-65胜，我们会在一些比赛里认为这样做（轮休球员）是最好的，但是球队表现如何，球员伤病情况，还有很多影响因素，这些都会影响我们的决定，所以我们不会在赛季开始前就确定球员在哪一场比赛里轮休。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

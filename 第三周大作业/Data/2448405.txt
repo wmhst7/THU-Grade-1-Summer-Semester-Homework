@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：克莱与勇士计划达成5年1.9亿顶薪续约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145004888788819969" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 00:24:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：克莱与勇士计划达成5年1.9亿顶薪续约协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/39444e256aac171fac94ecb372e657319e9f25a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，克莱-汤普森与勇士计划达成5年1.9亿美元的顶薪续约协议。
+   </p>
+   <p>
+    根据Shams报道，勇士将在明日派出管理层代表前往洛杉矶探望汤普森，球队也早已准备好为汤普森提供他希望得到的合同报价，并将其视为自由球员市场开启后的首要选择。
+   </p>
+   <p>
+    在今年总决赛第六场比赛中，汤普森遭遇左膝十字韧带撕裂，预计2019-20赛季全明星期间复出。
+   </p>
+   <p>
+    2018-19赛季常规赛，汤普森场均上场34.0分钟，得到21.5分3.8篮板2.4助攻1.08抢断，季后赛场均上场39.0分钟，得到20.7分4.1篮板2.1助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

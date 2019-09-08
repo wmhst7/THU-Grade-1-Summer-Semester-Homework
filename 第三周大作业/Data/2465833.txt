@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马向詹姆斯索要红酒：如果得不到，我们就不是朋友
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2109946927238913741?utm_source=ig_story_item_share&amp;igshid=r08v2vgm1tlh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 23:44:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马向詹姆斯索要红酒：如果得不到，我们就不是朋友" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/3d80f285a7739dc5ace48c6b50fcfb56eb33e9a7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 湖人前锋勒布朗-詹姆斯今日曾在Instagram Story上晒出自己从老家地窖中拿到的几瓶上等红酒并艾特凯尔-库兹马和凯文-乐福，而库兹马和乐福也针对这些红酒作出回应。
+   </p>
+   <p>
+    库兹马写道：“如果我一点儿也没尝到那瓶Mayacamas酒的滋味，我们就不是朋友！@勒布朗-詹姆斯”詹姆斯则回复道：“兄弟，我理解你的意思。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/23/d6a5fcf012b9007e4ceba880b3708a70.jpeg"/>
+   </p>
+   <p>
+    同为酒友的乐福则转发并配文道：“那种上好的葡萄醇香，@勒布朗-詹姆斯，不可思议。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/23/b76c43c7edbd0a78d23a5b4edf8c19a0.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

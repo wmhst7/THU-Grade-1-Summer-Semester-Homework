@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷-杨前往观看MLB亚特兰大勇士队棒球比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thetraeyoung/status/1164304615640358913" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 10:11:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷-杨前往观看MLB亚特兰大勇士队棒球比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/83fe7ed105840ae43405c91e95551b2d85dc3eb1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 老鹰后卫特雷-杨今日转发了一组美国职业棒球大联盟(MLB)亚特兰大勇士队官方发布的图片，回顾自己前往观看同城棒球队比赛的场景。
+   </p>
+   <p>
+    “@特雷-杨 来到现场！”亚特兰大勇士队官方写道。特雷-杨与勇士队球员合影留念，并获赠一件勇士队11号棒球服。
+   </p>
+   <p>
+    2018-19赛季常规赛，特雷-杨场均出战30.9分钟，得到19.1分3.7篮板8.1助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/00/0801d1a0c295c94df10c5f05b7d1b3b1.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/00/16bdc96e282dabd8783757195a3c5b8c.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/00/92274a8c57376ca3662714315b7f4270.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/10/4a0d4c5c08e43d452509567e4c89103f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/10/1542af944664ca508cd6c524c321ffe0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/10/4dbc8a01f3348f1ba2e71cef5fbdd730.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

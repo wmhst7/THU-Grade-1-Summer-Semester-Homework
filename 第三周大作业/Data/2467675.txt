@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尴尬乌龙！詹姆斯Ins转发热门谣言图片后迅速删除
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/joedgemma/status/1164043813926690816?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 14:35:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尴尬乌龙！詹姆斯Ins转发热门谣言图片后迅速删除" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/cb703b741ca8b05dfe3d82a4babd02054573a21d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 湖人前锋勒布朗-詹姆斯今日曾在Instagram上短暂发布一张网络热图，随后迅速删除该条动态。
+   </p>
+   <p>
+    根据多位网友的截图爆料，詹姆斯发布了一张近期不断流传于网络的图片，向Instagram声明自己的网络账户隐私权。然而，这张图片所述内容已被证实为谣言。
+   </p>
+   <p>
+    该图片内容如下：“别忘记从明天起新的Instagram规则生效，届时他们可以使用你发布的照片。别忘了今天是截止日！！！未来它可以在针对你的诉讼中被用作呈堂证供。从今天起，你发布过的所有内容都将变为公开状态，甚至包括那些已被删除的消息或被设为不允许查看的照片。保险起见，只需你复制粘贴一下，免得事后追悔。13频道新闻也报道了Instagram隐私政策的改变。我不允许Instagram或任何与Instagram有关联的实体使用我的图片、信息、消息或帖子，包括过去和将来。通过这份声明，我就此通知Instagram严格禁止其泄露、复制、传播，抑或基于我的账户及/或其内容采取任何针对我的行为。这个账号的内容都是私人且保密的信息。侵犯他人隐私权将受到法律惩罚。注意：Instagram现在是一个公开的实体。如果你愿意，你可以复制并粘贴这个版本的声明。如果你未曾至少发布一次声明，你将默认允许它使用你的照片以及更新账号所包含的内容。Instagram无权分享我的照片或消息。”
+   </p>
+   <p>
+    詹姆斯则配文道：“安全总比遗憾好！希望这不是真的，不过如果是真事，现在保护措施到位了。”
+   </p>
+   <p>
+    针对詹姆斯的此次“乌龙”发帖行为，一位发布该帖截图的推特网友打趣道：“勒布朗真的在他的Instagram上发布了那条虚假的Instagram规则，然后在大概30秒后（注：该帖实际保留了几分钟）删帖。兄弟们，这让人心碎，我无法再像以前那般看待他。今天，我失去了一位偶像。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/14/918e75525aaf4cc9b391e508c4abeaa5.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小贾伦-杰克逊更新社媒分享多张参加篮球活动照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jarenjacksonjr/status/1143993767608893440" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 11:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小贾伦-杰克逊更新社媒分享多张参加篮球活动照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/b64f9e331e9230b27d5ab7896c4492a362c19f37.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，孟菲斯灰熊球员小贾伦-杰克逊更新了个人社媒，上传了多张参加篮球活动的照片（见新闻配图）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/85d00e14fb7e7adead33e08a0112d62c.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/11/10618969391560a4938c2dbc928ff477.png"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，小贾伦-杰克逊场均出场26.1分钟，得到13.8分4.7篮板1.1助攻1.41盖帽0.90抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

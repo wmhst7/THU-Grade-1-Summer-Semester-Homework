@@ -1,0 +1,81 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迫不及待！蔡恩-威廉森表示对夏季联赛感到兴奋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PelicansNBA/status/1146918012248834048" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 11:05:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迫不及待！蔡恩-威廉森表示对夏季联赛感到兴奋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/fcbf3dc6d0f841326f6161f234b879d3860310ae.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日，鹈鹕官方社交媒体更新Twitter，今年的状元秀蔡恩-威廉森表示对夏季联赛感到兴奋。
+   </p>
+   <p>
+    “我对此非常兴奋，因为这是我儿时的梦想，能在这里打球感觉很棒。”威廉森说道。
+   </p>
+   <p>
+    面对NBA快节奏的比赛风格，威廉森说道：“我很兴奋，因为无论谁持球推进，就是会在场上为每个人创造空间让他们得分。我认为每个人都喜欢这样，我们已经准备好去比赛了。”
+   </p>
+   <p>
+    鹈鹕的第一场夏季联赛将于北京时间7月6日早上9：30在鹈鹕主场进行，对手将会是尼克斯。
+   </p>
+   <p>
+    值得一提的是，尼克斯今年选中的探花秀RJ-巴雷特是威廉森的大学时期队友，这也是他们之间在NBA的首次相遇。
+   </p>
+   <p>
+    蔡恩-威廉森在今年第1轮第1顺位被鹈鹕选中，
+    <a href="https://voice.hupu.com/nba/2449313.html">
+     并于此前完成正式签约
+    </a>
+    ；RJ-巴雷特在今年第1轮第3顺位被尼克斯选中，同样也
+    <a href="https://voice.hupu.com/nba/2449685.html">
+     完成正式签约
+    </a>
+    。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190705/11/2a5cdf3f6f668eabf07ff62520971bd0.png"/>
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2449683.html">
+     巴雷特：第一场对阵威廉森很有趣，希望明年能得最佳新秀
+    </a>
+    <br/>
+    <a href="https://voice.hupu.com/nba/2450444.html">
+     巴雷特谈威廉森：对于他在场上做的事，你无能为力
+    </a>
+    <br/>
+    <a href="https://voice.hupu.com/nba/2449900.html">
+     鹈鹕夏联主帅谈威廉森：他会让对手很难对付的
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

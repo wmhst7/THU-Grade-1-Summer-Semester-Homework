@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士官方更新社交媒体，感谢德里克-费沃斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzoRL9PH5rL/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 10:32:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士官方更新社交媒体，感谢德里克-费沃斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/0407889557685cfe89c2b4e88163bf04e28305a4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，爵士官方更新社交媒体Instagram，晒照感谢德里克-费沃斯（见新闻配图）。
+   </p>
+   <p>
+    “感谢你这8年为爵士做的所有。”并配文道。
+   </p>
+   <p>
+    2018-19赛季常规赛，费沃斯场均上场23.2分钟，得到11.8分7.4篮板1.2助攻0.74抢断1.39盖帽，季后赛场均上场20.6分钟，得到11.8分7.4篮板1.8盖帽。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2451449.html">
+     官方：鹈鹕送出两个未来次轮交易得到爵士前锋德里克-费沃斯
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

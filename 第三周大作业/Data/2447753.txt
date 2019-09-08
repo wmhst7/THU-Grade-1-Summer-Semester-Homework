@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕有意追求凯文-卢尼，而勇士方面希望尽快留下他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SeanDeveney/status/1144310447379820546" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:18:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕有意追求凯文-卢尼，而勇士方面希望尽快留下他" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/61235cf1621a9d1655cd32d5ad425f66d4587b3e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据记者Sean Deveney报道，消息人士透露，除火箭外，鹈鹕也是有意追求凯文-卢尼的球队之一。
+   </p>
+   <p>
+    Deveney还表示，他被告知勇士希望能尽快留下卢尼。
+   </p>
+   <p>
+    2018-19赛季常规赛，凯文-卢尼场均出场18.5分钟，得到6.3分5.2篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

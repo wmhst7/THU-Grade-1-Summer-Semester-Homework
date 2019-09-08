@@ -1,0 +1,48 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  灰熊官方宣布新援球衣号码：阿伦3号，克拉克15号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/grizzliespr/status/1147924096203862017?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 12:54:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="灰熊官方宣布新援球衣号码：阿伦3号，克拉克15号" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/f33420b2cfe599e0edfd57f47020551856567ac8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 灰熊官方近日宣布了几位新援的球衣号码。格雷森-阿伦将身穿3号球衣，布兰登-克拉克将身穿15号球衣，丹东尼-梅尔顿将身穿0号球衣，迈尔斯-普拉姆利将身穿25号球衣。
+   </p>
+   <p>
+    灰熊从此前送出迈克-康利的交易中得到格雷森-阿伦，从送出首轮23号签的交易中得到本届选秀21号秀布兰登-克拉克，从送出凯尔-科沃尔和杰文-卡特的交易中得到丹东尼-梅尔顿，从送出钱德勒-帕森斯的交易中得到迈尔斯-普拉姆利。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

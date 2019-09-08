@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj节目中透露，伦纳德最早也要到7月4日早上才会做决定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShowtimeForum/status/1146439375162503169" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 00:29:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj节目中透露，伦纳德最早也要到7月4日早上才会做决定" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/75535167a22a390ec6683d5829df6a41b775053f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 NBA记者Adrian Wojnarowski在参加一档节目时表示，前锋科怀-伦纳德至少要等到当地时间晚上（北京时间7月4日早上）才会做出决定。
+   </p>
+   <p>
+    “我被告知伦纳德至少要等到今天的晚些时候（北京时间7月4日早上）才会做出决定，有可能要等到当地时间7月4日早上（北京时间7月4日晚上）。”
+   </p>
+   <p>
+    伦纳德阵营已与湖人与快船完成会面，并将与猛龙进行会面。
+   </p>
+   <p>
+    伦纳德阵营对于保密工作非常看重，因此有关会面的具体信息都被严格控制，外界很难得知具体的相关信息。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

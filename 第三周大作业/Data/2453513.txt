@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德雷克斯勒：威少的数据很棒，保罗的油箱里仍然有油
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1149755055140007936" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 19:11:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德雷克斯勒：威少的数据很棒，保罗的油箱里仍然有油" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/5ed0f1892231e110e785d72432288f02e361bfc6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 前NBA球员克莱德-德雷克斯勒作客节目时谈到了火箭与雷霆的交易。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski之前的报道，消息人士透露，雷霆与火箭达成交易，火箭送出克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    “威斯布鲁克是一名出色的球员，你知道的，他的数据很棒，他是否打得高效？我不知道，克里斯-保罗油箱里仍然有很多油，我爱他的比赛，他打球很高效，他是一名领袖，并且他可以投三分和命中罚球，威斯布鲁克在命中三分和罚球这方面都有问题，现在他要与哈登一起打球，哈登是一名需要持球在手的球员，看看他们两个人可以如何共存，这会是一个有趣的组合。”德雷克斯勒说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

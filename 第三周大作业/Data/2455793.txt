@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术高层认为签回迈卡威是好的选择，无论富尔茨情况如何
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1084059/2019/07/18/inside-the-magic-terrence-ross-number-change/Inside" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 14:15:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术高层认为签回迈卡威是好的选择，无论富尔茨情况如何" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/7b4d24af4cc8d78d0e6be4fac04905c2077f86a9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 据NBA记者Adrian Wojnarowski此前的报道，自由球员迈克尔-卡特-威廉姆斯与魔术达成1年续约协议，重新回到魔术。
+   </p>
+   <p>
+    据魔术跟队记者Josh Robbins报道，魔术管理层认为签回迈卡威是一个好的选择，无论马克尔-富尔茨的身体情况如何。迈卡威是一位出色的防守者，他上赛季有效地推动了球队第二阵容的速度。由于迈卡威的身高、篮板和防守能力，他能够和DJ-奥古斯丁、富尔茨一同出场。
+   </p>
+   <p>
+    主教练史蒂夫-克利福德对于球队签回迈卡威感到兴奋，他在近日回顾了球队上赛季的季后赛比赛录像，并对迈卡威的防守能力、机动性和智慧大加赞扬。
+   </p>
+   <p>
+    “他在多场比赛中的防守表现非常出色，”克利福德说道，“他能够防守一到三号位，持续地给持球人压力，伺机完成抢断，而且他的动作干净利索，没有多少球员可以做到这些。”
+   </p>
+   <p>
+    2018-19赛季常规赛，迈卡威场均出场13.3分钟，可以得到4.8分2.5篮板2.5助攻。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2454422&amp;type=1&amp;entrance=26">
+     魔术主帅：我们不知道富尔茨何时复出，但他现在情况不错
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2452632&amp;type=1&amp;entrance=26">
+     官方：魔术正式续约后卫迈克尔-卡特-威廉姆斯
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

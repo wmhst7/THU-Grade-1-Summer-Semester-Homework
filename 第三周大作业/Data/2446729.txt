@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  康利获得55张最佳队友第一选票，弗莱52张
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 10:17:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="康利获得55张最佳队友第一选票，弗莱52张" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/90470fb45b5066eb91c3931e49acb8a9042e5d86.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     在今天的NBA颁奖大会上，爵士后卫迈克-康利获得了本赛季的最佳队友奖。
+    </span>
+   </p>
+   <p>
+    在随后颁布的选票中，康利以55张第一选票，总分1369分排在第一；钱宁-弗莱以52张第一选票，总分1083分排在第二。
+   </p>
+   <p>
+    凯尔-科沃尔、史蒂文-亚当斯和犹多尼斯-哈斯勒姆分列第3、4、5位。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

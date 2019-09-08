@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网总经理：KD在与我们通话或会面前就发布了加盟消息
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/09/nets-gm-i-found-out-kevin-durant-signed-when-you-did/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 11:46:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网总经理：KD在与我们通话或会面前就发布了加盟消息" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/d73b3ca76d1002d3c66dd74436ebe2a5b9049dde.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 据篮网总经理肖恩-马克斯今日新闻发布会采访透露，当今夏自由市场正式开启后，凯文-杜兰特在与篮网进行通话或会面之前就通过Instagram自行发布了他将与篮网签约的消息。
+   </p>
+   <p>
+    “是的，当他发布那条Instagram动态时，我们都在办公室内坐着，”马克斯说，“我们和你们一样实时得到的消息。我们甚至不确定当晚能否与他安排会面，或者进行电话交流。”马克斯随后补充称他在杜兰特宣布决定的那一刻还没有与其经纪人Rich Kleiman交谈过。
+   </p>
+   <p>
+    肖恩-马克斯此前接受《体育画报》记者Chris Mannix采访时也透露了类似的震惊之情：
+   </p>
+   <p>
+    6月30日下午，马克斯和他的员工聚集在球队总部作战室内，应对着自由市场刚开启的头几个小时。球队内部对于他们能够同时得到两大自由球员凯里-欧文和凯文-杜兰特抱有信心。“紧张的期待。”马克斯说道。下午5点之前第一波报道出炉，他们两人都计划签约篮网。直到1小时后的一条Instagram动态才让马克斯彻底相信杜兰特要来了。“那让每个人都经历了震惊。”马克斯说道。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

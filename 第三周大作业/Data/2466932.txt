@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  致敬乔丹！艾弗森晒穿乔丹T恤照：你是史上最佳
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1T7F0FApzY/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 13:22:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="致敬乔丹！艾弗森晒穿乔丹T恤照：你是史上最佳" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/825a11e8a8363386d86a997d1ec45fc327b345c9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 76人名宿阿伦-艾弗森今日在个人Instagram上晒出了一张自己身穿印有迈克尔-乔丹的T恤照片（见新闻配图）。
+   </p>
+   <p>
+    “GOAT。”艾弗森写道。
+   </p>
+   <p>
+    Goat是英文Greatest of All Time的缩写，意为“史上最佳”。
+   </p>
+   <p>
+    艾弗森是1996年的选秀状元并在“96黄金一代”中脱颖而出，获得最佳新秀称号。生涯常规赛场均出场41.1分钟，得到26.7分3.7篮板6.15助攻2.17抢断。4次夺得得分王，3次获得抢断王，捧得1次MVP与2次全明星MVP，11次入选全明星，3次入选最佳阵容一阵，并在2016年入选名人堂。
+   </p>
+   <p>
+    乔丹是1984年的探花秀，力压当年状元哈基姆-奥拉朱旺捧得当赛季最佳新秀。生涯常规赛场均出场38.3分钟，得到30.1分6.2篮板5.25助攻2.35抢断0.83盖帽。10次夺得得分王，3次获得抢断王，捧得5次MVP与3次全明星MVP，14次入选全明星，2次获得扣篮大赛冠军，10次入选最佳阵容一阵，9次入选最佳防守阵容一阵，1次最佳防守球员。6捧总冠军，6获总决赛MVP，并于2009年入选名人堂。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

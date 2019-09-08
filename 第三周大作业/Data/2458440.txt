@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  考辛斯分享与美国前总统奥巴马合影：44和15
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0ZSHmCJvtI/?igshid=14s8kp7jf98jp" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 06:44:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="考辛斯分享与美国前总统奥巴马合影：44和15" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/c1901d9ab6913aa4a9265e0ce5407914a82660f3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 湖人中锋德马库斯-考辛斯今天通过Instagram发布一张他与美国前总统巴拉克-奥巴马的合影。
+   </p>
+   <p>
+    “44和15。”考辛斯写道。奥巴马是美国历史上第44任总统，而考辛斯新赛季将身披15号球衣。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯出场30场比赛，场均出战25.7分钟，能得到16.3分8.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

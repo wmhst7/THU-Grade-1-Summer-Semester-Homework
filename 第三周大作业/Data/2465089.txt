@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：魔术签约后卫哈桑尼-格拉维特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Magic_PR/status/1161326183172182016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 02:25:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：魔术签约后卫哈桑尼-格拉维特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/5eabe724d0a74a80fa83b416b08c7a5f2e6e52c8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 奥兰多魔术队今日宣布，球队正式签下自由球员哈桑尼-格拉维特（Hassani Gravett）。根据球队政策，具体合同细节并未披露。
+   </p>
+   <p>
+    格拉维特出生于1996年，司职后卫，代表南卡罗来纳大学出战三个赛季，场均23.8分钟，得到7.2分3.0篮板2.4助攻。上赛季被教练票选为当赛季NCAA东南赛区最佳第六人。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

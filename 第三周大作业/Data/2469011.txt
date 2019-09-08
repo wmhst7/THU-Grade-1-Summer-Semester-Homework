@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  澳大利亚男篮将于当地时间明早飞往中国
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OlgunUluc/status/1165508651869540352" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 14:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="澳大利亚男篮将于当地时间明早飞往中国" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/3b5f2e0d9fa42d20071895c9bcc49848e1e8eeb0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 根据福克斯体育澳洲记者Olgun Uluc的报道，澳大利亚男篮将于当地时间明早飞往中国。
+   </p>
+   <p>
+    目前澳大利亚男篮的大名单如下：阿隆-贝恩斯、安德鲁-博古特、大卫-巴洛、米奇-克里克、马修-戴拉维多瓦、Cameron Gliddon、Chris Goulding、乔-英格尔斯、尼古拉斯-凯、乔克-兰代尔、帕蒂-米尔斯和内森-索比。
+   </p>
+   <p>
+    本次男篮世界杯，澳大利亚和塞内加尔，加拿大和立陶宛同处H组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

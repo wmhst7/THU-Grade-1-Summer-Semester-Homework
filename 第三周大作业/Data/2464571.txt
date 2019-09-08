@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA社媒发布拍摄日午餐时间趣图：你家新秀坐哪桌？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CKcB_Asu2/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 13:58:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA社媒发布拍摄日午餐时间趣图：你家新秀坐哪桌？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/47299b5f04303e1fda2f3d57684a905833c7087a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，NBA官方召集了2019级新秀，为他们拍摄新赛季定妆照。
+   </p>
+   <p>
+    NBA的Instagram发布了一组午餐时间的抓拍照片，并配文：“午餐时间！你家新秀坐哪桌？”
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5wuqirg7gj20sg0sgq94.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

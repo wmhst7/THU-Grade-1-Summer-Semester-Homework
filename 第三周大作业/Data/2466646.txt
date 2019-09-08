@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥拉迪波：非常期待与布罗格登并肩作战，目前专注于康复
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/sports/nba/pacers/2019/08/17/victor-oladipo-certain-playoffs-pacers-after-offseason-moves-malcolm-brogdon-jeremy-lamb/2003377001/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 13:29:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥拉迪波：非常期待与布罗格登并肩作战，目前专注于康复" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/ee2060327ef6c4da4d07b6718feedcddf442daa7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 步行者球员维克托-奥拉迪波近日在韦斯特菲尔德地区举办了篮球训练营，他在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到球队下赛季的目标，奥拉迪波说：“肯定是季后赛，毫无疑问。”
+   </p>
+   <p>
+    今年夏天，步行者进行了较大的人员变动，多位球员离队，赛迪斯-杨加盟公牛，达伦-科里森选择退役，博杨-波格丹诺维奇远赴犹他，科里-约瑟夫加盟国王。
+   </p>
+   <p>
+    “我依旧会和这些家伙们保持联系，一周前我和Thad（赛迪斯-杨）进行了交流，几周前我与DC（达伦-科里森）交谈过，我也和Bogey（博扬-波格丹诺维奇）聊过，”奥拉迪波说道，“我与这些家伙们的关系不止于篮球，这关于你建立的友谊，当你和这些家伙们并肩作战两年，你们之间的友谊将会长存。能够依旧联系到他们，并且进行对话，这真的很酷。他们都在专注于做自己的事情，做一些更大、更特别的事情，我为他们感到自豪。”
+   </p>
+   <p>
+    谈到球队新援马尔科姆-布罗格登，奥拉迪波说：“我认为我们得到了一些很棒的补充，我们有机会变得非常特别。我感觉现在的联盟形势是完全开放的，我很兴奋能够与他（布罗格登）一起打球，我知道他是一位怎样的球员，过去几个赛季，他在密尔沃基打出的水准是有目共睹的，能够得到他，这对于我们而言是一个巨大的补充。”
+   </p>
+   <p>
+    “我们现在拥有大量的球员能够持球，不仅是我自己，我不认为球队之前具有这样的条件。这将带来大量的机会，我们的球员们能够踏上赛场做到一些事情。”奥拉迪波说道。
+   </p>
+   <p>
+    奥拉迪波在2019年1月24日步行者对阵猛龙的比赛中右膝严重受伤，并于1月29日成功接受了右膝盖撕裂的四头肌腱修复手术，目前正在康复当中。他在接受采访时并没有透露自己的恢复情况。
+   </p>
+   <p>
+    谈到下赛季是否有机会入选全明星首发阵容，奥拉迪波说：“我不确定，我真的无法控制这个，我在过去两年也无法控制它，现在同样如此。我只关心自己何时能够回归，并且帮助球队赢得总冠军。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

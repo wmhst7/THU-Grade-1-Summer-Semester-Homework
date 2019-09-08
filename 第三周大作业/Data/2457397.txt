@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉森收到过更大的球鞋合同，但乔丹是他最喜欢的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/darrenrovell/status/1153770650408034305?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 10:28:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉森收到过更大的球鞋合同，但乔丹是他最喜欢的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/5832f643e9b6be23d85cdb4f49169639e30d9acc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 根据此前消息报道，鹈鹕前锋蔡恩-威廉森今日更新了个人社交媒体宣布自己与Jordan品牌完成签约。
+   </p>
+   <p>
+    有消息源透露，蔡恩-威廉森与Jordan品牌达成的合同为7年价值7500万美金的合约。
+   </p>
+   <p>
+    根据记者Darren Rovell的报道，此前有其他运动品牌给威廉森开出的签约合同比Jordan品牌提供的要大。但是，蔡恩一直梦想穿着带有他最喜爱的球员的Logo的球鞋上场打球。
+   </p>
+   <p>
+    威廉森出生于2000年7月6日，在2019年第1轮第1顺位被鹈鹕选中。上赛季威廉森效力于NCAA的杜克大学，上赛季他场均22.6分领跑ACC（大西洋海岸联盟），在NCAA所有联盟里排名第15；投篮命中率68%在ACC排名第1，在NCAA排名第2。场均3.5进攻篮板在ACC排名第1，在NCAA排名第9。这位一年级的新生带领球队获得ACC联盟的冠军，打进NCAA锦标赛精英八强。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威尔森-钱德勒谈考辛斯：股四头肌问题可能导致伤情反复
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wilsonchandler/status/1162021503514247168" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 08:45:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威尔森-钱德勒谈考辛斯：股四头肌问题可能导致伤情反复" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/6eefd2bd4ca6f3b54c3cc0b7b26b52a739582f33.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 今日，篮网球员威尔森-钱德勒发推，谈到了湖人球员德马库斯-考辛斯左膝前交叉韧带撕裂的伤病。
+   </p>
+   <p>
+    钱德勒说：“人们没有认真看待（之前考辛斯的）股四头肌撕裂的伤病。我有亲身体会。这件事需要立刻处理，必须从零开始，不能进行篮球训练和体能训练，而要让其完全恢复，之后再让股四头肌以及周围的所有肌肉变得足够强壮，这些破事都很枯燥。如果你不这么做，撕裂伤就会一直反复，由于肌肉代偿，身体的其他部位也可能受伤。”
+   </p>
+   <p>
+    威尔森-钱德勒曾在今年2月3日因右股四头肌拉伤缺阵，于4月4日复出。在季后赛首轮勇士对阵快船的第二场，德马库斯-考辛斯遭遇左股四头肌撕裂的伤病，之后在总决赛勇士对阵猛龙的第一场复出。
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski报道，经纪人透露，考辛斯在洛杉矶接受了最终检查，定论为左膝前交叉韧带撕裂，目前正在制定恢复日程表，手术日期尚未确定，新赛季能否复出成疑。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2465846.html">
+     相关链接：德马库斯-考辛斯遭遇左膝前交叉韧带撕裂
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

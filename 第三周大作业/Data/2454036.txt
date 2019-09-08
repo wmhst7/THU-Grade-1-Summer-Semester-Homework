@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管谈威少保罗互换：火箭得到威少毫无疑问是升级
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://bleacherreport.com/articles/2845517-russ-is-an-upgrade-but-can-he-succeed-where-cp3-failed-in-houston?utm_source=twitter.com&amp;utm_medium=referral&amp;utm_campaign=programming-league" target="_blank">
+     Bleacher Report
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 08:41:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管谈威少保罗互换：火箭得到威少毫无疑问是升级" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/542db2b0bd80e318e3353265ee537cd9324db738.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 根据Bleacher Report记者Ken Berger的报道，多位联盟高管谈论了克里斯-保罗和拉塞尔-威斯布鲁克互换东家的交易。
+   </p>
+   <p>
+    “问题是哈登和威少都需要持球在手，所以这与火箭之前面对的问题一样，但是在我看来，与保罗相比，威少绝对是一个升级，你得到了一个更年轻并且场均三双的球员，并且他的篮板球更好，唯一的区别就是保罗的三分球更好。”一位西部球队高管说道。
+   </p>
+   <p>
+    这位高管接着说：“他们都是领头羊式的球员，他们都想赢球，但是威少毫无疑问是一个升级。”
+   </p>
+   <p>
+    另外一个对手高管说：“我预计他会打出他获得MVP（2016-17赛季）后的最好赛季。”
+   </p>
+   <p>
+    “最终，这笔交易是关于获得更有天赋的球员，这不是一个数据分析式的交易，而且迈克-德安东尼想打得更快一些，得到威少可以让他这么做。”一位联盟高管说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：公牛正式签下科内特和续约哈里森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bulls/bulls-sign-harrison-and-kornet" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 02:16:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：公牛正式签下科内特和续约哈里森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/1ee4aaa80adadcc23a5ba8594f425b839a6131c7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 今日公牛官方宣布，球队正式签下前锋卢克-科内特，并续约后卫沙奎尔-哈里森。
+   </p>
+   <p>
+    科内特将在新赛季身穿2号球衣。
+   </p>
+   <p>
+    根据此前的报道，科内特与公牛签下了一份2年450万美元的全额保障合同，哈里森则与公牛签下了一份1年续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，科内特共上场46次，场均上场17.0分钟，得到7.0分2.9篮板1.2助攻，哈里森场均上场19.6分钟，得到6.5分3.0篮板1.9助攻1.22抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

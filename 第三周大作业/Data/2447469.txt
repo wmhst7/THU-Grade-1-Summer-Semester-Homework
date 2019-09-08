@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭、森林狼和太阳预计会对朗戴-霍利斯-杰弗森感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1047095/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 08:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭、森林狼和太阳预计会对朗戴-霍利斯-杰弗森感兴趣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/613e102051d8318e8c1e54b507d1048d36aae66a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据The Athletic记者Shams Charania的报道，多位联盟消息人士透露，预计太阳、森林狼和火箭会对朗戴-霍利斯-杰弗森感兴趣。
+   </p>
+   <p>
+    根据之前NBA著名记者Adrian Wojnarowsk的报道，篮网不会给杰弗森提供资质报价，杰弗森将成为一名完全自由的球员。
+   </p>
+   <p>
+    2018-19赛季常规赛期间，杰弗森共出战了59场比赛，场均得到8.9分5.3个篮板1.6次助攻；季后赛期间，他场均得到13.3分3个篮板1.5次助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

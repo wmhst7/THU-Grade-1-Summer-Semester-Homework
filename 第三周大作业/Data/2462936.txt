@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕官方晒鲍尔帅照：距离季前赛还有两个月
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B04pQIpgy77/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 11:27:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕官方晒鲍尔帅照：距离季前赛还有两个月" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/8ab4d54451fab1357757c0dae1ae5ad17aec7393.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，鹈鹕官方更新社交媒体Instagram，晒出朗佐-鲍尔帅照（见新闻配图）。
+   </p>
+   <p>
+    “距离鹈鹕的季前赛开始还有两个月！”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均出场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/11/fddd33881f22fdaa889c2f649bec0b90.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

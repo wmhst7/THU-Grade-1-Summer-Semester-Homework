@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丁威迪祝贺路威荣膺最佳第六人：实至名归
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SDinwiddie_25/status/1143348477268676608" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:30:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丁威迪祝贺路威荣膺最佳第六人：实至名归" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/a15eee877de9d6bb632715a1697195f889fd9a0e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     在今天的颁奖大会上，快船后卫路易斯-威廉姆斯当选了年度最佳第六人。
+    </span>
+   </p>
+   <p>
+    篮网后卫斯潘塞-丁威迪以总分34分排在第四，未能入选候选名单。
+   </p>
+   <p>
+    有记者为丁威迪不平：‘很荒谬丁威迪竟然没有入选最佳第六人的候选名单，难以置信。“
+   </p>
+   <p>
+    随后，丁威迪回应道：”放轻松点，老兄。你不是第一的话，就是最后一名。@路易斯-威廉姆斯实至名归，其他都不重要。“
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

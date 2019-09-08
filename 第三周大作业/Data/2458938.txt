@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  周杰伦社媒鼓励林书豪：相信上帝，永远快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/jaychou/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 13:44:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="周杰伦社媒鼓励林书豪：相信上帝，永远快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/739301130e941bdd7cd8e2efb18c7923c2a980cc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 著名音乐人周杰伦今天在个人Instagram Story上传了一张自己与林书豪的合影（见新闻配图）。
+   </p>
+   <p>
+    “今天的分享，相信上帝@林书豪，永远快乐。”周杰伦写道。
+   </p>
+   <p>
+    根据此前的报道，林书豪今天在中国台湾的一档节目中谈论了自己目前的境遇，并且在说到动情处流下了眼泪。
+   </p>
+   <p>
+    2018-19赛季常规赛，林书豪先后效力于老鹰与猛龙，场均出场19.4分钟，得到9.6分2.4篮板3.1助攻，并跟随猛龙获得了2019年NBA总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

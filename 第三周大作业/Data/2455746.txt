@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗宾-洛佩斯:我很幸运曾在这生活过，感谢你，芝加哥
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rolopez42/status/1151920100649271296" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 10:57:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗宾-洛佩斯:我很幸运曾在这生活过，感谢你，芝加哥" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/85055da9d66920023546997b93e81d906a730b7b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 今日，雄鹿球员罗宾-洛佩斯在社交媒体Twitter上感谢公牛并说道：“刚刚被发了一张印有‘芝加哥’字样的餐巾纸让我有点坐立不安。无论是巧合，命运，还是说只是发送的每张餐巾纸都是一样的，我都只是想说我很幸运曾经在这里生活过，感谢你，芝加哥! ”
+   </p>
+   <p>
+    根据之前的报道，雄鹿使用了全额的空间特例签下自由球员罗宾-洛佩斯，年薪大约为476万。年限为两年，第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛, 洛佩斯场均出场21.7分钟，可以得到9.5分3.9篮板。
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190719/10/f4b22f9cf53fee016dbbacc485501ac2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我住球哥家楼下)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

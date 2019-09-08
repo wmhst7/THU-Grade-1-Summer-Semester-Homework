@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  渡边雄太：我在夏天拼命训练，我的技术和信心都明显提升
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/memgrizz/status/1145903117512273920" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:32:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="渡边雄太：我在夏天拼命训练，我的技术和信心都明显提升" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/99372db9da18c3a35eb1e93ce7ceb30cf947ba7d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 在今日结束的一场夏季联赛中，灰熊以85-68大胜爵士。赛后，灰熊球员渡边雄太接受了媒体采访。
+   </p>
+   <p>
+    谈到自己的表现，渡边雄太说：“我今晚打得非常自信，我展现了自己能够在场上做到很多事情。我在今年夏天拼命地训练，我的技术和自信心都有了明显地提升。我很高兴能够在今晚打出出色的表现。”
+   </p>
+   <p>
+    “我的心态始终都是努力打球，无论发生什么，我和其他家伙不太一样，我不会只专注于进攻端，那可不是我的风格，我为自己在防守端的表现而自豪。这就是我自始至终的比赛心态，我认为我今晚在攻守两端做得都不错。”渡边雄太补充道。
+   </p>
+   <p>
+    本场比赛，渡边雄太出场27分钟，12投7中，得到20分9篮板1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

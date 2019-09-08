@@ -1,0 +1,46 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德雷蒙德-格林愿意在今夏与勇士商讨达成新的续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/windhorstespn/status/1144613048121995264?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 23:00:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德雷蒙德-格林愿意在今夏与勇士商讨达成新的续约合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/8871ac229ff1ca9a8231b56c1977ac6fa7fdf454.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据NBA记者Brian Windhorst和Ramona Shelburne联合报道，合同仅剩一年的勇士前锋德雷蒙德-格林有资格在今夏与勇士达成提前续约。消息人士透露，格林愿意在今夏与勇士达成新的续约合同。预计双方的商谈将在本次休赛期的稍晚时段发生。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出战31.3分钟，得到7.4分7.3篮板6.9助攻1.44抢断1.06盖帽；季后赛场均出战38.7分钟，得到13.3分10.1篮板8.5助攻1.45抢断1.5盖帽。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

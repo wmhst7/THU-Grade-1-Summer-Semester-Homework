@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比：库兹马不可或缺，当你坚信紫金军团，你哪都不会去
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LakeShowWorld/status/1169077931185864704" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 15:44:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比：库兹马不可或缺，当你坚信紫金军团，你哪都不会去" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/d9caa5c167428ae37c077105a777e616dbc63afa.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 湖人名宿科比-布莱恩特在近日接受电话采访时谈到了湖人前锋凯尔-库兹马以及球队下赛季的前景。
+   </p>
+   <p>
+    谈到湖人在涉及到安东尼-戴维斯的交易中坚持留下库兹马的原因，科比说：“或许是因为他的全面性，我认为以前的比赛需要球员能够专注于球场上的某个方面，现如今比赛风格正在发生变化，球队需要球员在场上面面俱到，攻防两端皆是如此，并且在防守端有潜力成为一位出色的防守球员，我认为这是球队所关注的方面之一。”
+   </p>
+   <p>
+    “还有他的投篮能力，传球能力，他的体型，我认为这就是他是球队不可或缺的一部分的原因。”科比接着说道。
+   </p>
+   <p>
+    当被问及湖人下赛季能否进入季后赛时，科比打趣道：“我们最好能打进，哈哈哈。拜托，哥们儿，当你坚信紫金军团，你哪都不会去，你知道我说的意思吗？我会像其他所有的湖人球迷那样，希望球队一切顺利。你知道的，罗勃（佩林卡）做了很棒的工作，屏蔽外界的声音，在夏天做了很棒的操作，围绕球队核心补进了一些出色的拼图，打造了一支有可塑性的球队，希望我们的球员能够保持健康。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

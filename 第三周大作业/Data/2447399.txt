@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  肯巴-沃克首选下家可能是凯尔特人，其次是黄蜂
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/townbrad/status/1143944349849460737" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 04:00:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="肯巴-沃克首选下家可能是凯尔特人，其次是黄蜂" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/7861266fdb4c8d21bff2825675d7b2bc351b69f6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据Sports Day独行侠记者Brad Townsend报道，多位消息人士透露，自由球员肯巴-沃克目前首选下家可能是凯尔特人，其次是黄蜂，第三是独行侠。
+   </p>
+   <p>
+    另外，湖人和尼克斯也有可能是沃克的下家。
+   </p>
+   <p>
+    此前，据《纽约时报》记者Marc Stein报道，联盟消息人士透露，凯尔特人和独行侠将会积极追逐沃克。
+   </p>
+   <p>
+    沃克可以在今夏与黄蜂签下一份5年价值2.21亿美元的超级顶薪，其他球队只能给他提供4年1.41亿美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

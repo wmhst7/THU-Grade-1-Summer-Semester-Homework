@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德雷蒙德-格林职业生涯被罚款总金额接近75万美元
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Ubuntuhnh/status/1158207134741323776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 10:45:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德雷蒙德-格林职业生涯被罚款总金额接近75万美元" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/eec654c15edb620c388f8d12a71d1657572aca4c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 勇士球员德雷蒙德-格林职业生涯至今7个赛季因技术犯规、恶意犯规、被驱逐出场、场上争执和批评裁判等原因已经接受了百余次罚款，被罚款总金额达到749124美元。
+   </p>
+   <p>
+    其中2018年11月14日，格林因为做出对球队不利行为（对杜兰特的言论）被球队禁赛一场，损失了12万美元。2016年6月14日，格林因为累积恶意犯规积分被禁赛一场，损失12万美元。因批评判罚格林被罚共计11万美元。
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski早些时候的报道，勇士与格林达成了一份4年1亿美元的提前续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出场31.3分钟得到7.4分7.3篮板6.9助攻1.4抢断1.1盖帽；季后赛场均出战38.7分钟得到13.3分10.1篮板8.5助攻1.5抢断1.5盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

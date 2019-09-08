@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：马库斯-莫里斯重新考虑签约，可能加盟尼克斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1148692976949846016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 04:39:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：马库斯-莫里斯重新考虑签约，可能加盟尼克斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/75b5aa42814d5c5a58743d7dac109b7056b31bf8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 据NBA记者Adrian Wojnarowski和Marc J.Spears联合报道，消息人士透露，此前和马刺达成2年2000万口头加盟协议的前锋马库斯-莫里斯，正在重新考虑协议。
+   </p>
+   <p>
+    马库斯-莫里斯正考虑与尼克斯达成协议，后者与雷吉-布洛克正在重新商讨协议，可能能够腾出足够的薪资空间来签下马库斯-莫里斯。
+   </p>
+   <p>
+    据雅虎体育记者Chris Haynes报道，尼克斯为莫里斯提供了一份1年1500万的合同。
+   </p>
+   <p>
+    为了提供给莫里斯一份价值930万的全额中产合同，马刺将戴维斯-贝尔坦斯交易至奇才，并将与德马雷-卡罗尔2年1300万的合同重新商讨为3年2100万（先签后换球员的合同年限至少为3年），然后通过交易贝尔坦斯得到的交易特例，用先签后换的方式得到卡罗尔。
+   </p>
+   <p>
+    2018-19赛季常规赛，莫里斯场均上场27.9分钟，得到13.9分6.1篮板1.5助攻，季后赛场均上场28.2分钟，得到13.7分8.1篮板1.2助攻。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2451040.html">
+     马库斯-莫里斯与马刺达成2年2000万协议
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2452167.html">
+     尼克斯和布洛克正重新商讨原先达成的2年2100万的合同
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

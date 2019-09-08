@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  抵达休斯顿！威少与帕金斯在休城当地餐馆聚餐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz7RtThgpN0/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 11:50:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="抵达休斯顿！威少与帕金斯在休城当地餐馆聚餐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/373d2fa3e78d320b7d8c9be6717714b399c0b0f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 休斯顿一当地餐馆老板Rob Wright近日在个人Instagram上传了一张自己与前NBA球员肯德里克-帕金斯、火箭后卫拉塞尔-威斯布鲁克的合影。
+   </p>
+   <p>
+    根据此前的报道，火箭送出克里斯-保罗以及多个首轮选秀权、首轮选秀互换权从雷霆交易得到了威斯布鲁克。
+   </p>
+   <p>
+    帕金斯于2010-11赛季中段被凯尔特人交易至雷霆，从而与威斯布鲁克成为队友，生涯共为雷霆效力5个赛季。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  备战新赛季！路威晒出机场照，将在费城训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B19OUH-Bgb9/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 15:23:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="备战新赛季！路威晒出机场照，将在费城训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/aee0b47ced837fa9842ca3a8fd4c24f120a8f1a8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 今日，快船后卫路易斯-威廉姆斯在其社交媒体Instagram上晒出一张费城机场的照片。
+   </p>
+   <p>
+    路威发文说道：“趣味事实：每个赛季开始之前我总是来到费城，和我的训练师Chuck Ellis以及这座城市中的其他专业伙伴一起工作。当我在这里时，我能感到一股能量和坚韧。[强壮emoji]”
+   </p>
+   <p>
+    路易斯威廉姆斯现效力于洛杉矶快船队，2018-19赛季常规赛，路威场均出场26.6分钟，可以得到20分3篮板5.4助攻。值得一提的是，路威连续两个赛季获得常规赛最佳第六人，这也是其职业生涯第三次获得该荣誉。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘胤江)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

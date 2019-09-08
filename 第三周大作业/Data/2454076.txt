@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特发推晒出自己训练营上凯尔特人小球迷改造球衣的视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EnesKanter/status/1150565073859043328" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 10:52:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特发推晒出自己训练营上凯尔特人小球迷改造球衣的视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/d37451545883c1471851c1ceed8c9a8adb360ebd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    虎扑7月15日讯 根据此前消息报道，中锋埃内斯-坎特于凯尔特人达成一份2年价值1000万美元的协议，第二年为球员选项，并且新赛季坎特将身披11号凯尔特人球衣。
+   </p>
+   <p>
+    今日，坎特发推晒出一段自己训练营上的视频（见GIF）并配文道：“太疯狂了。”
+   </p>
+   <p>
+    视频中，只见坎特叫上了一位身穿欧文凯尔特人11号球衣的小朋友，他将背后欧文的字样用贴纸贴住并且写上了坎特的名字。
+   </p>
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    <img alt="GIF 3.6M" src="https://c1.hoopchina.com.cn/uploads/images/20190715/11/932b4dc8952424febc0538c8d742343e.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

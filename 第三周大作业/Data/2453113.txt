@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷-杨：到我的第五个赛季时，预测自己会夺一次冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/hawks-news-trae-young-sees-himself-winning-championship-being-3-time-all-star-by-his-5th-season/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 14:38:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷-杨：到我的第五个赛季时，预测自己会夺一次冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/b37e77fc2be4a7ca41a3dd1a01e9141dcfc4d4ab.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 老鹰后卫特雷-杨近日接受了记者Michael Jacobs的采访，预测自己到了第五个赛季所能获得的成就。
+   </p>
+   <p>
+    特雷-杨表示：“到那会，我预测到自己会拿到一次冠军，也可能是两次；已经参加了三到四次全明星赛。我坚信自己在未来能完成很多很酷的事，不管是球队层面还是个人层面。我没有必要给自己设置界限，我就是感觉到了很多的可能性。”
+   </p>
+   <p>
+    在2018-19赛季，特雷-杨场均上场30.9分钟，得到19.1分3.7篮板8.1助攻0.9抢断。在今年的最佳新秀评比中，不敌卢卡-东契奇排在第二。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

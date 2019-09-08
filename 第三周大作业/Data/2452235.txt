@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔：篮网就像大学前的高中阶段，让我完善自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1068823/2019/07/09/dangelo-russell-on-leaving-the-nets-and-signing-with-the-warriors-in-free-agency/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 09:06:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔：篮网就像大学前的高中阶段，让我完善自己" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/038c3ee2afe80558542ef0d295dfe656c676044d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 根据此前的报道，丹吉洛-拉塞尔在一笔先签后换交易中被布鲁克林篮网队交易至金州勇士队。近日拉塞尔与勇士完成了正式签约，在接受The Athletic记者Michael Scotto采访时拉塞尔谈到了自己在布鲁克林的经历。
+   </p>
+   <p>
+    拉塞尔说道：“布鲁克林给我带来的都是非常好的经历。就像是上大学前的高中阶段，让你在上大学前变得更强一点。这就是我在布鲁克林的感觉。在那里我达到了自己需要达到的完全体形态，我感觉已经为自己的下一个篇章做好充分准备了。”
+   </p>
+   <p>
+    今夏拉塞尔受到了诸多球队的追捧，联盟中的许多人，甚至包括拉塞尔自己，都以为他最终会在森林狼与他的好友卡尔-安东尼-唐斯会和。若森林狼想以顶薪签下拉塞尔，他们必须交易安德鲁-威金斯或者同时交易杰夫-蒂格和戈尔吉-吉昂，以创造出可以容纳拉塞尔四年顶薪合同的薪资空间。
+   </p>
+   <p>
+    但最终勇士成功得到拉塞尔，对此拉塞尔说到：“我不觉得有谁能真正预测到，直到交易发生。事情发生前你能听到很多版本的说法。你无法预测将会发生什么，我感觉今夏的交易和签约让所有人都觉得惊讶。”
+   </p>
+   <p>
+    谈到自己将在斯蒂芬-库里和克莱-汤普森身边打球，拉塞尔说到：“我把这看作一次学习的机会，能在联盟顶尖的两位球员身边打球。我觉得这是我可以利用的一个学习机会，场上场下我都可以向他们学习。”
+   </p>
+   <p>
+    拉塞尔上赛季帮助篮网取得了常规赛东部第六的成绩，他清楚勇士有着更高的期望值。拉塞尔说到：“我觉得这会很特别，当你在阵容里加入了一些有投射能力的球员，我觉得已经是一个提升。他们已有的核心里又得到了补充，我觉得新赛季的勇士会是与众不同的。”
+   </p>
+   <p>
+    “我觉得自己在联盟里也算是年轻的老兵了，同时我每天都在努力变得更强。”拉塞尔说到。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔在篮网场均出场30.2分钟，可以得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

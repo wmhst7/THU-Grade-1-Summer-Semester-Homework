@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯评克利夫兰海报被拆：传递的精神会永存
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SportsCenter/status/1146497003569983488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 10:44:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯评克利夫兰海报被拆：传递的精神会永存" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/142fba9bb2967a1ad69249588a8572ee29145b88.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 今天美国媒体Sports Center晒出一年前勒布朗-詹姆斯在克利夫兰的海报被拆除的照片，并写道：“一年前，勒布朗在克利夫兰的海报被拆下。”
+   </p>
+   <p>
+    随后勒布朗-詹姆斯在底下回复道：“广告牌和旗帜（除非是总冠军旗帜）总是会来来去去，但它挂起时给人传递的精神会永存。”
+   </p>
+   <p>
+    詹姆斯2014-15赛季重回骑士，连续4年打进总决赛，并在2015-16赛季为骑士带回队史第一座总冠军奖杯。2018年夏天詹姆斯选择加盟湖人，随后他在克利夫兰的广告牌被拆下。
+   </p>
+   <p>
+    上赛季詹姆斯在湖人场均出战35.2分钟，能得到27.4分8.5篮板8.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

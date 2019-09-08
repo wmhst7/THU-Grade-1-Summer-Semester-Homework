@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船掘金开拓者等队参加斯塔德迈尔和埃利斯的试训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Schultz_Report/status/1148452431602343937" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 21:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船掘金开拓者等队参加斯塔德迈尔和埃利斯的试训" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/5340363f9ae33659243f4aa9e5722c9136ca4e14.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据NBA记者Jordan Schultz的报道，参加今日阿马雷-斯塔德迈尔和蒙塔-埃利斯在拉斯维加斯试训的球队还包括国王、掘金、开拓者、魔术、老鹰、森林狼和快船。
+   </p>
+   <p>
+    根据之前的报道，斯塔德迈尔和埃利斯在当地时间7月8日下午6点到7点在拉斯维加斯为NBA球队试训，湖人、勇士、尼克斯、雷霆、雄鹿、活塞和奇才参加了试训。
+   </p>
+   <p>
+    斯塔德迈尔职业生涯至今共出战846场NBA常规赛，场均上场31.0分钟，得到18.9分7.8篮板1.2助攻0.8抢断1.2盖帽。
+   </p>
+   <p>
+    埃利斯职业生涯至今共出战833场NBA常规赛，场均上场34.8分钟，得到17.8分3.5篮板4.6助攻1.7抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺5名球员2K能力值公布：德罗赞87，阿尔德里奇87
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1161834151550439424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 11:18:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺5名球员2K能力值公布：德罗赞87，阿尔德里奇87" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/c40e8ed173bf56a6a3cac5e01ba3d839c0261f1d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，马刺有5名球员的能力值已经确定。
+   </p>
+   <p>
+    这5名球员的2K20初始能力值为：
+   </p>
+   <p>
+    拉马库斯-阿尔德里奇 87
+   </p>
+   <p>
+    德马尔-德罗赞 87
+   </p>
+   <p>
+    德章泰-默里 78
+   </p>
+   <p>
+    德里克-怀特 78
+   </p>
+   <p>
+    雅各布-珀尔特尔 77
+   </p>
+   <p>
+    2018-19赛季常规赛，拉马库斯-阿尔德里奇场均出场33.2分钟，得到21.3分9.2篮板2.4助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，德马尔-德罗赞场均出场34.9分钟，得到21.2分6.0篮板6.2助攻1.12抢断。
+   </p>
+   <p>
+    德章泰-默里在2018-19赛季的季前赛中受伤，因为右膝十字韧带撕裂缺席了整个赛季。在2017-18赛季，默里场均出场21.5分钟，得到8.1分5.7篮板2.9助攻1.2抢断，并入选最佳防守阵容二阵。
+   </p>
+   <p>
+    2018-19赛季常规赛，德里克-怀特场均出场25.8分钟，得到9.9分3.7篮板3.9助攻1.00抢断0.70封盖。
+   </p>
+   <p>
+    2018-19赛季常规赛，雅各布-珀尔特尔场均出场16.5分钟，得到5.5分5.3篮板1.2助攻0.9盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

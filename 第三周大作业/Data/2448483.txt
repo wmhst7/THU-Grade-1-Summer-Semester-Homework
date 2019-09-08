@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉沙德-沃恩和邓-阿德尔将为火箭出战夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1145116592621137921" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 08:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉沙德-沃恩和邓-阿德尔将为火箭出战夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/ad20f0f86ce3a1cf181122ea870da5597a1e3066.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据Fox26记者Mark Berman的报道，消息人士透露，罗尔-阿尔金斯、拉沙德-沃恩和邓-阿德尔将为火箭出战夏季联赛。
+   </p>
+   <p>
+    前巴克内尔大学野牛队前锋扎克-托马斯会为火箭出战夏季联赛，他是去年的落选秀。
+   </p>
+   <p>
+    另外，前卡尼修斯学院金狮鹫兽队前锋以赛亚-里斯也会为火箭出战夏季联赛，他是今年的落选秀。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

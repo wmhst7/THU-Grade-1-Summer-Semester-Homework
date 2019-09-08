@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约什-杰克逊与检察官达成辩诉交易，指控很可能会被撤销
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/16/josh-jackson-plea-deal-cop-shoving-case-nba-grizzlies/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 08:24:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约什-杰克逊与检察官达成辩诉交易，指控很可能会被撤销" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/0eba8e9d258abd6b2ab6ef7c7e1f05308f7d4f9c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 根据TMZ体育的报道，他们已经获知灰熊前锋约什-杰克逊已经与检察官达成了辩诉交易，他的指控很可能会被撤销。
+   </p>
+   <p>
+    根据之前的报道，杰克逊今年5月在迈阿密花园举行的Rolling Loud音乐节上被拘捕，杰克逊在没有通行证的情况下曾多次试图进入VIP区域。在警察将杰克逊拷上手铐之后，他曾试图逃跑，他被控告逃逸及拒捕。
+   </p>
+   <p>
+    辩诉交易是指在法院开庭审理之前，作为控诉方的检察官和代表被告人的辩护律师进行协商，以检察官撤销指控、降格指控或者要求法官从轻判处刑罚为条件，来换取被告人的有罪答辩，进而双方达成均可接受的协议。通俗的说，辩诉交易就是在检察官与被告人之间进行的一种“认罪讨价还价”行为。通过这样一种制度，检察官、法官可以用最少的司法资源处理更多的刑事案件提高办案效率同时罪犯也得到了较之原罪行减轻了一定程度的刑事制裁，从而对双方都有利，形成一种双赢的局面。
+   </p>
+   <p>
+    为了达成辩诉交易，杰克逊将完成某种审前干预计划，这通常包括参加社区服务或者接受自我提升课程。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

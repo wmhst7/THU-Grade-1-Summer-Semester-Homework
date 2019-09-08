@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特和篮网达成协议，将4年1.64亿美元签约篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145437060519604224" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 04:54:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特和篮网达成协议，将4年1.64亿美元签约篮网" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/a90b49f1b29578df05d29893c2cf8e4a4b1f88ff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，凯文-杜兰特和篮网达成4年1.64亿美元的口头协议（The Athletic记者Shams Charania一开始报道合同总金额为1.42亿，后修改为1.64亿）。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2448823.html">
+     此消息已经由杜兰特将在个人旗下公司社交媒体The Boardroom上宣布。
+    </a>
+   </p>
+   <p>
+    根据Woj后续报道，篮网还将在自由市场上得到凯里-欧文与德安德烈-乔丹，欧文和布鲁克林篮网达成4年1.41亿美元的口头协议，小乔丹也将加盟篮网。
+   </p>
+   <p>
+    据ESPN记者Bobby Marks报道，为了同时以顶薪签下杜兰特与欧文，篮网将需要至少再对阵容做一处变动。且由于杜兰特薪资高于欧文薪资，篮网距离能够提供第二份顶薪合同仍相差120万美元空间。
+   </p>
+   <p>
+    职业生涯至今，杜兰特共效力过雷霆与勇士两支球队，2018-19赛季常规赛，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻0.74抢断1.08盖帽；欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断0.51盖帽；小乔丹场均上场29.7分钟，得到11.0分13.1篮板2.3助攻1.06盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

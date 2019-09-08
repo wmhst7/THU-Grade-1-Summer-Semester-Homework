@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  已逝雷霆股东奥布里-麦克莱登22%的股份将被出售
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bloomberg.com/news/articles/2019-07-11/aubrey-mcclendon-s-thunder-stake-is-said-to-be-put-up-for-sale" target="_blank">
+     彭博商业周刊
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 04:40:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="已逝雷霆股东奥布里-麦克莱登22%的股份将被出售" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/468ea3cfec7f0288b0dc025bb4397411b46a30b4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据彭博商业周刊记者Scott Soshnick报道，由奥布里-麦克莱登持有的22%的俄克拉荷马雷霆队股份将被出售。
+   </p>
+   <p>
+    据知情人士透露，雷霆22%的股份将被出售，这笔出售将由投资银行Inner Circle Sports进行运作。由于这是一个私密的过程，相关人士都拒绝对此发表评论。
+   </p>
+   <p>
+    根据福布斯的计算，雷霆价值15亿美元，在30支球队中排名第18。
+   </p>
+   <p>
+    麦克莱登毕业于名校杜克大学，是切萨皮克能源集团的创始人之一，曾经担任切萨皮克能源集团CEO一职。2016年3月3日不幸在一场车祸中逝世，享年56岁。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

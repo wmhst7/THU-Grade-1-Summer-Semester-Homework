@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人不知道快船和猛龙都在试图为伦纳德交易得到乔治
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/la-sp-kawhi-leonard-lakers-jeanie-buss-meeting-20190706-story.html?outputType=amp" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 15:19:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人不知道快船和猛龙都在试图为伦纳德交易得到乔治" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/925297b56764853078e722106cfde06b470c7112.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 《洛杉矶时报》记者Tania Ganguli今日撰文报道了关于湖人招募科怀-伦纳德经过的一些幕后情况。
+   </p>
+   <p>
+    据Tania报道，据熟悉会面情况的消息人士透露，当地时间周二，湖人总经理罗勃-佩林卡和老板珍妮-巴斯在洛杉矶地区西湖村的一家四季酒店的会议室内与伦纳德、伦纳德的舅舅Dennis Robertson以及经纪人Mitch Frankel展开了会面。
+   </p>
+   <p>
+    上周六，伦纳德和他的舅舅曾数次致电湖人名宿魔术师约翰逊。他们想知道，一年前伦纳德向马刺提出交易申请时，湖人是否尝试通过交易得到他。鉴于魔术师曾发表的关于佩林卡“背叛他”的负面言论，他们对于佩林卡也有疑问。魔术师在通话中为湖人和湖人管理层说了不少好话。一开始，伦纳德的阵营只允许珍妮-巴斯出席会面，随后他们重新考虑，要求佩林卡也出席会面。尽管外界一度认为湖人在伦纳德争夺战中领跑，但伦纳德阵营在私下里坚持认为情况并非如此。
+   </p>
+   <p>
+    伦纳德于周一前往快船主帅道格-里弗斯位于马里布的家中与快船人员进行会面。他于周三飞往多伦多与猛龙会面。中间的那天是湖人的机会，珍妮-巴斯和佩林卡完成了他们的招募游说。湖人传统上喜欢用星光前景和场下名气招募球星加盟，但他们在对伦纳德的招募中将话题主要集中于篮球层面，向他兜售他可以与超级球星队友勒布朗-詹姆斯及安东尼-戴维斯联手赢得多个总冠军的前景。这次会面持续了约2小时。
+   </p>
+   <p>
+    以沉默寡言著称的伦纳德没太说话，消息人士透露，他的舅舅提出了一些问题，但魔术师对佩林卡的评价言论从未被提及。会面结束后，伦纳德的阵营感觉湖人在会面中职业地展示了自己。
+   </p>
+   <p>
+    在球队招募伦纳德的同时，伦纳德也在招募保罗-乔治。即便湖人想交易得到保罗-乔治，他们也做不到。湖人已经在安东尼-戴维斯的交易中几乎耗尽了交易资产。据熟悉湖人想法的消息人士透露，湖人完全不知道当时快船和猛龙都在尝试交易得到乔治，从而为伦纳德带来他所偏好的队友。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

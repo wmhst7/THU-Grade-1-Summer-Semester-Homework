@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍弗德初步计划将于亚特兰大与各支球队展开会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1049513/2019/06/27/nba-free-agency-mysteries-from-kawhi-to-kd-on-down-clues-emerge/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 00:13:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍弗德初步计划将于亚特兰大与各支球队展开会面" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/f83aecb8803e726bec0fb149e4015c3216381202.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据The Athletic记者Sam Amick报道，一位消息人士透露，自由球员艾尔-霍弗德初步计划将于亚特兰大与各支球队展开会面。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，艾 尔-霍弗德将不会执行其合同中价值3010万美元的下赛季球员选项，并寻求今夏以自由球员身份离开凯尔特人。
+   </p>
+   <p>
+    联盟消息人士透露，霍弗德方面与凯尔特人就一份新合同的谈判已经破裂，因为凯尔特人愿意提供的报价与霍弗德所寻求的长期合同之间差距过大。
+   </p>
+   <p>
+    联盟消息人士透露，凯尔特人篮球运营总裁丹尼-安吉预计不会再与霍弗德的经纪人Jason Glushon重启合同谈判。消息人士透露，霍弗德将进入自由市场，并且完全预计到自己三年的绿衫军生涯已经结束。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

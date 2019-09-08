@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黑暗中的连帽衫！詹姆斯发布深夜在车内听歌动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2101473121423943924?utm_source=ig_story_item_share&amp;igshid=10wrbeyr4dt3c" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 17:15:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黑暗中的连帽衫！詹姆斯发布深夜在车内听歌动态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/ea7f70330c63ee425030f867613212e4ef233a32.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 湖人前锋勒布朗-詹姆斯今日连续更新Instagram Story晒出新的一组听歌动态，而他此前连续发布的
+    <a href="https://voice.hupu.com/nba/2460874.html">
+     包含音乐和文字的几条动态目前已被删除
+    </a>
+    。
+   </p>
+   <p>
+    詹姆斯首先发布了一张著名歌手Drake创作的名为《现在如何》的歌曲截图，随后连续发布全黑背景的歌曲片段。詹姆斯又晒出Drake另一首名为《信任问题》的歌曲截图，并在歌名旁标出一串感叹号。“太及时了@Drake”詹姆斯配文道。在最后两段自拍中，詹姆斯身穿连帽衫坐在车内听歌，其身影在黑暗中若隐若现。
+   </p>
+   <p>
+    值得一提的是，詹姆斯发布这些听歌动态的时间已经来到了洛杉矶当地时间今天凌晨2点。
+   </p>
+   <p>
+    <img alt="GIF 1M" src="https://c1.hoopchina.com.cn/uploads/images/20190802/20/48ca91f1d28ead54f090f707694b0afd.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 1M" src="https://c1.hoopchina.com.cn/uploads/images/20190802/20/7a301fbfb28b104010f6d9932d8ffacf.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190802/17/eca7ae654dec0a85dc46829061479bfc.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190802/17/c923427eceafe529ef32c336060de1a8.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

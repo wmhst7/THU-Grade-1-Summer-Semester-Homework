@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安吉：海沃德下赛季会更好，希望自由市场能在选秀之前
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisForsberg_/status/1143190834663366656" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 09:29:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安吉：海沃德下赛季会更好，希望自由市场能在选秀之前" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/6c1447444e511072b6671825e5b0bb59d1c3deac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     凯尔特人总裁丹尼-安吉今天接受了记者采访，谈到了关于球队的许多话题。
+    </span>
+   </p>
+   <p>
+    前锋戈登-海沃德本赛季的表现不尽如人意，对此安吉力挺道：“我认为明年他会拥有一个更出色的赛季。我们都知道，他和其他所有人一样都十分的刻苦训练，他付出了很多。我很期待他的下个赛季。”
+   </p>
+   <p>
+    谈到即将到来的自由市场 ，安吉表示：“目前我们有不同的机会，我们有很好的灵活性，虽然还不知道具体得到谁，在接下来的这周里，我们会弄明白到底有机会做些什么。”
+   </p>
+   <p>
+    最后安吉还表示：“希望自由市场能在选秀大会之前开启。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

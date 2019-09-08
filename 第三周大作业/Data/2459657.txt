@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马库斯-斯马特笑谈：我在防守时会假摔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/marcus-smart-defends-flopping-i-flop-defense-your-favorite-player-flops-offense" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:24:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马库斯-斯马特笑谈：我在防守时会假摔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/468472ed55d26d1b8288e4fe76a06687eed801e9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 在做客ESPN的《The Jump》节目时，凯尔特人后卫马库斯-斯马特还谈到了关于“假摔”的话题。
+   </p>
+   <p>
+    “我防守时会假摔，而你们喜欢的球员在进攻时假摔，”斯马特说道，“这是唯一的区别，特别是在现在进攻更占优势时，防守一方必须做些什么来夺回优势。”
+   </p>
+   <p>
+    斯马特接着表示，他指的是进攻球员与防守球员之间长时间频繁的接触时，如果任何人身体上有那么一点动作，防守球员通常是被吹哨的一方。
+   </p>
+   <p>
+    之后主持人谈起了在2016年季后赛凯尔特人对阵老鹰的一次拼抢篮板时，斯马特在凯尔-科沃尔身边的一次夸张倒地的镜头。
+   </p>
+   <p>
+    “那是一次假摔，让我们直说吧，那就是一次假摔，而且有点滑稽，所以在那之后发生的一切说法都是我应得的。”斯马特笑着承认道。
+   </p>
+   <p>
+    <img alt="" src="https://wx4.sinaimg.cn/mw1024/3ed1808dly1g5hpe77iusj20gq09bt9l.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

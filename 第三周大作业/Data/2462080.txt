@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：前锋德胡安-布莱尔加盟意大利联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/VLPesaro/status/1158446006331150337?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1158446006331150337&amp;ref_url=https%3A%2F%2Fsportando.basketball%2Fen%2Fcarpegna-prosciutto-p" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 06:10:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：前锋德胡安-布莱尔加盟意大利联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/62d6f32e2f77140422ad1c0aa7019d82d8177f94.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 意大利联赛俱乐部VL Pesaro今日官方宣布，球队已与前锋德胡安-布莱尔签下为期一年加盟合同。
+   </p>
+   <p>
+    布莱尔于2009年被马刺以次轮第7顺位选中，曾效力于马刺、独行侠和奇才，总共出战过424场NBA常规赛，场均出场16.6分钟，可以得到6.8分5.1篮板0.8助攻。
+   </p>
+   <p>
+    2016-17赛季，布莱尔曾效力过中国CBA同曦队，总共出场10次，场均可以砍下24.1分13.6篮板。
+   </p>
+   <p>
+    随后，2017年12月，布莱尔加盟阿根廷球队CASLA Básquet。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

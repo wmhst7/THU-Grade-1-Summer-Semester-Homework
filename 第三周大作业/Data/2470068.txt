@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：在博古特结束澳大利亚联赛征程后，很有兴趣签下他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1166613672908775424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 16:00:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：在博古特结束澳大利亚联赛征程后，很有兴趣签下他" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/0377724f80b683ef8ccfb334ff2e2e5924e5d2f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 勇士主教练史蒂夫-科尔在近日接受《每日电讯报》记者Matt Logue采访时谈到了安德鲁-博古特。
+   </p>
+   <p>
+    据此前的相关报道，博古特与NBL联赛（澳大利亚国家篮球联赛）球队悉尼国王队完成签约。科尔表示在博古特结束澳大利亚联赛征程后，他非常有兴趣引进这位34岁的中锋作为球队补充。
+   </p>
+   <p>
+    “我们非常高兴球队上赛季能够签下Bogues（博古特），”科尔说道，“我认为对于他而言，在悉尼打球是非常理想的情况，部分原因是回家了，这里拥有比NBA更好的生活方式和日程安排，到了职业生涯的这个阶段，这对于他的身体和心态都是更好的选择。所以，当他重新回到NBA时，我感觉他的状态非常棒，立刻就为球队带来了影响。如果Bogues想要重新回到NBA，把他带回球队会是我想要做的事情。在我看来，安德鲁似乎又恢复了活力，他现在的表现比过去几年都要出色。”
+   </p>
+   <p>
+    博古特在上赛季结束NBL联赛征程之后选择与勇士签约，共代表勇士出战11场常规赛，场均出场12.2分钟，能够得到3.5分5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

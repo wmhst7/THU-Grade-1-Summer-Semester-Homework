@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特谈绿衫军被低估：我们是没有退路的草原狼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1166036211884077056?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 08:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特谈绿衫军被低估：我们是没有退路的草原狼" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/e70d8404ae3fbc333c834069d673b1d7d6f27ec1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 凯尔特人球员马库斯-斯马特接受采访时表示，他喜欢凯尔特人被人低估。
+   </p>
+   <p>
+    “我非常喜欢这一点，我在生活中一直都不被人看好，这很疯狂，你把一头受伤的草原狼逼到角落里，你最好准备好拼到死，因为草原狼会拼上一切。”斯马特说道。
+   </p>
+   <p>
+    斯马特接着说：“对我们来说，我们就是那头草原狼，我们身后没有退路，没人相信我们，我们必须拼出一条出路，我们准备好这么做了，我喜欢被低估，这样很安静，人们都忘了我们，这会让他们放松警惕。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

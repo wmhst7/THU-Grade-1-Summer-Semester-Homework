@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  祖巴茨发布训练照：让我们开始吧！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BztuWYBnend/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 11:04:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="祖巴茨发布训练照：让我们开始吧！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/e13c19c16b6c53f4039ffcb551e79183fd9cd18d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今天快船球员伊维察-祖巴茨在Instagram上晒出了一张自己在健身房训练的照片。
+   </p>
+   <p>
+    祖巴茨写道：“让我们开始吧！”
+   </p>
+   <p>
+    据此前的报道，伊维察-祖巴茨已经与快船达成一份4年2800万的合同，留守快船。2018-19赛季常规赛，祖巴茨场均出场17.6分钟可以得到8.9分6.1篮板。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2451010&amp;type=1&amp;entrance=26">
+     Woj：祖巴茨4年2800万合同留守快船
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

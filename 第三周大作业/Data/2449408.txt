@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达里厄斯-加兰社媒公布签约：感谢骑士，我准备好了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzZeWMSj8YE/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:00:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达里厄斯-加兰社媒公布签约：感谢骑士，我准备好了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/524738f2ad7d15d24d353b13f981f0ed791fe511.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 骑士新秀达里厄斯-加兰在个人社交媒体Instagram上发布照片，宣布自己与球队正式签约。
+   </p>
+   <p>
+    加兰写道：“非常感谢骑士。签约已完成，准备出发。”
+   </p>
+   <p>
+    加兰今年19岁，身高1.88米，体重79公斤，司职控球后卫，2018-19赛季在NCAA作为范德堡大学球员出场5次，场均出战27.8分钟，能够贡献16.2分3.8篮板2.6助攻0.8抢断0.4盖帽。加兰赛季中接受了半月板手术，缺席了之后的所有比赛。骑士在今年选秀大会上用五号签选中了他。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/11/833845a80daf4f0a55d7eaab520aed03.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/11/60492e864a988dc294bd0486d3fba693.jpg"/>
+    ​
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

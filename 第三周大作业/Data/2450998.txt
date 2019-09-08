@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：篮网与老鹰正式达成克拉布和普林斯为主体的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BrooklynNets/status/1147546827853565953" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 00:54:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：篮网与老鹰正式达成克拉布和普林斯为主体的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/efa9816deba91f7c6be30bd0ed6af783a7dfff8f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今日篮网官方宣布，球队正式与老鹰完成交易，送出阿伦-克拉布、17号秀亚历山大-沃克和受保护的2020年首轮选秀权，得到托里恩-普林斯和2021年的次轮选秀权。
+   </p>
+   <p>
+    消息人士透露，篮网交易至老鹰的2020年首轮选秀权为第1-14顺位乐透保护。据NBA记者Zach Lowe报道，消息人士透露，若2020年该选秀权的签位落在受保护顺位（第1-14乐透顺位范围），则老鹰得到篮网2021年的乐透保护首轮签；若这个选秀权仍落在被保护范围，则老鹰得到篮网2022年的乐透保护首轮签，在那之后，若该首轮选秀权的顺位仍被保护，则它将自动转化为两个次轮选秀权。
+   </p>
+   <p>
+    2017-18赛季常规赛，克拉布场均上场26.3分钟，得到9.6分3.4篮板1.1助攻，普林斯场均上场28.2分钟，得到13.5分3.6篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

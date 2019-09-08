@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布里奇斯：这个夏天对我而言非常重要，我知道我必须努力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1118883/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 17:15:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布里奇斯：这个夏天对我而言非常重要，我知道我必须努力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/ebfde3cdd7684b317852678a1ef03795798cc43a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 黄蜂球员迈尔斯-布里奇斯在近日接受了The Athletic记者Roderick Boone采访，他谈到了休赛期的训练以及下赛季的前景。
+   </p>
+   <p>
+    布里奇斯即将迎来职业生涯第二个赛季，随着肯巴-沃克的离队，他很清楚自己需要承担起更大的责任。
+   </p>
+   <p>
+    “我知道这个夏天对于我而言非常重要，”布里奇斯说道，“我肯定会比去年更具饥饿感，因为肯巴不再是球队中的一员。我只是想要成为一名更加出色的球员，我知道球队中的年轻人需要承担起更多的领导责任。我和马文（威廉姆斯），Nic（尼古拉斯-巴图姆）以及刚刚加盟球队的特里-罗齐尔，我们必须取得进步，我知道我必须付出努力。”
+   </p>
+   <p>
+    谈到前队友沃克对于自己的帮助，布里奇斯说：“当肯巴在队中的时候，他教会了我很多东西，我会尝试将学到的东西在下赛季付诸于实践。但是不再与肯巴并肩作战，这种感觉会很奇怪。就像我刚才所说的那样，球队中的老将和年轻人都需要挺身而出。”
+   </p>
+   <p>
+    谈到球队下赛季的前景，布里奇斯说：“现在很多人都在质疑我们，他们甚至认为我们无法得到两位数的胜场，所以我只想踏上赛场去证明我们是一支充满饥饿感的球队，我们很年轻，我们依旧有实力打进季后赛。球队的年轻核心在上赛季也接近打进季后赛，所以我感觉我们在下赛季也能够做到同样的事情。”
+   </p>
+   <p>
+    谈到下赛季在小阵容中担当四号位的可能性，布里奇斯说：“我感觉NBA的趋势就是无位置篮球，所以我对此并不担心。我会继续打磨自己的比赛，无论教练安排我做什么，我都义不容辞。”
+   </p>
+   <p>
+    谈到球队新援罗齐尔，布里奇斯说：“他和我们拥有同样的心态，他今年26岁，也是一个年轻人，外界对他也有很多质疑，质疑他能否融入球队，能否起到领袖作用。因此他和我拥有同样的心态，就是做好准备努力赢球。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

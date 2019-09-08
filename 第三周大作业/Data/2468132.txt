@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿米奴更新社媒：我在广州白云国际机场丢失了我的行李
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/chiefhasarrived/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 23:00:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿米奴更新社媒：我在广州白云国际机场丢失了我的行李" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/fed7b528d3c19bf50c5632a11de1fb5292b9aebe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 今日，魔术前锋、尼日利亚国家队成员艾尔-法鲁克-阿米奴更新了个人社交媒体Instagram晒出一张趣图（见新闻配图）。
+   </p>
+   <p>
+    只见图中配文道：“我丢失了我的行李（lost bags）。”坐标是广州白云国际机场。
+   </p>
+   <p>
+    值得一提的是，阿米奴继承了尼日利亚的皇室血脉，他的名字艾尔-法鲁克有着“首领已经降临”的含义。作为尼日利亚男篮的标志性人物，他先后代表尼日利亚男篮出战了奥运会、非锦赛等重大赛事，并在2015年非锦赛中随队夺冠，个人入选赛事最佳阵容。
+   </p>
+   <p>
+    本届世界杯，尼日利亚与俄罗斯、阿根廷、韩国同处B组，比赛将在武汉进行。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/22/04d8dab35a8c9280eb0818c7c01cdb6a.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

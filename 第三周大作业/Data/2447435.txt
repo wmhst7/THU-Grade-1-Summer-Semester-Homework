@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯正在关注凯尔特人是否会为罗齐尔开出资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/sources-knicks-keeping-an-eye-on-celtics-rfa-terry-rozier/308512432" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 07:29:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯正在关注凯尔特人是否会为罗齐尔开出资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/d704f11cf13f1a5261183823dd5cbffb66f58faf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Ian Begley报道，消息人士透露，尼克斯正在关注凯尔特人受限制自由球员特里-罗齐尔的动态，以便应对凯尔特人放弃提供资质报价让罗齐尔成为完全自由球员的情况。
+   </p>
+   <p>
+    据Begley报道，若尼克斯错失顶级自由球员，罗齐尔可能成为他们转而追逐的球员之一。
+   </p>
+   <p>
+    据The Athletic记者Shams Charania报道，联盟消息人士透露，尼克斯被视为受限制自由球员罗齐尔的潜在下家之一。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

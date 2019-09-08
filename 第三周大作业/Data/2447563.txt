@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜克双子星！威廉森巴雷特球衣销量已创新秀球衣销量纪录
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/06/25/zion-williamson-and-rj-barrett-are-already-shattering-records/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 13:56:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜克双子星！威廉森巴雷特球衣销量已创新秀球衣销量纪录" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/e579ebaa7530d56af3781258851fa08169d246d7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据Fanatics（NBA球衣特许经销商）的统计，尽管新赛季还未拉开帷幕，但今年被鹈鹕选中的状元蔡恩-威廉森与被尼克斯选中的探花RJ-巴雷特的球衣销量已经创造了历年新秀球衣销量纪录。
+   </p>
+   <p>
+    在被鹈鹕选中后的5天内，售出的威廉森鹈鹕球衣及T恤已超过所有2018年一轮秀球衣销量总和。
+   </p>
+   <p>
+    巴雷特的球衣销量尽管落后于威廉森，但也已经是前新秀球衣销量纪录保持者、鹈鹕后卫朗佐-鲍尔球衣销量的两倍。
+   </p>
+   <p>
+    威廉森和巴雷特都来自杜克大学，两人大学期间是室友。在2018-19赛季代表杜克出场的比赛中，威廉森场均出场30.0分钟，得到22.6分8.9篮板2.1助攻2.1抢断1.8盖帽；巴雷特场均出场35.3分钟，得到22.6分7.6篮板4.3助攻0.9抢断0.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

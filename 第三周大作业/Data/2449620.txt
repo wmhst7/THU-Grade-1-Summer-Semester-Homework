@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  公牛与法国后卫亚当-莫科卡签下一份双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/bulls-to-sign-adam-mokoka-to-two-way-deal.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 02:16:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="公牛与法国后卫亚当-莫科卡签下一份双向合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/3041b5f02ec96e295cac22bf326b73a499ace613.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据The Athletic记者Darnell Mayberry的报道，公牛与法国后卫亚当-莫科卡签下一份双向合同。
+   </p>
+   <p>
+    签订双向合同的球员既是发展联盟的球员也是NBA球员，此类球员大多数时间是发展联盟的球员，但他可以为其NBA母队效力45天，薪水按天计算，薪水的数额取决于所在球队，在执行双向合同期间他只能为附属的球队打球。
+   </p>
+   <p>
+    莫科卡来自于法国，身高1米96，体重86公斤，司职得分后卫，他在今年的选秀中落选。上赛季他在塞尔维亚联赛的Mega Bemax俱乐部效力，共出场18次，场均出场27分钟，得到11分3.7篮板3.1助攻，投篮命中率38%，三分命中率32%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

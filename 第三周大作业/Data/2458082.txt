@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆已经裁掉前锋唐特-格兰瑟姆
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/thunder-waive-donte-grantham.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 06:30:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆已经裁掉前锋唐特-格兰瑟姆" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/7ab3054b518b7f19b669ab7bae04348f800977a5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 根据报道，雷霆今日已经裁掉前锋唐特-格兰瑟姆。
+   </p>
+   <p>
+    前锋唐特-格兰瑟姆现年24岁，身高2.03米，体重98公斤，他是2018年的落选秀，来自克莱姆森大学，2018年与雷霆签下一份多年的双向合同。2017-18赛季，格兰瑟姆在克莱姆森大学场均出战31.8分钟，可以拿到14.2分6.9篮板2.4助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，格兰瑟姆代表雷霆出战了三场NBA常规赛，2投0中，未有得分进账。
+   </p>
+   <p>
+    上赛季，代表雷霆发展联盟附属球队俄克拉荷马城蓝色队总共出战了34场发展联盟的比赛，场均可以得到10.5分6.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

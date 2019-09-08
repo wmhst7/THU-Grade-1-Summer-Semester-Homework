@@ -1,0 +1,48 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿龙-戈登晒出自己在球队训练馆训练后的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0PwBrShy7a/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 14:35:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿龙-戈登晒出自己在球队训练馆训练后的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/b28aba2389f954823523cfb50456c4cdb63506f2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日魔术前锋阿龙-戈登更新了自己的个人社交媒体Instagram，晒出了一张自己在魔术训练馆的照片(见新闻配图)并配文道：“准备好运动……我们知道生命在于运动。”
+   </p>
+   <p>
+    2018-19赛季常规赛，戈登场均出场33.8分钟，得到16.0分7.4篮板3.7助攻；季后赛场均出场32.8分钟，得到15.2分7.2篮板3.6助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/14/2ba4e3618e51712206b36ee0238645f2.jpg"/>
+    ​
+   </p>
+   <span id="editor_baidu">
+    (编辑：Nerbo)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

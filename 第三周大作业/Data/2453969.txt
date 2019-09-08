@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  步行者将阿利兹-约翰逊下赛季合同转为全额保障
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/insider/2019/07/14/pacers-guarantee-alize-johnsons-2019-20-contract/1701210001/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 03:21:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="步行者将阿利兹-约翰逊下赛季合同转为全额保障" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/5d87e41b1d1a8d8393c13bc78ad14366c11ca2bd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 根据《印第安纳波利斯星报》记者J. Michael的报道，步行者将前锋阿利兹-约翰逊下赛季的合同转为全额保障。
+   </p>
+   <p>
+    阿利兹-约翰逊在2018年次轮第20顺位被步行者选中，并签下两年225万美元的合同，他下赛季的薪资为141万美元。
+   </p>
+   <p>
+    阿利兹上赛季仅为步行者出战14场，场均4.6分钟；他为步行者下属的韦恩堡疯蚁出战31场，场均19.1分13.7篮板。
+   </p>
+   <p>
+    今夏的拉斯维加斯夏季联赛，阿利兹出战5场比赛，场均30.6分钟能得到16.4分9.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

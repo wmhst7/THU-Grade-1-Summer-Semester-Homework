@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  慈世平：入选名人堂很有难度，我相信自己有机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/06/metta-world-peace-kobe-bryant-michael-jordan-nba-hall-of-fame/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 09:32:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="慈世平：入选名人堂很有难度，我相信自己有机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/de87ab79a08e7e5e0ff03d33d93c3c15e2f957c7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 前NBA球员慈世平在近日参加一档播客节目时谈到了自己的入选名人堂的可能性。
+   </p>
+   <p>
+    当被问及自己是否配得上入选名人堂时，慈世平说：“就我的防守角度而言，毫无疑问。这并不是我自己说的，当你得到雷吉-米勒的评价，‘他是历史上最出色的防守球员，’科比（布莱恩特）也说你是历史上最出色的侧翼防守球员。科怀（伦纳德）很出色，但当我离开联盟之后重新回来时，科怀对我说，‘哥们儿，你去哪了？很高兴能够看到你回来。’迈克尔-乔丹，我最喜欢的球员之一，他在我职业生涯初期也称赞过我，这都是在接受媒体采访时说的，都是有记录的。”
+   </p>
+   <p>
+    “但他们不会将这些事情发布出来，因为很多人并不想看到我入选名人堂，我永远都不会害怕说出自己的内心想法，我永远都不想顺从成为一个听话的家伙，我永远都不在乎。但这些都是年轻的我会做的事情，现如今我必须向现实屈服，现在的我和以前有所不同了。在我年轻的时候，我并没有得到多少尊重。总而言之，入选名人堂很有难度，我相信自己有机会，我也很高兴我最喜欢的球员之一迈克尔-乔丹能够认可我。”慈世平说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

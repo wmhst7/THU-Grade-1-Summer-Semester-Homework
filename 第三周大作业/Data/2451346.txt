@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：国王与第55顺位新秀凯尔-盖伊签下双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/kings/news/kings-sign-kyle-guy-two-way-contract" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 02:39:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：国王与第55顺位新秀凯尔-盖伊签下双向合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/7c8090ac32241101b7592c85f1c4cd4bc46fb2f9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 萨克拉门托国王队官方宣布，球队已经跟今年的第55顺位新秀凯尔-盖伊签下一份双向合同。双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得更多的工资，此举的目的是希望他们不要前往海外打球。
+   </p>
+   <p>
+    在今年的选秀大会中，国王将47号签交易至尼克斯，换来55号签，并选中凯尔-盖伊。在为国王出战的四场夏季联赛中，盖伊场均出场27.3分钟，得到12.3分3.3篮板1.3助攻，其中在与中国队的比赛中，盖伊发挥出色，得到21分2篮板5助攻。
+   </p>
+   <p>
+    凯尔-盖伊身高1米89，体重76公斤，司职得分后卫。2018-19赛季常规赛，他为弗吉尼亚大学出场38场，场均的得到15.4分4.5篮板2.1助攻，投篮命中率45%，三分命中率43%；在疯狂三月，他率领弗吉尼亚大学获得队史首个全国锦标赛冠军，并荣膺锦标赛最终四强赛MVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

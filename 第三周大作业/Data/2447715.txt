@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老当益壮！詹姆斯转推：我一定要为03届球员守住阵地
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1144258521132875776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 23:53:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老当益壮！詹姆斯转推：我一定要为03届球员守住阵地" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/df96e6d3b1f3439a50d7c91ece9c9192ecb0cc2a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 湖人前锋勒布朗-詹姆斯刚刚通过推特转发了
+    <a href="https://voice.hupu.com/nba/2447672.html">
+     一家媒体发布的2003届选秀出身的NBA球员近况统计
+    </a>
+    。
+   </p>
+   <p>
+    “我一定要为我们这一届守住阵地！！！永远的03届，再创辉煌。#我就是王 #追逐伟大”詹姆斯写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/23/62ca6724638da448607cc76f1c9d6853.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

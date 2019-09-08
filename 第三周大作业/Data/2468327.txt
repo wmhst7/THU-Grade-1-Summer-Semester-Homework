@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人官方祝贺鲍勃-库西获得总统自由勋章
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1fEKJ-JR0o/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 11:22:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人官方祝贺鲍勃-库西获得总统自由勋章" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/e4d00a053d96562b87a0eafb078d3b3a1f091aaf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 波士顿凯尔特人队官方今天在Instagram上传了一张前球队成员鲍勃-库西的照片（见新闻配图）。
+   </p>
+   <p>
+    “祝贺凯尔特人传奇鲍勃-库西被授予总统自由勋章。”凯尔特人官方写道。
+   </p>
+   <p>
+    总统自由勋章是美国最高荣誉的文职勋章，由美国总统一年一度颁发，与国会金质奖章并列为美国最高的平民荣誉。
+   </p>
+   <p>
+    库西是凯尔特人名宿，职业生涯他共为凯尔特人效力13个赛季，在凯尔特人他场均出场36.5分钟，得到18.5分5.2篮板7.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

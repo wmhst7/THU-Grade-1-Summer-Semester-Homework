@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回应质疑？詹姆斯连续发布动态：这就是他们对你的看法
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2100930432676813325?utm_source=ig_story_item_share&amp;igshid=xecqka7r2x74" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 11:58:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回应质疑？詹姆斯连续发布动态：这就是他们对你的看法" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/b126f4b794a35c23da021770383f665fff89f7f9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 湖人前锋勒布朗-詹姆斯今天通过Instagram Story连续发布多条黑色背景的动态，疑似回应外界对他的批评。
+   </p>
+   <p>
+    “这就是他们对你的看法。好吧，让我们搞定它吧。”詹姆斯在两段动态中分别配文道。
+   </p>
+   <p>
+    值得一提的是，在詹姆斯发布这些视频动态中，其背景音一直被剪辑并反复出现“这就是他们对你的看法”这句说唱歌词，而在视频的结尾，则出现了“去你们的！XX的，我很高兴你们触发了这一切”的歌词。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4400811356335101">
+     视频：詹姆斯连续发布剪辑视频回应批评
+    </a>
+   </p>
+   <p>
+    （注：目前詹姆斯已经在Instagram Story中删除了这几条包含背景音乐的视频动态。）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190802/11/95f38c251dfcf390d0021a4bd5436607.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190802/11/11c8d91b20479b6646c276c6601c7373.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人新赛季赛程：揭幕战对阵凯尔特人，圣诞大战对阵雄鹿
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sixers/status/1160990114664894464/photo/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 04:07:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人新赛季赛程：揭幕战对阵凯尔特人，圣诞大战对阵雄鹿" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/28b5496de6ad89b8de129db6cbbe8ff9a472a3ce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 根据NBA官网的报道，费城76人队2019-20赛季赛程出炉。76人将在北京时间10月24日揭幕战对阵凯尔特人队，而常规赛收官战则是北京时间4月16日对阵黄蜂。
+   </p>
+   <p>
+    重点比赛（均为北京时间）：
+   </p>
+   <p>
+    10月23日对阵凯尔特人
+   </p>
+   <p>
+    11月25日对阵猛龙
+   </p>
+   <p>
+    12月16日对阵篮网
+   </p>
+   <p>
+    12月25日对阵雄鹿
+   </p>
+   <p>
+    1月4日对阵火箭
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/04/20b89b661b7129f6317a90148b6ca1d1.jpg"/>
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

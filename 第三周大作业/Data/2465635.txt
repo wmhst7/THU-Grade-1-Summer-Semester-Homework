@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里：不想谈论我是队中最老球员这件事，不担心额外训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1134433/2019/08/14/steph-curry-is-now-the-warriors-oldest-player-has-it-sunk-in-no/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 12:34:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里：不想谈论我是队中最老球员这件事，不担心额外训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/3b56316d17db50ac33aded4364e17b62aff2d7ab.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 近日，勇士后卫斯蒂芬-库里接受了The Athletic记者Anthony Slater的采访。
+   </p>
+   <p>
+    谈到自己现在是勇士队中年龄最大的球员一事，库里说：“这件事留下了深刻印象吗？没有。人们一直在提醒我这件事吗？是的。”
+   </p>
+   <p>
+    今年选秀大会上，阿伦-斯马伊拉吉奇在次轮第9顺位被鹈鹕选中，后被送至勇士。斯马伊拉吉奇出生于2000年，在本周刚满19岁。
+   </p>
+   <p>
+    对此，库里大笑着说：“2000年，我记得，那时候我11岁了。这太疯狂了，我已经觉得我年纪够大了，所以我不想回答这个问题。”
+   </p>
+   <p>
+    谈到勇士今夏在人员方面的巨大变动时，库里说：“我只是需要多睡会觉。就这样。”
+   </p>
+   <p>
+    谈到球队在新阵容下需要更多训练时间来磨合，库里说：“没有人担心额外的训练时间，问题在于让球员们适应体系，突出他们不同的技能，建立化学反应。我们有大概，12名新球员？这需要时间。”
+   </p>
+   <p>
+    “我们会使阵容平衡，与彼此好好合作的。”库里说，“显然存在一些未知因素。我们必须弄清楚阵容轮换之类的事情。”
+   </p>
+   <p>
+    谈到勇士新援丹吉洛-拉塞尔时，库里说：“我等不及看到拉塞尔持球时的表现了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。丹吉洛-拉塞尔场均上场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

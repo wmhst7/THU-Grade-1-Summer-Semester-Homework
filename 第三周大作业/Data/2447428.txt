@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  某火箭球员：我们不需要太多改变，现在还没到慌乱的时候
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1143962575404720131" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 07:11:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="某火箭球员：我们不需要太多改变，现在还没到慌乱的时候" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/1963bcabbca84f34d07219d636bce57c0273aa60.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据NBA记者Tim MacMahon的报道，一位火箭球员最近透露，他希望球队不要恐慌。
+   </p>
+   <p>
+    “我希望球队不要恐慌，我希望他们不要做出极端的举动，我们就差了一点，我们必须要弄清一些事情，稍微调整一些事情，但是我们就差了一点，我们不需要太多的改变，现在还不是f***慌乱的时候。”这位火箭球员说道。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，火箭正在向联盟中拥有宽裕薪资空间的球队分别兜售克林特-卡佩拉、埃里克-戈登和PJ-塔克，以为他们寻求与76人先签后换得到自由球员前锋吉米-巴特勒做准备。
+   </p>
+   <p>
+    联盟消息人士透露，火箭希望从这三名球员身上得到最好的首轮选秀权回报，这样他们就可以在与76人关于巴特勒的进一步交易中使用它们。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

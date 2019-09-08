@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉森巴雷特将迎首次交锋，夏季联赛首日票价腾空而起
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.theadvocate.com/new_orleans/sports/pelicans/article_e1955f58-9933-11e9-b2d4-1ba686e5e151.html" target="_blank">
+     The Advocate
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 13:44:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉森巴雷特将迎首次交锋，夏季联赛首日票价腾空而起" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/7448ea278fc848ff97bce2cddd9b183d5862ccb0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今年的拉斯维加斯夏季联赛将在当地时间7月5日正式打响。
+   </p>
+   <p>
+    首日的十场比赛中包括了状元蔡恩-威廉森所在的鹈鹕与探花RJ-巴雷特所在的尼克斯之间的对决，这也是杜克双子星登陆NBA后首次正面交锋。
+   </p>
+   <p>
+    据悉，夏季联赛首日的门票早已售罄，原价仅为35美元的门票在两个二手票务平台上已分别升至104美元、118美元，场边近距离观赛座位门票已高达955美元。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

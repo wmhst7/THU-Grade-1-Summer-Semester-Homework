@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿伦-克拉布谈举办免费篮球训练营：我想要回馈社区
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://lasentinel.net/allen-crabbe-hosts-free-basketball-camp-at-price-high-school.html" target="_blank">
+     洛杉矶哨兵报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 15:58:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿伦-克拉布谈举办免费篮球训练营：我想要回馈社区" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/b32b5855ec508e0e5ace2053fa831f8aaad67770.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 老鹰球员阿伦-克拉布近日在母校普莱斯高中举办了免费篮球训练营，在此期间，他接受了媒体采访。
+   </p>
+   <p>
+    谈到举办训练营的感受，克拉布说：“这些孩子们看起来玩得很开心，我的父亲和我对于回馈社区进行了大量交流，我们想要为社区里的这些孩子们提供一些帮助。”
+   </p>
+   <p>
+    15岁的普莱斯高中学生Jai’yahne Henderson在谈到参加克拉布训练营的感受时表示：“我们进行了各种训练，主要是控球和投篮，我很高兴能够有机会来到这里。”
+   </p>
+   <p>
+    “你可以学到很多新的东西，很多我不知道的东西，比如他的投篮姿势以及他的自信心，我们因此变得更加自信了。”14岁的Koury Sida说道。
+   </p>
+   <p>
+    14岁的Darius Carr视克拉布为偶像，他想要成为像克拉布一样的NBA球员。
+   </p>
+   <p>
+    “我想要打进NBA，”Darius Carr说道，“了解他是如何进入NBA的，这对我的帮助很大，我会认真记录他的教导。”
+   </p>
+   <p>
+    普莱斯高中校队教练Chans Smyth说：“他（克拉布）向孩子们展示了他的生活方式，讲述了他的人生经历，让孩子们知道，他在他们这个年纪经历了什么，以及他是如何坚持下去的。”
+   </p>
+   <p>
+    克拉布表示，想要打出名堂就必须付出额外的努力，并且做出牺牲。
+   </p>
+   <p>
+    “你不能永远将这项运动视为一种娱乐，一件你的朋友们都想做的事情，”克拉布说道，“你必须牺牲娱乐的时间，待在训练馆里，拼命努力，不断完善自己的技术，成为最好的自己。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

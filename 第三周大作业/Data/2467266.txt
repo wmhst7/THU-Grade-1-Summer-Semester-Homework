@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔特姆：效力于美国队需要牺牲，希望与绿军队友建立默契
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/jayson-tatum-explains-what-playing-team-usa" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 10:54:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔特姆：效力于美国队需要牺牲，希望与绿军队友建立默契" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/606471cc48b2d45406179eab02374319263b29f6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 近日，凯尔特人球员杰森-塔特姆接受了MassLive.com网站的记者John Karalis的采访。
+   </p>
+   <p>
+    谈到效力于美国队的感受时，塔特姆说：“在美国队打球必须以一种不同的方式。你必须做出牺牲，因为你正和其他11名出色的球员一起打球。所以我们都得为了手头更大的目标做出一些牺牲。”
+   </p>
+   <p>
+    谈到在美国队与其他三名凯尔特人队友一起打球的经历时，塔特姆说：“美国队中有四名凯尔特人球员，这很酷。我们四人将一起开启这段旅程，为下赛季建立起非常优秀的化学反应，特别是跟刚加入凯尔特人的肯巴-沃克一起。所以这会很有趣。”
+   </p>
+   <p>
+    此前美国队进行了对阵西班牙队的热身赛，杰森-塔特姆出场22分钟，得到11分5篮板4助攻。杰伦-布朗出场10分钟，得到9分4篮板1助攻。肯巴-沃克出场22分钟，得到11分6篮板8助攻2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

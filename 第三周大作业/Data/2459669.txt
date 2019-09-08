@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  纳什祝贺巴丁格沙排公开赛夺冠：干得漂亮，伙计
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SteveNash/status/1156007070719594502" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:50:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="纳什祝贺巴丁格沙排公开赛夺冠：干得漂亮，伙计" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/df26467932fe1832b2697493a1521fc45f6c97cb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 前NBA球员史蒂夫-纳什今天更新了个人推特祝贺前NBA球员蔡斯-巴丁格在沙排公开赛中夺冠。
+   </p>
+   <p>
+    “为@蔡斯-巴丁格打call，祝贺他在昨天埃尔莫萨的AVP沙排公开赛中获得了他的第一个冠军。在结束了NBA生涯之后又转战沙排赛场，真的是不可思议，干得漂亮，伙计！”
+   </p>
+   <p>
+    巴丁格在2009年选秀大会上次轮第44顺位被活塞选中，随后被交易至火箭。职业生涯他共效力过火箭、森林狼、步行者以及太阳四支球队，场均出场19.7分钟，得到7.9分3.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

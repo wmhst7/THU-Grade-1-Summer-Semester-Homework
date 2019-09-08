@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕克森：知道要靠球星才能赢，但我们得先变得有竞争力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/670TheScore/status/1149313834475237376" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 16:13:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕克森：知道要靠球星才能赢，但我们得先变得有竞争力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/b500452bc50cacc3dec78bf7a93fd5141f8331b4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 公牛执行副总裁约翰-帕克森今天在采访中，谈到了球队的相关话题。
+   </p>
+   <p>
+    他表示：“我知道要想在最高水平的比赛中赢球，这需要靠球星。但是在此之前，我们需要再次变得充满竞争力，这才是我们必须开始做的。"
+   </p>
+   <p>
+    在2018-19赛季，公牛以22胜60负排在东部第13。在今年选秀大会，公牛先后得到科比-怀特和丹尼尔-加福德等球员，自由市场上签下赛迪斯-杨和托马什-萨托兰斯基。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

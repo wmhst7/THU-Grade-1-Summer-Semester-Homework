@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库班：我们此前对沃克很感兴趣，没想到霍弗德会跳出合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 09:19:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库班：我们此前对沃克很感兴趣，没想到霍弗德会跳出合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/f8fd2c08b7916ee42b7d9d2ec52f532380e2de43.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今年的休赛期对于独行侠来说略显冷清。近日，独行侠老板库班接受了记者的采访。
+   </p>
+   <p>
+    在谈及之前独行侠有意后卫肯巴-沃克时，库班对记者说道：“我们之前对沃克真的很感兴趣，他的名字一直在我们有意的清单上。只是，我们没想到艾尔-霍弗德会跳出合同离开波士顿。谁都不知道会发生什么事情。所以，当沃克选择离家更近的波士顿时，我们就不得不进行调整。”（注：凯里-欧文和艾尔-霍弗德的离队为凯尔特人得到肯巴-沃克扫清了阻碍）
+   </p>
+   <p>
+    库班紧接着继续说道：“当我们确定肯巴-沃克，我们无法签约得到后。我们的首选便是德朗-赖特。我们想要一个能够和卢卡-东契奇共同担负起球队防守重任的球员。德朗是一个能扛住防守压力的球员，他在场上能够去防守对方多个位置的球员，并且他能够投篮，有很棒的得分终结的能力。他可以投进球，并且能够表现出色，去更好地帮助队友。让卢卡去防守对方的控球后卫这根本行不通，因此我们需要他。”
+   </p>
+   <p>
+    根据此前消息报道，独行侠与灰熊完成了先签后换的交易。独行侠送出2个未来次轮签和印度中锋萨特南-辛格的NBA签约权，从而得到德朗-赖特。
+   </p>
+   <p>
+    2018-19赛季常规赛，赖特场均出场22.7分钟，可以得到8.7分3.5篮板3.3助攻1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

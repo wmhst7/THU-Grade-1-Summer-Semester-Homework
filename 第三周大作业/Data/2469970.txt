@@ -1,0 +1,96 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔：在联盟经历的这些让我了解到这个联盟的商业性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.gq.com/story/dangelo-russell-tunnel-style-interview" target="_blank">
+     GQ
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 09:57:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔：在联盟经历的这些让我了解到这个联盟的商业性" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/bf40427f22327d77a4fe5b4186b7eb893e5d681d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近期，勇士后卫丹吉洛-拉塞尔接受了记者的专访。
+   </p>
+   <p>
+    <strong>
+     记者：现在联盟里的球员在休赛期总是会发生很多事情，同时人们也会不断地对发生的这些事情做出解读。你觉得今年的休赛期发生了些什么事情?
+    </strong>
+   </p>
+   <p>
+    <strong>
+     拉塞尔：
+    </strong>
+    老实说，这是我第一次经历像今夏这样，有这么多转会自由球员的休赛期。我对此感觉还不错。可能最终你没能得到你想要的结果，但当事情朝着你想要的方向发展时，这是一种快乐，是一种乐趣。
+   </p>
+   <p>
+    <strong>
+     记者：我想说今年休赛期，事情朝着你想要的方向发展了吗？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     拉塞尔：
+    </strong>
+    是的，是的。就像我说的，我感觉很不错。这件事（加盟勇士）对我有利，这对我来说就是一件幸事。
+   </p>
+   <p>
+    <strong>
+     记者：很明显，当你带领一支球队进入季后赛，并且那还是你职业生涯到目前为止表现最好的赛季，而且你还成为全明星。但是，最后你离开了这个城市。这感觉好像很不尽人意。
+    </strong>
+   </p>
+   <p>
+    <strong>
+     拉塞尔：
+    </strong>
+    没错，就是这样。
+   </p>
+   <p>
+    <strong>
+     记者：但这件事让你感觉很酷吗?
+    </strong>
+   </p>
+   <p>
+    <strong>
+     拉塞尔：
+    </strong>
+    是的。我的意思是，要么你是商业联盟的一部分，要么你就已经不是这个联盟的一员。每年，你都要衡量自己的业务、交易、合同的延期问题。可能，你还是一个拥有合同、不用担心新合同的人。这样你在晚上就可以安心睡大觉。我想说，这就是休赛期球员关心的主要焦点。你只是想对自己更加坦诚，了解自己到底处于什么位置什么情况。到底你是一个无法控制自己的人，还是一个能够掌控全局的人?
+   </p>
+   <p>
+    <strong>
+     记者：你觉得你已经学会做掌控全局、了解自己的人了吗?
+    </strong>
+   </p>
+   <p>
+    <strong>
+     拉塞尔：
+    </strong>
+    当然。因为我经历了很多不同的事情。通过经历的这些事情，我了解了这个联盟的商业性。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

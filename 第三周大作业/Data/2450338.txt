@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布登霍尔泽：霍弗德非常可靠，我对他非常尊敬和钦佩
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonherald.com/2019/07/03/budenholzer-can-no-doubt-feel-stevens-pain-after-loss-of-horford/" target="_blank">
+     波士顿先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 23:50:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布登霍尔泽：霍弗德非常可靠，我对他非常尊敬和钦佩" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/b298a200fbc3ad92944ac017b4d400fa59aad886.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 雄鹿主教练迈克-布登霍尔泽在近日接受《波士顿先驱报》采访谈到了昔日爱将艾尔-霍弗德。
+   </p>
+   <p>
+    2016年7月份，霍弗德选择离开老鹰加盟凯尔特人。在今年雄鹿与凯尔特人的东部半决赛第一场中，霍弗德表现出色，得到20分11篮板3封盖。看到昔日爱将打出如此出色的表现，布登霍尔泽表示曾试想过依旧执教霍弗德的画面。
+   </p>
+   <p>
+    “这很艰难，考虑到我们之间的关系，这或许是我所经历过的最艰难的时刻。但这些家伙有权利在成为自由球员时做出对于自己、家人和球队而言最好的选择。”布登霍尔泽说道。
+   </p>
+   <p>
+    “我始终尊重艾尔的决定，尊重他处理个人事务的方式，他是一位非常出色的职业球员，我对他非常尊敬和钦佩。”布登霍尔泽接着说道。
+   </p>
+   <p>
+    回忆起在亚特兰大与霍弗德合作的经历，布登霍尔泽说：“他是如此地乐于受教，他渴望为了赢球倾其所有，他是如此的无私。作为一名菜鸟教练，你想要将自己的球队打造成一支无私的球队，而球队中最出色的球员，或者说最出色的球员之一恰巧是如此无私的一名球员，这会让你感觉到自己的工作更加轻松，你更有机会向球员们阐述自己的执教理念。这就是艾尔的本性，他始终都非常可靠，从来都不会抱怨。”
+   </p>
+   <p>
+    今年夏天霍弗德选择离开波士顿加盟76人，布登霍尔泽表示，他能够体会到凯尔特人主教练布拉德-史蒂文斯对此的感受。
+   </p>
+   <p>
+    “这对于球队而言是一个重要的时刻，但你必须向前看，继续迈出下一步。面对摆在你面前的选项，你需要继续做出最好的决定。但毫无疑问，这对于凯尔特人而言是一个重要的时刻。”布登霍尔泽说道。
+   </p>
+   <p>
+    当被问及得知这一消息之后有没有摔坏一些家具，布登霍尔泽笑着说：“这是完全不同的感受了，我只是希望我们能够相处更长时间。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

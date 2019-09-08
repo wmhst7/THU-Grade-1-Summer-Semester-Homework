@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保持状态！杰伦-布朗晒自己参加业余比赛照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BztqVDvFwA1/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:05:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保持状态！杰伦-布朗晒自己参加业余比赛照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/980bfe828c283294f8fb92077d44eecbb289c7e2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今日，凯尔特人球员杰伦-布朗更新社交媒体，晒出自己参加业余比赛照片（见新闻配图）。
+   </p>
+   <p>
+    “如果你逃避恐惧，那什么都不会改变。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，杰伦-布朗场均出场25.9分钟，得到13.0分4.2篮板1.4助攻；季后赛场均出场30.4分钟，得到13.9分5.8篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

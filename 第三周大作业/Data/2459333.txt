@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  豪车及好友，幸福一直有！韦特斯社媒晒自己与好友合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0efEK5AFmL/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 14:31:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="豪车及好友，幸福一直有！韦特斯社媒晒自己与好友合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190729/b6e7b8d244720de8bad351f1669bc8fcfb42f3fb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 今天热火球员迪昂-韦特斯更新社交媒体，晒出与好友游玩照片（见新闻配图）。
+   </p>
+   <p>
+    “在他们的战壕里，有很好的共鸣。”他写道。
+   </p>
+   <p>
+    2018年1月韦特斯接受了左脚脚踝手术，恢复近一年才复出。上赛季他因伤只出战44场比赛，场均25.9分钟能得到12.0分2.6篮板2.8助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/14/5d57a1437b864c94159a201272aaf085.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/14/6dffad4b01f3d8b961cab33e09b5e019.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/14/6e7e2bec3923fd4c094c9e997367ca0d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/14/65c87ff4d9200f28f522459d32eaec91.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/14/e9265c1f8d7ed52fa40a5b0805336322.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/14/860ee4f45a7372e65bb5550f9aa7cb6e.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

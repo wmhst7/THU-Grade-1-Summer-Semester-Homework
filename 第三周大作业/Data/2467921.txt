@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戈贝尔：人们关心蜘蛛侠甚于亚马逊森林大火，这惹人深思
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1bCEKaCa8U/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:32:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戈贝尔：人们关心蜘蛛侠甚于亚马逊森林大火，这惹人深思" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/caaf0d94b949603c060545de0e4b07887cce51f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 爵士中锋鲁迪-戈贝尔今日在个人推特上对近日两件热点事件发表了自己的评论。
+   </p>
+   <p>
+    “比起世界上最大雨林亚马逊森林所发生的大火，人们却更关心蜘蛛侠的前景，这让我们对当今的社会思考方式有所深切反思。”戈贝尔写道。
+   </p>
+   <p>
+    此前，迪士尼与索尼在有关蜘蛛侠版权问题上的谈判破裂，现有合约结束后，索尼将不会再与迪士尼方面续约，同时也正式官宣旗下蜘蛛侠正式离开漫威宇宙。
+   </p>
+   <p>
+    而在南美洲的巴西，亚马逊雨林的山火已持续燃烧数周。据巴西国家空间研究所的卫星数据显示，被誉为“地球之肺”的亚马逊森林地区的大火已持续燃烧了16天。截至8月18日，亚马逊森林火灾数量超过7.2万起，较2018年同期增长了83%。
+   </p>
+   <p>
+    2018-19赛季常规赛，戈贝尔代表爵士场均出场31.8分钟，得到15.9分12.9篮板2.31盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

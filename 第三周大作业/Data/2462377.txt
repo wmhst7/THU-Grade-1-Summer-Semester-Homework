@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：老鹰与布兰登-古德温签下双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hawks/news/hawks-sign-brandon-goodwin-two-way-contract?utm_source=s_h&amp;utm_medium=t&amp;utm_campaign=1920offseason&amp;utm_term=brandongoodwinsigining&amp;utm_content=080" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 01:31:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：老鹰与布兰登-古德温签下双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/53f998b332df536ad89b434743e7e4bccb1c127a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 今日，老鹰官方宣布，球队与后卫布兰登-古德温正式签下一份双向合同。根据球队条款，合同细节并未披露。
+   </p>
+   <p>
+    双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得更多的工资，此举的目的是希望他们不要前往海外打球。
+   </p>
+   <p>
+    此前，根据《丹佛邮报》记者Mike Singer的报道，掘金已经撤回了他们为布兰登-古德温开出的资质报价，后者成为一名完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，古德温代表掘金出场16场常规赛，场均出战3.6分钟，可以拿到1.4分0.2篮板0.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

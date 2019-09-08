@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：鹈鹕正式签约新秀海斯和沃克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/pelicansnba/status/1148004161469984770?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 23:08:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：鹈鹕正式签约新秀海斯和沃克" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/6a4bf72059d852e1019ee12e079292c6d5f719d2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 鹈鹕官方推特今日晒出了球队新秀贾克森-海斯和尼基尔-亚历山大-沃克的签约照，宣布他们与球队正式签约。
+   </p>
+   <p>
+    海斯是本届选秀的8号秀，沃克是本届选秀的17号秀，鹈鹕此前从老鹰交易得到他们的签约权。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

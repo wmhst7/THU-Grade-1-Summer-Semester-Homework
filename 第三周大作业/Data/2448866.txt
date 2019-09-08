@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：德马雷-卡罗尔与马刺达成2年1300万协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 07:25:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：德马雷-卡罗尔与马刺达成2年1300万协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/6a56afb775ab26b994060377a68875d7b5a185d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，德马雷-卡罗尔与马刺达成2年1300万美元协议（Shams原报道称为2年1200万美元）。
+   </p>
+   <p>
+    过去两个赛季，卡罗尔均在篮网度过。篮网在2017年休赛季从猛龙交易得到了卡罗尔。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡罗尔场均上场25.4分钟，得到11.1分5.2篮板1.3助攻，季后赛场均上场23.8分钟，得到6.6分4.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

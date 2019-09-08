@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奉献社区！库里帮助奥克兰当地音乐家修复破败的公园
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://larrybrownsports.com/basketball/nba-exec-denies-new-agent-rule-was-created-rich-paul/508082" target="_blank">
+     拉里布朗体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 01:32:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奉献社区！库里帮助奥克兰当地音乐家修复破败的公园" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/98fbcd624664e8bcfb2dbb9027910977fe27440a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 奥克兰音乐家Nimsins希望自己在当地的一处破败的公园得到休整，Concordia公园位于Frick中学和长青墓园之间，缺乏灯光，篮球场也是破败不堪。Nimsins数月以来多次求助政府无果。
+   </p>
+   <p>
+    今年六月份Nimsins再次在推特上求助，并艾特了勇士官方以及勇士球员斯蒂芬-库里、德雷蒙德-格林、凯文-鲁尼和阿方索-麦金尼等人。最终库里注意到了他的求助，他联系自己的赞助商，沟通公园的修复事宜。
+   </p>
+   <p>
+    近日修复后的公园正式揭幕，球场里涂鸦上了库里的“摧毁比赛”、“无所不能”等座右铭。Nimsins在Instagram上晒出了自己和库里的合影，感谢他为社区的付出。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/01/70aa7bb833c6d9b1c5298dd753889005.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

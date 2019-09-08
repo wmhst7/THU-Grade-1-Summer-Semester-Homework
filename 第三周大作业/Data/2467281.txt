@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯：湖人应该签下霍华德，他能在高水平上做出贡献
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KendrickPerkins/status/1163588342061182979?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1163588342061182979&amp;ref_url=https%3A%2F%2Fwww.talkbasket.net%2F50527-kendrick-perkin" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 11:21:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯：湖人应该签下霍华德，他能在高水平上做出贡献" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/c34024e081dfe7b9f12bcab6285cdd8d84265b2e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 今日，前NBA球员肯特里克-帕金斯更新个人推特，发表了对湖人与德怀特-霍华德进行交流一事的看法。
+   </p>
+   <p>
+    帕金斯说：“湖人需要签下德怀特-霍华德！我们不要表现得好像霍华德打不了球，无法在高水平上做出贡献似的！湖人拥有一支由老将组成的成熟球队，他们能够管理好自己，并提醒他注意他那些问题。”
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466700.html">
+     Shams：湖人与霍华德互相有意，球队期待能与其沟通
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466833.html">
+     Shams：灰熊已经给予湖人许可与霍华德沟通
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466908.html">
+     Shams：霍华德想要加入湖人，他想完成自我救赎
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

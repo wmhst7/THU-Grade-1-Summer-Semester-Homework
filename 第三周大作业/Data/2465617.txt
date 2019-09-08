@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人3名球员2K能力值公布：沃克88，塔特姆85
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 11:24:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人3名球员2K能力值公布：沃克88，塔特姆85" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/3a7f55f0016f7a591c2392e8d92d2e67b5e4fee6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，凯尔特人有3名球员能力值得以确定。
+   </p>
+   <p>
+    凯尔特人3名球员初始能力值为：
+   </p>
+   <p>
+    肯巴-沃克 88
+   </p>
+   <p>
+    杰森-塔特姆 85
+   </p>
+   <p>
+    格兰特-威廉姆斯 72
+   </p>
+   <p>
+    2018-19赛季常规赛，肯巴-沃克场均出场34.9分钟，可以得到25.6分4.4篮板5.9助攻1.24抢断；杰森-塔特姆场均出场31.1分钟，可以得到15.7分6.0篮板2.1助攻1.06抢断0.72封盖。
+   </p>
+   <p>
+    格兰特-威廉姆斯于今年被凯尔特人以首轮第22顺位选中，并在今夏签下了一份为期四年的新秀合同，其中第一年薪水为237万美金，2022年和2023年为球队选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

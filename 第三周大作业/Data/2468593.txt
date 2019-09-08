@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希腊男篮对于后卫科斯塔斯-斯洛卡斯出战世界杯感到乐观
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sportando/status/1164922734499028992" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 09:56:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希腊男篮对于后卫科斯塔斯-斯洛卡斯出战世界杯感到乐观" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/36a1c945badaa4927bcab520876cb74298d8fefc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 据欧洲媒体Gazzetta.gr报道，希腊男篮主力后卫科斯塔斯-斯洛卡斯正在努力恢复，希望能够在本届世界杯代表希腊男篮出战。
+   </p>
+   <p>
+    科斯塔斯-斯洛卡斯在对阵意大利的热身赛中上场不到两分钟就受伤离场，核磁共振检查结果显示为小腿拉伤。随后，希腊男篮官方表示科斯塔斯-斯洛卡斯将不会随队前往中国参加热身赛，留在雅典继续接受治疗，他依旧可能在世界杯开幕前赶到中国与球队会和，但这要取决于他的身体情况。
+   </p>
+   <p>
+    科斯塔斯-斯洛卡斯现在每天的训练时长超过七个小时，早晨四个多小时，下午三个小时，伤势已经取得了明显好转，希腊男篮对于他出战本届世界杯感到乐观。
+   </p>
+   <p>
+    科斯塔斯-斯洛卡斯预计将于当地时间8月27日前往中国，8月29日为希腊男篮公布12人大名单的最终期限。
+   </p>
+   <p>
+    除科斯塔斯-斯洛卡斯外，希腊男篮剩余名单如下：尼克-卡拉希斯，Antonis Koniaris, Panagiotis Vassilopoulos，Ioannis Papapetrou，扬尼斯-阿德托昆博，萨纳西斯-阿德托昆博，Konstantinos Mitoglou，Giorgos Printezis，乔治斯-帕帕扬尼斯，Giannoulis Larentzakis，科斯塔斯-帕帕尼古拉乌，扬尼斯-博洛西斯。
+   </p>
+   <p>
+    本届世界杯，希腊与巴西、黑山、新西兰同处F组，小组赛在南京举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

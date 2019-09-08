@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马谈鲍尔哈特英格拉姆：我们永远是朋友，为他们高兴
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-08-05/klay-thompson-warriors-acl-surgery-nba-playoffs" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 17:19:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马谈鲍尔哈特英格拉姆：我们永远是朋友，为他们高兴" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/a886e9f48e4848af7709670acb7cc0e9855a6ae8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯  虽然新赛季NBA的完整赛程尚未出炉，湖人前锋凯尔-库兹马近日接受采访时表示他非常期待与鹈鹕的交锋。
+   </p>
+   <p>
+    库兹马表示，湖人首次对阵鹈鹕的比赛将会很有趣，他将与前队友朗佐-鲍尔、布兰登-英格拉姆和约什-哈特进行交手。鲍尔、英格拉姆和哈特此前均在安东尼-戴维斯的交易中被湖人送至鹈鹕。
+   </p>
+   <p>
+    “他们是我的朋友，我们将永远都做朋友，”库兹马说，“仅仅由于我们不再是队友，那也并不意味着我们不会是朋友。我会一直与他们交流，保持联系。我为这些家伙感到高兴。他们得到了一个难以置信的机遇，可以真正地成长为他们理想中的球员。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻；鲍尔场均出场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断；哈特场均出场25.6分钟，得到7.8分3.7篮板1.4助攻0.96抢断0.60盖帽；英格拉姆场均上场33.8分钟，得到18.3分5.1篮板3.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

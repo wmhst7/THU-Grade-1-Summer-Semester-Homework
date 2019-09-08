@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：本德尔与雄鹿达成一份2年合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1154414306538196992" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 23:34:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：本德尔与雄鹿达成一份2年合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/075577dbccb166f2d6786320349a4378598a7f86.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，前锋德拉甘-本德尔与雄鹿达成一份2年合同。
+   </p>
+   <p>
+    根据此前的报道，本德尔与今年的欧冠冠军莫斯科中央陆军达成了一份为期多年的口头协议。协议中有一项条款为，除非本德尔在最后时刻接受了一份有兴趣的NBA球队报价，否则他将接受莫斯科中央陆军的合同。
+   </p>
+   <p>
+    本德尔在2016年NBA选秀大会首轮第四顺位被太阳选中，职业生涯至今共三个赛季效力于太阳。
+   </p>
+   <p>
+    2018-19赛季常规赛，本德尔共上场46次，场均上场18.0分钟，得到5.0分4.0篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

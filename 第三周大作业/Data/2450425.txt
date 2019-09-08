@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林：我的手机欠费停机了，没有和伦纳德打电话
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/YahooCASports/status/1146888847495745536" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 10:07:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林：我的手机欠费停机了，没有和伦纳德打电话" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/c4f82c10a094fbc7016e9abb379b05c4c80bda6c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 丹尼-格林在今日参加一档播客节目时谈到了自由球员科怀-伦纳德的动向，格林表示他不想打扰伦纳德，目前没有直接与他联系。
+   </p>
+   <p>
+    “我不想去打扰他，我很清楚这个过程，现在每个人都想要给他打电话。我没有直接和他联系，而是通过马赛-乌杰里获得他的情况更新，我不想打电话打扰他，”格林说道，“幸运的是，也可以说不幸的是，我的手机现在欠费停机了，我正想着连上WIFI充话费呢。”
+   </p>
+   <p>
+    据此前NBA记者Cris Carter的报道，伦纳德很可能在当地时间周五宣布最终去向。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

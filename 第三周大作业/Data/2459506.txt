@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：如果勇士保持健康，他们依然很有竞争力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1101973/2019/07/29/jared-dudley-on-dangelo-russell-and-a-wild-nba-free-agent-summer/?redirected=1" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 02:40:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：如果勇士保持健康，他们依然很有竞争力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/76e5963bb3395dbc023bf68f8cc80bc7eee3fed6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 近日，洛杉矶湖人队球员贾里德-杜德利接受了媒体的采访，谈及到对勇士队的看法。
+   </p>
+   <p>
+    在问到前湖人球员以及前队友丹吉洛-拉塞尔该如何去适应勇士队的体系时，杜德利说：“我想那会是一个非常艰难的过程，不仅仅是要去学习球队的打法，同时失去克莱-汤普森也对他们影响很大。”
+   </p>
+   <p>
+    在问到对于勇士队的看法时，杜德利说：“我依然把它们视作一支季后赛球队，也许也是一支潜在的争冠球队，当然这一切要取决于他们是否健康。只要史蒂芬能够打70场以上的比赛，他们依然会很有竞争力。”
+   </p>
+   <p>
+    当问到缺少汤普森这一重要的防守轮换是否对勇士队是很艰难的一件事时，杜德利说：“那是当然，这对于库里来说会是很大的压力。其他球员应很好的保护好他，同时格林等球员也要命中应该投进的球，他们有很高的篮球智商，同时我也认为威利-考利-斯坦对于勇士而言会是一个非常好的补充。丹吉洛很擅长得分，因此我还会很看好他们，这不是一支跌入谷底的球队，他们仍然可以进入季后赛，一旦克莱回归，他们甚至能赢得一轮系列赛。”
+   </p>
+   <p>
+    2018-19赛季常规赛，杜德利场均出场20.7分钟，得到4.9分2.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

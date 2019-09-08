@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  感谢你，布鲁克林！拉塞尔发推致谢篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Dloading/status/1148096368155623424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 13:42:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="感谢你，布鲁克林！拉塞尔发推致谢篮网" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/449c940340b774c95f4eaab11fd104b9ff2be133.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 NBA球员丹吉洛-拉塞尔在篮网队有着两年的职业生涯，并在2018-19赛季入选NBA全明星。据之前报道，丹吉洛-拉塞尔在一笔先签后换交易中被布鲁克林篮网队交易至金州勇士队。
+   </p>
+   <p>
+    今日，丹吉洛-拉塞尔发推致谢布鲁克林篮网队，他写道“感谢你，布鲁克林！”
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均出场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2451424&amp;type=1">
+     勒韦尔：不想拉塞尔走，但也祝福他拿到了大合同
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2451411&amp;type=1">
+     官方：篮网送出拉塞尔、内皮尔和格雷厄姆，从勇士得到KD
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2451429&amp;type=1">
+     勇士总经理：很开心拉塞尔加入，感激杜兰特的所有贡献
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

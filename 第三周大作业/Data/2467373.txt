@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普拉姆利：澳洲球员打球努力不会退缩，美国队已做好准备
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-20.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 17:15:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普拉姆利：澳洲球员打球努力不会退缩，美国队已做好准备" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/ef720d4809c9acdac35656030af4baa19de11147.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 美国男篮目前正在澳大利亚备战热身赛，掘金球员梅森-普拉姆利在此期间接受了媒体采访。
+   </p>
+   <p>
+    普拉姆利此前曾在澳大利亚珀斯的篮球队效力，对此，普拉姆利说：“他们打球非常努力，他们对他们的表现感到骄傲，他们打球的身体对抗也非常激烈。他们不惧怕任何人，他们不会退缩，并且他们将这种态度带到了球场上。”
+   </p>
+   <p>
+    谈到球队的训练进展如何时，普拉姆利说：“我们进行了两次不错的训练，我认为每个人都还在适应时差，不过我们感觉不错，已经准备好上场比赛了。”
+   </p>
+   <p>
+    北京时间8月17日至8月26日，美国男篮将与西班牙、澳大利亚、加拿大进行四场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

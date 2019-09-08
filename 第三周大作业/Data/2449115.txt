@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  洛杉矶记者爆料伦纳德向魔术师询问是否能带自己医疗团队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/7/1/20676798/lakers-free-agent-rumors-kawhi-leonard-magic-johnson-trade-medical-team-staff-uncle-dennis" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 18:48:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="洛杉矶记者爆料伦纳德向魔术师询问是否能带自己医疗团队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/1dfb5a35c525007e8937c2301b38246efb0f14f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据《洛杉矶时报》记者Broderick Turner报道，科怀-伦纳德在周日与魔术师约翰逊的电话谈话中，表现出将湖人作为潜在下家的积极回复。
+   </p>
+   <p>
+    “首先我要谈到的是科怀和他的舅舅丹尼斯，他们与魔术师交谈过多次，并同样与湖人总经理罗勃-佩林卡有过谈话。他们表示想与珍妮-巴斯和魔术师见面。但如果珍妮与他们会面或者佩林卡也被邀请，那么魔术师就不能参与他们的会面。NBA的规则规定你可以带任何非雇员参与球员会面，但是因为魔术师曾为湖人工作，如果参与会面就可能因非法招募被罚款。”Broderick Turner透露。
+   </p>
+   <p>
+    Broderick Turner还提供了一些伦纳德和他的团队想从约翰逊了解到的关于一些球队内幕的具体细节：“伦纳德问了魔术师一个有趣的问题：‘我在马刺的时候，你们想过要得到我吗？’答案是肯定的。但是由于波波维奇和马刺队，以及我们的历史渊源，他们向我们索取2000个选秀权——好吧，不是2000个——是4个首轮选秀权，但我们就是做不到。”
+   </p>
+   <p>
+    “伦纳德舅舅问魔术师：‘你和珍妮、佩林卡以及团队中的其他人到底发生了什么？发生的事是跟传闻中的一样吗？’然后魔术师回答：‘是的，我们是出现了一些问题，但现在我们已经克服了。我们现在仍然是一个家庭。对于佩林卡，我是说过他是一个背后捅刀子的人，但是现在都已经过去。我现在想让湖人成为冠军。科怀来湖人我们就能实现。因为这与这支球队有关，与贾巴尔、张伯伦、科比这些伟大的球员有关。你可以成为他们之中的一员，与詹姆斯成为队友并获得更多的冠军，并且你不需要给自己的身体施加太多压力。我们的队中现在有两个全明星可以做你的队友。”
+   </p>
+   <p>
+    对于谁来管理伦纳德的健康问题，Broderick Turner指出伦纳德想知道在这个问题上他是否有发言权：“勒布朗能够带来他自己的训练师和医疗人员，科怀想知道他是否也能带来自己的专属治疗师。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

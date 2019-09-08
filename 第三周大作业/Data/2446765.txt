@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  恭喜！阿德托昆博当选2018-19赛季常规赛MVP
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:17:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="恭喜！阿德托昆博当选2018-19赛季常规赛MVP" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/b9896b4b2782434a3dc552829138726011ea8896.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，雄鹿球员扬尼斯-阿德托昆博当选2018-19赛季常规赛MVP，这是他职业生涯首次当选常规赛MVP。
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28124356.html">
+     [字幕]泪奔！字母哥演讲：以父之名上场打拼，慈母之爱指明道路&gt;&gt;
+    </a>
+   </p>
+   <p>
+    “上帝让我走到了今天，我所取得的一切成就都归功于他。感谢上帝，感谢球队，首先是我的队友，只靠一个人无法赢得那么多的比赛。感谢教练组，相信我们，教会我们如何赢球。感谢管理层，如果不是管理层相信我，相信18岁的我，他们让我去领导这支球队，相信我。感谢我的家人，我的父亲，我的父亲无法和我共享这一时刻了。两年前，我说过自己会成为联盟中最好的球员，会成为MVP，每一次我登上球场，我都会想起自己的父亲，他推动着我前进。感谢我的兄弟，感谢我了不起的母亲，她是我的英雄。这只是一个开始，我的目标是夺冠。”字母哥泣不成声。
+   </p>
+   <p>
+    阿德托昆博常规赛为雄鹿出场72次，场均出战32.8分钟，场均贡献27.7分12.5篮板5.9助攻1.28抢断1.53盖帽。场均27.7分排在联盟第三，场均12.5篮板排在联盟第6，场均1.53次盖帽排在联盟第10。阿德托昆博率领雄鹿在常规赛取得60胜22负的佳绩，战绩领跑全联盟。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

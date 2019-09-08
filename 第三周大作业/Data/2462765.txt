@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兄弟情不会变！洛瑞社交媒体祝德罗赞30岁生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B03mW7RF4-G/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 00:45:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兄弟情不会变！洛瑞社交媒体祝德罗赞30岁生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/c3d4983f2befe65fb144e6148f1730403a332448.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 马刺球员德马尔-德罗赞出生于1989年8月7日，美国时间的今天是德罗赞的30岁生日。
+   </p>
+   <p>
+    德罗赞的前队友，猛龙球员凯尔-洛瑞在Instagram上晒出了德罗赞的照片，并写道：“今天是我情同手足的兄弟的特殊的日子……30岁俱乐部欢迎你，不开玩笑你现在已经跟我到了同一个区间了（注：洛瑞今年33岁），我们都老了兄弟。（笑哭的表情）你30岁以后就要这样穿了，我知道你不想听，但40岁已经在向你招手了！！（笑哭的表情）生日快乐我的兄弟@德马尔-德罗赞，大家跟我一起祝他生日快乐！”
+   </p>
+   <p>
+    德罗赞的生涯前9个赛季效力于猛龙，他与凯尔-洛瑞并肩作战了6个赛季。去年夏天德罗赞被交易至马刺。
+   </p>
+   <p>
+    2018-19赛季常规赛，德罗赞场均出场34.9分钟，得到21.2分6.0篮板6.2助攻1.12抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，洛瑞场均上场34.0分钟，得到14.2分4.8篮板8.7助攻1.4抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/00/bba9e47eb6647942c51d8dc91e48be8a.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

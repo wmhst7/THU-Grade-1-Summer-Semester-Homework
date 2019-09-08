@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊赛亚-托马斯：库里下赛季将面对巨大的防守压力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FTFonFS1/status/1153343697590689792" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 11:48:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊赛亚-托马斯：库里下赛季将面对巨大的防守压力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/5358a5bdc65975f609ef64cce569e4bfbe761a98.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 NBA名宿伊赛亚-托马斯在今日参加节目时谈到了金州勇士队下赛季的前景。
+   </p>
+   <p>
+    “我认为勇士能够打进季后赛，但是西部的竞争太激烈，以他们现有的阵容夺冠的概率非常小。我的意思是，西部现在蓄势待发，而你却失去了凯文-杜兰特，克莱（汤普森）也无法出战，这真的是巨大的打击。我认为斯蒂芬（库里）会努力打出一个出色的赛季，我之所以这样说，是因为他在下赛季将面对巨大的防守压力。”托马斯说道。
+   </p>
+   <p>
+    “他的身边不再有克莱和杜兰特，情况和上赛季季后赛有些相似，他将很难再获得一对一单打的机会，即便是有丹吉洛-拉塞尔也无济于事。下赛季，每当队友为斯蒂芬做掩护时，对手都会坚决地包夹他。这也是迈克尔-乔丹和卡里姆（贾巴尔）是如此出色的得分手的原因，因为在他们的职业生涯中，每一次触球都会面对包夹，他们在进攻端总是需要一打二，”托马斯说道，“斯蒂芬身边之前有克莱和杜兰特，当这三个家伙一起打球时，总是能够为彼此创造单打或者错位的机会。而下赛季斯蒂芬将要面对巨大的防守压力，我认为他知道这一点，也会做好准备，他会打出出色的表现，我只是不确定这是否足够。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

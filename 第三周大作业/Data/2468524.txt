@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方发图祝科比41岁生日快乐：湖人化身，全球偶像
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1164948041989685251?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 06:17:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方发图祝科比41岁生日快乐：湖人化身，全球偶像" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/618c7d0da52a629d3a46a7eecb5fdd427da5a25d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 湖人官方推特今日发图祝福球队名宿科比-布莱恩特41岁生日快乐。
+   </p>
+   <p>
+    “湖人化身。全球偶像。生日快乐，科比。”湖人官方写道。
+   </p>
+   <p>
+    湖人老板珍妮-巴斯转发这条推特并写道：“生日快乐，@科比-布莱恩特！请你好好庆祝今天，不过明天8月24日全体@湖人 球迷将会庆祝科比日，一个官方的#湖人国度 节日。”
+   </p>
+   <p>
+    开拓者球员保罗-加索尔也发布他与前队友科比的赛场合照并写道：“生日快乐，历史最佳！！！@科比-布莱恩特 ”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/06/70ed56a6f559cae08c1d44eb59416693.jpeg"/>
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2468504.html">
+     詹姆斯：祝黑曼巴科比生日快乐，湖人国度雄起！
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季各队总飞行里程：爵士最奔波忙碌，骑士以逸待劳
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EdKupfer/status/1160997241575956480" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 04:47:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季各队总飞行里程：爵士最奔波忙碌，骑士以逸待劳" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/1d4204893a1dc542c412a2586617eb715fc37798.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 近日，NBA2019-20赛季各球队赛程已陆续公布，各球队常规赛往返主客场总飞行里程也可以根据计算得出。
+   </p>
+   <p>
+    据计算，新赛季，犹他爵士的总飞行里程数超过50000英里（约80467.2千米），位列联盟第一，其可能主要原因为主场地处西部犹他州，周围邻近球队数量较少。太阳、国王、开拓者等西部球队也面临相同问题，分列2-4位。
+   </p>
+   <p>
+    在榜单的另一端，地处东部的骑士、76人、公牛、步行者、活塞则分列飞行里程数最少的前五位。
+   </p>
+   <p>
+    详细榜单见下图，红色标记为西部赛区球队，黑色标记为东部赛区球队。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/04/ed78ba9ae3aa96238c9ac6d516dfc484.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

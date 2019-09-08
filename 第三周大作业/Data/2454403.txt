@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在杜兰特离开雷霆后，威少曾考虑过不与雷霆提前续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.theringer.com/nba/2019/7/15/20694183/nba-free-agency-questions-giannis-thunder-kawhi" target="_blank">
+     The Ringer
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:34:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在杜兰特离开雷霆后，威少曾考虑过不与雷霆提前续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/62a0ea068f067c1a1da0ff5f6613167f01f10058.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据The Ringer记者Kevin O'Connor的报道，多位联盟消息人士透露，在凯文-杜兰特2016年夏天离开雷霆加盟勇士后，拉塞尔-威斯布鲁克考虑过不与雷霆提前续约，当时雷霆收到了其他球队询价威斯布鲁克的电话。
+   </p>
+   <p>
+    最终，威斯布鲁克与雷霆签下了那份5年总价值2.068亿美元的提前续约合同，留守雷霆。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski之前的报道，消息人士透露，雷霆与火箭达成交易，火箭送出克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到威斯布鲁克。
+   </p>
+   <p>
+    之前有报道称今年雷霆季后赛被开拓者淘汰后，威斯布鲁克就找到过雷霆总经理萨姆-普雷斯蒂聊过自己在球队的未来。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

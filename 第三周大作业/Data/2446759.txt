@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  PJ-塔克获得2018-19赛季NBA球鞋之王奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzHW6zSAnQz/?igshid=175u0akzgretn&amp;tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="PJ-塔克获得2018-19赛季NBA球鞋之王奖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/c4e1724942b3f2534ab68caf216cce008fd1e70d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，火箭球员PJ-塔克获得2018-19赛季NBA球鞋之王奖项。
+   </p>
+   <p>
+    随后，Bleacher Report KICKS官方Instagram发布了塔克获得球鞋之王的照片表示祝贺，并说道：“塔克成为2019NBA球鞋之王！”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190625/11/f894ddaad55f8f62bf268bf5c90a2b2b.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190625/11/6ad41a7681fa1ca4072a65631d68dda9.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

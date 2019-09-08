@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴恩斯：沃顿了解球员的感受，能融入更衣室
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1079906/2019/07/17/take-it-from-two-who-know-luke-walton-will-be-a-better-coach-for-the-kings/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 10:13:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴恩斯：沃顿了解球员的感受，能融入更衣室" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/560bf21acd91520b4de1ea7c5471912dd8f6ecd4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 2015-16赛季，勇士主教练史蒂夫-科尔因为接受背部手术而缺席了一段时间，卢克-沃顿曾担任临时主教练接替科尔，在他的执教下，勇士打出24胜0负的历史最佳开局，整段时期的战绩为39胜4负，并最终打出了73胜9负的常规赛历史最佳战绩。外界质疑他在执教方面是否真正帮助了球队前进。今日，哈里森-巴恩斯接受了The Athletic记者的采访。
+   </p>
+   <p>
+    在谈到了沃顿的执教能力和执教风格问题时，国王前锋哈里森-巴恩斯（前勇士首发前锋）对记者说道：“作为教练，最出色的属性之一是接近球员、并与他们产生联系的能力。如果你不能融入更衣室，联盟已经证明了无论你的球队打出怎样的战绩，你的执教都是无法奏效的。所以我认为就像我所说的，他得到球员尊敬的能力和以某种方式执教的能力，给了每个人发挥的机会，也促进了一种赢球模式。”
+   </p>
+   <p>
+    “那不是一种无组织无纪律的模式，不是说‘嘿，你们就上场各自自顾自地出手吧’，我认为这种模式能真正帮到我们。他从球员成为教练，他的执教对于一名经历过各种情况的球员具备一种透明度，因为他也曾是板凳末端的球员，他也曾是一名必须即插即用的球员。”
+   </p>
+   <p>
+    "所以对他来说，想要说一些话并不困难，比如‘我完全知道你正经历着什么。不，不是说我曾15次入选全明星这样，我知道从底层到顶层每一层次球员的感受’，伤病，任何事情。我认为那种透明度真的起到了帮助。"巴恩斯最后补充说道。
+   </p>
+   <p>
+    卢克-沃顿在2003年NBA选秀中被湖人在次轮第3顺位选中。球员时期曾效力于湖人和骑士两支球队，2008-09赛季和2009-10赛季随湖人夺得总冠军。沃顿从2014年起在勇士担任助教2年，2014-15赛季作为助教随勇士夺得NBA总冠军。2016年4月30日，沃顿成为湖人主帅，2019年4月13日卸任。2019年4月16日，国王官方宣布沃顿成为球队新主帅。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里森-巴恩斯场均出场32.9分钟，得到16.4分4.7篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

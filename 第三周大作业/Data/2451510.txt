@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：灰熊宣布得到杰克逊，梅尔顿以及选秀权
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/grizzlies/news/grizzlies-acquire-josh-jackson-de-anthony-melton-and-two-future-second-round-draft-picks-from-suns-190707" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 11:32:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：灰熊宣布得到杰克逊，梅尔顿以及选秀权" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/641716c97f3591677810e509b04fc8d8b8834d2f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，灰熊官方宣布，他们从太阳得到前锋约什-杰克逊，后卫丹东尼-梅尔顿以及两个未来二轮签；将前锋凯尔-科沃尔和后卫杰文-卡特送至太阳。
+   </p>
+   <p>
+    约什-杰克逊身高2.03米，体重93公斤。2017年第1轮第4顺位被太阳选中，两个赛季共出场156场（64场首发），场均出场25.3分钟，得到12.3分4.5篮板1.9助攻0.99抢断。这名22岁的加州圣地亚戈人入选2017-18赛季最佳新秀阵容第二阵容，在堪萨斯大学的一个赛季中，他是12名最佳新人之一。
+   </p>
+   <p>
+    丹东尼-梅尔顿身高1.93米，体重86公斤。上赛季作为新秀代表太阳共出战50场（31场首发），场均出场19.7分钟，得到5.0分2.7篮板3.2助攻1.36抢断。2018年第2轮第16顺位被火箭选中，这名21岁的加州北好莱坞人毕业于南加利福尼亚大学，并在NBA发展联盟代表北亚利桑那太阳出战，场均出场35.5分钟，得到18.5分7.0篮板5.3助攻1.5抢断。
+   </p>
+   <p>
+    凯尔-科沃尔身高2.01米，体重96公斤。在NBA的16个赛季分别代表76人、爵士、公牛、老鹰、骑士出战1174场比赛（422场首发），场均出场25.7分钟，得到9.9分3.0篮板1.7助攻。这名38岁老将在7月6日被爵士交易至灰熊。
+   </p>
+   <p>
+    杰文-卡特身高1.88米，体重91公斤。上赛季作为新秀代表灰熊出战39场（3场首发），场均得到4.4分1.7篮板1.8助攻。卡特还代表孟菲斯疾行出战22场。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

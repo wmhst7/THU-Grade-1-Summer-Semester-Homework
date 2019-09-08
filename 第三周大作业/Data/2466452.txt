@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚当斯在新西兰的因佛卡吉尔举办篮球训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.stuff.co.nz/sport/basketball/115057721/nba-star-steven-adams-hosts-training-camp-for-aspiring-basketballers-in-invercargill" target="_blank">
+     Stuff
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 00:05:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚当斯在新西兰的因佛卡吉尔举办篮球训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/ef2edab76b77d12937049395e179bf35b8ecaf82.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 近日，雷霆球员史蒂文-亚当斯在新西兰南部的因佛卡吉尔举办了篮球训练营，训练营是Sports Pathways Trust项目的一部分，吸引了300个孩子参与，训练营名额在一个半小时内就报满了。
+   </p>
+   <p>
+    训练营中，一个孩子得到了与亚当斯进行一对一传球训练的机会。他说他在电视上看到过亚当斯，但是实际生活中“他的个头要大得多”。
+   </p>
+   <p>
+    雷霆沟通部副主管Dan Mahoney也随同亚当斯前往因佛卡吉尔。他说，亚当斯真心热爱在新西兰发展篮球，这从他在训练营的参与度中体现了出来。
+   </p>
+   <p>
+    亚当斯从2013年起开始在新西兰举办训练营，今年的训练营将在因佛卡吉尔、纳皮尔和旺格雷举行。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/00/32ce847798044c40a4844a59dd19a198.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/00/52566e9e64a57f796ad6ca85f04d659b.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/00/bc8352d25762c7a111fa847f7b4c1a1a.jpg"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，亚当斯场均出场33.4分钟，得到13.9分9.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特伦斯-罗斯：因为儿子的球衣号码是8号，所以我要跟他一样
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OrlandoMagic/status/1152720599531360256" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 10:08:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特伦斯-罗斯：因为儿子的球衣号码是8号，所以我要跟他一样" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/4324083445c35c349d7f22a7205818788d80ce94.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 今日，魔术官推晒出了一张特伦斯-罗斯手持8号球衣的照片，配文引用特伦斯-罗斯的话，解释了为什么他将在新赛季改穿8号。
+   </p>
+   <p>
+    特伦斯-罗斯表示：“上个月，我的儿子加入了一支篮球队，他的球衣号码是8号，我感觉‘这意味着我将真正最后一次尝试换号码了’。这一次我获得了与儿子穿同号码球衣的机会。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/10/d203f3a91ae2d065a8ba14d09e3e7b03.jpg"/>
+   </p>
+   <p>
+    根据此前的报道，特伦斯-罗斯已经与魔术正式签下一份4年5400万美元的续约合同。特伦斯-罗斯将在新赛季改穿8号球衣，此前他身穿31号球衣。
+   </p>
+   <p>
+    2018-19赛季常规赛，特伦斯-罗斯场均上场26.5分钟，得到15.1分3.5篮板1.7助攻0.89抢断；季后赛场均上场29.2分钟，得到13.2分3.6篮板1.4助攻1.20抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

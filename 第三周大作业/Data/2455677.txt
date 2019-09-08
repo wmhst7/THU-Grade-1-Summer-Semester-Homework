@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格里芬：我跟球迷们一样都是在推特上得知伦纳德加盟快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tomerazarly/status/1151764251507212289?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 07:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格里芬：我跟球迷们一样都是在推特上得知伦纳德加盟快船" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/0eb355eaffe9f9be96b282844b74302160fc690d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 在做客节目时，活塞的布雷克-格里芬谈到了科怀-伦纳德加盟快船的事情。
+   </p>
+   <p>
+    “是的，很疯狂，但是实话实说，我跟所有人得知此事的时间是一样的。”格里芬说道。
+   </p>
+   <p>
+    格里芬接着说：“我跟球迷们得知此事的时间是一样的，有些人差不多早就知道了，你会听到一些流言，但是那晚我在表演喜剧，然后伦纳德就宣布加盟快船，当时我的朋友们在舞台上布置，然后报道就出来了，他过来问我，‘怎么样？’我说不知道，那时候我才在推特上得知了，就像其他所有人一样。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

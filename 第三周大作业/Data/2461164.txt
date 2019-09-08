@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭公布季前赛赛程：首战对上海，海外赛在日本两战猛龙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Houston-Rockets-2019-preseason-schedule-Shanghai-14276598.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 07:29:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭公布季前赛赛程：首战对上海，海外赛在日本两战猛龙" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/8388aeb60afac30049420ad69d8b226f30263536.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 根据《休斯顿纪事报》马特-杨的报道，火箭公布了新赛季季前赛的赛程安排。
+   </p>
+   <p>
+    具体赛程如下（均为北京时间）：
+   </p>
+   <p>
+    10月1日，主场对阵上海；
+   </p>
+   <p>
+    10月8日，日本埼玉超级体育馆对阵猛龙；
+   </p>
+   <p>
+    10月10日，日本埼玉超级体育馆对阵猛龙；
+   </p>
+   <p>
+    10月17日，主场对阵马刺；
+   </p>
+   <p>
+    10月19日，客场对阵热火。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

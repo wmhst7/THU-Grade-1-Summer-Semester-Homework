@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：凯尔特人正式签下新秀兰福德与格兰特-威廉姆斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/celtics/news/pressrelease/celtics-sign-pair-first-round-draft-picks" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 09:43:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：凯尔特人正式签下新秀兰福德与格兰特-威廉姆斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/320b991097ea4bf4490d444daab3aa7c74ff3e50.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 凯尔特人今天官方宣布，球队已经正式签下了新秀罗密欧-兰福德和格兰特-威廉姆斯。
+   </p>
+   <p>
+    来自印第安纳大学的兰福德今夏在首轮第14顺位被凯尔特人选中，在过去赛季的NCAA比赛中，兰福德共出战32场，场均34.1分钟内可以得到16.5分5.4篮板2.3助攻。
+   </p>
+   <p>
+    格兰特-威廉姆斯来自田纳西大学，他在今夏首轮第22顺位被凯尔特人选中，在过去赛季的NCAA比赛里，威廉姆斯共出战37场，场均31.9分钟内可以贡献18.8分7.5篮板3.2助攻1.1抢断1.5盖帽。
+   </p>
+   <p>
+    根据联盟新秀合同，兰福德在2019-20赛季的薪水为346万美元，而格兰特-威廉姆斯在2019-20赛季薪水为238万美元。
+   </p>
+   <p>
+    随后，兰福德和威廉姆斯分别在个人Instagram上晒出了签约照片。
+   </p>
+   <p>
+    <img alt="" src="https://wx1.sinaimg.cn/mw1024/3ed1808dly1g4wtdz1qxzj20fy0jy0tw.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://wx4.sinaimg.cn/mw1024/3ed1808dly1g4wtdz1pklj20j00ixgmu.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

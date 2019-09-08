@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  旅途顺利！库兹马晒照展示自己跟随美国男篮飞抵墨尔本
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/2113411461352293464?utm_source=ig_story_item_share&amp;igshid=ojfjmxrmt9nx" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 09:59:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="旅途顺利！库兹马晒照展示自己跟随美国男篮飞抵墨尔本" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/34d7c29d42e7c9fc35ca4813f931a2b4223876ba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 正在跟随美国男篮备战世界杯的湖人前锋凯尔-库兹马今日更新Instagram Story晒出自己抵达澳大利亚墨尔本的自拍照。
+   </p>
+   <p>
+    美国男篮在抵达墨尔本后将分别在墨尔本和悉尼与澳大利亚男篮和加拿大男篮连续进行三场热身赛，随后飞往中国上海开启男篮世界杯征程。
+   </p>
+   <p>
+    北京时间8月22日，美国队将在墨尔本对阵澳大利亚队。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/09/163b52994a0967fac3f078be9ab41d57.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

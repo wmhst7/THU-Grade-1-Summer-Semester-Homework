@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<style>
+    
+    h1 {
+        color: black;
+    }
+
+    body {
+        background-color: tomato;
+    }
+
+    p {
+        color: black;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    div[class="news"] {
+        text-align: center;
+        font-size: 14px;
+        background-color: ghostwhite;
+        border: 2px solid whitesmoke;
+        border-radius: 25px;
+        padding: 35px;
+        position: absolute;
+        width: 70%;
+        left: 15%;
+        right: 15%;
+    }
+
+    img {
+        width: 100%;
+    }
+    h1 {
+    color: black;
+    }
+
+    body {
+    background-color: tomato;
+    }
+
+   
+   
+    input {
+    outline-style: none;
+    border: 0px;
+    border-color: white;
+    border-radius: 5px;
+    padding: 23px, 24px;
+    width: 620px;
+    font-size: 20px;
+    font-family: "Microsoft soft";
+    }
+
+    div {
+    text-align: center;
+    font-size: 10px;
+    color: lightgray
+    }
+
+    ul {
+    padding: 0;
+    margin: 0;
+    }
+
+    li {
+    list-style: none;
+    vertical-align: "center";
+    font-size:14px;
+    color: gray;
+    }
+    div[class="news"] {
+    text-align: center;
+    font-size: 14px;
+    background-color: ghostwhite;
+    border:2px solid whitesmoke;
+    border-radius:25px;
+    padding:35px;
+    position:absolute;
+    width: 70%;
+    left:15%;
+    right:15%;
+    }
+
+    a[class='brand']
+    {
+    color:white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    a.brand:link { text-decoration: none;color: white}
+    a.brand:active { text-decoration:blink}
+    a.brand:hover { text-decoration:none;color: gray}
+    a.brand:visited { text-decoration: none;color: white}
+    
+</style>
+<div class="navbar" align='center'>
+    <div class="navbar-inner">
+        <a class="brand" href="../">搜索</a>
+        <a class="brand" href="/teamlist/">球队热度榜</a>
+        <a class="brand" href="/spy/">爬虫管理</a>
+
+    </div>
+</div>
+<br>
+<br>
+<div class='news'>
+    <h1>爬虫管理</h1>
+    <a href="/spy?status=b">开始爬虫</a>
+    <a href="/spy?status=s">暂停爬虫</a>
+    <p>{{zt}}</p>
+</div>
+<br>

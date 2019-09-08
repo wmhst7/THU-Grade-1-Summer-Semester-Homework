@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人中锋塔科-法尔今日更新社媒晒训练照：努力训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0t5VFJBwEy/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 10:33:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人中锋塔科-法尔今日更新社媒晒训练照：努力训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/62577c3447b30f2548f8c23172c0a2bd040b1906.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 今日，凯尔特人中锋塔科-法尔更新了个人社交媒体Instagram，晒出自己与76人中锋乔尔-恩比德共同训练的照片（见新闻配图）。
+   </p>
+   <p>
+    法尔配文道：“训练，训练，训练。”
+   </p>
+   <p>
+    根据此前报道，今年的落选秀塔科-法尔代表凯尔特人参加了今年的夏季联赛，在夏季联赛中，法尔场均能得到7.2分4篮板1.4盖帽。之后法尔与凯尔特人签订了一份双向合同。
+   </p>
+   <p>
+    另外，根据维基百科的统计，身高2.31米的法尔是目前世界上第67高的人。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190804/10/97231cbde4c8161234b50d83b668fa41.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190804/10/623ecccb511e876ccecc4bb67880b0d7.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

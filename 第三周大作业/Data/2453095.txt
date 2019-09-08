@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小佩顿：新奥尔良就像家，鹈鹕永远是我的主队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzyuywYJ7bb/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 13:08:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小佩顿：新奥尔良就像家，鹈鹕永远是我的主队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/b22f93d33151377d73e7e457e5e7701609ec5f07.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 根据此前的报道，自由球员埃尔弗里德-佩顿与尼克斯达成2年1600万的协议，第二年为球队选项。今天佩顿在Instagram上发布了一张图片，感谢老东家鹈鹕。
+   </p>
+   <p>
+    佩顿写道：“致本森家族（球队老板），教练们，队友们，工作人员们，合伙人们，媒体们还有所有的鹈鹕球迷们，这与众不同的一年，感谢你们！新奥尔良对我来说就像家一样，鹈鹕永远是我的主队。”
+   </p>
+   <p>
+    2018-19赛季常规赛，小佩顿在鹈鹕场均上场29.7分钟能得到10.6分5.2个篮板7.6次助攻1.05次抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/13/fd66a37c105aa74761f3f45ac6c54189.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

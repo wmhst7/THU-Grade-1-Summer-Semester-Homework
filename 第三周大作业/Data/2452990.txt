@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]攻防全能！八村垒命中三分后随即大帽对手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.weibo.com/1883881851/HD4RytlKs?from=page_1006061883881851_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment" target="_blank">
+     微博
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 07:46:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://www.weibo.com/1883881851/HD4RytlKs" onclick="openVideo('https://www.weibo.com/1883881851/HD4RytlKs');return false;" target="_blank">
+    <img alt="[视频]攻防全能！八村垒命中三分后随即大帽对手" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/3c8780bc6210ad772bfa2d08bc09c9c8c717611c.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯
+    <a href="https://www.weibo.com/1883881851/HD4RytlKs" target="_blank">
+     视频: [视频]攻防全能！八村垒命中三分后随即大帽对手»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

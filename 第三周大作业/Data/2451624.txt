@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科林斯：我会在休赛期保持体型，不断打磨自己的技术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1148064479239790592" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 18:06:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科林斯：我会在休赛期保持体型，不断打磨自己的技术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/d2697cf22479f9ec1ffd85373cdcff8aedbb1649.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 开拓者球员扎克-科林斯在今日现场观战夏季联赛时接受了记者采访。
+   </p>
+   <p>
+    回顾过去的这个赛季，科林斯说：“过去这个赛季球队经历了很多事情，你知道的，经验是最好的老师。我在职业生涯的第二个赛季就随队打进西部决赛，能够为这样一支出色的球队出场，这样的经历驱动我不断前进。在此期间，我学到最重要的事情就是保持稳定，在常规赛阶段做到这一点已经足够困难了，但到了季后赛，你没有任何选择的余地，你必须在每一场比赛中都拼尽全力，如果你做不到，你就会被摁在板凳上。”
+   </p>
+   <p>
+    谈到如何为下赛季做好准备，科林斯表示：“就是继续做我在过去的休赛期所做的事情，保养好自己的身体，保持出色的体型，不断打磨自己的技术，无论下赛季球队希望承担怎样的角色，我都会义不容辞。”
+   </p>
+   <p>
+    前队友迈耶斯-伦纳德今日也现场观战了夏季联赛，谈到迈耶斯-伦纳德离队，科林斯说：“我会想念他，我们整支球队都会想念他，显而易见，他是一位出色的球员，同时也是一个很棒的家伙，队友、教练和训练师都愿意和他待在一起，他肯定能够在迈阿密打出出色表现。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

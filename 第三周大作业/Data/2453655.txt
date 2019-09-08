@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小迈克尔-波特：很高兴这次的伤病不严重，现在感觉很好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.denverpost.com/2019/07/13/nuggets-michael-porter-jr-summer-league-social-media/" target="_blank">
+     丹佛邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 04:46:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小迈克尔-波特：很高兴这次的伤病不严重，现在感觉很好" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/1a002ee24a0f6231b3e99955f2db4087cd21b3c9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 在上周的队内对抗赛扭伤了左膝盖而缺席拉斯维加斯夏季联赛的掘金前锋小迈克尔-波特在近日接受了《丹佛邮报》的采访。
+   </p>
+   <p>
+    在谈到上周的受伤时，波特说：“我在对抗赛的最后一个回合里受伤了，我很难过，但在度过了最初的抓狂和伤心后，我必须重新振作起来，这很难让人接受，但我必须向前看，我已经等待了一年半的时间，我可以再多等待几天。我很高兴这次的伤病不严重，我现在感觉很好，我现在立马可以比赛只要队医允许。我真的非常想参加夏季联赛，但我知道我的目标不在于此，而是在于新赛季。”
+   </p>
+   <p>
+    在谈到从2017年夏天就遭遇的伤病折磨时，波特说：“这是我为什么远离社交媒体，我讨厌人们给我定的高预期，尤其是当我因为伤病而不能参加比赛时，人们又会因此而黑我。这很艰难，我们可能不被当做是人类来看待，我看到过那样的言语，因此我决定远离这些东西。但社交媒体优势很好的开拓你的品牌价值的地方，因此你当我能够打球时，我可能会重新再用社交媒体。但是目前，当我仍在康复期时，我想要远离这些负面的东西。”
+   </p>
+   <p>
+    2017年夏天，波特接受了腰间盘突出手术，直到今年3月才复出，仅仅在NCAA打了三场比赛，场均出战17.7分钟，可以拿到10分6.7篮板，他的选秀顺位也因此滑落到了第14。2018年夏天，在被掘金选中后，他又再次接受了腰椎手术，以缓解腰椎间盘突出而带来的问题，他也因此缺席了整个2018-19赛季。
+   </p>
+   <p>
+    根据此前的报道，波特原本计划参加今年的拉斯维加斯夏季联赛且没有出场限制，却在队内对抗赛中不幸扭伤左膝盖，缺席了整个夏季联赛。目前，波特还尚未代表掘金出场过。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

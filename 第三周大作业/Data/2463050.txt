@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波维奇乱入镜头提醒记者，库兹马媒体采访提前结束
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thelakersreview/status/1159334789503053825?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 17:35:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波维奇乱入镜头提醒记者，库兹马媒体采访提前结束" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/984fddbb06e1fa2d39a1824a170054efd4f14112.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 据多家媒体报道，当美国男篮结束训练营第三天的训练后，众多记者在场边包围湖人前锋凯尔-库兹马对其进行群访，但这次采访却由于美国队主帅格雷格-波波维奇的“介入”而提前结束。
+   </p>
+   <p>
+    根据多家媒体拍摄到的现场画面显示，当库兹马接受采访时，现场球馆的蜂鸣器自动响起。此时波波维奇突然进入镜头并向采访人群说道：“伙计们，听到铃声了吗？计时器数字全部归零了，好吧？”
+   </p>
+   <p>
+    众多记者和库兹马面对波波维奇的交涉迅速起身离开，提前结束本次采访。值得一提的是，库兹马在转身离开前拥抱了一下身后的波波维奇。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4403061964937061">
+     视频：波波维奇上前中断记者对库兹马的采访
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/17/8fa05b1d050bcb55cee531aaa1b072af.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/17/fff931da44d958c59d3c48304245dee3.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190808/17/15f44e98c69da2355ff9ff04eccd3a36.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

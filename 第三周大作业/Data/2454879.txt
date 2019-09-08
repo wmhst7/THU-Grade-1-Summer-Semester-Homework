@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利谈威少：他每场付出所有的努力，却只得到批评
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=zfijW9wUHHA" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 10:45:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利谈威少：他每场付出所有的努力，却只得到批评" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/9c99f109d087fda86af7072ebed92efac6fc882e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 根据此前消息报道，火箭官方今日宣布，他们已经完成了拉塞尔-威斯布鲁克的交易，他们送出了克里斯-保罗，两个受保护的首轮签和其他的选秀权条件，得到了后卫拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    随后，名人堂成员查尔斯-巴克利接受了由前NBA球员杰伦-罗斯主持的一档访谈类节目的视频连线采访。
+   </p>
+   <p>
+    在谈及威斯布鲁克加盟火箭并搭档詹姆斯-哈登时，巴克利表示：“众所周知，两年前，我建议让威斯布鲁克打打双能卫的位置，因为我认为这是唯一能让威斯布鲁克提高效率的方式，但是威斯布鲁克需要球权，同样詹姆斯-哈登也需要球权。我唯一在思考的一件事就是你们很早之前就认为丹吉洛-拉塞尔可以成为交易筹码，我当时也认为，如果事情没有按照理想的情况发展下去，威斯布鲁克也可以成为交易筹码。我不清楚他们之间的搭配效果如何，但我认为这会很有趣。实话实说，我为威斯布鲁克感到伤心。当我们看着这些NBA球员时，其中一些人一年赚3000多万美元却无法上场，可威斯布鲁克每场比赛都付出150%的表现，可他却只获得人们的批评，这真的让我很抓狂。我们都想要赢得总冠军，但我一直很尊敬威斯布鲁克。虽然他不是一个完美的篮球运动员，但他每场比赛都付出所有的努力。作为一个老球员和球迷，我总是很钦佩他。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

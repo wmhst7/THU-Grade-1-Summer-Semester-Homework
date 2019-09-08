@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-莫里斯新赛季将前往希腊打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nicolalupo99/status/1170111760424230912?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 08:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-莫里斯新赛季将前往希腊打球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/fc693a9a0552b46c2cd1f69bafb404c778786ab3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 根据Sportando体育Nicola Lupo的报道，多位消息人士透露，杰伦-莫里斯已经与希腊A1联赛的Aris Thessaloniki俱乐部签约。
+   </p>
+   <p>
+    23岁的莫里斯身高1.98米，体重88公斤，他是2017年选秀大会的落选秀。
+   </p>
+   <p>
+    2018-19赛季常规赛，莫里斯在雄鹿场均出战7.1分钟可以拿到2.5分1.3篮板1助攻0.5抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

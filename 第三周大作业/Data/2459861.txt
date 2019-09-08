@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人老板：沃克是现象级球员，我们要继续向前进发
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisForsberg_/status/1156217296815345665" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 23:21:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人老板：沃克是现象级球员，我们要继续向前进发" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/e665107799667d2142f50a2ce8a0f7914ab4642a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今年夏天，凯尔特人在失去凯里-欧文之后，迅速签下了肯巴-沃克，保留住了球队在控球后卫位置上的竞争力。在近期接受采访时，凯尔特人老板之一的Wyc Grousbeck谈及球队这一变化。
+   </p>
+   <p>
+    欧文在今夏自由球员市场中，以4年1.42亿美元的合同加盟篮网，谈及欧文的离开，Grousbeck表示：“欧文几天前出乎意料地给我发了条短信，这短信很长，写得很棒，很有思想深度，我们交流得很开心。他是个很棒的家伙，他为波士顿奉献了两年的时间，尽其所能。而现在我们要继续向前进发了。”
+   </p>
+   <p>
+    沃克在今夏自由球员市场中，以4年1.41亿美元的合同加盟凯尔特人，谈及沃克的加盟，Grousbeck说道：“沃克是一个现象级的球员，浑身上下都散发着正能量。他选择了我们，并对于加盟凯尔特人感到无比激动。他想和队史上的旗帜性球员和比尔-拉塞尔交谈，问问他们成为一名凯尔特人是怎样的感受。他真的对此感到无比兴奋。”
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断0.51盖帽；沃克场均出场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断0.41盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

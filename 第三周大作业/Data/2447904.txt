@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  各有千秋！媒体对比詹姆斯身穿6号和23号球衣生涯履历
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn/status/1144433264897220608?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 14:12:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="各有千秋！媒体对比詹姆斯身穿6号和23号球衣生涯履历" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/88eb1840d68043cc3b819d5fef96ab2d105d5fee.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 湖人前锋勒布朗-詹姆斯在将23号球衣号码让给未来队友安东尼-戴维斯后，今日更新社媒表示自己将重新选择6号作为球衣号码。媒体ESPN制图总结了詹姆斯16年生涯目前为止身穿6号与23号球衣的数据对比情况。
+   </p>
+   <p>
+    詹姆斯身穿6号球衣共4个赛季，场均得到26.9分，共赢得2次总冠军，2次MVP；身穿23号球衣共12个赛季，场均得到27.2分，共赢得1次总冠军，2次MVP。
+   </p>
+   <p>
+    目前为止，詹姆斯使用6号球衣期间共效力于热火4个赛季；詹姆斯使用23号球衣期间先后效力于骑士11个赛季、湖人1个赛季。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

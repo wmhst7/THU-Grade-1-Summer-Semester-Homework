@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：猛龙正式签下朗戴-霍利斯-杰弗森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/raptors/press-release/raptors-sign-rondae-hollis-jefferson" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 00:52:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：猛龙正式签下朗戴-霍利斯-杰弗森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/1b145432e7ca2d3698ff3e4a38db6d87695195e2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 根据猛龙官方的报道，球队已经正式签下朗戴-霍利斯-杰弗森，合同为期一年，根据球队的政策，合同具体的金额并未透露。
+   </p>
+   <p>
+    杰弗森是2015年的首轮第23顺位新秀，职业生涯前四年全部在篮网效力，共出场234场比赛，场均出场23.6分钟，得到9.9分5.9篮板。
+   </p>
+   <p>
+    2018-19赛季常规赛期间，杰弗森共出战了59场比赛，场均出场20.9分钟得到8.9分5.2篮板1.6助攻；季后赛期间，他场均出场15.5分钟可以得到13.3分3.0篮板1.5助攻.
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

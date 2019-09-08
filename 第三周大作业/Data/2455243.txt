@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：篮网正式签下后卫大卫-努瓦巴
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/2019/07/17/brooklyn-nets-sign-david-nwaba" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 03:03:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：篮网正式签下后卫大卫-努瓦巴" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/0397d1dd74e6ceac260a019acfe7ff7c8d9f0afc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，篮网通过NBA官网宣布球队正式签下后卫大卫-努瓦巴。
+   </p>
+   <p>
+    根据The Athletic报道，大卫-努瓦巴与篮网达成一份2年老将底薪合同，第二年为球队选项。
+   </p>
+   <p>
+    根据薪资专家Bobby Marks报道，这份合同的第一年年薪为170万美元，第二年年薪为180万美元，其中第二年的合同转为保障日期为当地时间7月7日。
+   </p>
+   <p>
+    2018-19赛季常规赛，努瓦巴共代表骑士上场51次，场均上场19.3分钟，得到6.5分3.2篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

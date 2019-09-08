@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼尔森：会想如果霍华德留在魔术的话我们是否会夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1170074421291356183?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 07:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼尔森：会想如果霍华德留在魔术的话我们是否会夺冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/6e6b95930f53d2a286ba9961ecd5c69f70dec97e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 德怀特-霍华德的前队友贾米尔-尼尔森接受采访时谈到了霍华德。
+   </p>
+   <p>
+    如果霍华德之前没有离开魔术会怎么样？尼尔森说：“我从不带着遗憾去生活，所以我做的一切，我都为此负责，但是我确实有一些问题，如果他留下会怎么样，如果我们都留下，我们是否会夺冠。”
+   </p>
+   <p>
+    “当你想这个的时候，无论他是否在球队，我可以告诉你的是，我们本都可以处在一个不同的情况中，这是肯定的，这也是很明显的，因为在那个时刻，我们都在奥兰多，城市爱我们，接受了我们，我们也爱那座城市，我们在场上有着不错的表现，而且我们在社区里也做了一些好事，在我看来，这就是做职业运动员的意义所在，你完全接受一座城市，那座城市也完全接受你，你会成为那里的传奇，这是我们本都可以做到的事情。”
+   </p>
+   <p>
+    在2012年8月，霍华德在一笔四方交易里被魔术送到湖人。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

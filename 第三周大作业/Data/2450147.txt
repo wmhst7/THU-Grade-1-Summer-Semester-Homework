@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯：安吉当年把我交易走是一次很聪明的选择
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.masslive.com/celtics/2019/07/kendrick-perkins-was-never-mad-about-being-traded-by-boston-celtics-it-was-actually-a-smart-move.html" target="_blank">
+     MassLive
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 11:24:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯：安吉当年把我交易走是一次很聪明的选择" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/8e8a3da98aebf406d7004db3a733a9bef2f406f6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 前凯尔特人球员肯德里克-帕金斯最近在做客Hoop Collective podcast节目时再次谈起了当初被绿衫军交易的话题，期间他表示，尽管被交易让自己和队友们很难过，但他不得不承认那是丹尼-安吉一次很聪明的改变。
+   </p>
+   <p>
+    2011年2月份，凯尔特人在交易截止日前将帕金斯和内特-罗宾逊送至雷霆，换来杰夫-格林、内纳德-科斯蒂奇、部分现金和一个2012年首轮签（后选中法布-梅洛）。
+   </p>
+   <p>
+    “我当时知道自己会被交易的，”帕金斯说道，“丹尼（安吉）和我那时候一直在办公室谈话。我记得当时他提供给了我一份新合同，那时我之前4年1600万的合同即将到期。他对我说，‘Perk（帕金斯的昵称），我们很爱你，但我们没那么多空间，如果你愿意的话，我们会提供一份年薪在600万美元左右的合同。’”
+   </p>
+   <p>
+    “但我说，‘噢好吧，我才25岁，我现在要担任首发中锋的位置，我在寻找平均年薪在1000万美元的合同’。他很尊敬我的话……所以后来发生的交易震惊了你们每个人，但我却不惊讶。而且，我一点都不生丹尼-安吉的气，因为他本可以送我去任何球队的，但他最终选择把我送到了一支能够匹配给我大合同的球队。所以从丹尼-安吉的角度来看，那不是一次失败的交易，因为之后的那个夏天，无论如何我都会离开凯尔特人的，所以事实上那对丹尼来说是一次非常聪明的选择。”帕金斯如此说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

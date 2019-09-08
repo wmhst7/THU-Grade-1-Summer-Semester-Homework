@@ -22,3 +22,5 @@ Found grid size: 11859x11859
 
 3.15user 0.36system 0:03.56elapsed 98%CPU (0avgtext+0avgdata 147600maxresident)k
 280inputs+75016outputs (1major+28392minor)pagefaults 0swaps
+sh: ./main: cannot execute binary file
+sh: ./main: cannot execute binary file

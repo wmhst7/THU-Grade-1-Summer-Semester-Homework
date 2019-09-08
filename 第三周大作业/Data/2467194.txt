@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  训练师晒哈登训练照：哈登是这一代最好的得分手之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1XQfPGptGU/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 07:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="训练师晒哈登训练照：哈登是这一代最好的得分手之一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/2717858a625d86b1430d35b58fbb0edf835ee446.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 NBA训练师克里斯-布里克利更新个人社交媒体Instagram，晒出一组火箭球员詹姆斯-哈登训练的照片，并配文：“哈登是我们这一代最好的得分手之一，毫无疑问。”
+   </p>
+   <p>
+    布里克利是NBA著名训练师，包括勒布朗-詹姆斯、凯文-杜兰特、本-西蒙斯等NBA球员在休赛期都会参加他的训练营。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/bbac14ce0d444a381c584a08de9dc160.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/2f0406684dbb668af9dd9d3adede9112.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/60773776f8e03e8aa913632041dc1e2e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/1de1e5c4dd23f82cf9c0e24848a5cc51.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/58288c520a0963b34d2ebed94575eeb9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/d557775182f49ef1d7deb23a114fadfd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/07/12ff6483690fc2bc006baa8e2e7cbdce.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

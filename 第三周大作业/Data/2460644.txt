@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大加索尔晒理疗照：继续恢复，曼巴精神
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/paugasol/status/1156945503592095744" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 23:29:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大加索尔晒理疗照：继续恢复，曼巴精神" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/6f08da8c240d97154606a63c9173c6a537d6b4f0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 波特兰开拓者队中锋保罗-加索尔今天在个人推特上传了一张自己接受理疗的照片（见新闻配图）。
+   </p>
+   <p>
+    “今天踩了90分钟的单车，并进行了理疗，继续恢复！#曼巴精神#”加索尔写道。
+   </p>
+   <p>
+    根据此前的报道，加索尔在休赛期与开拓者签下了一份1年260万美元的老将底薪合同。
+   </p>
+   <p>
+    2018-19赛季，加索尔在赛季中期与马刺达成买断，随后加盟雄鹿。但在赛季末遭遇脚踝伤病，之后接受了左脚舟骨应力性骨折手术。
+   </p>
+   <p>
+    2018-19赛季常规赛，加索尔共代表雄鹿和马刺上场30次，场均上场12.0分钟，得到3.9分4.6篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

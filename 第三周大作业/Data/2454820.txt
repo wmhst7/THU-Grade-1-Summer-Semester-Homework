@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：火箭送出保罗和选秀权，交易得到威斯布鲁克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/rockets/rockets-acquire-eight-time-all-star-russell-westbrook" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 08:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：火箭送出保罗和选秀权，交易得到威斯布鲁克" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/10072c92e22a2cf504a506fd6b9a2c4ca99b08b2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 火箭官方今日宣布，他们已经完成了拉塞尔-威斯布鲁克的交易，他们送出了克里斯-保罗，两个受保护的首轮签和其他的选秀权条件，得到了威斯布鲁克。
+   </p>
+   <p>
+    雷霆之前同意将威斯布鲁克交易到火箭，得到保罗，火箭的2024年和2026年的首轮签和2021年和2025年首轮签互换权。
+   </p>
+   <p>
+    威斯布鲁克和詹姆斯-哈登曾在2009-2012年期间共同为雷霆效力，他们两人与凯文-杜兰特被并称为“雷霆三少”，在2011-12赛季帮助雷霆打入总决赛。
+   </p>
+   <p>
+    威斯布鲁克合同尚余4年，金额为1.7亿美元，其中2022-23赛季的金额达到4666万美元，为球员选项。
+   </p>
+   <p>
+    威斯布鲁克2008年首轮第4顺位被雷霆选中，职业生涯此前一直效力于雷霆。威斯布鲁克共为雷霆出场常规赛821场，场均出场34.5分钟得到23分7篮板8.4助攻；出场季后赛98场，场均38.0分钟25.4分7.0篮板7.9助攻1.9抢断。在2016-17、2017-18、2018-19连续三个赛季完成常规赛场均三双。
+   </p>
+   <p>
+    保罗2017年夏天被快船交易至火箭，为火箭效力的两年间，保罗共为火箭打了116场常规赛，场均31.9分钟可以得到17.1分8.0助攻1.8抢断；出场季后赛23场，场均35.2分钟，得到19.4分5.7助攻2.1抢断，在2017-18赛季帮助火箭进入了西部决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯曾处于得到杜兰特和欧文的领先位置，篮网后来居上
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/01/inside-the-knicks-epic-durant-irving-choke-moment-of-clarity/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 21:50:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯曾处于得到杜兰特和欧文的领先位置，篮网后来居上" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/08d026ccda05856374babf609955afc14cdb4c31.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 《纽约邮报》记者Marc Berman今日撰文报道了凯文-杜兰特和凯里-欧文携手加盟篮网的内幕。
+   </p>
+   <p>
+    在整个过程之中，杜兰特始终没有和尼克斯会面，尼克斯主教练大卫-菲兹代尔从未获得机会发表自己的招募致辞。
+   </p>
+   <p>
+    杜兰特不想因其他球员的去向而影响了自己的选择，事实上，他也是这样做的。在自由球员市场开幕前，杜兰特就做出了决定。
+   </p>
+   <p>
+    一位联盟消息人士透露，考虑到尼克斯的原有阵容，如果杜兰特想要成为从跟腱伤势中恢复，并且在尼克斯打出一些名堂，身边就需要另一位球星搭档。
+   </p>
+   <p>
+    这名会选择和杜兰特一起加盟尼克斯的球星不会是欧文，因为后者认为篮网是更好的去处。
+   </p>
+   <p>
+    一位熟悉情况的消息人士透露，杜兰特和欧文一直想要联手，尼克斯被告知二人可能会在某个时间节点携手加盟。但随后二人观察到了篮网阵容的潜力，在尼克斯依旧深陷泥沼之时，篮网的球队文化已初具雏形，肯尼-阿特金森也是一位知人善用的出色教练。
+   </p>
+   <p>
+    因此，从时间线上来说，尼克斯在初期处于领先位置，篮网从某个时间节点开始逐渐占据上风，但自始至终不变的影响因素是纽约巨大的市场。
+   </p>
+   <p>
+    杜兰特的经纪人Rich Kleiman是纽约人，并且是一位忠实的尼克斯粉丝，据消息人士透露，Rich Kleiman曾积极推动杜兰特加盟尼克斯。
+   </p>
+   <p>
+    尼克斯篮球运营总裁史蒂夫-米尔斯在选秀日发布会上表示：“我们了解球员们在想什么，经纪人在想什么。现实情况是，球员只会根据自己的意愿做出最终决定，我们已经习惯了这个过程的起伏波折。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

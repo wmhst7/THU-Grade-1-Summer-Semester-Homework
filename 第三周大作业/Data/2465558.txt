@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯：湖人将看到泰伦-卢与里弗斯同时执教，这很可怕
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KendrickPerkins/status/1161767777830678529" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 07:59:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯：湖人将看到泰伦-卢与里弗斯同时执教，这很可怕" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/730ff9c8a7ca23443909436a0033205ba36479b4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 根据此前消息报道，泰伦-卢接近成为快船首席助教。
+   </p>
+   <p>
+    前NBA球员肯德里克-帕金斯发推对这一事情表达了自己的看法。帕金斯发文说道：“湖人给卢的报价过于苛刻，现在他们要看到卢和里弗斯同时站在场边执教了，这会是个可怕的场景。”
+   </p>
+   <p>
+    帕金斯随后还发推列出了自己心目中联盟现役前五教练，不过他特意强调现美国男篮主教练、马刺主帅格雷格-波波维奇独占鳌头，不在讨论之列。帕金斯列出的当今联盟现役前五分别是：快船主教练里弗斯、凯尔特人主教练史蒂文斯、开拓者主教练斯托茨、掘金主教练麦克-马龙/爵士主教练斯奈德（二人并列）、步行者主教练麦克米兰。“
+   </p>
+   <p>
+    “里弗斯执教魔术的时候是年度最佳教练，在凯尔特人时期带领三巨头第一年就夺冠，还带着没有全明星的快船打进了季后赛。”帕金斯补充道。
+   </p>
+   <p>
+    帕金斯最后还发推评价了热火主教练斯波，他表示：“我非常喜欢斯波，他在我前十的名单之中，但是勒布朗离开之后他们还没有取得什么成就，但我认为斯波是一个很好的教练。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

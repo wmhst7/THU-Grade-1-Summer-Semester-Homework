@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：鹈鹕与达里厄斯-米勒完成续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PelicansNBA/status/1153047879688294400" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 06:49:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：鹈鹕与达里厄斯-米勒完成续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/aaaeda97ec5e01d706e02008c9c8a19753e29f82.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 今天鹈鹕官方宣布，球队已经与前锋达里厄斯-米勒完成续约。
+   </p>
+   <p>
+    根据此前的报道，达里厄斯-米勒与鹈鹕达成2年1425万美元的续约协议，其中第二年合同为无保障。
+   </p>
+   <p>
+    鹈鹕篮球运营总裁大卫-格里芬评价米勒：“他有多方面的能力，在多个位置上保持投射威胁。很高兴球队能与他继续共同成长。他场上场下展现出的无私的天性，让他和我们的更衣室及社区完美合拍。”
+   </p>
+   <p>
+    2018-19赛季常规赛，米勒场均上场25.5分钟，得到8.2分1.9篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

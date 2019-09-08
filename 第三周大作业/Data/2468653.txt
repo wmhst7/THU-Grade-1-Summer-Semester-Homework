@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴恩斯：澳大利亚男篮非常出色，我们必须团结一致
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1165129855433732096" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 14:15:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴恩斯：澳大利亚男篮非常出色，我们必须团结一致" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/2a7d953373419926b340f8af667adc883db672b2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 美国男篮与澳大利亚男篮的热身赛正在进行当中，美国男篮前锋哈里森-巴恩斯在场边接受了媒体采访。
+   </p>
+   <p>
+    “对手的表现非常棒，给我们的防守制造了很大麻烦，我们需要拼尽全力，找到自己的比赛节奏，”巴恩斯说道，“澳大利亚男篮是一支非常出色的球队，他们已经并肩作战很长时间了，他们的表现很稳定。对于我们而言，我们必须团结一致，这对于我们而言是很棒的检验。”
+   </p>
+   <p>
+    半场比赛，巴恩斯3投全中，得到11分。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

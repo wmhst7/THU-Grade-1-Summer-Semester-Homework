@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  跟队记者：爵士考虑罗伊斯-奥尼尔出任首发4号位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/jazz-rumors-utah-might-start-royce-oneale-at-power-forward/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:46:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="跟队记者：爵士考虑罗伊斯-奥尼尔出任首发4号位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/75a2fd37b44a22593e188ff05a320be20e7f8a01.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 此前的爵士首发大前锋德里克-费沃斯今夏离队，据爵士跟队记者Tony Jones报道，在新赛季球队可能会考虑罗伊斯-奥尼尔来出任首发4号位。
+   </p>
+   <p>
+    Tony Jones表示：“他们会让波格丹诺维奇这样的投手搭档米切尔出场，球队追求杰夫-格林的原因就是他可以在底角投三分，并且球队在考虑罗伊斯-奥尼尔来出任首发大前锋。”
+   </p>
+   <p>
+    如此一来，爵士新赛季的首发会是迈克-康利、多诺万-米切尔、博杨-波格丹诺维奇、罗伊斯-奥尼尔，鲁迪-戈贝尔。
+   </p>
+   <p>
+    在18-19赛季，罗伊斯-奥尼尔出战82场常规赛，其中16场首发，场均上场20.4分钟，能得到5.2分3.5篮板1.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

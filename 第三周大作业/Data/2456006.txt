@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登：我与威少彼此信任，我们会取得成功
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1152282431602511872" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 07:57:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登：我与威少彼此信任，我们会取得成功" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/e36274a8a6d5a2fdaffa5cdfc758fa3efa916c67.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 火箭的詹姆斯-哈登今日参加活动时接受了采访，他谈到了拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    “我很兴奋，这是新的篇章，我知道他也很兴奋，他在俄城待了11年，所以对他来说，这是一个新的篇章，我们会张开双臂欢迎他的到来，我的意思是，这会成功的。”哈登说道。
+   </p>
+   <p>
+    哈登接着说：“这会成功，这是因为那种信任因素，我信任他，他信任我，很明显的是，再加上我们拥有的这群球员，还有我们已经完成的那些事情，对他来说，适应转换的过程应该很轻松，可以马上就融入进来。”
+   </p>
+   <p>
+    “时间，时间，我们认识很久了，小时候就认识，你在职业生涯后期才遇到某个球员，这很不同，这与你小时候就相识很不同，在我离开雷霆后，我也在看他的比赛，他是联盟最好的球员之一，他爆炸力十足，看他打球令人兴奋，我为他感到激动，现在我们将要在一起了。”
+   </p>
+   <p>
+    哈登认为他与威斯布鲁克都不用改变打法，他说：“当你拥有这样的天赋时，问题自然就会得到解决，你交流然后上场竞争，一个回合一个回合打，你弄清这一切，在赛季里，你会找到答案，情况就是这样，当你有拥有高天赋和高智商的球员时，并且你还有愿意做出牺牲的球员，这总是会成功。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

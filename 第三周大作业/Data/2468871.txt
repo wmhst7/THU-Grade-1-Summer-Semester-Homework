@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特纳：曼巴日和米勒生日同一天，这是多么美妙的巧合
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thekidet/status/1165294966383480832" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 03:34:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特纳：曼巴日和米勒生日同一天，这是多么美妙的巧合" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/e028135bef1abf3c03478b564fddffedba3ea294.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 美国当地时间8月24日是曼巴日，同时也是步行者名宿雷吉-米勒的生日。老鹰球员埃文-特纳就此更新了个人社交媒体。
+   </p>
+   <p>
+    “曼巴日和米勒竟然是同一天，这种巧合也太美妙了！科比和米勒曾在赛场上交手过，因为米勒也曾和迈克尔-乔丹成为对手，这也更加促成了科比和乔丹的对比。”特纳写道。
+   </p>
+   <p>
+    由于科比在个人职业生涯中先后穿过8号球衣与24号球衣，所以8月24日被称为“曼巴日”。科比在1996年第1轮第13顺位被黄蜂选中，后被交易至湖人，职业生涯场均出场36.1分钟，得到25.0分5.2篮板4.7助攻1.44抢断0.48盖帽，18次入选全明星，11次入选最佳阵容一阵，9次入选最佳防守阵容一阵，5夺总冠军，夺得1次MVP，2次总决赛MVP，4次全明星MVP，2次得分王，1次全明星扣篮大赛冠军。
+   </p>
+   <p>
+    米勒出生于1965年8月24日，1987年第1轮第11顺位被步行者选中，职业生涯始终为步行者一支队伍效力。生涯场均出场34.3分钟，得到18.2分3.0篮板2.98助攻1.08抢断，三分命中率为39.5%。曾5次入选全明星，并在2012年入选名人堂，其31号球衣也已被步行者退役。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

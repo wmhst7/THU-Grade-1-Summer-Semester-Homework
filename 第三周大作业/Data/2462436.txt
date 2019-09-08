@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：热火与犹多尼斯-哈斯勒姆续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/heat/news/heat-re-signs-haslem-20190806?utm_medium=social&amp;utm_source=twitter_heat&amp;utm_campaign=heatdotcom_pressrelease" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 07:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：热火与犹多尼斯-哈斯勒姆续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/1842b6a79ce7edee0cea9842d7a6797540453be5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 热火官方今日宣布，他们已经与犹多尼斯-哈斯勒姆完成续约，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    “我们骄傲地欢迎我们的队长回到球队征战他的第17个赛季，UD是热火的心脏和灵魂，我们骄傲地宣布能让他再次带领这支球队前进。”热火总裁帕特-莱利说道。
+   </p>
+   <p>
+    根据The Athletic记者Shams Charania之前的报道，哈斯勒姆与热火签下一年合同，完成续约，这份合同价值260万美元。
+   </p>
+   <p>
+    哈斯勒姆职业生涯至今16个赛季均在热火度过，他为热火出战854场常规赛，场均出战25.2分钟得到7.6分6.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：76人正式签下后卫特雷-伯克
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sixers/status/1156286093039460352/photo/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 03:51:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：76人正式签下后卫特雷-伯克" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/520ab1865a50bb2bda3d80545eb3917d1dffc8a1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 76人官方今日宣布球队正式签下后卫特雷-伯克。根据球队政策，合同细节并未披露。
+   </p>
+   <p>
+    根据76人记者Keith Pompey报道，伯克签下的是一份为期一年价值184万美元的加盟合同。
+   </p>
+   <p>
+    76人总经理埃尔顿-布兰德接受采访时表示：“伯克作为持球者的经历以及他的得分能力很适合我们的阵容，我们对于他的加盟感到很激动，期待他能为我们的球队带来积极影响。”
+   </p>
+   <p>
+    在上赛季尼克斯与独行侠关于克里斯塔-波尔津吉斯的交易中，特雷-伯克被送至独行侠。特雷-伯克此前的合同于今年夏天到期。
+   </p>
+   <p>
+    特雷-伯克于2013年被森林狼以首轮第9顺位选中。2018-19赛季常规赛，特雷-伯克场均出场19.4分钟，可以得到10.9分1.7篮板2.7助攻0.57抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

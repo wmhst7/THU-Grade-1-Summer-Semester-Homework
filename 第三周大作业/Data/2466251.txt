@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格兰特-威廉姆斯：希望有机会与卡特交流，向他学习经验
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/celtics-rookie-grant-williams-wants-meet-nba-legend-2019-20-season?cid=Yahoo&amp;partner=ya4nbcs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 10:46:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格兰特-威廉姆斯：希望有机会与卡特交流，向他学习经验" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/c96966cc4177e447dc6814bc313465ecf5140f4c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 近日，凯尔特人新秀格兰特-威廉姆斯接受了NBC体育的采访，谈到了老鹰球员文斯-卡特。
+   </p>
+   <p>
+    格兰特-威廉姆斯出生于1998年11月30日，卡特在1998年NBA选秀大会上被勇士选中，后被交易至猛龙时，威廉姆斯还没有出生。
+   </p>
+   <p>
+    2019-20赛季可能是卡特征战NBA的最后一个赛季。威廉姆斯喜欢卡特激动人心的球风，并称自己想在下赛季与卡特进行一些交流。
+   </p>
+   <p>
+    威廉姆斯说：“2000年（11月30日），我两岁了。我希望（下赛季）我能有机会与他见面，和他进行交流。我听说他是一个很棒的人。他的职业生涯很长，我想了解他的经验——我希望自己也能在联盟效力很久。”
+   </p>
+   <p>
+    根据此前的报道，自由球员文斯-卡特已经同意与老鹰签约，将重新回到老鹰阵中。这将是42岁的卡特第22个赛季，他也将超过德克-诺维茨基、凯文-加内特以及罗伯特-帕里什，成为在NBA效力时间最长的球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡特在老鹰场均上场17.5分钟，得到7.4分2.5篮板1.1助攻。
+   </p>
+   <p>
+    格兰特-威廉姆斯于今年被凯尔特人以首轮第22顺位选中，并在今夏签下了一份为期四年的新秀合同，其中第一年薪水为237万美金，2022年和2023年为球队选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

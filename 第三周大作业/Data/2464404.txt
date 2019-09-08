@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比斯利为签约活塞放弃了中国球队的260万美元保障合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JLEdwardsIII/status/1160619972533596160" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 03:42:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比斯利为签约活塞放弃了中国球队的260万美元保障合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/53086e3c12bb1ce6d3d06aca20ce77a50ebb6140.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 根据The Athletic记者James Edwards III的报道，迈克尔-比斯利为签约活塞放弃了中国球队给出的260万美元的保障合同。
+   </p>
+   <p>
+    根据此前的报道，迈克尔-比斯利与活塞达成一年协议。除非比斯利进入活塞新赛季常规赛的大名单，否则这份合同是不受保障的，这就意味着这份合同在新赛季常规赛开始前都是不受保障的。
+   </p>
+   <p>
+    比斯利于2018-19赛季曾短暂效力于湖人。在此期间，比斯利场均出场10.7分钟，可以得到7.0分2.3篮板1.0助攻。
+   </p>
+   <p>
+    比斯利被湖人交易至快船后，快船将其裁掉，随后他加盟中国CBA球队广东队。上赛季，比斯利为广东男篮出战5场比赛，场均出场33分钟，可以得到22.4分9.8篮板4.4助攻1.2抢断2.2封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴德蒙：国王的球风很适合我报价也好，年轻球员进步很大
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sacbee.com/sports/nba/sacramento-kings/article232809462.html" target="_blank">
+     萨克拉门托蜜蜂报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 11:04:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴德蒙：国王的球风很适合我报价也好，年轻球员进步很大" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/5ed38ec6094bb8cd0f20bd3e053c351da27f03db.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据此前的报道，国王与前老鹰球员德维恩-戴德蒙达成了一份3年4100万的协议。近日，戴德蒙接受了萨克拉门托蜜蜂报的采访。
+   </p>
+   <p>
+    谈到国王的球风时和自己与国王的适配度时，戴德蒙说：“那是我想要的打球方式。我与我的经纪人就自由市场的相关事宜开了会，他分析了所有情况，谈论了关于球队的事，国王的报价是最好的。国王最适合我，又提供了最好的报价，一切都很不错。希望这是我在接下来的三年里可以称之为家的地方。”
+   </p>
+   <p>
+    谈到国王的年轻球员时，戴德蒙说：“我看到了年轻球员受到了怎样的培养。我看到了达龙-福克斯从新秀第一年到第二年的进步给人留下了非常深刻的印象，巴迪-希尔德来到球队，开始进步，不断变得更好。巴格利和贾尔斯也进步了。”
+   </p>
+   <p>
+    2017-18赛季戴德蒙效力于老鹰时，当时的老鹰主教练，现任雄鹿主教练的迈克-布登霍尔泽曾鼓励他多投三分。对此，戴德蒙回忆称：“他告诉我说，他想要我投三分，先这样尝试12场比赛，看看发生了什么，然后我们将在12场比赛后重新进行评估。当时我能投进三分，所以实际上没什么好评估的。从那以后，我就开始大量出手三分了。”
+   </p>
+   <p>
+    戴德蒙还说：“我喜欢来回跑动和投三分。这当然是我所期待的。快节奏、来回跑动、跑轰、空接，投一些三分，那会很有趣。”
+   </p>
+   <p>
+    2018-19赛季常规赛，戴德蒙场均上场25.1分钟，得到10.8分7.5篮板1.4助攻1.08抢断1.11盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

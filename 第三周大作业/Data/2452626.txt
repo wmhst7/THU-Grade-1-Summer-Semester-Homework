@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  豪斯：希望莫雷继续引援和签约，我各个方面都有进步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1070371/2019/07/10/blood-sweat-and-wingstop-how-danuel-houses-journeyman-status-ended-in-a-place-he-calls-home/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 09:37:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="豪斯：希望莫雷继续引援和签约，我各个方面都有进步" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/f4b381befa6168e6174836f3d48493a6cf4c8abf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 根据之前NBA记者Adrian Wojnarowski的报道，丹纽尔-豪斯将以3年1110万美元的合同续约火箭。
+   </p>
+   <p>
+    豪斯与火箭已经商讨过在未来让豪斯扮演更大角色的事情，其中有可能会让他出任先发小前锋。
+   </p>
+   <p>
+    “这让我更早有了优势，我得到了可以早一点影响球队的机会，这样我可以让自己找到感觉，用各种方式来帮助球队，希望莫雷会继续引援和签约，然后我们就可以继续前进了。”豪斯谈到可能先发时说道。
+   </p>
+   <p>
+    谈到自己与火箭达成续约协议，豪斯说：“这很重要，这对我和我的家人来说都是巨大的一步，这可能会是让我们最终迈过那个坎儿的垫脚石，特别是对我们家族来说，并且这告诉了休斯顿的孩子们，如果你努力的话，那么任何事情都是可能的。”
+   </p>
+   <p>
+    “我会说整体都有进步，我感觉我整体都进步了，这是最吸引人的地方，我各个方面都进步了，知道这些很吸引人，让我想知道我还能做到什么，还能做出什么贡献，这是球迷们想看到的事情，我会努力开发自己，让自己变得更好。”豪斯谈到自己的进步时说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

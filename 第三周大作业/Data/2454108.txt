@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  前球队助教：我从国王的年轻核心阵容身上看到了巨大潜力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/kings/kings-have-couple-all-stars-fired-assistant-larry-lewis-believes" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 12:34:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="前球队助教：我从国王的年轻核心阵容身上看到了巨大潜力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/36cb3c38c035f6458ce9dd5ee226ec27ace17479.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 前国王助理教练Larry Lewis在近日接受媒体采访时谈到了国王的前景。
+   </p>
+   <p>
+    “他们有几位全明星球员，”Larry Lewis说道，“我从这支球队的年轻核心阵容身上看到了巨大的潜力，这些球员需要一个学习的过程，但他们正在非常迅速地适应正在发生的事情。他们是否仍有大量的东西需要学习吗？当然，但与此同时，这些家伙可不是闹着玩的。我本希望能够成为这支球队未来的一部分，但球队做出了他们的决定，我的内心非常平静。”
+   </p>
+   <p>
+    国王在赛季结束后解雇了主教练戴夫-乔尔格，作为其教练组的成员，Larry Lewis也一同离队。上赛季国王取得了39胜43负的战绩，Larry Lewis表示球队中的年轻人进步很快。
+   </p>
+   <p>
+    “这是很棒的经历，”Larry Lewis在谈到上赛季执教国王时说道，“这些球员们真的在成长，他们已经成熟了很多，我们度过了一个非常棒的赛季，球队也取得了进步，这些球员们变得更出色了，这才是最重要的。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

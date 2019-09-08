@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术6名球员2K能力值公布：武切维奇86，戈登81
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162723964583632896?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 22:11:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术6名球员2K能力值公布：武切维奇86，戈登81" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/9608de631a6eddb95510fea157b3e828d2c16ff4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2K Ratings网站近日更新了一批球员的NBA 2K20游戏初始能力值，6名魔术球员的能力值得以确定。
+   </p>
+   <p>
+    此次公布的魔术球员2K20初始能力值如下：尼古拉-武切维奇86，阿龙-戈登81，特伦斯-罗斯79，埃文-富尼耶78，乔纳森-艾萨克76，马克尔-富尔茨74。
+   </p>
+   <p>
+    富尔茨此前遭遇神经性胸廊出口综合症，2018-19赛季富尔茨因伤共代表76人出场19场，场均出场22.5分钟，贡献8.2分3.7篮板3.1助攻。在被交易至魔术后，富尔茨还未代表魔术出场过。
+   </p>
+   <p>
+    2018-19赛季常规赛，武切维奇场均上场31.4分钟，得到20.8分12篮板3.8助攻1.11盖帽；戈登场均上场33.8分钟，得到16分7.4篮板3.7助攻；罗斯场均上场26.5分钟，得到15.1分3.5篮板1.7助攻；富尼耶场均上场31.5分钟，得到15.1分3.2篮板3.6助攻；艾萨克场均上场26.6分钟，得到9.6分5.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

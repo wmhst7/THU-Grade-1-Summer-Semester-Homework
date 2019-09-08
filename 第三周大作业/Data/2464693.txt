@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：马丁-路德-金日部分赛程出炉，湖凯大战领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1160929089198288898" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 23:14:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：马丁-路德-金日部分赛程出炉，湖凯大战领衔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/4e5cd2fbc6b6a0cc9583cdb7f6de97214d0062c5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 据知名记者Shams Charania报道，在马丁-路德-金日当天，举行的部分比赛分别为：勇士对战开拓者，湖人迎战凯尔特人，火箭对战雷霆。
+   </p>
+   <p>
+    马丁-路德-金日为美国时间的每年1月20日，该日的全部比赛还未正式公布。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

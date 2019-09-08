@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗斯：我认为罗斯条款促进了NBA比赛的发展
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=qQaSqn74nDM&amp;t=315s" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 11:10:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗斯：我认为罗斯条款促进了NBA比赛的发展" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/ec8e825d6e847051abd293c4480976d76b9d56b9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 近日，活塞球员德里克-罗斯在做客Dan Patrick Show时谈到了以他名字命名的条款。
+   </p>
+   <p>
+    他说：“就像罗斯条款会帮助到刚来NBA的孩子们一样，我一直想着去帮助、爱和分享。我觉得我在某种程度上帮助了比赛，如果你去磨练，做你该做的事，并做得很好，你就会得到更多的钱。”
+   </p>
+   <p>
+    罗斯条款规定，那些曾在新秀合同期间当选过MVP，或者是曾在全明星票选中两次以首发身份入选全明星赛，亦或是曾两次入选年度最佳阵容（无论是第几队）的球员才有资格利用“罗斯条款”拿到一份大合同。
+   </p>
+   <p>
+    在2011年赢得MVP之后，德里克·罗斯与公牛队签下了一份为期五年，价值9430万美元的续约合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：陈晞)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

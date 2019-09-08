@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士前主帅杰里-斯隆病症加剧，生命垂危
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/jazz-coaching-icon-jerry-sloan-reportedly-dying-as-he-battle-parkinsons-dementia-015920702.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 06:05:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士前主帅杰里-斯隆病症加剧，生命垂危" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/277fc099743573f25c6100ed7b4ce9b05538f301.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 根据雅虎体育的报道，现年77岁的前爵士主帅杰里-斯隆近日身体状况恶化，一名接近斯隆的消息人士称斯隆如今已经生命垂危。
+   </p>
+   <p>
+    盐湖城论坛报记者Gordon Monson在报道中提到自己询问一位斯隆家庭以外了解斯隆病情细节的人，询问了他有关斯隆如何应对病情的问题，但那位消息人士只是透露，“斯隆快不行了”。
+   </p>
+   <p>
+    斯隆在2016年被诊断出阿尔兹海默症和帕金森症，近日症状加剧。
+   </p>
+   <p>
+    “他很虚弱。他的身体和精神如今都不太好，他现在需要全天候陪护。”
+   </p>
+   <p>
+    Gordon Monson还表示，斯隆如今的身体状况已经无法去到现场看爵士比赛。他仍然喜欢在私下拜访朋友，有时斯隆也在尽可能地下地走路。 他的妻子Tammy正竭尽全力帮助他并陪伴他，不过，他的意识正慢慢消失。
+   </p>
+   <p>
+    斯隆1988-2011年共担任爵士主教练23年，拿到了1127场胜利，是NBA历史上唯二带领一支球队拿到1000胜的主帅（2008年11月7日爵士胜于雷霆的比赛时斯隆执教爵士的第1000场胜利，另一位达成这一成就的是2015年2月9日率队战胜步行者的马刺主教练格雷格-波波维奇），并带队两次打进总决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

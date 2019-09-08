@@ -1,0 +1,48 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  惬意！乐福更新社媒晒与女友登机前的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1nIhXAgTSU/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 16:11:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="惬意！乐福更新社媒晒与女友登机前的合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/c56f13a89cc7e6cd328b34bc1c8a3f7a34a7644b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今天骑士球员凯文-乐福在Instagram上晒出了自己和女友在机场惬意的合影。
+   </p>
+   <p>
+    “当起飞前所有的行李都已经放在行李舱了。”乐福写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，凯文-乐福场均上场27.2分钟，得到17.0分10.9篮板2.2助攻。
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/16/3b9041f6acf45cd9791523f88dcad26b.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  某球队高管：如果我管理湖人，不会为了霍华德去冒险
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/08/lakers-notes-howard-faried-bynum.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 02:02:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="某球队高管：如果我管理湖人，不会为了霍华德去冒险" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/a619ac072e2a245881c06acf3552b8f92fae4da7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 根据NBA记者Adrian Wojnarowski此前消息的报道，多位消息人士透露，德怀特-霍华德目前与灰熊仍有合同在身，但灰熊允许霍华德探索在别队效力的可能性，球队也愿意与他进行合同买断事宜的讨论。并且多位消息人士透露，霍华德不太可能会代表灰熊出战。同时，本周湖人计划与乔金-诺阿、德怀特-霍华德和马利斯-斯贝茨在拉斯维加斯进行试训。
+   </p>
+   <p>
+    随后，某球队高管对此表达了自己的看法，该高管表示：“如果我管理着湖人，我不会为了霍华德让球队去冒险。他本身就充满了戏剧性，会带来负面影响，为什么今年要为他去冒险甘愿承担不可估量的后果呢？”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

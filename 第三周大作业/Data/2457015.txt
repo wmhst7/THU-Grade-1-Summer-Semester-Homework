@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  森林狼与鹈鹕助教汉森商讨加盟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://www.startribune.com/wolves-in-talks-to-bring-aboard-kevin-hanson-to-ryan-saunders-staff/513052682/?refresh=true" target="_blank">
+     明星论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 07:34:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="森林狼与鹈鹕助教汉森商讨加盟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/d6ffe0fb9649e73ea7fd4c9bf2cc58138968b62a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据《明星论坛报》记者Chris Hine的报道，多位消息人士透露，森林狼在与鹈鹕助教凯文-汉森商讨加盟的事情，并且已经接近让他加盟球队。
+   </p>
+   <p>
+    在过去的4个赛季里，汉森都在鹈鹕工作，汉森在指导安东尼-戴维斯这方面做得非常不错。
+   </p>
+   <p>
+    根据之前的报道，森林狼与主教练莱恩-桑德斯达成多年续约协议，随后为桑德斯的教练组引进了大卫-范德普尔、布莱恩-盖茨和巴勃罗-普里吉奥尼。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

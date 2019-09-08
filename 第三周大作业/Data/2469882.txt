@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比打趣奥尼尔：如果他不懒，我得有12枚戒指了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/27/kobe-bryant-shaquille-oneal-lakers-12-rings-lazy/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 04:55:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比打趣奥尼尔：如果他不懒，我得有12枚戒指了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/9e6710464f465017ff89631cdb61034ad88105ab.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，湖人名宿科比-布莱恩特在参加节目时谈到他和沙奎尔-奥尼尔的关系。
+   </p>
+   <p>
+    科比打趣道：“如果他不是那么懒，那我可得有12枚戒指了！”
+   </p>
+   <p>
+    科比随后补充道：“他是史上最佳。”
+   </p>
+   <p>
+    科比和奥尼尔共同赢下了3次总冠军，他们曾经有过一段不愉快的不和，但科比称他们现在非常好，并且一直保持交流。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雄鹿雇佣查德-福西尔为球队助教
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/bucks/news/bucks-hire-chad-forcier-assistant-coach" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 06:39:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雄鹿雇佣查德-福西尔为球队助教" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/e480542583a110c54d933aaab897c931354dd74b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 雄鹿官方今日宣布，他们已经雇佣查德-福西尔为球队助教。
+   </p>
+   <p>
+    在过去的18个赛季里，福西尔都在NBA担任助教，福西尔去年加盟了灰熊教练组。
+   </p>
+   <p>
+    从2001年进入NBA以来，福西尔曾经先后在活塞、步行者及马刺任职，从2007年以来，福西尔一直效力于马刺，主要负责球员发展，在2016年夏天，福西尔加盟魔术，担任魔术的首席助教。
+   </p>
+   <p>
+    “我很兴奋能让查德加盟我们的教练组，很激动可以再次与他共事，查德是一名经验十足的NBA教练，他非常擅长球员培养和讲解比赛，他会是我们教练组的一个出色补充，他会在球队有很大的影响力，很开心地欢迎他来到雄鹿。”雄鹿主帅迈克-布登霍尔泽说道。
+   </p>
+   <p>
+    在2007-13年期间，福西尔与布登霍尔泽都在马刺担任助教。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雄鹿正积极兜售伊利亚索瓦以释放薪资空间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/GeryWoelfel/status/1144722134322860032" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 07:01:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雄鹿正积极兜售伊利亚索瓦以释放薪资空间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/a028a328175b0e0d0071421cfa2c127f1e7b20bd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据记者Gery Woelfel报道，消息人士透露，雄鹿方面正努力试图交易艾森-伊利亚索瓦从而释放薪资空间。目前伊利亚索瓦的合同还剩下两年1400万美元。
+   </p>
+   <p>
+    记者向一位NBA管理层询问，雄鹿想要换回什么，该人士说：“什么都行。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

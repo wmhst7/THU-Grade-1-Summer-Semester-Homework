@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：湖人告知霍华德若出现任何越界行为，他就将走人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=1StBqYVFRfU" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 13:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：湖人告知霍华德若出现任何越界行为，他就将走人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/69c150b9fddf07348aaa29c04919462718ed5e63.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 NBA记者Adrian Wojnarowski今日做客电视节目详细报道了德怀特-霍华德即将在完成买断后与湖人签约的进展。多位消息人士透露，霍华德将与湖人达成的是一份为期一年价值260万美金的非保障合同。
+   </p>
+   <p>
+    关于湖人选择霍华德的原因，Woj表示：“德怀特-霍华德是他们眼中符合需求的球员，抢篮板，保护篮筐。他们看到了（霍华德）健康的背部，看到了一位已经减重25磅的球员。德怀特-霍华德的天赋从来无需质疑，他在更衣室内的表现，与队友和教练的相处方式才是让各支球队对引入他持怀疑态度的地方。因此我被告知他将签下一份非保障合同，湖人可以在1月7日之前随时裁掉他，而且不必支付赛季余下时间内包含的薪水。”
+   </p>
+   <p>
+    “我被告知，安东尼-戴维斯是在训练馆内与德怀特-霍华德进行交谈的球员之一，”Woj说道，“他们几乎全员出击，管理层，教练组，弗兰克-沃格尔，杰森-基德都在。他们拥有许多人参与进来对他进行约束，过去几天内他们对德怀特-霍华德传达了明确信息：‘如果你越界了，如果你以任何方式破坏这支球队，你都会走人。’他进入湖人训练馆时十分低调，但他们看到了一个谦逊的球员，看到了一个做出正确表态的球员。但是德怀特已经好几年都这样说话了，他会说准备改变自己，他们将根据行动而非言语来评判他。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  水花兄弟的最新成员！勇士官方晒出库里和拉塞尔合练照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0gm-NuJS16/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 02:59:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="水花兄弟的最新成员！勇士官方晒出库里和拉塞尔合练照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/122cdb200696e4a16394906feb5bb3aff9397cd8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日，勇士更新官方社媒Instagram，晒出史蒂芬-库里和丹吉洛-拉塞尔一起合练的照片。（见新闻配图）
+   </p>
+   <p>
+    此前篮网与勇士完成先签后换的交易，篮网得到凯文-杜兰特和一个2020年的受保护首轮签，送出丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄斯。拉塞尔的新合同预计为4年1.17亿美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，库里场均出场33.8分钟，得到27.3分5.3篮板5.2助攻。2018-19赛季常规赛，丹吉洛-拉塞尔场均出场30.2分钟，可以得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/02/182adbbce1add4917bdaa3b65e76cdf9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

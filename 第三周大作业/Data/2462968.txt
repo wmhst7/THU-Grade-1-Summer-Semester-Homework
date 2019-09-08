@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特：6月30日决定加盟篮网，友谊使我和欧文携手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/nets/news/kevin-durant-on-signing-with-the-nets-if-i-was-leaving-the-warriors-it-was-always-going-to-be-for-the-nets/309783346" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 13:16:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特：6月30日决定加盟篮网，友谊使我和欧文携手" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/926b1354968f77ec51df8cfedd573950b0a2510c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 布鲁克林篮网队前锋凯文-杜兰特今天接受了记者采访，采访中杜兰特谈到了加盟篮网的诸多细节。
+   </p>
+   <p>
+    在谈到自己是何时决定加盟篮网时，杜兰特说道：“6月30日（当地时间），那个早晨。我从来没有想过因为专注于未来而不尊重这项运动。这永远都只关乎于那一天、专注于那一天，以及那一天什么是最重要的。并且贯穿整个赛季，篮球是排在第一位的。”
+   </p>
+   <p>
+    在谈到与凯里-欧文携手加盟篮网时，杜兰特说道：“我觉得联盟中一部分人的友谊确实在增长，特别是在勒布朗-詹姆斯与德维恩-韦德成为了那样的好朋友并最终效力于同一支球队之后。人们将球员们之间的友谊视为他们之间合作的一种方式，这并没有错。事实就是这样，但是无论发生什么我们都会是很好的朋友。我们之前没必要在一起打过球，并没必要。我们之前就是好朋友了，我们只是刚好想要在一起打球而已。但这并不是我们一开始就计划好了的，只是刚好凑到一起。”
+   </p>
+   <p>
+    根据此前的报道，2019年休赛期，杜兰特与欧文以自由球员的身份加盟了篮网。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

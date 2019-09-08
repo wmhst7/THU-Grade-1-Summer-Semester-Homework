@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔支持詹姆斯打首发控卫，布拉德利可能首发
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/la-sp-lebron-james-lakers-point-guard-20190708-story.html?outputType=amp&amp;__twitter_impression=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 18:37:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔支持詹姆斯打首发控卫，布拉德利可能首发" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/39b3a4cd93d63342f25ead0cb313af4f56e75a6d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 据《洛杉矶时报》记者Brad Turner报道，多位消息人士透露，勒布朗-詹姆斯将担任湖人新赛季的首发控卫，球队主帅弗兰克-沃格尔支持这一想法。
+   </p>
+   <p>
+    据Turner报道，湖人可能会让丹尼-格林首发与詹姆斯组成后场搭档，并且湖人拥有包括埃弗里-布拉德利在内的多个后卫人选。在其9年生涯中曾为4支球队打过首发的布拉德利可以利用他的防守技巧防守对方的控卫，而詹姆斯将对位防守小前锋。
+   </p>
+   <p>
+    此前根据雅虎记者Chris Haynes报道，多位消息人士透露，湖人打算让勒布朗-詹姆斯担任球队新赛季的首发控卫。
+   </p>
+   <p>
+    多位消息人士透露，詹姆斯与新援丹尼-格林预计将组成湖人新赛季首发后场组合。
+   </p>
+   <p>
+    多位消息人士透露，自从上赛季的腹股沟伤势中复出以后，詹姆斯已恢复至出色的身体状态，且目前没有限制。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯共上场55次，场均上场35.2分钟，得到27.4分8.4篮板8.3助攻1.31抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

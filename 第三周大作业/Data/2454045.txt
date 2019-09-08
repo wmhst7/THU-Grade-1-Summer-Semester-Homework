@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  陪伴孩子！尼克-杨儿子社交媒体晒出家人游玩合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz6vro7FNnV/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 09:26:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="陪伴孩子！尼克-杨儿子社交媒体晒出家人游玩合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/59d98c89da2828bfe61d44ed4936e3dd8d269abf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，NBA球员尼克-杨的儿子小尼克-杨更新社交媒体Instagram，晒出尼克-杨与孩子们的合照（见新闻配图）。
+   </p>
+   <p>
+    “和我的爸爸还有妹妹在飓风港水上乐园！”他写道。
+   </p>
+   <p>
+    尼克-杨随勇士夺得2017-18赛季冠军，上赛季中期与掘金签约，但很快就被裁掉，至今没有NBA球队与其签约 。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳将在10月1日开启新赛季训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.azcentral.com/story/sports/nba/suns/2019/08/26/phoenix-suns-training-camp-open-flagstaff-oct-1/2127188001/" target="_blank">
+     亚利桑那共和报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 11:09:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳将在10月1日开启新赛季训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/19e7cb82c9830e47b3887132a027d0d4027fe3d8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 据美国记者报道，太阳发布了新赛季训练营开启时间和新闻发布会召开时间。
+   </p>
+   <p>
+    菲尼克斯太阳队将于9月30日媒体日之后，于10月1日在亚利桑那州弗拉格斯塔夫举行训练营。
+   </p>
+   <p>
+    菲尼克斯在过去的六年里在弗拉格斯塔夫的北亚利桑那大学共有过22次训练营。
+   </p>
+   <p>
+    上赛季，太阳队以19胜63负的战绩结束了球队历史上第二糟糕的战绩。随后总经理詹姆斯-琼斯炒掉了主教练科科斯科夫，并任命蒙蒂-威廉姆斯作为新任主教练。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

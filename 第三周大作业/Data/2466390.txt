@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝里内利谈意大利没进FIBA官方战力榜前10：这是动力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sportando/status/1162692507412631552?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 21:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝里内利谈意大利没进FIBA官方战力榜前10：这是动力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/e87935da2e2da4f0f5c7c89312d0b826eb96acf6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 FIBA官方最近公布了参加今夏男篮世界杯32球队的战力榜，意大利排名第11位。
+   </p>
+   <p>
+    意大利的马科-贝里内利在接受《米兰体育报》采访时表示，他把FIBA的排名看作是一种动力。
+   </p>
+   <p>
+    “我在社交媒体上看到了，我马上就截图了，然后存到了我的手机上，我们没有进入前10，我会把这当做是一种动力，我们作为一个整体会继续在攻防两端进步，帮助彼此抢篮板球。”贝里内利说道。
+   </p>
+   <p>
+    在今年的男篮世界杯上，塞尔维亚、意大利、菲律宾和安哥拉同在D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

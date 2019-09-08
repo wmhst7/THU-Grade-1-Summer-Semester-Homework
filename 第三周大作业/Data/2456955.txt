@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  瓦伦丁：持续提高是一项大工程，伤病意味着要花时间调整
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1088775/2019/07/22/bulls-productive-summer-highlights-teams-biggest-weakness-wing-depth/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 00:59:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="瓦伦丁：持续提高是一项大工程，伤病意味着要花时间调整" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/7192af30132e3df9e29c68d83712c6cd63dbdb25.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 近日，公牛后卫登泽尔-瓦伦丁接受TheAthletic记者Darnell Mayberry采访时称，自己恢复良好，希望下赛季能上升到新的水准。
+   </p>
+   <p>
+    瓦伦丁表示：“我只是在持续改进自己，这是一项大工程，我会在这方面坚持不懈以让大家看到我的进步。我在自己的角色中越来越舒服了，在生涯的第一第二年，我的能力得到了提高，整场比赛表现得更好。第三年我也将让它上升到新的高度，不断展示我所能做到的事，把一切都提升到新的水准。”
+   </p>
+   <p>
+    谈及自己的伤后恢复时，瓦伦丁表示：“受伤意味着需要调整。我已经在联盟打了两年了，所以我觉得我调整的速度比我预想中要快，这只是需要一点点时间，我理解这一点。”
+   </p>
+   <p>
+    登泽尔-瓦伦丁于2016年首轮第14顺位被公牛选中。北京时间2018年9月28日，公牛官方宣布瓦伦丁在训练中遭遇了中等左脚踝扭伤，在11月20日又宣布他被诊断为踝关节不稳症。在北京时间11月29日，瓦伦丁接受了左脚踝重建手术，预计缺席该赛季剩余所有比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

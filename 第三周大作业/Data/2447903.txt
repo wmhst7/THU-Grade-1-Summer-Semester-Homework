@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格林Ins宣传伊格达拉新书：这是我的大兄弟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzPa2DwlcUO/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 13:57:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格林Ins宣传伊格达拉新书：这是我的大兄弟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/566b853fe04f494fa59de2e2ee1fc901b88a2204.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 今日勇士前锋德雷蒙德-格林更新了自己的个人Instagram动态，晒出了队友安德烈-伊格达拉的新书《第六人》。
+   </p>
+   <p>
+    “这是我的大兄弟！恭喜我的伙计！我在机场刚买这本书，在漫长的飞机旅程中享受着不错的阅读体验...#Thesixthman”格林写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均上场31.3分钟，得到7.4分7.3篮板6.9助攻1.44抢断1.06盖帽。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

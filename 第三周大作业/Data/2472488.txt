@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴恩斯谈最难防守球员：科比KD甜瓜詹姆斯韦德麦迪马努
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/balldontstop/status/1169013274626732036" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 15:10:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴恩斯谈最难防守球员：科比KD甜瓜詹姆斯韦德麦迪马努" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190904/91bdd842e0762e96566fa3486bd17fd3d95cf7c1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 前NBA球员马特-巴恩斯在近日参加播客节目时谈到了个人心目中最难防守的球员。
+   </p>
+   <p>
+    “我不惧怕任何人，事实上，我非常喜欢与出色的球员对位，我感到非常兴奋。我不会想在每场比赛中得到30分，我只是想要努力工作，努力去限制对位球员。”巴恩斯说道。
+   </p>
+   <p>
+    当被问及心目中最难防守的五位球员时，巴恩斯说：“我会说是科比（布莱恩特），他是我遇到的最难防守的球员。KD（凯文-杜兰特）排在第二位，Melo（卡梅罗-安东尼）排第三，Bron（勒布朗-詹姆斯）排第四，D-Wade（德维恩-韦德）排第五。”
+   </p>
+   <p>
+    “我想我可能忘了一些人的名字，糟糕，我忘了T-Mac（特雷西-麦克格雷迪），他也应该出现在这份名单之上，他的投篮出手点太高了。还有马努-吉诺比利，吉诺比利和T-Mac，吉诺比利这家伙太难缠了。”巴恩斯补充道。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴恩斯：参加训练营能提升自己，相信福克斯会入选大名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SeanCunningham/status/1158898110740889601" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 14:19:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴恩斯：参加训练营能提升自己，相信福克斯会入选大名单" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/a4407efaefd9cb5d2c7c3ce3406089d86eccbfcc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 国王球员哈里森-巴恩斯目前正在参加美国男篮训练营，在此期间他接受了媒体采访。
+   </p>
+   <p>
+    谈到参加美国男篮训练营的感受，巴恩斯说：“来到这里与这么多才华横溢的人共事，无论是教练组还是球员们，我们是来努力竞争的。我认为能够代表国家队出战，这真的很棒，同时也能够帮助我们为新赛季做好准备。”
+   </p>
+   <p>
+    当被问及那些初次参加训练营的年轻球员是否能够从中取得进步时，巴恩斯说：“肯定的，我认为这是很棒的机会，当你来到这里，你能够学习到很多技术，也能够被不同的教练指导，这是你在夏天单独训练所无法得到的，因此我认为参加训练营大有裨益，这能够帮助你变得更出色。”
+   </p>
+   <p>
+    谈到队友达龙-福克斯被提拔至初选阵容，巴恩斯说：“我认为他并不需要过多地调整，他现在的比赛风格已经很成熟了，我对他入选最终大名单很有信心。因为他能够为球队带来的东西，他的比赛风格，在攻防两端的能力，他在防守端能够给对手后卫极大的压力，我认为Pop（格雷格-波波维奇）和其他教练组成员能够看到他的价值。”
+   </p>
+   <p>
+    “但一切都是无法保证的，你必须为之付出努力。如果有幸能够入选最终阵容，我会发挥自己的作用，向他们传授经验，如果我没能入选，那我也会在场边为达龙提供建议。”巴恩斯补充道。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

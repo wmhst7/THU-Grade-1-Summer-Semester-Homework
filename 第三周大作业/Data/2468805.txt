@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大洛佩斯：从小就是迪士尼粉丝，退役后想在迪士尼工作
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/08/24/nba-rumors-bucks-brook-lopez-free-agency-disney-experience-interview-milwaukee-giannis-robin/?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_content=5d61431f37ca34000" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 00:19:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大洛佩斯：从小就是迪士尼粉丝，退役后想在迪士尼工作" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/25bce489495c51e4c888ed675b326e59ea760efd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 雄鹿中锋布鲁克-洛佩斯近日接受了篮球媒体hoopshype的采访，在访谈中，他展示了自己对于迪士尼的极度热爱。此前，他与双胞胎弟弟罗宾-洛佩斯曾多次被球迷发现在迪士尼乐园中游玩。
+   </p>
+   <p>
+    被问及迪士尼对自己有如此大吸引力的原因，洛佩斯说道：“我从小在洛杉矶长大，我的家庭经常一起去迪士尼乐园。我最早的美好回忆就是和我的双胞胎弟弟罗宾、和我哥哥、妈妈一起在乐园中游玩。我就像是在那里长大的，我总是去那里，看迪士尼的电影，这真的是我很重要的一部分。”
+   </p>
+   <p>
+    被问及住在迪士尼旗下度假村的感受，洛佩斯说道：“是的，我就住在Golden Oak（一个迪士尼旗下的度假村），我花不到五分钟就能到达新开设的迪士尼NBA旗舰店！我就住在街的另一头。当你住在这个社区的时候，你可以获得一张洛杉矶迪士尼和奥兰多迪士尼的年卡，你周围的居民也都是迪士尼粉丝。这很有趣。”
+   </p>
+   <p>
+    被问及退役后有何打算时，洛佩斯回答说：“很显然，我想做一些和迪士尼有关的事情，我不确定是在乐园中还是在迪士尼的想象力策划部门工作，一份在迪士尼有创造性的工作是我梦寐以求的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，布鲁克-洛佩斯场均出场28.7分钟，得到12.5分4.9篮板2.21盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

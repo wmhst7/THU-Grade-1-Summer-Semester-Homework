@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  略显帅气！塔特姆今日更新社媒晒出身披国家队战袍赛场照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1RizklAK91/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 14:28:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="略显帅气！塔特姆今日更新社媒晒出身披国家队战袍赛场照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/b670cee50192d50b1e0e620de6934f0ff5d3507d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 昨日，美国男篮热身赛以90-81战胜西班牙，赢得热身系列赛的首战胜利。
+   </p>
+   <p>
+    今日，凯尔特人前锋、美国男篮国家队成员杰森-塔特姆更新了个人社交媒体Instagram晒出一张自己身披国家队战袍的赛场照（见新闻配图）。
+   </p>
+   <p>
+    美国男篮对阵澳大利亚男篮的热身赛将于北京时间8月22日下午5:30在墨尔本进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迫不及待？德拉蒙德催促2K官方发布其能力值：86
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA2K/status/1152380961457201157" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 10:05:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迫不及待？德拉蒙德催促2K官方发布其能力值：86" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/13eeea5e814577243fb58c456b1314ffda035e38.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 两天前NBA 2K20曾在推特上写道：“艾特出你最想马上知道他能力值的球员。”
+   </p>
+   <p>
+    活塞球员安德烈-德拉蒙德回复2K官方：“怎么说！？”，随后2K官方回复德拉蒙德：“看到你了！”
+   </p>
+   <p>
+    今天早些时候2K官方仍然没有公布德拉蒙德的能力值，后者再次催促：“还要等吗？”，之后2K官方才发布了安德烈-德拉蒙德的能力值，图片显示其2K20初始能力值为86。
+   </p>
+   <p>
+    2018-19赛季常规赛，德拉蒙德代表活塞出战79场，场均出战33.5分钟，得到17.3分15.6篮板1.4助攻1.75盖帽。
+   </p>
+   <p>
+    德拉蒙德2K19的初始能力值为87。2017-18赛季常规赛，德拉蒙德代表活塞出战78场，场均出战33.7分钟，得到15.0分16.0篮板3.0助攻1.63盖帽。
+   </p>
+   <p>
+    拓展阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2330365&amp;type=1">
+     我只有87？德拉蒙德与2K工作人员碰面打探其能力值（2K19）
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

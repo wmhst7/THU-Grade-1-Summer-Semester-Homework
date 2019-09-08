@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼-本内特将在火箭身穿30号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/EtienneCatalan/status/1159166197381967872" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 08:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼-本内特将在火箭身穿30号球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/4495d0e44f1187bf0311d7c50de6ba4a54d5bc20.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 根据NBA记者Etienne Catalan的报道，安东尼-本内特将在火箭身穿30号球衣。
+   </p>
+   <p>
+    火箭之前与本内特签约，后者最近4个赛季一直在NBA发展联盟打球。
+   </p>
+   <p>
+    本内特是2013年的状元秀，为骑士、森林狼、猛龙和篮网打过球，出战了151场常规赛，场均出战12.6分钟，可以拿到4.4分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

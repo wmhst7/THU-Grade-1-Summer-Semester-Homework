@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-罗斯谈杜兰特加盟篮网：他有机会书写球队历史
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1152838639698624512" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 15:12:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-罗斯谈杜兰特加盟篮网：他有机会书写球队历史" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/00d1bb774095d7cf66337cffb1cc9bc7bb5913c8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 近日，前NBA球员杰伦-罗斯做客了一档节目，谈到对于杜兰特从跟腱伤势中复出的期待时，主持人问道：“你认为加盟篮网和加盟尼克斯有什么不同，篮网是一支完全不同的球队，拥有完全不同的历史，完全不同的状况。他们表现出了一种极其兴奋的心情，你认为这是否会成为杜兰特的蜜月期？”
+   </p>
+   <p>
+    杰伦-罗斯表示：“他将建立一种怀旧情结，我们不久前看到科怀-伦纳德获得了做到这件事的机会，他在猛龙夺得了队史第一个冠军。如果与尼克斯签约，球队历史上曾经拥有‘侠盗克莱德’（沃尔特-弗雷泽），以及其他多名70年代初期的球员，他们在那时候夺得了总冠军。我们还知道帕特里克-尤因时代，那时候他们没有像之前那些日子一样多次夺冠。但是与篮网签约，这支球队的历史是一张白纸，他们刚刚搬到纽约，他们穿着新球衣，我们这些看球比较早的人，我们知道J博士，贾森-基德，他们带队打进了总决赛，是新泽西的传奇。但是搬进布鲁克林后，这是一段全新的历史，他得到了一个重新书写历史的机会。”
+   </p>
+   <p>
+    此前，篮网与勇士完成先签后换的交易，篮网得到杜兰特和一个2020年的受保护首轮签，送出丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄斯。杜兰特的新合同预计为4年1.64亿美元。
+   </p>
+   <p>
+    杜兰特因跟腱伤势预计缺席下赛季所有比赛。2018-19赛季常规赛，凯文-杜兰特场均出场34.6分钟，得到26.0分6.4篮板5.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

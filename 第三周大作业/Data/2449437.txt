@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯、湖人、快船接触过詹姆斯-恩尼斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ianbegley/status/1145922594413195264?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 13:12:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯、湖人、快船接触过詹姆斯-恩尼斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/88ea51b9088d603b2c176898f01431a00190f344.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据NBA记者Ian Begley报道，消息人士透露，自从自由市场开启后，尼克斯、湖人、快船这三支拥有薪资空间的球队均接触过自由球员詹姆斯-恩尼斯。
+   </p>
+   <p>
+    2018-19赛季常规赛，恩尼斯场均上场21.2分钟，得到6.7分3.1篮板0.7助攻；季后赛场均上场21.1分钟，得到7.5分3.8篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

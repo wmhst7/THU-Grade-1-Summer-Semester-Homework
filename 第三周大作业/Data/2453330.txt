@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍弗德：我是恩比德的球迷，和他并肩战斗让我兴奋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PompeyOnSixers/status/1149769063465226240" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 04:11:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍弗德：我是恩比德的球迷，和他并肩战斗让我兴奋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/40ca1c2ebac0e9736f0a88dd6ff4375e4e0cf355.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 76人今日召开了新签约球员的发布会，中锋艾尔-霍弗德谈到了加盟76人的一些看法。
+   </p>
+   <p>
+    “当6月30号（自由市场开启）到来时，事情就发展得很快了。埃尔顿-布兰德（76人总经理）打电话给我和我的经纪人，提供了他的报价。他们对我有这么强的兴趣让我挺吃惊的，做出加盟76人的决定很容易。”
+   </p>
+   <p>
+    谈到中锋乔尔-恩比德时，霍弗德表示：“我想我以前说过，我是乔尔-恩比德的球迷，场上和场下，他都能带来特别的东西。我们以前有过一些出色的对位，当出现了和他合作的可能性时，我感到很兴奋。”
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，霍弗德与76人达成4年1.09亿美元的协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，霍弗德场均上场29.0分钟，得到13.6分6.7篮板4.2助攻0.9抢断1.3盖帽，季后赛场均上场34.4分钟，得到13.9分9.0篮板4.4助攻0.8盖帽0.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

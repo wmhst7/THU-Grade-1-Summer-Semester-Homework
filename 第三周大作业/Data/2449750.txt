@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人晒塔科-法尔扣篮图：他在这里，我什么都看不见
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/celtics/status/1146202957471526912" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:31:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人晒塔科-法尔扣篮图：他在这里，我什么都看不见" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/ed4d735ad5be710fe4cbdd52584dccf54d262717.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 凯尔特人今日在官方推特上晒出了与球队签下双向合同的落选秀塔科-法尔扣篮的搞怪图（见新闻配图）。
+   </p>
+   <p>
+    “他在这里，我什么都看不见。”凯尔特人写道。
+   </p>
+   <p>
+    根据之前报道，落选秀塔科-法尔与凯尔特人签下了一份双向合同，并将代表绿衫军出战夏季联赛。
+   </p>
+   <p>
+    法尔来自中佛罗里达大学，位置中锋，身高2.31米，体重131公斤，2018-2019赛季，法尔代表中佛罗里达大学骑士队场均出战24.9分钟，可以得到11.1分7.6篮板2.6盖帽，不过他最终没能在选秀大会上被球队选中。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/10/ddd9fb64149e634d07fffb85c9186ed2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

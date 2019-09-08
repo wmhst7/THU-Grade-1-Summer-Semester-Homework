@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马利克-阿伦和安东尼-卡特将担任热火夏联助教
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IraHeatBeat/status/1144314956457893888" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:36:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马利克-阿伦和安东尼-卡特将担任热火夏联助教" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/d1b0afd25f8b9d5c83c26fdfbcdb2821c6c58948.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据记者Ira Winderman报道，马利克-阿伦和安东尼-卡特将担任热火夏季联赛的助教。
+   </p>
+   <p>
+    此外，Eric Glass将担任热火夏季联赛的主教练。
+   </p>
+   <p>
+    阿伦作为球员时曾在2001-05期间效力于热火，共出战了151场比赛，场均上场22.1分钟得到7.2分4.2个篮板。上赛季，阿伦曾在森林狼担任助理教练。
+   </p>
+   <p>
+    卡特作为球员时曾在1999-2003期间效力热火。自2013年起，他先后担任过马刺发展联盟球队、国王和热火发展联盟球队的助教。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

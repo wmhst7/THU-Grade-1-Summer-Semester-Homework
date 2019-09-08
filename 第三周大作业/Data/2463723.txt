@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯球员们几周前在洛杉矶集训，计划再次集训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AlexKennedyNBA/status/1159899420244291589" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 06:25:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯球员们几周前在洛杉矶集训，计划再次集训" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190810/33a2111b00186aaeb48c4aefc5bac63ec6d9e915.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 根据HoopsHype记者Alex Kennedy的报道，尼克斯球员们几周前在洛杉矶一起训练，队中大部分球员都参加了这次训练。
+   </p>
+   <p>
+    尼克斯球员们目前计划很快再次一起进行集训。
+   </p>
+   <p>
+    今年夏天，尼克斯在自由球员市场上签下了马库斯-莫里斯、雷吉-布洛克、埃尔弗里德-佩顿、韦恩-艾灵顿、泰-吉布森、博比-波蒂斯和朱利叶斯-兰德尔。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

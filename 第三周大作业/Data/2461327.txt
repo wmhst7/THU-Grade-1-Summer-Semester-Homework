@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少：火箭球迷们每晚都会看到我在场上全力以赴
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/bendubose/status/1157401364940505088?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 19:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少：火箭球迷们每晚都会看到我在场上全力以赴" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/fee4e3b0d91130c19140480d5ddc3ad663809438.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 拉塞尔-威斯布鲁克作客节目时谈到了多个方面。
+   </p>
+   <p>
+    谈到火箭球迷，威斯布鲁克说：“他们一直都很好，我之前跟他们没有什么问题，很明显的是，他们必须要为他们的主队加油，我尊重这一点，现在我们站在同一边了，我会每晚上场全力以赴，他们会看到的。”
+   </p>
+   <p>
+    谈到迈克-德安东尼，威斯布鲁克说：“我准备好了适应调整，我会在攻防两端打出影响力，融入到球队，做我可以做的事情来帮助球队赢球。”
+   </p>
+   <p>
+    谈到防守篮板球，威斯布鲁克说：“这就是我比赛的一部分，我会带到球队，无论是篮板球、传球还是防守，无论需要做什么，我都会确保自己做到，并且以一个高水准做到。”
+   </p>
+   <p>
+    谈到连续3个赛季场均三双，威斯布鲁克说：“当我退役的时候，我也许会想想这个，但是在那之前，我会继续前进，继续打出好的表现来改变比赛。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

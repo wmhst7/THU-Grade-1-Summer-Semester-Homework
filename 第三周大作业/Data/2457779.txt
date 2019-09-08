@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  普雷斯蒂将于当地时间明天上午11点举办新闻发布会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BDawsonWrites/status/1154192106069663744" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 09:52:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="普雷斯蒂将于当地时间明天上午11点举办新闻发布会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/9352bc953d5b882766266031c6e9342bdc65c449.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 根据The Athletic记者Brett Dawson今天的报道，俄克拉荷马雷霆队总经理萨姆-普雷斯蒂将于当地时间明天上午11点举办新闻发布会，这将会是普雷斯蒂选秀大会之后首次面对媒体。
+   </p>
+   <p>
+    休赛期至今，雷霆已经做出多笔交易，包括将保罗-乔治交易至快船、将拉塞尔-威斯布鲁克交易至火箭以及将杰拉米-格兰特交易至掘金。
+   </p>
+   <p>
+    普雷斯蒂现年43岁，2007年7月他被西雅图超音速队聘请为球队总经理。不久后，超音速迁往俄克拉荷马城并改名雷霆，普雷斯蒂继续担任雷霆总经理至今。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

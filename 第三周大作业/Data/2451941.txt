@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才副总裁：祝愿托马什-萨托兰斯基前程似锦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-acquire-draft-pick-chicago?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 13:30:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才副总裁：祝愿托马什-萨托兰斯基前程似锦" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/685b4c96835df9f554899c5c1bbad9bb9891665e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 奇才此前通过先签后换交易将托马什-萨托兰斯基送至公牛，得到多个未来次轮选秀权及未来次轮签互换权。
+   </p>
+   <p>
+    奇才篮球运营高级副总裁Tommy Sheppard对此评价道：“随着托马什将进入其生涯的全新篇章，我们祝福他和他的家人一切都好。贯穿他的整个奇才生涯，他配合我们的教练组和训练师极其刻苦地训练，他的进步也体现在比赛表现之中。这些选秀权将让我们继续打造未来。”
+   </p>
+   <p>
+    根据此前的报道，联盟消息人士透露，公牛将与萨托兰斯基签订一份3年价值3000万美元的合同，其中第三年预计不是全额保障合同。
+   </p>
+   <p>
+    2018-19赛季，萨托兰斯基场均出场27.1分钟，得到8.9分3.5篮板5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小德里克-琼斯：很高兴没被交易，我们得到了一名全明星
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WillManso/status/1146218839656546304" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 11:47:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小德里克-琼斯：很高兴没被交易，我们得到了一名全明星" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/9faee1aedc76dd02881ce0a01eb8a3ea746368d5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 热火球员小德里克-琼斯在今日参加活动时接受了媒体采访，他表示自己对于没有被交易离队感到高兴。
+   </p>
+   <p>
+    “起初我看到了我的名字涉及到了交易之中，我当时很担心，但结果是我哪也不会去。我爱这里，这里的人们也希望我留在这里。”小琼斯说道。
+   </p>
+   <p>
+    谈到球队得到吉米-巴特勒，小琼斯说：“我们失去了一些兄弟，但我们得到了一名全明星级别的球员。”
+   </p>
+   <p>
+    据此前的相关报道，消息人士透露，热火和独行侠之间关于吉米-巴特勒的交易遇到了一些波折。热火不愿出德里克-琼斯，独行侠方面坚称，他们原以为他们一定能够得到凯利-奥利尼克和德里克-琼斯，所以才参与了交易，但热火方面不愿意放弃琼斯，并表示，为了让薪资配平，他们必须要送走戈兰-德拉季奇。最终这笔交易没有达成。
+   </p>
+   <p>
+    随后据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，热火最终通过跟快船、76人、开拓者来完成了自由球员吉米-巴特勒的交易。
+   </p>
+   <p>
+    在这笔交易中，热火送出约什-理查德森、哈桑-怀特塞德和一个未来首轮签，得到巴特勒与来自开拓者的中锋迈耶斯-伦纳德；76人送出马蒂亚斯-莱索尔（2017年第2轮第20顺位被76人选中）的签约权，得到理查德森；快船得到来自开拓者的前锋莫里斯-哈克利斯与未来热火的首轮签及莱索尔的签约权；开拓者送出迈耶斯-伦纳德与莫里斯-哈克利斯，得到怀特塞德。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

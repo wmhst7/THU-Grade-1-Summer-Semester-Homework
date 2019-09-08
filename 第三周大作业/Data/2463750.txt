@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔-罗宾逊不会参加美国男篮今日队内热身赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IanBegley/status/1159972702117146630" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 07:46:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔-罗宾逊不会参加美国男篮今日队内热身赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/37d91a6ff84524af9e38a6a05156cf698cf1541b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 根据SNY记者Ian Begley的报道，多位消息人士透露，处于谨慎考虑，米切尔-罗宾逊不会参加美国男篮今日的队内对抗热身训练赛，他将让自己酸痛的膝盖得到一些休息。
+   </p>
+   <p>
+    之前入选了美国男篮选拔队的罗宾逊膝盖受伤，缺席了前2天的训练，之后复出，但是再次受伤，核磁共振检查结果显示他伤势不重。
+   </p>
+   <p>
+    美国男篮之前在内华达大学拉斯维加斯分校的Mendenhall中心开始为期4天的训练，并且将在今日在拉斯维加斯进行一场队内热身赛。
+   </p>
+   <p>
+    2018-19赛季常规赛，罗宾逊场均上场20.6分钟，得到7.3分6.4板2.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：波波维奇教练关注的是努力程度、防守和篮板
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ocregister.com/2019/08/16/as-team-usa-tops-spain-kyle-kuzma-makes-his-case-for-a-final-roster-spot/" target="_blank">
+     橘郡纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 16:22:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：波波维奇教练关注的是努力程度、防守和篮板" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/efe562b8ed598d5821cf7291379196c9a3f29def.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 在今日结束的一场热身赛中，美国男篮以90-81击败西班牙男篮。赛后，美国男篮前锋凯尔-库兹马接受了媒体采访。
+   </p>
+   <p>
+    本场比赛，库兹马出场17分钟，6投3中得到7分5篮板3助攻，场上正负值+13为全场最高。但库兹马的表现也并不完美，这位24岁的球员也在场上出现了一些失误。
+   </p>
+   <p>
+    “我不是一个真正会评价自己表现的人，但我认为我的能量正处于很高的水平，”库兹马说道，“这是我唯一能够控制的东西。”
+   </p>
+   <p>
+    “总而言之，只要你能够打得努力，做好防守，保护篮板，这就是Pop（格雷格-波波维奇）想要的，这也是教练最为球队感到自豪的方面。”库兹马说道。
+   </p>
+   <p>
+    谈到洛杉矶当地球迷的支持，库兹马说：“每当我触球时，都能够听到有人喊我的名字，这让我意识到这里的球迷是多么忠诚。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

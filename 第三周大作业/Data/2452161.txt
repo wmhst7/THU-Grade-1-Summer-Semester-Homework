@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网总经理：自由市场开启前，医疗团队都同意给KD顶薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/07/09/kevin-durant-kyrie-irving-brooklyn-nets-free-agency-behind-the-scenes?utm_source=twitter.com&amp;utm_campaign=sinow&amp;xid=socialflow_twitter_si&amp;utm_medium=social" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 02:34:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网总经理：自由市场开启前，医疗团队都同意给KD顶薪" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/7dc083fe8d61d193fa26da26ffef613535ddc190.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 《体育画报》记者Chris Mannix发表长文记述了篮网在今年休赛期签下凯里-欧文和凯文-杜兰特的细节。
+   </p>
+   <p>
+    Chris Mannix在长文中写道：“数月以来，欧文和杜兰特一直都是篮网梦寐以求的。早在17年夏天刚刚加盟凯尔特人时，欧文曾表示自己会在今年夏天与球队续约。但是一系列的因素包括球队成绩不如预期，欧文与队友和教练的关系等等，让欧文在上赛季中段开始重新考虑自己的决定。篮网后卫斯潘塞-丁威迪时欧文的好朋友，每个人都知道他们之间会交流，教练组知道，管理层也知道。赛季一结束，篮网就成为了欧文最热门的下家。”
+   </p>
+   <p>
+    “杜兰特的情况相对复杂。尼克斯在争夺，勇士更是开出了5年2.21亿超级顶薪，而篮网最多只能开4年1.64亿的合同。杜兰特的需求很简单，一支不错的球队以及强烈的支持他的环境。篮网完全符合杜兰特的需求。杜兰特的决定并未受到欧文的影响，但是与好友一起打球的机会肯定也会吸引杜兰特。”
+   </p>
+   <p>
+    “对于篮网而言，杜兰特的伤病是必须要考虑的一点。跟腱断裂对于NBA运动员是最毁灭性的伤病。篮网的医疗团队反复观看了杜兰特受伤的视频，研究了所有对于他伤病的报道（由于杜兰特当时还不是自由球员，因此篮网无法拿到详细的伤情报告），签下杜兰特也就意味着，他要直到32岁才能第一次为球队效力。在自由市场开启的前一天，总经理肖恩-马克斯召集了医疗团队，问道'谁同意顶薪签下杜兰特？'，所有人都举手了。”
+   </p>
+   <p>
+    马克斯说：“这是非常动人的一幕。当你知道有一帮子年轻人在表达‘我们不能坐以待毙，我们需要有所牺牲才能证明人们的看法是错误的’。这一刻，你不再是一个人承担压力。阿特金森跟我说了很多，球员们也表达了这样的想法。整个管理层从上至下都团结一致想要证明自己，这一点是最为重要的。”
+   </p>
+   <p>
+    在今年的自由市场上，篮网成为赢家之一。他们与凯里-欧文签下4年1.41亿美元的合同，与凯文-杜兰特签下4年1.64亿美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻0.74抢断1.08盖帽；欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断0.51盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

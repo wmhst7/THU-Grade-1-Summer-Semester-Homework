@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔晒跟随美国男篮训练图：不要低头
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Z9UUrglgt/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 09:35:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔晒跟随美国男篮训练图：不要低头" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/bf8e9e154a4ab754ffc317eeb3094e7745db722d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，美国男篮后卫、爵士球员多诺万-米切尔在个人Instagram上晒出了自己跟随国家队训练时的照片（见新闻配图）。
+   </p>
+   <p>
+    “不要低头，不要低头。”米切尔写道。
+   </p>
+   <p>
+    目前，美国男篮正在澳大利亚备战热身赛，北京时间8月17日至8月26日，美国男篮与西班牙、澳大利亚、加拿大进行三场热身赛，随后飞往上海开启男篮世界杯征程。在此前结束的美国男篮以90-81战胜西班牙的热身赛中，米切尔出场23分钟，得到13分4篮板。
+   </p>
+   <p>
+    2018-19赛季常规赛，米切尔场均出场33.7分钟，得到23.8分4.1篮板4.2助攻1.38抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

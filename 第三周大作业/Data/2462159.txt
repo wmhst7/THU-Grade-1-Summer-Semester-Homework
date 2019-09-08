@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克雷格谈受邀参加美国男篮训练营：这对我意味着一切
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nuggets/status/1158550759186690048" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 10:26:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克雷格谈受邀参加美国男篮训练营：这对我意味着一切" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/91007b7cbb046391bb186b10b9ccd960a4748fcb.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 美国男篮今日在拉斯维加斯举行了训练营，掘金球员托里-克雷格接受了媒体采访。
+   </p>
+   <p>
+    谈到受邀参加美国男篮训练营，克雷格说：“这对我意味着一切，当我还是个孩子的时候，我看到了很多前辈为国征战，你会梦想着有朝一日自己能够站到同样的位置上。现如今我梦想成真，这真的是不可思议的感受。我很自豪能够代表美国男篮打球，我会在场上拼尽全力。”
+   </p>
+   <p>
+    据此前的相关报道，掘金后卫托里-克雷格将替代快船后卫兰德里-沙梅特，入选陪练队。
+   </p>
+   <p>
+    美国男篮训练营还有：哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、保罗-米尔萨普、多诺万-米切尔、杰森-塔特姆、PJ-塔克、赛迪斯-杨、马库斯-斯马特、杰伦-布朗、巴姆-阿德巴约和梅森-普拉姆利。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

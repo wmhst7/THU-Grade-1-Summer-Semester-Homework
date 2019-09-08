@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  穆迪埃：没必要感到压力或忧心忡忡，耐心等待好事降临
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzUPpA_ANmR/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:02:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="穆迪埃：没必要感到压力或忧心忡忡，耐心等待好事降临" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/d81b6ab590e895af234792ca8f4c00428438cae9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 自由球员伊曼纽尔-穆迪埃昨日更新了个人Instagram，晒出了自己躺在沙发上浏览手机信息的照片（见新闻配图）。
+   </p>
+   <p>
+    “没有必要感到压力或忧心忡忡。你曾向上帝祷告的事情正在慢慢成真，耐心等待好事降临。”
+   </p>
+   <p>
+    此前，根据雅虎记者Chris Haynes报道，多位消息人士透露，尼克斯将不会为后卫伊曼纽尔-穆迪埃提供资质报价合同，后者将成为完全自由球员。
+   </p>
+   <p>
+    若球队提供资质报价，该资质报价合同将会计算在薪资空间内，但不会触发奢侈税。不为穆迪埃提供资质报价将让尼克斯腾出1288万美元的薪资空间。
+   </p>
+   <p>
+    根据Haynes报道，尼克斯和穆迪埃都有意达成一份新的续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，穆迪埃场均上场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

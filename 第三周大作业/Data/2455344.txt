@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马基夫：里奇-保罗不会因勒布朗在湖人就不让弟弟去快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Keefmorris/status/1151557935606239232" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 09:12:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马基夫：里奇-保罗不会因勒布朗在湖人就不让弟弟去快船" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/36bd0b329a0b13c9dcc169b0ad4668781b5f010f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 活塞前锋马基夫-莫里斯今日在推特上谈到了最近关于弟弟马库斯-莫里斯与经纪人里奇-保罗的报道。
+   </p>
+   <p>
+    “（三个笑哭了的表情）里奇-保罗之前告知马库斯做什么？这些报道很疯狂！里奇-保罗永远都不会因为勒布朗（在湖人）而告诉马库斯别去洛杉矶（快船）！！（三个笑哭了的表情）疯狂的故事。”马基夫-莫里斯写道。
+   </p>
+   <p>
+    此前，马库斯-莫里斯在自由市场开启后曾与马刺达成2年2000万美元的口头协议，但最终在重新考虑后，他选择了1年1500万美元加盟尼克斯，根据《纽约每日新闻报》记者Stefan Bondy的报道，在这一系列事情发生之前，马库斯-莫里斯拒绝过快船开出的一份总价值为4100万美元的报价。
+   </p>
+   <p>
+    根据之前《纽约邮报》记者Marc Berman的报道，里奇-保罗想让马库斯-莫里斯遵守与马刺达成的口头协议，双方最终因为此事而分道扬镳。
+   </p>
+   <p>
+    马基夫-莫里斯和勒布朗-詹姆斯的经纪人都是里奇-保罗。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

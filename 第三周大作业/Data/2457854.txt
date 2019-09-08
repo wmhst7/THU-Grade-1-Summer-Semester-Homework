@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  训练师：詹姆斯和我没有休赛期，每周仍到健身房训练6天
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/weareladder/2094587669694978749?utm_source=ig_story_item_share&amp;igshid=1q6vfuagvqaze" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 13:58:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="训练师：詹姆斯和我没有休赛期，每周仍到健身房训练6天" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/5a656b9feb6bcefe00a3d5b2796cac7f3c03e699.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 湖人前锋勒布朗-詹姆斯的长期私人训练师、湖人训练团队成员Mike Mancias近日在Instagram Story上接受网友提问，回答关于詹姆斯训练情况的一些问题（Q代表提问，A代表Mike Mancias的回答）。
+   </p>
+   <p>
+    Q：你是如何开始训练勒布朗-詹姆斯的？
+   </p>
+   <p>
+    A：“我从实习生做起，在好几支NBA球队干过，希望能为自己的生涯积累更多经验。我得到了在克利夫兰骑士队实习一年的工作机会，那年恰好是勒布朗进入联盟的第二个赛季。然后事情就进展得很顺利，16年后的今天，我们依然在合作。”
+   </p>
+   <p>
+    Q：勒布朗漫长生涯的秘诀？
+   </p>
+   <p>
+    A：“勒布朗漫长生涯或者说运动寿命的秘诀是他对于个人训练生活规划的坚决执行，每一天他都是如此投入。”
+   </p>
+   <p>
+    Q：勒布朗在休赛期的每周训练强度如何？
+   </p>
+   <p>
+    A：“对于勒布朗和我而言，我们并没有所谓的休赛期，所以我们仍然每周大概都要去健身房训练6天。”
+   </p>
+   <p>
+    Q：勒布朗-詹姆斯就没有不听音乐的时候吗？
+   </p>
+   <p>
+    A：“额，勒布朗永远都在听音乐。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/13/04cea15ec6b065c48112b1e063fc7688.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

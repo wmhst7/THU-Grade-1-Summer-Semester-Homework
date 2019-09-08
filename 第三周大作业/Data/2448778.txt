@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网预计将和哈里斯会面，有意小乔丹和贾斯廷-霍勒迪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1054907/2019/06/30/with-kyrie-irving-expected-to-join-brooklyn-whats-next-for-the-nets/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 03:16:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网预计将和哈里斯会面，有意小乔丹和贾斯廷-霍勒迪" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/a20d1be2be0ea1b1222c6c63d86fc2ea433e4132.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据The Athletic记者Michael Scotto报道，联盟消息人士透露，篮网预计将和自由球员前锋托拜厄斯-哈里斯会面，他们还有意自由球员中锋德安德烈-乔丹和后卫贾斯廷-霍勒迪。
+   </p>
+   <p>
+    此前，据SNY记者Ian Begley的报道，他们已经确认，如果篮网没有得到凯文-杜兰特的话，那么他们预计会对哈里斯感兴趣。
+   </p>
+   <p>
+    哈里斯合同今夏到期，届时他将成为一名完全自由球员，他是纽约长岛人。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈里斯场均出战34.7分钟拿到20分7.9篮板2.8助攻；小乔丹场均出战29.7分钟得到11分13.1篮板1.06盖帽；霍勒迪场均上场31.8分钟得到10.5分3.9篮板1.8助攻1.46抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

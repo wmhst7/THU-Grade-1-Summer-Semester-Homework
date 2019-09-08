@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波普在母校举办训练营：我希望孩子们永不言弃
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0b0NtxFa32/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 11:21:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波普在母校举办训练营：我希望孩子们永不言弃" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/239695c465dc8e6bf4c200474fa9d3ff2b5fc92f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 洛杉矶湖人队后卫肯塔维厄斯-考德威尔-波普今天在个人Instagram上传了一组个人训练营照片（见新闻配图）。
+   </p>
+   <p>
+    “我热爱这个养育了我的社区，能够和这些孩子一起在我的母校度过这段时光对我来说意味着很多。我希望他们能够受到鼓舞并因此更加努力，我还希望他们能够像我一样永远不要轻言放弃，热爱格林维尔（位于乔治亚州）！”波普写道。
+   </p>
+   <p>
+    在今年的休赛期，波普与湖人签下了一份2年1600万美元的续约合同。2018-19赛季常规赛，波普场均出场24.8分钟，得到11.4分2.9篮板1.3助攻0.89抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/ab34fa2638705c51c27e4946d5fe3577.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/7d811ece886ffeb03bb21fe5ffbc5fc1.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/91d7369595eb5f2c144eb289cd98a330.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/d0fb7e2d2f6a74a201a0e09c057b3f2c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/79e8af4e2880c1cfdb4180e7a4839a47.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/377f3a48ad39fab1bdbf492aa0b1fca2.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/155fe0da21c9456c2a5756c9e8418570.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

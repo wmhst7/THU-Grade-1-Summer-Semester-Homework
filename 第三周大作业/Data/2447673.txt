@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奇才为萨托兰斯基开出资质报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.washingtonpost.com/sports/2019/06/27/wizards-extend-qualifying-offers-tomas-satoransky-thomas-bryant/?utm_term=.e5c1b8dcb3a3" target="_blank">
+     华盛顿邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 20:49:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奇才为萨托兰斯基开出资质报价" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/036f42c6c5be1b09c3d1c6c180852bf5fb9568f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据《华盛顿邮报》记者Candace Buckner的报道，奇才已经为托马什-萨托兰斯基和托马斯-布莱恩特开出了资质报价，他们都将成为受限制自由球员。
+   </p>
+   <p>
+    一位了解情况的消息人士透露，奇才也计划为博比-波蒂斯开出资质报价。
+   </p>
+   <p>
+    萨托兰斯基、布莱恩特和波蒂斯合同今夏到期，如果奇才为他们开出资质报价的话，那么奇才有权利匹配其他球队为他们开出的任何邀请报价。
+   </p>
+   <p>
+    另外，根据奇才记者Ben Standig的报道，多位消息人士透露，奇才不会为沙松-兰德尔和萨姆-德克尔开出资质报价。
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/index.php?title=%E5%8F%97%E9%99%90%E5%88%B6%E8%87%AA%E7%94%B1%E7%90%83%E5%91%98&amp;redirect=no#.E8.B5.84.E8.B4.A8.E6.8A.A5.E4.BB.B7">
+     相关科普：什么是资质报价？&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

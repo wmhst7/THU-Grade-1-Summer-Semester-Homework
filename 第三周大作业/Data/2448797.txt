@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈特感慨自由市场：今天会是疯狂的一天！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/joshhart/status/1145417360410419200" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 04:58:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈特感慨自由市场：今天会是疯狂的一天！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/b606f77236ade31d234534ef4e233161acb4e615.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 北京时间今日早上6时整，自由市场的大门正式打开。所有合同到期的球员都将正式恢复“自由身”，可以开始和所有球队进行接触，就自己的下一份合同展开谈判。
+   </p>
+   <p>
+    鹈鹕球员约什-哈特就此更新了个人推特：“今天会是疯狂的一天！”
+   </p>
+   <p>
+    2018-19赛季常规赛，哈特代表湖人场均出场25.6分钟，得到7.8分3.7篮板1.4助攻0.96抢断，在湖人得到安东尼-戴维斯的交易中被交易至鹈鹕。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

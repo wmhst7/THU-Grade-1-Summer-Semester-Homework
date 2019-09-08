@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  练出投篮？西蒙斯更新社媒晒出训练帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2GEDxxHA6I/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 11:46:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="练出投篮？西蒙斯更新社媒晒出训练帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/3781a286e7a49310a98e5ec126637e768b6a4658.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，76人球员本-西蒙斯更新个人社交媒体Instagram晒出个人训练帅照（见新闻配图）。
+   </p>
+   <p>
+    2018-19赛季常规赛，本-西蒙斯场均出场34.2分钟，可以得到16.9分8.8篮板7.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：二轮秀文科生)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

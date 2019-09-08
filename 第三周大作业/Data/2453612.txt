@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  劳尔-内托：我能够在外线出手投篮，为球队拉开场上空间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/quotebook-offseason-introductory-press-conference" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 22:34:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="劳尔-内托：我能够在外线出手投篮，为球队拉开场上空间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/e03f6b6f3a2cb13d172a3258359bc2fa66c8b7a8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 76人今日为新签约的球员举行了新闻发布会，球队新援劳尔-内托接受了媒体采访。
+   </p>
+   <p>
+    在爵士效力的四个赛季中，内托承担了多个不同的角色，他表示自己对NBA有了更深刻的理解，并且非常期待在76人的前景。
+   </p>
+   <p>
+    “我在新秀赛季获得了首发出场的机会，但随后的第二个赛季逐渐成为了球队的备选，在季后赛中鲜有出场的机会。到了第三个赛季，我的出场时间有了一些提升，上赛季我经历了一些伤病，因此并没有获得多少出场的机会。我认为我现在非常自信，相较于三四年之前，我现在更具侵略性，我已经做好准备迎接球队需要我承担的任何角色，我很高兴能够成为这支球队的一部分。我认为我们这支球队的阵容非常棒，拥有一些非常出色的球员，我感到非常开心。我认为我能够为球队拉开场上空间，在外线出手投篮，我认为这是我能够为球队起到的最重要的作用。”劳尔-内托说道。
+   </p>
+   <p>
+    据此前的相关报道，内托与76人达成了一份一年受保障的底薪合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，内托场均上场12.8分钟，能够得到5.3分1.7篮板2.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

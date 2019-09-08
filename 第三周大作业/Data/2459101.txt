@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国女篮力克澳大利亚夺得U19女篮世界杯冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0d0saajh3F/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 23:58:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国女篮力克澳大利亚夺得U19女篮世界杯冠军" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/a5f46a5807b787546e4c8f8e68f272f139ce03f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 在今天已经结束的一场U19女篮世界杯决赛中，美国队以74-70的比分战胜澳大利亚队，从而获得了本届U19女篮世界杯冠军。
+   </p>
+   <p>
+    这也是美国U19女篮第8次获得世界杯冠军，此前美国U19女篮曾分别在1997、2005、2007、2009、2011、2013以及2015年夺冠。
+   </p>
+   <p>
+    而本届世界杯，中国U19女篮则力克加拿大获得了第5名的名次。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

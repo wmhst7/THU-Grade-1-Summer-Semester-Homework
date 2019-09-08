@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  潇洒帅气！鲍威尔晒在帕特森婚礼上的合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1mUG3NgthZ/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 03:51:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="潇洒帅气！鲍威尔晒在帕特森婚礼上的合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/c98b81840dfeb90b439e1df0c2d7a2a0e5bb5d43.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今日，是NBA球员帕特里克-帕特森的婚礼，猛龙球员诺曼-鲍威尔更新自己的Instagram，晒出自己出席帕特森婚礼的合照。（见新闻配图）
+   </p>
+   <p>
+    鲍威尔配文道：“穿戴整齐去婚礼上！恭喜我的兄弟帕特里克-帕特森结婚，在婚礼上我和我的兄弟们聊得很开心。”
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍威尔场均出场18.8分钟，得到8.6分2.3篮板1.5助攻0.65抢断0.22盖帽。
+    <br/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/03/4e420ee3cf39a0d07a54dfc79db11556.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/03/f1abecbb2b7928db2baa958d96dc2950.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/03/87599f8ad077b8f107b5fa103153355c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/03/f2e93ebc8088c58a84bf73b35c8d7cf4.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/03/b91ad589753603e904fdd7bf34e367dc.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

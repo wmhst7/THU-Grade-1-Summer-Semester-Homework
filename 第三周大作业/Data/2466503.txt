@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特的小腿伤势已完全恢复，可以回归美国队训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1162816229545009159" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 04:01:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特的小腿伤势已完全恢复，可以回归美国队训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/71fe37139efe065a110962bd2cedf32bd7f3c8b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 根据NBA记者Marc Stein的报道，在过去一周多的时间里因受到小腿伤势困扰而缺阵的马库斯-斯马特已经完全恢复，可以回归美国队训练营。
+   </p>
+   <p>
+    根据此前的报道，之前在斯马特因为小腿紧张暂时退出美国队训练营，归期未定，需要接受重新评估时被提进初选名单的国王后卫达龙-福克斯已经退出美国队，专注于下赛季，以打进季后赛为目标。
+   </p>
+   <p>
+    2018-19赛季常规赛，马库斯-斯马特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2462802.html">
+     斯马特因小腿紧张离开美国队训练营，下周接受重新评估
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2462906.html">
+     斯马特：我的伤情无大碍，就是为了预防加重
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2466282.html">
+     斯马特：小腿状态很棒，有100%的自信之后能回归球场
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

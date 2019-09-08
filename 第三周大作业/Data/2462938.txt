@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  发小情深！哈登晒照，祝德马尔-德罗赞生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B04vtAUF52A/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 11:38:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="发小情深！哈登晒照，祝德马尔-德罗赞生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/aecca588ec4251ad3cf872c36b9363384febbaab.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，火箭球员詹姆斯-哈登更新社交媒体Instagram，晒出自己与德马尔-德罗赞在全明星赛场合照（见新闻配图）。
+   </p>
+   <p>
+    “兄弟，30岁生日快乐。”
+   </p>
+   <p>
+    随后猛龙球员凯尔-洛瑞也点赞了此条动态。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈登场均出场36.8分钟，得到36.1分6.6篮板7.5助攻；德罗赞场均出场34.9分钟，得到21.2分6.0篮板6.2助攻1.12抢断。
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/11/560a0c001d745607621617ff576633ee.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

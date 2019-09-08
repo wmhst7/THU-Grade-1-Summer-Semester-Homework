@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大佬喊话！韦德对利拉德和麦科勒姆说：照顾好我的小伙子
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/dwyanewade/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 13:19:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大佬喊话！韦德对利拉德和麦科勒姆说：照顾好我的小伙子" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/fde027e0a8f411c3919a023850878b6adc900a1f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 今日，NBA名宿德维恩-韦德更新Instagram story，晒出自己与哈桑-怀特赛德的合照，并@达米安-利拉德和CJ-麦科勒姆说道：“照顾好我的小伙子！”
+   </p>
+   <p>
+    根据此前报道，热火将哈桑-怀特赛德交易至开拓者，怀特赛德曾在14-19为热火效力5个赛季。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/13/f109b0e236ebb3f126c8d468e2713cbe.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

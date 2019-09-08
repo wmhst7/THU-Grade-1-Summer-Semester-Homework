@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  珍妮-巴斯：对沃格尔感到兴奋，非常欣赏库兹马的品质
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=xrVnZ8ZSKt8" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:16:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="珍妮-巴斯：对沃格尔感到兴奋，非常欣赏库兹马的品质" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/274e3c8277b71c82756e16504d0c04369f216c42.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 湖人老板珍妮-巴斯今日在NBA颁奖典礼红毯上接受采访谈到了湖人近况。
+   </p>
+   <p>
+    谈到出席颁奖礼的心情，珍妮说道：“这很棒。这就是我们的金球奖（由好莱坞外国记者协会举办的年度影视颁奖典礼）。反正充满乐趣，这就是一个派对。”
+   </p>
+   <p>
+    谈到对于湖人未来的展望以及新帅弗兰克-沃格尔的期待，珍妮说道：“自从赛季结束，魔术师约翰逊的辞职让我大吃一惊，所以我们经历了许多变化。但我对于罗勃-佩林卡领导我们的篮球运营部门充满信心，我对聘用新帅弗兰克-沃格尔非常兴奋。我认为他不仅引领他的球队打出过绝佳的防守，他们还能持续展现出色的防守。我认为这一点非常重要。我们还有一些别的变化将会发生，但由于NBA规则所限，我不能就此加以评论。实际上，我们今天来到这里是为了讨论各位赢家，见证他们拿到奖杯的时刻。”
+   </p>
+   <p>
+    主持人指出，在去年的颁奖典礼期间，珍妮-巴斯曾发布一张自己与凯尔-库兹马拥抱的照片，并表示“这可能是整晚我最喜欢的一张照片”。关于库兹马，珍妮表示：“凯尔-库兹马真的是很独特的那种人。我不仅见证了他作为一名球员的成长，还看到了他做人的进步。他是一个不断学习的人，他在增长自己对于世界，对于商业的见解。我非常欣赏他的这些品质。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

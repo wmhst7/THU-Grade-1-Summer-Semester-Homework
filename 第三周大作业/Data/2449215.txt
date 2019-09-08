@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  公牛正在寻求交易，以送走后卫克里斯-邓恩
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JakeLFischer/status/1145711682884427777" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 23:43:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="公牛正在寻求交易，以送走后卫克里斯-邓恩" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/d5a9bc771567312213f0ce894bdf2502549bcb73.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Jake Fischer报道，消息人士透露，公牛正在寻求可能的交易方案，以送走队中后卫克里斯-邓恩。
+   </p>
+   <p>
+    2018-19赛季常规赛，邓恩场均出场30.2分钟可以得到11.3分4.1篮板6.0助攻。
+   </p>
+   <p>
+    邓恩2016年与森林狼签下了4年1749万美元的新秀合同，2019-20赛季，邓恩的合同状况为535万美元的球队选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

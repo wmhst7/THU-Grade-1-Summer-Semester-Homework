@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿德巴约：球队账面实力出色，必须拼尽全力努力竞争
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/nba/miami-heat/article232916402.htmlBam" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 11:31:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿德巴约：球队账面实力出色，必须拼尽全力努力竞争" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/4078597b4dcf37da90e4d86d3831a97c043cf862.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 热火球员巴姆-阿德巴约近日在迈阿密Kendall地区参加青少年篮球活动期间接受了媒体采访。
+   </p>
+   <p>
+    当被问及球队下赛季在吉米-巴特勒的带领下会取得怎样的成绩时，阿德巴约说：“我现在无法告诉你，但是从账面上来看，我们的球队阵容真的很棒，因此我们必须为了目标全力以赴，在场上拼尽全力努力竞争。”
+   </p>
+   <p>
+    热火在休赛期引进了巴特勒和迈耶斯-伦纳德，失去了约什-理查德森和哈桑-怀特塞德，并且在选秀大会上选中了泰勒-希罗和KZ-奥克帕拉。
+   </p>
+   <p>
+    谈到球队的变化，阿德巴约说：“可能是性格方面的差别，这可是吉米-巴特勒，现在球队更加严肃，他比我们都要年长。”
+   </p>
+   <p>
+    谈到举办篮球训练营的重要性，阿德巴约说：“这些孩子们可能会在未来成为像我这样的职业球员，有些人能够长到6尺10寸（约2.08米），他们或许在大一的时候只有5尺6寸，但之后可能会像安东尼-戴维斯那样迅速长高。他们会想‘我可是去过巴姆的训练营’，这或多或少能够激励到他们。在我成长的过程中，我从未获得过这样的机会。我现在所说的一件小事，可能会以令人难以置信的方式影响一个孩子的未来。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

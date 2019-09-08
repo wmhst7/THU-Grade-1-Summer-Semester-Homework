@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  网友上线！美媒调侃杜兰特参观大通中心，杜兰特库里回复
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1ozj-YlCCX/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 03:35:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="网友上线！美媒调侃杜兰特参观大通中心，杜兰特库里回复" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/aa7f8f238da2961fa18c844eaacb6df191760f46.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今日，勇士为球队的新主场球馆大通中心举行媒体开放活动。
+   </p>
+   <p>
+    勇士相关媒体the Warriors Talk在Instagram上发布了一张前勇士球员凯文-杜兰特参观正在建设中的大通中心时手指向高处的照片，并用调侃的语气为杜兰特配台词：“等到这里建好的时候，我就在3000英里的那边了。”（大通中心所在地旧金山与杜兰特的新球队布鲁克林篮网队所在的纽约之间的距离约为2905英里，约为4675千米）
+   </p>
+   <p>
+    随后杜兰特回复了这条动态：“我哭了，这也太糟了吧（笑哭emoji）。”（easymonysniper为凯文-杜兰特的Instagram账号）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/03/f6f37ab456dd8250cedb74f1e6f5daea.jpg"/>
+   </p>
+   <p>
+    随后勇士后卫斯蒂芬-库里也回复了这条动态：“呦，这是谁想出来的？”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/04/018600455c251d92b7f620a1630adc9d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

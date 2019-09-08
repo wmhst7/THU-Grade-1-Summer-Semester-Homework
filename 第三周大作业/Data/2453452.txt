@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚当-萧华：我没有任何理由相信多兰会卖掉尼克斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/11/nba-commissioner-bullish-on-wnba-after-womens-soccer-success/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 15:25:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚当-萧华：我没有任何理由相信多兰会卖掉尼克斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/1e830e583f4fe81a9b87f39c38f104300a0f1791.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 NBA总裁亚当-萧华在近日接受媒体采访时谈到了尼克斯老板詹姆斯-多兰。
+   </p>
+   <p>
+    由于在自由球员市场上没有招募到球星加盟，外界出现了诸多希望多兰卖掉球队的声音。
+   </p>
+   <p>
+    萧华对此表示：“我没有任何理由相信他会卖掉尼克斯，因为这是一家上市公司，他也多次公开表示过自己不会卖掉尼克斯。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

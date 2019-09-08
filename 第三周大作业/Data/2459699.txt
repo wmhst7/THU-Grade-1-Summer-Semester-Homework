@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈里斯：恩比德和西蒙斯正处于职业生涯的上升期
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FTFonFS1/status/1155831197693616128" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 14:12:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈里斯：恩比德和西蒙斯正处于职业生涯的上升期" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/7603834995b2044a82fd3604b2725915c06e4caf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 76人球员托拜厄斯-哈里斯在今日做客访谈节目《First Things First》时谈到了队友本-西蒙斯和乔尔-恩比德。
+   </p>
+   <p>
+    “我认为二人正处于职业生涯的上升期，我们现在正在谈论的是两个持续取得进步的家伙，在如此年轻的阶段，他们已经在充满天赋的联盟中达到了顶级水准。关于乔尔，他会度过一个颇有成效的夏天，待在训练馆里，努力提升自己，并且保持健康。不久之前，我和本在洛杉矶一同进行了训练，你们总是谈论我兄弟的跳投，当我们在洛杉矶一同训练时，他非常自信地出手投篮。对于我而言，我能说的只有这些，但对于他而言，他一直在努力，每天都拼命训练，他在努力提升自己。我们获得了正确的拼图，处于一支正确的球队当中，并且拥有正确的心态。在我看来，鉴于肩上承担的责任，当他回归时，将会真正做到一些事情。”哈里斯说道。
+   </p>
+   <p>
+    “我认为上赛季他（西蒙斯）对于自己的投篮不够自信，但即便如此，他依旧为球队做出了巨大的贡献。在球队打攻守转换时，他在场上就像是一头奔跑的鹿，坚决地攻击篮筐，他非常强壮，也能在低位背打。如果他能将投射纳入自己的武器库，将会给对手造成巨大的防守压力，这会促进整支球队的进步。”哈里斯接着说道。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2453472&amp;type=1&amp;entrance=26">
+     哈里斯：西蒙斯的跳投看起来很棒，他对自己的投篮很自信
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

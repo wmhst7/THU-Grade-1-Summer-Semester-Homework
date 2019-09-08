@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德尚未做出决定，三支球队均没有出局
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/criscarter80/status/1146540513354571776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 06:10:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德尚未做出决定，三支球队均没有出局" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/c255dcd54158e8143bfe4ba8cf1ccf46d51f5a42.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 根据NBA记者Cris Carter报道，前锋科怀-伦纳德尚未做出他的决定，湖人和快船仍有机会得到他。
+   </p>
+   <p>
+    伦纳德此前搭乘飞机从洛杉矶返回多伦多与猛龙总经理乌杰里进行了会面。伦纳德阵营对于保密非常看重，外界很难得到关于会面的具体信息。
+   </p>
+   <p>
+    据Woj此前报道，伦纳德最早会在当地时间7月3日晚上（北京时间7月4日上午）做出决定，也存在当地时间7月4日早上（北京时间7月4日晚上）才决定的可能。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均出战34分钟，可以拿到26.6分7.3篮板3.3助攻1.8抢断。伦纳德带领猛龙拿到了2018-19赛季NBA总冠军并获得FMVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

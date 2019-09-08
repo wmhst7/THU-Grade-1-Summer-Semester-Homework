@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  路威谈猛龙对球员吸引力：地处加拿大会勾起球员思乡情绪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://larrybrownsports.com/basketball/lou-williams-hard-toronto-raptors-keep-players/501915" target="_blank">
+     拉里布朗体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 13:35:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="路威谈猛龙对球员吸引力：地处加拿大会勾起球员思乡情绪" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/68c0ce351742c17af28c94d2dc51a4494d898a92.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 近日，快船后卫路易斯-威廉姆斯做客电视节目The No Chill Podcast，谈及他认为多伦多地处加拿大对于猛龙对球员吸引力的看法。威廉姆斯曾在2014-15赛季为猛龙效力。
+   </p>
+   <p>
+    “起初你刚到那儿的时候，你会爱上为猛龙而战，为一整个国家（加拿大）而战的感觉。但是一旦来到赛季的第四、第五个月，你就开始心想‘天哪，我想回家’。”
+   </p>
+   <p>
+    “因为当你在多伦多打球时，你会感觉你就像是在海外打球，我们有时候迫不及待想要踏上客场之旅，只是为了回到美国而已。你在多伦多时，电视频道、电话账单、银行账号等等都是加拿大的，这太艰难了。尤其是如果你成为了父亲的话，这意味着你要在加拿大抚养孩子长大。”
+   </p>
+   <p>
+    路易斯-威廉姆斯曾在2014-15赛季为猛龙效力，场均出场25.2分钟，得到15.5分1.9篮板2.0助攻1.1抢断，在当赛季获得自己第一座最佳第六人奖杯。赛季结束后，猛龙并未向其提供续约合同，威廉姆斯与湖人签下3年共计2100万美元的合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

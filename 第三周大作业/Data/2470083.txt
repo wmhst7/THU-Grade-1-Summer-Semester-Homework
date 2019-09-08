@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  黑山公布12人大名单，武切维奇领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sportando.basketball/en/montenegro-announce-final-roster-for-fiba-basketball-world-cup/" target="_blank">
+     Sportando
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 17:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="黑山公布12人大名单，武切维奇领衔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/3dd823e8b77fb15f77e75ef101f1083920038fb0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 黑山今日公布了征战今年国际篮联篮球世界杯的最终12人大名单。
+   </p>
+   <p>
+    具体名单如下：尼古拉-伊万诺维奇、德里克-尼达姆、佩塔尔-波波维奇、萨阿德-舍霍维奇、塞亚德-舍霍维奇、亚莱克萨-波波维奇、迪诺-拉东契奇、内马尼亚-拉多维奇、博扬-杜布列维奇、尼古拉-武切维奇、马尔科-托多罗维奇和米克-别利察。
+   </p>
+   <p>
+    2019年国际篮联篮球世界杯将于北京时间2019年8月31日至9月15日在中国北京、广州、南京、上海、武汉、深圳、佛山、东莞八座城市举行。希腊与新西兰、巴西、黑山同处F组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  康利获得2018-19赛季最佳队友奖和体育道德风尚奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 09:36:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="康利获得2018-19赛季最佳队友奖和体育道德风尚奖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/5ae2110bbfab16e5e5f5c6407ef2938a40080d8c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，爵士控卫迈克-康利当选2018-19赛季最佳队友奖和体育道德风尚奖。
+   </p>
+   <p>
+    在演讲时，康利打趣道：“幸好我今天只用上来一次。”
+   </p>
+   <p>
+    2018-19赛季常规赛，康利场均能得到21.1分3.4篮板6.4助攻1.3抢断。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：杰迈克尔-格林2年1000万续约快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1148260503849824256" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 00:01:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：杰迈克尔-格林2年1000万续约快船" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/66cbb6d6325337b9d8db2ca2525e9f91c013d2be.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，杰迈克尔-格林与快船达成2年1000万美元的续约协议，其中第二年为球员选项。
+   </p>
+   <p>
+    根据Shams报道，格林拒绝了其他球队提供的更丰厚的合同报价，决定留在快船追求总冠军。他的续约将会为快船的锋线深度再添一名全能前锋，而目前快船锋线已有科怀-伦纳德和保罗-乔治。
+   </p>
+   <p>
+    上赛季中期，格林被灰熊交易至快船。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出场21.1分钟可以得到9.4分6.3篮板，季后赛场均上场23.5分钟得到11.0分5.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

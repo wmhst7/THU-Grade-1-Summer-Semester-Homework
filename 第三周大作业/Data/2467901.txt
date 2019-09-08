@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小斯当选2019年BIG3联赛最佳防守球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1cSCLBjioy/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 08:50:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小斯当选2019年BIG3联赛最佳防守球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/2fb49e800b14ee778c30eab01d48cf0712387a48.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 BIG3联赛官方今天在Instagram宣布前NBA球员阿马雷-斯塔德迈尔当选2019年BIG3联赛最佳防守球员。
+   </p>
+   <p>
+    随后，小斯在此条Instagram下回复道：“毫无疑问。”
+   </p>
+   <p>
+    2019年BIG3联赛，小斯共出战8场比赛，场均能够得到16.9分7.1篮板1.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

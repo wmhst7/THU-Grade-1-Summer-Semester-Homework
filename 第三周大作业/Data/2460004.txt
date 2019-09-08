@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆总经理普雷斯蒂邀请保罗等新援参观俄城博物馆
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OKCNM/status/1156315876884451328" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 10:04:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆总经理普雷斯蒂邀请保罗等新援参观俄城博物馆" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/764e17849cfc952bb1daa375b944a9284fdc00d8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日雷霆总经理萨姆-普雷斯蒂邀请雷霆新援克里斯-保罗、谢伊-吉尔杰斯-亚历山大和德文-霍尔参观俄克拉荷马城博物馆。
+   </p>
+   <p>
+    此前火箭将保罗交易至雷霆，得到威斯布鲁克。2018-19赛季常规赛，保罗场均上场32.0分钟，得到15.6分4.6篮板8.2助攻1.97抢断。
+   </p>
+   <p>
+    亚历山大是雷霆通过保罗-乔治的交易从快船得到的，2018-19赛季常规赛，亚历山大场均上场26.5分钟，得到10.8分2.8篮板3.3助攻1.17抢断。
+   </p>
+   <p>
+    德文-霍尔来自弗吉尼亚大学，2018年选秀大会第2轮第23顺位被鹈鹕选中。曾效力于澳大利亚国家篮球联赛的坎恩斯毒蛇队。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/f3d1581ec7664242c821024069cdf76e.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/a3a409d749bf2db4e9de1e03fce54905.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/438f2f64112f90eefa60af5ffab3517d.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

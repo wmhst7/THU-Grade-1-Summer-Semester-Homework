@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-布拉特在几个月前就开始接受治疗，计划继续执教
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cleveland.com/cavs/2019/08/former-cleveland-cavaliers-head-coach-david-blatt-diagnosed-with-multiple-sclerosis.html" target="_blank">
+     克利夫兰老实人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 10:02:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-布拉特在几个月前就开始接受治疗，计划继续执教" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/874e4644c365d40c4759ee35d6420958ff04d990.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 据此前的相关报道，前骑士主教练，现奥林匹亚科斯队主教练大卫-布拉特宣布，自己身患多发性硬化症。
+   </p>
+   <p>
+    布拉特通过奥林匹亚科斯俱乐部官方发声，他表示自己不会离开执教岗位。
+   </p>
+   <p>
+    “作为一个教练，我知道如何在比赛中取得优势，现在，我要在和病魔的斗争中取得优势，”布拉特说道，“身体不够敏捷和灵活并不影响我做这些事情，我很幸运，能够得到出色的医生和训练师的物理治疗及伤病管理，他们接受我身体的缺陷，并且帮助我去克服。我怎么可能抱怨呢？我肯定不能抱怨，也不会抱怨。我要求我们的球员和教练组成为最好的自己，我也必须对此自己提出同样的要求。”
+   </p>
+   <p>
+    布拉特表示他在几个月之前就开始接受治疗，并且经历了疲劳、腿部无力和平衡问题。
+   </p>
+   <p>
+    多发性硬化（Multiple Sclerosis，MS）是以中枢神经系统白质炎性脱髓鞘病变为主要特点的自身免疫病。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,92 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  精神抖擞！美国男篮官方发布全队大合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B01wDx3lFCK/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 10:09:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="精神抖擞！美国男篮官方发布全队大合照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/8f559eae35e4e4280b065ce8ef8e6d97ec5ece60.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 今天美国男篮官方在Instagram上发布了美国队的大合影。
+   </p>
+   <p>
+    第一排球员从左到右为：
+    <br/>
+    克里斯-米德尔顿、凯尔-库兹马、迈尔斯-特纳、布鲁克-洛佩斯、巴姆-阿德巴约、梅森-普拉姆利、杰森-塔特姆
+   </p>
+   <p>
+    第二排球员从左到右为：
+    <br/>
+    肯巴-沃克、多诺万-米切尔、马库斯-斯马特、哈里森-巴恩斯、赛迪斯-杨、达龙-福克斯、凯尔-洛瑞
+   </p>
+   <p>
+    第三排球员从左到右为：
+    <br/>
+    乔-哈里斯、杰伦-布朗、PJ-塔克
+   </p>
+   <p>
+    随后美国队官方发布了一组选拔队成员加入训练的照片，组图中出现的选拔队成员有特雷-杨、帕特-康诺顿、德里克-怀特、米卡尔-布里奇斯等人。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/31d8171f80e169bcf37bd3818766b0c5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/c6c766e9573982467c5c0ca5b0486ebd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/2701ef4b381c81c481d68f8e4cf0f6ae.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/c64afbd3f435f342dd99f823b64c4f6a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/a80cc467e58fef4a0c372a9961d792d8.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/af8e10ec811bd9bfc745430806eff2a0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/8e187de3a998bb098d5f405fd3879dc5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/1bb8a57afaa52496c063b4673c8fb67a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/bd3c6ebf976e506c48be4ce381605750.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/2ab5d2a60daef6e59a9b59617ec37973.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/10/bcb67a258557fe7afffe57a7a9b96bc3.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  朗尼-沃克：我会努力争取球队中的地位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/spurs-news-lonnie-walker-iv-admits-his-position-in-san-antonio-rotation-is-not-solidified/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 10:23:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="朗尼-沃克：我会努力争取球队中的地位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/2815fb3b6322369bd869fcba299f8e4660efcaad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 近日，马刺球员朗尼-沃克接受媒体的采访。
+   </p>
+   <p>
+    在谈到了他在球队中的地位，沃克对记者说道：“我一直在拼命的工作，我只不过是一直在低调的训练，没有去声张我在做的事。这个过程十分的辛苦，但是我很开心。我的教练（马刺助教贝基-哈蒙）说这很棒。努力工作总会有回报的 ，但在看到结果之前生活还是不一样的。”
+    <br/>
+    <br/>
+    “我觉得在今年的夏季联赛上我已经展现出了我的天赋，也让别人记住了我，我对此感觉很高兴。一切都在往好的方向发展，我依然有很多的东西需要学习，但是我已经做好了准备。”朗尼-沃克继续说道。
+   </p>
+   <p>
+    沃克承认他非常兴奋能进入马刺的常规轮换阵容，同时他很清楚的明白球队没有什么是一成不变的。
+   </p>
+   <p>
+    “我会努力去赢得波波维奇主教练的信任，我在球队中的位置并不稳固，我依然有很多的工作要做，我依然需要在很多方面上证明自己。”沃克最后补充说道。
+   </p>
+   <p>
+    朗尼-沃克在2018年第1轮第18顺位被马刺选中，上赛季由于伤病原因，常规赛仅代表马刺出场17次，场均出场6.9分钟，得到2.6分1.0篮板0.5助攻0.41抢断0.18盖帽。
+   </p>
+   <p>
+    在今年夏天的夏季联赛上，朗尼-沃克表现出色，共出战2场比赛，场均出场32.5分钟，可以得到30.0分4.0篮板1.0助攻1.5抢断1.0盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

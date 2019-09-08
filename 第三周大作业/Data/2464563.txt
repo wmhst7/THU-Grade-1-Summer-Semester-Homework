@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气亮相！塔伦-霍顿-塔克晒出新秀定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1C-COzhdk7/?igshid=1wysu387mv0b1" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 13:27:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气亮相！塔伦-霍顿-塔克晒出新秀定妆照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/0eeeafe28a1dd5111a97dcdd923023e17af28b39.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 湖人新秀后卫塔伦-霍顿-塔克在Instagram上发布了一张NBA官方今日拍摄的个人定妆照。
+   </p>
+   <p>
+    “如果我说过这很容易，那么我是在撒谎！”塔克写道。
+   </p>
+   <p>
+    塔克在本届选秀次轮总第46顺位被湖人选中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

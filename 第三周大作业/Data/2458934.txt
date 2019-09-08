@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波蒂斯：不在乎是否首发，我认为我会是最佳第六人候选人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/27/bobby-portis-eyes-sixth-man-of-the-year-as-knicks-bench-leader/?utm_campaign=SocialFlow&amp;sr_share=twitter&amp;utm_medium=SocialFlow&amp;utm_source=NYPSportsTwitter" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 13:26:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波蒂斯：不在乎是否首发，我认为我会是最佳第六人候选人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/3a2f71225b1bfa38e5c59d4be30c099653a1042f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 尼克斯球员博比-波蒂斯在近日接受《纽约邮报》采访时展望了球队下赛季的前景。
+   </p>
+   <p>
+    谈到在球队中的定位，波蒂斯说：“我不在乎是否能够获得首发的机会，我认为自己将会是最佳第六人的候选人，上赛季开局阶段，我的状态非常好，这样的感觉肯定会在我的脑海里重复。你们可能会说我疯了，但我感觉这一天肯定会到来，我能够承担起自己的角色。”
+   </p>
+   <p>
+    “我认为我们拥有排在快船之后的顶级替补阵容，快船有路易斯（威廉姆斯）和蒙特雷兹-哈勒尔，他们很强，但我们的替补阵容也有非常出色的武器，我，马库斯（莫里斯）、泰（吉布森），阿朗佐-特里尔，韦恩-艾灵顿等等。”波蒂斯说道。
+   </p>
+   <p>
+    “我们拥有一些高质量的轮转球员，他们已经在联盟征战多年，却鲜被提及。人们还在以过去的眼光看待尼克斯，我们不会沉浸在过去，我们必须活在当下，”波蒂斯补充道，“朱利叶斯（兰德尔）和米切尔（罗宾逊）或许会出任首发前场，我们的替补阵容有大量的武器，这会非常有趣。我会踏上赛场为球队带来激情，用正确的方式打球。在20-26分钟的出场时间里，我能够在多个方面为球队带来积极的影响。”
+   </p>
+   <p>
+    波蒂斯同时表示，他正在努力减重。
+   </p>
+   <p>
+    “上赛季我的体重真的很大，我现在正努力减到245磅（约111公斤），我的脚步会更快。”波蒂斯说道。
+   </p>
+   <p>
+    据此前的相关报道，波蒂斯以2年3100万的合同加盟尼克斯。
+   </p>
+   <p>
+    2018-19赛季常规赛，波蒂斯场均出场26分钟，能够得到14.2分8.1篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

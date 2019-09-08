@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗吐槽NCAA新规：人生经历和文凭一样重要
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CP3/status/1158957194513145856" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 12:45:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗吐槽NCAA新规：人生经历和文凭一样重要" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/c2413f21ca81f0ba540a32a636969de7bfdcecc9.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 近日NCAA发布最新规定，对那些大学球员“试水NBA选秀”而签约的经纪人做出以下规定：
+   </p>
+   <p>
+    1.获得学士学位；
+   </p>
+   <p>
+    2.获得至少三年的NBPA球员工会认证；
+   </p>
+   <p>
+    3.通过印第安纳波利斯的NCAA办公处的现场考试。
+   </p>
+   <p>
+    雷霆球员克里斯-保罗在推特上对新规发表了不同的意见，他写道：“我完完全全不同意NCAA的决定，有些人生经历不说更有价值，但至少和文凭的价值是相当的。你们需要重新考虑这项条款，太疯狂了！”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2462514&amp;type=1&amp;entrance=26">
+     NCAA新规：大学球员试水选秀签约的经纪人需持学士学位
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

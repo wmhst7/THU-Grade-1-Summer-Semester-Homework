@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗：新秀时不在意饮食，后来效仿格兰特-希尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/updates_okc/status/1169126956329099264" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 16:43:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗：新秀时不在意饮食，后来效仿格兰特-希尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190904/d30a4ef1923f5088dc3db6eb2496b8d7302c9f91.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 今夏，雷霆后卫克里斯-保罗入选了ESPN杂志的“Body Issue”栏目，并接受了记者的采访，谈到了如何保持体型。
+   </p>
+   <p>
+    保罗表示，自己从格兰特-希尔那里学到了如何适当饮食和摄入素食。他还透露了自己新秀赛季体型的蜕变方式。
+   </p>
+   <p>
+    “新秀赛季时，在我们训练的地方旁边有一家麦当劳，我每天都会去那里买一个煎松饼（McGriddle）。等回家的时候，我和我的兄弟在路上还会再来一份Chick-Fil-A，之后我们晚上一般还会点一份披萨。”
+   </p>
+   <p>
+    “我们那时候不知道后果，我们当时还年轻，第一次离家很远。但是现在情况大有不同了，决定饮食成了我的重大决策。”
+   </p>
+   <p>
+    此外，保罗也谈到了今夏联盟的变化。
+   </p>
+   <p>
+    “这个夏天很有意思。有很多的改变，很多球员改换门庭，我认为这对联盟很棒，对我也是。球员中很多人都不在去年的队伍中了，这太疯狂了。”
+   </p>
+   <p>
+    “我无意冒犯棒球和橄榄球，但是篮球运动真的太疯狂了，即便是赛季结束，也每天话题不断。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/16/99b0e6dbe806b00aa37e73837e6495c0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/16/4bd6f76a2c480449769ef8e1557c90c8.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  扬尼斯-阿德托昆博因肠胃炎缺席希腊国家队今日训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/eric_nehm/status/1159128966273404930" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 04:58:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="扬尼斯-阿德托昆博因肠胃炎缺席希腊国家队今日训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/7f4f9396baec9028dfb8c0579a3873cd825b112a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据希腊男篮官方更新的最新情况，雄鹿球员扬尼斯-阿德托昆博因肠胃炎而卧病在床，将缺席希腊男篮今天在Heraklion进行的训练。
+   </p>
+   <p>
+    2019年男篮世界杯，希腊与新西兰、巴西、黑山被分在F组。
+   </p>
+   <p>
+    2018-19赛季常规赛，阿德托昆博场均上场32.8分钟，得到27.7分12.5篮板5.9助攻1.28抢断1.53盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

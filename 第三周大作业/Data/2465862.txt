@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  挑战大自然！奥卡福晒出与戴维斯登山远足合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/jah8/2110670580222327289?utm_source=ig_story_item_share&amp;igshid=1qynhydty5mq6" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 03:37:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="挑战大自然！奥卡福晒出与戴维斯登山远足合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/042952eccef6be8fbd88221fdb82e1b6a80a2fdc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 鹈鹕中锋贾利尔-奥卡福今日通过Instagram Story更新了两张他与湖人前锋安东尼-戴维斯等人一同登山远足的照片。
+   </p>
+   <p>
+    在其中一张照片中，奥卡福与戴维斯站在一处荒野上。另一张合影中，奥卡福、戴维斯以及几位教练和友人登上山顶，与身后的瀑布景色合影留念。
+   </p>
+   <p>
+    2018-19赛季，奥卡福场均出战15.8分钟，得到8.2分4.7篮板；戴维斯场均出战33分钟，得到25.9分12篮板3.9助攻1.6抢断2.4盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/03/8057c587568cfbee524ef4659b4112f7.jpeg"/>
+    ​
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/03/f2f0d394b4a088bb8d5162254e16fd11.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

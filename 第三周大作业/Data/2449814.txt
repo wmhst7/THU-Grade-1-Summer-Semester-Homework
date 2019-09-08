@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马基斯-克里斯：感谢所有陪伴我的人，会战胜一切
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzcQwTWjF-U/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 13:13:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马基斯-克里斯：感谢所有陪伴我的人，会战胜一切" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/028d0f7d7ccc50530372888781043867ecc6635e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 骑士球员马基斯-克里斯出生于1997年7月2日，美国时间的今天是他的生日。克里斯在Instagram上晒出了自己的童年照。
+   </p>
+   <p>
+    克里斯写道：“哇22年过得好快。感谢所有给我生日祝福的人。如果有人对我指手画脚，我会认为他们在撒谎。我的5年级和6年级的班主任是最先质疑我的人，他们说我会一事无成最后锒铛入狱。看看我如今达成了什么样的成就吧，感谢上帝！那肯定不会是我最后一次遭受质疑，所以我要感谢那些陪伴和支持我度过一切的人。我爱你们，别担心，我一定解决所有问题，我向你们保证。”
+   </p>
+   <p>
+    2018-19赛季常规赛，马基斯-克里斯场均出场11.6分钟，可以得到4.2分3.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

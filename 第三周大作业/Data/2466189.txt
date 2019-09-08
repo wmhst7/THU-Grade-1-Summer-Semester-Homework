@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  三大核心！詹姆斯社媒转发分享湖人壁画
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2109946927238913741?utm_source=ig_story_item_share&amp;igshid=r08v2vgm1tlh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 07:16:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="三大核心！詹姆斯社媒转发分享湖人壁画" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/18c9d60442a7654ec4cb34b91d721b798525c632.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story转发友人发布的湖人壁画照。
+   </p>
+   <p>
+    这幅壁画同时展现了湖人的三位球员詹姆斯、安东尼-戴维斯和凯尔-库兹马的比赛场景，他们身后还有湖人的退役球衣和冠军旗帜。詹姆斯转发这则动态并附上了一个双手合十的表情。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻；戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻1.6抢断2.4盖帽；库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/99837fe279c28652d58fc97b4fc1e405.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

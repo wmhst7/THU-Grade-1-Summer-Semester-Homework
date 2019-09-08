@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德拉蒙德回复网友有关NBA2K评分降低一事：不过是他人看法
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AndreDrummond/status/1152736580596973568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 10:17:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德拉蒙德回复网友有关NBA2K评分降低一事：不过是他人看法" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/0058c396bb2d6c930e8412d8fcf7afdf27c2a3e8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 此前，一位美国网友曾在推特上对德拉蒙德能力值评分降低一事为其打抱不平，球迷发推表示：“去年，安德烈-德拉蒙德的评分是87分，在你打出一个场均17分，16篮板，1.5抢断，1.5盖帽的赛季之后，你告诉我，他的评分你给降低了？我知道这只不过是一个电子游戏，但是请给他一点尊重。”
+    <br/>
+    <br/>
+    今日，NBA球员安德烈-德拉蒙德发推，回复了那位球迷有关自己NBA2K评分的问题。
+    <br/>
+    <br/>
+    德拉蒙德写到：“所有的一切不过是另一个人对我的看法。NBA2K做得很好，我没有任何冒犯的意思。”
+    <br/>
+    <br/>
+    2017-18赛季常规赛，德拉蒙德代表活塞出战78场，场均出战33.7分钟，得到15.0分16.0篮板3.0助攻1.63盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

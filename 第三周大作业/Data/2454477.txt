@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里谈2015年晃倒保罗：那球很酷，但我必须投进
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/warriors-news-stephen-curry-admits-watching-replay-crossover-chris-paul/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 11:11:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里谈2015年晃倒保罗：那球很酷，但我必须投进" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/325e787f16c16a58d7b413f02e245041184ca68c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 近日，库里做客Omar Raja of House of Highlights节目时，谈到了2015年自己晃倒当时的快船球员克里斯-保罗，在底线命中跳投的一球。
+   </p>
+   <p>
+    “我甚至不记得我的动作，我只记得当我做出那样的动作时我想：‘我必须命中这一球， ’因为如果我没有投中的话会很糟糕。”
+   </p>
+   <p>
+    “但是回去之后，我看了无数次那段回放。我看了我们球队板凳席上的每一个人。在摄像机的第一角度，你可以看到每个人的反应。我会先看一个人的反应，再看另一个人的。安德烈-伊戈达拉把水瓶扔到了最高，德雷蒙德-格林在他身后，他那晚没有上场，穿着西装坐在那里，反应非常疯狂。”
+   </p>
+   <p>
+    “那当然是一个很酷的时刻，但是你得命中那一球。”
+   </p>
+   <p>
+    北京时间2015年4月1日，勇士以110-106战胜快船，库里得到27分4助攻，在第二节还剩2分32秒时晃倒保罗命中跳投。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

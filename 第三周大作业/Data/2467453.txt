@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波维奇评价塔克：他喜欢和别人沟通，是天生的领导者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1143463/2019/08/20/inside-p-j-tuckers-impact-on-team-usa-and-why-his-absence-is-more-painful-than-the-ankle-injury-that-caused-it/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 23:04:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波维奇评价塔克：他喜欢和别人沟通，是天生的领导者" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/39393dba3ee6840232a4fee6e80138989f38f811.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 近日，美国国家队主教练格雷格-波波维奇谈到了因伤退出国家队集训的NBA球员PJ-塔克。
+   </p>
+   <p>
+    在谈到邀请塔克加入美国国家队集训时，波波维奇说：“当我们邀请他时，他立刻就跳了起来，那是我记起的第一件事情，他真的很想参与到美国男篮集训中，因为他是一个竞争者，他是一个很成熟的男人。”
+   </p>
+   <p>
+    对于塔克，主教练波波维奇做出了这样的评价：“虽然他有一点点老，但是他十分强硬，他打起球来十分的职业。我们是一支很年轻的队伍，他的到来能给年轻人示范该如何去做，这真的很棒。”
+   </p>
+   <p>
+    “他是一个天生的领导者，他总是会和其他人进行交流，如果他们偷懒，他会把脚踩在他们的屁股上，他总是能洞察一切。”波波维奇补充道。
+   </p>
+   <p>
+    2018-19赛季常规赛，塔克场均出场34.2分钟，得到7.3分5.8篮板1.61抢断。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2466145&amp;type=1">
+     Shams：塔克因脚踝受伤退出本届男篮世界杯
+    </a>
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28993785.html">
+     退出美国男篮国家队让塔克失望，后者曾想带伤作战
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：巴雷特将不会为加拿大出战本届男篮世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1156959470548914177" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 00:07:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：巴雷特将不会为加拿大出战本届男篮世界杯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/194b337192d2ab8ea7f989d37999fbc47c14a249.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 据The Athletic记者Shams Charania今天的报道，消息人士透露，尼克斯前锋RJ-巴雷特将不会代表加拿大出战本届男篮世界杯。
+   </p>
+   <p>
+    据Shams报道，巴雷特在拉斯维加斯夏季联赛期间小腿轻微拉伤，而出于伤病管理的考虑，巴雷特将不会出战本届男篮世界杯。
+   </p>
+   <p>
+    据Shams进一步报道，虽然巴雷特不会出战世界杯比赛，但他会参加国家队在多伦多的训练营以及活动。
+   </p>
+   <p>
+    巴雷特是今年的3号秀，2018-19赛季在NCAA巴雷特场均出战35.3分钟得到22.6分7.6篮板4.3助攻。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

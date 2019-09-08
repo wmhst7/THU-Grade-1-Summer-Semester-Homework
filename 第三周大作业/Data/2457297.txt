@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺官方：布福德出任马刺体娱CEO，莱特出任总经理
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/spurs/spurs-sports-entertainment-announces-leadership-changes" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 01:11:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺官方：布福德出任马刺体娱CEO，莱特出任总经理" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/77fefe330a6aab30358fbdf9db1fd6c78f0775ce.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 马刺官方今日宣布，RC-布福德将出任马刺体育娱乐集团CEO，布莱恩-莱特将出任球队总经理。原先马刺体娱集团高层Rick Pych和Lawrence Payne将转而担任战略咨询角色。
+   </p>
+   <p>
+    布福德现年59岁，在1988年作为助理教练，初次加盟马刺。在短暂离开后，于1994年以职员身份回归马刺，在1997年升任球探主管，在1999年出任副总裁与助理总经理。2002年，被正式任命为球队总经理，并在2013-14赛季与2015-16赛季两次获得NBA年队最佳总经理。
+   </p>
+   <p>
+    布莱恩-莱特就读于中佛罗里达大学，获得了MBA工商管理学士学位，随后攻读了德沃斯体育商业管理项目硕士学位。从2006-07赛季开始，赖特开始在奥兰多魔术队工作。他从最开始的球探协调员，升职为魔术队大学球探主管。
+   </p>
+   <p>
+    2014-15赛季，莱特转投活塞队，担任活塞总经理助理一职。他在活塞队两年的工作颇受好评。2016年他受邀前往马刺队，担任总经理RC-布福德的助理。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

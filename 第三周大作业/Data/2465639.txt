@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里：对三后卫阵容有信心，会找到方法解决防守端的问题
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1134433/2019/08/14/steph-curry-is-now-the-warriors-oldest-player-has-it-sunk-in-no/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 15:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里：对三后卫阵容有信心，会找到方法解决防守端的问题" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/1cbddb4f7f8c30160db4f8bcb0ecf6a7c96bb0a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 近日，勇士后卫斯蒂芬-库里接受了The Athletic记者Anthony Slater的采访。
+   </p>
+   <p>
+    谈到季后赛时勇士是否会用由斯蒂芬-库里、丹吉洛-拉塞尔和克莱-汤普森组成的三后卫阵容首发并收官，库里说：“当然，你得在阵容搭配安排上具备创造力，在整场比赛中打出优秀的进攻。即便是在防守端，我知道人们对这个阵容有很多议论，主要是针对我们的体型。但是我们的竞争欲望将被激发出来，我们会找到方法解决防守端的问题的。”
+   </p>
+   <p>
+    谈到搬到新球馆大通中心球馆之后可能会有的感受时，库里说：“（距离训练营开始）还有六到七周，这仍旧是未来的事，你不知道去一座不同的球馆会是怎样的光景，会有怎样的感觉。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。拉塞尔场均上场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断。汤普森场均上场34.0分钟，得到21.5分3.8篮板2.4助攻1.08抢断。汤普森在2018-19赛季总决赛对阵猛龙的第六场比赛中遭遇左膝十字韧带撕裂，预计恢复时间为5-7个月。此前勇士官方宣布，球队已经与汤普森签下了一份5年1.9亿美元的续约合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

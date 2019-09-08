@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  吉列尔莫-埃尔南戈麦斯晒与弟弟为西班牙男篮训练的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0g2a4YK7ra/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 10:27:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="吉列尔莫-埃尔南戈麦斯晒与弟弟为西班牙男篮训练的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/b7e344f8fa67105fea87816787006095d714d55a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日黄蜂球员吉列尔莫-埃尔南戈麦斯更新了自己的个人Instagram动态，晒出了与弟弟、掘金球员胡安-埃尔南戈麦斯一起为西班牙国家队训练的照片。
+   </p>
+   <p>
+    “专注。@胡安-埃尔南戈麦斯”吉列尔莫-埃尔南戈麦斯写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，吉列尔莫-埃尔南戈麦斯场均上场14.0分钟，得到7.3分5.4篮板1.0助攻；胡安-埃尔南戈麦斯场均上场19.4分钟，得到5.8分3.8篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

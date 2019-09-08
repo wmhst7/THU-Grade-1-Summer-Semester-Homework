@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿德巴约：理查德森被交易让我失落，但还是要向前看
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article231882358.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 20:43:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿德巴约：理查德森被交易让我失落，但还是要向前看" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/e7055b99a4607e39df1038704c357bb457411a71.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 近日，热火球员巴姆-阿德巴约和小德里克-琼斯接受了媒体的采访，谈到了热火最近的人员变动。
+   </p>
+   <p>
+    谈到约什-理查德森被交易，阿德巴约说：“交易发生的时候，我正和理查德森在一起，所以这个消息让我有点失落。理查德森是我的兄弟，但是我们最终要记得这是一个生意场，我们要努力赢球。”
+   </p>
+   <p>
+    谈到吉米-巴特勒，阿德巴约说：“他带给我一种拼命三郎的感觉。他想要赢球，想要防住对手，想要把能量传播给众人，想要成为一名明星。”
+   </p>
+   <p>
+    谈到约什-理查德森被交易，小德里克-琼斯说：“我们失去了我们的兄弟，但我们得到了一名全明星球员。我们知道巴特勒想要努力打球，这也是我们想做的。”
+   </p>
+   <p>
+    谈到一度被卷入交易中，小德里克-琼斯说：“我看到了，是的，我当时挺担心的。但是说到底，我哪也没去。我喜欢热火，热火也喜欢我。得知球队想要我留下我很开心。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

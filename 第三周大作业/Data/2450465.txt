@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：步行者公布今年夏季联赛阵容名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/pacers/news/pacers-announce-2019-rookie/free-agent-camp-roster" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 11:43:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：步行者公布今年夏季联赛阵容名单" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/22333d5e48baf13d39879075930f91e8c13f7bc1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    今日，步行者官方公布夏季联赛名单。
+   </p>
+   <p>
+    具体名单如下：德沃恩 库恩-珀塞尔、Shizz Alston、戈加-比塔泽、Brian Bowen II、Cody Demps、 JaKeenan Gant、Jay Henderson、阿龙-霍勒迪、阿利兹-约翰逊、杰伦-约翰逊、马尔基什-麦克达菲、MiKyle McIntosh、埃德蒙-萨姆纳、Travin Thibodeaux。
+   </p>
+   <p>
+    Steve Gansey将担任步行者夏季联赛主帅，步行者的首场比赛将于北京时间7月7日7：00在步行者主场银行家人寿球馆进行。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190705/11/db5b9c69451ab802166b3bcfe4366fa5.png"/>
+   </p>
+   <p>
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

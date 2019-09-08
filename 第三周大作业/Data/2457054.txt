@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫里斯：波波与我进行了电话长谈，我对马刺充满爱意
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1089628/2019/07/22/charania-a-conversation-with-marcus-morris-on-free-agency-his-knicks-switch-and-mutually-parting-with-rich-paul/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 09:33:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫里斯：波波与我进行了电话长谈，我对马刺充满爱意" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/3eeb333cba4fa4b1b7ad84b1b115bc34e6997259.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 尼克斯球员马库斯-莫里斯近日接受The Athletic记者Shams Charania采访回应了关于他今夏一波三折的合同签约问题。
+   </p>
+   <p>
+    根据此前的报道，莫里斯一度与马刺达成2年2000万美元的原则性签约协议，但他随后选择与尼克斯商讨并达成1年1500万美元的签约协议。
+   </p>
+   <p>
+    “我与那些人拥有很好的关系，”莫里斯在谈到马刺时说，“我对波波维奇（马刺主帅），RC（布福德，马刺总经理）以及布莱恩-赖特（马刺副总经理）充满尊重。当我知道自己将去往别处时，我做的第一件事就是打电话告知他们。不存在遮掩，不存在不尊重。随后我进行了很好的谈话，只要我感觉自己跟他们说清楚了，讲了实情，我对于继续前进感觉不错。当时我以为自己别无选择，以为马刺的合同是我唯一拥有的东西。这个过程出乎意料，进展也不顺利。”
+   </p>
+   <p>
+    “波波和我进行了长时间通话，我们聊到了各种事情，不仅限于篮球，”莫里斯补充道，“我对于那家俱乐部充满爱意，感谢他们曾给予我穿上马刺球衣的机会。那是我决策过程的一部分。他是除了菲兹代尔教练之外我唯一交谈过的主帅。作为一个费城人，能够在临近家乡的地方打球，因此我可以经常看到家人。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

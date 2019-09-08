@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德安德烈-亨特：安东尼是我最喜欢的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1160700988858228736?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 08:06:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德安德烈-亨特：安东尼是我最喜欢的球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/ee214a6271cb86c18e2a2aafa825fb7c5f8f4eae.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 老鹰的德安德烈-亨特接受采访时谈到了卡梅罗-安东尼。
+   </p>
+   <p>
+    小时候最喜欢的球员是谁？亨特说：“卡梅罗-安东尼。”
+   </p>
+   <p>
+    安东尼是否还属于NBA？亨特说：“我认为是这样的。”
+   </p>
+   <p>
+    如果有机会愿意跟安东尼一起打球么？亨特说：“我很愿意跟甜瓜一起打球，就像我刚才说的，他是我最喜欢的球员，我仍然很喜欢他的比赛，我感觉NBA绝对该有他的一席之地。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

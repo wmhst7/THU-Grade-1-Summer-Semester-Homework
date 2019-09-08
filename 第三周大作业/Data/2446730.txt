@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉姆斯3次获得最佳第六人，追平克劳福德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ESPNStatsInfo/status/1143339275859009536" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 10:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉姆斯3次获得最佳第六人，追平克劳福德" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/5b3b8c0dafb12afc5c2851e6b1b6ac31a35c0efd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，快船球员路易斯-威廉姆斯当选2018-19赛季年度最佳第六人，这是他职业生涯第3次获得最佳第六人奖项。
+   </p>
+   <p>
+    职业生涯目前为止3次获得最佳第六人奖项，也让威廉姆斯加入贾马尔-克劳福德的行列，成为第二位3次获得最佳第六人奖项的球员。此外，威廉姆斯也成功加入凯文-麦克海尔和德特勒夫-施伦普夫的行列，成为仅有的三位连续2年获得最佳第六人奖项的球员。
+   </p>
+   <p>
+    路易斯-威廉姆斯常规赛为快船出场75次，场均出场26.6分钟，能够贡献20.0分3.0篮板5.4助攻0.76抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

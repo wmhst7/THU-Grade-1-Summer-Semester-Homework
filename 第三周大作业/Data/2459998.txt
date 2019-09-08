@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K营销总监：欢迎蔡恩，很少有人比他更好的代表下一代
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0i45VkBYAr/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 09:58:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K营销总监：欢迎蔡恩，很少有人比他更好的代表下一代" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/c11518202fd07a3a761f8ab4ba08221a6066fccc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日，2K全球社区营销总监Ronnie Singh更新社交媒体Instagram，晒出与蔡恩-威廉森合照（见新闻配图）。
+   </p>
+   <p>
+    “祝贺我们最新的2K球员@蔡恩-威廉森。很少有人能比他更好的代表下一代，为我们漫长的旅程感到兴奋！欢迎成为下一个！”他写道。
+   </p>
+   <p>
+    威廉森在今年选秀大会上首轮第1顺位被鹈鹕选中，大一赛季NCAA场均上场30.0分钟，得到22.6分8.9篮板2.1助攻2.12抢断1.79盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,142 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [汇总]自由市场第十日签约裁员及流言一览
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 16:27:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="[汇总]自由市场第十日签约裁员及流言一览" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/3ae1dc399ace51203955f00811c299ce898bed7e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今天是自由市场正式开启的第十天，一起来看看今天有哪些达成的签约或者交易，又有哪些新的流言。
+   </p>
+   <p>
+    <strong>
+     今日要闻：
+    </strong>
+   </p>
+   <p>
+    1、球员工会各大奖项公布：字母哥当选MVP，詹姆斯获两奖
+   </p>
+   <p>
+    2、Woj：马库斯-莫里斯重新考虑签约，可能加盟尼克斯
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/15/e4a1373293b705442a45d432660848de.jpg"/>
+   </p>
+   <p>
+    3、篮网总经理：自由市场开启前，医疗团队都同意给KD顶薪
+   </p>
+   <p>
+    4、规则改动！下赛季将允许主教练在比赛中进行判罚挑战
+   </p>
+   <p>
+    5、勇士裁掉肖恩-利文斯顿，后者将继续征战NBA
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/15/a5c971066fcc8b9268355dedd14cc507.jpg"/>
+   </p>
+   <p>
+    <strong>
+     今日达成签约及协议：
+    </strong>
+   </p>
+   <p>
+    1、Woj：森林狼将不会匹配灰熊给泰厄斯-琼斯的报价
+   </p>
+   <p>
+    2、Shams：考利-斯坦与勇士签下的合同为2年440万
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190710/15/6f33e91dac37b3d55e7c6082a2c63260.jpg"/>
+   </p>
+   <p>
+    3、Woj：肯-伯奇与魔术达成2年600万续约合同
+   </p>
+   <p>
+    4、勇士已经与41号秀帕斯卡尔签下3年420万的合同
+   </p>
+   <p>
+    5、凯尔特人与特里蒙特-沃特斯达成双向合同
+   </p>
+   <p>
+    6、欧洲记者：帕纳辛奈科斯与弗雷戴特签下两年合同
+   </p>
+   <p>
+    <strong>
+     裁员及流言：
+    </strong>
+   </p>
+   <p>
+    1、Shams：雄鹿裁掉前锋乔恩-洛伊尔
+   </p>
+   <p>
+    2、尼克斯和布洛克正重新商讨原先达成的2年2100万合同
+   </p>
+   <p>
+    3、马刺开始接触其他侧翼球员，以防莫里斯加盟其他球队
+   </p>
+   <p>
+    4、马刺掘金尼克斯曾为杰迈克尔-格林开出比快船更高的合同
+   </p>
+   <p>
+    5、特雷-杨预计会受邀加入美国男篮陪练队
+   </p>
+   <p>
+    5、即便伦纳德续约猛龙，丹尼-格林也只会加盟湖人或独行侠
+   </p>
+   <p>
+    <strong>
+     今日官宣：
+    </strong>
+   </p>
+   <p>
+    1、官方：篮网正式续约加莱特-坦普尔
+   </p>
+   <p>
+    2、尼克斯正式签下兰德尔、佩顿、波蒂斯、艾灵顿和吉布森
+   </p>
+   <p>
+    3、官方：雄鹿续约乔治-希尔
+   </p>
+   <p>
+    4、官方：奇才正式签下后卫伊斯梅尔-史密斯
+   </p>
+   <p>
+    5、官方：湖人签下德文特-卡考克和阿里奇-霍尔曼
+   </p>
+   <p>
+    6、官方：快船与阿米尔-科菲签下双向合同
+   </p>
+   <p>
+    7、官方：快船签约菲翁杜-卡本盖莱和特伦斯-曼
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火试训贾斯廷-西蒙，但后者没能拿到热火合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article233463277.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 12:36:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火试训贾斯廷-西蒙，但后者没能拿到热火合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/ac4194696d3eaa74c521f20b60607e16377c4292.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据《迈阿密先驱报》记者巴里-杰克逊的报道，热火最近试训了贾斯廷-西蒙，但是后者没能得到热火的一份合同。
+   </p>
+   <p>
+    23岁的西蒙身高1.96米，体重93公斤，来自圣约翰大学，他是今年选秀大会的落选秀。
+   </p>
+   <p>
+    2018-19赛季，西蒙场均出战32.9分钟可以拿到10.4分5.1篮板3.2助攻1.5抢断，并且当选了Big East最佳防守球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

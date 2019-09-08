@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：掘金与后卫PJ-多齐尔达成一年合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1161038315677609984" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 06:24:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：掘金与后卫PJ-多齐尔达成一年合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/1135878aa020868ec6405f7e53258b050ba1756d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，掘金已与后卫PJ-多齐尔达成一年合同。
+   </p>
+   <p>
+    多齐尔上赛季是凯尔特人的双向合同球员，并成功进入发展联盟全明星阵容。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

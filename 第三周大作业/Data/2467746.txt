@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克-纳斯：科里-约瑟夫已经预定了前往中国的航班
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JohnCasey2880/status/1164101818743283713?s=19&amp;fbclid=IwAR1wIn0OOXxGG2Q0aitY8ksm1UF1AdK7avH2aK8W4SO2Ofi30qgt-Jjbk2o" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 18:42:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克-纳斯：科里-约瑟夫已经预定了前往中国的航班" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/aa1ba606a65c32b8991424650232f1a59802c52f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 据澳大利亚记者John Casey报道，加拿大男篮主教练尼克-纳斯在接受采访时表示，此前关于后卫科里-约瑟夫退出加拿大男篮的消息为不实报道。
+   </p>
+   <p>
+    纳斯透露他在今天与约瑟夫进行了交流，约瑟夫表示他已经预定了前往中国的航班。
+   </p>
+   <p>
+    加拿大男篮目前正在澳大利亚备战热身赛，本届世界杯，加拿大与立陶宛、澳大利亚、塞内加尔同处H组，小组赛在东莞举行。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/29049530.html?share_from=kqapp">
+     科里-约瑟夫将退出加拿大男篮国家队，缺席男篮世界杯
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

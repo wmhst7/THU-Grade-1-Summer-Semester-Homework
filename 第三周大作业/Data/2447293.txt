@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱姆森大学后卫马奎斯-里德将为火箭出战夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1143658998471766021" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 19:32:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱姆森大学后卫马奎斯-里德将为火箭出战夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/027fc72b9b2172886faa8da0be66fc593333f75b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 克莱姆森大学老虎队官方宣布，球队后卫马奎斯-里德将为火箭出战夏季联赛。
+   </p>
+   <p>
+    24岁的里德身高1.91米，体重88公斤，里德是今年的落选秀。
+   </p>
+   <p>
+    2018-19赛季，里德场均出战35.4分钟可以拿到19.4分5.6篮板3助攻2.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：76人续约迈克-斯科特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/team-re-signs-scott" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 07:09:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：76人续约迈克-斯科特" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/4e263061f258c1c85d051776ac1352834abf4641.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 76人官方今日宣布，他们已经与迈克-斯科特完成续约，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    “迈克是费城所爱的缩影，他是一名无畏的竞争者，有着不知疲倦的工作态度，赢球的欲望驱使着他前进，就像费城所知道的那样，他的强硬、坚毅和热情是很明显的，我们很开心能让他回到76人。”76人总经理埃尔顿-布兰德说道。
+   </p>
+   <p>
+    根据之前The Athletic记者Shams Charania的报道，斯科特与76人达成2年980万美元的续约协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，斯科特场均上场17.7分钟，得到5.8分3.5篮板，季后赛场均上场19.3分钟，得到5.6分3.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

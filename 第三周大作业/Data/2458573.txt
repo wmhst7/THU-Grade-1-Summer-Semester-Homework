@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  7月NBA自由市场签约金额达40亿美元，创历史纪录
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BobbyMarks42/status/1154755916253634561?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1154755916253634561&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Fnba-news-league-sets-new-r" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 12:09:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="7月NBA自由市场签约金额达40亿美元，创历史纪录" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/9da285b16a8e76acc2d3ff96845315c42f7e7515.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 自7月1日自由市场开启以来，自由市场可以说是十分疯狂，许多球员得到了金额过亿的签约合同。
+   </p>
+   <p>
+    据薪资专家鲍比-马克斯统计，7月至今，整个自由市场的签约金额累计高达40亿美元，创下历史纪录。而此前纪录为16年的37亿美元，当时正逢工资帽大涨。
+   </p>
+   <p>
+    而其中支出最高的5支球队分别是76人（4.8亿）、篮网（3.6亿）、勇士（3.3亿）、独行侠（3亿）和雄鹿（2.8亿）。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2458520&amp;type=1&amp;entrance=26">
+     本赛季自由市场支出排名：76人4.8亿高居榜首
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

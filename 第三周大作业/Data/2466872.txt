@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  宝刀未老！乔-约翰逊创造BIG3联赛常规赛总得分纪录
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UZxrsHwws/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 09:03:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="宝刀未老！乔-约翰逊创造BIG3联赛常规赛总得分纪录" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/ff93a561cac65edb2e1704b55d315bd1067767df.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 本赛季BIG3联赛常规赛落下帷幕，前NBA球员乔-约翰逊在共计8场常规赛中，总计得到175分，创下了BIG3联赛常规赛总得分纪录。
+   </p>
+   <p>
+    约翰逊效力于BIG3联赛的Triplets队，该球队在常规赛中取得7胜1负的战绩，排名联赛第一。
+   </p>
+   <p>
+    乔-约翰逊出生于1981年，2001年第1轮第10顺位被凯尔特人选中，生涯常规赛场均出场34.7分钟，得到16.0分4.0篮板3.92助攻0.84抢断0.20盖帽，7次入选全明星阵容。
+   </p>
+   <p>
+    此前，他在接受采访时表示
+    <a href="https://voice.hupu.com/nba/2455396.html">
+     想要重返NBA，机会出现时会抓住并迎接挑战。
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

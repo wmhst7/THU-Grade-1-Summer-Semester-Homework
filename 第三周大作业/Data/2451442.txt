@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳官方更新社交媒体，庆祝去年与布克提前续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzoXyOgnmNq/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 09:42:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳官方更新社交媒体，庆祝去年与布克提前续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/20ac2bee38abf4232c4c2b97a6440a4e3bc97a97.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，太阳官方社交媒体更新Instagram，晒出去年德文-布克签约旧照（见新闻配图）。
+   </p>
+   <p>
+    “一年前的今天是一个历史性的时刻，所以我们宣布#德文-布克日#快乐！”并配文道。
+   </p>
+   <p>
+    2018年7月8日，德文-布克与太阳签下了5年价值1.58亿美元的顶薪提前续约合同，布克的新秀合同今年夏天到期。
+   </p>
+   <p>
+    2018-19赛季常规赛，德文-布克场均出场35.0分钟，得到26.6分4.1篮板6.8助攻。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2321065&amp;type=1&amp;entrance=26">
+     布克与太阳签下5年1.58亿美元的提前续约合同
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

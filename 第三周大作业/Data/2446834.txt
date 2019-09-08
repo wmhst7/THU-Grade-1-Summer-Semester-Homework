@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马库斯-斯马特获得2018-19赛季最佳拼搏奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 14:30:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马库斯-斯马特获得2018-19赛季最佳拼搏奖" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/3d017a8f6c3a6da6ddfb14a77d9da52361898667.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，凯尔特人后卫马库斯-斯马特获得了2018-19赛季最佳拼搏奖。
+   </p>
+   <p>
+    2018-19赛季常规赛，斯马特共出战80场比赛，场均出战27.5分钟，能够得到8.8分2.9篮板4.0助攻。
+   </p>
+   <p>
+    2018-19赛季，斯马特的截断数排在后卫第一，制造进攻犯规排在第六，干扰投篮排在后卫第六。
+   </p>
+   <p>
+    NBA赛季最佳拼搏奖颁发给“拼搏”分数最高的球员，分数是基于球员常规赛最少出场50场比赛、场均至少15分钟得出的，共考察5项“拼搏”数据，分别是：掩护助攻、截断、抢回失球、制造进攻犯规以及干扰投篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：后卫约什-格雷与鹈鹕达成一份双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1152271044369141761" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 01:38:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：后卫约什-格雷与鹈鹕达成一份双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/e1db6ee15014f5751954c20e942ec5a78b4cd775.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据The Athletic记者Shams Charania的报道，多位消息人士透露，后卫约什-格雷与鹈鹕达成一份双向合同。
+   </p>
+   <p>
+    根据此前消息报道，后卫约什-格雷代表森林狼出战本届夏季联赛。
+   </p>
+   <p>
+    约什-格雷身高185公分，上赛季曾与太阳签下过2份10天合同，共上场5次，场均上场17.2分钟，得到6.4分2.0篮板2.4助攻1.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

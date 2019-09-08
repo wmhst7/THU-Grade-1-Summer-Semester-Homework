@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰厄斯-琼斯与灰熊达成3年2400万邀请合同报价协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1148075342218682368" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 11:45:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰厄斯-琼斯与灰熊达成3年2400万邀请合同报价协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/fbf9bdcec7d3cb7fdac4f4d69d28ce75d3c15cac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，泰厄斯-琼斯与灰熊达成一份3年2400万美元的邀请合同报价协议。
+   </p>
+   <p>
+    根据此前的报道，森林狼已为琼斯开出资质报价，后者成为受限制自由球员，因此森林狼将有48小时决定是否匹配灰熊为琼斯提供的合同报价。
+   </p>
+   <p>
+    根据Woj报道，此前灰熊与独行侠达成德朗-赖特的先签后换交易，这笔交易使灰熊拥有操作薪资空间的灵活性，因此灰熊能够为琼斯提供这样一份邀请合同报价。
+   </p>
+   <p>
+    琼斯是2015年选秀大会的24号秀，生涯至今四个赛季都效力于森林狼。
+   </p>
+   <p>
+    2018-19赛季常规赛，琼斯场均上场22.9分钟，得到6.9分2.0篮板4.8助攻1.19抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

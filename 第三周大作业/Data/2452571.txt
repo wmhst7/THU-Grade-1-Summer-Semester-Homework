@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才签约以赛亚-托马斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-sign-isaiah-thomas" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 07:24:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才签约以赛亚-托马斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/3642e879f0852f4b600f46d9bf964803e1839eff.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 奇才官方今日宣布，他们已经签下了自由球员后卫以赛亚-托马斯，后者新赛季将身穿4号球衣。
+   </p>
+   <p>
+    “这笔签约完美适合我们球队和以赛亚，他渴望展示出他已经找回了之前的样子，那种之前让他成为了这个联盟最高效和最特别球员之一的样子，我们可以为他提供这样的机会，让他在我们球队理念的框架之内这么做，我们看重他的领导力和经验。”奇才篮球运营高级副总裁Tommy Sheppard说道。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，小托马斯与奇才达成了一年的协议，小托马斯来自华盛顿的塔科马。
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯代表掘金出场12场比赛，场均出场15.1分钟，场均得到8.1分1.1篮板1.9助攻0.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

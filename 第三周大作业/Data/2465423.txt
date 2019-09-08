@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乌布雷被拍到与模特Jasmine在街头手牵手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/08/14/kelly-oubre-jasmine-sanders-hold-hands-bootsy-bellows/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 22:17:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乌布雷被拍到与模特Jasmine在街头手牵手" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/6ff88493507eb713d472f0bdb11b0cc26a8f39e9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 根据TMZ体育的报道，太阳的凯利-乌布雷和模特Jasmine Sanders现身西好莱坞，当时他们被拍到正在从一家夜店离开。
+   </p>
+   <p>
+    之前有报道称乌布雷和Jasmine最近在约会，他们两人离开时手牵着手。
+   </p>
+   <p>
+    乌布雷今夏以2年3000万美元的合同续约太阳，2018-19赛季常规赛，乌布雷为太阳出战了40场比赛，场均上场29.5分钟得到16.9分4.9篮板1.6助攻1.4抢断1盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克拉克因伤还无法前往球队报到，新疆在考虑签下劳森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/carchia/status/1170410775065681921?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 08:34:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克拉克因伤还无法前往球队报到，新疆在考虑签下劳森" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/87c215aded2c84428e233147db0b2ce04b842069.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 根据Sportando体育Emiliano Carchia的报道，一位消息人士透露，因为伊恩-克拉克因伤还无法前往球队报到，所以中国CBA联赛的新疆飞虎队在考虑签下泰-劳森。
+   </p>
+   <p>
+    31岁的劳森在NBA征战了9个赛季，打过551场常规赛，场均出战29.2分钟可以拿到12.7分6助攻2.7篮板1.2抢断。
+   </p>
+   <p>
+    2018-19赛季，劳森在中国CBA联赛的山东王者队场均出战35分钟可以拿到26.5分8.7助攻3.9篮板1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

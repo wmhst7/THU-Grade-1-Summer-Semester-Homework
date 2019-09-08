@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士官方更新社交媒体，晒米切尔美国男篮训练营精彩图集
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B04BFReHugt/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 13:08:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士官方更新社交媒体，晒米切尔美国男篮训练营精彩图集" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/1c134147fc24b23b7afefc480dbb3d9f330daf59.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，爵士官方更新社交媒体Instagram，晒出多诺万-米切尔在美国男篮训练营中的精彩图集（见新闻配图）。
+   </p>
+   <p>
+    “他将会是未来。”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，米切尔场均上场33.7分钟，得到23.8分4.1篮板4.2助攻1.38抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/13/4e6bfcbdf236f2b45730bf6e06776d7b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/13/f939552b7401af0be3a43d4de02b8375.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/13/680f6629a8c57ca8f96bc8b7cd19888d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/13/f66c4af1ce069b0865ff87510f395af7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

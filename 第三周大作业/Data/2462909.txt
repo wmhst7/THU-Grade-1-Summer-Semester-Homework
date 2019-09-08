@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达尼罗-加里纳利NBA2K20能力值公布：83
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0sqW60izcS/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 10:16:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达尼罗-加里纳利NBA2K20能力值公布：83" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/66c97de1b50480c654c495dd87d6fb7de90cc781.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，雷霆球员达尼罗-加里纳利在NBA2K20中的初始能力值被公布：83
+   </p>
+   <p>
+    “达尼罗-加里纳利的初始能力值是83。”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，加里纳利场均出战30.3分钟可以拿到19.8分6.1篮板2.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

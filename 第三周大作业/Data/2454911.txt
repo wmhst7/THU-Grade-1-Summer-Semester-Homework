@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德谈拍戏：被要求剃掉胡须，我的戏份很足绝非客串
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/blazers/forwardcenter/lillard-role-upcoming-space-jam-2-movie-its-not-cameo" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 11:25:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德谈拍戏：被要求剃掉胡须，我的戏份很足绝非客串" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/5a71fea62142cb5fca015704f9c7462e33e1edeb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 开拓者后卫达米安-利拉德近日接受采访表示他此前参与电影《空中大灌篮2》拍摄时进驻剧组一周，还牺牲了自己的胡子。
+   </p>
+   <p>
+    谈到参演电影的感受，利拉德说：“感觉不一样。你们知道我天生娃娃脸，所以这赛季我留了胡子，蓄须花了我大概6个月时间。我去了片场，他们让我把胡子剃了，说是为了考虑到动画效果。因此我现在成了这般模样。为了动画效果我光脸参演，每日长达15小时的拍摄，早上6点到片场，晚上大概9点才离开，很漫长的。”
+   </p>
+   <p>
+    虽然利拉德的主要戏份已经拍摄完毕，他表示自己可能“还要再回去补拍一次”。
+   </p>
+   <p>
+    利拉德不愿描述自己的角色，也不愿透露《空中大灌篮2》的剧情。“我的戏份很足，并非客串。”利拉德说。
+   </p>
+   <p>
+    利拉德对拍片经历总结道：“我不会说它很有趣，最终感觉还是有趣的，因为我知道自己参与了这样一件事物。我认为成片质量会很好。”
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2454808.html">
+     《空中大灌篮2》拍摄期间更换导演
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

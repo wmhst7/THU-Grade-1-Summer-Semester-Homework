@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马：我能很快领会科尔和波波维奇的教导，学到了很多
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-15.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 10:56:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马：我能很快领会科尔和波波维奇的教导，学到了很多" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/7dc2313d1a61d28a608920825ec69ed927c0fb95.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 近日，美国男篮正在洛杉矶备战热身赛。期间，湖人球员凯尔-库兹马接受了媒体采访。
+   </p>
+   <p>
+    谈到适应史蒂夫-科尔和格雷格-波波维奇的不同执教风格的问题时，库兹马说：“这很容易，我领会得很快，我认为我是一个学得很快的人。高中时我曾经去过多所学校，经历过不同教练的执教，所以习惯了这种切换。我经历过很多教练的执教，但是当人集中注意力时，就能很快领会事物。”
+   </p>
+   <p>
+    谈到史蒂夫-科尔与格雷格-波波维奇执教风格的差异时，库兹马说：“他们都有出色的篮球思维。显然他们都是历史最佳教练之一，他们都有总冠军戒指证明这一点。他们都是冠军级别的竞争者，与他们在一起，我学到了很多。”
+   </p>
+   <p>
+    谈到这两名教练向他特别强调了什么时，库兹马说：“防守和篮板将是我在这支球队的名片。我认为我在这两方面已经有了很出色的表现，也一直在做。我一直在努力提升我的整体表现，我认为，到目前为止，他们（指史蒂夫-科尔和格雷格-波波维奇）对我感到满意。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

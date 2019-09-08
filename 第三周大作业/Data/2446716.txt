@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾巴尔：AD将是湖人的出色引援，希望他保持健康
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nbaontnt/status/1143314929853714432?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 09:54:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾巴尔：AD将是湖人的出色引援，希望他保持健康" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/6446eb7af83cf61b41de00a51e88b7d6fdb64fa6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 湖人名宿卡里姆-阿卜杜尔-贾巴尔今日在NBA颁奖典礼红毯上接受采访谈到了湖人刚刚通过交易得到的前锋安东尼-戴维斯。
+   </p>
+   <p>
+    “我认为安东尼将是湖人的一笔出色引援，”贾巴尔说，“他在球场两端都很全能。我希望他能保持强壮健康，准备好在11月出战。我们将看到湖人的命运发生重大转变。”
+   </p>
+   <p>
+    沙奎尔-奥尼尔最近在排列湖人队史地位时将贾巴尔放在自己之前，对此贾巴尔表示：“沙克那样说当然很好，但我一直觉得这种东西没法决定的。我们不知道四五十年代当乔治-麦肯统治联盟时他有多么出色，因此你不能比较各个时代的球员。不过他能提到我的名字展现了他的好意，他能想到我感觉还是挺酷的。”
+   </p>
+   <p>
+    谈到对于奥尼尔作为颁奖典礼主持人的期待，贾巴尔说：“我认为沙克会表现得很好。他总自认为是一个喜剧家。我们第一次见面，他就在讲笑话。当时他还在大学，试图在向我展示礼貌。现在他可以尽情发挥了。祝你好运，沙克。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

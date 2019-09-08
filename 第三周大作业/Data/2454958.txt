@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  依次亮相！鹈鹕官方发布鲍尔哈特英格拉姆费沃斯自拍视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/pelicansnba/2089464743131375712?utm_source=ig_story_item_share&amp;igshid=181gtwkmnmk18" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 13:15:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="依次亮相！鹈鹕官方发布鲍尔哈特英格拉姆费沃斯自拍视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/dc8525752268f74ec95f847289d444965c61cd44.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 鹈鹕官方通过Instagram Story和Instagram分别更新了一组球队四位新援朗佐-鲍尔、约什-哈特、布兰登-英格拉姆和德里克-费沃斯在今日新闻发布会现场的自拍视频，以及4人展示鹈鹕球衣的合照。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4395036911012393">
+     视频：鹈鹕四位新援自拍向球迷问好（35秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/7f992ae2869e13ebdbef3d8ecfdd9f84.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/bc0a4d541411dea725890c5f9ade5c4c.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/cd90f676d7c94921f1f1d0abcb57b1e1.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/94d6b28407c031da57dfa6e90d5104e7.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/13/b31d4a9928fa50b50d296043b7b66688.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

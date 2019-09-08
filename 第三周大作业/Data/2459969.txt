@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾马尔-富兰克林与CBA联赛的山西队签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/benstinar/status/1155948820275929089?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 08:17:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾马尔-富兰克林与CBA联赛的山西队签约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/cab9caca8a0961eac7e2c2cf0d1f4c569299c356.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 根据Amico Hoops记者Ben Stinar报道，多位消息人士透露，贾马尔-富兰克林与CBA联赛的山西队签下了一份190万美元的合同。
+   </p>
+   <p>
+    28岁的富兰克林曾在NBA征战2个赛季，为灰熊和掘金出战过。
+   </p>
+   <p>
+    2018-19赛季，富兰克林在四川队效力，场均出战43分钟可以拿到32.3分9.9篮板8助攻2.4抢断1.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

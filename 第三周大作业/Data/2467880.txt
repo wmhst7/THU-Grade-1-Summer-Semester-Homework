@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷-杨声援布克：在那种情况下被包夹让人很烦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheTraeYoung/status/1164242285485338624" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 07:32:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷-杨声援布克：在那种情况下被包夹让人很烦" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/95db0f5e2a7021c731ca51be3d0fd9abe861bc81.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 亚特兰大老鹰队后卫特雷-杨今天更新了个人推特。
+   </p>
+   <p>
+    杨写道：“德文-布克说的是事实......在打野球训练时不应该有包夹。当你想好好打球，专注于一些个人的训练时，在那种环境下被包夹让人很烦，只是说说...#只有一部分人能理解。”
+   </p>
+   <p>
+    根据此前的报道，布克在一次训练中的某个进攻回合遭遇了包夹，随后布克表示让对手不要包夹自己。
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/29040793.html?share_from=kqapp">
+     相关阅读：好好打比赛别上包夹！布克打野球时让对手不要包夹自己
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

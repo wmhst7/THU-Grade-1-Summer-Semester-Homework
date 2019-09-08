@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火和76人将寻找新的第三方球队来完成巴特勒的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1145564405075238913" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 13:31:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火和76人将寻找新的第三方球队来完成巴特勒的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/52cffe5adbe3da556320b4652ca7ad24082f61f8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Marc Stein报道，消息人士透露，热火和76人正在寻找新的第三方球队来完成关于巴特勒的先签后换。
+   </p>
+   <p>
+    巴特勒与76人签下4年1.42亿的合同，然后被换至热火。
+   </p>
+   <p>
+    由于热火采取了先签后换，所以他们触发了硬工资帽，整个赛季工资总额都不能超过1.389亿。因此热火需要第三方球队来接手一些合同，从而降低薪资总额。
+   </p>
+   <p>
+    此前独行侠方面坚称，他们原以为他们一定能够得到凯利-奥利尼克和德里克-琼斯，所以才参与了交易，但热火方面不愿意放弃琼斯，并表示，为了让薪资配平，他们必须要送走戈兰-德拉季奇。最终双方的交易关闭。
+   </p>
+   <p>
+    热火仍想送走德拉季奇，从而腾出空间交易得到巴特勒。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

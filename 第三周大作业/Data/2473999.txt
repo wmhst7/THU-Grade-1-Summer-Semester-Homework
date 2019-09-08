@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：洛杉矶球队将会夺冠，很惊讶魔术师辞职时提到我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-09-07/dwyane-wade-miami-heat-lebron-james-sierra-canyon?_amp=true&amp;__twitter_impression=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 14:12:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：洛杉矶球队将会夺冠，很惊讶魔术师辞职时提到我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190908/3f83bf875e72b857cd0cccddf86869a95d295f1d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 前NBA球员德维恩-韦德近日接受《洛杉矶时报》采访谈到自己在洛杉矶的退役生活。
+   </p>
+   <p>
+    前湖人篮球运营总裁魔术师约翰逊在谈及辞职原因时表示他为了自己因规则限制不能亲自祝福或现场观看韦德的生涯谢幕战而苦恼。对此韦德表示：“他在辞职时提到了我，我很吃惊。魔术师过着悠然自得的生活，我刚刚看到他在St. Tropez庆祝六十大寿，这就是他希望回归的生活。他想到了我，而且他想得到看我最后一次打球的机会或者联系我，这些都让我很感激。我希望他能够出席那场比赛，但他这么说也挺酷的。”
+   </p>
+   <p>
+    谈到洛杉矶当前的体育形势，韦德说：“我认为目前的洛杉矶体育蒸蒸日上，无论是橄榄球、篮球、棒球甚至高中体育均不例外。我很期待做一个球员，支持所有这些球队。显然，由于勒布朗（詹姆斯）在湖人，我是有所偏心的，但这里有湖人和快船，两支球队都是联盟中实力最强的劲旅，也是拥有城内最抢手的球票。人们都想看这两支球队的比赛，因为它们都具备冲出西部进军总决赛的实力。它们可能在西部决赛中相遇，那样会很棒。当全员回归时，勇士仍然拥有冠军的心，但我认为洛杉矶的球队将赢得总冠军。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

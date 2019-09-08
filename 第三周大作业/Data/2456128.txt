@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  琼斯：加盟灰熊很兴奋，小桑德斯会在森林狼做得很好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DWolfsonKSTP/status/1151990033877852167" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 15:45:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="琼斯：加盟灰熊很兴奋，小桑德斯会在森林狼做得很好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/3eb7e0b0bfef35fb90cce289553335dc771c4d75.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据此前的报道，泰厄斯-琼斯与灰熊达成了一份3年2400万美元的邀请报价协议，而森林狼则放弃匹配灰熊的报价。琼斯新赛季将身披21号球衣为灰熊出战。
+   </p>
+   <p>
+    泰厄斯-琼斯近期在参加明尼苏达的Twin Cities Pro-Am篮球联赛。今天赛后他接受了记者的采访。谈到加盟新球队，琼斯说道：“非常兴奋，就像你说的，这是新的篇章，新的机遇，期待能成为球队的一份子。”
+   </p>
+   <p>
+    谈到离开自己的家乡加盟孟菲斯，琼斯说道：“就像你说的这很不容易，我也会保持积极的心态去看待一切。从积极的方面看，我为家乡出战了四年，不是所有人都有这样的机会。同时我也很激动能加入孟菲斯灰熊队，对自己和球队所面对的机遇感到兴奋。”
+   </p>
+   <p>
+    谈到森林狼新任主教练莱恩-桑德斯，琼斯说道：“我知道他能做得很好，这就是他的使命感，每个人都能看到这一点。就算是从上赛季短暂的执教经历，你也能看出来，他就是为此而生的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，琼斯为森林狼共出战68场比赛，场均出场22.9分钟，得到6.9分2.0篮板4.8助攻1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  回归紫金！湖人助教菲尔-汉迪晒与科比训练旧照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0mmIHvF0U8/?igshid=6pfb3rl0z5dd" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 23:55:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="回归紫金！湖人助教菲尔-汉迪晒与科比训练旧照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/ea172c0bbdc9f59cb50dffb4564e64f6da46ff84.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 湖人新任助教菲尔-汉迪今日发布Instagram图文回顾他与湖人的渊源并表达再次为湖人工作的感想。汉迪发布了他与湖人名宿科比-布莱恩特的训练旧照，以及他此前在湖人的工作照。
+   </p>
+   <p>
+    “旅程仍在延续……2011年，我在湖人得到自己的首份NBA工作，我为能与科比-布莱恩特合作的机会而激动难耐……8年过后，我又回到了#湖人秀，依旧激动，但这一次我迫不及待想要迎接挑战成就伟业！凡事无绝对，但我们打球和竞争的目的是为了赢取总冠军……回归紫金军团感觉很好……#湖人国度，一起加油！”汉迪写道。
+   </p>
+   <p>
+    汉迪曾在湖人，骑士，猛龙等多队担任球员发展教练和助理教练，并于2016年跟随骑士和2019年跟随猛龙两次夺冠。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/23/f0c4354243ac612c73601f65d78945b3.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

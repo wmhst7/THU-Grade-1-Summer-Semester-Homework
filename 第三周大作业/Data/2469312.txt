@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  吉列尔莫-埃尔南戈麦斯更新社媒：NI HAO，中国
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1l6BrBIhEc/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 10:06:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="吉列尔莫-埃尔南戈麦斯更新社媒：NI HAO，中国" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/43b9db588a57119749b5e33173c26dc73e48a836.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今日，黄蜂中锋、西班牙国家队成员吉列尔莫-埃尔南戈麦斯更新了个人社交媒体Instagram晒出一张个人身穿西班牙国家队训练服的照片（见新闻配图）。
+   </p>
+   <p>
+    并用中文拼音配文道：“NI HAO，中国！”
+   </p>
+   <p>
+    2018-19赛季常规赛，埃尔南戈麦斯场均出场14.0分钟，可以得到7.3分5.4篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

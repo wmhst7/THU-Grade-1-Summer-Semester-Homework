@@ -1,0 +1,41 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  谁能阻挡？美媒评选出NBA球员第二形态最佳阵容
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0R6R_9IUk1/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 10:45:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="谁能阻挡？美媒评选出NBA球员第二形态最佳阵容" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/8809cd1ac9f401ab056552614cdac9317455eb1c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 美媒今日在Instagram上晒图，并评选出了NBA第二形态最佳阵容分别为球衣不塞在球裤里的欧文、咬球衣的科比、G6的克莱、奥运会上的安东尼和带着面具的詹姆斯，配文写道：“谁能阻止这支队伍？”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Nerbo)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

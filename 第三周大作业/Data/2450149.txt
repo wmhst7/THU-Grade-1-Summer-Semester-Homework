@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伊-威廉姆斯：杜兰特和欧文之间的关系就像兄弟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/02/kevin-durant-picking-nets-over-knicks-wasnt-so-easy/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 11:26:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伊-威廉姆斯：杜兰特和欧文之间的关系就像兄弟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/868e12d56cbffd266b56f3a220c571f0315c7a57.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 前NBA球员杰伊-威廉姆斯（凯文-杜兰特密友）于近日接受了《纽约时报》记者Marc Berman的电话采访。
+   </p>
+   <p>
+    杜兰特此前与篮网达成了一份4年1.64亿美元的签约协议，在谈到这一决定时，威廉姆斯说道：“他的阵营里有人希望他去尼克斯，这是凯文自己的事，他和凯里-欧文之间的关系是整件事情的关键（欧文此前与篮网达成了一份4年1.42亿美元的签约协议）。”
+   </p>
+   <p>
+    在谈到杜兰特与欧文之间的关系时，威廉姆斯说道：“我认为他们不仅仅只是朋友的关系，他们就像兄弟一样，这不像是‘嘿，我们是朋友’。这段关系对他（凯文-杜兰特）来说很特殊，在篮球文化中，人们会试着来分裂你们。他们共同踏上了这段旅程，并且他们真的很了解彼此。这得归结于他和凯里的关系，它（指这段关系）是他们之间的关键，伙计。”
+   </p>
+   <p>
+    威廉姆斯表示2014年发生的一些事情让他更加确定杜兰特会去纽约打球，他（杜兰特）一直在谈论2011年停摆期间他在纽约洛克公园疯狂的人群面前砍下66分的壮举。
+   </p>
+   <p>
+    “那感觉就像是一个疯狂的老学派的高中比赛，人们在场边大喊大叫，喷垃圾话，”威廉姆斯说道，”我从凯文的眼里看到了热爱，我能感受得到，这也是我想念比赛的地方（威廉姆斯是2002年的榜眼秀，2003年6月他在一次驾驶摩托车的过程中遭遇车祸，左腿严重受伤从而告别NBA）。“
+   </p>
+   <p>
+    “他在那儿看到了一些很特殊的能量伴随着他，那儿对篮球手充满着热爱。如果你是一位篮球手并且关注细节的话，（你会发现）那里的垃圾话、热情都是为他所呈现的，它们是他所存在的根本。”
+   </p>
+   <p>
+    因为跟腱伤势，杜兰特很可能会缺席下赛季的比赛。杜兰特希望能够在巴克莱中心 （篮网主场球馆）感受到那种疯狂的热情，尽管篮网上赛季的上座率全联盟垫底。
+   </p>
+   <p>
+    “他受伤之后就一直在这儿，他真的很喜欢这儿。篮网有他想要的，并且Sean Marks（篮网总经理）尽可能地提供了他的帮助。斯潘塞-丁威迪、德安德烈-乔丹（根据此前的报道，小乔丹与篮网达成了一份4年4000万美元的签约协议，此外据报道欧文与杜兰特将会选择降薪以便小乔丹获得年薪1000万美元的合同）、卡里斯-勒韦尔、贾勒特-阿伦，所有的这一切都与他想要的一致。”威廉姆斯写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

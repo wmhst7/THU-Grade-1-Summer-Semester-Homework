@@ -1,0 +1,89 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA官方发布众球员抵达赌城向美国男篮报到组图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/nba/2103357625994477029?utm_source=ig_story_item_share&amp;igshid=1ugq6hp0bn26p" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 09:59:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA官方发布众球员抵达赌城向美国男篮报到组图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/d750cae844015d4eaea2f011a49f88f757cf3afc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 NBA官方今日通过Instagram Story晒出多位球员抵达拉斯维加斯向美国男篮训练营报到的一组照片。
+   </p>
+   <p>
+    凯尔-洛瑞
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/563d001862549c660341d31f3c22d72e.jpg"/>
+   </p>
+   <p>
+    迈尔斯-特纳
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/8357707f1bc76a0d7b12e3af06ab82b1.jpg"/>
+   </p>
+   <p>
+    克里斯-米德尔顿
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/e017a21374f642f29593ae515e05bd8c.jpg"/>
+   </p>
+   <p>
+    哈里森-巴恩斯
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/1dac9fbfb38cd244b891e00b6e9a37b0.jpg"/>
+   </p>
+   <p>
+    布鲁克-洛佩斯
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/f10343e8d65eed83f7ba53c3d472d4cc.jpg"/>
+   </p>
+   <p>
+    巴姆-阿德巴约
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/69e0431775037305f96a84fbeb09f456.jpg"/>
+   </p>
+   <p>
+    赛迪斯-杨
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/ee1ff76e2a5ab6d2b5eefd62afcecb68.jpg"/>
+   </p>
+   <p>
+    此前，NBA官方展示了一组即将分发给球员的美国队背包和球鞋等篮球装备。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/a281663c27c7904a263872203d190a7a.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

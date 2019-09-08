@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波维奇打趣：我们已经把米尔斯交易了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OlgunUluc/status/1165508155234611202" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 14:42:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波维奇打趣：我们已经把米尔斯交易了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/a21e323dbd4b8127e3f6739d9921ce68991daff3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 在昨日结束的一场热身赛中，美国男篮以94-98不敌澳大利亚男篮，在此之前，美国男篮在国际赛场上已经78连胜。
+   </p>
+   <p>
+    “这场失利可以非常有价值，准备下一场，这就是生活，这些人都是成年人，这就是他们的工作，他们都有家人，你们所有人都有工作，如果你们有一天过得很糟糕，你们怎么办？还能怎么样？找个洞躲起来？第二天继续去工作。”美国男篮主帅格雷格-波波维奇说道。
+   </p>
+   <p>
+    在昨日的比赛里，澳大利亚的帕蒂-米尔斯砍下30分3助攻。
+   </p>
+   <p>
+    “我们已经把帕蒂交易了，在你们把这个消息公布到媒体之前，我本想先告诉他的，但是现在的话，一切都晚了。”波波维奇开玩笑说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里更新社交媒体，晒巴黎游玩照祝女儿生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0T-aBPleT9/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 09:55:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里更新社交媒体，晒巴黎游玩照祝女儿生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/a6efecb1296108c55554b7b758959bc8c6220a3f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日，勇士后卫斯蒂芬-库里更新社交媒体Instagram，晒出与妻子女儿游玩巴黎照片（见新闻配图），并祝女儿生日快乐。
+   </p>
+   <p>
+    “我们的小女孩，一岁，两岁，三岁，四岁，五岁，六岁，七岁。生日快乐！”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，库里场均出场33.8分钟，得到27.3分5.3篮板5.2助攻；季后赛场均出场38.5分钟，得到28.2分6.0篮板5.7助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/17dc791887286c38cddc21c72efa1076.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/5d50cf202689799bc66443571b56a905.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/b16da6b41e975b54296d7c4e0b5424fd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/921c459016e754459bc3fc8b7d648dc3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/a2f323d1c4b7e4635dee78d8d52007a3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/dc3d708a1327ceded0518b501f7b2e1d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/646027f1ee6259ac190022fe68d3a612.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190725/10/28fecd5f9cdf590993d2e08c558ab1cb.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

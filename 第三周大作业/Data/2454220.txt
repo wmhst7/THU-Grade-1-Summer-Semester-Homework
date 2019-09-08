@@ -1,0 +1,159 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  虎扑专访威廉森：要成为最好的蔡恩，我能力值大概78或79
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 19:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="虎扑专访威廉森：要成为最好的蔡恩，我能力值大概78或79" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/801f54cea7b629d8fab4a59a62099ca991b19269.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 NBA 2K系列的最新作品NBA 2K20即将发布，虎扑近日接受2K官方邀请，对今年的状元秀蔡恩-威廉森进行了一次采访，谈到了自己被选中时候的感受，以及对新秀赛季的一些看法。以下为采访内容：
+   </p>
+   <p>
+    <strong>
+     虎扑：就像之前很多人预测的，你最终成为了鹈鹕的状元秀，梦想成真的那一刻你感觉如何？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    当我梦想成真时我感觉如何？老哥，那是一种语言无法表达的感受，我认为这是一种不会再有的感受，在那样的瞬间你其实并不能说你已经准备好或者调整好了自己的情绪。就像你看到的，我在电视镜头前大哭，我的梦想实现了，我妈妈的努力有回报了......这真的很神奇，这是超现实的。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190715/18/c25d4f309e44e4817b064ffdf1cb66df.png"/>
+   </p>
+   <p>
+    <strong>
+     虎扑：即将为鹈鹕打球，你感觉如何？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    我感觉很棒，我想打NBA，鹈鹕这支球队、新奥尔良这座城市，都给我展现了很多的爱，我只需要去拥抱这些。
+   </p>
+   <p>
+    <strong>
+     虎扑：你知道你的NBA 2K20能力值了吗？你觉得它应该会是多少？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    我还不知道......我认为我的能力值会是多少？嗯......对我而言，至少我还是个新秀，所以，我预计我的能力值会是78或者79吧，这是一个新秀通常的能力值。
+   </p>
+   <p>
+    <strong>
+     虎扑：你太谦虚了，我觉得你的能力值能在81-85之间。
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    你是这么认为的吗？哈哈哈（大笑）。
+   </p>
+   <p>
+    <strong>
+     虎扑：你新秀赛季的目标是什么？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    我的个人目标就是成为我能成为的最好的蔡恩-威廉森，对球队做出贡献，而且我认为，每个人都是为了冠军打球，所以如果我能做到（拿到冠军），那会很棒；如果没有做到，我也不会抱怨。
+   </p>
+   <p>
+    <strong>
+     虎扑：球队的目标呢？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    拿下总冠军（笑）。
+   </p>
+   <p>
+    <strong>
+     虎扑：新赛季你最想对抗哪个球员？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    我会和所有球员对抗，我会这么说是因为我尊重他们的比赛。他们同意、并相信我能成为最好的球员之一，那这意味着我就是最好的球员之一。
+   </p>
+   <p>
+    <strong>
+     虎扑：除了你自己，你在2K20中最想操纵哪个球员？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    除了我自己吗？也许是迈克尔-乔丹。
+   </p>
+   <p>
+    <strong>
+     虎扑：你在中国已经有不少粉丝了，你想对他们说什么？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    我很感谢你们对我的爱，真的，我会带着你们的支持前进，因为我能感受到这些支持。我会为了你们成为最好的蔡恩-威廉森。
+   </p>
+   <p>
+    <strong>
+     虎扑：那么未来你会有来中国的打算吗？
+    </strong>
+   </p>
+   <p>
+    <strong>
+     威廉森：
+    </strong>
+    当然，我一定会的。
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28488712.html">
+     相关阅读：历史首次！NBA 2K20将视频直播公布球员能力值，参与预测拿好礼&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

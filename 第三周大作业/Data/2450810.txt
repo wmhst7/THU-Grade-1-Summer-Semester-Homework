@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加盟快船！伦纳德姐姐今日更新社媒证实伦纳德将前往快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzkIMS9Jq5D/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 14:14:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加盟快船！伦纳德姐姐今日更新社媒证实伦纳德将前往快船" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/cfb6921fcc390e3b0bfaab9a07520d594ee701c5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 根据此前消息，雅虎记者Chris Haynes报道，消息人士透露，科怀-伦纳德已经和洛杉矶快船队达成协议，将以4年1.42亿美元加盟快船。
+   </p>
+   <p>
+    随后，伦纳德的姐姐连发3条Ins，晒出伦纳德身着快船球衣的照片与快船的标志（见新闻配图）并发文说道：“伦纳德加盟快船。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190706/15/2cf7a666fa9f1429fdc08fdd4f4d41ea.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190706/15/3624d7cb2236bb407023c1506e6de890.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190706/14/cbaa2a91edc140e1ba09686e0e9b2a12.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，可以贡献26.6分7.3篮板3.3助攻。季后赛场均上场39.1分钟，得到30.5分9.1篮板3.9助攻，帮助猛龙获得总冠军并荣膺FMVP。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2450806&amp;type=1&amp;entrance=26">
+     科怀-伦纳德将与快船达成4年1.42亿美元的协议
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

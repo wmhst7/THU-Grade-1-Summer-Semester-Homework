@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西班牙男篮将球队大名单人数减少至14人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/917946/spains-world-cup-preliminary-roster-cut-to-14-players/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 08:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西班牙男篮将球队大名单人数减少至14人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/1ba4a265bfefd001c2ae0f53b1993709ccd6fd82.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 西班牙男篮国家队已经裁掉了Pablo Aguilar和Joan Sastre，目前国家队还有14名球员。
+   </p>
+   <p>
+    剩余14名球员如下：Javier Beiran、维克托-克拉韦尔、Quino Colom、Ilimane Diop、鲁迪-费尔南德斯、Jaime Fernandez、马克-加索尔、吉列尔莫-埃尔南戈麦斯、胡安-埃尔南戈麦斯、塞尔希奥-尤伊、Xavi Rabaseda、Pierre Oriola、Pau Ribas和里基-卢比奥。
+   </p>
+   <p>
+    西班牙还需要裁掉2名球员，在今年的男篮世界杯上，西班牙、波多黎各、突尼斯和伊朗同在C组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

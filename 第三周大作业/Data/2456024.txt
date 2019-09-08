@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴里亚不会提前复出代表波多黎各参加本届世界杯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1152369046135771136" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 08:59:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴里亚不会提前复出代表波多黎各参加本届世界杯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/079ef158f231197f02d7f8a0f1b719d44622bcf8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 据记者Tim MacMahon报道，独行侠后卫何塞-巴里亚选择谨慎恢复方式来治疗自己的右脚跟腱撕裂，不会提前复出代表波多黎各参加今夏的男篮世界杯。巴里亚恢复情况良好，但确定不应在受伤后八个月内就提前复出。
+   </p>
+   <p>
+    巴里亚表示，这是一个很艰难的决定，因为他非常看重代表国家队出战。他仍在努力帮助波多黎各招募有波多黎各背景的职业球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

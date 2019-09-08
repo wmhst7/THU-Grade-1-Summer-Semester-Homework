@@ -1,0 +1,69 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达蒙-琼斯：詹姆斯听到了外界批评，下赛季他将充满动力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thelakersreview/status/1143642019866140677?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 12:30:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达蒙-琼斯：詹姆斯听到了外界批评，下赛季他将充满动力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/ee56781227658a4b064bbbcad84d054964ec08c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 前NBA球员及骑士助教达蒙-琼斯今日接受洛杉矶当地电台采访谈到前队友勒布朗-詹姆斯以及湖人的前景。
+   </p>
+   <p>
+    关于詹姆斯的招募能力，琼斯说：“仅仅由于他的履历和成就，他总会成为一名强势的招募者。”
+   </p>
+   <p>
+    当被问到詹姆斯是否正在进行招募，琼斯说：“当然。”
+   </p>
+   <p>
+    关于湖人是否还有可能招募到科怀-伦纳德，琼斯表示：“我认为在他决定之前都是有可能的。”
+   </p>
+   <p>
+    琼斯随后表示：“当湖人达成安东尼-戴维斯的交易后，在那个特定的时间点我被告知他们有机会得到科怀-伦纳德。他仍然面临一些选择，我仍然认为湖人有机会得到他。”
+   </p>
+   <p>
+    <span style="line-height: 1.6em;">
+     谈到詹姆斯面对
+    </span>
+    <span style="line-height: 1.6em;">
+     下赛季的
+    </span>
+    <span style="line-height: 1.6em;">
+     心态，琼斯说：“他将充满动力。他不太谈论外界的批评，但他听到了所有的言论。我们聊过好几次，讨论下赛季会是什么样。在此我要告诉整个NBA，‘请做好准备。’”
+    </span>
+   </p>
+   <p>
+    <span style="line-height: 1.6em;">
+     “我认为下赛季湖人将度过非常非常非常棒的一季。”琼斯总结道。
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  行动迅速！杜德利已将社媒头像改为6号球衣形象
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jareddudley619/status/1149918728651362304?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 19:01:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="行动迅速！杜德利已将社媒头像改为6号球衣形象" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/039b7e5374e8ff789c968aac147140cf5f99f95b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 湖人球员贾里德-杜德利此前因队友安东尼-戴维斯和勒布朗-詹姆斯的更换球衣号码计划未果连续放弃6号和3号球衣号码，如今随着詹姆斯确定在新赛季继续选择身穿23号球衣让出6号，杜德利此前在推特上表示他已经与球衣制造商耐克做过沟通，自己新赛季将身着湖人6号球衣。
+   </p>
+   <p>
+    杜德利今日曾发推表示他需要一张6号球衣的图片做社交媒体头像，而目前杜德利的推特头像已经更换完毕（见新闻配图）。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2453438.html">
+     因戴维斯选择3号，杜德利宣布将球衣号码从3号改为6号
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

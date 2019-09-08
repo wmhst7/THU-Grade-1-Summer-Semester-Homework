@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安吉：三四月份的时候就感觉欧文可能离队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisForsberg_/status/1151548928753577986" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 01:56:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安吉：三四月份的时候就感觉欧文可能离队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/93384a085729dc49e1a64784ea3514781f0205fb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人为新援肯巴-沃克和埃内斯-坎特举行加盟记者发布会。
+   </p>
+   <p>
+    发布会上，凯尔特人总经理丹尼-安吉称，自己在三四月份（常规赛末段）就有预感凯里-欧文可能会离开球队。
+   </p>
+   <p>
+    安吉表示：“不过当然不是很确定。但我想在这一点上朝着不同的方向前进，考虑不同的选择。”
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均上场33分钟，得到23.8分5.0篮板6.9助攻1.54抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

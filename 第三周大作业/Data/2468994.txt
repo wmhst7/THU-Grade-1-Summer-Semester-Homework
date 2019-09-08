@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：你想要赢得每一场比赛，但也会在失利中受益良多
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1154800/2019/08/24/usa-basketball-loses-exhibition-game-to-australia-fiba-world-cup/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 13:31:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：你想要赢得每一场比赛，但也会在失利中受益良多" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/4e1bf4110d0f2ec37f393c5150ecbcf16d4803ee.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 在昨日结束的一场热身赛中，美国男篮以94-98不敌澳大利亚男篮，国际赛场78连胜遭到终结。
+   </p>
+   <p>
+    “说实话，这场比赛不会意味着任何东西。显而易见，输球是痛苦的，但我将它视为一个学习的经历，而不是纠结于我们刚刚输掉了比赛。这就是你需要保持的心态，如果你专注于失利，你就会背负着这样的心理负担。”美国男篮后卫米切尔在谈到球队的失利时说道。
+   </p>
+   <p>
+    “我们会专注于研究比赛录像，我们会在飞机上观看录像，我们会为下一场对阵加拿大男篮的比赛做好准备，这才是最重要的事情。你想要赢得每一场比赛，但你也会在失利中学到很多东西。”米切尔补充道。
+   </p>
+   <p>
+    谈到即将到来的男篮世界杯，米切尔说：“我们别无选择，必须在短时间内找到让球队能够脱颖而出的方法，这也是美国男篮在此之前之所以如此优秀的原因，他们是如何做到这一点的，我们必须找到它。”
+   </p>
+   <p>
+    “在短时间内做到这一点很难，但我们必须找到方法，这是唯一重要的事情。我们不能找借口，我们不能说，‘哦，我们之前没有一起打过球。’因为没人会在乎，我们必须做好准备。”米切尔补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

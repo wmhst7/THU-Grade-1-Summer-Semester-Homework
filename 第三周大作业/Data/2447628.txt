@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰福德未恢复完整训练，不确定能否出战夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/report-celtics-first-rounder-langford-not-cleared-summer-league-practice-after-thumb-surgery" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 17:22:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰福德未恢复完整训练，不确定能否出战夏季联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/1e43366ccd6a3f78ec6e74722c9f5b3457e23bb5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据《波士顿环球报》记者Adam Himmelsbach报道，他听说罗密欧-兰福德不会在本周末即将开始的夏季联赛前恢复完整训练。
+   </p>
+   <p>
+    来自印第安纳大学的后卫兰福德在今夏选秀大会上首轮第14顺位被凯尔特人选中，根据之前报道，兰福德在去年11月份一次训练中拇指韧带撕裂，随后他带伤打完了本赛季的NCAA比赛，并在32场比赛中场均出战34.1分钟，贡献16.5分5.4篮板2.3助攻。
+   </p>
+   <p>
+    兰福德在今年4月份接受了拇指手术，两周前刚刚开始可以进行运球和投篮训练。
+   </p>
+   <p>
+    凯尔特人在拉斯维加斯的夏季联赛将在北京时间7月7日开始，他们首场的对手将是费城76人队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

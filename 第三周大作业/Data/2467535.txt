@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫布里：我更想让哈登控球，威少打无球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=zRqICElT1mY" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 07:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫布里：我更想让哈登控球，威少打无球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/62e9fb80781d0f63e53b9fce1f6071a3746965fb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 正在BIG3联赛征战的前火箭球员卡蒂诺-莫布里接受Fanatics View采访时谈到了火箭。
+   </p>
+   <p>
+    “我更想让哈登控球，威少打无球，因为我认为他打无球的话会非常有威胁，他可以更多冲起来打，攻击对手。”莫布里说道。
+   </p>
+   <p>
+    莫布里之前在NBA征战12个赛季，打过748场常规赛，场均出战36.9分钟可以拿到16分3.9篮板2.7助攻1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

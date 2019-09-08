@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔谈对阵英格尔斯：我能够预想到他会说大量的垃圾话
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBL/status/1163381868118470656" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 21:06:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔谈对阵英格尔斯：我能够预想到他会说大量的垃圾话" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/4ca37b1b9f99f792c51d24ba209ade6c1c70dc5e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 美国男篮目前正在澳大利亚备战热身赛，来自爵士的后卫多诺万-米切尔在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到即将对阵爵士队友、澳大利亚前锋乔-英格尔斯，米切尔说：“我能够预想到他会说大量的垃圾话，我对此非常兴奋，自从我告诉他我将要参加美国男篮开始，我就一直非常期待对阵他。就像我刚才所说的那样，这会非常有趣，我很兴奋，就是向对方发起挑战，激励对方变得更出色。”
+   </p>
+   <p>
+    谈到澳大利亚男篮，米切尔说：“显而易见，他们拥有乔（英格尔斯）、帕蒂-米尔斯、安德鲁-博古特等球员，所有的这些家伙会团结一致，他们还有球迷们的支持。我们应该会在五六万名观众面前打球，这肯定会激励他们，这也是我感到兴奋的原因，面对将近六万名观众，努力去击败一支出色的球队，享受国际篮球赛事的乐趣。”
+   </p>
+   <p>
+    北京时间8月22日至8月26日，美国男篮将与澳大利亚男篮、加拿大男篮进行三场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

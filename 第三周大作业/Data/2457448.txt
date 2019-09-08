@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人记者：湖人对于他们追逐伦纳德的方式并不后悔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=T-TmGEevlZk" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 13:15:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人记者：湖人对于他们追逐伦纳德的方式并不后悔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/2a8063e84ff21f88b16128a9b525b01de48fd823.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 湖人跟队记者Dave McMenamin近日在电视节目中报道了湖人管理层对于错失科怀-伦纳德的感受以及接下来的运作策略。
+   </p>
+   <p>
+    NBA记者Brian Windhorst近日在一档播客节目中就伦纳德与湖人和猛龙的会面情况透露：“在他签约后几天内我听到了一些抱怨，从湖人那边听到他们抱怨自己被耍了，听到猛龙的人抱怨科怀一上来就索要太阳、月亮和星星，把他们留在了祭坛之上。”
+   </p>
+   <p>
+    McMenamin对此回应道：“我和湖人内部的多人交流过，他们并不后悔球队追逐科怀-伦纳德的方式，认为他们曾经处于竞争之中。目前他们对于现有阵容很满意，他们在科怀事件过后组建了新的阵容，引入丹尼-格林，德马库斯-考辛斯等人，续约一些球员保留阵容延续性，不过他们留出了一个阵容大名单位置，等待安德烈-伊格达拉可能被买断后潜在加盟球队的机会。他们认为他就是那个适合现有阵容的补充人员。”
+   </p>
+   <p>
+    根据此前的报道，当伦纳德随后会面湖人与猛龙时，雷霆正在与快船展开关于保罗-乔治的交易谈判。据熟悉湖人想法的消息人士透露，湖人完全不知道当时快船和猛龙都在尝试交易得到乔治。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波士顿先驱报：凯尔特人仍在寻求改变来补强阵容
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonherald.com/2019/07/01/good-bet-celtics-arent-done-making-changes/" target="_blank">
+     波士顿先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 10:17:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波士顿先驱报：凯尔特人仍在寻求改变来补强阵容" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/c3397f32c241562c1478f40abfd9f56e15f8ff1e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据《波士顿先驱报》记者Steve Bulpett报道，目前大家看到凯尔特人的阵容名单并不是10月份时的全部。根据最近与联盟一些球队的接触，绿衫军仍然在寻求改变，他们非常活跃的在观察着自由球员市场可能出现的那些动摇，还有任何通过先签后换交易腾出空间来开出更多薪水去签人的可能。
+   </p>
+   <p>
+    Steve Bulpett表示，尽管凯尔特人年轻人们即将在拉斯维加斯参加夏季联赛，但“赌城”的另一件事似乎也引起了大家的兴趣，那就是在下赛季夺冠赔率上，目前凯尔特人的赔率是1赔25，排在第10位。很多人认为，这个赔率对目前凯尔特人来说太乐观了，但一些体育领域的运动统计学专家表示，是因为他们更看好未来凯尔特人可能发生的改变。
+   </p>
+   <p>
+    “在赔率上，凯尔特人目前排在第10位，与布鲁克林篮网并列，在凯文-杜兰特回来之前，布鲁克林应该找不到任何赢得一切的办法。”消息源如此说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

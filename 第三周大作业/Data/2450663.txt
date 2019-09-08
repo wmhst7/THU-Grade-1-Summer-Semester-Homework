@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  完美时光！詹姆斯训练后理疗期间不忘观看夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/kingjames/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 03:51:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="完美时光！詹姆斯训练后理疗期间不忘观看夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/a7f91ad6c4128a5d725a1d7794da9ac743750cc7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story分享了一系列自己在赌城拉斯维加斯早起训练后的动态。
+   </p>
+   <p>
+    在一段自拍画面中，詹姆斯躺在酒店的床上，双腿正在接受相关设备的理疗，电视上也播放着今日NBA夏季联赛的直播。
+   </p>
+   <p>
+    “理疗+篮球+音乐＝完美”詹姆斯配文道。在另一条动态中，詹姆斯似乎对着墙壁拍摄，配文了一个山羊(谐音Goat，意为历史最佳)表情，并自己说了一句“Goat”。
+   </p>
+   <p>
+    詹姆斯随后展示了一双紫金配色的勒布朗3代战靴，并配文道：“别跟我玩了！” 鞋子上的“BBZ”字样代表詹姆斯三个孩子的名字缩写组合，“330”字样代表詹姆斯家乡阿克伦地区的区号。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/09/6ba69246086476645db0732654a08d45.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190706/03/c05242ec60c025682d74d906a60bdeb4.png"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/03/cf937f27064efce673b4f19a70436db9.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/03/bb91f5a2be5ab56d608f2a32016fe134.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190706/03/2498e5485dff5d2ee056602d55953991.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

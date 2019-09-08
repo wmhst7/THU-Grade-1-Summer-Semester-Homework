@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登：我会留在休斯顿，哪里都不会去
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1165359350027816966" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 07:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登：我会留在休斯顿，哪里都不会去" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/084554063cc96d63cf46fabcbedab60bca4c40e2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 火箭的詹姆斯-哈登在自己的“詹姆斯-哈登休城周末”活动上接受了采访。
+   </p>
+   <p>
+    “是的，特别是我小时候那样的成长环境，还有我来到这里的原因，我永远都不会忘记这一点，这是另外一个为何来到这里做我自己是非常重要的原因，要让孩子们感受到这些能量，感受到我对这座城市和社区的爱。”哈登说道。
+   </p>
+   <p>
+    哈登接着说：“我会留在这，我哪里也不会去，我很享受，我想让所有人感受到这样的能量，感受到爱，我们在一点一点前进，帮助这座城市和这里的社区。”
+   </p>
+   <p>
+    “整个活动的意义都是为了回馈这座美丽的城市，回馈在最近8年里完全接受了我的这座城市，我来这是为了提供帮助的。”哈登说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

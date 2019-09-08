@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔-罗宾逊：保持上赛季末段的势头，努力变得更出色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/mitchell-robinson-allonzo-trier-talk-expectations-for-knicks-2019-20-season/310027514" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 15:28:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔-罗宾逊：保持上赛季末段的势头，努力变得更出色" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/eb3ea082d269757bc3785e581d70c19be93a24dd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 尼克斯球员米切尔-罗宾逊在近日接受媒体采访时谈到了自己的休赛期规划以及下赛季的前景。
+   </p>
+   <p>
+    谈到对于下赛季的展望，罗宾逊说：“就是与新队友建立联系，与他们共同成长，希望我们能够在未来很长一段时间内都会是队友。他们现在还不知道我的比赛风格，我也不知道他们的比赛风格，我们之前曾对阵过，当训练营开始后，我们会一起努力磨合并且建立联系。”
+   </p>
+   <p>
+    罗宾逊在新秀赛季初期经常会陷入犯规麻烦，随着赛季的深入，他学会了控制犯规。
+   </p>
+   <p>
+    “相较于新秀赛季初期，我在赛季末段的场上移动更加灵活，比赛的节奏对于我而言也慢了下来。所以我唯一需要做的事情就是保持上赛季末段的势头，继续避免犯规，并且变得更出色。”罗宾逊说道。
+   </p>
+   <p>
+    罗宾逊今年夏天在不同城市举办了多个篮球训练营，他希望通过这样的活动为那些无法现场观看NBA比赛的孩子们提供近距离的指导。
+   </p>
+   <p>
+    “孩子们想要现场观看NBA的比赛，但NBA比赛的门票很贵。我希望能够向这些孩子们传递一个信息，无论情况多么困难，你仍然可以努力追求卓越。这些孩子们渴望学习，就像职业运动员一样，所以当我有机会为他们举办训练营时，我肯定会来到这里。”罗宾逊说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，罗宾逊场均出场20.6分钟，能够得到7.3分6.4篮板2.4封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

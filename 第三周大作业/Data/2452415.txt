@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管谈湖人：实力大大增强，库兹马要当好第三得分手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/windhorstespn/status/1148571553942167553?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 18:22:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管谈湖人：实力大大增强，库兹马要当好第三得分手" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/1e7c0184235040f761572b2ce730e72482c27998.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 NBA记者Brian Windhorst近日匿名调查十几位联盟高管和球探，探寻他们对于新赛季湖人前景的看法。以下为部分内容节选：
+   </p>
+   <p>
+    “毫无疑问这是一支实力大大提升的球队，也更加适合勒布朗（詹姆斯）。”一位联盟高管说道。
+   </p>
+   <p>
+    “上赛季他们大量使用替补球员打首发，”一位球探说道，“而且他们板凳席上的有些人原本都不该在这个联盟里混了。如果他们能保持健康，他们现在就拥有一套季后赛级别的阵容。”
+   </p>
+   <p>
+    “他们引入了安东尼-戴维斯；即便他们此后什么引援也不做，他们也变强了许多。”另一位联盟高管说道。
+   </p>
+   <p>
+    受访人员相信湖人能够取得好成绩的一个关键因素在于健康。“库兹马需要证明他是可靠的三号得分手，”一位西部赛区的球探说，“因为AD和勒布朗将会缺席一些比赛，而他们目前拥有的大部分都是功能单一的球员。库兹马有时将不得不承担重任。”
+   </p>
+   <p>
+    受访业内人士表示他们还会关注湖人将如何应对赛季早期的压力。“AD将在防守端打出身价。”一位球探说道。
+   </p>
+   <p>
+    “弗兰克（沃格尔）不是那种喜欢当面对峙的人，从长远来看这种性格可能会适合那套阵容，”一位高管说道，“但这是一支人员全新的球队，可能会在早期出现动荡，这会增加一些难度。”
+   </p>
+   <p>
+    随着湖人错失科怀-伦纳德，联盟高管们并不认为现在就可以认为他们将铁定夺冠。“假如他们得到科怀，我觉得我们所有人也许只能争第二名了。我永远不会把勒布朗排除在外，我也很有兴趣观看他和AD一起打球的场面。不过，要想夺冠他们还有许多地方需要做到位才行。”一位高管说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

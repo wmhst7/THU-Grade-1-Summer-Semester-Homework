@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿里纳斯：库班是老板典范，他将助东契奇波尔津吉斯夺冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?time_continue=4&amp;v=pzYQPr3Rttw" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 16:02:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿里纳斯：库班是老板典范，他将助东契奇波尔津吉斯夺冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/5afa9ebd76514bfa9c6436b397eddecc4fca6198.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 近日，前NBA球员吉尔伯特-阿里纳斯在一档视频节目中谈及自己对于独行侠球员卢卡-东契奇与克里斯塔普斯-波尔津吉斯的看法。
+   </p>
+   <p>
+    “关于独行侠，或者其他任何一支球队，我想说的是球队老板与忠诚。联盟中的球员都知道独行侠老板马克-库班是怎么对待球队的，他是一个全心全意、无比忠诚的老板，我们可以看看他是如何对待德克-诺维茨基的。”阿里纳斯说道。
+   </p>
+   <p>
+    “对于东契奇和波尔津吉斯而言，我们都知道他们将为独行侠效力20年，接下来20年间，库班将继续不计代价，帮助他们捧起另一座总冠军奖杯。”
+   </p>
+   <p>
+    2018-19赛季常规赛，东契奇场均出场32.2分钟，得到21.2分7.8篮板6.0助攻1.07抢断0.35盖帽，荣膺最佳新秀；波尔津吉斯赛季中期被尼克斯交易至独行侠，因膝盖受伤，赛季报销而暂未代表独行侠出场。下赛季复出后，他与东契奇的组合备受期待。
+   </p>
+   <p>
+    阿里纳斯在2001年第2轮第2顺位被勇士选中，生涯场均出场35.0分钟，得到20.7分3.9篮板5.27助攻1.60抢断0.24盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

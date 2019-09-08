@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  如果布拉德利被灰熊裁掉，76人倾向于与其签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/therealmikekb/status/1144738123613646848" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 13:36:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="如果布拉德利被灰熊裁掉，76人倾向于与其签约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/cf8929762e4c72fd4218c269b16e06d9db1fc5ac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据NBA记者Michael K-B报道，联盟消息人士透露，费城76人队在关注灰熊球员埃弗里-布拉德利的动向。
+   </p>
+   <p>
+    Michael K-B表示，如果灰熊选择裁掉布拉德利，76人倾向于与后者签约。
+   </p>
+   <p>
+    布拉德利下赛季的合同金额为1296万美元，其中200万美元受保障，如果灰熊在7月3日之前不将布拉德利裁掉，他的合同将转为全额保障。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

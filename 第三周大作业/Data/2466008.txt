@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官员表示新赛季不会让戴维斯长期出任中锋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jaredsgreenberg/status/1162211624020660241?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 13:18:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官员表示新赛季不会让戴维斯长期出任中锋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/0610aace17db7e4fcd70e9f0c9fce4ab0c608df6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 据NBA记者Jared Greenberg报道，随着德马库斯-考辛斯遭遇左膝十字韧带撕裂的消息传来，一位湖人高级官员向他透露，球队并不预计或希望安东尼-戴维斯在新赛季的“大量时间内”担任中锋。
+   </p>
+   <p>
+    据湖人记者John Ireland在电台节目中报道称：“我和一位湖人的消息人士交谈过，他表示湖人寻找另一位内线球员是势在必行的举措。”
+   </p>
+   <p>
+    根据The Athletic记者Shams Charania报道，多位消息人士透露，湖人中锋德马库斯-考辛斯遭遇膝盖前交叉韧带撕裂。根据随后NBA记者Adrian Wojnarowski报道，经纪人透露，考辛斯在洛杉矶接受了最终检查，定论为左膝前交叉韧带撕裂，目前正在制定恢复日程表，手术日期尚未确定，新赛季能否复出成疑。
+   </p>
+   <p>
+    2018-19赛季，戴维斯场均出战33分钟，得到25.9分12篮板3.9助攻1.6抢断2.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷更新社媒晒出趣图，网友底下评论：火箭升空，0号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz1GBQbBon8/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 10:06:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷更新社媒晒出趣图，网友底下评论：火箭升空，0号" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/d55800a03b2b5ae7611d0156284baa15e7da9763.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据此前消息报道，雷霆与火箭达成交易，火箭送出后卫克里斯-保罗、2024年和2026年首轮签以及2021年和2025年首轮签互换权得到后卫拉塞尔-威斯布鲁克。威斯布鲁克在雷霆的11年的职业生涯就此结束。
+   </p>
+   <p>
+    今日，火箭总经理莫雷更新了个人社交媒体Instagram晒出一张趣图（见新闻配图）。
+   </p>
+   <p>
+    值得一提的是，众多网友纷纷在底下回复：“火箭升空，0号”，“准备好了”等评论。
+   </p>
+   <p>
+    2018-19赛季常规赛，威斯布鲁克场均出场36.0分钟，可以得到22.9分11.1篮板10.7助攻1.95抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190713/10/0d5f4c026e8c78fe20f1e9a732616982.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

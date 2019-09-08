@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]天赋满满，科尔迪尼耶突破暴扣点燃全场！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 10:20:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/1883881851/HDoJgx37k" onclick="openVideo('https://weibo.com/1883881851/HDoJgx37k');return false;" target="_blank">
+    <img alt="[视频]天赋满满，科尔迪尼耶突破暴扣点燃全场！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/52219202c2796323123291e457651e5f7bdd1df3.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯
+    <a href="https://weibo.com/1883881851/HDoJgx37k" target="_blank">
+     视频: [视频]天赋满满，科尔迪尼耶突破暴扣点燃全场！»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

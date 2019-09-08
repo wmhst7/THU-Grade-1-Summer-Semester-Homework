@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乌布雷更新社媒晒出训练图并配文：想让别人看到最好的我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0PVBQznOqv/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 14:15:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乌布雷更新社媒晒出训练图并配文：想让别人看到最好的我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/e18bb1ee6463b5f1307e9aeecff3f2b6bc5239cb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，太阳前锋凯利-乌布雷更新社媒Instagram晒出训练图并配文道：“我经历过这一切，目前为止没有一个人能懂我，不止于表面，我的说唱没有谎言，我说的一切都是真正的我......我把所有的问题都交给了上帝，让他处理我所有的敌人......我跪下恳求他，我只是希望他能听到'我'。”（此段为Rylo Rodriguez的歌曲Best of me的歌词)
+   </p>
+   <p>
+    2018-19赛季，乌布雷出战40场比赛，场均上场29.5分钟，可以得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <p style='color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, "Trebuchet MS"; font-size: 13px;'>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/14/ec6ca40742e2a4c1cb3270fd5d25749e.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我住球哥家楼下)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,70 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  续集来了！詹姆斯分享女儿录制的Taco Tuesday视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2100930432676813325?utm_source=ig_story_item_share&amp;igshid=t4lyeef8d3rc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 20:43:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="续集来了！詹姆斯分享女儿录制的Taco Tuesday视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/cf13ea621daad57834f5eedc55c721bdd406b411.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 湖人前锋勒布朗-詹姆斯于当地时间昨日分享了其女儿Zhuri拍摄录制的Taco Tuesday庆祝视频。
+   </p>
+   <p>
+    “哟！Z刚刚用她的iPad录制了她人生中第一个自己出品的Taco Tuesday视频。”詹姆斯配文道。在这段视频中，包括詹姆斯、其妻子Savannah和其他与席亲友都配合Zhuri喊出了“Taco Tuesday”的口号。
+   </p>
+   <p>
+    最后，詹姆斯在睡前发布自拍照并配文道：“好吧，各位，到此结束！周二再一次获胜。晚安（注：目前詹姆斯已经在当地时间今天凌晨出门训练）。”
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4402739108851376">
+     视频：詹姆斯女儿Zhuri录制可爱版本Taco Tuesday
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/ae751f3c16058afdcfcfc63e29b2bde0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/40d382d7b9d5529454e8e8d392086e23.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/4d6896324cf3649607e257d315bf0378.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/5700eeac3c4db5b8feb3fa8ac8ca2970.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

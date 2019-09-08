@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  开拓者8名球员2K能力值公布：利拉德92，胡德76
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 11:43:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="开拓者8名球员2K能力值公布：利拉德92，胡德76" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190815/f929594c034c2c6359771db6032cc5347fd0875e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，开拓者有8名球员2K能力值得以确定。
+   </p>
+   <p>
+    开拓者8名球员2K初始能力值为：
+   </p>
+   <p>
+    达米安-利拉德 92
+   </p>
+   <p>
+    CJ-麦科勒姆 87
+   </p>
+   <p>
+    哈桑-怀特塞德 81
+   </p>
+   <p>
+    罗德尼-胡德 76
+   </p>
+   <p>
+    马里奥-海佐尼亚 75
+   </p>
+   <p>
+    保罗-加索尔 75
+   </p>
+   <p>
+    纳西尔-利特尔 73
+   </p>
+   <p>
+    安芬尼-西蒙斯 72
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德场均出场35.5分钟，可以得到25.8分4.6篮板6.9助攻1.10抢断；CJ-麦科勒姆场均出场33.9分钟，可以得到21.0分4.0篮板3.0助攻0.79抢断；保罗-加索尔场均出场12.0分钟，可以得到3.9分4.6篮板1.7助攻；哈桑-怀特塞德场均出场23.3分钟，可以得到12.3分11.4篮板1.89封盖；马里奥-海佐尼亚场均出场20.8分钟，可以得到8.8分4.1篮板0.98抢断；罗德尼-胡德场均出场26.3分钟，可以得到11.2分2.2篮板1.8助攻0.82抢断；安芬尼-西蒙斯场均出场7.1分钟，可以得到3.8分。
+   </p>
+   <p>
+    纳西尔-利特尔来自于北卡莱罗纳大学，于今年被开拓者以首轮第25顺位选中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

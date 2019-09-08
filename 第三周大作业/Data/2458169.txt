@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA2K20公布鹈鹕后卫朗佐-鲍尔能力值：79
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0XH_nFhncH/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 09:58:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA2K20公布鹈鹕后卫朗佐-鲍尔能力值：79" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/ef1c8d290cfc679e5d46e97224c4abd868277c5d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，NBA2K20官方Instagram发布了鹈鹕后卫朗佐-鲍尔的游戏初始能力值：79。
+   </p>
+   <p>
+    并配文：“朗佐身穿鹈鹕球衣的新形象（眼睛emoji）这个评分你怎么看？”
+   </p>
+   <p>
+    2018-19赛季鲍尔为湖人出场47场常规赛，场均上场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5d067xasfj20u00u00vt.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

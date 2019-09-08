@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：亚布塞莱将缺席剩余所有夏联比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/celtics/status/1148773575265882113" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 10:08:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：亚布塞莱将缺席剩余所有夏联比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/d2cd8a6f90644a9700d931dda8722a2e65935b8b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 波士顿凯尔特人队官方今日宣布，球队前锋盖尔雄-亚布塞莱因小指伤势将会缺席接下来所有的夏季联赛比赛。
+   </p>
+   <p>
+    在昨天凯尔特人战胜骑士的夏联比赛当中，亚布塞莱小指受伤并且缺席了今天凯尔特人对阵掘金的夏联比赛。
+   </p>
+   <p>
+    亚布塞莱是2016年的首轮第16顺位新秀，曾效力于CBA上海大鲨鱼队。2018-19赛季常规赛，他场均出场6.1分钟，得到2.3分1.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

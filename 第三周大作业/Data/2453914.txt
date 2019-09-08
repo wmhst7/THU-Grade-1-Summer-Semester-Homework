@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡斯比与以色列联赛马卡比队签下3年340万美元合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sportando.basketball/en/omri-casspi-signing-a-three-year-3-4-million-contract-to-return-to-maccabi-tel-aviv/" target="_blank">
+     Sportando
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 22:27:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡斯比与以色列联赛马卡比队签下3年340万美元合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/560f9149c0fca908fa7dd7e86060c6f21cbabd9e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据Sportando报道，欧米-卡斯比将与以色列联赛的特拉维夫马卡比队签下一份3年340万美元的合同。
+   </p>
+   <p>
+    同时，卡斯比将担任球队队长，并将在退役后获得球队管理层的职位。
+   </p>
+   <p>
+    根据此前的报道，卡斯比的第一选择仍是留在NBA，重回欧洲联赛是卡斯比的B计划。
+   </p>
+   <p>
+    卡斯比在2009年选秀大会首轮第23顺位被国王选中，上赛季效力于灰熊，共上场36次，场均上场14.4分钟，得到6.3分2.2篮板。
+   </p>
+   <p>
+    <span style="font-size:12px;color:#c0c0c0;">
+     亲爱的JRs，虎扑错误地将“340万美元”写成了“3400万美元”，给JRs带来了困扰和误解，再次给所有JRs诚挚的说声抱歉。今后一定严格审核新闻，避免再次发生这样的错误。
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

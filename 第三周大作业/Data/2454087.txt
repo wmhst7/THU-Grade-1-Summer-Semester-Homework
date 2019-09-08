@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]森林狼VS篮网集锦，里德20分率队杀进决赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 11:21:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://www.weibo.com/1883881851/HDyy4Fwon" onclick="openVideo('https://www.weibo.com/1883881851/HDyy4Fwon');return false;" target="_blank">
+    <img alt="[视频]森林狼VS篮网集锦，里德20分率队杀进决赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/fbdfe0528e9e733bdc5bdfddcf161b29c103ed83.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯
+    <a href="https://www.weibo.com/1883881851/HDyy4Fwon" target="_blank">
+     视频: [视频]森林狼VS篮网集锦，里德20分率队杀进决赛»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

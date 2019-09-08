@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  怀念过往？罗德曼更新社媒晒出与迈克尔-乔丹合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1HM5cVgVZA/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 12:38:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="怀念过往？罗德曼更新社媒晒出与迈克尔-乔丹合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/c410b0176aaec857370f7db4ed94757c836b9411.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日前NBA球员丹尼斯-罗德曼更新了个人社交媒体Instagram晒出一张自己与迈克尔-乔丹的合照（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“我不相信生活现在所给予我的东西。”
+   </p>
+   <p>
+    丹尼斯-罗德曼其职业生涯常规赛，场均出场31.7分钟，可以得到7.3分13.1篮板1.76助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

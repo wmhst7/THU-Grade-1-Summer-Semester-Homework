@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  穆托姆博祝贺儿子夺冠：为你以及你的队友感到骄傲
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0NB5utFtKx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 13:36:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="穆托姆博祝贺儿子夺冠：为你以及你的队友感到骄傲" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/faa37b7d01093efdf13a83a3c168174c672d975d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 前NBA球员迪肯贝-穆托姆博今天在个人Instagram上传了一组自己与儿子的照片（见新闻配图）。
+   </p>
+   <p>
+    “@莱恩-穆托姆博今年的又一个冠军（西尔瓦赛区16岁以下联赛），孩子，为你以及你的队友感到骄傲，干得漂亮，22分15篮板5盖帽。”穆托姆博写道。
+   </p>
+   <p>
+    穆托姆博职业生涯曾效力于掘金、老鹰、猛龙、76人、篮网、尼克斯以及火箭，职业生涯常规赛他共出战1196场比赛，场均出场30.8分钟，得到9.8分10.3篮板2.8盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/13/6b7f2bf09441bd4b1b4424ad791185ad.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/13/615e5f83cbe1fb8167fb206edaf83145.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/13/0181e5141ff7a3df7df7d8913819fa4b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/13/b8b26fe993b64237f1e4272e9b8b1d44.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

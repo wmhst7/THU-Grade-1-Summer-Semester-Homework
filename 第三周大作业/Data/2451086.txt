@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：湖人正式签下格林麦基考辛斯波普库克五名新援
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakersreporter/status/1147679418971590658?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 09:37:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：湖人正式签下格林麦基考辛斯波普库克五名新援" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/50f5a8e4f6c0da23d1c2ccfc84b8f4fec91646b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据湖人官网记者Mike Trudell报道，湖人今日官方宣布他们已经正式签下了自由球员贾维尔-麦基、肯塔维厄斯-考德威尔-波普、德马库斯-考辛斯、奎因-库克以及丹尼-格林。
+   </p>
+   <p>
+    据The Athletic记者Bill Oram报道，目前湖人还在等待拉简-隆多、贾里德-杜德利、特洛伊-丹尼尔斯、亚历克斯-卡鲁索完成与球队的正式签约。此外，湖人即将正式完成安东尼-戴维斯的交易。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/09/619accf54f3a17f4bb5477f09ee45512.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/09/15f92be00110f6491b8ac0fd3976c5f0.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/09/002e97e0989a20276fa49bf0166ebe8a.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190707/09/7804483ca28042f18f6ec8e7bc157674.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：马库斯-莫里斯1年1500万签约尼克斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1151149002706030593" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 23:19:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：马库斯-莫里斯1年1500万签约尼克斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/6432cc8e2bded706477e07d15a895e7648d36863.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，马库斯-莫里斯与尼克斯签下一份1年1500万美元的合同。
+   </p>
+   <p>
+    根据此前的报道，莫里斯原本与马刺达成2年2000万美元的口头加盟协议，但随后莫里斯决定重新考虑协议，并计划与尼克斯签约。
+   </p>
+   <p>
+    “我必须基于对我和家人来说最好的情况做出决定，这不是抨击马刺，我对他们非常尊重。”莫里斯在此前的采访中说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，莫里斯场均上场27.9分钟，得到13.9分6.1篮板1.5助攻，季后赛场均上场28.2分钟，得到13.7分8.1篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

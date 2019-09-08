@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  三线开花！帕克收购法国篮球队本赛季男女篮共计夺得三冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzNxkoNFozt/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 08:39:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="三线开花！帕克收购法国篮球队本赛季男女篮共计夺得三冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/ddce83f8031ba6da0eae4e61501c6f648d25fa2a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 前NBA球员托尼-帕克今日在个人Instagram上晒出了自己所收购的艾斯维尔篮球俱乐部男篮夺得法国篮球甲级联赛冠军与杯赛冠军，女篮夺得联赛冠军的照片（见新闻配图）。
+   </p>
+   <p>
+    “三个冠军！我还能奢求什么呢？再次感谢所有球迷全年对于我们俱乐部男女篮的支持！下赛季见！”帕克写道。
+   </p>
+   <p>
+    帕克在2009年就入股艾斯维尔队，并曾在2011年NBA停摆期间，以股东兼球员的身份为艾斯维尔队效力。2014年，帕克买下球队的大部分股份，成为球队最大股东，并担任总裁。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190628/08/1cb1763f64e4cd322c65a38d6c00ee25.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190628/08/c2bdb2131c11cf35f3513c75b3f45a54.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190628/08/5ec7b30aa341ff544e57e13c37d1ecb0.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

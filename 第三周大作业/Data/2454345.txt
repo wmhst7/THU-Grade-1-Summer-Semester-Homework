@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯发图祝贺西蒙斯续约：曾经5美元都不借我，恭喜你
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2088813733278179009?utm_source=ig_story_item_share&amp;igshid=azjger3i74or" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 06:39:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯发图祝贺西蒙斯续约：曾经5美元都不借我，恭喜你" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/88b8a841e404961a73f46ada5e3c163721cfbb2a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯
+    <span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+     湖人前锋勒布朗-詹姆斯今日发布Instagram Story图片向达成提前续约的76人球员本-西蒙斯表示祝贺。
+    </span>
+   </p>
+   <p>
+    <span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+     “可恶，兄弟，我曾经问你要5美元，你都会对我一笑了之！我想说那和1.7亿比起来算什么。恭喜小兄弟@本-西蒙斯 ！！！为你骄傲。”詹姆斯配文道。
+    </span>
+   </p>
+   <p>
+    <span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+     根据The Athletic记者Shams Charania报道，经纪人里奇-保罗透露，76人与本-西蒙斯达成一份5年1.7亿美元的提前顶薪续约合同。
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦康奈尔感谢76人：费城是我的第二个家
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0lTxX3HHpN/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 15:34:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦康奈尔感谢76人：费城是我的第二个家" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/7de7b28741527f13cbc6d0ed79f4e50e6516a773.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日，前76人球员、现步行者球员TJ-麦康奈尔更新个人社交媒体Instagram，发布了自己身着76人球衣的图片，并发表长文致谢球队。
+   </p>
+   <p>
+    麦康奈尔配文：“费城，费城。我是从哪开始的来着？这座城市对我的意义我无法用语言来表达。四年以前我一无所知地进入训练营，以为自己一定能进入球队名单。进入球队的那天是我生命中最好的日子之一。这座城市很快就包容和接受了我这个来自匹兹堡的坚强男孩。能够和球队一起经历两次季后赛之旅是我的运气。我也在这里遇到了一生挚友，并会永远对此心怀感恩。我永远不会忘记我在这座充满了兄弟情义的城市里所发生的一切故事，这里对我的家人和我所展示出的温情也令我感动。我很爱这一切，谢谢。
+   </p>
+   <p>
+    “我尤其要感谢整个76人，球队为我的家人和我付出了很多。你们已经成为我的第二个家了，我珍惜与你们每一个人所建立的感情。”
+   </p>
+   <p>
+    根据此前的报道，麦康奈尔与步行者达成的合同为2年700万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，麦康奈尔场均出场19.3分钟，能够得到6.4分2.3篮板3.4助攻1.04抢断。
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5ld94f23zj20u00tz77a.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5ld94l25qj20u00tz0vt.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

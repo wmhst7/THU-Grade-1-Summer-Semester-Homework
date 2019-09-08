@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兄弟情深！鲍尔今日晒出与弟弟年幼时合影并祝其生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1eY8OPJ2zb/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 01:48:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兄弟情深！鲍尔今日晒出与弟弟年幼时合影并祝其生日快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/bb74571e8eb887a210630e6ce10fbecf53c4c8e2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 今日，鹈鹕后卫朗佐-鲍尔更新了个人社交媒体Instagram晒出一张自己与弟弟Melo的合影（见新闻配图）并祝弟弟生日快乐。
+   </p>
+   <p>
+    鲍尔发文说道：“永远的兄弟，祝你生日快乐，继续做你自己想做的事情，Melo！”
+   </p>
+   <p>
+    2018-19赛季常规赛，朗佐-鲍尔场均出场30.3分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

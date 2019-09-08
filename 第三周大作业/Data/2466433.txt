@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  森林狼3名球员2K能力值更新：科温顿80，威金斯79
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/2kratings/status/1162053423253975040?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 23:35:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="森林狼3名球员2K能力值更新：科温顿80，威金斯79" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/41bedde04bfed3f1cc2cc8dfdde2fbbb9872d2e1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2K Ratings网站近日更新了一批球员的NBA 2K20游戏初始能力值，5名森林狼球员的能力值得以确定。
+   </p>
+   <p>
+    此次公布的森林狼球员2K20初始能力值如下：罗伯特-科温顿80，安德鲁-威金斯79，杰夫-蒂格78。此前已公布的森林狼球员初始能力值为：卡尔-安东尼-唐斯89，贾勒特-卡尔弗77。
+   </p>
+   <p>
+    2018-19赛季常规赛，科温顿场均上场34.7分钟，得到14.5分5.7篮板1.5助攻；威金斯场均上场34.8分钟，得到18.1分4.8篮板2.5助攻；蒂格场均上场30.1分钟，得到12.1分2.5篮板8.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾斯廷-霍勒迪：我经历了很多事情，我愿意去帮助别人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/pacers/news/pacers-take-second-holiday" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 18:29:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾斯廷-霍勒迪：我经历了很多事情，我愿意去帮助别人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/a8bf64f6950c362639804461d2db87c91b6e2581.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 据此前的相关报道，步行者官方宣布球队已经正式与贾斯廷-霍勒迪签约。身为一名落选秀，贾斯廷-霍勒迪的职业生涯在欧洲联赛起步，在异国他乡打球，质疑和苦涩伴随着他。
+   </p>
+   <p>
+    “我当时非常挣扎，”贾斯廷-霍勒迪在正式与步行者签约之后回忆道，“我总是会陷入沉思，‘我想要回家，我不想再继续这样下去。’我对于落选非常懊恼，但你知道当你陷入沮丧时将会获得什么。”
+   </p>
+   <p>
+    “我从来都不是一个轻言放弃的人。”贾斯廷-霍勒迪说道。
+   </p>
+   <p>
+    之后贾斯廷-霍勒迪返回美国打球，辗转多支球队，现如今30岁的他已经成为了球队中年纪最大的球员，他能够为球队中的年轻球员提供帮助。
+   </p>
+   <p>
+    “我是一个天生的领袖，无论我是否是那个能够得到30分的家伙，我就是这样的一个人，我总是愿意去帮助别人，我经历了很多事情，”贾斯廷-霍勒迪说道，“我之前是就是这样做的，所以我认为我能够在某个时间节点以某种方式去帮助到一些人。”
+   </p>
+   <p>
+    “我会以一个普通人的身份和别人交谈，我100%认为我能够激励他人，鼓励他们去做他们想做的事情。因为我就是一个普通人，我在打出一些名堂之前经历了太多坎坷。你是能够做到一些事情的，这只关乎于你投入了多少精力。我不知道我是否能够做到一些事情，但我总是会有‘我做到了’的感受，因为我总是感觉我能够变得更出色。我的心态就是努力工作，拼尽全力地去追求目标，我知道在篮球方面，我仍有大量的可提升空间。”贾斯廷-霍勒迪说道。
+   </p>
+   <p>
+    据此前The Athletic记者Shams Charania的报道，贾斯廷-霍勒迪与步行者达成一份为期一年价值480万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，贾斯廷-霍勒迪场均上场31.8分钟，能够得到10.5分3.9篮板1.8助攻1.5抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

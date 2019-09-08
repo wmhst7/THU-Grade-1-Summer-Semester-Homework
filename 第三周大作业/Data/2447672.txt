@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿兰-威廉姆斯转推称赞詹姆斯状态持久：最疯狂的事之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/alantwilliams/status/1143997384222900224?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 20:48:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿兰-威廉姆斯转推称赞詹姆斯状态持久：最疯狂的事之一" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/f996915fa40aec91d33aa5208d84f6094ebf7e80.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 篮网球员阿兰-威廉姆斯今天分别转发了与队友丹吉洛-拉塞尔以及湖人前锋勒布朗-詹姆斯有关的推特内容。
+   </p>
+   <p>
+    媒体Complex Sports回顾了出自2003届选秀的球员如今的生涯走向，内容如下：
+   </p>
+   <p>
+    “2003届NBA选秀：第6到41顺位均已退役；第5顺位，德维恩-韦德，已退役；第4顺位，克里斯-波什，已退役；第3顺位，卡梅罗-安东尼，自由球员；第2顺位，达科-米利西奇，已退役；状元秀，勒布朗-詹姆斯，上赛季场均27.4分8.5篮板8.3助攻。”Complex Sports写道，并分别发布了詹姆斯新秀赛季与上赛季的照片（见新闻配图）。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/20/3f15ae5c25b3b19dac3246eb8678f77f.jpeg"/>
+   </p>
+   <p>
+    威廉姆斯转发并评论道：“这是我见过的最疯狂的事情之一！！！哇，Bron，Bron！”
+   </p>
+   <p>
+    此外，威廉姆斯还转发了著名记者Shams Charania关于湖人对签下丹吉洛-拉塞尔拥有浓厚兴趣的报道，并写道：“说实话，所有30支球队都应该这样！#给他高薪”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

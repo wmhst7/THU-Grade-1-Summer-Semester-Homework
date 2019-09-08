@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气十足！哈里森-巴恩斯更新Ins分享参加球员科技峰会照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzRh9Y1hnRC/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 13:33:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气十足！哈里森-巴恩斯更新Ins分享参加球员科技峰会照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/94f3db9e4f4e710a06ac4712784a0403f79e474c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，萨克拉门托国王球员哈里森-巴恩斯更新个人Instagram，上传了一张自己参加球员科技峰会的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文说道：“很高兴的一次演讲。”
+   </p>
+   <p>
+    2018-19赛季常规赛，巴恩斯场均出场32.9分钟，得到16.4分4.7篮板1.5助攻0.65抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

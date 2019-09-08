@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔默：搬入新场馆是个机遇，我们可能会更换队标和队名
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/story/2019-07-26/clippers-steve-ballmer-kawhi-leonard-arena-broadcasting?_amp=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 06:15:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔默：搬入新场馆是个机遇，我们可能会更换队标和队名" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/64f5ec95952ec159a1aed25cf86989f8ef5a09c3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 根据此前消息报道，快船此前发布了他们提出建造的新球馆英格尔伍德球馆的外观图。这座球馆将有18500个座位，由快船老板史蒂夫-鲍尔默出资建造。球队相信新球馆将在2021年准时开工，在三年之后开放。
+   </p>
+   <p>
+    近日，快船老板鲍尔默接受了《洛杉矶时报》记者Bill Shaikin的采访。
+   </p>
+   <p>
+    在谈及有关球队搬入新场馆后未来的计划时，鲍尔默对记者说道：“我们可能会在迁入新的场馆后更换队标包括队标的颜色甚至是队名。”
+   </p>
+   <p>
+    “我们有一个千载难逢的机会将我们的球队地位提升到另一个层次。我并不期待会有什么太大的改变，但这对我们来说确实是一个千载难逢的机会，而且这就是你在与粉丝商量讨论后要做的事情。”
+   </p>
+   <p>
+    球队预期，这座占地26英亩的球馆将完全容纳快船的所有运营设施，包括总部和球队的训练设施。鲍尔默称，由于快船是斯台普斯中心的第三个占用者，球队可以使用球馆进行日程安排、赚取其他收入的时间受到了影响，因此快船寻求建造自己的新球馆。
+   </p>
+   <p>
+    球队在斯台普斯中心的租约将在2024年到期，根据计划，球队不会因试图阻碍这项计划的其他势力而推迟计划，将在同年搬进新球馆。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2458239&amp;type=1&amp;entrance=26">
+     鲍尔默谈新球馆规划：我想要建造体育界最好的场馆
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  国王巴恩斯更新社媒晒出与妻子合影并祝福朋友新婚快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1H1DvIBCqI/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 17:04:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="国王巴恩斯更新社媒晒出与妻子合影并祝福朋友新婚快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/7552574089e2a1f72ba8d1557dab0d30b39ad476.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日，国王前锋哈里森-巴恩斯更新了个人社交媒体Instagram晒出自己与妻子的合影（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“赶赴夏威夷去参加朋友的婚礼，让我们祝福那对新人吧！”
+   </p>
+   <p>
+    2018-19赛季常规赛，巴恩斯场均出场32.9分钟，可以得到16.4分4.7篮板1.5助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/17/447d443a119a8d188eede56a3e8e859f.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

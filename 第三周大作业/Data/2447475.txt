@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  整装待发！八村垒新赛季将身披奇才8号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/washwizards/status/1144008620675411968?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 09:05:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="整装待发！八村垒新赛季将身披奇才8号球衣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/0847951677224c9e2e051f15af64bb1578943a58.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 华盛顿奇才队官方今日发布了本届9号秀八村垒的球衣定妆照，八村垒将在新赛季身披奇才8号球衣（见新闻配图）。
+   </p>
+   <p>
+    “新赛季，八村垒将身披8号球衣征战NBA。”奇才官方写道。
+   </p>
+   <p>
+    在今年选秀大会中，奇才在首轮第9顺位选中八村垒。八村垒今年21岁，身高2.03米，体重107公斤，司职前锋，2018-19赛季在NCAA代表冈萨加大学出场37次，场均出场30.2分钟，得到19.7分6.5篮板1.5助攻0.9抢断0.7盖帽。据此前报道，他已承诺自己今夏将代表日本出战男篮世界杯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/09/6dbc7398c514cccd24d151ab563b28e9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

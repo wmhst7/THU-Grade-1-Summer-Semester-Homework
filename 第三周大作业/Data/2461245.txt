@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  装扮如何？伊巴卡更新社媒晒出参加参加活动照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0r4aROhZbq/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 12:37:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="装扮如何？伊巴卡更新社媒晒出参加参加活动照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/4786d91a9f63d41d4846cf45188b92fee2be5e93.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，猛龙球员塞尔吉-伊巴卡更新社交媒体Instagram晒出参加多媒体平台Uninterrupted加拿大启动派对照片。（见新闻配图）
+   </p>
+   <p>
+    2018-19赛季常规赛，伊巴卡场均出场27.2分钟，得到15.0分8.1篮板1.4盖帽；季后赛他场均出场20.8分钟，得到9.4分6.0篮板，并帮助球队获得了队史首座总冠军奖杯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/12/f8533c5031415472232cf2c0dcd76d3d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船队在斯坦普斯中心设置广告牌欢迎乔治和伦纳德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn/status/1151281478254440448" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 10:12:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船队在斯坦普斯中心设置广告牌欢迎乔治和伦纳德" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/776ae73b184f55316bc916609289f4dc784fd376.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 洛杉矶快船队在斯坦普斯中心设置了一块广告牌欢迎乔治和伦纳德（见新闻配图），广告牌上写到：“欢迎回家！”
+   </p>
+   <p>
+    在2019年休赛季，快船获得自由球员科怀-伦纳德，交易得到保罗-乔治。
+   </p>
+   <p>
+    2018-19赛季，乔治常规赛代表雷霆出场77次，场均36.9分钟得到28.0分8.2篮板4.1助攻；季后赛代表雷霆出场5次，场均40.8分钟可以得到28.6分8.6篮板3.6助攻。
+   </p>
+   <p>
+    2018-19赛季，伦纳德常规赛代表猛龙出场60次，场均34分钟可以得到26.6分7.3篮板3.3助攻；季后赛出场24次，场均39.1分钟可以得到30.5分9.1篮板3.9助攻，伦纳德在2018-19赛季随猛龙在总决赛中4-2击败了勇士得到当赛季的总冠军，并拿下2018-19赛季的FMVP奖项。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/10/350942b5d3e414002a9143918f69d9fb.jpg"/>
+    ​
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://bbs.hupu.com/28411334.html">
+     科怀-伦纳德和保罗-乔治的加盟展示了快船在这十年里已航行到多远
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

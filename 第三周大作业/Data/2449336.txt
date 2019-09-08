@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约瑟夫：过去2年为步行者效力很美妙，迫不及待加盟国王
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzYlOG1gTUw/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 09:12:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约瑟夫：过去2年为步行者效力很美妙，迫不及待加盟国王" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/b7cbcfed8e100ef4f83406b2831b540f11ac7929.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 刚与国王达成协议的科里-约瑟夫今日更新了个人Instagram，发文向效力了两年的步行者表示感谢并对未来表达期待。
+   </p>
+   <p>
+    “过去2年为步行者效力的经历无比美妙，我想要朝着步行者球迷大喊：我会想念你们的！”
+   </p>
+   <p>
+    “国王你好呀，我迫不及待地想飞抵萨克拉门托了，在那儿和球迷们见面并投入工作。”约瑟夫写道。
+   </p>
+   <p>
+    此前根据雅虎记者Chris Haynes报道，多位消息人士透露，科里-约瑟夫与国王达成3年3700万美元的协议。据The Athletic记者Sam Amick报道，第三年为部分保障。
+   </p>
+   <p>
+    约瑟夫即将年满28岁，上赛季作为达伦-科里森的替补，常规赛场均上场25.2分钟，得到6.5分3.4篮板3.9助攻1.15抢断，季后赛场均上场21.3分钟，得到7.5分1.8篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

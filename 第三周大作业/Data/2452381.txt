@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林：詹姆斯一直打的是控卫，现在又成新闻了？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakeshowworld/status/1148779039890407424?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 16:24:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林：詹姆斯一直打的是控卫，现在又成新闻了？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/d55d741eefd702cb59bd29b4128e211a38c26314.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 湖人后卫丹尼-格林今天在播客节目中谈到了球队阵容情况。
+   </p>
+   <p>
+    关于勒布朗-詹姆斯将在新赛季担任首发控卫的消息，格林不以为然：“勒布朗一直都打的是控卫。过了15年，勒布朗-詹姆斯打控卫现在变成新闻了，真的吗？我想知道世界上哪个地区的人觉得这是令人震惊的消息？”
+   </p>
+   <p>
+    当主持人提出湖人应排出“詹姆斯、丹尼-格林、凯尔-库兹马、安东尼-戴维斯以及德马库斯-考辛斯或贾维尔-麦基”的首发阵容时，格林说道：“或者打小一点的阵容，AD打5号位。我不是教练，那不是我的工作，但假如我们打小球阵容，我确定Bron（詹姆斯）打4号位，但他会控球到前场，AD打5号位，Kuz（库兹马）打3号位，我打2号位，然后也许埃弗里-布拉德利打1号位。他们有许多人选，隆多等许多人可以打1号位，取决于谁的状态好，谁的手热。比如KCP（肯塔维厄斯-考德威尔-波普），反正有许多球员可供挑选。在所谓他们薪资空间不够的情况下，他们引入了一些不错的人选。”
+   </p>
+   <p>
+    关于湖人是否可能引入被买断后的安德烈-伊格达拉，格林说：“也许吧。但我记得他签了一笔大合同。不过你也说不准，他们会找到办法实现目标的。”
+   </p>
+   <p>
+    谈到他和其他湖人球员将在詹姆斯和戴维斯身边得到大量优质出手机会，格林说：“和这些家伙打球肯定能得到大量很好的投篮机会，他们两个全明星球员会吸引许多防守注意力，你可以投篮或者执行战术。只需要积极拼抢，奋力拼搏，你总会在某个地方得到机会。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：雄鹿裁掉前锋乔恩-洛伊尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1148699363683647488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 05:08:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：雄鹿裁掉前锋乔恩-洛伊尔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/f33f590d6837309101ef1dc6d5941fbcdffb7462.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 据The Athletic记者Shams Charania报道，消息人士透露，雄鹿裁掉了前锋乔恩-洛伊尔。洛伊尔2019-20赛季的薪资为950万。
+   </p>
+   <p>
+    记者并未透露雄鹿是用什么方式裁掉洛伊尔，若使用延伸条款，雄鹿可以分3年裁掉洛伊尔，每年占据工资帽的金额为317万。
+   </p>
+   <p>
+    在选秀大会之前，雄鹿将托尼-斯内尔和30号签交易至活塞，得到乔恩-洛伊尔，为续约布鲁克-洛佩斯和克里斯-米德尔顿腾出薪资空间。
+   </p>
+   <p>
+    2018-19赛季常规赛，洛伊尔场均上场9.8分钟，得到3.8分2.4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

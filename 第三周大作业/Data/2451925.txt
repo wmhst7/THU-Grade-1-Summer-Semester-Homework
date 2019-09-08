@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：灰熊签换交易得到两个未来次轮签和辛格的签约权
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/grizzliespr/status/1148400188823875584?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 12:20:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：灰熊签换交易得到两个未来次轮签和辛格的签约权" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/c53f275e18f56cd2b11f37f1cce611c0f346c85b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 灰熊官方今日宣布，他们已经通过先签后换交易从独行侠得到两个未来次轮签以及印度中锋萨特南-辛格的签约权，为此灰熊将德朗-赖特送至独行侠。
+   </p>
+   <p>
+    出生于1996年的辛格身高2.18米，独行侠在2015年选秀中以第52顺位选中他。目前辛格还未登陆过NBA。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

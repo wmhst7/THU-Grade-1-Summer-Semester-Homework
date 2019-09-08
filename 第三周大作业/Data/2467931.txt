@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库克晒照回顾个人训练营：这是这份职业中最好的部分
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1ck0d8g5pJ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:55:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库克晒照回顾个人训练营：这是这份职业中最好的部分" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/bcf4ecb14e7384393e7b94d6d94ef658866e5cb8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 湖人后卫奎因-库克今日通过Instagram发布一组图片回顾其举办的个人训练营。
+   </p>
+   <p>
+    “这是这份职业中最好的部分。我得以和家人一起回馈社会，也能看到这些孩子们的笑脸。我永远不会将之视为理所当然。”库克写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，代表勇士出战的库克场均上场14.3分钟，得到6.9分2.1篮板1.6助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/001b348f28cd640fab41785bc32bffb9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/619eb71b9d82542c54ec46c5e1968ae0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/471685ad712ba38f60c13c52839dc61f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/c1442f1a85c0102ae40b85e217e4eaa3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/eb28e4237fac33070ea5784815f33ef2.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/b487e9fc423e7f1a345130cbfb0875e8.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/2d025c065937fe20637f5d347ca58e54.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

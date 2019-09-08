@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  皮蓬：中国球迷数量庞大，中国篮球正不断发展
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.slamonline.com/nba/scottie-pippen-qa/" target="_blank">
+     SLAM
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 11:24:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="皮蓬：中国球迷数量庞大，中国篮球正不断发展" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/5247cdaf6c746bcaf331ef946e448bd931d568d7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 上周，前NBA球员斯科蒂-皮蓬造访北京，参加2019年男篮世界杯预热与商业活动。在接受Slam杂志采访时，谈及自己眼中的中国篮球发展。
+   </p>
+   <p>
+    谈及篮球在中国越来越受欢迎，皮蓬说道：“这里有很多球迷，他们正在成为篮球比赛的头号拥趸。当他们对比赛产生兴趣时，你能感受到这股发展的力量。”
+   </p>
+   <p>
+    皮蓬曾在1992年首次来到中国，被问及这些年中国篮球的发展，皮蓬表示：“一切都很棒，无论是透过外面露天的篮球场还是一些运动品牌通过不同的篮球项目所带来的影响，你都可以看见中国在不断努力。单就草根篮球而言，NBA在中国投入了很大精力，举办了类似篮球无国界这样的活动，来吸引并帮助一大批球员，这自然而然地使篮球更受关注，也让人们对篮球更具热情。”
+   </p>
+   <p>
+    皮蓬出生于1965年，1987年第1轮第5顺位被超音速选中，生涯场均出场34.9分钟，得到16.1分6.4篮板5.2助攻1.96抢断0.80盖帽。共7次入选全明星，3次入选最佳阵容一阵，8次入选最佳防守阵容一阵，获得过1次抢断王与全明星MVP，生涯共计6夺总冠军，于2010年入选名人堂。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：太阳正式签约卡梅伦-约翰逊等三名新秀
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/press-release/suns-sign-johnson-jerome-lecque" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 13:17:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：太阳正式签约卡梅伦-约翰逊等三名新秀" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/141c4504f86d6f0d3c06a0eaad22bdeddbae6349.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今日，太阳官方正式宣布，签约2019年首轮秀卡梅伦-约翰逊、泰-杰罗姆，以及新秀Jalen Lecque。
+   </p>
+   <p>
+    约翰逊今年23岁，今年第1轮第11顺位被森林狼选中，身高2.04米，体重93公斤，司职小前锋，2018-19赛季NCAA作为北卡罗莱纳大学球员出场36次，场均出战29.9分钟，能够贡献16.9分5.8篮板2.4助攻1.2抢断0.3盖帽。
+   </p>
+   <p>
+    杰罗姆今年21岁，今年第1轮第24顺位被76人选中，身高1.97米，体重88公斤，司职控球后卫，2018-19赛季NCAA作为弗吉尼亚大学球员出场37次，场均出战33.9分钟，能够贡献13.6分4.2篮板5.5助攻1.5抢断。
+   </p>
+   <p>
+    Jalen Lecque今年19岁，1.93米，体重84公斤，司职后卫，2018-19赛季NCAA作为Brewster Academy学院球员出场，场均得到12.7分3.1篮板4.6助攻1.6抢断。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2445462&amp;type=1&amp;entrance=26">
+     太阳交易得到凯尔特人的24号签，将选中泰-杰罗姆
+    </a>
+    <br/>
+    <a href="http://lite.hupu.com/s?u=nba/news/2445397&amp;type=1&amp;entrance=26">
+     太阳用11号签选中卡梅伦-约翰逊
+    </a>
+    <br/>
+    <a href="http://lite.hupu.com/s?u=nba/news/2451148&amp;type=1&amp;entrance=26">
+     官方：太阳交易得到约翰逊、杰罗姆、沙里奇和贝恩斯
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

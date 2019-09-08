@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔：小时候不太在意鞋子，篮球使我成为球鞋爱好者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://uproxx.com/dimemag/dangelo-russell-warriors-free-agency-interview/" target="_blank">
+     UPROXX
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 07:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔：小时候不太在意鞋子，篮球使我成为球鞋爱好者" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/ce439ccf42ed87ba21cdf73917cab7b0493d27f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 近日，勇士后卫丹吉洛-拉塞尔参加了We Live Sneakers活动，期间接受了采访。
+   </p>
+   <p>
+    谈到自己作为球鞋爱好者的经历时，拉塞尔说：“球鞋一直在频繁地更新换代。在我的成长过程中，我并不非常在意鞋子，但是篮球开始为我打开了一扇门，球鞋开始引起了我的兴趣，从此之后我爱上了球鞋。过去我是一个不太在意球鞋的人，而现在每款鞋我都会尝试搞来两到三双来试穿，追赶球鞋质量进步的潮流。我还记得穿着新款的Air Force或是Air Max时的感受，就像第一天上学时那样。你会觉得，你迫不及待想要搭配好你的新装束，穿上其他任何人都没有穿过的鞋了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均上场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

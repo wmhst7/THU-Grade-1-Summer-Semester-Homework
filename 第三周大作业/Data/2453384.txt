@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士更新官方推特感谢乔丹-贝尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/warriors/status/1149850178083532800" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 09:33:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士更新官方推特感谢乔丹-贝尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/690527af510fc79492396122237aa796fe926c9c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 今日勇士官方更新了推特动态，表达了对乔丹-贝尔的感谢。
+   </p>
+   <p>
+    “谢谢你，@乔丹-贝尔” 勇士官推写道。
+   </p>
+   <p>
+    贝尔此前与森林狼达成一份1年160万美元的保障协议，勇士没有匹配这份邀请合同报价。
+   </p>
+   <p>
+    贝尔在2017年选秀大会上次轮第38顺位被公牛选中，随后被交易至勇士，生涯前两个赛季皆在勇士效力，帮助球队在2017-18赛季夺得总冠军，共上场125次常规赛，场均上场12.8分钟，得到3.9分3.1篮板1.4助攻0.86盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺官推晒NASA宇航员带马刺球衣遨游太空短片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spurs/status/1152601296253403136" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 09:46:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺官推晒NASA宇航员带马刺球衣遨游太空短片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/5e1420bbe415ef3c4c8d1f83c870e0dc94083dba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 今日，马刺官推晒出了一段关于NASA宇航员、中校安德烈-摩根将一件印有自己名字的马刺19号球衣带往太空的视频，并配文：
+   </p>
+   <p>
+    “阿波罗11号首次载人登月的50年后，宇航员安德烈-摩根将首次将马刺球衣带往太空。接下来的九个月里摩根将在空间站生活和工作。#阿波罗50年（宇航员登月表情） #马刺加油”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/09/08078cc8b6679a22edf1c610acee9c39.jpg"/>
+   </p>
+   <p>
+    安德烈-摩根将在当地时间上午11点28分前往国际空间站。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

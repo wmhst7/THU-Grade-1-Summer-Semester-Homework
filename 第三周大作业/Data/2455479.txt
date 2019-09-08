@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  扬尼斯祝哥哥萨纳西斯生日快乐：要一直保持微笑
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0DCHT7F3b-/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 17:05:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="扬尼斯祝哥哥萨纳西斯生日快乐：要一直保持微笑" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/4a60158b46746f68319284470884c67b75127b8d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今天雄鹿球员扬尼斯-阿德托昆博在Instagram上晒出一张哥哥萨纳西斯-阿德托昆博的照片。
+   </p>
+   <p>
+    扬尼斯写道：“生日快乐我的大哥，要一直保持微笑。（微笑的表情）”
+   </p>
+   <p>
+    萨纳西斯-阿德托昆博出生于当地时间1992年7月18日。根据此前的报道，他已经与雄鹿签下2年300万美元的全额保障合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，扬尼斯-阿德托昆博出场72次，场均出战32.8分钟，可以得到27.7分12.5篮板5.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

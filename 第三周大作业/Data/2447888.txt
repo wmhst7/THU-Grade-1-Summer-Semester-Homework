@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  我不吃肉！欧文被动物保护组织授予“年度最美素食者”称号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?time_continue=30&amp;v=HOPCfyy1J6M" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 12:35:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="我不吃肉！欧文被动物保护组织授予“年度最美素食者”称号" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/633af683dfa9641838b888a58225716aac5d00f7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 美国一家动物保护组织（Peta)近日授予凯里-欧文“年度最美素食者”称号。
+   </p>
+   <p>
+    据此前相关报道，欧文在观看了纪录片What the Health之后，成为了一名素食主义者，他将自己在球场上表现的提高归功于此。同时，欧文也是素肉的忠实拥趸并投资了一家相关公司。
+   </p>
+   <p>
+    “我现在的饮食以植物为主，舍弃了所有的动物肉制品，我必须这么做。自那以后，我的精力更充沛了，开始理解我更适合哪种饮食，哪种饮食方式对我最有益并可以给我持续提供补给。”欧文说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

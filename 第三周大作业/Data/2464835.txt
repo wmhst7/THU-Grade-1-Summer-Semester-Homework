@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布泽尔：比赛风格正趋向无位置篮球，中锋职能发生了改变
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1128938/2019/08/12/qa-roy-hibbert-finally-found-his-footing-in-the-nbas-small-ball-era/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 09:56:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布泽尔：比赛风格正趋向无位置篮球，中锋职能发生了改变" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/5543a62f341b7103dd3f6798d1951d02a2b0a464.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 前NBA球员卡洛斯-布泽尔在近日接受媒体采访时谈到了现如今联盟的比赛风格，他表示中锋的职能正在发生改变，大个子不再只是待在油漆区中，而是需要承担起更多的角色。
+   </p>
+   <p>
+    “现如今的比赛风格正在向无位置篮球转变，传统中锋的作用正在逐渐弱化。”布泽尔说道。
+   </p>
+   <p>
+    “很多传统的中锋球员，像帕特里克-尤因和蒂姆-邓肯，或者是我，我们都是在篮下得分，而现如今的大个子球员不得不做更多的事情，防守多个位置，”布泽尔说道，“我这一代球员中的大多数家伙，以及在我之前的那些球员们，他们并没有这样做。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

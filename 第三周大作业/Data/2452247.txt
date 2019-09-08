@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卢比奥：我将达到巅峰，喜欢看艾弗森和纳什的比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BurnsAndGambo/status/1148732803783094272" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 09:39:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卢比奥：我将达到巅峰，喜欢看艾弗森和纳什的比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/8859b4ad2b0b7fdffbed43748b616f0fec8bbcc1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 后卫里基-卢比奥和太阳正式签下了一份多年合同，今日卢比奥参与了Arizona Sports 98.7FM的电台节目录制，采访中卢比奥谈到了加盟太阳的原因。
+   </p>
+   <p>
+    卢比奥说道：“这里的球队文化正在改变。你能看到太阳的一系列运作正在朝着正确的方向前进。我将达到自己状态的巅峰，不管是身体上的还是心理上的，所以我需要找到一个能让我展示自己的地方。”
+   </p>
+   <p>
+    “这是一个疯狂的夏天，这是我第一次进入自由市场，所以我得搞清楚这些事情是怎么运作的。当一只球队邀请你成为他们的重要一员，我觉得我得认真对待。决定是在最后一分钟才做出的，但我觉得在菲尼克斯我能得到很棒的机会。”
+   </p>
+   <p>
+    谈到自己即将达到的巅峰状态，卢比奥说到：“对，我现在28岁，身体上比任何时候都要强壮，过去的3-4个赛季我基本健康，更多的机会还在前面等着我，我即将迎来自己最好的状态。”
+   </p>
+   <p>
+    成长过程中喜欢观看哪位后卫的比赛？卢比奥说到：“阿伦-艾弗森，毫无疑问。还有史蒂夫-纳什，作为一名控球后卫，一位MVP，他打出了赏心悦目的篮球，看他比赛总是有很多乐趣。”
+   </p>
+   <p>
+    太阳今年还签下了弗兰克-卡明斯基和达里奥-沙里奇，对此卢比奥说到：“现在的比赛和以前不一样了，场上的5名球员都需要有投射能力。他们拉开了空间，创造出机会。我期待和他们打球，我们有能力让事情变得与众不同。”
+   </p>
+   <p>
+    此前根据Thhe Athletic记者Shams Charania报道，里基-卢比奥与太阳达成3年5100万美元协议。2018-19赛季常规赛，卢比奥场均上场27.9分钟，得到12.7分3.6篮板6.1助攻1.34抢断。季后赛场均上场33.6分钟，得到15.4分3.2篮板8.6助攻2.40抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

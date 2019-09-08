@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德记录芝加哥青少年训练营第一天：一切顺利
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0HU4iIn97V/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 12:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德记录芝加哥青少年训练营第一天：一切顺利" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/0e39f007a4ddad500f9eaaad14f51fdb4fa85d1a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 今天德维恩-韦德在Instagram上晒出了几张照片，记录他在芝加哥举办的青少年训练营开幕第一天。
+   </p>
+   <p>
+    韦德写道：“记录我的芝加哥训练营第一天。场内外温度都很高，但一切还是顺利举行了。篮球、橄榄球、足球还有大家的欢呼！感谢所有陪伴孩子们的工作人员。”
+   </p>
+   <p>
+    德维恩-韦德于2018-19赛季结束后宣布退役，职业生涯场均出场33.9分钟，能得到22.0分4.7篮板5.41助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190720/12/c8801820b8d5f61022e082e65e393576.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190720/12/74f845184a297f9c3c319d25b21947c4.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥尼尔发推晒出特大美味汉堡照：这是有史以来最棒的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SHAQ/status/1164002893638320128" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 11:06:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥尼尔发推晒出特大美味汉堡照：这是有史以来最棒的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/63838fff191097868b248b1b26bdf777f9efc664.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，名人堂成员沙奎尔-奥尼尔发推晒出一张特大汉堡的照片（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“这是有史以来最具统治力（最能勾起食欲）的汉堡！你知道嘛？”
+   </p>
+   <p>
+    奥尼尔其职业生涯常规赛，场均出场34.7分钟，可以得到23.7分10.9篮板2.51助攻2.26封盖。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

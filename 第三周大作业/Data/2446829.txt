@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美媒汇总今年几大奖项得主国籍信息：NBA全球化
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BleacherReport/status/1143376206995181568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 13:57:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美媒汇总今年几大奖项得主国籍信息：NBA全球化" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/dda35c23f0667b4380b0802a0e76df9f7d24ea69.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，各大奖项得主已经出炉。雄鹿球员扬尼斯-阿德托昆博当选2018-19赛季常规赛MVP，爵士球员鲁迪-戈贝尔当选2018-19赛季年度最佳防守球员，独行侠球员卢卡-东契奇当选2018-19赛季最佳新秀，猛龙球员帕斯卡尔-西亚卡姆当选2018-19赛季进步最快球员。
+   </p>
+   <p>
+    随后，美国著名媒体Bleacher Report官方推特发布一条汇总以上奖项得主的国籍信息推特，分别是：
+   </p>
+   <p>
+    NBA总冠军：多伦多
+   </p>
+   <p>
+    最有价值球员阿德托昆博：希腊
+   </p>
+   <p>
+    最快进步球员西亚卡姆：喀麦隆
+   </p>
+   <p>
+    最佳新秀东契奇：斯洛文尼亚
+   </p>
+   <p>
+    最佳防守球员戈贝尔：法国
+   </p>
+   <p>
+    并配文说道：“NBA全球化！”
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

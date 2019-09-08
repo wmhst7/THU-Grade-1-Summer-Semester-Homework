@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  前湖人助教比尔-波特卡获教练协会助教终身成就奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA_Coaches/status/1149018699208302595" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 02:51:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="前湖人助教比尔-波特卡获教练协会助教终身成就奖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/ce8891755a27589828f3d04224ed6b0d7f58630b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日NBA教练协会宣布，前湖人助教比尔-波特卡获得2019年助教终身成就奖。
+   </p>
+   <p>
+    教练协会主席、独行侠主帅里克-卡莱尔说道：“波特卡是NBA执教行业里的传奇，是一名真正的终身篮球人。他对于他的工作极其热情，执教和教导了如此多伟大的NBA球员，从威尔特-张伯伦到科比-布莱恩特。恭喜他取得如此受人尊敬的成就。”
+   </p>
+   <p>
+    波特卡在1968年进入湖人担任大学篮球球探，成为了联盟历史上第一位全职球探。1974年他成为新奥尔良爵士的第一任总经理，同时担任助教。1981年他重返湖人担任助教，在随后的时间里也曾担任过湖人球探总管、总经理特别助手和篮球运营顾问。
+   </p>
+   <p>
+    在NBA工作的52年生涯中，波特卡为湖人工作了45年，与17位不同的球队主帅有过共事。今年8月，他将年满92岁。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

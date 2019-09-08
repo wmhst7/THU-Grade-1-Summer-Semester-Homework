@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  惺惺相惜！麦迪今日更新社媒晒出自己与艾弗森合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Y8pM8FXhH/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 10:50:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="惺惺相惜！麦迪今日更新社媒晒出自己与艾弗森合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/e61d89ed0a3a35bf4f5b2755a603385de0f73b83.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，名人堂成员特雷西-麦克格雷迪更新了个人社交媒体Instagram晒出自己与阿伦-艾弗森的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“the answer+the one。”
+   </p>
+   <p>
+    麦迪其职业生涯常规赛，场均出场32.7分钟，可以得到19.6分5.6篮板4.44助攻1.21抢断0.86封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

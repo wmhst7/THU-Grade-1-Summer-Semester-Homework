@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人官方发布麦基训练图集：全神贯注
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1162472534769430529?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 07:40:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人官方发布麦基训练图集：全神贯注" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/d5501f6a9077a0f9cb862157faee18faff9565c7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 湖人官方推特和Instagram今日分别发布贾维尔-麦基的训练组图。
+   </p>
+   <p>
+    “全神贯注。#湖人秀”湖人官方写道。
+   </p>
+   <p>
+    2018-19赛季，麦基场均出场22.3分钟，得到12分7.6篮板1.97盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/7fd5f4872a6755322d349e35489cec6e.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/71b34833ada7baa2b283b2c294f75269.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/93aba77fcbde3c5cab06eebaad556160.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/080e92284f1199fe175ce6b3a887e166.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/e8ae615f6ea1e9f4431adaf9462b88a1.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/f66c3f7c52f266a07f55396268d42ab7.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/5f756ac5a09aefdef4af2c06b4387de6.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190817/07/ae828f0858ebb1ddb963a93195b8840c.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

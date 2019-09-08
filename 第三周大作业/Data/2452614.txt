@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾巴尔晒与蔡恩-威廉森共同参加ESPY合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzwcab4HxQB/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 09:19:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾巴尔晒与蔡恩-威廉森共同参加ESPY合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190711/e6d0fa3f54924982f60b45a2c129d1ef2f9f6ba8.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日，NBA名宿卡里姆-阿卜杜尔-贾巴尔更新社交媒体Instagram，晒出与今年状元秀蔡恩-威廉森合照（见新闻配图）。
+   </p>
+   <p>
+    “和蔡恩-威廉森在ESPY。”他写道。
+   </p>
+   <p>
+    贾巴尔生涯常规赛共出场1560场，排名历史第二，场均出场36.8分钟，得到24.6分11.2篮板3.63助攻；蔡恩-威廉森，今年首轮第一顺位被鹈鹕选中。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

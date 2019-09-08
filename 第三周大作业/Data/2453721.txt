@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  紫金3号！湖人官方发布戴维斯球衣定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1150189368788676609?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 09:02:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="紫金3号！湖人官方发布戴维斯球衣定妆照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/b76a0fdad7b3e92f49895b192c8c16d7b2218565.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 湖人官方推特和Instagram今日发布了安东尼-戴维斯身穿湖人3号球衣的定妆照。
+   </p>
+   <p>
+    “联盟要当心了！他在这里了。”湖人官方写道。
+   </p>
+   <p>
+    此外，湖人官方还发布了一段戴维斯首次身穿湖人3号球衣的视频。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4393859662387538">
+     视频：浓眉首次穿上湖人球衣（15秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/15/20163d22635d05c025f2b3577b38ba1d.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/15/96b7bf3a18eaf8e8cd93b8f510263d48.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/09/a7c94d86753cddbda983ae4e05fe18bc.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190714/09/aba31199cbffbf952722d7c9b8a4ef12.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

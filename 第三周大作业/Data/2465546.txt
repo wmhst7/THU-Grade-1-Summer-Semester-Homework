@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯坦-范甘迪接近加盟特纳体育担任比赛解说员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/08/14/stan-van-gundy-bolting-espn-in-major-nba-media-move/?utm_medium=SocialFlow&amp;utm_source=NYPTwitter&amp;utm_campaign=SocialFlow" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 07:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯坦-范甘迪接近加盟特纳体育担任比赛解说员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/3c6d5ecd7b6abfb7f7d980c06fcb4518f391d3be.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 根据《纽约邮报》记者Andrew Marchand的报道，他们已经获知斯坦-范甘迪接近加盟特纳体育（TNT母公司），担任一位关键的比赛解说员。
+   </p>
+   <p>
+    在离开活塞后，大范甘迪加盟了ESPN，主要负责演播室工作和解说大学篮球比赛。
+   </p>
+   <p>
+    大范甘迪在2014年成为活塞篮球运营总裁兼主帅，取得了152胜176负的常规赛战绩，在2015-16赛季打入了季后赛首轮被淘汰。
+   </p>
+   <p>
+    在此之前，大范甘迪曾在魔术和热火执教。其中在2007-2012年期间，大范甘迪执教魔术，带领球队获得259胜135负的常规赛成绩，5个赛季全部进入季后赛，并在2009年率队打入总决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

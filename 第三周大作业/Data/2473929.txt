@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  不懈努力！麦科勒姆晒训练照和训练视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2HpY93lO1n/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 10:11:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="不懈努力！麦科勒姆晒训练照和训练视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190908/20d307c2c1339674f5533d7e39decd1b4eb9891b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 今日，开拓者后卫CJ-麦科勒姆更新了个人Instagram，晒出自己的训练照和训练视频，并写道：“这周的训练很不错。感谢训练师 @toddforcier和@jlawbball。早餐俱乐部（保佑表情）。 ”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/10/784d20fff61b199c7b7c7afb161572ff.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="GIF 3.22M" src="https://c1.hoopchina.com.cn/uploads/images/20190908/10/64d3707d6da8d2be0afb05dd11c3570b.gif"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="GIF 3.41M" src="https://c1.hoopchina.com.cn/uploads/images/20190908/10/6393d26d56cf18224bafb099f0369094.gif"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，麦科勒姆场均出场33.9分钟，得到21分4篮板3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  由于脚踝扭伤，贾马尔-默里将退出加拿大男篮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SmithRaps/status/1158408153970749441" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 00:12:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="由于脚踝扭伤，贾马尔-默里将退出加拿大男篮" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/437b6b523b00cea1f2a773046bcef5dc398085f3.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 根据记者Doug Smith报道，由于脚踝扭伤，贾马尔-默里将整个夏天都退出加拿大男篮，不会随队前往澳大利亚或是中国。
+   </p>
+   <p>
+    2018-19赛季常规赛，默里场均出战32.6分钟，可以拿到18.2分4.2篮板4.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

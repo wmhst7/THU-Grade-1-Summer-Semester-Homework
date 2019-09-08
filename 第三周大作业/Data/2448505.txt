@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  跟队记者：尽管与罗斯的关系已修复，但公牛无意与其签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KCJHoop/status/1145091608829972480?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 09:20:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="跟队记者：尽管与罗斯的关系已修复，但公牛无意与其签约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/4e2103c719f29ddb719ff17961d28001100bdb06.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据公牛跟队记者K.C.Johnson报道，尽管与德里克-罗斯之间的关系已经修复，但公牛依旧无意签回罗斯，双方没有取得联系。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，自由球员后卫德里克-罗斯将于当地时间和活塞会面，双方都想达成一份为期2年的合约。
+   </p>
+   <p>
+    2018-19赛季常规赛，罗斯场均出战27.3分钟可以拿到18分4.3助攻2.7篮板。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

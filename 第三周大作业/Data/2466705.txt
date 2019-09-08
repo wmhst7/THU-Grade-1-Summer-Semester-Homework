@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希腊男篮对阵塞尔维亚男篮的热身赛近18000张门票售罄
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/920610/sold-out-for-prep-game-between-greece-and-serbia/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 21:42:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希腊男篮对阵塞尔维亚男篮的热身赛近18000张门票售罄" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/34353b4df6a5ba90f194a89a2c6ba34fb5778e32.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 希腊男篮与塞尔维亚男篮之间的雅典卫城锦标赛收官战将于当地时间周日在雅典举行，希腊男篮官方赛前宣布，本场比赛将近18000张门票全部售罄。
+   </p>
+   <p>
+    这是该项赛事过去十年第一次出现门票全部售罄的情况。雅典卫城锦标赛于1986年首次举办，是希腊男篮在参加国际篮联重大赛事前的传统热身赛事。
+   </p>
+   <p>
+    本届世界杯，希腊男篮和塞尔维亚男篮的阵容实力强劲，均具有夺牌实力。希腊男篮由扬尼斯-阿德托昆博领衔，塞尔维亚男篮由尼古拉-约基奇领衔。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乐福谈减重：尽量让关节和肌肉保持润滑和弹性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/cwmwrites/status/1162162374117351425" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 13:41:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乐福谈减重：尽量让关节和肌肉保持润滑和弹性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/543518baee41529d4574cad731d696227e85fa3d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 骑士前锋凯文-乐福近日接受采访谈到了自己休赛期的训练计划。
+   </p>
+   <p>
+    乐福透露他正在尽可能地尝试减重。“我马上要进入生涯第12个赛季了，”乐福说道，“我在努力让关节和肌肉保持非常润滑的状态，让它们尽量保持弹性。”
+   </p>
+   <p>
+    2018-19赛季，乐福因接受足部手术仅出战22场常规赛，场均上场27.2分钟，得到17分10.9篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

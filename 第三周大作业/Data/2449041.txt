@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-布朗社媒欢迎沃克：欢迎来到这座城市
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FCHWPO/status/1145589611160383488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 15:18:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-布朗社媒欢迎沃克：欢迎来到这座城市" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/6ba2daa9aef6d75c7c5486ace49029099520c26d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 波士顿凯尔特人队前锋杰伦-布朗今天更新了个人推特。
+   </p>
+   <p>
+    “欢迎来到这座城市，我的伙计@肯巴-沃克。”布朗写道。
+   </p>
+   <p>
+    根据此前的报道，沃克已经与凯尔特人达成了一份4年1.41亿美元的签约协议。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

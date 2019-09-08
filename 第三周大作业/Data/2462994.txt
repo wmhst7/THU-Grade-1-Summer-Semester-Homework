@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克谈离开黄蜂：这是生意的一部分，我不会恼怒管理层
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1120268/?source=twittered" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 14:57:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克谈离开黄蜂：这是生意的一部分，我不会恼怒管理层" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/61505a95f6c7456b0b5c529d4c6fc50c7f6ac671.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 波士顿凯尔特人队后卫肯巴-沃克目前正在拉斯维加斯参加美国男篮的集训，集训期间沃克接受了The Athletic记者Shams Charania的采访。
+   </p>
+   <p>
+    在谈到与凯尔特人签约前的那段日子时，沃克说道：“艰难的时光，太TM艰难的一段时光，原谅我说脏话了。这真的很难，我根本不敢想象自己在另一支球队，这真的是很艰难。我所了解的一切都是关于夏洛特，绝对是一段艰难的时光。我有一种感觉我可能得不到一份我想要的合同了，而且因为工资帽的原因，甚至都不能接近（我想得到的合同）。我不得不从这种情绪中走出来，并且去选择另一支队伍。”
+   </p>
+   <p>
+    “会有很多康涅狄格（沃克在2011年NCAA锦标赛中带领康涅狄格大学夺冠并获得了当年的MOP）的球迷在我身边，更棒的是，我能有更多的机会回学校看比赛了。”沃克在谈到加盟凯尔特人时说道。
+   </p>
+   <p>
+    根据此前的报道，黄蜂曾为沃克提供了一份低于5年1.6亿美元的合同，而凯尔特人最终为沃克提供了一份4年1.42亿美元的合同。
+   </p>
+   <p>
+    “我并没有感到失望，因为我理解这是生意的一部分。我不会恼怒于MJ（黄蜂老板迈克尔-乔丹）或者是管理层。我能理解，在事情结束的那一天你必须看到事情的两面，MJ可以负担奢侈税吗？当然，他可以。但是他为什么要缴税呢？”
+   </p>
+   <p>
+    “我爱夏洛特，但随着自由球员市场的来临，我不得不改变自己的想法了。如果不留在夏洛特的话，我有一些自己想要去的地方以及一些我不想去的地方，而这时候，波士顿出现了。”沃克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

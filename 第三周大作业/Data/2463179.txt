@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士官方公布季前赛赛程：两战绿军，首战对阵阿根廷球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/cavaliers/releases/preseason-schedule-2019" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 23:34:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士官方公布季前赛赛程：两战绿军，首战对阵阿根廷球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190808/44bc13ea4faab4ae67fa5334c69330a4ee89a3cf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 骑士官网今日公布了球队2019-20赛季的季前赛赛程。
+   </p>
+   <p>
+    骑士将参加4场季前赛，首场比赛将在主场Rocket Mortgage FieldHouse球馆打响，骑士对阵阿根廷篮球联赛球队圣洛伦索竞技；随后两场比赛，骑士将客场对阵凯尔特人和活塞，最后将在主场再次迎战凯尔特人。具体赛程如下（均为北京时间）：
+   </p>
+   <p>
+    10月8日 上午6：00 主场对阵圣洛伦索竞技（阿根廷）
+   </p>
+   <p>
+    10月12日 上午7:00  客场对阵凯尔特人
+   </p>
+   <p>
+    10月14日 凌晨3:00 客场对阵活塞
+   </p>
+   <p>
+    10月16日 上午7:00 主场对阵凯尔特人
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

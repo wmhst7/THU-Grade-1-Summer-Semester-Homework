@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿斯报：掘金等几支NBA球队有意法昆多-坎帕佐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://as.com/baloncesto/2019/06/25/nba/1561450659_717049.html?m1=cG9ydGFkYV9wb3J0YWRh&amp;m2=QUNUVUFMSURBRA%3D%3D&amp;m3=Ng%3D%3D&amp;m4=bm9ybWFs&amp;m5=MjA%3D" target="_blank">
+     阿斯报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 20:48:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿斯报：掘金等几支NBA球队有意法昆多-坎帕佐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/dbf4fbc7770c65b314aff70ab5d290a38284c53c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 根据西班牙媒体《阿斯报》的报道，几支NBA球队对阿根廷后卫法昆多-坎帕佐感兴趣，其中一支是掘金。
+   </p>
+   <p>
+    坎帕佐现年28岁，身高1.8米，体重75公斤，是2013年的落选秀。
+   </p>
+   <p>
+    2018-19赛季，坎帕佐在皇马场均出战23.7分钟可以拿到9.8分5助攻2.7篮板1.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

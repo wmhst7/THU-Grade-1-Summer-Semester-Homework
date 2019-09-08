@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  付出汗水！塞思-库里今日晒出个人训练照片：很棒的一周
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzUOIarlusI/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 13:57:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="付出汗水！塞思-库里今日晒出个人训练照片：很棒的一周" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/1b73cc4aa072c75a662b18b3e67ffbd514822baf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，开拓者后卫塞思-库里更新了个人社交媒体Instagram晒出自己在训练室进行个人训练的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“很棒的一周。”
+   </p>
+   <p>
+    2018-19赛季常规赛，塞思-库里场均出场18.9分钟，可以得到7.9分1.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

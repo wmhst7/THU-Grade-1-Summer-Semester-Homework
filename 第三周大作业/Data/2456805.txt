@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA超级经纪人施瓦茨：非理性市场对经纪人来说更好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.forbes.com/sites/kurtbadenhausen/2019/07/21/how-nba-free-agency-speed-dating-produced-a-record-1-billion-in-new-deals-for-excel-sports/#1da3d4c64b44" target="_blank">
+     福布斯
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 15:21:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA超级经纪人施瓦茨：非理性市场对经纪人来说更好" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/1b3c5591aef316b5dfd23173cff5095caf49c6f2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 据福布斯记者Kurt Badenhausen报道，NBA超级经纪人杰夫-施瓦茨和他2002年创立的Excel体育管理公司成为NBA自由市场开启后的一大赢家，这家公司旗下所有的NBA球员下赛季将要执行的合同总额超过10亿美元。其中在自由市场开始的头12个小时里，施瓦茨（经纪公司）就帮助客户（球员）谈下总价超过7亿美元的合同（主要包括米德尔顿和雄鹿达成5年1.78亿美元续约协议、贾马尔-默里和掘金达成5年1.7亿美元提前续约协议、哈里森-巴恩斯从国王得到4年8500万的续约合同等）。
+   </p>
+   <p>
+    杰夫表示：“今年市场的扩张速度让我最惊讶，对于经纪人而言，非理性市场是一个好市场。在我看来，你所认为的理性市场是一个偏执的市场。你可以将它类比为下快棋的速度。你必须想清楚你的行动，必须要非常快。换句话说，这就像是一种速配。”
+   </p>
+   <p>
+    尽管今夏球员转会很疯狂，但施瓦茨表示，如果资金和形势处于对的情况下，他总是希望他的客户留在原球队。他表示：“球员们在那里投入了时间，去建立公平，球队也在球员身上投入了时间。”
+   </p>
+   <p>
+    如今，NBA球员比任何时候都更能掌握自己职业生涯的方向，通过自由球员或者寻求交易来转会。在谈及这一现象，施瓦茨表示：“相较于考虑球队，球员们更多想的是他的队友是什么样的人。魔瓶的盖子一旦被打开，它就很难再关上了。”
+   </p>
+   <p>
+    施瓦茨旗下的NBA球员众多，包括马刺前锋拉马库斯-阿尔德里奇、国王前锋哈里森-巴恩斯、湖人中锋德马库斯-考辛斯、鹈鹕前锋布兰登-英格拉姆、掘金中锋尼古拉-约基奇等等。
+   </p>
+   <p>
+    在去年福布斯年度最具影响力的体育经纪人排行榜中，施瓦茨是唯一一位进入前十的NBA经纪人，当时他管理的17亿美元让排在第二的NBA经纪人相形见绌（9.8亿美元）。2011年，施瓦茨的Excel体育管理公司扩展到棒球和高尔夫领域，当时超级经纪人克罗斯和斯坦伯格成为了其合伙人，带来了吉特尔和伍兹等客户。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

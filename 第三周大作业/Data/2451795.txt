@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  博扬-波格丹诺维奇：爵士的阵容和文化吸引了我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/tribjazz/status/1148365874002219008" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 07:42:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="博扬-波格丹诺维奇：爵士的阵容和文化吸引了我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/9bb0dfbf497e4854296a927785a45be3e8146f63.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今天，爵士新援博扬-波格丹诺维奇参加了新闻发布会，接受了记者的采访。
+   </p>
+   <p>
+    谈到会如何适应球队，波格丹诺维奇说：“我想要成为球队最好的球员！但是我也清楚自己的角色，我会努力找到自己的定位，最好地适应球队。我们现在有着很深的阵容深度，我会做我所能做的一切来帮助球队取得成功。”
+   </p>
+   <p>
+    谈到为何选择加入爵士，波格丹诺维奇说：“看到迈克-康利、多诺万-米切尔和鲁迪-戈贝尔在这里，加上看到爵士每个赛季都在竞争，这些让我很容易并且很快做出了决定。”
+   </p>
+   <p>
+    2018-19赛季常规赛，波格丹诺维奇场均出场31.8分钟能够得到18分4.1篮板2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克：世界杯给了年轻球员机会证明自己，我们都努力竞争
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-15.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 14:12:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克：世界杯给了年轻球员机会证明自己，我们都努力竞争" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/f134b91d923192451a397529e7ef96309e6ba2b8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 近日，美国男篮正在洛杉矶备战热身赛。期间，火箭球员PJ-塔克接受了媒体采访。
+   </p>
+   <p>
+    谈到美国队的阵容磨合过程时，塔克说：“我看到所有球员都来到这里一起努力进步，既是在个人方面，也是在团队方面。我认为当你看到我们的阵容时，每个人都在讨论那些不在这里的人，但你也看到了那些年轻球员，他们中的很多人将会成为全明星，拥有出色而长久的职业生涯，现在为时尚早。这就和凯文-杜兰特在职业生涯初期加入国家队时我所说的话一样。事情一直是这样。但我认为这给了这里入选并将要参加世界杯的每个人一个机会，不是要去证明其他人都是错的，而是去证明他们自己是对的。他们应该是美国国家队的一员，所有的球员都可以上场。这里的每个人都有实力入选并在这支球队打上球，但是说实话，没有人这样看待这件事。美国队里的每个人都具备竞争精神，一起努力训练，凝聚在了一起。这是有趣的。”
+   </p>
+   <p>
+    谈到对美国队队友的看法时，塔克说：“说实话，我发誓所有人都比我之前意识到的要更强。这是疯狂的。跟球员一年对阵几次是一种情况，但是当你来到这里，每天训练，或是看到这些球员是如何训练的。你会发现所有的这些年轻人都令人惊叹。比如达龙-福克斯，他比我之前所想的要优秀得多。不是说我之前认为他不是一名优秀的球员，但他真的非常，非常优秀。火箭对阵爵士时，我一直会跟多诺万-米切尔对位，所以我知道他有多优秀，但他已经成为了一名非常出色的球员。杰森-塔特姆也很棒。我是认真的，球队上下的所有人都很优秀，他们将会拥有出色的个人职业生涯。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

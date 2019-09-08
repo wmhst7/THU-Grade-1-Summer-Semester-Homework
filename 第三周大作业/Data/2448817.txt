@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：沃克与凯尔特人达成4年1.41亿美金的协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/06/kemba-walker-plans-to-sign-four-year-deal-with-celtics.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 06:01:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：沃克与凯尔特人达成4年1.41亿美金的协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/cba5d6af282eeb35676c9091c2bc166086c27b7f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，肯巴-沃克将于当地时间周日晚上与凯尔特人签下4年1.41亿美金的协议。由于之前凯尔特人撤回了对球队后卫特里-罗齐尔的资质报价，因此凯尔特人具备足够的薪资空间以顶薪签下肯巴-沃克。
+   </p>
+   <p>
+    同时消息人士透露，沃克之所以选择凯尔特人，主要是因为想与凯尔特人中的老将们并肩作战，相信能够因此在季后赛中走得更远。
+   </p>
+   <p>
+    <span data-shimo-docs="[[20,">
+     <span class="ql-author-i1641190693">
+      2018-19赛季常规赛，沃克场均出场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断0.41盖帽。
+     </span>
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

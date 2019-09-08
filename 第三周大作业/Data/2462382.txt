@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布拉德利-比尔NBA2K20能力值公布：87
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA2K/status/1158806076034150400" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 02:40:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布拉德利-比尔NBA2K20能力值公布：87" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/294bfcb06010bee027d0f8dd2e76ddf41928d481.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 今日，NBA2K20官方推特公布了奇才后卫布拉德利-比尔的游戏初始能力值：87。
+   </p>
+   <p>
+    “比尔的初始能力值是87，大家同意吗？”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔场均出场36.9分钟，得到25.6分5.0篮板5.5助攻1.48抢断0.71盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

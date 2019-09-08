@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  前活塞副总经理古普塔将正式成为森林狼篮球运营副总裁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/998532/2019/05/28/what-the-addition-of-sachin-gupta-says-about-the-wolves-under-gersson-rosas/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 00:10:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="前活塞副总经理古普塔将正式成为森林狼篮球运营副总裁" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/db2bd79b21770d61da6d7a0a34b99058a7524c4d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 据森林狼跟队记者Jon Krawczynski和The Athletic记者Shams Charania的报道，森林狼今日将正式任命前活塞副总经理萨钦-古普塔担任球队篮球运营副总裁。
+   </p>
+   <p>
+    消息人士透露，他将成为森林狼篮球运营总裁吉尔森-罗萨斯之后的管理层二把手。古普塔此前曾在76人、火箭和活塞任职。在火箭任职期间，和罗萨斯共同为达瑞尔-莫雷工作。在76人任职期间，成为萨姆-辛基的左膀右臂。
+   </p>
+   <p>
+    古普塔在业内积攒了自己的口碑，他被认为是关注工资帽、擅长劳资谈判以及注重过程分析的专家。
+   </p>
+   <p>
+    他在任职火箭与76人期间，曾参与策划了几笔重大交易。
+   </p>
+   <p>
+    2010年2月18日，火箭在交易中，送出特雷西-麦克格雷迪，得到凯文-马丁等球员，马丁后来成为2012年火箭从雷霆得到詹姆斯-哈登的重要筹码。
+   </p>
+   <p>
+    2015年7月9日，76人从国王接收了杰森-汤普森、卡尔-兰德里和尼克-斯陶斯卡斯的合同，并得到了2016年、2017年的选秀互换权，以及国王的未来一轮签。这使他们在2017年获得了三号签，并通过向上交易，用状元签摘下马克尔-富尔茨。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

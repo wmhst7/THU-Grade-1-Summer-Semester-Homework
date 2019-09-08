@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比尔-沃顿将和球迷们一起骑行以庆祝开拓者建队50周年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.oregonlive.com/blazers/2019/08/bill-walton-to-bike-ride-with-trail-blazers-fans-this-sunday.html" target="_blank">
+     俄勒冈人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 08:56:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比尔-沃顿将和球迷们一起骑行以庆祝开拓者建队50周年" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/1099c54c1f4c6c6265f467cbc67c1cd842018f97.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 据Oregonlive网站报道，开拓者名宿比尔-沃顿将会在本周末回到波特兰，并和球迷们一起参加开拓者建队50周年活动——骑行。
+   </p>
+   <p>
+    本次骑行将在美国时间周日下午2点开始，出发地是退伍军人纪念体育馆（Veterans Memorial Coliseum Commons），终点则和1977年开拓者冠军游行相同，都是Terry Schrunk Plaza。骑行大约在下午3点一刻结束，之后开拓者还安排了宣传活动和音乐活动。
+   </p>
+   <p>
+    在效力于开拓者时，沃顿经常骑车前往场馆参赛。此外，在1977年的夺冠游行上，沃顿也是骑行参加的。
+   </p>
+   <p>
+    本次参加活动的球迷还有机会赢取包括沃顿签名的自行车等礼品。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

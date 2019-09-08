@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人官方晒西蒙斯与其爱犬合影庆祝国际爱狗日
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1pKmTVBu2C/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 11:19:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人官方晒西蒙斯与其爱犬合影庆祝国际爱狗日" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/207c1e0223607d3ef5579192768de1b89ae00557.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今天76人官方在Instagram上晒出了全明星队员本-西蒙斯与爱狗的合影以及主场吉祥物“富兰克林”狗的照片并配文：“国家爱狗日里的好孩子们。”
+   </p>
+   <p>
+    此前西蒙斯也曾在个人社交媒体Instagram晒出自己儿时与宠物狗的合影。
+   </p>
+   <p>
+    相关链接：
+    <a href="https://voice.hupu.com/nba/2448468.html">
+     本-西蒙斯今日晒出儿时与爱宠合影：你给我们带来快乐&gt;&gt;
+    </a>
+   </p>
+   <p>
+    2018-19赛季常规赛，本-西蒙斯场均出场34.2分钟，可以得到16.9分8.8篮板7.7助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/6b57d1627c4ac7de9d56e7c3e9e35742.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/6d2ad9e14ea7007ef4f53435b9de3a97.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/5a3c70e10900baf579cde3a63627b401.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

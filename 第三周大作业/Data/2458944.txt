@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比、保罗现场观看WNBA全明星比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0bwaVVAkoz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 14:19:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比、保罗现场观看WNBA全明星比赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/bec12ecdd9a5d349fb72abc6147c1de286b0d83f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 NBA官方今天在Instagram上传了一组前NBA球员科比-布莱恩特以及雷霆后卫克里斯-保罗现场观看WNBA全明星比赛的照片（见新闻配图）。
+   </p>
+   <p>
+    “@科比-布莱恩特和@克里斯-保罗在拉斯维加斯WNBA全明星赛的场边。”NBA官方写道。
+   </p>
+   <p>
+    本届WNBA全明星赛，威尔逊队最终以129-126的比分战胜了戴尔-多恩队，埃丽卡-惠勒则凭借着25分7助攻的表现获得了本届WNBA全明星赛的MVP奖杯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/14/8193c4f19ce878eea1de167c70723786.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/14/956cb9978fc2ae90558f5cae0ba806b6.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190728/14/f0999a11b1e8944cf8d7d0aa5eb0c4b5.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

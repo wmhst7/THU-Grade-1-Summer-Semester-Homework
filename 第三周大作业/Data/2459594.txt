@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  切磋球技！库兹马发布与米切尔训练照：在他面前干拔投篮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0hVLUzJhJz/?igshid=md5jvblaz08a" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 09:16:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="切磋球技！库兹马发布与米切尔训练照：在他面前干拔投篮" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/e956715ba26b8db0724935b555aa7bdacab0f036.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 湖人前锋凯尔-库兹马今日通过Instagram发布了他与爵士后卫多诺万-米切尔在纽约进行一对一单挑的训练组图。
+   </p>
+   <p>
+    “在我哥们‘小蜘蛛（米切尔外号）’的面前干拔投篮。”库兹马写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻；米切尔场均上场33.7分钟，得到23.8分4.1篮板4.2助攻1.38抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/12/3f18b1b409d6cf547ff6b26a7a134553.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/09/4b5ff000ac77ecf802673aed5749d1c0.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/09/f842f59ab8427574670a831a9c310da5.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/09/08e07608dcd09975767656c34ba34f81.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/09/339527661ceccb56380103b0373590f8.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/09/875ca499bb6e9226d9750dd1dd99ebee.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

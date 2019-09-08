@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥巴马花费近1500万美元买下凯尔特人老板一处房产
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/obamas-buying-14-85m-marthas-232715772.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 10:13:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥巴马花费近1500万美元买下凯尔特人老板一处房产" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/1b6529e078bf389053b4d2f297d680d8f6cce7c6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 据NBC波士顿记者Justin Leger报道，凯尔特人老板格罗斯贝克向前美国总统巴拉克-奥巴马出售了一处房产。
+   </p>
+   <p>
+    据报道，该套房产市场价值目前为1485万美元，内部面积为7000平方英尺（650平方米），并配有7个卧室、9个洗手间。
+   </p>
+   <p>
+    此外，这处房产还包括一个26英亩（10.5公顷）的海滩，一个游泳池。格罗斯贝克于2015年买下此处房产，当时他花费了2250万美元。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/10/0ec01274e6855efd60e397c71ce9af03.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/10/8bf25461e13dbf045632522f21f7f765.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190823/10/03425dcf9e07baef12451688fe791ae0.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

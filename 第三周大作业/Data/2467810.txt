@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴恩斯：努力利用为国效力的机会，要保持美国队黄金标准
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theundefeated.com/features/2019-team-usa-basketball-has-a-chip-on-its-shoulder/amp/?__twitter_impression=true" target="_blank">
+     The Undefeated
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 02:20:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴恩斯：努力利用为国效力的机会，要保持美国队黄金标准" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/dfa19140dc2d8553157dd0aa8a997893e94b4287.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 美国男篮近日在澳大利亚备战男篮世界杯，将在当时时间8月22日与8月24日迎来与澳大利亚的两场热身赛。国王球员哈里森-巴恩斯接受了The Undefeated的采访。
+   </p>
+   <p>
+    巴恩斯是目前美国队中唯一一名参加过2016年里约奥运会并夺冠球员。巴恩斯说：“对我来说，每次美国队要求的时候，我都会作出承诺。只要我的家人安好而且我是健康的，只要他们给我机会，我就会去为美国队效力……每个人都是不同的。有些人有伤。有些人做出了其他承诺。对我来说，每一次我能为国效力的时候，我都会努力利用这个机会，能与这些球员一起上场打球，一直以来都是有趣的。”
+   </p>
+   <p>
+    巴恩斯说：“我们听到了外界那些噪声。事情仅仅取决于我们自己，我们要变得更好，继续在场上和场下变得更亲密，我们会从那里开始前进……”
+   </p>
+   <p>
+    “我们要继续保持黄金标准，这是我们最大的动力，在我们之前曾有球队多次赢得世界杯冠军，多次赢得奥运会冠军，这就是我们现在所追求的。”
+   </p>
+   <p>
+    北京时间8月17日至8月26日，美国男篮将与西班牙、澳大利亚、加拿大进行四场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

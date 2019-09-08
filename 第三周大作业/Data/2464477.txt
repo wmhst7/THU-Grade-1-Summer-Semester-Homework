@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士大通中心官推发布球馆外墙新安装的电子大屏幕照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChaseCenter/status/1160237088043749376" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 09:21:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士大通中心官推发布球馆外墙新安装的电子大屏幕照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/22589a4eb80269f54b3f088d89bdfa41f45f99bc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，勇士大通中心官推更新了动态，晒出一张勇士新球馆大通中心外墙新安装的电子大屏幕照片，并配文：“与外墙上的电子大屏幕打个招呼吧！（挥手表情）”
+   </p>
+   <p>
+    勇士新球馆大通中心近日即将完工，已经开放游客参观预订，预计将在2019年9月6日正式开放，在2019-20赛季作为勇士主场投入使用。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

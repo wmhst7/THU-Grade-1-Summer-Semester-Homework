@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：公牛计划裁掉后卫安东尼奥-布莱克尼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1170367750444912640" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 00:10:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：公牛计划裁掉后卫安东尼奥-布莱克尼" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/e6aadf07396689a76726a3a7e8928da7eb039c05.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，公牛与后卫安东尼奥-布莱克尼分道扬镳，球队计划裁掉他。
+   </p>
+   <p>
+    多位消息人士透露，布莱克尼与公牛在今日达成了合同买断协议，他将在澄清期后成为完全自由球员。
+   </p>
+   <p>
+    布莱克尼在2018年夏天与公牛与公牛签下了一份2年294万美元的合同，这份合同将在2020年到期。
+   </p>
+   <p>
+    2018-19赛季常规赛，布莱克尼共上场57次，场均上场14.5分钟，得到7.3分1.9篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  温斯洛更新社媒晒出与小德里克-琼斯合影并为其送上祝福
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzW06aFnTkO/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 11:39:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="温斯洛更新社媒晒出与小德里克-琼斯合影并为其送上祝福" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/ce16f84188023851be5e77d956a33651fe1b652a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据此前消息报道，独行侠与热火进行交易，得到凯利-奥利尼克和小德里克-琼斯。
+   </p>
+   <p>
+    随后，热火前锋贾斯蒂斯-温斯洛更新了个人社交媒体Instagram晒出一张与小德里克-琼斯赛场图（见新闻配图）。
+   </p>
+   <p>
+    并发文：“数数你的祝福，满满的都是爱。”
+   </p>
+   <p>
+    2018-19赛季常规赛，温斯洛场均出场29.7分钟，可以得到12.6分5.4篮板4.3助攻1.09抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

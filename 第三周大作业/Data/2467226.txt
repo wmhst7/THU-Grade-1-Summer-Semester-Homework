@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊利亚索瓦晒出与字母哥热身赛对位照：期待下一次对位
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1WJaMLDped/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 09:08:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊利亚索瓦晒出与字母哥热身赛对位照：期待下一次对位" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/14ab863b726405a5b38435c3dced7ee33e8c5dd1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 根据此前消息报道，热身赛土耳其以70-84最终不敌希腊。雄鹿前锋艾森-伊利亚索瓦将代表土耳其征战本届世界杯，雄鹿前锋扬尼斯-阿德托昆博将代表希腊出战世界杯。
+   </p>
+   <p>
+    今日，雄鹿前锋艾森-伊利亚索瓦更新了个人社交媒体Instagram晒出与队友扬尼斯-阿德托昆博热身赛赛场合照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“期待下一次对位。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/09/2f002d746c48b9e6343c433ab3575e28.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

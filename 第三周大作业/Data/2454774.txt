@@ -1,0 +1,77 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  整装待发！湖人官方发布短片公布阵中14名球员球衣号码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1151197021904052224?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 06:13:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="整装待发！湖人官方发布短片公布阵中14名球员球衣号码" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/c2d6ef0a34046c493f3d10a896812c3967c20705.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 湖人官方推特今日发布一则短片公布全队14名球员的球衣号码选择情况。
+   </p>
+   <p>
+    “哦，我们的球队成型了。#湖人秀”湖人官方写道。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/14193b5131705125fa48d74021e3975c.gif"/>
+   </p>
+   <p>
+    上赛季就效力于湖人的几位球员保留了各自的球衣号码，具体如下：0号凯尔-库兹马，1号肯塔维厄斯-考德威尔-波普，4号亚历克斯-卡鲁索，7号贾维尔-麦基，9号拉简-隆多以及23号勒布朗-詹姆斯。
+   </p>
+   <p>
+    今夏引进的湖人新援球衣号码具体如下：2号奎因-库克，3号安东尼-戴维斯，5号塔伦-霍顿-塔克，10号贾里德-杜德利，11号埃弗里-布拉德利，14号丹尼-格林，15号德马库斯-考辛斯以及30号特洛伊-丹尼尔斯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/39930b32c8dc944440c6d7e50789862e.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/fba2dac868efc298d9ae53adf027c82b.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/05960986a4665dc5f2ce49eecc3296fd.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/50dd9b552160f711e8e080de5bd4af01.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/069a93d37060e7188a511ef7ea59d37f.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/915b1f21de602334a21420d9fcb3d3c7.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/cf4b5a1a91d747d1fdba187fc1430591.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190717/06/eefeb1e39d1fe673740b78a5478a0157.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

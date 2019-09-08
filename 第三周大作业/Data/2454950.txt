@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英格拉姆谈恢复：恢复很好，会有意识加强下肢训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/pelicans-news-brandon-ingram-pretty-close-to-doing-normal-workouts/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:57:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英格拉姆谈恢复：恢复很好，会有意识加强下肢训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/48f0d051590d2aa9d1bbbcec094051c0fda0bd9f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今日，鹈鹕召开介绍新援的新闻发布会，布兰登-英格拉姆在新闻发布会上谈到了自己伤势的恢复。
+   </p>
+   <p>
+    英格拉姆谈到了自己对健康的渴望：“我非常渴望重拾篮球，上一次我打球已经是今年三月份了。”
+   </p>
+   <p>
+    英格拉姆说他右臂的血栓已经从手术中恢复的很好。然而，他在过去几周里还没有开始投篮训练，但是他一直在进行控球和传球训练。他还提到他在他在有意识的加强下肢的训练。
+   </p>
+   <p>
+    根据此前报道，鹈鹕完成与湖人和奇才的三方交易，将安东尼-戴维斯送至湖人，得到朗佐-鲍尔、约什-哈特、布兰登-英格拉姆、2019年4号秀德安德烈-亨特的签约权以及2个未来首轮选秀权。此外，湖人还将伊萨克-邦加、杰梅里奥-琼斯、莫里茨-瓦格纳以及一个未来次轮选秀权送至奇才。
+   </p>
+   <p>
+    2018-19赛季常规赛，英格拉姆场均出场33.8分钟，得到18.3分5.1篮板3.0助攻0.54抢断0.60盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

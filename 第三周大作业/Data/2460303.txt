@@ -1,0 +1,67 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  精心打造！詹姆斯晒出今日接受化妆及面部护理视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2099684170203690571?utm_source=ig_story_item_share&amp;igshid=15tfemtt2pnbc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 01:27:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="精心打造！詹姆斯晒出今日接受化妆及面部护理视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/1e9bb0a773cbfee4a98566ab2a66dffe64a85cc6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 湖人前锋勒布朗-詹姆斯今日在Instagram Story上更新一组他接受化妆和造型护理的自拍视频。
+   </p>
+   <p>
+    詹姆斯在视频中表情轻松地哼歌，时而为身后的便携式音箱给出特写镜头，其身旁的工作人员也在对他进行一系列面部、头发、耳部的清洁与护理。目前，作为主演的詹姆斯正在拍摄电影《空中大灌篮2》。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4400290440276133">
+     视频：詹姆斯今日接受化妆及护理
+    </a>
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出战35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/31d88b2b293148f4924641207c6d4107.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/b78602887bbf4de9f8740f692b97d5f1.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/85776a74fc977eb01bdf1193f1e17d2c.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/e19341294811630645014f2b19a37ac3.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190801/01/67890b983dd12604a94fb9fd868c30c2.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

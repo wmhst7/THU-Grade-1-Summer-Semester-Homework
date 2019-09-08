@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯目前仍然打算留下丹伊恩-多特森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/03/why-knicks-backed-out-of-kawhi-leonard-meeting/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 08:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯目前仍然打算留下丹伊恩-多特森" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/1e865a1e7580291c116fc4539561fba871cf6337.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 根据《纽约邮报》记者Marc Berman的报道，尽管已经得到雷吉-布洛克、韦恩-艾灵顿和埃尔弗里德-佩顿，一位消息人士透露，尼克斯仍然打算在当地时间7月15日截止日前执行丹伊恩-多特森的球队选项。
+   </p>
+   <p>
+    多特森2019-20赛季合同价值162万美元，但是为非保障的，转为受保障的日期为当地时间2019年7月15日。
+   </p>
+   <p>
+    2018-19赛季常规赛，多特森场均上场27.5分钟，得到10.7分3.6篮板1.8助攻0.79抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

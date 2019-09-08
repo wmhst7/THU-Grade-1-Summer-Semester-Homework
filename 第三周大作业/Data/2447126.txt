@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师：拉塞尔变得成熟了许多，他已经处于另一个级别
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1046080/2019/06/25/hes-better-now-magic-johnson-says-lakers-should-bring-back-dangelo-russell/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 09:49:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师：拉塞尔变得成熟了许多，他已经处于另一个级别" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/21532dc1aee74fdeaa36bffeb011c75ed30b2684.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 湖人名宿魔术师约翰逊昨日接受The Athletic记者Bill Oram采访谈到了关于篮网后卫丹吉洛-拉塞尔和湖人的一些话题。
+   </p>
+   <p>
+    魔术师此前担任湖人篮球运营总裁期间，曾于两年前将拉塞尔交易至篮网。“他现在进步了，他是一个不一样的球员了，”魔术师在谈到拉塞尔时说道，“他更加成熟了。”
+   </p>
+   <p>
+    湖人老板珍妮-巴斯昨日表示没有预料到魔术师的辞职，而魔术师透露他还没有和珍妮讨论过自由球员的事情。
+   </p>
+   <p>
+    “我还没有和她直接交谈过，”魔术师说，“我发过信息，我给她留下过消息。我打电话给她的助理还是什么人，我说，‘嘿，我们必须得到AD（安东尼-戴维斯）。’我给他们所有人留下了一条信息。‘你们一定要搞定交易。’因为现在你为未来10年奠定了基调，甚至在勒布朗（詹姆斯）退役之后。我很高兴他们做到了。”
+   </p>
+   <p>
+    魔术师表示，如果湖人在自由市场上错过了“所有的超级球星”，他们就应该考虑引入拉塞尔。
+   </p>
+   <p>
+    “现在他准备就绪了，”魔术师说道，“他变得成熟了许多。我之前说过的唯一一个问题，就是以往的他不够成熟。他一向擅长得分，但由于他的所做作为（尼克-杨更衣室泄密事件），球员们永远不愿跟他打球。但是现在当年的人全都走了，而他已经处于另一个级别。”
+   </p>
+   <p>
+    魔术师还建议湖人签约以下实力不错的自由球员：赛斯-库里、尼古拉-米罗蒂奇、JJ-雷迪克和丹尼-格林。
+   </p>
+   <p>
+    “会有像他们这样的球员的，”魔术师说道，“市面上存在大量球员。所以我们不能就是这种态度，‘嘿，如果我们得不到肯巴-沃克，得不到这个人或那个人，那就是一场灾难。’不。你还是需要填补阵容，补充名单。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

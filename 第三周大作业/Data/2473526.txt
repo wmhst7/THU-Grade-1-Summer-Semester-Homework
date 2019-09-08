@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗斯谈被交易后落泪真因：芝加哥，我所有的一切都在那里
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/bulls-news-derrick-rose-details-the-reason-he-cried-immediately-after-chicago-traded-him-to-knicks/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 08:23:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗斯谈被交易后落泪真因：芝加哥，我所有的一切都在那里" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/afb4297bf2e1c833502b2397f0b81f44d679f155.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 近日，活塞后卫德里克-罗斯在接受记者采访时谈到了自己在2016年被公牛交易至尼克斯后潸然泪下的原因。
+   </p>
+   <p>
+    罗斯对此表示：“这是我的生活。芝加哥，我所有的一切都在那里。当时，我首先想到的是我的家人和我的儿子。我知道我珍惜在芝加哥的那些时刻。就像斯蒂芬-库里，如果他爸爸不允许他来到球场上进行投篮，那他就不会是斯蒂芬。我喜欢和我儿子在一起的那些时刻，当我在场上热身的时候，我儿子在球场上高兴坏了。有时候，他还会把球传给我。我很珍惜这些时刻，因为我知道他长大后，他也会珍惜这一切的。”
+   </p>
+   <p>
+    德里克-罗斯出生于美国芝加哥，司职控球后卫，现效力于底特律活塞队。罗斯在2008年NBA选秀正式成为芝加哥公牛队队史上的第一位选秀状元，并且当选了年度最佳新秀，入选了最佳新秀阵容，第一个获得技巧挑战赛冠军的新秀球员。三届NBA全明星赛，其中两届出任首发。2010-2011赛季，22岁的罗斯成为NBA史上最年轻的常规赛最有价值球员（MVP），并且入选NBA年度第一队。
+   </p>
+   <p>
+    今年夏天，罗斯以2年1500万美元合同加盟活塞。2018-19赛季常规赛，罗斯场均出场27.3分钟，可以得到18.0分2.8篮板4.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

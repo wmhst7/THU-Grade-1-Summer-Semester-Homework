@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：拉塞尔和库里会搭档首发后场，拥有他是巨大的奢侈
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/warriors/news/what-they-are-saying-dangelo-russell-20190803" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 15:22:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：拉塞尔和库里会搭档首发后场，拥有他是巨大的奢侈" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/d11327de6ed8f102366c3717e82c951018bce44d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 勇士众人在近日接受媒体采访时谈到了球队新援丹吉洛-拉塞尔。
+   </p>
+   <p>
+    “看看丹吉洛吧，我们得到了一位23岁的全明星球员，他始终在坚持自己的风格，他是一个很棒的孩子，我们认为他能出色地融入球队。我们的阵容更年轻了，这令我们感到兴奋。”勇士篮球事务主管Jonnie West说道。
+   </p>
+   <p>
+    主教练史蒂夫-科尔表示：“我认为他会非常出色，首先，每当你得到一位场均能够得到20分的球员时，这都是巨大的奢侈，特别是在克莱（汤普森）将会因伤缺阵下赛季大多数时间的情况下。关键在于无球端，丹吉洛是一位出色的挡拆球员，斯蒂芬（库里）显然也是，他们将会搭档首发后场。当克莱回归时，我能够想象到三人同时首发的画面，我认为我们对此并没有什么问题。”
+   </p>
+   <p>
+    同样在今年夏天加盟球队的威利-考利-斯坦表示：“这会非常有趣，球队引进了我和D-Lo（拉塞尔），两个能够打挡拆的球员，显而易见，想要融入球队，我们需要改变一些打法，但这令人感到兴奋，因为场上的空间将会非常疯狂。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

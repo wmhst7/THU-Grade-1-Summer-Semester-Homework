@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大加索尔与未婚妻Catherine在旧金山完婚
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://elpais.com/elpais/2019/07/08/gente/1562576038_900298.html" target="_blank">
+     ELPAIS
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 07:31:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大加索尔与未婚妻Catherine在旧金山完婚" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/54f97ad19f5ade7b11ae11dbe7122d3a69f4d1eb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 根据《西班牙国家报》的报道，保罗-加索尔上周末已经与未婚妻Catherine McDonnell在旧金山完婚。
+   </p>
+   <p>
+    在交往近3年后，双方于去年10月订婚，最终双方选在大加索尔39岁生日当天完婚。
+   </p>
+   <p>
+    McDonnell来自加州，大学专业为商务沟通，在ABC新闻工作，今年30岁。
+   </p>
+   <p>
+    <span style="color: rgb(192, 192, 192); font-size: 12px;">
+     亲爱的JRs，虎扑此前将“交往”误写成了“交完”，给JRs带来了困扰和误解，再次给所有JRs诚挚的说声抱歉。今后一定严格审核新闻，避免再次发生这样的错误。
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

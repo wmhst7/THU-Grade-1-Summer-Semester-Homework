@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人、雄鹿和公牛对里乔恩-霍姆斯感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AlexKennedyNBA/status/1145354628428652545" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 23:54:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人、雄鹿和公牛对里乔恩-霍姆斯感兴趣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/a99f6055593371951a3fc60afae8b59d9fd9c53a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 根据HoopsHype记者Alex Kennedy的报道，消息源透露，湖人、雄鹿和公牛（霍姆斯的家乡球队）对完全自由球员里乔恩-霍姆斯感兴趣。
+   </p>
+   <p>
+    根据此前的报道，霍姆斯曾在5月23日因持有大麻在迈阿密被逮捕，随后被保释出狱。
+   </p>
+   <p>
+    2018-19赛季常规赛，霍姆斯场均出场16.8分钟得到8.2分4.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

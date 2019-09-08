@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  执子之手，与子偕老！小托马斯庆祝结婚三周年纪念日
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 15:22:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="执子之手，与子偕老！小托马斯庆祝结婚三周年纪念日" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/bab030bfea28a4fcba672f09476dad399cdc8742.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，奇才后卫以赛亚-托马斯在个人Instagram上晒出了自己与妻子的婚纱照，庆祝结婚三周年纪念日（见新闻配图）。
+   </p>
+   <p>
+    “结婚三周年愉快！你是世界上最美的灵魂。能够成为你的丈夫，我倍感幸运。感谢你成为我的伴侣，成为我孩子的母亲。生命中最美好的一天。”托马斯写道。
+   </p>
+   <p>
+    76人名宿阿伦-艾弗森也在下方留言，为托马斯送上自己的祝福：“恭喜你，兄弟。”
+   </p>
+   <p>
+    以赛亚-托马斯出生于1989年，今年30岁，2011年第2轮第30顺位被国王选中，2018-19赛季代表掘金出场12场常规赛，场均15.1分钟，得到8.1分1.1篮板1.9助攻0.42抢断。今夏以一年合同加盟奇才。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/15/4c0b206d22fceb7e932794938e367968.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/15/19d0ad4ab9673343651114f95436ff84.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

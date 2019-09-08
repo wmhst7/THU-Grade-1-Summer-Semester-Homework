@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  洛瑞发表声明：我热爱为国效力，曾期望能及时康复
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1FDGoOlBBz/?igshid=t7zr6eohq2jg" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 05:45:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="洛瑞发表声明：我热爱为国效力，曾期望能及时康复" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190813/50b04016c3957817a3c0aecb19bca98722f0421d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 猛龙后卫凯尔-洛瑞因左手大拇指伤势在今日宣布退出美国男篮国家队，无缘今夏的男篮世界杯。
+   </p>
+   <p>
+    洛瑞在Ins上发表声明，他在声明中写道：“我曾希望手指的伤势能够痊愈，并为世界杯做好准备，但我目前还没有恢复到100%可以投入到比赛中的地步。我曾希望能够及时康复效力我的国家，在即将到来的赛事中为国争冠，我热爱为美国队打球，但这一次，我不得不退出，我只能坐着支持他们。但我相信为国出战的12人会打出高水准并为美国队拿下冠军，加油美国男篮！”
+   </p>
+   <p>
+    洛瑞是在上赛季季后赛半决赛对阵76人的第七场比赛中遭遇了左手大拇指脱臼，在随后的季后赛中，洛瑞一直带伤上阵。在北京时间7月18日，洛瑞接受了左手大拇指修复手术，此前他一直希望能够赶上男篮世界杯，并且来到前几天的训练营报道，但由于伤势还没有恢复到可以出场比赛的程度，因此遗憾无缘世界杯。
+   </p>
+   <p>
+    目前美国队初选阵容还剩下15人，分别为德里克-怀特、达龙-福克斯、哈里森-巴恩斯、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、PJ-塔克、马库斯-斯马特、杰伦-布朗、乔-哈里斯和梅森-普拉姆利。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

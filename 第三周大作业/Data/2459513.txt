@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加索尔：2016年曾接近加入开拓者，这是一支很棒的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/highkin/status/1155902132421197824?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 03:48:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加索尔：2016年曾接近加入开拓者，这是一支很棒的球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/1d430e7c573a5263253161933f96eda5734a0f2c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日，NBA球员保罗-加索尔接受了媒体采访。
+   </p>
+   <p>
+    在谈到为何加入开拓者队时，保罗-加索尔说到：“开拓者是一支拥有独特历史的球队，有很多西班牙球员在这里打球是一件很特殊的事情，这也促使我选择了开拓者队。”（在此之前，有四位西班牙球员在开拓者效力过，如前西班牙球员鲁迪-费尔南德斯）
+   </p>
+   <p>
+    当谈到在2016年差一点就加入开拓者时，加索尔说：“有的时候，时间就是一切。两年前我认为马刺是最为适合我的球队，那是一个非常艰难的决定，开拓者和猛龙队都是两个很好的选择。”
+   </p>
+   <p>
+    在谈到在球队中对自己的定位时，加索尔说：“我会尽力做一切我能够做的，我也会听从特里-斯托茨以及教练团队的教导，很明显在我职业生涯的这个节点，已经积累了非常多的经验。我可以帮助年轻人懂得场上发生的事情。”
+   </p>
+   <p>
+    2018-19赛季常规赛，加索尔共代表雄鹿和马刺上场30次，场均上场12.0分钟，得到3.9分4.6篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

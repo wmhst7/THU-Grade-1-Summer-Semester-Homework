@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管：若火箭不能取得成功，他们还可以再交易威少
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://bleacherreport.com/articles/2845517-russ-is-an-upgrade-but-can-he-succeed-where-cp3-failed-in-houston?utm_source=twitter.com&amp;utm_medium=referral&amp;utm_campaign=programming-league" target="_blank">
+     Bleacher Report
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 08:59:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管：若火箭不能取得成功，他们还可以再交易威少" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/036651be6a81a72b8543f4d8b1335a39d1c73032.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 根据Bleacher Report记者Ken Berger的报道，多位联盟高管和球探谈论了克里斯-保罗和拉塞尔-威斯布鲁克互换东家的交易。
+   </p>
+   <p>
+    一位西部球队球探透露，迈克-德安东尼会聪明地使用他的轮换阵容，让詹姆斯-哈登和威斯布鲁克每场都独自带队打一段时间。
+   </p>
+   <p>
+    “然后到了关键时刻，你让他们两个人都上，然后你就厉害了。”这位球探说道。
+   </p>
+   <p>
+    一位东部球队球探说：“我认为这无法在季后赛成功，看他们打球也许很有意思，但是他们两个人都已经成为了高出手数和高使用率并且失误很高超级低效的球员，他们联手，火箭也许会创造NBA历史上最多的失误数和运球数。”
+   </p>
+   <p>
+    “他们都来自洛杉矶，都是太平洋十校联盟的球员，他们了解彼此，尊重彼此。”一位对手球队高管说道。
+   </p>
+   <p>
+    另外一位对手球队高管说：“我认为火箭是这么想的，如果不成功，那么他们还可以在赛季中期交易截止日前交易威少，火箭老板已经展示出了他是多么想赢球，如果这不成功，那就继续前进。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

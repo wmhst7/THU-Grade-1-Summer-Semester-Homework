@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾弗森致谢粉丝：感谢你们对我的所有赏识
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wangxuhui11/status/1165927860843896833" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 18:07:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾弗森致谢粉丝：感谢你们对我的所有赏识" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/0f3b728bdd8f37bea3c9b661619ac4a00ac6918c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 名人堂成员阿伦-艾弗森在周六出席的粉丝见面会上，对粉丝表达了自己对他们的感激。
+   </p>
+   <p>
+    艾佛森对球迷们说道：“我总是给你们我所拥有的一切，我爱有关你们的一切，感激你们所有的赏识。每当我踏进球馆，我总能听到你们的声音，我总是想要给你们我所有的一切。我认为当谈到（迈克尔）乔丹和芝加哥时，它代表了这种关系的建立，但它并不像我们一样，我们之间这是一个传奇！”
+   </p>
+   <p>
+    艾弗森职业生涯大部分时间是在费城度过的。2006年被交易到掘金。2009年，重新回到费城，随后在赛季末正式退役。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/17/8c06e0421f34c491cfe5c806acca0de9.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

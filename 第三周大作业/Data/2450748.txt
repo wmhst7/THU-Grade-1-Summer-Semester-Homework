@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕、老鹰和奇才打算配合湖人延迟完成此前达成的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LegionHoops/status/1147323882715484160" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 10:26:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕、老鹰和奇才打算配合湖人延迟完成此前达成的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/3488b732f46863c331a9606afad88d47dc51af35.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 根据NBA记者Ohm Youngmisuk和薪资专家Bobby Marks的联合报道，联盟消息源透露，如果科怀-伦纳德在当地时间周六0点（冻结期结束后）仍未做出决定，鹈鹕、老鹰和奇才打算配合湖人，延迟达成安东尼-戴维斯的交易。因为湖人腾出顶薪空间的前提是先与伦纳德达成合同，再完成交易；反之，则不会拥有顶薪空间，无法签下伦纳德。
+   </p>
+   <p>
+    根据此前的报道，湖人用朗佐-鲍尔、布兰登-英格拉姆、约什-哈特和三个首轮签换来安东尼-戴维斯；随后鹈鹕用从湖人换来的首轮四号签和从老鹰得到的57号签（所罗门-希尔的交易）与老鹰交易得到首轮8号签、17号签、35号签以及一个2020年的首轮；最后湖人为了创造出3200万的薪资空间，把瓦格纳、邦加、杰梅里奥-琼斯和一个2022年次轮交易到奇才，奇才用空间强吃。这三笔交易均将延迟完成。
+   </p>
+   <p>
+    与此同时，湖人与丹尼尔斯和杜德利达成的协议以及鹈鹕与雷迪克的协议都将延迟完成。此外，全部交易中牵涉的新秀（亨特、亚历山大-沃克、海斯）均不能参加夏季联赛。
+   </p>
+   <p>
+    根据此前的报道，伦纳德仍然没有决定，也不打算在今天（当地时间7月5日）完成他的决定。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

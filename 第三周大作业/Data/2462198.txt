@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  约瑟夫谈多人退出国家队：他们做了对家庭个人最好的决定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JLew1050/status/1158428897224089600" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 12:29:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="约瑟夫谈多人退出国家队：他们做了对家庭个人最好的决定" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/b842af43aba0c25e0dcecf2400367672078a241c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 加拿大男篮今日举行了训练营，国王后卫科里-约瑟夫接受了媒体采访。
+   </p>
+   <p>
+    据此前的相关报道，安德鲁-威金斯、特里斯坦-汤普森等球员相继退出了加拿大男篮。
+   </p>
+   <p>
+    “大家都是成年人，他们必须做出对于自己和家人最好的决定，”约瑟夫在接受采访时表示，“我唯一能够控制的就是我能够做什么，现在我来到了这里，我依旧相信我们有很大机会晋级，就是这样。”
+   </p>
+   <p>
+    本届世界杯，加拿大与塞内加尔、立陶宛和澳大利亚同处H组，北京时间9月1日小组赛揭幕战，加拿大将在东莞对阵澳大利亚。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

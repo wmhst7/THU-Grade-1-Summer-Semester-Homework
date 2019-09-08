@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔特姆谈外界质疑：这会成为肩上的压力，激励我们前进
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ESPNNBA/status/1164180416242343936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1164180416242343936&amp;ref_url=https%3A%2F%2Fclutchpoints.com%2Fceltics-news-jayson-tatum-says-" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:19:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔特姆谈外界质疑：这会成为肩上的压力，激励我们前进" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/1f1fa90dd51b8859bfe9eec17aa23608f0348195.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 美国男篮目前正在澳大利亚备战热身赛，来自凯尔特人的前锋杰森-塔特姆在此期间接受了媒体采访。
+   </p>
+   <p>
+    由于多位球员退出美国男篮，外界对于这支全新的美国队有很多质疑，塔特姆对此表示：“这（外界的言论）就好像我们这群人是直接从大街上找来的一样，我们都是NBA球员，我们都非常擅长自己所从事的职业。这会成为我们肩上的压力，我们会带着压力砥砺前行。”
+   </p>
+   <p>
+    北京时间今日下午五点半，美国男篮将迎战澳大利亚男篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

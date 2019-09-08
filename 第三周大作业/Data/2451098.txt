@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：湖人通过交易得到安东尼-戴维斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/lakers/releases/190706-lakers-acquire-davis?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 10:44:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：湖人通过交易得到安东尼-戴维斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/0d1d46e074b3ba0ba30c6a87e7a737346e8eed2c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 湖人官方今日正式宣布，他们通过交易从鹈鹕得到前锋安东尼-戴维斯，为此湖人将朗佐-鲍尔、约什-哈特、布兰登-英格拉姆、德安德烈-亨特的签约权、2个首轮选秀权、2个首轮签互换权以及现金送至鹈鹕。作为交易的一部分，湖人还将伊萨克-邦加、杰梅里奥-琼斯、莫里茨-瓦格纳以及一个未来次轮选秀权送至奇才；作为回报，奇才将部分现金送往鹈鹕。
+   </p>
+   <p>
+    湖人总经理罗勃-佩林卡在谈到戴维斯时说：“安东尼-戴维斯基本上是当今NBA最具统治力的全面型年轻球员。安东尼代表着我们倡导的一切品质，这体现在他在为人和作为一名运动员时对于卓越坚定不移的追求。这是湖人历史性的时刻之一，能够拥有他让我们感到无比自豪。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

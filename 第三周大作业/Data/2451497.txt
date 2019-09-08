@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾巴里-帕克谈被公牛交易：像是从监狱里重获自由
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://chicago.suntimes.com/bulls/2019/7/7/20685661/bulls-trying-to-move-forward-while-jabari-parker-stuck-in-past" target="_blank">
+     芝加哥太阳报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 11:15:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾巴里-帕克谈被公牛交易：像是从监狱里重获自由" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/e1c46e8ba3258b6068de254aaee455efbe10513a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 近期贾巴里-帕克接受了Sun-Times的采访，谈到上赛季与公牛签下2年4000万美元，但却在赛季中淡出轮换，最终被交易至奇才的经历。
+   </p>
+   <p>
+    帕克对此说道：“这就像是你在监狱里呆了几个月，然后得到了解放。你想做的就是做回自己，追回浪费的时间。我不再受困于那些矛盾的事，心理的斗争。在那里（奇才）我有很成熟的教练，他们是为球员着想的教练，这是我很喜欢那里的一点。”
+   </p>
+   <p>
+    公牛主帅吉姆-博伊兰上赛季12月开始执教公牛。听闻帕克此番言论后，博伊兰说道：“我很感激自己有机会能执教他，就是这样。这（他的言论）不会让我伤心，感谢他曾为我们出战，祝他未来好运，他想说什么是他的自由。”
+   </p>
+   <p>
+    奇才今夏没有执行帕克合同中2019-20赛季的球队选项。目前帕克仍是自由球员，奇才对于签回帕克持开放态度，但尚未作出决定。
+   </p>
+   <p>
+    拓展阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2373133&amp;type=1&amp;entrance=26">
+     贾巴里-帕克将淡出公牛常规轮换
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2392328&amp;type=1&amp;entrance=26">
+     官方：奇才宣布从公牛交易得到波蒂斯与帕克
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2449831&amp;type=1&amp;entrance=26">
+     奇才尚未确定签回贾巴里-帕克，后者的市场前景仍不明确
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

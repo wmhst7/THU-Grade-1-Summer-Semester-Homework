@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔特姆留言吐槽库兹马训练照：不穿上衣，也不穿袜子
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0hVLUzJhJz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 15:28:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔特姆留言吐槽库兹马训练照：不穿上衣，也不穿袜子" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/710787ebf1ce46bcaf3eb4628f40bfebd60dcd56.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 湖人前锋凯尔-库兹马此前通过Instagram发布了他与爵士后卫多诺万-米切尔的一组训练照，而凯尔特人前锋杰森-塔特姆则对库兹马的训练装束留言吐槽。
+   </p>
+   <p>
+    “不穿上衣，也不穿袜子，搞笑啊。老哥你总得穿一样吧。”塔特姆评论道。库兹马回复道：“不，我这是模仿肖恩-巴蒂尔的造型。”
+   </p>
+   <p>
+    米切尔评论了一串美国国旗表情，库兹马则回复道：“让我们一起加油。”
+   </p>
+   <p>
+    根据此前的报道，库兹马、米切尔和塔特姆均入选美国男篮备战本届世界杯的训练营。
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190730/14/90f3af00b46e8b5f70c016cc6de85fa2.jpg"/>
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2459594.html">
+     切磋球技！库兹马发布与米切尔训练照：在他面前干拔投篮
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

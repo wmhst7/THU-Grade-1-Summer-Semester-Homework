@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：国王宣布签下科里-约瑟夫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SacramentoKings/status/1147674347940851712" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 09:32:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：国王宣布签下科里-约瑟夫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/07b6b5ad8c884097d39ff6b9cb1ed552f25116b3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 国王官推今天宣布，他们正式签下后卫科里-约瑟夫，双方达成的是一份3年3700万的合同，其中第三年为部分保障。
+   </p>
+   <p>
+    约瑟夫即将年满28岁，上赛季作为达伦-科里森的替补，常规赛场均上场25.2分钟，得到6.5分3.4篮板3.9助攻1.15抢断，季后赛场均上场21.3分钟，得到7.5分1.8篮板1.0助攻。
+   </p>
+   <p>
+    新赛季约瑟夫将穿9号球衣。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

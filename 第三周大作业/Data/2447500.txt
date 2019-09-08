@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特出售洛杉矶海景豪宅，并且已经在纽约购置新房产
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/business/realestate/hot-property/la-fi-hotprop-kevin-durant-nba-sells-malibu-home-20190626-story.html" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 10:30:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特出售洛杉矶海景豪宅，并且已经在纽约购置新房产" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/330b3908b57cd3b1d366aa616dc1f3a095303c67.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据《洛杉矶时报》报道，前锋凯文-杜兰特以1215万美元的价格出售了位于洛杉矶马里布地区的一处海滨豪宅。
+   </p>
+   <p>
+    据《泰晤士报》此前的相关报道，杜兰特去年以1205万美元的价格购买该房产，这栋多层豪宅拥有5100平方英尺（约566平方米）的住宅面积，配套私人通道和三个海景阳台。
+   </p>
+   <p>
+    据一位熟悉杜兰特场外业务的消息人士透露，杜兰特已经在纽约购置了一套新住宅，并将随身物品搬到了那里。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

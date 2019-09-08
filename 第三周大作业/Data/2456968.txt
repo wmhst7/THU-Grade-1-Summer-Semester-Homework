@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美记：利拉德和乐福将在几天内决定是否参加美国队训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1089806/2019/07/22/team-usa-celtics-marcus-smart-jaylen-brown-among-candidates-to-replace-defecting-stars/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 03:30:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美记：利拉德和乐福将在几天内决定是否参加美国队训练营" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/6eb3ace41c9b301a69cd1f4afb51f9c2a220c0a3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 据TheAthletic记者Joe Vardon报道，消息人士透露，开拓者球员达米安-利拉德和骑士球员凯文-乐福预计将在接下来的几天内宣布是否参加美国队训练营及在中国举办的篮球世界杯。
+   </p>
+   <p>
+    此前，安东尼-戴维斯、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆和布拉德利-比尔等球员相继宣布不会代表美国队参加今夏的男篮世界杯，美国男篮训练营还剩下14人，分别是：哈里森-巴恩斯、安德烈-德拉蒙德、达米安-利拉德、凯文-乐福、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、保罗-米尔萨普、多诺万-米切尔、杰森-塔特姆和PJ-塔克。
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德场均上场35.5分钟，得到25.8分4.6篮板6.9助攻1.1抢断；乐福场均上场27.2分钟，得到17分10.9篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

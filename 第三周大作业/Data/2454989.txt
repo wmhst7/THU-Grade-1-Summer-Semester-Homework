@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：沃克是我加盟绿军的原因之一，他给我打了电话
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nydailynews.com/sports/basketball/ny-20190716-dhyk4sb4tndpvc36vsfey34uou-story.html" target="_blank">
+     纽约每日新闻报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 14:51:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：沃克是我加盟绿军的原因之一，他给我打了电话" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/54e694a4f2ec6612212ef1bd3a2d4bf78917760d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 凯尔特人新援埃内斯-坎特在近日接受《纽约每日新闻报》采访时谈到了加盟凯尔特人以及上赛季在开拓者效力的经历。
+   </p>
+   <p>
+    回顾达米安-利拉德在今年季后赛首轮面对保罗-乔治的超远三分绝杀，坎特说：“我记得在我签约波特兰之后第二次或者第三次参加球队训练，就看到达米安在练习那样的投篮。我当时的想法是，‘这家伙在干嘛？’他就是在40英尺（约12.2米）的距离出手投篮，并且能够命中，我当时感觉非常奇怪。当季后赛开始之后，他就真的能够在比赛中命中那种超远距离投篮。”
+   </p>
+   <p>
+    “当他出手那个投篮时，我们都对他非常有信心，因为他在比赛中进行了类似的训练，我认为联盟中只有特雷-杨，斯蒂芬-库里能够命中那样的投篮，其余人不可能做到。”坎特说道。
+   </p>
+   <p>
+    谈到加盟凯尔特人，坎特说：“我选择加盟波士顿的原因之一是肯巴-沃克，他在自由球员市场开启之后给我打了电话，用的是丹尼-安吉的电话，他说，‘嘿，最近怎么样，大个子？’这对于我而言很特别。”
+   </p>
+   <p>
+    谈到对于身体的保养，坎特说：“我将我的身体视为一辆车，你必须给它加最好的燃料，我一直对自己的饮食要求很严格。当我在纽约效力时，我有些像是球队的营养师，我会为每个人提供饮食建议，比如早餐、午餐和晚餐应该吃什么。饮食真的非常重要，特别是在赛季初期，因为如果你想要打满82场比赛，你就必须为身体补充足够的燃料。”
+   </p>
+   <p>
+    据The Athletic记者Shams Charania此前的报道，多位消息人士透露，自由球员埃内斯-坎特与凯尔特人达成一份2年1000万美元的协议，第二年为球员选项。
+   </p>
+   <p>
+    据NBA记者Marc J. Spears报道，消息人士透露，坎特第一年的合同金额为480万美元，第二年的合同金额为500万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼：曾想过加盟公牛，从未拥有过詹姆斯韦德那种环境
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/carmelo-anthony-talks-almost-leaving-knicks-for-bulls-in-2014-more/309647640" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 13:54:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼：曾想过加盟公牛，从未拥有过詹姆斯韦德那种环境" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/6a17aecb19b4f26b53bfb6fe667facaa8465400b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，自由球员卡梅罗-安东尼参加了《First Take》节目。
+   </p>
+   <p>
+    谈到了在2014年进入自由市场后选择留在尼克斯的决定时，安东尼说：“当时我准备加盟公牛，那支球队里有德里克-罗斯和乔金-诺阿。我想要去那里。然后我开始听到背地里的一些议论，像是‘哟，看啊，这个人要离队了，这可不对’，这样那样的。在我考虑做出决定的过程中，这一切一下子开始涌现出来。我不会让任何事情影响我的决定。我最后与尼克斯会面，这是我会面的最后一支球队，因为我知道由于我在尼克斯所应对和经历的，我已经准备要摆脱这种情况了。之后我在与尼克斯的最后一次会面中说‘告诉我你们准备为球队做什么，准备为我们做什么来努力组建一支球队去争胜。’”
+   </p>
+   <p>
+    那次会面中尼克斯承诺了很多事情，之后安东尼决定留队。
+   </p>
+   <p>
+    “我说，你知道吗？因为我应该呆在（belong in）纽约，所以我将与球队一起前进。”
+   </p>
+   <p>
+    谈到自己对从未打进总决赛，特别是在与勒布朗-詹姆斯和德维恩-韦德相比时的感受，安东尼说：“作为一名竞争者，这让我感到‘该死的，发生了什么？为什么不是我？’但是，另一方面，我从未处于那种环境中，我从未拥有过勒布朗-詹姆斯以及德维恩-韦德所拥有过的球队。我从未拥有过很多球星拥有过的球队。（这样的人）总是我。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

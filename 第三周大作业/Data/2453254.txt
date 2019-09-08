@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭曾经尝试让雷霆接受他们2020年的首轮签
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ZachLowe_NBA/status/1149661610518016004" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 21:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭曾经尝试让雷霆接受他们2020年的首轮签" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/99c7373e78758a8da36f3a0cca8c0989afd3176d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，雷霆与火箭达成交易，火箭送出克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    根据NBA记者Zach Lowe的报道，多位消息人士透露，威斯布鲁克渴望与詹姆斯-哈登再次联手，迈克-德安东尼之前在美国男篮国家队执教过威斯布鲁克的经历让火箭完成这笔交易感到更自在。
+   </p>
+   <p>
+    多位消息人士透露，大部分在控卫位置上有空缺的重建球队都没太有兴趣为了获得威斯布鲁克而放弃真正有价值的资产。
+   </p>
+   <p>
+    火箭曾经尝试让雷霆接受他们2020年的首轮签，但是雷霆拒绝了，雷霆想要更往后的选秀权，多位消息人士透露。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

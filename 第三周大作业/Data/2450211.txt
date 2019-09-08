@@ -1,0 +1,102 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [汇总]自由市场第四日签约交易及流言一览
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 15:59:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="[汇总]自由市场第四日签约交易及流言一览" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/16aeda8eeef1cd96a171a540ca294cdfce435bde.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    今日是自由市场正式开启的第四天，一起来看看今天有哪些达成的签约或者交易，又有哪些新的流言。
+   </p>
+   <p>
+    <strong>
+     今日达成协议：
+    </strong>
+   </p>
+   <p>
+    1.达柳斯-米勒：与鹈鹕达成2年1425万美元的续约协议，其中第二年合同为无保障。
+   </p>
+   <p>
+    2.杰克-莱曼：与森林狼达成一份3年价值1150万美元的合同（先签后换）
+   </p>
+   <p>
+    3.马基夫-莫里斯：与活塞达成一份两年740万美元的合同
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/5206c948afd8453a2b98dfcae8265ef9.png"/>
+   </p>
+   <p>
+    4.博班-马里亚诺维奇：与独行侠达成一份两年700万的合同
+   </p>
+   <p>
+    5.TJ-麦康奈尔：和步行者达成一份两年700万的合同
+   </p>
+   <p>
+    6.劳尔-内托：和76人达成一份一年受保障的底薪合同
+   </p>
+   <p>
+    <strong>
+     今日达成交易：
+    </strong>
+   </p>
+   <p>
+    1.灰熊将钱德勒-帕森斯交易至老鹰，得到所罗门-希尔和迈尔斯-普拉姆利
+   </p>
+   <p>
+    2.开拓者将杰克-莱曼以先先签后换的方式交易至森林狼，得到一个交易特例（莱曼与森林狼达成一份3年价值1150万美元的合同）。
+   </p>
+   <p>
+    3.Woj：灰熊送出科沃尔，从太阳换来约什-杰克逊等筹码；太阳计划买断科沃尔，湖人、76人、雄鹿对其有意
+   </p>
+   <p>
+    <strong>
+     其他关键新闻：
+    </strong>
+   </p>
+   <p>
+    <strong>
+     ​
+    </strong>
+    1.伦纳德尚未做出决定，三支球队均没有出局。
+   </p>
+   <p>
+    2.Stein：考辛斯聘请杰夫-施瓦茨为经纪人。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/0027d1afb2e05abc370719fdcb4b2cd6.png"/>
+    ​
+   </p>
+   <p>
+    3.勇士撤回了对奎因-库克的资质报价，使他成为完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

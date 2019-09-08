@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰里-韦斯特：火箭不够出色无法击败勇士，德帅不该为此负责
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1145144898263408645" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:27:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰里-韦斯特：火箭不够出色无法击败勇士，德帅不该为此负责" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/4a74d1b6715533b61c3d2f177232cd5b7b964b2d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 杰里-韦斯特在接受采访时表达了自己对火箭主帅迈克-德安东尼的支持。
+   </p>
+   <p>
+    “如果你看看他执教战绩的话，那一直都是无可挑剔的，当你没能取胜的时候，所有教练都成了可以被替换的人，批评者会发表他们的看法，但是看看他的执教战绩吧。”韦斯特说道。
+   </p>
+   <p>
+    韦斯特接着说：“在征程里，如果你被一支更好的球队击败，这没事，火箭尽力了，他们没能成功，但是看着德安东尼说他该为此负责，不可能，火箭只是不够出色，无法击败勇士。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

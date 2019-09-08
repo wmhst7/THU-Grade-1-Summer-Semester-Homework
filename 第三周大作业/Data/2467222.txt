@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼利基纳更新社媒晒出个人帅照：艰难的时光鼓舞着我前行
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Wtg1dCSjL/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 08:54:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼利基纳更新社媒晒出个人帅照：艰难的时光鼓舞着我前行" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/8dfec2e61a68a65db1a7d0295e4e35a4186e4be1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 今日，尼克斯后卫弗朗克-尼利基纳更新了个人社交媒体Instagram晒出一张个人帅照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“艰难的时光鼓舞着我前进。”
+   </p>
+   <p>
+    根据此前消息报道，尼利基纳入选了2019FIBA男篮世界杯法国男篮国家队初选名单。
+   </p>
+   <p>
+    2018-19赛季常规赛，尼利基纳场均出场21.0分钟，可以得到5.7分2.0篮板2.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯评当今联盟前五二人组：詹姆斯和戴维斯领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/KendrickPerkins/status/1159517202401452032" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 01:06:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯评当今联盟前五二人组：詹姆斯和戴维斯领衔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/786ba4d2e5bfdc2629b721f708ccc4e8e8a9bab6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今日，前NBA球员肯特里克-帕金斯更新个人推特，评出了自己心目中当今联盟的前五二人组：
+   </p>
+   <p>
+    第一名：勒布朗-詹姆斯和安东尼-戴维斯
+   </p>
+   <p>
+    第二名：詹姆斯-哈登和拉塞尔-威斯布鲁克
+   </p>
+   <p>
+    第三名：科怀-伦纳德和保罗-乔治
+   </p>
+   <p>
+    第四名：斯蒂芬-库里和克莱-汤普森
+   </p>
+   <p>
+    第五名：达米安-利拉德和CJ-麦科勒姆
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  记录美好时刻！掘金后卫比斯利今日更新社媒晒出灌篮照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzb_lJnnyoZ/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 14:56:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="记录美好时刻！掘金后卫比斯利今日更新社媒晒出灌篮照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/4953589f89db7187789d8efc48b18194ebf61999.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今日，掘金后卫马利克-比斯利更新个人社交媒体Instagram，晒出了一张自己在赛场灌篮的照片（见新闻配图）。
+   </p>
+   <p>
+    比斯利配文道：“相机表情。”
+   </p>
+   <p>
+    2018-19赛季常规赛，比斯利场均上场23.2分钟，可以贡献11.3分2.5篮板1.2助攻0.68抢断。本赛季季后赛场均上场20分钟，得到8.1分3.4篮板1.0助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/14/391ff24b16bae8b13437c57b8a36eb30.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

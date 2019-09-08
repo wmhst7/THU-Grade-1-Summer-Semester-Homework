@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在被勇士淘汰后，卡佩拉的路虎揽胜被人故意破坏
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1060029/2019/07/02/the-ikosystem-a-clint-capela-conundrum-plus-solving-houstons-free-agent-puzzle/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 06:56:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在被勇士淘汰后，卡佩拉的路虎揽胜被人故意破坏" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/b3c3e50168ee340efdf01608108bbacafa513e8e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据The Athletic记者Kelly Iko的报道，在火箭2018-19赛季季后赛被勇士淘汰后，因为克林特-卡佩拉在与勇士系列赛里表现不如人意，很多球迷要求球队交易卡佩拉，并且认为卡佩拉的合同是在浪费球队的钱。
+   </p>
+   <p>
+    在与勇士的系列赛之前，卡佩拉曾表示，他想与勇士对决，但是最终在与德雷蒙德-格林和凯文-卢尼的对位里表现不佳。
+   </p>
+   <p>
+    两位卡佩拉身边的消息人士透露，在2018-19赛季季后赛火箭与勇士第六场结束后，卡佩拉的路虎揽胜被人故意破坏。
+   </p>
+   <p>
+    卡佩拉的路虎揽胜车玻璃损坏，车身侧面的金属板被撕裂，并且车身被划。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  联盟高管谈大批球星退出世界杯：篮球世界杯比不上奥运会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://basketball.realgm.com/analysis/255028/2019-Western-Conference-Offseason-Chatter-From-Summer-League" target="_blank">
+     RealGM
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 09:13:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="联盟高管谈大批球星退出世界杯：篮球世界杯比不上奥运会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190729/ce1624ab7f57f76a4b8b65256463144443e898a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 RealGM记者Keith Smith近日发文总结了他在夏季联赛期间收集到的部分联盟高管、教练等业内人士对于今夏NBA动向的看法。以下为涉及全联盟范围议题的部分言论：
+   </p>
+   <p>
+    关于招募引诱：“我们都这么做，但这个夏天情况失控了。我们都很喜欢下午6点开启自由市场的改革，特别是对于东海岸球队而言。但事情提前一天就被搞定，感觉还是有点不可理喻。如果你只是私下谈妥不要公开，那没关系。然而当你提前一天就开始公开泄露消息时，很容易理解为何联盟对此感到担忧。”
+   </p>
+   <p>
+    教练们谈比赛规则引入挑战裁判判罚的体系：“我们会看看成效如何。我想说，我们也希望判罚被更正，但这里面存在人性元素。如果你挑战同一名裁判太多次，你会接受激怒他的风险吗？而且你也知道联盟不希望比赛时间被拖长。但能有一项更正举措也是好事。”
+   </p>
+   <p>
+    关于大批球员退出今年的篮球世界杯：“我并不惊讶。这不是足球，就篮球界而言，世界杯比不上奥运会，重要性不可相提并论。当所有球队相比前一个月都面目全非之时，球员们想要专注于新赛季。我知道我们的老板和教练对于我们的球员留在家里都感到高兴。我们需要尽可能多的磨合时间。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

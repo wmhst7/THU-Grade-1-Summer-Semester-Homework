@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  纳斯：我很兴奋能执教加拿大男篮，球队需要打出团队篮球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Paul__Jones/status/1158420880361308161" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 09:41:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="纳斯：我很兴奋能执教加拿大男篮，球队需要打出团队篮球" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/2e1ab87ebbfc94910ab3b85f890b0ba227c10fac.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 加拿大男篮今日举行了训练营，主教练尼克-纳斯接受了媒体采访。
+   </p>
+   <p>
+    “我很兴奋能够获得执教加拿大男篮的机会，我喜欢这支球队的素养和篮球智商，在经过了第一天的训练之后，我看到了球员们的无私。”纳斯说道。
+   </p>
+   <p>
+    纳斯同时表示，加拿大男篮需要打出团队篮球风格，球队目前缺少单打点。
+   </p>
+   <p>
+    加拿大男篮将于当地时间8月7日和8月9日举行两场热身赛，随后前往澳大利亚参加热身赛。本届世界杯，加拿大与塞内加尔、立陶宛和澳大利亚同处H组，北京时间9月1日小组赛揭幕战，加拿大将在东莞对阵澳大利亚。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

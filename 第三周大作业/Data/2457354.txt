@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米切尔：无论美国队中有谁，我们都会为祖国而战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/23/donovan-mitchell/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 08:27:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米切尔：无论美国队中有谁，我们都会为祖国而战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/0e66b65ffcfa9b36f85cfee48e851907ebe7300e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 根据TMZ体育的报道，爵士的多诺万-米切尔接受采访时谈到了多个方面。
+   </p>
+   <p>
+    谈到与迈克-康利的后场组合，米切尔说：“我不会太激动，情况就是这样，我们要准备好努力工作。”
+   </p>
+   <p>
+    谈到新赛季的爵士，米切尔说：“就是打出我们的风格，不要担心其他的事情，否则会搞砸。”
+   </p>
+   <p>
+    谈到多人退出美国男篮训练营，米切尔说：“我现在担心的一切就是自己能进入球队，打出最好的表现，最终，我们队中有谁不重要，我们会为祖国竞争，我对打球感到兴奋。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

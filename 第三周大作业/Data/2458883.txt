@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾顿晒个人生活照：我的世界与众不同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0bKCignI8F/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 10:10:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾顿晒个人生活照：我的世界与众不同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/6301e82705cdfd45041f33530e4d8ce12aeca42b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 菲尼克斯太阳队中锋德安德烈-艾顿今天在个人Instagram上传了一张自己靠在车前的照片（见新闻配图）。
+   </p>
+   <p>
+    “我的世界与众不同。”艾顿写道。
+   </p>
+   <p>
+    艾顿在2018年选秀大会上被太阳在首轮第1顺位选中，2018-19赛季常规赛，他场均出场30.7分钟，得到16.3分10.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：湖人和詹姆斯总是舆论焦点，我喜欢执教热门球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/07/24/lakers-frank-vogel-lebron-james-magic-johnson-clippers-warriors?utm_campaign=sinow&amp;utm_medium=social&amp;xid=socialflow_twitter_si&amp;utm_source=twitter.com&amp;__twitter_impres" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 12:10:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：湖人和詹姆斯总是舆论焦点，我喜欢执教热门球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190725/1e2628a7a30c34aa1ffef74a7d9692fac95757a4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 湖人主帅弗兰克-沃格尔近日接受《体育画报》专访谈到了关于执教勒布朗-詹姆斯以及湖人的一些话题。
+   </p>
+   <p>
+    沃格尔曾经率领步行者连续两年在东部决赛与詹姆斯效力的热火相遇。谈到即将执教湖人和詹姆斯的感受时，沃格尔说：“湖人一向处于大众关注度的最前线，而无论勒布朗前往哪支球队，那里都将成为舆论焦点。我获取过的最佳经验就是跟勒布朗在分区决赛中交过手，因为那时的情况完全就是那样的。当时我说出去的每一个词都被全世界拷问，被推特，被Sports Center节目各种审视。”
+   </p>
+   <p>
+    “如今湖人也将面临类似情形，”沃格尔说，“我也不是没经历过这种事，但这就是这份工作的一部分。我能理解。我不认为其中存在什么消极之处。我喜欢我们的球队将被人们热议，在执教过一些小球会后，我喜欢我们球队本赛季将被视为联盟中的夺冠热门之一。之前我执教的球队都是黑马类型的，所以我喜欢被人视为热门球队之一。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰迈克尔-格林更新社媒晒出个人赛场照：等不及回到这里
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1bd6hsF6vt/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:26:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰迈克尔-格林更新社媒晒出个人赛场照：等不及回到这里" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/81296f32d71b68650e1b9e072a072cd840a0e613.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 今日，快船前锋杰迈克尔-格林更新了个人社交媒体Instagram晒出一张个人赛场照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“等不及回到这里。”
+   </p>
+   <p>
+    2018-19赛季常规赛，杰迈克尔-格林场均出场21.1分钟，可以得到9.4分6.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

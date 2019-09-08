@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  澳大利亚国家篮球联赛悉尼国王队宣布正式签下博古特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SydneyKings/status/1153488222099365890" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 11:43:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="澳大利亚国家篮球联赛悉尼国王队宣布正式签下博古特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/9b33f79c2ffcb1630faf3a4dccc46c13ff254182.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 近日，NBL（澳大利亚国家篮球联赛）球队悉尼国王队宣布正式签下前勇士中锋安德鲁-博古特。
+   </p>
+   <p>
+    球队官方推特发布了一张博古特身着悉尼国王队队服的照片，并配文：“他回来了……在NBL休赛期效力于NBA勇士队后，澳大利亚国家篮球联赛MVP安德鲁-博古特在今晨正式与NBL悉尼国王队签约，将出战2019-20赛季。兴奋起来吧悉尼队球迷们，这将会是重大的一年。（王冠表情）”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/11/b46d0af1ff02b5eab350dc536bbd3aca.jpg"/>
+   </p>
+   <p>
+    2018-19赛季NBL常规赛，安德鲁-博古特荣获了MVP和DPOY两个奖项。博古特代表国王队出场了28场比赛（27场首发），场均出场29.6分钟，得到11.6分11.7篮板3.5助攻2.7盖帽。
+   </p>
+   <p>
+    2018-19赛季NBA常规赛，安德鲁-博古特出场了11场比赛，场均出场12.2分钟，得到3.5分5.0篮板1.0助攻，季后赛场均出场9.4分钟，得到2.7分3.9篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

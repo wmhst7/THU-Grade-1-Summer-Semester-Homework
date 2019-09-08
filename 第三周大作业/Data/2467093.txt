@@ -1,0 +1,67 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA新秀调查之最喜欢的球员：詹姆斯第一，KD第二
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/2019-20-nba-rookie-survey" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 01:06:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA新秀调查之最喜欢的球员：詹姆斯第一，KD第二" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/a4bb1b2f6d98aa20356725598d70a3449eafcebb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 NBA官网近日对本届通过选秀进入联盟的42位新秀进行了问卷调查，各位新秀将就一系列问题投票给出自己的选择。部分调查结果如下：
+   </p>
+   <p>
+    <strong>
+     联盟中你最喜欢的球员是谁？
+    </strong>
+   </p>
+   <p>
+    1 勒布朗-詹姆斯（湖人），得票率38%；
+   </p>
+   <p>
+    2 凯文-杜兰特（篮网），20%；
+   </p>
+   <p>
+    3 科怀-伦纳德（快船），8%；达米安-利拉德（开拓者），8%；
+   </p>
+   <p>
+    5 德文-布克（太阳），5%；詹姆斯-哈登（火箭），5%。
+   </p>
+   <p>
+    其余得到选票的球员：贾马尔-克劳福德，凯文-加内特，保罗-乔治（快船），CJ-麦科勒姆（开拓者），史蒂夫-纳什，帕斯卡尔-西亚卡姆（猛龙），拉塞尔-威斯布鲁克（火箭）。
+   </p>
+   <p>
+    去年的调查结果：勒布朗-詹姆斯以29%的得票名列第一。在NBA官网对该问题过去十年的调查历史中，仅有三位球员曾经当选过最受新秀喜爱的球员，他们分别是勒布朗-詹姆斯，凯文-杜兰特和科比-布莱恩特。今年标志着詹姆斯第4次当选该头衔，也让他超越了同为3次当选的杜兰特与科比独居第一位。
+   </p>
+   <p>
+    历年最受新秀喜爱的球员调查结果回顾：2007年，科比-布莱恩特（24%得票率）；2010年，科比-布莱恩特（38%）；2012年，勒布朗-詹姆斯（31%）；2013年，科比-布莱恩特（15%）；2014年，凯文-杜兰特（25%）；2015年，凯文-杜兰特（21%）；2016年，凯文-杜兰特（30%）；2017年，勒布朗-詹姆斯（32%）；2018年，勒布朗-詹姆斯（29%）；2019年，勒布朗-詹姆斯（38%）。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：西部有6支球队真的真的很强，新赛季会是一场恶战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SalmanAliNBA/status/1157014298138435585" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 07:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：西部有6支球队真的真的很强，新赛季会是一场恶战" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/a814892ec8e4cbd640ca2dd0f4d203b7f2aff115.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 火箭总经理达雷尔-莫雷作客节目时谈到了多个方面。
+   </p>
+   <p>
+    谈到西部，莫雷说：“西部有6支真的真的很强大的球队，实力都很接近，如果你看看赌城的赔率，都差不多，会是一场恶战，这会很有意思。”
+   </p>
+   <p>
+    那么莫雷认为火箭排名多少？莫雷说：“第一，100%的。”
+   </p>
+   <p>
+    “保罗和威少是不同的球员，德安东尼的体系，我认为是最好的体系之一，抓住球员的优势，然后在场上利用出来，他会为了球员改变，我认为在我们的构建下，还有德安东尼想让威少做的那些事情，会很不错的。”莫雷说道。
+   </p>
+   <p>
+    莫雷接着说：“当我们之前交易得到保罗的时候，人人都说这不会成功，这是相似的，这会成功的，威少在他的新闻发布会上自己都在说他会如何调整，我们没有要求他改变，他想到了自己之前与哈登打球的时候，移动和切入什么的，为了赢球，他们会做任何事情。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

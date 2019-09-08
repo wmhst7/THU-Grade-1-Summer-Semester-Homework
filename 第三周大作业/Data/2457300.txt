@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉森谈签约Jordan品牌：渴望拥有乔丹般的影响力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickDePaula/status/1153709550802837510" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 01:31:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉森谈签约Jordan品牌：渴望拥有乔丹般的影响力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/dfd65ed13d944396db4cbcac3b1653e9bc7cba15.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 今日，鹈鹕前锋蔡恩-威廉森正式宣布自己与Jordan品牌完成签约，成为其签约球员。他在接受媒体采访时，谈及自己的感受。
+   </p>
+   <p>
+    “能成为Jordan品牌家族旗下的运动员，我感到非常荣幸，” 威廉森说，“在很小的时候，我就梦想能成为NBA联盟中的一员，渴望拥有如同迈克尔-乔丹一样经久不息的影响力，他是我最仰慕的伟大运动员之一，能与Jordan品牌携手踏上我的职业旅程，我感到无比兴奋与喜悦。”
+   </p>
+   <p>
+    迈克尔-乔丹也给予了威廉森高度评价：“威廉森无比坚定的决心，以及他的人格魅力和个人能力，都是令人振奋的。他是众多能够真正代表Jordan品牌未来的新星之一。他告诉我们，他将要努力通过场上的表现‘让世界颤抖（Shock The World）’，希望我们对他保持信心，而这正是我们所坚信的。”
+   </p>
+   <p>
+    威廉森出生于2000年7月6日，在2019年第1轮第1顺位被鹈鹕选中。上赛季威廉森效力于NCAA的杜克大学，上赛季他场均22.6分领跑ACC（大西洋海岸联盟），在NCAA所有联盟里排名第15；投篮命中率68%在ACC排名第1，在NCAA排名第2。场均3.5进攻篮板在ACC排名第1，在NCAA排名第9。这位一年级的新生带领球队获得ACC联盟的冠军，打进NCAA锦标赛精英八强。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

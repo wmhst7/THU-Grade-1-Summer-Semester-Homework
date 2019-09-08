@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  体能训练！训练师分享戴维斯折返跑连续完成负重扣篮画面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/p/B0b0lQenwcA/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 13:13:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="体能训练！训练师分享戴维斯折返跑连续完成负重扣篮画面" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/17b711b8976d33752d1da4d48b9dcd0cd91752cf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 训练师Mike G今日在个人Instagram上分享了一段指导湖人前锋安东尼-戴维斯进行体能训练的视频。
+   </p>
+   <p>
+    “体能训练。”这位教练写道。根据训练画面，戴维斯身穿一件负重背心，在赛场两个底角之间连续折返跑并完成了十几次扣篮。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4398927803475635">
+     视频：戴维斯折返跑负重扣篮训练
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/13/3e2a6e1fd7bcc18bc79045755a664599.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/13/d700b1aac601d52e6042a66dccb8f4b3.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

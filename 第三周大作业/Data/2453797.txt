@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：如今的比赛不太区分位置，场上放5个人就能打球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/platform/amp/2019/7/13/20693254/lakers-anthony-davis-doesnt-want-play-center-rob-pelinka-introduction-stats-lebron-james-star-power?utm_campaign=hmfaigen&amp;utm_conten" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 12:55:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：如今的比赛不太区分位置，场上放5个人就能打球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/5f645870af0c8264f526fa42ef9f1a0b08552df6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 湖人前锋安东尼-戴维斯今日在发布会上接受采访谈到了加盟湖人一事。
+   </p>
+   <p>
+    “我想掌控我的生涯，”戴维斯说，“总有人告诉我应该做这个应该做那个，我只是听从他们。我很年轻，我感觉这个人最为我着想或者别的什么。不过随着我年龄渐长，阅历丰富，我就会有那种‘我不想那么做，我想这样做’的想法。只要我在晚上可以安然入睡，接受我的决定，那么我就是快乐的，不在意其他人的想法。我身边有出色的团队，我可以向他们询问事情的进展，他们会给我一些很好的建议，最终，我会安然接受我的决定。”
+   </p>
+   <p>
+    关于自己喜欢打的场上位置，戴维斯说：“我喜欢打4号位，我不会掩饰这一点。我不是很喜欢打5号位。”不过戴维斯很快又向身边的沃格尔教练表态：“不过说到底，教练，如果你需要我打5号位，我就会打5号位。”
+   </p>
+   <p>
+    “比赛已经变得如此不区分位置了，”戴维斯说，“你可以随便在场上放5个人也能打比赛。你们也能看到勒布朗（詹姆斯）打控卫的场面，当然他是一个个子很高的控卫。所以这个问题不重要了，你把5个风格最匹配的人派上场，努力赢球就行。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

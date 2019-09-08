@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人2019-20赛季复刻版球衣出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/darrenrovell/status/1156950531119566848" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 23:49:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人2019-20赛季复刻版球衣出炉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/84bc8824b7b7c7dc87a5ba8ff2a917b84043af14.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 根据NBA记者Darren Rovell今天报道，76人已经推出了球队2019-20赛季复古版球衣。
+   </p>
+   <p>
+    这款球衣是76人1970-71赛季球衣的复刻版，下赛季76人球员会在一些比赛中身着这款球衣出战。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/23/a0be042edb5821bfe530ce646c3c39f2.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/23/39015cdfd2354af05c1318f3d8414ac1.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190801/23/f6b1452fb4a6d39a16a49ba6a210f502.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

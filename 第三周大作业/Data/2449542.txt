@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯谈加盟奇才：机会！那就是我想要的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/davidaldridgedc/status/1146039510708424704" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 21:18:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯谈加盟奇才：机会！那就是我想要的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/4c3146225649ee916fc06bacb90f552bad124458.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据此前消息报道，后卫以赛亚-托马斯与奇才达成1年协议。随后，小托马斯接受了记者David Aldridge的采访。
+   </p>
+   <p>
+    在谈及自己为何加盟奇才时，小托马斯表示：“机会！那就是我想要的，我会把剩下的事情做好。”
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯场均出场15.1分钟，可以得到8.1分1.1篮板1.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

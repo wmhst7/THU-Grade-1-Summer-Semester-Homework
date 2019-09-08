@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  默里致詹姆斯：你是我大哥，你是历史最佳，但我没输过你
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1NMMM5nk7b/?igshid=1xytp7z692ayh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 16:30:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="默里致詹姆斯：你是我大哥，你是历史最佳，但我没输过你" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/f779f9bfc8e53b729112f1ef8c715ffa30e5d309.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 马刺后卫德章泰-默里今日在Instagram上发布他和湖人前锋勒布朗-詹姆斯的赛场合照，并向詹姆斯致敬。
+   </p>
+   <p>
+    “想起这些仍让我感到疯狂，自打@勒布朗-詹姆斯 是个新秀起，他就是我最爱的球员，然后他变成了我的大哥，我有什么事都可以请教他！#历史最佳 对了，我还从来没有输给过你呢，而且我期待着很快可以面对你再添胜绩！”默里写道。
+   </p>
+   <p>
+    默里因伤缺席整个2018-19赛季的比赛，在其职业生涯前两个赛季与詹姆斯此前所在的骑士的3次对阵中，马刺取得全胜。2018-19赛季，马刺面对詹姆斯领衔的湖人共取得3胜1负的交手战绩。根据新赛季的赛程安排，马刺与湖人的首次交手出现在北京时间11月4日上午8点，届时湖人将客场挑战马刺。
+   </p>
+   <p>
+    对此詹姆斯评论道：“我的小兄弟，无论何时我都会照顾你的！你知道我们是什么交情！哦，好吧，那就是你的感受？呵呵。（闭嘴+生气+王冠的表情组合）”
+   </p>
+   <p>
+    而默里回复道：“永远都爱你，兄弟！还有11月3日哦！（马刺湖人新赛季首次交手日期）（生气+手表表情）哈哈哈哈哈哈”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/16/6eb26d9e34697325c383376dad85b05a.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

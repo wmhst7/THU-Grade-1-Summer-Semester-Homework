@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：开拓者以1年260万与安东尼-托利弗达成协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145916514517815297" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 12:47:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：开拓者以1年260万与安东尼-托利弗达成协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/ff952a4fe58030f79e3d4f9e8544e86184899138.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据The Athletic记者Shams Charania报道，联盟消息人士透露，开拓者以1年260万与自由球员安东尼-托利弗达成协议。
+   </p>
+   <p>
+    托利弗将在开拓者阵中发挥其作为一个大个球员所具备的远距离投射能力。
+   </p>
+   <p>
+    2018-19赛季常规赛，托利弗代表森林狼出场65次，场均出场16.6分钟，得到5.0分2.7篮板，场均命中1.2记三分，三分命中率为37.7%。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

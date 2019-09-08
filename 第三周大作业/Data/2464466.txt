@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉森：巴雷特是一位杀手，拥有自己的球星卡很酷
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/zion-williamson-says-knicks-are-getting-a-killer-in-rj-barrett/309897160" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 08:46:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉森：巴雷特是一位杀手，拥有自己的球星卡很酷" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/148561761b1cf3df19f22cf4a3e1e523b683690f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 近日，鹈鹕球员蔡恩-威廉森参加了球星卡公司的NBA新秀摄影活动，期间接受了采访。
+   </p>
+   <p>
+    谈到RJ-巴雷特时，威廉森说：“尼克斯球迷们可以期待他们得到了一名杀手。一些人试图看轻他，而他经历过更糟糕的情况，他知道如何努力克服这种困难，他将带给纽约他所拥有的一切。”
+   </p>
+   <p>
+    谈到球星卡时，威廉森说自己从小到大最喜欢的球星卡是NFL球星巴里-桑德斯的球星卡。威廉森还说：“拥有自己的球星卡真是酷毙了。过去我会收集一些球星卡，现在我拥有我自己的球星卡了。我看到我的球星卡时所做的第一件事就是把卡翻过来，看上面的数据和信息。我的感受是：‘那是我。’那真是酷毙了。”
+   </p>
+   <p>
+    威廉森在今年选秀大会上于首轮第1顺位被鹈鹕选中，大一赛季威廉森在NCAA场均上场30.0分钟，得到22.6分8.9篮板2.1助攻2.12抢断1.79盖帽。
+   </p>
+   <p>
+    巴雷特在今年选秀大会上于首轮第3顺位被尼克斯选中，大一赛季巴雷特在NCAA场均出战35.3分钟得到22.6分7.6篮板4.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

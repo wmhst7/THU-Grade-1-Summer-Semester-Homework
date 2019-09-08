@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  里奥格兰德河谷毒蛇队主帅约瑟夫-布莱尔加盟76人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rockets_Insider/status/1144009260738711557" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 07:18:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="里奥格兰德河谷毒蛇队主帅约瑟夫-布莱尔加盟76人" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/23f070e2d01a1592b48d553df5d931d559ce68da.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据The Athletic记者Alykhan Bijani的报道，火箭在发展联盟的附属球队里奥格兰德河谷毒蛇队主帅约瑟夫-布莱尔已经加盟76人，他将在76人担任助教。
+   </p>
+   <p>
+    在2018-19赛季，布莱尔带领里奥格兰德河谷毒蛇队拿到了发展联盟的总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

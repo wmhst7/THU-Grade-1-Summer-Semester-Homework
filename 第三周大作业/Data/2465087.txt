@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦基：众多优秀球员齐聚湖人，感觉管理层开了2K作弊器
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/8/11/20801139/lakers-news-javale-mcgee-nba-western-conference-playoffs-race-house-of-highlights" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 01:05:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦基：众多优秀球员齐聚湖人，感觉管理层开了2K作弊器" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/2534c62ef5754d298a93ab26f8e301800bc2059f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 近日，湖人中锋贾维尔-麦基接受了媒体采访，谈及球队出色的阵容深度。
+   </p>
+   <p>
+    “我感觉球队管理层，就像在2K游戏里一样，开了作弊器，然后把一群出色的球员都汇聚到了同一支队伍里。”麦基说道。
+   </p>
+   <p>
+    “一切都将进展顺利，我感觉我们将一起走得很远。”麦基补充道。
+   </p>
+   <p>
+    麦基今夏以2年820万美元与湖人达成续约，其中第二年为球员选项。
+   </p>
+   <p>
+    湖人今夏先后补充了安东尼-戴维斯、德马库斯-考辛斯、埃弗里-布拉德利、丹尼-格林、贾里德-杜德利、奎因-库克、特洛伊-丹尼尔斯等球员，并与肯塔维厄斯-考德威尔-波普、拉简-隆多完成续约。
+   </p>
+   <p>
+    麦基去年底薪加盟湖人，2018-19赛季常规赛，场均出场22.3分钟，得到12.0分7.5篮板0.7助攻2.0盖帽0.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

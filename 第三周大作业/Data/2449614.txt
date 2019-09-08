@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Windhorst：伦纳德将会面猛龙，关于他的流言都不可信
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 01:01:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Windhorst：伦纳德将会面猛龙，关于他的流言都不可信" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/0ee1718dfdd8fe5a386d44b225de93bda020abf4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今天，知名记者Brian Windhorst在一档节目中透露，目前网上关于自由球员科怀-伦纳德的所有流言都不可信。
+   </p>
+   <p>
+    他说道：“伦纳德答应与猛龙最后见面，双方还没有见面，这是我唯一能说的。现在网上有很多关于伦纳德的流言，我只能说不要相信任何一条，因为伦纳德阵营选择把所有事情保密，即使是最好的ESPN记者也不能挖到任何信息，更何况是其他人。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

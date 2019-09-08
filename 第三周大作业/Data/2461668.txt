@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔：我相信凯文-杜兰特能够满血回归
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.netsdaily.com/2019/8/4/20753705/john-wall-on-kevin-durant-injury-i-dont-like-to-talk-about-other-team-doctors-but" target="_blank">
+     NetsDaily
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 23:32:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔：我相信凯文-杜兰特能够满血回归" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/4342f4d746096ba0e054b0070ab5af4123d2b45a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 今日，奇才后卫约翰-沃尔接受了采访，谈及了自己的好友凯文-杜兰特的伤势。
+   </p>
+   <p>
+    在谈到杜兰特的伤势时，沃尔表示：“我不想谈论其他球队的队医，但是观察一下杜兰特，在第五场比赛之前，如果你看他冰疗的部位，或者他受伤的时候，你就知道他跟腱有些不适。我知道小腿拉伤是什么样的，我也知道跟腱受伤是什么样的。”
+   </p>
+   <p>
+    沃尔表示一开始就能够判断出杜兰特是跟腱受伤：“回想起来他受伤的那个瞬间，我就知道这是跟腱受伤。我无法判断那些医生说了些什么。但如果你看看他腿部冰疗的地方，你会发现他一直都是跟腱受伤。”
+   </p>
+   <p>
+    “我的队友谢尔顿·麦克也曾以同样的方式伤过他的跟腱，当他做出同样的动作时，我就知道那是什么了，”沃尔说道。
+   </p>
+   <p>
+    沃尔表示他已经和杜兰特联系过了，他相信最终他会好起来的。
+   </p>
+   <p>
+    “我一直在和凯文交谈，我们是很好的朋友。他恢复的很棒，他对康复过程很有耐心。”沃尔说。“我不知道具体的情况，我只希望他一切顺利，他是最棒的球员之一。不管他是否跟腱受伤，这都不会影响到他，因为它总是可以随心所欲的得分。”沃尔说。
+   </p>
+   <p>
+    杜兰特正在洛杉矶进行康复治疗，他的朋友在Instagram上发布了最新的视频，在视频中，杜兰特似乎康复的很好，不用拐杖走路，甚至能运球。
+   </p>
+   <p>
+    在今年总决赛的第五场比赛里，杜兰特遭遇右脚跟腱断裂，随后接受了手术，预计将缺席2019-20赛季的全部比赛。
+   </p>
+   <p>
+    2018-19赛季，杜兰特常规赛代表勇士出场78次，场均34.6分钟可以得到26.0分6.4篮板5.9助攻；季后赛出场12次，场均36.8分钟可以得到32.3分4.9篮板4.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

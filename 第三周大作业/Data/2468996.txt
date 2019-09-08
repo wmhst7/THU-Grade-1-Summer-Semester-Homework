@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔：为了尼克斯全心全意，全队要团结一心全神贯注
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/knicks-qa-julius-randle-looks-ahead-to-2019-season/310263478" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 13:37:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔：为了尼克斯全心全意，全队要团结一心全神贯注" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/b33692a01d2786bd688828ac628b8c45add37d28.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 近日，尼克斯球员朱利叶斯-兰德尔接受了SNY的采访。
+   </p>
+   <p>
+    谈到自己对尼克斯球迷有何保证时，兰德尔说：“我只想每晚都做出贡献。我不会对数据做出保证，我不会对任何事情作出保证，我只会每晚都做出贡献，尽我所能帮助我的球队取胜，我将提升球技。你永远不需要质疑我的担当和努力，你永远不需要质疑我的心思放在哪里。我全心全意地为了这支球队以及这座城市。事情就是这样。
+   </p>
+   <p>
+    谈到对尼克斯下赛季的期望时，兰德尔说：“我认为我们会好的，我认为我们将有出色的表现，我不会谈论太多我们将要做的事，我们只会去践行。但是我认为我们会成为一支优秀的球队。我们的阵容深度很深，有很多可以上场打球的球员。媒体和外界大可有他们想要的预期，我们随他们去，但是在我们球队内部，我们知道我们想要做什么。要想做到我们想做的唯有不断努力，我对此感到兴奋。”
+   </p>
+   <p>
+    谈到尼克斯被低估的状况时，兰德尔说：“我可以看到这一点。作为一支球队我们可以看到这种不被看好的状况，但我不太在意。我不担心别人对我们的预期。我了解我们的球队，这才是重要的。而不是这里的某个人在说什么……球队所有人要团结一心，全神贯注，接收教练的观点，对彼此负责。无论你的上场时间是多是少，得分是多是少，你为球队的胜利，做出了怎样的贡献？这才是重要的。”
+   </p>
+   <p>
+    今夏，兰德尔与尼克斯签下了一份3年6300万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

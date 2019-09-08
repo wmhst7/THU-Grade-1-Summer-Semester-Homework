@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季新气象！奇才主场首都一号球馆更新内饰
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WashWizards/status/1163502635783262211" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 01:34:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季新气象！奇才主场首都一号球馆更新内饰" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/be7eaab8dd58994b39878e4bba9996bd2f0a7bc6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 今日，奇才主场首都一号球馆的官方推特发布一组球馆内饰更新的图片。随后奇才官方推特账号转发了这一条内容。
+   </p>
+   <p>
+    首都一号球馆推特配文：“辞旧迎新！请继续关注Capital One Arena的装修阶段的更新！”
+   </p>
+   <p>
+    2018-19赛季，奇才以32胜50负的战绩排在东部第11。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/01/fb97003efbafd54509da7255ddb66479.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克盛赞福克斯：他让速度很快的球员看上去也不那么快了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.talkbasket.net/50309-kemba-walker-on-deaaron-fox-the-thing-about-him-is-hes-fast-but-really-under-control" target="_blank">
+     TalkBasket.net
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 08:16:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克盛赞福克斯：他让速度很快的球员看上去也不那么快了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/632dad160bf5eb8d1937bc2b51e17e296f810545.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 近日，美国男篮后卫肯巴-沃克接受了媒体采访，谈及他的前国家队队友、国王后卫达龙-福克斯出色的速度。
+   </p>
+   <p>
+    “他真的超级快，他的速度简直太疯狂了，他从球场一端飞奔到另一端的速度简直太荒谬了。他让那些速度很快的球员看上去也不那么快了。如果他在未来能变得更快，那将是太恐怖了。”沃克说道。
+   </p>
+   <p>
+    “真正厉害的是，他速度很快，但他依然能对自己的身体掌控自如。”沃克补充道。
+   </p>
+   <p>
+    此前根据NBA记者Chris Haynes的报道，联盟消息源称，国王后卫达龙-福克斯将退出美国队，专注于下赛季，目标打进季后赛。
+   </p>
+   <p>
+    目前美国队初选阵容还剩下13人，分别为德里克-怀特、哈里森-巴恩斯、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、马库斯-斯马特、杰伦-布朗、乔-哈里斯和梅森-普拉姆利。
+   </p>
+   <p>
+    2018-19赛季常规赛，福克斯场均上场31.4分钟，得到17.3分3.8篮板7.3助攻1.64抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

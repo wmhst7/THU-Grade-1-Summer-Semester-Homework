@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰斯-史蒂芬森更新社媒晒自己的投篮训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/StephensonLance/status/1153169065642475520" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 13:27:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰斯-史蒂芬森更新社媒晒自己的投篮训练照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/7e9998ae76031d35f680bf2e0798ee703137c1c4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 今日兰斯-史蒂芬森更新了自己的个人推特动态，晒出了自己在球馆训练投篮的照片。
+   </p>
+   <p>
+    史蒂芬森目前仍是完全自由球员。2018-19赛季常规赛，史蒂芬森场均上场16.5分钟，得到7.2分3.2篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

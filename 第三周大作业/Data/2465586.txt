@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鹈鹕预计首发2K能力值确认：英格拉姆85，霍勒迪86
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 09:49:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鹈鹕预计首发2K能力值确认：英格拉姆85，霍勒迪86" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/1c60f36d87c268b6d9c051006251de3ef1f9f7f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，鹈鹕预计首发5人的能力值得以确定。
+   </p>
+   <p>
+    鹈鹕预计首发的初始能力值为：
+   </p>
+   <p>
+    德里克-费沃斯 80
+   </p>
+   <p>
+    蔡恩-威廉森 81
+   </p>
+   <p>
+    布兰登-英格拉姆 85
+   </p>
+   <p>
+    朱-霍勒迪 86
+   </p>
+   <p>
+    朗佐-鲍尔 79
+   </p>
+   <p>
+    费沃斯在自由市场开启后被交易至鹈鹕，上赛季场均上场23.2分钟，得到11.8分7.4篮板1.2助攻0.74抢断1.39盖帽，季后赛场均上场20.6分钟，得到11.8分7.4篮板1.8盖帽。
+   </p>
+   <p>
+    英格拉姆和鲍尔在安东尼-戴维斯的交易中被送至鹈鹕，鲍尔上赛季场均出场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断；英格拉姆上赛季场均上场33.8分钟，得到18.3分5.1篮板3.0助攻。
+   </p>
+   <p>
+    霍勒迪上赛季场均上场35.9分钟，得到21.2分5.0篮板7.7助攻1.63抢断0.81盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

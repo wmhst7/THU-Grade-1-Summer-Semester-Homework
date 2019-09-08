@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  疯狂表白！哈特回复网友：我太爱我的新城市了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/joshhart/status/1147004010974416897" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 13:02:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="疯狂表白！哈特回复网友：我太爱我的新城市了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/131cca40c7d9994d6d92b92bd2ad2e4c7e69fd60.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 今日，鹈鹕后卫约什-哈特在个人社交媒体Twitter回复网友。
+   </p>
+   <p>
+    “我相信安东尼-戴维斯说的和新奥尔良的喧闹相比洛杉矶就是一个'慢动作'。在你这个沉睡的小镇玩的很开心。”网友写道，“我非常爱我的新城市！”哈特回复说。
+   </p>
+   <p>
+    根据此前报道，
+    <a href="http://lite.hupu.com/s?u=nba/news/2443575&amp;type=1&amp;entrance=26">
+     鹈鹕与湖人达成交易协议，安东尼-戴维斯被送至湖人，湖人则为此送出朗佐-鲍尔、布兰登-英格拉姆、约什-哈特以及三个首轮选秀权——包括本届选秀中的4号签
+    </a>
+    。
+   </p>
+   <p>
+    <span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px;">
+     [vote]732476[/vote]
+    </span>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

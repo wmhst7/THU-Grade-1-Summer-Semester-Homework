@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：开拓者签下安东尼-托利弗，他将穿43号球衣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/blazers/news/trail-blazers-sign-anthony-tolliver" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 02:50:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：开拓者签下安东尼-托利弗，他将穿43号球衣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/31aab62ff1873290c23df326abc1e08404aa9efa.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 开拓者今日官方宣布，他们已经签下了自由球员前锋安东尼-托利弗。
+   </p>
+   <p>
+    “安东尼是一名拥有顶级技巧的完美职业球员，他的能力将可以立即融入我们的体系，而且他将提供我们更衣室所需要的领袖能力。”开拓者篮球运营总裁尼尔-奥尔希说道。
+   </p>
+   <p>
+    此前，据The Athletic记者Shams Charania报道，联盟消息人士透露，开拓者以1年260万美元与自由球员安东尼-托利弗达成协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，托利弗代表森林狼出场65次，场均出场16.6分钟，得到5.0分2.7篮板0.7助攻，三分命中率为37.7%。
+   </p>
+   <p>
+    托利弗已经在NBA征战了11个赛季，共出战了664场比赛，场均上场19.9分钟得到6.4分3.4篮板0.9助攻。
+   </p>
+   <p>
+    托利弗将身穿开拓者43号球衣。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

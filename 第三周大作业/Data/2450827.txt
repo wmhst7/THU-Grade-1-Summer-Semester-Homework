@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔-库兹马更新社交媒体，欢迎丹尼-格林
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kylekuzma/status/1147391769757175808" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 15:01:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔-库兹马更新社交媒体，欢迎丹尼-格林" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/2471dfc6bd3296fbd4c45c1576a6943431111fbf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 今日，湖人球员凯尔-库兹马更新社交媒体Twitter，欢迎丹尼-格林。
+   </p>
+   <p>
+    “DG！@丹尼-格林”他写道。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2450812.html">
+     据The Athletic记者Shams Charania报道，消息人士透露，丹尼-格林将加盟湖人。
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

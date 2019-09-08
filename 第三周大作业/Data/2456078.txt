@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气逼人！库兹马连续发布今日个人生活动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 12:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气逼人！库兹马连续发布今日个人生活动态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/8664aac6851e063bd59b38479068fdabb6ab4e43.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 湖人前锋凯尔-库兹马今日通过Instagram Story连续更新个人动态。
+   </p>
+   <p>
+    库兹马首先发布了一段个人自拍，随后更新了自己在湖人训练馆与一些小朋友做活动时命中半场三分的视频，最后分享了他准备接受牙齿护理的自拍照。
+   </p>
+   <p>
+    2018-19赛季常规赛，凯尔-库兹马场均出战33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/12/7766e3ce120ef020eaa65a9384bd0969.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190720/12/cb23eb55d9f91412315cde4c75e88cec.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190720/11/51ab494fc4b215316cfa2d9f20cb5496.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

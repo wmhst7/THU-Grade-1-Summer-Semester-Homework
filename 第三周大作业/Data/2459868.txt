@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉森：我计划整个职业生涯都能留在鹈鹕
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.complex.com/sports/2019/07/zion-williamson-staying-with-pelicans-interview" target="_blank">
+     Complex
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 23:49:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉森：我计划整个职业生涯都能留在鹈鹕" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/d9e2085844014602429e54cc532ca4ceb69ade72.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 鹈鹕新秀蔡恩-威廉森今天接受了采访，表示自己想要在鹈鹕度过自己的整个职业生涯。
+   </p>
+   <p>
+    他说道：“我会尽可能给出我最好的答案，从我个人而言，我一直告诉自己我只想待在一支球队。在我长大过程中，我热爱于德克和科比所做到的。而且如果有人是迈克尔-乔丹的球迷的话，他们可能会淡去奇才那段经历，尽管他也做得很好。有人会想一直待在一支队里，但他们会被交易。我的计划就是一直在鹈鹕度过我的职业生涯，如果未来发生些什么，我也不愿离开，因为我讨厌那种情形的发生，那就是生意。”
+   </p>
+   <p>
+    威廉森在今年选秀大会上首轮第1顺位被鹈鹕选中，大一赛季NCAA场均上场30.0分钟，得到22.6分8.9篮板2.1助攻2.12抢断1.79盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

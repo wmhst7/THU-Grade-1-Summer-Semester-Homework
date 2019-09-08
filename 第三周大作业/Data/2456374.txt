@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迷信星座？雷-阿伦今日晒出巨蟹座的解析图并感谢他人的生日祝福。
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0JdqJfBfiK/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 10:33:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迷信星座？雷-阿伦今日晒出巨蟹座的解析图并感谢他人的生日祝福。" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/19778bd35d3a719cba8e7de7b3c1f896bbf34638.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 今日，雷-阿伦更新社媒Instagram晒出自己的星座解析并发文说道：“我对星座这种东西其实一直都不太懂。但是我知道有很多人都在7月20号这天生日，我要祝和我分享同一天生日的人们生日快乐。你们有多少人觉得不能在学校里开派对很讨厌呢（夏天学校放暑假），不过我们依然可以把这一天过得很好啊。顺便，感谢大家对我的生日祝福！”
+    <br/>
+    <br/>
+    配图里的巨蟹座解析：“巨蟹座的人更喜欢职业、刺激的状态。比起金钱，因个人满足而获得的快乐更能刺激你前进。而你最想要的，是独处和尊重。”
+    <br/>
+    <br/>
+    雷-阿伦出生于1975年7月20日，当地时间今天是他44岁的生日（7月20日）。雷-阿伦职业生涯总共出战1300场常规赛，场均出战35.6分钟，能得到18.9分4.1篮板3.4助攻。
+    <br/>
+    <br/>
+    此外，雷-阿伦职业生涯常规赛共投进2973记三分球，暂列NBA历史第一，排在历史第二位的是雷吉-米勒(2560)，第三位的是勇士后卫斯蒂芬-库里(2483)。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

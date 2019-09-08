@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卢尼：我想的就是留在勇士，KD离开感到很艰难
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/kevon-looney-qa-warriors-big-man-his-return-kevin-durants-exit-more" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 10:55:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卢尼：我想的就是留在勇士，KD离开感到很艰难" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/2797f65294ffb77f23a7145fe2a326c9065a3068.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据此前报道，凯文-卢尼与勇士达成3年1500万的续约合同，在今天的采访中，卢尼谈到了续约以及相关话题。
+   </p>
+   <p>
+    谈到回归的感受，卢尼表示：“这感觉很棒，这休赛期你总是会紧张，因为你不知道会发生什么，但我很想留在这里，很幸运这发生了。“
+   </p>
+   <p>
+    记者问道是否感觉自己会离开，卢尼表示：“老实讲，是的。你看到交易满天飞，各个球队都有动作，你都不知道发生了什么。所以我觉得能留下来是对我最好的选择。”
+   </p>
+   <p>
+    谈到凯文-杜兰特的离开，卢尼表示：“这很艰难， 他是最好的球员之一，他也是我们的好朋友，我们的兄弟。他经历了很多，但他做了他必须做的事情。我希望他能恢复健康，我想和他对抗。 我经常和他对抗，所以我希望能够在另一方与他对抗， 这会很有趣。”
+   </p>
+   <p>
+    另外卢尼还谈到了丹吉洛-拉塞尔的加盟，他表示：“这会很有趣，我们会打更多的挡拆。我们在高中就是同一届，并且还是同一届参选。所以我一直在密切关注他的整个职业生涯。所以这会很有趣，他是一个出色的球员，我对他有了解，期待与他建立这种关系。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

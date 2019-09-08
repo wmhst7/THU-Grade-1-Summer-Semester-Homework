@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯发推致敬说唱歌手J.Cole：感谢上帝带来伟大
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1162788810473664513?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 12:11:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯发推致敬说唱歌手J.Cole：感谢上帝带来伟大" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/22aa6720ceec99882eb542adf29807148d4deb13.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 湖人前锋勒布朗-詹姆斯今日发推分享著名说唱歌手J.Cole的一段经典演唱视频并发表感想。
+   </p>
+   <p>
+    “5年前，我听到了一些最美妙的词语被组合成歌词，时至今日，我仍会传唱它们！感谢上帝为我们带来这些久经考验的最伟大事物！@JCole爱你，我的兄弟。”詹姆斯写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/12/0860d39600b718cea375c733085ccdc7.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

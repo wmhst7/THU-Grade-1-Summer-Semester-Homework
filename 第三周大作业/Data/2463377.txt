@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  夏天如何取得进步？米切尔回应库兹马：和库兹马一起训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA/status/1159634358791049216" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 11:13:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="夏天如何取得进步？米切尔回应库兹马：和库兹马一起训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/024aa1d628fe63f5d447fb34a742da02c4f5a2ec.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 湖人球员凯尔-库兹马和爵士球员多诺万-米切尔目前正在参加美国男篮训练营，在第四天的训练结束后，库兹马和米切尔接受了媒体采访。在此期间，心情不错的库兹马客串记者采访起米切尔。
+   </p>
+   <p>
+    库兹马：“你是如何在夏天取得进步的？”
+   </p>
+   <p>
+    米切尔：“我说，你又不是...”
+   </p>
+   <p>
+    库兹马：“我的录音设备可是已经开了。”
+   </p>
+   <p>
+    米切尔：“我是如何取得进步的？额，你知道的，我就是保持体型，努力为这次训练营做好准备。我还和凯尔-库兹马这样的家伙一起训练，还有卡梅罗（安东尼）。”
+   </p>
+   <p>
+    库兹马：“他很出色，对吧？”
+   </p>
+   <p>
+    米切尔：“是的，很靠谱。我就是努力打磨自己各方面的技术，提升自己的效率，命中更多的投篮，在场上做出正确的选择。我的回答还不错，对吧？”
+   </p>
+   <p>
+    随后库兹马笑着点了点头，开始收拾起自己的装备。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

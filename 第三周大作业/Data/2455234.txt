@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：猛龙与后卫卡梅伦-佩恩达成两年协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1151550418624925697" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 02:00:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：猛龙与后卫卡梅伦-佩恩达成两年协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/66740ebd8a983f545b5f5fdc5705dce18cdb8bf6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 据NBA记者Shams Charania报道，消息人士透露，后卫卡梅伦-佩恩同意与猛龙达成两年协议。
+   </p>
+   <p>
+    据记者Blake Mruphy称，这份协议第一年为保障合同，目前猛龙已有16份合同（包括与克里斯-布歇、马尔科姆-米勒的无保障合同，与乔丹-劳埃德的双向合同，与科纳塔的合同(尚不明确)）。
+   </p>
+   <p>
+    佩恩于2015年选秀首轮第14顺位被雷霆选中，18-19赛季先后效力于公牛和骑士，常规赛场均上场17.8分钟，得到6.2分1.8篮板2.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

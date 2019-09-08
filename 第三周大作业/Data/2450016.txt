@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：灰熊送出科沃尔，换来约什-杰克逊
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1146514603767152641" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 04:23:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：灰熊送出科沃尔，换来约什-杰克逊" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/d23c5a88649e0b850923d90758d9d6d0f9c5620c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，灰熊与太阳完成交易。
+   </p>
+   <p>
+    灰熊送出凯尔-科沃尔、杰文-卡特，从太阳得到丹东尼-梅尔顿、约什-杰克逊、2020年的次轮签以及附带条件的2021年次轮签。
+   </p>
+   <p>
+    科沃尔上赛季效力于骑士，赛季中期被交易至爵士，赛季结束后在迈克-康利的交易中被送至灰熊。
+   </p>
+   <p>
+    科沃尔今年38岁，2018-19赛季常规赛，他为骑士出场16次，为爵士出场54次，场均出场19.1分钟得到8.6分2.3篮板1.2助攻。他目前还剩1年750万（其中344万保障，当地时间7月6日前不被裁转为全额保障）的合同。
+   </p>
+   <p>
+    约什-杰克逊在2017年被太阳以4号签选中，两年间为太阳出场156次，场均25.3分可以得到12.3分4.5篮板。
+   </p>
+   <p>
+    杰文-卡特2018-19赛季为灰熊出场39次，场均14.8分钟可以得到4.4分；丹东尼-梅尔顿上赛季为太阳出场50次，场均19.7分钟可以得到5.0分3.2助攻1.4抢断。
+   </p>
+   <p>
+    [vote]730799[/vote]
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兴奋过度！詹姆斯转推解释掉鞋事件：鞋子就那么脱落了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kingjames/status/1155499774474199040?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 23:58:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兴奋过度！詹姆斯转推解释掉鞋事件：鞋子就那么脱落了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/3ce7353f44338bb91306a1ce60c7af755a6dffac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 湖人前锋勒布朗-詹姆斯今日通过推特转发相关视频，并回应自己为冲入赛场
+    <a href="https://bbs.hupu.com/28697587.html">
+     庆祝大儿子Bronny两位队友的空接进球不慎掉鞋
+    </a>
+    一事。
+   </p>
+   <p>
+    “Dior和Tezzo的连线让我连球鞋都不要了！（一连串笑哭表情）很喜欢陪伴在小兄弟们身边观看他们实践自己热爱的篮球运动。不过说真的，在这个回合带来的兴奋情绪下，我的球鞋真的从脚上脱落了。”詹姆斯写道。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/23/272b00529c94a58dfd872e23ee3be76e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/23/b5c218cf07827daa1a335a7eb92666dd.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

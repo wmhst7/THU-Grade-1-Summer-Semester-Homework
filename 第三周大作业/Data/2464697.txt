@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  76人揭幕战公布：将坐镇主场迎战凯尔特人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/PHLSixersNation/status/1160916713954844672" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 23:36:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="76人揭幕战公布：将坐镇主场迎战凯尔特人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/b319d54bc46da039bb9677c583407e5f75710ef9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 据记者透露，费城76人队将在揭幕战迎接波士顿凯尔特人队的挑战。
+   </p>
+   <p>
+    这场比赛将于美国时间2019年10月23日(北京时间10月24日）举行。在2018-19赛季，两队在常规赛相遇4次，凯尔特人3胜1负。
+   </p>
+   <p>
+    在休赛期，前凯尔特人当家内线艾尔-霍弗德转投了费城76人队。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

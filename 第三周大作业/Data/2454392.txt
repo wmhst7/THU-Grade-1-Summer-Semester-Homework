@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  蔡恩-威廉森2K20能力值公布：81
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:24:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="蔡恩-威廉森2K20能力值公布：81" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/23d69a5576d87c1b8ac70b7e3be975655df61a8a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 2K官方的首次NBA 2K20能力值公布视频直播正在进行中，2K官方刚刚公布了最高的五名新秀球员的NBA 2K20初始能力值。其中，鹈鹕状元蔡恩-威廉森的初始能力值是81。
+   </p>
+   <p>
+    上赛季蔡恩效力于NCAA的杜克大学，上赛季他场均22.6分领跑ACC（大西洋海岸联盟），在NCAA所有联盟里排名第15；投篮命中率68%在ACC排名第1，在NCAA排名第2。场均3.5进攻篮板在ACC排名第1，在NCAA排名第9。这位一年级的新生带领球队获得ACC联盟的冠军，打进NCAA锦标赛精英八强。
+   </p>
+   <p>
+    这是2K官方首次将球员能力值以视频直播的形式集中公布。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2454220.html">
+     虎扑专访威廉森：要成为最好的蔡恩，我能力值大概78或79&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

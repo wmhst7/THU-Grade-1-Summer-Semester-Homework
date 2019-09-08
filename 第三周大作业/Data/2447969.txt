@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯内部的一些人员认为罗齐尔不比欧文差很多
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/06/27/knicks-interest-in-terry-rozier-may-pay-off-in-kemba-walker-fallout/amp/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 19:13:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯内部的一些人员认为罗齐尔不比欧文差很多" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/92614a149cb0d40049e043b2b70b304827735efe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据《纽约邮报》记者 Marc Berman报道，尼克斯内部的一些人认为特里-罗齐尔不比凯里-欧文差很多，他仅有25岁。
+   </p>
+   <p>
+    “他是一个好球员，年轻，愿意防守，投射能力超出大众印象，”一位NBA人力资源主管说道，“特里这赛季出现的问题，据我所知，源于被凯里破坏的更衣室。”
+   </p>
+   <p>
+    消息人士透露，假如尼克斯错失科怀-伦纳德和凯文-杜兰特，他们将利用薪资空间开出为期一年或两年的合同，以保留薪资灵活度。
+   </p>
+   <p>
+    此前有报道称尼克斯有意为德马库斯-考辛斯开出一份为期一年的巨额合同，但一位消息人士称尼克斯对考辛斯的兴趣有限。
+   </p>
+   <p>
+    据一位消息人士透露，尼克斯总裁史蒂夫-米尔斯写希望引入一些适合指导新人的球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

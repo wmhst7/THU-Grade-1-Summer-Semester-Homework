@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登谈威少：他私下性格很酷，没场上看起来那么严肃
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1165712422113599494" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 04:26:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登谈威少：他私下性格很酷，没场上看起来那么严肃" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/639c9dff69f4555afaf80edc3df7fab82d439d6b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今日，詹姆斯-哈登在举行“哈登休城周末活动”后接受采访，谈到了队友对拉塞尔-威斯布鲁克参与其中的看法。
+   </p>
+   <p>
+    哈登说道：“那对他而言很棒，我希望他能展现出更多他自己的性格。每个人把威斯布鲁克在看作球场上很愤怒的那些人，那种在场上恨不得把心掏出来。事实上他在场下是性格很酷，我希望大家看到这一点。”
+   </p>
+   <p>
+    据之前报道，今年夏天，威少被交易至火箭，和哈登重新成为队友。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯-哈登场均出场36.8分钟，得到36.1分6.6篮板7.5助攻2.03抢断；威斯布鲁克场均上场36.0分钟，得到22.9分11.1篮板10.7助攻1.95抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

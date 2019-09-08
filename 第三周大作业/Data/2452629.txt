@@ -1,0 +1,83 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船官方欢迎伦纳德、乔治、祖巴茨以及麦格鲁德
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/laclippers/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 09:43:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船官方欢迎伦纳德、乔治、祖巴茨以及麦格鲁德" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/95ef007c10b4daf4b47fb2230a103af665440c06.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日，快船官方更新社交媒体Instagram，晒照欢迎科怀-伦纳德、保罗-乔治、伊维察-祖巴茨以及罗德尼-麦格鲁德（见新闻配图）
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/09/83584c1836535e25784a8c98c6d1cdf3.png"/>
+   </p>
+   <p>
+    “是时候锁定了。”配文写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/09/c5ad7f9348bdeb157caceee16a243998.png"/>
+   </p>
+   <p>
+    “没有什么地方像家一样。”配文写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/09/ece4df5c797f5b2bf015e0e71be14475.png"/>
+   </p>
+   <p>
+    “让我们一起工作吧。”配文写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190711/09/94242f4ba65777429c3674a4b09cf008.png"/>
+   </p>
+   <p>
+    “欢迎回来。”配文写道。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2452527.html">
+     官方：快船正式与科怀-伦纳德签约
+    </a>
+    <br/>
+    <a href="https://voice.hupu.com/nba/2452534.html">
+     官方：快船交易得到保罗-乔治
+    </a>
+    <br/>
+    <a href="http://lite.hupu.com/s?u=nba/news/2452565&amp;type=1&amp;entrance=26">
+     官方：快船续约伊维察-祖巴茨
+    </a>
+    <br/>
+    <a href="https://m.hupu.com/nba/news/2452621.html">
+     官方：快船续约罗德尼-麦格鲁德
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

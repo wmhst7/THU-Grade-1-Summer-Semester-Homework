@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA选秀官方发布骑士三位新秀拍摄定妆照时的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nbadraft/status/1160626370919186436?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 09:55:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA选秀官方发布骑士三位新秀拍摄定妆照时的合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/c6b84388af203a048532775dd51ad2ef8772cbcd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今天NBA官方召集了2019级新秀，为他们拍摄新赛季定妆照。NBA选秀官方推特今日发布一张骑士三位新秀拍摄定妆照时的合影。
+   </p>
+   <p>
+    “酒金军团。@达里厄斯-加兰 @迪伦-温德勒 @小凯文-波特 #NBA新秀”NBA选秀官方写道。
+   </p>
+   <p>
+    加兰是本届选秀首轮第5顺位新秀，温德勒是首轮第26顺位新秀，小波特是首轮第30顺位新秀。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

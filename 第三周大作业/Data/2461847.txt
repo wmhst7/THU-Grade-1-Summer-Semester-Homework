@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Drake在其参与录制的新单曲中提到总决赛中的杜兰特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://allhiphop.com/news/drake-raps-about-kevin-durant-achilles-on-rick-ross-gold-roses-single-vq-L7d7Xbkmv8fNgiSTqwQ/" target="_blank">
+     allhiphop
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 11:33:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Drake在其参与录制的新单曲中提到总决赛中的杜兰特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/4b7c8390604ab3e35da728a43415cd037da86d7b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 近日，猛龙形象大使、著名说唱歌手Drake参与了著名说唱歌手里克-罗斯即将发布的新专辑《迈阿密港 2（Port of Miami 2）》的录制。在单曲《金色玫瑰（Gold Roses）》，他提到了前勇士球员，现篮网球员凯文-杜兰特在今年总决赛中的经历。
+   </p>
+   <p>
+    “当凯文-杜兰特走上球场，所有人都嘴角上扬。我必须发挥超常，我不怕千夫所指、万人阻挡。现在，新的跟腱必将，让我再次加冕为王。（All smiles, Kevin Durant trials. Had to blow it on the court, I must've blew a milli. I’m walking on all charges, that’s my new Achilles.）”
+   </p>
+   <p>
+    这张专辑预计将于当地时间8月9日发布。
+   </p>
+   <p>
+    杜兰特在总决赛第五场受伤时，Drake也在现场。他极度担忧的反应在社交媒体上被做成了表情包。
+   </p>
+   <p>
+    在今年总决赛的第五场比赛里，杜兰特遭遇右脚跟腱断裂，随后接受了手术，预计将缺席2019-20赛季的全部比赛。
+   </p>
+   <p>
+    2018-19赛季，杜兰特常规赛代表勇士出场78次，场均34.6分钟可以得到26.0分6.4篮板5.9助攻；季后赛出场12次，场均36.8分钟可以得到32.3分4.9篮板4.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

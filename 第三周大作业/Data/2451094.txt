@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格里芬：伦纳德加盟快船给洛杉矶带来了一点平衡
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/06/blake-griffin-kawhi-leonard-nba-clippers-lakers/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 10:31:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格里芬：伦纳德加盟快船给洛杉矶带来了一点平衡" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/ffe19eb2824bc8be09e1ff1f626a453e7b068d14.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 活塞前锋布雷克-格里芬在今天的采访中，谈到了前东家快船队得到了科怀-伦纳德的话题。
+   </p>
+   <p>
+    “我觉得这对于篮球是好事，对洛杉矶也是。我觉得这能给洛杉矶带来一点平衡，这很好。”格里芬说道。
+   </p>
+   <p>
+    记者问他相对于其他城市，他是否更喜欢洛杉矶。对此格里芬表示：“不不不，老实说，我在不同的城市都能看到各自的优势和劣势，所有事物都有正反两面，这取决于你怎么看待。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

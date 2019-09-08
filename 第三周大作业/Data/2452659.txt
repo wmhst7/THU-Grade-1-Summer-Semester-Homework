@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  游戏主播Dr Disrespect晒出在ESPY现场与哈特的合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/drdisrespect/status/1149106599379685376" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 10:32:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="游戏主播Dr Disrespect晒出在ESPY现场与哈特的合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/567d9b10fbbd37625b412a47da2bf328bd4029d1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 今日，美国游戏主播及网络红人Herschel "Guy" Beahm IV（游戏ID：DrDisrespect嚣张博士）在个人社交媒体推特上发布一张与鹈鹕后卫约什-哈特的合影，并配文：“和哈特一起在ESPY（Excellence in Sports Performance Yearly）2019的现场。”
+   </p>
+   <p>
+    Dr Disrespect因为夸张搞怪的直播风格和过硬的游戏水平而受到关注，他主要直播《H1Z1》、《绝地求生》、《堡垒之夜》、《使命召唤 黑色行动4》等大逃杀类型游戏。
+   </p>
+   <p>
+    约什-哈特2018-19赛季常规赛为湖人场均上场25.6分钟，得到7.8分3.7篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

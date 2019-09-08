@@ -1,0 +1,69 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  一飞冲天！詹姆斯在大儿子比赛热身环节多次上演扣篮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0cEa4BF-Bh/?igshid=pqsgfzebc0n3" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 11:46:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="一飞冲天！詹姆斯在大儿子比赛热身环节多次上演扣篮" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190728/784974da5181bd353a737c4904c7d475c0e57fd5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 据媒体Slam和ballislife通过官方Instagram分享的画面，湖人前锋勒布朗-詹姆斯今日在大儿子Bronny的AAU比赛前上场热身，即兴表演了几次扣篮。
+   </p>
+   <p>
+    据现场拍摄画面显示，詹姆斯在参赛球队赛前热身环节多次完成花式扣篮，包括一次打板抛扣和一次自抛自扣，引发全场欢呼。此外，一些场边观众也分享了他们自行拍摄的詹姆斯即兴扣篮视频。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4398988662849417">
+     视频：詹姆斯在儿子比赛前上演暴扣
+    </a>
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4398988583258955">
+     视频：詹姆斯今日扣篮慢放镜头集锦
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/12/5001d6a0dca39a2aaaeb3a93e1f0aaec.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/f976926d6c86b18ced508677fdbb6e0c.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/9470679e17875d3d3fcd0e8e731fba50.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/c392ec188c37d712983867eccd2075f0.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190728/11/c5ab5245cbf30acc0a8b7d05fda7b1b0.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

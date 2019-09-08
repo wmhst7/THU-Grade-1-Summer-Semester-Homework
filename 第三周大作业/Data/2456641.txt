@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德雷蒙德-格林祝祖母66岁生日快乐：爱你的所有
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0J90NmFJrk/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 02:28:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德雷蒙德-格林祝祖母66岁生日快乐：爱你的所有" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/b7b25f44b9b408563da0ed4096746b36e6001852.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 今天勇士球员德雷蒙德-格林在Instagram晒出了自己祖母的照片，并祝其生日快乐。
+   </p>
+   <p>
+    格林写道：“嘿我的奶奶！芳龄66……爱这个女人的所有！”
+   </p>
+   <p>
+    2018-19赛季常规赛，德雷蒙德-格林场均出场31.3分钟，得到7.4分7.3篮板6.9助攻1.44抢断1.06盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

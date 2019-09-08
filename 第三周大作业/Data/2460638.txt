@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马克斯-博尔登与骑士签下一份Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cleveland.com/cavs/2019/08/cleveland-cavaliers-agree-to-exhibit-10-deal-with-marques-bolden-will-bring-him-to-training-camp-sources-say.html" target="_blank">
+     克利夫兰老实人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 23:19:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马克斯-博尔登与骑士签下一份Exhibit 10合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/b1154a5423dfd041a11cbc8bd43a99551b6c375c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 根据《克利夫兰老实人报》记者Chris Fedor今天报道，骑士已经与中锋马克斯-博尔登签下一份Exhibit 10的训练营合同。
+   </p>
+   <p>
+    如果一份NBA合同里包括Exhibit 10附件，那么如果这名球员被裁，这允许一支NBA球队给这名球员最多5万美元的奖金，让他签约他们的NBA发展联盟附属球队。
+   </p>
+   <p>
+    另外，如果一份NBA里合同有Exhibit 10附件，那么球队可以在常规赛首日之前将这名球员的合同转换为双向合同。
+   </p>
+   <p>
+    博尔登是2019年的落选秀，在落选后他为骑士出战了2019年休赛期的夏季联赛，夏季联赛他场均能够得到6.8分4.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

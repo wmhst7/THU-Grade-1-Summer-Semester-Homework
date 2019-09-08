@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戈贝尔建议米切尔：如果碰到我，应该选择传球或调高弧度
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nytimes.com/by/marc-stein?te=1&amp;nl=marc-stein&amp;emc=edit_msb_20190806" target="_blank">
+     纽约时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 10:10:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戈贝尔建议米切尔：如果碰到我，应该选择传球或调高弧度" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/660f3b9683de010ad4a1e3e9b3fa5bd839b8f62a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 法国男篮球员鲁迪-戈贝尔在近日接受媒体采访时谈到了法国队在本届世界杯的前景。
+   </p>
+   <p>
+    在FIBA官方今年二月份公布的世界排名中，法国男篮排名第三，仅次于美国男篮和西班牙男篮。如果法国男篮想要在本届世界杯夺冠，将不得不面对强大的美国男篮，戈贝尔也需要面对自己在爵士的队友多诺万-米切尔。
+   </p>
+   <p>
+    戈贝尔表示自己非常期待与米切尔的对决，并对后者提出了一些建议。
+   </p>
+   <p>
+    “选择传球，或者将抛投弧线调得非常高。”戈贝尔说道。
+   </p>
+   <p>
+    谈到多名球员选择退出美国男篮，戈贝尔表示：“你必须尊重每个人的选择，无论参赛或者退出。”
+   </p>
+   <p>
+    “但我对此有不同的看法，”戈贝尔说道，“我去那里是代表着我的国家，这与在NBA中效力的感受不同，但每个人的情况不同，所以你必须尊重每个人的选择。”
+   </p>
+   <p>
+    谈到本届世界杯的目标，戈贝尔说：“我们的目标就是赢得一切，我们知道本届世界杯有很多出色的球队，但我们认为我们有机会。”
+   </p>
+   <p>
+    谈到在爵士效力的前景，戈贝尔说：“我为自己所处的地方感到自豪，通过这项运动我收获了很多感情，我不会说它比金钱更重要，因为显然你需要钱，但我认为那些记忆和建立的自豪感真的比金钱更重要。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

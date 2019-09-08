@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特里斯坦-汤普森：@凯文-乐福，一起夏日健身挑战吗？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0XCFvDFSrA/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 18:02:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特里斯坦-汤普森：@凯文-乐福，一起夏日健身挑战吗？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190726/be92fb7dcaed604c7706fdb91b991367187ef731.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 今日，骑士球员特里斯坦-汤普森更新Instagram，发布了自己的肌肉照片，并配文：“@凯文-乐福，考不考虑一起来#夏日健身挑战？”
+   </p>
+   <p>
+    乐福在评论区回复道：“来啦！”
+   </p>
+   <p>
+    骑士球员乔丹-克拉克森回复道：“哈哈哈，我们会赢的！”
+   </p>
+   <p>
+    76人球员本-西蒙斯回复道：“好的，就这么干，等着我。”
+   </p>
+   <p>
+    奇才球员以赛亚-托马斯回复道：“这肯定很棒。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  RJ-巴雷特NBA2K20能力值公布：78
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1MZl3wBB8Y/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 02:48:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="RJ-巴雷特NBA2K20能力值公布：78" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/7d46749e8a231eb151368e732abb01f0270ac507.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 今日NBA2K官方晒出了尼克斯新秀RJ-巴雷特的NBA2K20游戏能力值，能力值为78。
+   </p>
+   <p>
+    巴雷特来自杜克大学，在今年选秀大会上被尼克斯以首轮第3顺位被选中。
+   </p>
+   <p>
+    大一赛季NCAA，巴雷特场均上场35.3分钟，得到22.6分7.6篮板4.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

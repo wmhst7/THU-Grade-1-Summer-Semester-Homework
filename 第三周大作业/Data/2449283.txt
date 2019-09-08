@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭公布夏季联赛球队阵容，克拉克和哈尔滕施泰因领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Rockets-set-Summer-League-roster-14064001.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 06:29:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭公布夏季联赛球队阵容，克拉克和哈尔滕施泰因领衔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/564176e944340cc3037f66941d079abe622c5dd4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据《休斯顿纪事报》记者Jonathan Feigen的报道，火箭公布了他们今年夏季联赛球队的阵容，具体如下：
+   </p>
+   <p>
+    罗尔-阿尔金斯、拉沙德-沃恩、邓-阿德尔、扎克-托马斯、以赛亚-里斯、加里-克拉克、文森特-爱德华兹、克里斯-奇奥萨、克里斯-克莱门斯、特雷旺-杜瓦尔、以赛亚-哈尔滕施泰因、威廉-麦克道尔-怀特、沙莫里-庞兹、摩西-布朗和乔纳森-威廉姆斯。
+   </p>
+   <p>
+    具体赛程如下：7月7日对阵独行侠、7月8日对阵开拓者、7月10日对阵国王、7月12日对阵爵士。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

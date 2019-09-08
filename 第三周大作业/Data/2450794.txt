@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈特更新社交媒体：新奥尔良没有地震，对吧？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/joshhart/status/1147350888127709184" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 12:51:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈特更新社交媒体：新奥尔良没有地震，对吧？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/2a8d0b88701977115f635540d35d025816667006.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 今日，鹈鹕后卫约什-哈特更新自己社交媒体Twitter谈地震。
+   </p>
+   <p>
+    “新奥尔良没有地震，对吧？”他写道。
+   </p>
+   <p>
+    根据此前报道，鹈鹕与湖人达成交易协议，安东尼-戴维斯被送至湖人，湖人则为此送出朗佐-鲍尔、布兰登-英格拉姆、约什-哈特以及三个首轮选秀权——包括本届选秀中的4号签。
+   </p>
+   <p>
+    最近，
+    <a href="https://voice.hupu.com/nba/2450483.html">
+     约什-哈特在个人社交媒体不断表达对新城市的喜爱
+    </a>
+    。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2450775.html">
+     因地震问题，鹈鹕与尼克斯的赌城夏联比赛将延期进行
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

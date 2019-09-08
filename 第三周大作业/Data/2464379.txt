@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  景美人更美！乐福发布自己与女友的户外合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1CD-CRAs7a/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 02:11:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="景美人更美！乐福发布自己与女友的户外合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/1c1d68fd520f5cf7a5b93e69f141166b9c492526.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今天骑士球员凯文-乐福在Instagram上晒出了自己和女友在户外草地上的合影。
+   </p>
+   <p>
+    乐福写道：“90年代复古风。”
+   </p>
+   <p>
+    2018-19赛季常规赛，凯文-乐福场均上场27.2分钟，得到17分10.9篮板2.2助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/02/2ebcb89bb3b5ef1de44e53c080887af9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

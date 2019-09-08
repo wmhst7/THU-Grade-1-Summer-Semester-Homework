@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：贝尔格莱德红星篮球俱乐部签约洛伦佐-布朗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/914998/lorenzo-brown-completes-the-roster-of-crvena-zvezda/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 16:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：贝尔格莱德红星篮球俱乐部签约洛伦佐-布朗" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/3ec9e7ec431d6a0b04d2bb38b27af66aba67164a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 塞尔维亚的贝尔格莱德红星篮球俱乐部宣布，他们已经与洛伦佐-布朗签下了一年的合同，这将是布朗首次前往欧洲打球。
+   </p>
+   <p>
+    布朗上赛季为猛龙出战26场常规赛，场均出战8.2分钟可以拿到2.1分1.2篮板1.1助攻。
+   </p>
+   <p>
+    今年1月被猛龙裁掉后，布朗加盟CBA的广州队，场均出战32分钟可以拿到25.3分5.4篮板4.9助攻2.8抢断。
+   </p>
+   <p>
+    另外，布朗还曾当选2017-18赛季发展联盟的MVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

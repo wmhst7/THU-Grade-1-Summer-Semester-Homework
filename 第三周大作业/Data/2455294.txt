@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  开拓者会再签下一名中锋球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jwquick/status/1151512549906472961" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 07:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="开拓者会再签下一名中锋球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/cee1a29e5e2bd82cf406ae36310a3ff9c0ef78aa.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 根据The Athletic记者Jason Quick的报道，消息人士透露，开拓者会再签下一名中锋，然后带着14名球员进入新赛季的训练营。
+   </p>
+   <p>
+    目前开拓者只可以为球员开出底薪合同，目前自由球员市场上的中锋球员还有乔金-诺阿、阿米尔-约翰逊、格雷格-门罗、内内、泰勒-泽勒和科斯塔-库佛斯等球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

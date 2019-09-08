@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  肯扬-马丁建议帕克加入BIG3：这里的篮球氛围很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://news4sanantonio.com/sports/spurs-zone/big3s-kenyon-martin-says-spurs-great-tony-parker-would-beneficial-for-the-league" target="_blank">
+     WOAI-TV
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 10:44:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="肯扬-马丁建议帕克加入BIG3：这里的篮球氛围很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/76bf384bd8f6facccf373017f7c4f7e3498b0aaf.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 2018-19赛季结束后托尼-帕克宣布正式退役，如果帕克在退役后仍想拾起篮球，肯扬-马丁认为BIG3联赛是非常不错的选择。
+   </p>
+   <p>
+    马丁现在是BIG3联赛三部曲队的主教练，他说到：“好吧，我不是在招募。但如果你问我的意见，我会说这里的篮球氛围非常棒。”
+   </p>
+   <p>
+    “我和帕克私下不熟，不会打电话去联系他。但如果他有兴趣，或者我在街上看他到，他会知道我是谁。”马丁说道。
+   </p>
+   <p>
+    “这里有非常多的NBA退役球员，这对BIG3联赛来说非常有益。我们欢迎所有想加入的球员们，但是如果我和他见面，我也不会上来就说‘你想加入BIG3吗’。”马丁说道。
+   </p>
+   <p>
+    肯扬-马丁职业生涯效力于篮网、掘金、快船、尼克斯和雄鹿等队，2014-15赛季后正式退役。马丁职业生涯出战757场常规赛，场均能得到12.3分6.8篮板。
+   </p>
+   <p>
+    2018-19赛季常规赛，托尼-帕克出战56场比赛，场均出战17.9分钟，能得到9.5分1.5篮板3.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

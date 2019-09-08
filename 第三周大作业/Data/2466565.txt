@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马发布美国队赛场照：洛杉矶球迷，你们太给力了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1RhPVTJFt0/?igshid=7ua4s9hbi9e4" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 08:24:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马发布美国队赛场照：洛杉矶球迷，你们太给力了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190818/27c41221d8ac7012eeecbcb4a2a52a5d35aa0347.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 湖人前锋凯尔-库兹马今日通过Instagram发布一张自己昨日代表美国男篮出战热身赛的赛场照。
+   </p>
+   <p>
+    “洛杉矶球迷，你们太给力了。”库兹马配文道。
+   </p>
+   <p>
+    昨日美国男篮与西班牙男篮在洛杉矶周边的阿纳海姆举行热身赛，来自湖人的库兹马在比赛期间收获了现场观众的热烈欢呼与支持。在昨日的比赛中，库兹马出场17分钟，6投3中得到7分5篮板3助攻，美国以90-81击败西班牙。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

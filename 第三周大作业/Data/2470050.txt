@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥尼尔回应科比：如果你多传球，也许你会有12个总冠军
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1sRqxgFS4P/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 14:41:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥尼尔回应科比：如果你多传球，也许你会有12个总冠军" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/0aa3ab46cd04930ce98d28ad80b9bdb54712276e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，湖人名宿科比-布莱恩特在参加节目时谈到他和沙奎尔-奥尼尔的关系。
+   </p>
+   <p>
+    科比打趣道：“如果他不是那么懒，那我可得有12枚戒指了！”
+   </p>
+   <p>
+    随后节目主持人问道：“如果奥尼尔拥有极其认真负责的职业精神，那么他会如何？”
+   </p>
+   <p>
+    科比表示：“那他会是史上最佳。”
+   </p>
+   <p>
+    随后，名人堂成员沙奎尔-奥尼尔在相关动态下方评论回应了了有关科比的言论。
+   </p>
+   <p>
+    奥尼尔评论道：“如果你能多传一些球，特别是总决赛对阵活塞的时候（2003-04赛季总决赛），兴许你能拿到12个总冠军。”
+   </p>
+   <p>
+    奥尼尔又补充道：“你如果不努力工作，就不会有雕像（湖人队史上第五座雕像——奥尼尔暴扣）。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/14/35e2022e6315f61f444b632b2e42a0c9.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/14/cdd61403a29cf406bb89eb9e79b45f5c.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

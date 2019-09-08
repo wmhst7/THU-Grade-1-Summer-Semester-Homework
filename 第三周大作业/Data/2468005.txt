@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：爵士与布卢伊特以及摩根签下Exhibit 10合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/utahjazz/status/1164297080443064320" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 13:38:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：爵士与布卢伊特以及摩根签下Exhibit 10合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/69022fcc9a9fc5701d051d06772320470c563a49.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 犹他爵士队官方今日宣布，球队已经使用Exhibit 10合同签下了后卫特雷旺-布卢伊特以及前锋朱万-摩根。
+   </p>
+   <p>
+    布卢伊特上赛季与鹈鹕签下了一份双向合同，在鹈鹕的发展联盟球队他场均出场22.6分钟，得到11.5分4.0篮板1.5助攻。
+   </p>
+   <p>
+    摩根2018-19赛季效力于印第安纳大学，上赛季在NCAA他场均能得到15.5分8.2篮板1.9助攻1.5盖帽1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

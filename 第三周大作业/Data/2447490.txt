@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  肯特-贝兹莫尔：我来开拓者是为了赢得总冠军的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/lights-camera-action-kent-bazemore-makes-his-rip-city-debut" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 09:54:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="肯特-贝兹莫尔：我来开拓者是为了赢得总冠军的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/5498a2b5d0a0dfc018f904e2e00423b173331116.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据此前的报道，波特兰开拓者通过交易得到了亚特兰大老鹰的肯特-贝兹莫尔。
+   </p>
+   <p>
+    今日，开拓者为新援肯特-贝兹莫尔的到来召开了新闻发布会，随后贝兹莫尔接受了记者采访。
+   </p>
+   <p>
+    谈到开拓者，贝兹莫尔说道：“我很兴奋现在和这些家伙站在统一战线，这里的球队文化很棒。我来这里是为了继续朝着正确的方向前进，那就是赢得总冠军。这就像你当初第一次看到你的妻子一样，就是很顺眼。”
+   </p>
+   <p>
+    2018-19赛季常规赛，贝兹莫尔场均出场24.5分钟，得到11.6分3.9篮板2.3助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

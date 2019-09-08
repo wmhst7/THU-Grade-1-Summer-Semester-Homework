@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡特去年夏天曾认真考虑过签约尼克斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/could-carmelo-anthony-vince-carter-be-among-knicks-backup-free-agent-options/308471280" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 09:45:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡特去年夏天曾认真考虑过签约尼克斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190626/11a485320962712de35a49f7da9e26df20c459cb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 SNY记者Ian Begley撰文写到了一些适合尼克斯的老将，其中包括贾斯廷-霍勒迪、贾里德-杜德利、文斯-卡特和卡梅罗-安东尼。
+   </p>
+   <p>
+    多位消息人士透露，卡特对尼克斯主帅大卫-菲兹代尔的评价很高，并且在去年夏天认真考虑过签约尼克斯的事情，但是最终选择签约老鹰。
+   </p>
+   <p>
+    卡特今夏将成为完全自由球员，他之前称自己还会征战一个赛季，并且新赛季会是他在NBA的最后一个赛季。
+   </p>
+   <p>
+    卡特2018-19赛季常规赛场均出场17.5分钟得到7.4分2.5篮板1.1助攻，他与老鹰的合同今夏到期。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

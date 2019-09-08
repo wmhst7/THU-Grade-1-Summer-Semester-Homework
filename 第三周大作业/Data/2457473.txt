@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  传承父亲！詹姆斯大儿子Bronny自拍庆祝Taco Tuesday
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/bronny/2094856519446541540?utm_source=ig_story_item_share&amp;igshid=11ra94jc3wish" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 15:18:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="传承父亲！詹姆斯大儿子Bronny自拍庆祝Taco Tuesday" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/f5f32ffb0d5a4f385fb81f659d9f0a74d13e128a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 湖人前锋勒布朗-詹姆斯的大儿子Bronny今日通过Instagram Story更新了他与弟弟妹妹及小伙伴们庆祝Taco Tuesday的动态。
+   </p>
+   <p>
+    詹姆斯本人在今日早些时候已经于电影片场
+    <a href="https://voice.hupu.com/nba/2457381.html">
+     录制了自己的庆祝视频
+    </a>
+    ，并表示他很想念在拉斯维加斯的家人，但他知道家人们也在庆祝Taco Tuesday。“你们都以为我们忘记了Taco Tuesday！！！”Bronny配文道，并艾特了包括父亲、弟弟妹妹和好友在内的多人。
+   </p>
+   <p>
+    Bronny在视频中说道：“大家好，我们目前在维加斯参加一个锦标赛，所以我们不能和我爸一起拍摄起初的视频。但是你懂的，你们都知道今天是什么日子！Taco Tuesday！”随后Bronny将手机镜头一一转向身边的好友、弟弟Bryce以及妹妹Zhuri，让他们也面对镜头喊出“Taco Tuesday”的口号。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4397586939001636">
+     视频：小詹姆斯录制视频庆祝Taco Tuesday（41秒）
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/15/f23ee15f0b259d7353ae70c85b2e99be.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/15/4f5de1e49fbe0f8196c3f489ee946262.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/15/c260c7ab359dba30021bc71aa88de3b0.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

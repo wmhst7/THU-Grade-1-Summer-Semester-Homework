@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德章泰-默里：开心、健康地享受着我的生活
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0cLbr0Htxx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 09:45:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德章泰-默里：开心、健康地享受着我的生活" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/5bfe61cd94dc6faa6c8b260d45a136e6392fe324.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 圣安东尼奥马刺队后卫德章泰-默里今天在个人Instagram上传了一张自己的照片（见新闻配图）。
+   </p>
+   <p>
+    “开心、健康并且非常简单地享受着我的生活。”默里写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，默里因膝盖伤势（右膝前十字韧带撕裂）缺席了球队整个赛季的比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

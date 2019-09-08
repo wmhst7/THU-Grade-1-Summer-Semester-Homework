@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里：和杜兰特对外界压力有同感，将一起庆祝夺得的两冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sfgate.com/warriors/article/Steph-Curry-Kevin-Durant-Nets-D-Angelo-Russell-NBA-14299665.php" target="_blank">
+     旧金山纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 19:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里：和杜兰特对外界压力有同感，将一起庆祝夺得的两冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/7d774ecb63a645cb5d9a5a7f16cccdd0987206cf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 近日，勇士后卫斯蒂芬-库里接受了《旧金山纪事报》的采访。
+   </p>
+   <p>
+    谈到他与杜兰特的关系和他们在过去三个赛季里的成就时，库里说：“我们赢得了两个冠军，我认为无论是在作为篮球球员方面还是在做人方面，我们都在这个过程中变得更好了。每场比赛外界都要求我们打出出色的表现，还有随之而来的一切……我们要处理很多事情，我认为尤其在这个层面上，我和他有同感。”
+   </p>
+   <p>
+    谈到杜兰特的离队时，库里说，杜兰特对他的决定感到满意，库里为此感到高兴，他预期杜兰特未来会回来庆祝他赢得的两个冠军的。
+   </p>
+   <p>
+    “显然，最终他去了篮网，你只是想确保他是高兴的，确保他去了一个他觉得有必要去的地方。最终你得为他感到高兴。处于一种可以决定自己想在哪里打球的处境之下，这是联盟中每一位球员所希望的。我将永远记得我们一起经历的三年。他说未来我们大概会回到这里庆祝，就像1974-75赛季夺冠的那支勇士那样。所以当这件事发生时会很酷。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。凯文-杜兰特场均上场34.6分钟，得到26分6.4篮板5.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

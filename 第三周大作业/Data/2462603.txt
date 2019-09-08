@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  肯扬：现代篮球在进步，但希望他们找回对抗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/nba-news-kenyon-martin-believes-the-league-has-changed-for-the-better/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 16:25:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="肯扬：现代篮球在进步，但希望他们找回对抗" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/2468f51e9fb082799aa41f4ae05e1372a82cd73c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 前NBA球员肯扬-马丁近日接受Hoops Hype的采访，期间谈到了现代NBA的变化。
+   </p>
+   <p>
+    马丁说道：“在变化，而且变化是往好的方向，因为如今球员的技术进化了。以前的大个子只会做一件事，但现在，如果你是一个大个子，你必须有多方面的技能，我觉得这很好。这让我们看到了现代比赛的进步。我会希望他们在哪些方面向以前的球员学习吗？当然有，篮球是一项对抗性的运动，但他们好像放弃了对抗。希望他们能把类似假摔的东西剔除掉。但事实就是他们的技术在进步，这很棒，联盟必须不断进化，我同意这一点。”
+   </p>
+   <p>
+    肯扬-马丁2000年第1轮第1顺位被篮网选中，2014-15赛季后正式退役。马丁生涯场均出场30.6分钟，得到12.3分6.8篮板1.18抢断1.14盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

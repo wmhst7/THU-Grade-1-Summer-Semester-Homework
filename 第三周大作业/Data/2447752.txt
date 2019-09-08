@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯不在凯尔特人今夏的计划之中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonglobe.com/sports/celtics/2019/06/27/from-kemba-walker-kyrie-irving-terry-rozier-here-latest-celtics/YU1zmUfu3mne4LO1rIt58K/story.html" target="_blank">
+     波士顿环球报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:15:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯不在凯尔特人今夏的计划之中" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/01b0f962257542c2173eefd57ffd7120ab77cc1c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据《波士顿环球报》记者Adam Himmelsbach的报道，以赛亚-托马斯之前表示，他愿意回到凯尔特人打球，但是一位联盟消息人士透露，小托马斯不在凯尔特人今夏的计划里。
+   </p>
+   <p>
+    2018-19赛季常规赛，托马斯共为掘金出场12次，场均上场15.1分钟，得到8.1分1.1篮板1.9助攻，他在去年夏天与掘金签下1年203万美元的合同，即将成为自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Zach Lowe：步行者希望续约博扬-波格丹诺维奇
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/pacers-news-indiana-hopeful-they-can-bring-back-bojan-bogdanovic/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 13:50:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Zach Lowe：步行者希望续约博扬-波格丹诺维奇" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/3473c480f3dad101c7aa53d4498b4a5878aea77f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据NBA记者Zach Lowe报道，消息人士透露，步行者希望续约前锋博扬-波格丹诺维奇。
+   </p>
+   <p>
+    波格丹诺维奇既能够与迈尔斯-特纳和多曼塔斯-萨博尼斯搭档出场，也能够在小阵容中顶到四号位。
+   </p>
+   <p>
+    2018-19赛季常规赛，波格丹诺维奇场均出场31.8分钟，能够得到18分4.1篮板2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

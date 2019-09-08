@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  劲歌热舞！魔术师约翰逊晒自己生日庆典上的照片和视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1-NWDTA_yz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 14:49:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="劲歌热舞！魔术师约翰逊晒自己生日庆典上的照片和视频" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/91c0d8ff36287c5ee58dca4f53ff8fa988d875d0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 今日，湖人名宿魔术师约翰逊晒出了自己在生日庆典现场的照片和视频，并配文：“今晚是我去过的最好的老式派对之一，我们最亲密的朋友中有30%整晚都挤在舞池中跳舞，从来没有坐下来过。特别鸣谢史蒂芬-A-史密斯以及迈克尔-威尔邦德参加我的生日庆典，我感谢你们两人在NFL赛季即将开始之际前来捧场。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/28d50eec374d169a427dd02d459379ab.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="GIF 3.66M" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/0df7efb7b371be5a4e623ea069714dd4.gif"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="GIF 2.54M" src="https://c1.hoopchina.com.cn/uploads/images/20190904/14/69ecb23533cdd6bceee4823749710f3e.gif"/>
+   </p>
+   <p>
+    魔术师约翰逊职业生涯13个赛季全部效力于湖人，场均出战36.7分钟，得到19.5分7.2篮板11.2助攻。魔术师生涯共12次入选全明星，3次赢得常规赛MVP，3次赢得总决赛MVP，5次赢得总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

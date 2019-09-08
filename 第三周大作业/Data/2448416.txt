@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：目前所有迹象都表明勇士会给KD提供5年2.21亿顶薪
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/thesteinline/status/1145033011588739072?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 02:21:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：目前所有迹象都表明勇士会给KD提供5年2.21亿顶薪" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/db8b0258f021c29510cfa4006a933f5c59814df7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA记者 Marc Stein报道，目前所有迹象都表明，勇士会给杜兰特提供5年2.21亿顶薪。
+   </p>
+   <p>
+    根据之前的报道，勇士总经理鲍勃-迈尔斯计划在当地时间周末前往纽约，希望拜访杜兰特。
+   </p>
+   <p>
+    根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，凯文-杜兰特计划与篮网、快船、尼克斯和勇士在纽约进行接触。
+   </p>
+   <p>
+    之前根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，科怀-伦纳德和杜兰特已商讨过加盟同队并联手的可能性。目前两人有可能同时加盟的球队只有快船和尼克斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

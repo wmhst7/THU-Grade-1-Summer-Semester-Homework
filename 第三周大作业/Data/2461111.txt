@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才聘请Johnny Rogers担任人事副总裁
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-name-johnny-rogers-vice-president-pro-personnel" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 01:08:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才聘请Johnny Rogers担任人事副总裁" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/4359631cb16b33514b682aa24e38a8113b3fba4b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，奇才官方推特宣布球队聘请Johnny Rogers担任球队人事副总裁（vice president of pro personnel）。
+   </p>
+   <p>
+    “约翰尼为我们的球队带来了巨大的全球经验，广泛的NBA知识和良好的篮球关系，”奇才总经理汤米-谢泼德说。 “作为一名球员兼执行官，他受到普遍尊重。”
+   </p>
+   <p>
+    Johnny Rogers在1986年NBA选秀大会上第34顺位被萨克拉门托国王队选中，后来在欧洲度过了18年的大部分职业生涯，在2000年和2002年他两次随希腊联赛球队Panathinaikos获得欧洲联赛冠军。过去三个赛季在快船担任人事主管。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

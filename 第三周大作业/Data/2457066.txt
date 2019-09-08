@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特谈入选美国男篮训练营：这对我来说意味着世界
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/smart_MS3/status/1153476619178086401" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 10:14:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特谈入选美国男篮训练营：这对我来说意味着世界" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/0eca6ba7d3ca7eb24f7009a7b1119243d0293151.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 北京时间今天凌晨，布拉德利-比尔、托拜厄斯-哈里斯先后宣布退出本次男篮世界杯。此外，蔡恩-威廉森也退出了本次篮球世界杯训练营陪练队。
+   </p>
+   <p>
+    随后据NBA记者Shams Charania报道，消息人士透露，凯尔特人后卫马库斯-斯马特受邀加入篮球世界杯美国队训练营名单。
+   </p>
+   <p>
+    在受邀加入美国队训练营名单之后，斯马特更新了个人推特写道：“我热爱打球，无论是在哪儿。但是为@美国国家队打球是我一直所期待的一件事情。我对此很认真，并且我甚至也被他们考虑进去了。凯尔特人（三叶草的表情）对我来说意味着一切，但是能够穿上美国队的队服对我来说意味着世界。能够和我的队友@肯巴-沃克以及@杰森-塔特姆并肩作战真的很棒。”
+   </p>
+   <p>
+    除比尔等三人外，此前安东尼-戴维斯、詹姆斯-哈登、埃里克-戈登、CJ-麦科勒姆等球员也相继宣布不会代表美国队参加今夏的男篮世界杯，在加上马库斯-斯马特后，美国男篮训练营还有16人，分别是：哈里森-巴恩斯、安德烈-德拉蒙德、达米安-利拉德、凯文-乐福、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、保罗-米尔萨普、多诺万-米切尔、杰森-塔特姆、PJ-塔克、赛迪斯-杨和马库斯-斯马特。
+   </p>
+   <p>
+    2018-19赛季常规赛，斯马特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

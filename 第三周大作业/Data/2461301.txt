@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  布里奇斯拍摄詹姆斯演讲视频致敬偶像，詹姆斯转发致谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2100930432676813325?utm_source=ig_story_item_share&amp;igshid=t4lyeef8d3rc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 18:40:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="布里奇斯拍摄詹姆斯演讲视频致敬偶像，詹姆斯转发致谢" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/29b439a39f332d80351a7d485ffb54e443374bf7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 黄蜂球员迈尔斯-布里奇斯今日通过Instagram Story拍摄了一段湖人前锋勒布朗-詹姆斯在多伦多出席商业活动发表演讲的视频。
+   </p>
+   <p>
+    “@勒布朗-詹姆斯 偶像。”布里奇斯写道。詹姆斯转发了这段视频并配文双手合十的表情加以致谢。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻；布里奇斯场均出场21.2分钟，得到7.5分4.0篮板1.2助攻。
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/18/fbee0a3df2458db1f05bfe2a7d5c34da.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/18/213a25b29ee6464d544b9736c5a744a4.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/18/9f46e2b19fd12fa4441186ba1667d4ac.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190803/18/63ad8bed8c50d99f96774234a5986566.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

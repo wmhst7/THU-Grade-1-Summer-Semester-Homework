@@ -1,0 +1,77 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  一内一外！雄鹿发布大洛佩斯与米德尔顿国家队赛场图集
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1pIgIKh589/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 11:58:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="一内一外！雄鹿发布大洛佩斯与米德尔顿国家队赛场图集" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/abf9ba97209a5b41471a1f229df35f8ff6744e76.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 今天雄鹿官方在Instagram上晒出了队员布鲁克-洛佩斯以及克里斯-米德尔顿的国家队比赛图集并写道:“带着胜利回来!”
+   </p>
+   <p>
+    在刚刚结束的热身赛上，美国队以84-68击败加拿大，其中洛佩斯出场6分钟2投1中得到2分2篮板1盖帽，队友米德尔顿出场19分钟8投0中得到0分8篮板2助攻。
+   </p>
+   <p>
+    2018-19赛季常规赛，布鲁克-洛佩斯场均出场28.7分钟，可以得到12.5分4.9篮板2.21盖帽，克里斯-米德尔顿场均出场31.1分钟可以得到18.3分6.0篮板4.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/50332d1c740ca132685593122a5dd5ee.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/9a4379897b3a8a64997cdacf86273dfa.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/96a7a0e0e1076ac6e85f6816edd4ec3b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/db2ad8cf0bf0de7053a18c8fd054faa9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/449bb348808e8d2be72fa1efbc433b1f.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/3f1f3eabc57b94ad4d5e4e34d91e2f63.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/a8b1396751742745cd27f62886f8a2ac.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/4080fa0ed54fb7c24623302b9f636626.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/e2e5b6bdec0694eebbc178e4f8050b29.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190827/11/44e162548ff17258745c210b5121e936.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

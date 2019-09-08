@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜兰特：庆祝我们建的第20个球场，对于湾区总是充满爱
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0jrXEBDIU9/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 11:01:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜兰特：庆祝我们建的第20个球场，对于湾区总是充满爱" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/4368ea200afd7c58088ff87ebbf692c3d589acd5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日篮网球员凯文-杜兰特更新了自己的个人Instagram动态，晒出了自己在湾区建立的第20个球场。
+   </p>
+   <p>
+    “庆祝我们建设的第20个球场。我对于湾区总是充满着爱。感谢Joe Gebbia提供的支持。#建球场让他们打球”杜兰特写道。
+   </p>
+   <p>
+    杜兰特在今年NBA总决赛中遭遇跟腱断裂，将会缺席2019-20赛季的比赛。
+   </p>
+   <p>
+    2018-19赛季常规赛，杜兰特场均上场34.6分钟，得到26.0分6.4篮板5.9助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/419c9294df1526c0c1a969b71d6e8ef9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/b27087b0750e26f69893c163fb99e0b9.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/1638861d85bb1d018a533b3a3f834922.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/de2166abf7f2eb6c6b659041b9e1972e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/55e85e5db54fac8f4895f0b16f998877.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/10/d531929ed1fe79feb3b23006574e7192.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

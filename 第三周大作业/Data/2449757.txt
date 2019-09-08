@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥：我很饥饿，并准备好进化了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzajlH8FgFZ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 10:45:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥：我很饥饿，并准备好进化了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/cdb48e4316d89f1344beb51efaa203e87bea1ee6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 密尔沃基雄鹿队前锋扬尼斯-阿德托昆博今天在个人Instagram上传了一张自己的照片（见新闻配图）。
+   </p>
+   <p>
+    “我很饥饿，我已经准备好进化了。”阿德托昆博写道。
+   </p>
+   <p>
+    2017-18赛季常规赛，阿德托昆博场均出场32.8分钟，得到27.7分12.5篮板5.9助攻1.28抢断1.53盖帽，并当选了当赛季常规赛最有价值球员。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/10/11e396557a56c014bca384b2c65d1da7.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

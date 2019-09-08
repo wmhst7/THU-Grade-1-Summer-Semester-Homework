@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔发推回应外界舆论，库兹马转发表达支持
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kylekuzma/status/1143302798001336320?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 12:09:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔发推回应外界舆论，库兹马转发表达支持" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/ec49697aa8d07670dfd273f84b1b30c0bd652abc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 篮网后卫丹吉洛-拉塞尔今日发推表达面对外界舆论的心情，湖人前锋凯尔-库兹马也与他展开互动。
+   </p>
+   <p>
+    “我知道他们恨我，但我不会阅读评论。”拉塞尔写道。
+   </p>
+   <p>
+    库兹马转发这条推特并评论道：“我听到你了，兄弟（闭嘴表情）。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190625/12/03251191d8713764aafb840208f3a9a0.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

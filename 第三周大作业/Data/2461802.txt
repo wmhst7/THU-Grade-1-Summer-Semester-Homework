@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮执行主管谈阵容的不确定性：完全不感到焦虑不安
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://apnews.com/1a5607847cb8435abb160ea8cb6b0c82" target="_blank">
+     美联社
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 09:52:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮执行主管谈阵容的不确定性：完全不感到焦虑不安" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/8e3fe4a0341bb6842570152733f9369b5bca4d62.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 近日，美国男篮执行主管杰里-科兰杰洛接受了采访。
+   </p>
+   <p>
+    谈到美国队阵容的不确定性时，科兰杰洛说：“说实话，我完全不感到焦虑不安。”
+   </p>
+   <p>
+    “我们会有一些乐趣的。”
+   </p>
+   <p>
+    巴姆-阿德巴约在周日抵达拉斯维加斯后接受了采访，称当他接到邀请时，他毫不犹豫地接受了。“我当时的反应是：‘谁会拒绝这个机会呢？’”
+   </p>
+   <p>
+    在过去三届世界杯中，美国队阵容中的12名球员中都至少有6人当时的年龄在24岁以下。而目前美国队初选名单中的15人里，有6人的年龄在24岁以下。
+   </p>
+   <p>
+    美国队主教练格雷格-波波维奇则说，确定最后的12人阵容将并非易事。
+   </p>
+   <p>
+    杰里-科兰杰洛还说：“我们关注的是谁在训练营中，而不是谁不在训练营中。训练营中的很多年轻人都有机会，很有机会进入最后的大名单，其中一些人可能会在世界杯中打出影响力。”
+   </p>
+   <p>
+    根据此前的报道，美国男篮公布了征战今年男篮世界队的初选大名单，其中包括15位球员：哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、PJ-塔克、赛迪斯-杨、马库斯-斯马特、杰伦-布朗、巴姆-阿德巴约和梅森-普拉姆利。另外，美国男篮还公布了由14名球员组成的选拔队名单：德里克-怀特、乔纳森-艾萨克、小贾伦-杰克逊、乔-哈里斯、杰伦-布伦森、帕特-康诺顿、托里-克雷格、特雷-杨、马文-巴格利、贾勒特-阿伦、约翰-科林斯、米卡尔-布里奇斯、米切尔-罗宾逊和达龙-福克斯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

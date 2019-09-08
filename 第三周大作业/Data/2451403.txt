@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才续约托马斯-布莱恩特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/wizards/wizards-re-sign-thomas-bryant" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 08:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才续约托马斯-布莱恩特" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/03789a0b62b2c6330385aa04aafeda7d30f797c6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 奇才官方今日宣布，他们已经与球队中锋托马斯-布莱恩特完成续约，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    “续约托马斯是我们这个休赛期的首要任务，他会继续进步，我们非常激动能拥有他，他的整体态度、职业道德和球队为先的心态代表着我们正在努力打造和维持的那种球队环境。”奇才的篮球运营高级副总裁Tommy Sheppard说道。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，布莱恩特将以3年2500万美元的合同续约奇才。
+   </p>
+   <p>
+    2018-19赛季常规赛，布莱恩特在奇才场均出战20.8分钟可以拿到10.5分6.3篮板1.3助攻0.9盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

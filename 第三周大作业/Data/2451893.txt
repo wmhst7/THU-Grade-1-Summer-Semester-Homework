@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  续约马刺！盖伊今日更新社媒晒出与马刺众多队友赛场合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzrJcREl2H2/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:22:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="续约马刺！盖伊今日更新社媒晒出与马刺众多队友赛场合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/c2f210c8ba93b7d05587d3f1297edc1a179f066b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日马刺官方宣布，球队正式续约鲁迪-盖伊。根据球队政策，合同细节并未公布。
+   </p>
+   <p>
+    随后，鲁迪-盖伊更新了个人社交媒体Instagram晒出自己与马刺众球员赛场合照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“马刺。”
+   </p>
+   <p>
+    根据此前消息的报道，盖伊计划与马刺达成2年3200万美元的续约合同。马刺拥有盖伊的早鸟权，所以马刺可以提供比盖伊之前一个赛季薪水（1010万美元）高175%的涨薪。
+   </p>
+   <p>
+    过去两个赛季，盖伊均在马刺度过，2018-19赛季常规赛他场均上场26.7分钟，得到13.7分6.8篮板2.6助攻，季后赛场均上场25.6分钟，得到11.1分7.1篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

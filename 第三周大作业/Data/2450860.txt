@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔治与威斯布鲁克的关系始终很好，与交易申请关联不大
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/royceyoung/status/1147431218520215552?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 17:44:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔治与威斯布鲁克的关系始终很好，与交易申请关联不大" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/f0134afc05537917bd1f02a004927a1641f8a323.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 保罗-乔治近日向雷霆提出交易申请，随后雷霆今日达成协议将其交易至快船。
+   </p>
+   <p>
+    据NBA记者Royce Young报道，消息人士透露，拉塞尔-威斯布鲁克与乔治的关系始终很好，乔治的交易申请与他们二人的私交关联不大。
+   </p>
+   <p>
+    据Young报道，过去几天内，乔治的经纪人Aaron Mintz致电雷霆总经理萨姆-普雷斯蒂，并要求雷霆交易乔治。这一变故让雷霆方面完全猝不及防，而这一事件的实际原因在于科怀-伦纳德一直在招募乔治与他一同加入快船。乔治与雷霆的合同还有两年，附加一年的球员选项，所以雷霆本可以留下乔治并再次赢得他的信任。但雷霆为了预防安东尼-戴维斯交易申请被公开的情况出现，决定立即扣动交易扳机。
+   </p>
+   <p>
+    据Young报道，乔治今夏双肩都接受了手术，目前他没有明确的回归时间表，但雷霆原本预计他将缺席新赛季初段的比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

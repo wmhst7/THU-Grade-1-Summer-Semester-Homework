@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：拜仁慕尼黑篮球俱乐部签约乔什-休斯蒂斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/911351/josh-huestis-makes-the-jump-to-europe-joins-bayern/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 18:16:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：拜仁慕尼黑篮球俱乐部签约乔什-休斯蒂斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/86acfbb0a59c24a0d3396b780b9e3870cc6226c0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 德国的拜仁慕尼黑篮球俱乐部宣布，他们已经签下了乔什-休斯蒂斯。
+   </p>
+   <p>
+    休斯蒂斯于2014年选秀大会第一轮第29顺位被雷霆选中，之后在雷霆效力三个赛季，上赛季加盟马刺，但是在常规赛开始前被裁掉。
+   </p>
+   <p>
+    2017-18赛季，休斯蒂斯常规赛场均出场14.2分钟，能得到2.3分2.3篮板；季后赛场均出场4.8分钟，能得到0.8分0.8篮板。
+   </p>
+   <p>
+    NBA职业生涯至今，休斯蒂斯常规赛场均上场14.1分钟得到2.5分2.4篮板0.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

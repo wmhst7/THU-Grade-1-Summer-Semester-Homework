@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  亚历山大更新社媒晒出一张自己身边环绕芝麻街玩偶的帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1ALUSIpjKu/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 14:50:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="亚历山大更新社媒晒出一张自己身边环绕芝麻街玩偶的帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/2273f93335a324c8b7dc57ab3b0391fcf1347fb5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今日，雷霆后卫谢伊-吉尔杰斯-亚历山大更新了个人社交媒体Instagram晒出一张自己身边环绕芝麻街人物玩偶的个人帅照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“在大街上摆pose，就在芝麻街上。”
+   </p>
+   <p>
+    芝麻街是美国从20世纪60年代末播出的一档全国性儿童教育类节目。
+   </p>
+   <p>
+    2018-19赛季常规赛，亚历山大场均出场26.5分钟，能够得到10.8分2.8篮板3.3助攻1.17抢断0.55盖帽；季后赛场均上场28.8分钟，得到13.7分2.7篮板3.2助攻1抢断0.83盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190811/14/b8365568d11ec21ef46f347cf22d801c.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

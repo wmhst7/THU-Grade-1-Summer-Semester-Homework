@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人季前赛赛程公布：四场中两场对骑士一场对魔术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1164236350503211008" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 04:53:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人季前赛赛程公布：四场中两场对骑士一场对魔术" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/56792fb733088e874074745fdd179442b08af43c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 根据NBA记者Adrian Wojnarowski的报道，NBA的季前赛赛程已经公布。凯尔特人将进行四场季前赛，其中两场对阵爵士，余下两场分别对阵魔术和黄蜂。具体时间安排如下：
+   </p>
+   <p>
+    当地时间10月6日晚6点，凯尔特人主场对阵黄蜂
+   </p>
+   <p>
+    当地时间10月11日晚7点，凯尔特人客场对阵魔术
+   </p>
+   <p>
+    当地时间10月13日下午3点，凯尔特人主场对阵骑士
+   </p>
+   <p>
+    当地时间10月15日晚7点，凯尔特人客场对阵骑士
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

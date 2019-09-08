@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：前NBA球员菲尔-普雷西加盟西班牙联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Eurohoopsnet/status/1160497074657517568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 19:08:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：前NBA球员菲尔-普雷西加盟西班牙联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190811/0689d9d0df90918adb8fbca183677e308ed85ff5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 西班牙联赛俱乐部Movistar Estudiantes官方今日宣布，球队已经与前NBA球员菲尔-普雷西签约。
+   </p>
+   <p>
+    普雷西毕业于密苏里大学，是2013年的NBA落选秀，司职控球后卫。NBA职业生涯曾为凯尔特人、76人和太阳出战过，共出场148场常规赛，场均上场13.6分钟，能够得到3.2分1.5篮板2.9助攻。
+   </p>
+   <p>
+    普雷西上赛季效力于土耳其联赛比锡达斯俱乐部，共出场44场比赛，场均得到6.9分4助攻1.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾斯廷-霍勒迪正考虑湖人快船公牛等多支有意他的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MikeAScotto/status/1146830345280659457" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 01:24:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾斯廷-霍勒迪正考虑湖人快船公牛等多支有意他的球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/f4924c7724d9079488a308f1c2af8f8c3921425b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 根据The Athletic记者Michael Scotto报道，多位消息人士透露，贾斯廷-霍勒迪正考虑多支有意签下他的球队，包括湖人、快船、公牛、猛龙、步行者、奇才、黄蜂和骑士。
+   </p>
+   <p>
+    根据Michael Scotto报道，灰熊对于先签后换交易霍勒迪持开放态度。
+   </p>
+   <p>
+    此前霍勒迪的合同为2年900万美元，他在2018-19赛季中期被公牛交易至灰熊，目前他是完全自由球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，霍勒迪场均上场31.8分钟，得到10.4分3.9篮板1.8助攻1.48抢断。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

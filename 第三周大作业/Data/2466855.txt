@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少将参加哈登下周的名人垒球赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/bendubose/status/1163143101608857600?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 08:09:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少将参加哈登下周的名人垒球赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/071ab885c08bf0f36a368b3ca2460c6d2ff0b0ca.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 火箭的詹姆斯-哈登将在当地时间8月25日在休斯顿大学举办名人垒球赛，这是哈登今夏“哈登休城周末”活动的一部分。
+   </p>
+   <p>
+    届时拉塞尔-威斯布鲁克也将参赛，其他参赛的名人还有歌手特拉维斯-斯科特和Meek Mill等人。
+   </p>
+   <p>
+    比赛免费观看，并且面向大众开放。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/08/b61f5cfaa6def6c44499febfc7684a14.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

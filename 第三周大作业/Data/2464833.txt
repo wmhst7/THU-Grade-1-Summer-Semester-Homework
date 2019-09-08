@@ -1,0 +1,77 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯新赛季赛程：揭幕战对阵马刺，收官战对阵森林狼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nyknicks/status/1161022774401478657" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 09:40:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯新赛季赛程：揭幕战对阵马刺，收官战对阵森林狼" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/be23bee9183ad321bed44fd05487d4ccf91453af.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 根据NBA官网的报道，纽约尼克斯队2019-20赛季完整赛程出炉。尼克斯将在北京时间10月24日揭幕战客场挑战马刺，4月16日收官战客场挑战森林狼。
+   </p>
+   <p>
+    重点比赛（北京时间）：
+   </p>
+   <p>
+    10月24日客场挑战马刺
+   </p>
+   <p>
+    10月26日客场挑战篮网
+   </p>
+   <p>
+    10月27日主场迎战凯尔特人
+   </p>
+   <p>
+    11月9日客场挑战独行侠
+   </p>
+   <p>
+    11月25日主场迎战篮网
+   </p>
+   <p>
+    1月23日主场迎战湖人
+   </p>
+   <p>
+    完整赛程表：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/09/2d5f9b3446bc6e288c1daaf9ed774e07.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/09/0e749c0b79118d0f8d1dbdc56d86471b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/09/a79d612f2e960511cfb19a3bd227dbd5.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/09/92437d88da9c7c07355da4274d06b6b2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

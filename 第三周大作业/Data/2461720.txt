@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  以赛亚-希克斯签约俄罗斯球队萨拉托夫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/08/isaiah-hicks-to-play-in-russia.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 03:50:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="以赛亚-希克斯签约俄罗斯球队萨拉托夫" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/7a1af1d453662ac37c431baf391e420f12f16431.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 据记者报道，自由球员以赛亚-希克斯与VTB联赛球队萨拉托夫达成协议，下赛季将前往俄罗斯打球。
+   </p>
+   <p>
+    希克斯是2017年的落选秀，来自北卡罗莱纳大学。
+   </p>
+   <p>
+    2018-19赛季常规赛，希克斯共上场3次，场均上场10.7分钟，得到4.0分2.3篮板1.00盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

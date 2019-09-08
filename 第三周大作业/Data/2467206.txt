@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA新秀调查之最佳组织者：莫兰特当选球队最佳组织者
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/2019-20-nba-rookie-survey" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 08:14:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA新秀调查之最佳组织者：莫兰特当选球队最佳组织者" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/45de953a3a6e629eeac56512e863e676d45148b2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 NBA官网近日对本届通过选秀进入联盟的42位新秀（参与了定妆照拍摄的新秀）进行了问卷调查。各位新秀将就一系列问题投票给出自己的选择。部分调查结果如下：
+   </p>
+   <p>
+    这届新秀谁是最佳球队组织者？
+   </p>
+   <p>
+    贾-莫兰特（灰熊），得票率40%
+   </p>
+   <p>
+    达里厄斯-加兰（骑士），得票率15%
+   </p>
+   <p>
+    泰-杰罗姆（太阳），得票率10%
+   </p>
+   <p>
+    科比-怀特（公牛），得票率10%
+   </p>
+   <p>
+    尼基尔-亚历山大-沃克（鹈鹕），得票率8%
+   </p>
+   <p>
+    小凯文-波特（骑士），得票率6%
+   </p>
+   <p>
+    特里蒙特-沃特斯（凯尔特人），得票率6%
+   </p>
+   <p>
+    其余得到选票的球员：卡森-爱德华兹（凯尔特人）、凯尔-盖伊（国王）。
+   </p>
+   <p>
+    去年，当选最佳组织者的新秀是特雷-杨，获得了35%的选票。
+   </p>
+   <p>
+    值得一提的是，在2007年，当时后卫迈克尔-康利（当时效力于灰熊）在最佳组织者这项问题上获得45%的最佳选票，灰熊肯定很乐意看到莫兰特能跟当年的康利一样给球队带来益处。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

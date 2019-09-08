@@ -1,0 +1,90 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：雷霆将乔治交易至快船，伦纳德招募其联手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1147383639036092416" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 13:56:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：雷霆将乔治交易至快船，伦纳德招募其联手" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/687d2cbe0eed7792a7b69a2bea46a9d20fc95ac5.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，雷霆将保罗-乔治交易至快船换来数量创造纪录的选秀权。
+   </p>
+   <p>
+    此外，快船也送走了潜力新秀谢伊-吉尔杰斯-亚历山大和达尼罗-加里纳利。亚历山大是快船在2018年首轮第11顺位选中的新秀，2018-19赛季常规赛，亚历山大场均出战26.5分钟，能够得到10.8分2.8篮板3.3助攻1.17抢断0.55盖帽。
+   </p>
+   <p>
+    选秀权方面，快船送出了4个无保护的首轮签、1个受保护的首轮签和2个选秀权互换的权利。
+   </p>
+   <p>
+    据NBA记者Marc Stein报道，雷霆在这笔交易中从快船手上拿到了3个不受保护的首轮签，分别是2022年、2024年以及2026年；2个来自热火的首轮签（2021年不受保护、2023年前1-14顺位保护），以及互换快船2023年和2025年首轮签的权利。NBA记者Sam Amick表示，这两个互换权也是不受保护的签位。
+   </p>
+   <p>
+    快船拥有热火的2021年不受保护首轮签，此外，他们也将在吉米-巴特勒先签后换的四方交易中得到热火的2023年乐透保护首轮签。这样一来，快船便可以在满足“泰德-施特平条款”（根据该条款规定，球队禁止做出让其在未来连续两年内没有首轮选秀权的交易）以及“七年规则”（球队在交易中只能送走
+    <strong>
+     未来七年内
+    </strong>
+    的选秀权）的情况下将5个选秀权交易出去。
+   </p>
+   <p>
+    （
+    <a href="https://nba.hupu.com/wiki/%E4%B8%83%E5%B9%B4%E8%A7%84%E5%88%99">
+     虎扑篮球百科：“什么是施特平条款？”&gt;&gt;
+    </a>
+    ）
+   </p>
+   <p>
+    Woj后续更新，刚和快船签约的科怀-伦纳德最近一直在招募乔治携手加盟快船，快船在今天成功做到了这一点。
+   </p>
+   <p>
+    乔治和伦纳德都想要一块打球，伦纳德想要加入一支冠军热门球队，他认为乔治是那个他想要携手作战的球星。
+   </p>
+   <p>
+    消息人士透露，在伦纳德招募乔治后，乔治联系了雷霆，申请了交易，雷霆别无选择，只能从最糟糕的情况中谋取最大的利益。
+   </p>
+   <p>
+    据NBA记者Shams Charania报道，消息人士透露，竞争对手早已察觉到乔治和拉塞尔-威斯布鲁克之间的嫌隙。伦纳德最近几天一直在推动快船为他找来第二名球星，他们成功做到了。
+   </p>
+   <p>
+    据NBA记者Marc Stein报道，伦纳德给了快船很多时间去尝试得到他想要的第二名球星，快船通过交易完成了这件事。
+   </p>
+   <p>
+    据NBA记者Ramona Shelburne报道，消息人士透露，过去几天之内，乔治向雷霆申请了交易，雷霆方面别无选择，只能寻找促成交易的方法，而不是冒着让一位不开心的球星继续征战一个赛季的风险。
+   </p>
+   <p>
+    据NBA记者Sam Amick报道，在得到了伦纳德的热情招募后，乔治向雷霆明确表示，这笔交易正是他想要的。
+   </p>
+   <p>
+    <span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px;">
+     [vote]733958[/vote]
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多才多艺！库兹马社媒更新橄榄球训练动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/2085327485836510764?utm_source=ig_story_item_share&amp;igshid=9zek4h1ur4tg" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 08:16:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多才多艺！库兹马社媒更新橄榄球训练动态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/6ef85647030a1dfb4685ef4b335a2705ab41ee92.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 湖人前锋凯尔-库兹马今日通过Instagram Story更新了一组橄榄球训练照。
+   </p>
+   <p>
+    库兹马赤裸上身，在橄榄球场地上进行着训练。此外，他还发布了自己昨日出席ESPY颁奖礼的红毯照。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/08/08a7b9adbc87cb18ad2b1907d8dc20b9.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/08/c934ff5b19e49f6c232145a9323d8c09.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/08/87d200d4aea0e11d39d24a81ee693b74.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/08/75d3f1eedbd407cfa7e00b8d8b840049.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

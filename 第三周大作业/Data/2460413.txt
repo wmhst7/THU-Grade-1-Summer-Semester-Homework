@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：詹姆斯戴维斯库兹马是球队核心，阵容为他们打造
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/07/31/lakers-frank-vogel-lebron-james-anthony-davis-nba-free-agency" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 09:26:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：詹姆斯戴维斯库兹马是球队核心，阵容为他们打造" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/1064ef68f0f64e65db0047208658e62ee0d77e4d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 湖人主帅弗兰克-沃格尔近日接受采访时谈到了球队的阵容情况。
+   </p>
+   <p>
+    湖人一度在阵容中仅有三位正式签约的球员即勒布朗-詹姆斯、安东尼-戴维斯和凯尔-库兹马，而沃格尔认为“那是很有趣的一段时期”。
+   </p>
+   <p>
+    关于是否需要等待阵容确定才能制定战术计划，沃格尔答道：“当然如此。任何计划总是需要以实际人员为出发点。诚然，你总归想要继续发扬你的赢球理念，如分享球，加快节奏，加强防守，做好备战环节，让球队准备就绪。但取决于球队阵容的成员，其中的执行细节大为不同。因此，虽然有段时间我确实拥有AD，勒布朗和Kuz，那也就是我手头全部的球员了。所以就是很长的等待过程，等等看我们的阵容里会有哪些人，届时再制定计划。”
+   </p>
+   <p>
+    “不过他们三个人令人激动，他们当然是球队的核心和关键成员，其余的阵容围绕他们打造。我们基本上就是从一幅空白画卷上搭建阵容，通常的组建球队方式并非如此，而是在已有阵容基础上引入四五名球员。因此，与罗勃-佩林卡共同完成这一过程感觉很有趣，他极其配合，向我咨询关于引援的意见，我们携手打造了一套我认为在磨合到位后将会实力不俗的阵容。”沃格尔说道。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出战35.2分钟，得到27.4分8.5篮板8.3助攻；戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻2.4盖帽；库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  休赛期最差操作？某助教：尼克斯的五大阵容令人困惑
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChereAurora/status/1154277475033071616?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 14:35:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="休赛期最差操作？某助教：尼克斯的五大阵容令人困惑" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/de44724543f0e5e3883ff9d6d66ecc72d2b95aec.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 近日，美国媒体针对2018-19赛季及休赛期的相关操作采访了20位教练、高管或球探。
+   </p>
+   <p>
+    当被问及认为休赛期最差的操作是哪个的时候，有6人选择了尼克斯的系列操作。
+   </p>
+   <p>
+    一位东部分区球队的高管表示：“可能有人会认为他们做的不错，保持了阵容灵活度。但我甚至连他们阵容中的（朱利叶斯）兰德尔都喜欢不起来，所以我真的不太理解他们到底在干嘛。我猜他们可能觉得这比花8000万签两名自由球员来的要好，但这就好比你说自从你不顿顿去吃麦当劳或者汉堡王了，你现在饮食更健康了。你确实更健康了，只是因为你不能吃得更差了而已。”
+   </p>
+   <p>
+    而一位东部分区球队的助教表示：“尼克斯的五大阵容真的让我很困惑。”
+   </p>
+   <p>
+    除此之外，也有6人选择了太阳与里基-卢比奥3年5100万美元的签约。
+   </p>
+   <p>
+    一位东部分区的球探对此表示：“他们在他身上花了一大笔钱，但他的表现并没有非常好。也许太阳已经竭尽所能去寻找一个合格的控球后卫了，但他不过是泛泛之辈。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

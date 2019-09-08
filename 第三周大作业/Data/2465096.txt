@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔登-约翰逊：荣幸为马刺效力，期待波波维奇的指导
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://news4sanantonio.com/sports/spurs-zone/keldon-johnson-says-its-an-honor-to-play-for-the-spurs" target="_blank">
+     WOAI-TV
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 03:04:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔登-约翰逊：荣幸为马刺效力，期待波波维奇的指导" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/2adcd90bae6c5d1407724e26499875de5d6070b4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 马刺新秀凯尔登-约翰逊近日接受了记者采访，谈及自己为马刺效力的感受。
+   </p>
+   <p>
+    “这是一种荣耀，是我的荣幸。我感到很幸运能够为马刺效力，穿上马刺的战袍。”约翰逊说道。
+   </p>
+   <p>
+    在今夏拉斯维加斯夏季联赛中，约翰逊出场3次，场均得到9.3分3.7篮板；在盐湖城夏季联赛中，约翰逊出场2次，场均得到16.5分4.5篮板。
+   </p>
+   <p>
+    “我迫不及待加入马刺并且在格雷格-波波维奇和其他教练和球队职员的教导下不断成长了。”约翰逊补充道。
+   </p>
+   <p>
+    谈及有可能像德里克-怀特、德章泰-默里及其他马刺先前的新秀一样，将先在附属发展联盟球队进行历练时，约翰逊说道：“我对此持开放态度，我整装待发。”
+   </p>
+   <p>
+    约翰逊是今年选秀大会的29号秀，今年19岁，身高1.98米，体重95公斤，2018-19赛季，代表肯塔基大学出场37次，场均30.7分钟，得到13.5分5.9篮板1.7助攻0.8抢断0.2盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

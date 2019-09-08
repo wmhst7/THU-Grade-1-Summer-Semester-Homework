@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  略显帅气！尼克斯官推今日晒出两位新秀定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nyknicks" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 10:43:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="略显帅气！尼克斯官推今日晒出两位新秀定妆照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/bf3037a5e21a7853cdfb1665d076ea9ad8a934ec.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，尼克斯官推晒出今年两名新秀RJ-巴雷特和伊格纳斯-布拉兹代基斯的定妆照（见新闻配图）
+   </p>
+   <p>
+    伊格纳斯-布拉兹代基斯来自于立陶宛，被国王以次轮第17顺位选中，随后被送至尼克斯。
+   </p>
+   <p>
+    RJ-巴雷特来自于杜克大学，被尼克斯以首轮第3顺位选中。
+   </p>
+   <p>
+    <img alt="GIF 1.8M" src="https://c1.hoopchina.com.cn/uploads/images/20190812/10/9071382355b4571d26ab3fdf0cfa1b12.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2.6M" src="https://c1.hoopchina.com.cn/uploads/images/20190812/10/8975b1e7492794e5c94670f1fbae472a.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

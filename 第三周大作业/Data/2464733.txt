@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙新赛季赛程：圣诞迎战绿军，12月12日迎战快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JLew1050/status/1160992010825818117" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 05:01:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙新赛季赛程：圣诞迎战绿军，12月12日迎战快船" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/1a03673af380dfa8459a47b530d51fa5ab2e403e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 根据NBA官网的报道，多伦多猛龙队2019-20赛季完整赛程出炉。猛龙将在北京时间10月23日揭幕战对阵鹈鹕，而常规赛收官战则是北京时间4月16日对阵魔术。主场迎战马刺被安排在1月13日，主场迎战快船被安排在12月12日。
+   </p>
+   <p>
+    重点比赛（均为北京时间）：
+   </p>
+   <p>
+    10月26日对阵凯尔特人
+   </p>
+   <p>
+    11月11日对阵湖人
+   </p>
+   <p>
+    11月26日主场迎战76人
+   </p>
+   <p>
+    12月9日客场对阵76人
+   </p>
+   <p>
+    12月12日主场迎战快船
+   </p>
+   <p>
+    1月13日主场迎战马刺
+   </p>
+   <p>
+    3月6日客场挑战勇士
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/04/9b0d51075a78306a15145d96a7a77837.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

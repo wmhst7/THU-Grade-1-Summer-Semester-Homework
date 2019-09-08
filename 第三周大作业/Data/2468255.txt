@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火招募巴特勒时表明球队会积极引入第二名球星
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/nba/miami-heat/article234246957.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 08:13:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火招募巴特勒时表明球队会积极引入第二名球星" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/c2328e786d208fdeec7031fb7f75bdb929856f61.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 根据《迈阿密先驱报》记者Anthony Chiang的报道，一位联盟消息人士透露，热火今夏招募吉米-巴特勒，希望他作为一名证明过自己的球星加入球队，并且告知巴特勒球队会积极努力引入第二名球星。
+   </p>
+   <p>
+    热火今夏完成了四队交易，巴特勒通过先签后换加盟热火。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴特勒为76人出战了55场比赛，场均出战33.2分钟得到18.2分5.3篮板4助攻1.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

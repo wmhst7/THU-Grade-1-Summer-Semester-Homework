@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：不惊讶威斯布鲁克被交易，西部竞争很激烈
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1080263/2019/07/16/damain-lillard-qa-the-blazers-star-speaks-on-space-jam-the-anticipation-of-upcoming-season-and-more/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:08:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：不惊讶威斯布鲁克被交易，西部竞争很激烈" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/4035a12f04d0ec9d173be26054f726e4500ab6af.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 近日，达米安-利拉德接受了The Athletic的采访。
+   </p>
+   <p>
+    谈到威斯布鲁克被交易至休斯顿火箭一事，利拉德说：“我觉得，我想到保罗-乔治被交易了，然后再想到格兰特被交易到丹佛掘金了，当我开始看到这些真正的球队拼图开始离开球队，我明白，要么雷霆将开始重建，威斯布鲁克会是下一个被交易走的；要么威斯布鲁克会告诉球队：你们知道，我不想呆在一支彻底重建的球队。所以我并不惊讶，但我没有想到他会去火箭。”
+   </p>
+   <p>
+    谈到近年来西部充满了机遇的局势，利拉德说：“我对此有所耳闻。因为你知道，凯文-杜兰特离队了，克莱受了严重的膝伤，所以人们知道勇士不会再是原来那支勇士了，他们认为西部充满了机遇。但是西部的竞争依然非常激烈，每支球队都有一定实力。一开始，每个人都将快船称为一支劲旅，他们打球很努力，现在又有保罗-乔治和科怀-伦纳德的加盟。安东尼-戴维斯加入了湖人。鹈鹕拥有很多有天赋的年轻球员，也会有一定竞争力，我认为人们没有给予他们足够的赞赏。爵士也引入了一些球员。所以西部的局势看起来可能更加平衡了。但是要冲出西部大概更困难了，因为现在每支球队都很不错。国王又成长了一年，太阳也成长了一年。我的意思是，西部所有球队都在进步。正如我所说，每个人都认为西部充满了机遇，但是事实当然并非如此。西部有很多不错的球队。”
+   </p>
+   <p>
+    2018-19赛季常规赛，达米安-利拉德场均上场35.5分钟，得到25.8分4.6篮板6.9助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

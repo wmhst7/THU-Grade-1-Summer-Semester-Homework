@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：凯尔特人正式签下新秀卡森-爱德华兹
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/celtics/news/pressrelease/celtics-sign-2019-nba-draft-pick-carsen-edwards" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 00:21:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：凯尔特人正式签下新秀卡森-爱德华兹" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/634c89aff7ec62c279301b8be6a1ba158985a36b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日凯尔特人官方宣布，球队正式签下新秀后卫卡森-爱德华兹。根据球队政策，合同细节暂未公布。
+   </p>
+   <p>
+    爱德华兹是今年选秀大会的次轮33号秀，在场上担任后卫位置，2018-19赛季NCAA代表普渡大学共上场36次，场均上场35.4分钟，得到24.3分3.6篮板2.9助攻1.33抢断。
+   </p>
+   <p>
+    在今年的拉斯维加斯夏季联赛上，爱德华兹共上场5次，其中首发上场2次，场均得到19.4分3.8篮板1.4助攻1.0抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

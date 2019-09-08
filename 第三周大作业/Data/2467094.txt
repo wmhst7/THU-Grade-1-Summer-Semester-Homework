@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德：音乐与篮球是相互平衡的，相机背后我在认真训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Dame_Lillard/status/1163477911254384645" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 01:26:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德：音乐与篮球是相互平衡的，相机背后我在认真训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/dc5f5f900359c482af28412c75c606a829ee8615.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 今日，开拓者球员达米安-利拉德更新推特，发表了一些关于自己近期音乐制作的一些感想。
+   </p>
+   <p>
+    利拉德配文：“自从我开始玩音乐并认真对待它以来，我作为一名球员也做得更好。 这是一种平衡。 我没有经常在社媒上发布关于训练的动态，或者发布你们都喜欢的比赛高光集锦……但是当真实的东西来临时，我们会看到当相机关闭时谁在做什么！ 早上好。”
+   </p>
+   <p>
+    随后湖人球员贾里德-杜德利转发这条推特并配文：“早上好！（笑哭emoji*2）”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

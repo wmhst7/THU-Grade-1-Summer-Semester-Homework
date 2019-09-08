@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  众现役和退役球员发推，为德马库斯-考辛斯祈福
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/search?q=%40boogiecousins&amp;src=typeahead_click" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 02:08:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="众现役和退役球员发推，为德马库斯-考辛斯祈福" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/e8f35b5430ec0ca6f754bc734464a022f765ba29.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，湖人中锋德马库斯-考辛斯遭遇膝盖前交叉韧带撕裂。随后，多位NBA球员和退役球员更新了个人推特动态，表示祝福。
+   </p>
+   <p>
+    “我希望@德马库斯-考辛斯 的伤病不会太严重。”开拓者中锋优素福-努尔基奇写道。
+   </p>
+   <p>
+    “哇！为大伙计@德马库斯-考辛斯 祈福！我的兄弟，早日好起来。我已经无言以对！我一刻都无法因其他事情而停止对他的关心！”前NBA球员肯德里克-帕金斯写道。
+   </p>
+   <p>
+    “伙计，我现在能为@德马库斯-考辛斯 切身体会！我知道这十分糟糕和艰难，但不要放弃，我的大兄弟。你有许多人支持着你@德马库斯-考辛斯 ”前NBA球员特雷沃-布克写道。
+   </p>
+   <p>
+    “为@德马库斯-考辛斯祈福，现在对他来说一定很煎熬。”国王中锋里乔恩-霍姆斯写道。
+   </p>
+   <p>
+    “为我的兄弟@德马库斯-考辛斯祈福，请保持乐观的心态和信念。”马刺前锋德马雷-卡罗尔写道。
+   </p>
+   <p>
+    “为我的兄弟@德马库斯-考辛斯祈福。”森林狼前锋卡尔-安东尼-唐斯写道。
+   </p>
+   <p>
+    “（祈祷表情）（祈祷表情）（祈祷表情）@德马库斯考辛斯。”奇才后卫布拉德利-比尔写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：VienusSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

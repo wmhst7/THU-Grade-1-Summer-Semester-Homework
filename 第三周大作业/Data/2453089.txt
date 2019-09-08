@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  第一天就开练！湖人官方发布库克与库兹马训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzzZ1ByA6MP/?igshid=nnjp6wcesp32" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 12:48:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="第一天就开练！湖人官方发布库克与库兹马训练照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/bb5ef9cf3c23a217c71e64cfcbd2bad2df52f079.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 湖人官方Instagram今日发布了一组新援奎因-库克与前锋凯尔-库兹马一起进行训练的照片。
+   </p>
+   <p>
+    “奎因vs库兹马。@奎因-库克 来洛杉矶的第一天就已经在投入训练。”湖人官方写道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/12/ceb32484f4013ff338839bf1a11d2989.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/12/ff1647fffc6f6e7003677e920ec87ef6.jpg"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/12/b211093262e19f866c5a203c074da930.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

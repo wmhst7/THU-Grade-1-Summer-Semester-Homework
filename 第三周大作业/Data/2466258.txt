@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米德尔顿：我们的篮板保护做得很好，只是需要控制犯规
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Bucks/status/1162559941900754944" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 11:10:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米德尔顿：我们的篮板保护做得很好，只是需要控制犯规" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/5ae63ec678689ec5375c6a2dfa610a398f400af4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 美国男篮与西班牙男篮的热身赛正在进行当中，美国男篮半场取得了54-41领先，克里斯-米德尔顿在场边接受了媒体采访。
+   </p>
+   <p>
+    谈到球队在上半场的表现，米德尔顿说：“就目前为止，这是一个很不错的开局，我们的篮板保护做得很好，只是需要控制犯规。”
+   </p>
+   <p>
+    米德尔顿在上半场4投全中得到10分，谈到自己的状态，米德尔顿说：“他们告诉我，一旦获得空位的机会，就做好投篮的准备，持续在场上得分。无论情况如何，我只是做好投篮的准备。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

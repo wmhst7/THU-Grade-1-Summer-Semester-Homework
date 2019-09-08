@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爱心满满！库里夫妇在奥克兰成立关注青少年健康的基金会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcbayarea.com/news/local/Steph-and-Ayesha-Curry-Launch-Foundation-With-Kids-Day-of-Fun-in-Oakland-512920091.html" target="_blank">
+     nbcbayarea
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 10:03:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爱心满满！库里夫妇在奥克兰成立关注青少年健康的基金会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/183fb2f009924795434fcda970ae4b0f8608e342.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 据报道，斯蒂芬-库里和他的妻子阿耶莎在奥克兰成立了一个新的基金会，基金会名为“Eat. Learn. Play”，旨在利用他们在食物和健康方面的优势，帮助奥克兰的孩子们。
+   </p>
+   <p>
+    阿耶莎表示：“我们答应你们，我们将一直在奥克兰为你们做一些事。这需要一个组织，我认为每个人都值得拥有一个组织。我们很兴奋能够为需要它的人们和家长们创立一个组织。”
+   </p>
+   <p>
+    基金会宣布成立后，库里招待了参加奥克兰夏季训练营的900个孩子，与他们一起玩了一天，为他们提供健康的食物，并开展了一些活动，库里夫妇全程参与到其中，并称基金会还会为孩子们提供奖学金，翻修运动场，支持孩子们的健康选择。
+   </p>
+   <p>
+    库里对记者说道：“能够告诉全世界关于这个基金会的事，并让基金会运作起来，真正产生你想要的影响，这令人感到兴奋。在我的成长过程中，我会去公园，去运动馆，去一些安全的地方，像一个孩子那样玩耍，享受乐趣，我从中学到了很多。”
+   </p>
+   <p>
+    在活动最后，库里夫妇给了孩子们一个惊喜。他们宣布，他们会给所有参加活动的孩子一双库里的新签名鞋。
+   </p>
+   <p>
+    “所有奥克兰的营员都会得到一双新鞋。我浑身湿透是有理由的，我们就这么做吧。”斯蒂芬-库里对记者说道。
+   </p>
+   <p>
+    2018-19赛季，斯蒂芬-库里常规赛场均上场33.8分钟，可以得到27.3分5.3篮板5.2助攻1.33抢断，季后赛场均上场38.5分钟，可以得到28.2分6.0篮板5.7助攻1.09抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

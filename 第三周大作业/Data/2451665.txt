@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  里奇-保罗：伦纳德做了正确决定，快船是一支很棒的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1148028251580850183?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 20:39:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="里奇-保罗：伦纳德做了正确决定，快船是一支很棒的球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/73916887711cdf0a6f7b9874295e4e91a9e3a8ad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 著名经纪人里奇-保罗今日在夏季联赛现场接受采访谈到了科怀-伦纳德选择加盟快船放弃湖人一事。
+   </p>
+   <p>
+    “那就是他的意愿，”保罗说，“我认识科怀，我尊重他和他的舅舅Dennis，我认为他们做了正确的决定。归根结底，你的幸福最重要，很多时候我们被球迷和媒体的想法左右了，但你必须基于自己的意愿做事，而且快船是一家很棒的俱乐部。我曾有机会与史蒂夫-鲍尔默相处过不短时间，还有杰里（韦斯特），道格（里弗斯）都是不言而喻的。他们的球员也很好，我了解他们所有人。路（威廉姆斯），我自从他上高中那会儿就认识他了，还有贝弗利，蒙特雷兹（哈勒尔）等等，加上科怀和保罗-乔治，我认为这对NBA很有好处。我真心为史蒂夫-鲍尔默和他的员工感到高兴，像马克-休斯这样的人也完成了出色的工作。他们做好了工作，我认为科怀做出了对他自己和他的家人而言最好的决定，你必须尊重这一点。并没有让猛龙失望，也没有让湖人失望。NBA有30支球队，每年仅有一队能赢得总冠军。除了勇士和公牛，当年热火巅峰时期，还有湖人鼎盛时期，赛季初期我们都在谈论谁会夺冠，然后到了赛季结尾就是，哦，你懂的。我们的赛事就是如此，但我觉得这对比赛很好。这些家伙很开心，这会进展不错的。这将是一个有趣的赛季。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

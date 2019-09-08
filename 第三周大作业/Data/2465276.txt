@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达龙-福克斯：我在努力融入球队，同时也会坚持做自己
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SeanCunningham/status/1161501281711808512" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 14:20:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达龙-福克斯：我在努力融入球队，同时也会坚持做自己" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/7ac4c4cc4d6b48753b40b1ef6ffceedbecf2a185.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 美国男篮目前正在洛杉矶进行集训，来自国王的后卫达龙-福克斯接受了媒体采访。
+   </p>
+   <p>
+    在此前结束的一场美国队内热身赛中，福克斯在15分钟的出场时间里得到12分3助攻3篮板3抢断2封盖。回顾自己的表现，福克斯说：“我认为我的表现还不错，我送出了一些助攻，就是Pop（格雷格-波波维奇）安排我做的事情。我们努力打得像一个整体，我也在努力融入球队，但与此同时，我也会坚持做自己。”
+   </p>
+   <p>
+    谈到队友马文-巴格利退出美国男篮，福克斯说：“我有点惊讶，但你真的不能说什么，像他这样的家伙，他的休赛期安排或许已经满满当当，我没有与他沟通，我也不是很了解，但可能是因为他不想改变之前已经制定的计划。”
+   </p>
+   <p>
+    当被问及参加美国男篮训练营是否能够帮助巴格利取得进步时，福克斯说：“毫无疑问，在休赛期的训练之后，你能够看到当他重返赛场时已经有了巨大进步。我很期待新赛季训练营的到来，与队友们并肩作战。”
+   </p>
+   <p>
+    北京时间8月17日至8月26日，美国男篮将与西班牙、澳大利亚、加拿大进行四场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

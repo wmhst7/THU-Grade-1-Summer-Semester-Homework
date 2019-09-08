@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  华盛顿大学助教谈布克不愿被包夹：当年科比要求三人防他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CHILLCONROY/status/1163834195908546561" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 11:01:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="华盛顿大学助教谈布克不愿被包夹：当年科比要求三人防他" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/d640534d07f02763a3d56924fede10c9e4e173b6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 近日，美国媒体B/R晒出了一段太阳后卫德文-布克的打球视频，在这段视频中，布克对包夹他的对手说：“兄弟，在这种场地就别包夹了吧，我整个赛季都是这种糟糕的待遇，让我们好好打比赛吧。”
+   </p>
+   <p>
+    随后，华盛顿大学助教Will Conroy转发了美国媒体B/R的相关推特，并发表了看法：“记得06年季后赛和湖人交手，我们一直包夹科比，他一次都没有生气，一次都没有传球。他还说‘你们最好安排三个人来防我’。那一年他对阵独行侠的时候，仅仅三节比赛就砍下了60+。”
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://bbs.hupu.com/29040793.html?share_from=kqapp">
+     好好打比赛别上包夹！布克在打野球时让对手不要包夹自己
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

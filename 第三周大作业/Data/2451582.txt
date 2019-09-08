@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船新秀卡本盖莱：非常乐意与伦纳德和乔治做队友
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/clippers-news-the-vibe-in-las-vegas-as-mfiondu-kabengele-reacts-to-kawhi-leonard-paul-george-acquisitions/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 15:36:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船新秀卡本盖莱：非常乐意与伦纳德和乔治做队友" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/0341694b5c58a570421c8b8b1f79be635242dfc7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，快船新秀菲翁杜-卡本盖莱接受记者采访，谈到即将与科怀-伦纳德和保罗-乔治做队友的感受。
+   </p>
+   <p>
+    卡本盖莱表示：“我觉得很不错。他现在在我们队了，我真的很开心！而且我们还得到了保罗乔治？！太棒了吧。管理层在这件事情上做的太好了，我觉得能和他们成为队友很幸运，如果他们有任何需要我的地方，我都乐意至极。”
+   </p>
+   <p>
+    “和他们一起打球，你得提供高质量的掩护，为他们拉开空间，也不能忘记要给自己创造攻筐的机会。现在在夏季联赛我只是尝试适应比赛节奏，等到我们真的进入球队训练、和队友们有更多接触和配合之后，我会找好自己的定位。”
+   </p>
+   <p>
+    “伦纳德和乔治有自己的防守体系和防守技巧。所以作为一名新秀，我的作用就是配合他们并且努力做出自己的贡献。防守是第一位的，没有防守的比赛算不上比赛。所以我第一个赛季的角色和目标就是成为好的防守球员之一。”
+   </p>
+   <p>
+    “这条消息真的很令人震惊！大家都在等一条劲爆的消息，突然推特就炸了。每个人都在给你发短信聊这件事，这当然有点疯狂。”
+   </p>
+   <p>
+    卡本盖莱今年21岁，身高2.09米，体重116公斤，司职大前锋，2018-19赛季NCAA作为佛罗里达州立大学球员出场37次，场均出战21.6分钟，能够贡献13.2分5.9篮板0.3助攻0.6抢断1.5盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

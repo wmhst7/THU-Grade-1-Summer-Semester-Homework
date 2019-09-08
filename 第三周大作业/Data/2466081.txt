@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希尔：我认为现在的威斯布鲁克想证明他能赢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rocketsnationcp/status/1162051494419369987?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 21:31:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希尔：我认为现在的威斯布鲁克想证明他能赢" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/d53ffb93d89ab7b119ca6f5c05236181eacf392e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 格兰特-希尔作客节目时谈到了拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    “上赛季的时候，威斯布鲁克做得真的不错，让乔治展示自己，让他在雷霆打出了一个出色的赛季，一个几乎MVP级别的赛季。”希尔说道。
+   </p>
+   <p>
+    希尔接着说：“作为一名球员，有时候你想证明自己一个人也可以打出那样的水准，我认为现在的威斯布鲁克想证明他能赢。”
+   </p>
+   <p>
+    “很明显的是，哈登是一名出色的球员，火箭是哈登的球队。”希尔说道。
+   </p>
+   <p>
+    希尔最后说：“这很多将取决于威斯布鲁克和他的表现，但是从接受另外一名球员展示自己并打出好的表现这方面来说，就像上赛季的乔治那样，我认为上赛季对威斯布鲁克来说是个好事。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

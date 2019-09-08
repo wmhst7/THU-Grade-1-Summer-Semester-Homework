@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊格达拉发布读书文艺照：就算赢得全世界又有何益处
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0G0MPCHaQa/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 11:22:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊格达拉发布读书文艺照：就算赢得全世界又有何益处" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/359ecb79b3fb13ffb36066d5e64fc188c11ed752.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 今天灰熊球员安德烈-伊格达拉在Instagram上发布了一张文艺照片，伊格达拉的书桌上摆满了书籍。
+   </p>
+   <p>
+    伊格达拉写道：“就算赢得全世界又有何益处……”
+   </p>
+   <p>
+    伊格达拉引用的句子全文应为：“人若赢得全世界，却赔上了自己的生命，那又有什么益处呢。”
+   </p>
+   <p>
+    根据此前报道，火箭和快船仍在认真追求安德烈-伊格达拉，但两队目前与灰熊的谈判处于停滞状态。
+   </p>
+   <p>
+    此前勇士将伊格达拉交易至灰熊，目前他的合同仍剩下一年1719万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，伊格达拉场均上场23.2分钟，得到5.7分3.7篮板3.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

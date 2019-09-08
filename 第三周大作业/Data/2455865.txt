@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  跳房子游戏？训练师分享浓眉霍勒迪等人单脚跳跃训练动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/mrdoitmoving/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 19:01:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="跳房子游戏？训练师分享浓眉霍勒迪等人单脚跳跃训练动态" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/a3fd165c0866f3ebdd94cacb1fc1ca646d3866ae.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 训练师Mike G今日在Instagram Story上转发了他对湖人前锋安东尼-戴维斯、鹈鹕后卫朱-霍勒迪等人进行连续单脚跳跃的视频。
+   </p>
+   <p>
+    视频显示众多球员使用单脚在地上散落的几个圆环标志物的区域内反复跳跃，其动作设计酷似中国传统游戏“跳房子”。该训练师还在配文中表示他非常喜爱这一训练方法。
+   </p>
+   <p>
+    <img alt="5M" src="https://c1.hoopchina.com.cn/uploads/images/20190719/18/7836ba1d23572b75dba05a56976bee42.gif"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻1.6抢断2.4盖帽；霍勒迪场均出战35.9分钟，得到21.2分7.7助攻5篮板1.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

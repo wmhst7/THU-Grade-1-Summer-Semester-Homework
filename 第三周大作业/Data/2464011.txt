@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  太阳发展联盟球队教练：要将太阳的球队文化作为核心价值
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.brightsideofthesun.com/2019/8/9/20798902/naz-suns-head-coach-bret-burchard-role-monty-williams" target="_blank">
+     BrightSideSun
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 02:11:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="太阳发展联盟球队教练：要将太阳的球队文化作为核心价值" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/a398d523f5791751ced7bb5ee578f5eabb7064aa.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 近日，太阳下属发展联盟球队北亚利桑那太阳主教练Bret Burchard做客太阳播客节目The Outlet，谈到了自己的工作目标。
+   </p>
+   <p>
+    休赛期，Burchard一直与太阳主教练蒙蒂-威廉姆斯的新员工呆在一起。对此，Burchard说：“我需要在发展联盟成为他们的延伸，所以在夏天与他们呆在一起是很好的。”
+   </p>
+   <p>
+    “球队文化必须有一种延伸。在太阳，球队文化将在竞争、防守、分享球、按时训练等方面起到非常强大的作用，这些事情都必须成为我们在普雷斯科特山谷运动中心（北亚利桑那太阳的体育馆）所做的一切的核心价值。”
+   </p>
+   <p>
+    谈到如何培养发展联盟球员，为太阳输送人才时，Burchard说：“显然，在发展联盟中我们的体系和战术都不会那么复杂，但是从球员进步的角度来说，他们要理解如何打球，如何阅读场上形势，甚至仅仅是学习如何在一周打三到四场比赛的情况下保持高竞技水准，对于有些人来说，这种负担可能比他们以前所承受的要重。”
+   </p>
+   <p>
+    Burchard还提到了太阳球员埃利-奥科博：“去年他可能还会走到场边说：‘教练，我们不该这么做吗？’而今年，他会在训练中途叫停，或是插话表达自己的意见，所以看到他这样成为一名控卫以及领袖是很酷的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，奥科博在太阳场均出战18.1分钟可以拿到5.7分2.4助攻1.9篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

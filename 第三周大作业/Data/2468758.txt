@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马因脚踝伤势缺席世界杯，美国队12人大名单确定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-wc-team-named.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 22:05:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马因脚踝伤势缺席世界杯，美国队12人大名单确定" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/bbb7419bfcb4a535e9788fad75b61eb8434b7864.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 美国男篮官方宣布，湖人前锋凯尔-库兹马因为脚踝伤势将缺席在中国举行的篮球世界杯。
+   </p>
+   <p>
+    由于库兹马的退出，美国队最终的12人大名单也随之确定。
+   </p>
+   <p>
+    后卫：乔-哈里斯、多诺万-米切尔、马库斯-斯马特、肯巴-沃克、德里克-怀特
+   </p>
+   <p>
+    前锋：哈里森-巴恩斯、杰伦-布朗、克里斯-米德尔顿、杰森-塔特姆
+   </p>
+   <p>
+    中锋：布鲁克-洛佩斯、梅森-普拉姆利、迈尔斯-特纳
+   </p>
+   <p>
+    主教练：格雷格-波波维奇
+   </p>
+   <p>
+    助理教练：史蒂夫-科尔、洛伊德-皮尔斯、杰-赖特
+   </p>
+   <p>
+    美国男篮被分在E组，小组赛将在上海进行，美国队将在9月1日对阵捷克，9月3日对阵土耳其，9月5日对阵日本。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

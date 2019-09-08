@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Stein：火箭不打算交易卡佩拉，除非他们确定能得到巴特勒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1144681145075949568" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 02:59:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Stein：火箭不打算交易卡佩拉，除非他们确定能得到巴特勒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/648607040059ea0445d67c50314c8bbb6b70c3b5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据《纽约时报》著名NBA记者Marc Stein报道，一位了解火箭想法的消息人士透露，火箭相信他们能够为克里特-卡佩拉找到交易下家，不过他们不打算交易卡佩拉，除非他们确定他们能够得到76人自由球员吉米-巴特勒。
+   </p>
+   <p>
+    根据之前的报道，巴特勒打算不执行下赛季价值1980万美元的球员选项，试水自由球员市场，休斯顿是巴特勒的家乡。
+   </p>
+   <p>
+    此前，据《休斯顿纪事报》记者Jonathan Feigen报道，为了得到巴特勒，火箭很可能不得不放弃卡佩拉和埃里克-戈登，预计PJ-塔克不会被火箭交易。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

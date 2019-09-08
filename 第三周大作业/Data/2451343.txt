@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  若火箭与雷霆交易威少，保罗并非一定会是其中的筹码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1147921044101111810" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 02:01:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="若火箭与雷霆交易威少，保罗并非一定会是其中的筹码" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/f93671034e06afc36be1dae228ec493ddc57dfcd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 根据ESPN记者Tim MacMahon，消息人士透露，火箭的确有意追求雷霆后卫拉塞尔-威斯布鲁克，但是克里斯-保罗并非一定会是其中的交易筹码，尽管保罗的合同与威斯布鲁克的完美匹配。保罗目前还剩下3年合计1.25亿美元的合同，而威斯布鲁克还剩下4年1.71亿美元的合同，其中2022-23赛季为球员选项。
+   </p>
+   <p>
+    莫雷在今年休赛期积极探索交易，但他在近期接受采访时曾表示过，保罗和哈登会是两个肯定回归到下赛季火箭阵容中的球员。多位消息人士透露，克林特-卡佩拉和埃里克-戈登一直在被火箭摆上货架，尤其是戈登。若吉米-巴特勒今年夏天愿意加盟，火箭原本可能交易二人，以创造薪资空间。
+   </p>
+   <p>
+    根据此前的报道，威斯布鲁克正与其经纪人和雷霆总经理萨姆-普莱斯蒂积极讨论下一步计划，其中包括在今年夏天将威斯布鲁克交易的可能性。火箭的确有意交易得到威斯布鲁克，但一位十分了解情况的消息人士表示，这笔交易的谈判将会“需要很长一段时间”，因为火箭需要寻找符合雷霆需求的第三方球队，以及执行复杂的三方交易具备一定挑战性。
+   </p>
+   <p>
+    2018-19赛季常规赛，威斯布鲁克场均上场36.0分钟，得到22.9分11.1篮板10.7助攻1.95抢断；保罗上赛季常规赛场均出场32分钟，得到15.6分4.6篮板8.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

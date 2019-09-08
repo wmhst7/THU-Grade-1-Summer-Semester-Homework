@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  笑逐颜开！安东尼-戴维斯今日参与脱口秀节目录制组图
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/jimmykimmellive/status/1156424327039873024?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 15:56:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="笑逐颜开！安东尼-戴维斯今日参与脱口秀节目录制组图" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/322034b663605f248a401895e0e58888b8b766ae.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 著名脱口秀节目《Jimmy Kimmel Live》官方今日发布了一组湖人前锋安东尼-戴维斯参加节目访谈的现场照。
+   </p>
+   <p>
+    “#浓眉 来到演播室！@安东尼-戴维斯 @湖人 #湖人秀”《Jimmy Kimmel Live》官方写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻2.4盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/15/f45e6db0679661e44903015270e85274.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190731/15/92864e5a66357e3760313db9289d78b3.jpg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少谈加盟火箭：已安顿下来，对生涯新篇章感到兴奋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/bendubose/status/1157401364940505088?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 19:21:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少谈加盟火箭：已安顿下来，对生涯新篇章感到兴奋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/757efabf9447efc7cde3398007f289914dcb1474.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 拉塞尔-威斯布鲁克作客节目时谈到了多个方面。
+   </p>
+   <p>
+    “一切都不错，我已经适应了，找到了住的地方。”威斯布鲁克说道。
+   </p>
+   <p>
+    “事实上，我对这个改变感到兴奋，在我生涯的这个阶段，我对这个新的篇章和新的开始感到兴奋，我很期待，也很激动。”威斯布鲁克谈到加盟火箭时说道。
+   </p>
+   <p>
+    “对我来说，我对这个新的征程感到兴奋，因为虽然雷霆火箭之前经常在季后赛竞争，但是我们相互尊重，这就是比赛最好的一方面，我尊重火箭里的很多人，我喜欢他们在比赛里的贡献，这是吸引我来这的一个原因。”威斯布鲁克说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

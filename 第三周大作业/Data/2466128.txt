@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比-怀特：我能理解我的能力值是76，赛季结束至少到80
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/coby-white-becomes-first-rookie-170023537.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 02:42:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比-怀特：我能理解我的能力值是76，赛季结束至少到80" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/25bb93be3ccb9ab786f1b9c04ec2963f5030204b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 NBA2K20官方于昨日公布了多名新秀的初始能力值，其中公牛新秀科比-怀特的能力值为76。
+   </p>
+   <p>
+    在与2K全球社区营销总监Ronnie 2K谈话时，怀特说道：“这没什么毛病，，每个人都希望他们的能力值高于现在的，但是我还没有在这个联赛出战过一场比赛，所以我能理解我的能力值是76，但我觉得在赛季结束后它会提升的。”
+   </p>
+   <p>
+    此外，怀特还表示在赛季结束后他的能力值将至少提升到80，公牛的球迷们也会对他的成长感到满意。
+   </p>
+   <p>
+    怀特是今年的的7号秀，2018-19赛季他代表北卡罗莱纳大学出场35场比赛，场均出场28.5分钟，得到16.1分3.5篮板4.1助攻1.1抢断0.3盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在自由市场开启前，伦纳德曾招募杜兰特加盟快船
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ramonashelburne/status/1147550499219972097?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 00:20:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在自由市场开启前，伦纳德曾招募杜兰特加盟快船" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/e91a3f2e1f2d21f83d8e57a022bc358d63ccb750.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 NBA记者Ramona Shelburne今日撰文详情报道了科怀-伦纳德曾在招募保罗-乔治前主动招募凯文-杜兰特加盟快船的幕后详情。部分报道如下：
+   </p>
+   <p>
+    此前，凯文-杜兰特已经准备好与他的两位好友凯里-欧文、德安德烈-乔丹一同加盟篮网。他们三人关系密切，经常讨论在同一支球队打球的可能性。一切就绪，只等6月30日自由市场正式开启的时刻。
+   </p>
+   <p>
+    然后杜兰特接到了伦纳德的电话，伦纳德询问杜兰特是否有意与他一同签约快船。伦纳德告诉杜兰特，他们的比赛风格会很般配的，他一向很敬仰他，作为竞争者对他充满尊重。据熟悉情况的消息人士透露，杜兰特此时受宠若惊，十分惊讶。他对伦纳德并不熟悉，因此接到这样一通招募电话让他印象深刻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

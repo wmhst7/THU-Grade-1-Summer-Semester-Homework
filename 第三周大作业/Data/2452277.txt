@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  萧华：球员申请交易令人沮丧，联盟会采取措施规范自由市场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1148762773595328512" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 13:58:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="萧华：球员申请交易令人沮丧，联盟会采取措施规范自由市场" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/9c897a2179cf04c242407b94e2195ea06828f4fa.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今日，《纽约时报》记者Marc Stein在推特上发文称，NBA总裁亚当-萧华在今年7月拉斯维加斯举行的年度新闻发布会上承认：“球员申请交易这件事令人感到沮丧”，并表示将采取某种措施来“解决”在自由市场交易中出现的种种问题。
+   </p>
+   <p>
+    Marc Stein称萧华在发布会上不断重复联盟将采取措施去规范自由市场规则，以确保休赛期各球队的运作能在联盟的规则下进行。
+   </p>
+   <p>
+    萧华在发布会上说道：“我坚定的认为，我们不应该制定那些没有被严格贯彻的规则。我们知道我们现在就处于这种情况，不管这是不是因为德行的问题，还是只是因为我们周遭的世界发生了变化，或是球员们拥有了更多的权利。让我们暂且后退一步，与球员工会重新探讨一下什么样的规则能推动我们的进步。”
+   </p>
+   <p>
+    NBA规定在自由市场开启前，球队不能与球员进行交易或签约探讨，但NBA总裁萧华对有球队明显违反这一规定表示不满。
+   </p>
+   <p>
+    据《波士顿环球报》记者Gary Washburn报道，萧华表示：“我们都知道在自由市场开启前消息会有或多或少的泄露，所以我们会重新考虑自由市场开启时间。”
+   </p>
+   <p>
+    随着科怀-伦纳德和保罗-乔治加盟快船，这意味着上赛季的10位全明星首发球员中，有5名球员在今夏更换球队。
+   </p>
+   <p>
+    “球员们想知道，在一个公平的体系里，去哪支球队会更有竞争力。我们常提到的一些规则是众所周知的，而且正在被执行。我想再次重申一下，在规范自由市场规则方面，我们还有许多工作要做。我们需要将规范的制定与执行提升到一个新高度。”萧华说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

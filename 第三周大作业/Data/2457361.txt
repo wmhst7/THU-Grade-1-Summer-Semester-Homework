@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大秀身材！詹姆斯电影片场赤裸上身热情嗨歌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2094449238577767016?utm_source=ig_story_item_share&amp;igshid=1au4opushsh4d" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 08:50:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大秀身材！詹姆斯电影片场赤裸上身热情嗨歌" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/9e69d8b6f9e4a036cb65ed4ca8493bac206e7d66.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story分享了一组他在电影《空中大灌篮2》片场激情嗨歌的动态。
+   </p>
+   <p>
+    在这些自拍视频中，詹姆斯头戴头巾，赤裸上身，跟随音乐大秀说唱，展示其健壮身材。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4397496266480810">
+     视频：詹姆斯电影片场说唱自嗨集锦（1分27秒）
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/09/07af58cc36b9da8c8792cbf5a2a3b959.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/08/e010691e99c79e1bc45e91916985eabb.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/08/9091a6af7af5cab2879d11c684e45243.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 2M" src="https://c1.hoopchina.com.cn/uploads/images/20190724/08/feefe6637e95c214a3c4b9199adac5c2.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

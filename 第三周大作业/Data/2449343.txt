@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  有情有义！卡罗尔更新社媒向布鲁克林表达感激之情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzYtqfqHtku/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 09:27:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="有情有义！卡罗尔更新社媒向布鲁克林表达感激之情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/394ed055c5732a9f484a4824d1b47c354295ee0f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 根据此前消息报道，前锋德马雷-卡罗尔与马刺达成2年1300万美元的协议。
+   </p>
+   <p>
+    今日，卡罗尔更新了个人社交媒体Instagram表达了对布鲁克林的感谢之情。
+   </p>
+   <p>
+    卡罗尔发文说道：“布鲁克林，我不知该从何说起。你们都对我很好！我们从一个无人问津的球队变成了一个自由球员的梦寐以求的地方。肖恩-马克斯，肯尼-阿特金森，以及整个球队和球迷们，谢谢你们。现在，我转会到了马刺，我已经为我的职业生涯做好了准备。我之所以上传这张照片是因为不管发生了什么，保持安静，让上帝去安排一切。”
+   </p>
+   <p>
+    2018-19赛季常规赛，卡罗尔场均出场25.4分钟，可以得到11.1分5.2篮板1.3助攻0.46抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希腊男篮召回此前裁掉的曼扎瑞斯顶替韧带受伤的阿西埃努
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/hizlihucum/status/1163329748459610112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 17:16:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希腊男篮召回此前裁掉的曼扎瑞斯顶替韧带受伤的阿西埃努" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/7fcd60f033ab8aa45336330bb9a205756a9955a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 希腊男篮主教练Thanassis Skortopoulos今日宣布，球队将召回此前裁掉的后卫范吉利斯-曼扎瑞斯，顶替遭遇前交叉韧带伤病的扬尼斯-阿西埃努。
+   </p>
+   <p>
+    在当地时间周日希腊对阵塞尔维亚的热身赛中，扬尼斯-阿西埃努仅上场18秒就遭遇前交叉韧带伤病离场，预计将接受手术，无缘本届世界杯以及下赛季部分俱乐部比赛。
+   </p>
+   <p>
+    据此前的相关报道，希腊后卫科斯塔斯-斯洛卡斯因小腿伤势不会随队前往中国参加热身赛，留在雅典继续接受治疗，他依旧可能在世界杯开幕前赶到中国与球队会和，但这要取决于他的身体情况。
+   </p>
+   <p>
+    除上述球员之外，希腊男篮阵容名单如下：尼克-卡拉希斯，Antonis Koniaris, Panagiotis Vassilopoulos，Ioannis Papapetrou，扬尼斯-阿德托昆博，萨纳西斯-阿德托昆博，Konstantinos Mitoglou，Giorgos Printezis，乔治斯-帕帕扬尼斯，Giannoulis Larentzakis，科斯塔斯-帕帕尼古拉乌，扬尼斯-博洛西斯。
+   </p>
+   <p>
+    本届世界杯，希腊与巴西、黑山、新西兰同处F组，小组赛在南京举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乐福晒与科沃尔合照：我们将一起登上分享会的舞台
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzOCP49AKRQ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 09:06:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乐福晒与科沃尔合照：我们将一起登上分享会的舞台" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/28942471a5b30077ad5fc909914f221235a02a75.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 骑士中锋凯文-乐福今日在个人Instagram上晒出了自己与灰熊球员凯尔-科沃尔的合照（见新闻配图）。
+   </p>
+   <p>
+    “想和我最欣赏的人之一 ——科沃尔一起站上Aspen Ideas（一个涵盖了多领域的分享会）的舞台。无论科沃尔在哪里效力，在哪里居住，他都持续做出自己的贡献。我们的演讲将聚焦于健康，并探讨保持健康之于运动员发展的意义。”乐福写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

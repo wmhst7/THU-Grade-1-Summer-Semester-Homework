@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达里厄斯-贝兹利：一年的商业实习经历让我成为更好的我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/08/darius-bazley-believes-his-internship-has-helped-him-prepare-for-the-nba.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 06:52:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达里厄斯-贝兹利：一年的商业实习经历让我成为更好的我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/14b0691ccfacf387df97b5f705f35c82568e864d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 根据报道，雷霆新秀达里厄斯-贝兹利曾在一年多以前决定放弃雪城大学的奖学金，转而准备通过G联赛（NBA发展联盟）为自己进入NBA铺平道路。但之后他选择不参加G联赛，而是专注于为选秀做准备。
+   </p>
+   <p>
+    贝兹利并不是第一位在“打一年就跑（指在大学打一个赛季就离校参加NBA选秀）”时代里进入NBA前直接绕过传统的大学路线的球员。但这位雷霆队前锋做了一件几乎是史无前例的事情。在经过短暂考虑是否去G联赛打球后，贝兹利与New Balance公司签订了一份代言合同，其中包括在这家总部位于波士顿的运动鞋公司实习一年。
+   </p>
+   <p>
+    近期，贝兹利在接受记者采访时谈到了有关这份实习工作的经历。
+   </p>
+   <p>
+    贝兹利对记者说道：“我觉得，如果没有这份实习经历，我就不会有现在这种感觉。没有我自己的生活，没有我想要实现那些疯狂想法的时间表，我也不会是现在的我。甚至我可能还没有准备好接受我现在所处的位置，也就是我即将要扮演的角色。”
+   </p>
+   <p>
+    雷霆总经理萨姆-普雷斯蒂也相信贝兹利能够成为联盟中的一名顶级球员，“这将是他的一个过程，我们必须有耐心，我们深知这一点。但是在选秀中，我们能够得到一个拥有6尺9寸或6尺9寸以上控球技术非常了得的球员这对我们来说会非常的特别。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

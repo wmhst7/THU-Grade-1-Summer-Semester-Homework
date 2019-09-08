@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  致敬发布25周年！黄蜂经典紫色球衣下赛季重回赛场
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hornets/press-releases/hornets-unveil-new-purple-classic-uniforms-2019-20-season" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 13:14:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="致敬发布25周年！黄蜂经典紫色球衣下赛季重回赛场" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/3c75a06b57915268c6e01d745e00368fb78dbc0e.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 夏洛特黄蜂队今日在官方推特上宣布球队经典配色球衣将在下赛季正式回归。
+   </p>
+   <p>
+    该系列球衣包括紫色、青色及白色三种款式。该款紫色球衣首发于1994-95赛季，为了庆祝其发行25周年，它将重回人们视野。标志性的V领设计和淡蓝、青色等条纹设计也堪称经典。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/13/356bafa9a008782033c5bf46d2bd64dc.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

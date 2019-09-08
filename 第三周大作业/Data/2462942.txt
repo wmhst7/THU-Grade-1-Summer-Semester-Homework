@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小贾伦-杰克逊：我会继续努力，目标是入选美国男篮名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-quotes-aug-7.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 11:41:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小贾伦-杰克逊：我会继续努力，目标是入选美国男篮名单" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/da368828554788caec9c73892ca999c22131ce7a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 灰熊球员小贾伦-杰克逊目前正在参加美国男篮训练营，在此期间，他接受了媒体采访。
+   </p>
+   <p>
+    谈到入选美国男篮训练营陪练队，小贾伦-杰克逊说：“这很棒，这有点怀旧的感觉，因为我和这些家伙认识很多年了，我们在更年轻的时候曾代表美国男篮出战（2016年代表美国男篮参加U17赛事），现在我们都打进了NBA，这很棒。”
+   </p>
+   <p>
+    当被问及从陪练队主教练杰夫-范甘迪身上学到了什么时，小贾伦-杰克逊说：“你会学到心态是成功的一半，你不能以软弱的心态面对现实，每一件小事都至关重要。你对于细节的注重和养成的良好习惯真的能够在比赛中帮助到你，所以你需要确保自己在训练中保持正确的心态，一切都不是轻而易举的。”
+   </p>
+   <p>
+    当被问及是否会以在未来入选美国男篮正式名单为目标时，小贾伦-杰克逊说：“这始终是我的主要目标，你想要在海外代表美国男篮打球，为这个国家做出贡献，所以，你需要做的就是继续付出努力。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

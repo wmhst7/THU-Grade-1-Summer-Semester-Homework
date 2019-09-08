@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  时尚潮男！PJ-塔克社交媒体晒出自己参加活动帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz85hLUFOYq/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 14:38:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="时尚潮男！PJ-塔克社交媒体晒出自己参加活动帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/b41f90f47f084e53077799246954e4040324e854.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 今日，火箭前锋PJ-塔克更新社交媒体Instagram，晒出自己参加活动照片（见新闻配图）。
+   </p>
+   <p>
+    “芝加哥！快来看看我这个周末吧！”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，塔克场均出场34.2分钟，得到7.3分5.8篮板1.2助攻；季后赛场均出场38.7分钟，得到11.4分7.4篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

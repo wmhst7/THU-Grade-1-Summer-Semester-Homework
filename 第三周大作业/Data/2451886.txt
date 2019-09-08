@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔今日晒出个人训练照：我嗅到他人的质疑，但我会成功
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bzqcmu1AI3J/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:05:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔今日晒出个人训练照：我嗅到他人的质疑，但我会成功" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/2f31e12b569e0cf56bb87aaf07b35fea11469f49.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日，奇才后卫约翰-沃尔更新了个人社交媒体Instagram晒出一张个人刻苦训练的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“我窥探着能量，嗅到了他人对我的质疑，但我会品尝到胜利的滋味。”
+   </p>
+   <p>
+    根据此前消息报道，沃尔今年2月因在浴室滑倒而接受了跟腱断裂修复手术，并且沃尔可能会错过2019-20赛季，奇才已向联盟申请了925万美元的伤病特例。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

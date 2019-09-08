@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔-约翰逊：很期待周末回盐湖城，爵士的每个人都很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sltrib.com/sports/2019/07/25/im-not-peace-with-how-my/" target="_blank">
+     盐湖城论坛报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 11:35:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔-约翰逊：很期待周末回盐湖城，爵士的每个人都很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/dc691eaa5bcb909263187d9caad950b823ad3427.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 近日，前NBA球员乔-约翰逊接受了《盐湖城论坛报》记者的采访。
+   </p>
+   <p>
+    在谈及自己的NBA职业生涯时，乔-约翰逊表示：“说实话，我并不满意自己职业生涯就这样结束。特别是在休斯顿，因为各种原因，我甚至都没有机会参加季后赛。这是唯一真正留在我脑海里的记忆。”
+   </p>
+   <p>
+    在谈道犹他州时，约翰逊表示：“伙计，我喜欢这个地方。我真的很期待这个周末能回到那里。我在犹他州有一些非常要好的朋友。显然，爵士教练组对我来说真的很棒，球员们也很棒。我爱盐湖城这座城市（乔-约翰逊于2016-17赛季效力于爵士）。”
+   </p>
+   <p>
+    乔-约翰逊继续说道：“我喜欢在爵士效力时发生的一切，这里所有的人，教练组，球队。球队中每个人都很棒。伙计，在我效力的时候，爵士只能勉强进入季后赛了。但是，我为现在的爵士感到高兴。在我的职业生涯中，我想走得更远，我想去赢得冠军。在2017-18赛季，爵士延续了他们的连胜，最终取得了48胜，他们在季后赛首轮就击败了雷霆，然后在第二轮与我当时所效力的火箭交过手。很有趣，伙计，我很享受看到爵士的这些家伙们的比赛。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

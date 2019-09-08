@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帕金斯：对于杜兰特而言，篮网是一个很棒的去处
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1054223/2019/06/29/i-wouldnt-be-surprised-if-brooklyn-is-at-the-top-of-his-list-why-kendrick-perkins-believes-kevin-durant-could-sign-with-the-nets/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:31:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帕金斯：对于杜兰特而言，篮网是一个很棒的去处" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/a47475db9e662c1df020b1fd6493cfbaa65cde97.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 前NBA球员肯德里克-帕金斯在近日接受The Athletic记者Michael Scotto采访时谈到了前队友凯文-杜兰特的自由球员市场前景。
+   </p>
+   <p>
+    “显而易见，他（杜兰特）会和凯里（欧文）进行接触，”帕金斯在谈到篮网是否有机会得到杜兰特时说道，“你应该听到了很多关于凯里想要去布鲁克林的传闻，所以我不会把篮网排除在外。篮网的球队面貌已经发生了巨大的改变，球队管理层做了非常出色的工作，他们的教练组也很棒。布鲁克林是一个很棒的去处，那里是一个很棒的舞台，那里有你想要的一切。我对于篮网处于KD心目中的首选位置不会感到意外。”
+   </p>
+   <p>
+    尽管篮网的市场份额不如同城球队尼克斯，但帕金斯认为这不会影响篮网追逐杜兰特。
+   </p>
+   <p>
+    “我认为市场依旧很大，无论是尼克斯还是布鲁克林，”帕金斯说道，“那里可是纽约，布鲁克林拥有出色的核心阵容，他们会非常适合在杜兰特身边打球，我喜欢这支球队的前进方向。我根本没有看到（杜兰特加盟篮网）任何风险。特别是在东部，因为东部的形势是完全开放的，当篮网补进杜兰特，稳定有投射能力的核心阵容再加上一名超级球星，天空才是他们的极限。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

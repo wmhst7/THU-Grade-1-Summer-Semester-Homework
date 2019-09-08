@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英气凛然！乌布雷更新个人Instagram晒帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B09HIGqH9HI/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 05:25:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英气凛然！乌布雷更新个人Instagram晒帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/57f5b922727b6229ec649cbf57c0b33f4683a8b9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 今日，太阳球员凯利-乌布雷更新了个人Instagram动态，晒出一张面部特写照片，并配文：“我只想要感受到你的爱，所以把我抱得很紧吧。我说我会在那里的，亲爱的女孩，从早到晚。当你从这条路走过的时候，你就像夜行的小偷那样带走了我的灵魂。”
+   </p>
+   <p>
+    2018-19赛季常规赛，乌布雷场均出场29.5分钟，得到16.9分4.9个篮板1.6次助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190811/05/dd487e8126d7a98c840b9bec8012628d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

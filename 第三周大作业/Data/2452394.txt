@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  希尔：我会努力帮助球队赢球，承担起话语领袖的角色
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Bucks/status/1148755800220827649" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 17:22:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="希尔：我会努力帮助球队赢球，承担起话语领袖的角色" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/147ba392d5655a60144b550e39fb7a2af633e6fa.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 雄鹿官方今日宣布球队已经与自由球员后卫乔治-希尔完成了续约，希尔在接受采访时谈到了重返雄鹿。
+   </p>
+   <p>
+    “去到一支你能够感觉到自己被需要的球队，一座热情拥抱你的城市，你的家人也坚定地支持你，这就是我想要的，”希尔说道，“我即将开启自己的第十二个赛季，这不是我第一次试水自由球员市场，等待一切尘埃落定，你依旧需要做自己该做的事情，努力打篮球。”
+   </p>
+   <p>
+    展望下赛季，希尔说：“就是继续做我自己，首先在防守端保持强硬，让防守带动进攻。不能停留在原地等待机会的到来，你必须去努力争取，特别是在防守端。我会努力提升自己的表现，努力帮助球队赢球，最重要的是，我需要承担起话语领袖的角色。我们上赛季赢下了60场比赛，球队中的每一个家伙都付出了努力，我为他们感到自豪，雄鹿这支球队非常特别。”
+   </p>
+   <p>
+    据The Athletic记者Shams Charania之前的报道，后卫乔治-希尔与雄鹿达成3年2900万美元的续约协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，希尔场均上场21.7分钟，得到7.6分2.5篮板2.2助攻0.9抢断，季后赛场均上场26.3分钟，得到11.5分3.5篮板2.8助攻0.9抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

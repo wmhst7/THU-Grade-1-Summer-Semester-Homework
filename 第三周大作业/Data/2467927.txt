@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹明斯卡斯晒与萨博尼斯合影：篮球带给我最重要的友情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1bwe1cimUL/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:42:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹明斯卡斯晒与萨博尼斯合影：篮球带给我最重要的友情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/21c59161e391bca7bdf45f3be7af34295b973490.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 立陶宛前锋明道加斯-库兹明斯卡斯今日在个人Instagram上晒出了自己与国家队队友、步行者内线多曼塔斯-萨博尼斯的合影（见新闻配图）。
+   </p>
+   <p>
+    “篮球给我的生活带来了很多很棒的东西，但是最重要的是友情。”库兹明斯卡斯写道。
+   </p>
+   <p>
+    库兹明斯卡斯出生于1989年，曾在2016-17代表尼克斯出场68场常规赛，场均14.9分钟，得到6.2分1.9篮板1.0助攻，2017-18赛季仅出战一场常规赛后，即被尼克斯裁掉，后重返欧洲。
+   </p>
+   <p>
+    2018-19赛季，萨博尼斯代表步行者常规赛场均24.8分钟，得到14.1分9.3篮板2.9助攻0.65抢断0.41盖帽；季后赛场均出场24.0分钟，得到8.5分7.3篮板4.0助攻0.75抢断0.25盖帽。
+   </p>
+   <p>
+    两人均入选了今夏男篮世界杯立陶宛男篮的14人名单。本届世界杯，立陶宛与澳大利亚、加拿大、塞内加尔同处H组，小组赛将在东莞进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

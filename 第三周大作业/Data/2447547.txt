@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马刺公布盐湖城夏季联赛大名单，朗尼-沃克、沙马尼奇领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/spurs/status/1144040303386595329" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 13:08:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马刺公布盐湖城夏季联赛大名单，朗尼-沃克、沙马尼奇领衔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/7c44504084cf1e29dde1805959d2e31754840037.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 圣安东尼奥马刺队官方今日公布了今年参加盐湖城夏季联赛的球员名单（具体名单见下方配图）。
+   </p>
+   <p>
+    这份阵容名单包括了二年级球员朗尼-沃克、奇梅齐耶-梅图以及通过双向合同签下的德鲁-尤班克斯、本-摩尔。
+   </p>
+   <p>
+    今年19号秀卢卡-沙马尼奇、29号秀凯尔登-约翰逊、49号秀奎因达里-韦瑟斯庞以及2012年5号秀托马斯-罗宾逊等人也悉数入选。
+   </p>
+   <p>
+    今年盐湖城夏季联赛将在北京时间7月2日至7月4日在爵士主场威英特智能家居球馆举行，骑士、灰熊、马刺、爵士四支球队将共计进行6场比赛的对决。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/13/e0ead65e4248e7ceb5eb3db178e20e5f.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

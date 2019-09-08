@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：我感觉我们可以在任何地方击败任何球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1164997938868871174?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 07:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：我感觉我们可以在任何地方击败任何球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/95dcc819de540cba90cc53e30d0fbb739f6b9863.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 凯尔特人的埃内斯-坎特作客节目时谈到了凯尔特人。
+   </p>
+   <p>
+    “我们有很多赢家，很多可以改变比赛的球员，如果你看看我们的更衣室，这些球员们愿意学习，我们有很多特殊的球员，我感觉我们可以在任何地方击败任何球队。”坎特说道。
+   </p>
+   <p>
+    坎特接着说：“我们需要做的是一切就是团结打出表现，我对与肯巴-沃克一起打球感到兴奋，我认为与他们打球让我的工作变得轻松，我会上场努力享受比赛。”
+   </p>
+   <p>
+    根据此前报道，坎特与凯尔特人达成了2年1000万美元的协议，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特代表开拓者上场23场，场均上场22.3分钟，得到13.1分8.6篮板1.4助攻；季后赛出场28.8分钟，得到11.4分9.6篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

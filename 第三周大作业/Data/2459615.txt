@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贾马尔-默里晒与队友约基奇的赛场合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0hFZq8hySG/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 09:58:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贾马尔-默里晒与队友约基奇的赛场合影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/18e45255dd277c5d087e39711bd7fbcaa261d266.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日掘金球员贾马尔-默里更新了自己的个人Instagram动态，晒出了自己与队友尼古拉-约基奇在赛场上的合影。
+   </p>
+   <p>
+    此前掘金官方宣布，球队与默里签下一份5年提前续约合同。根据报道，双方签下了一份5年1.7亿美元的提前续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，默里场均上场32.6分钟，得到18.2分4.2篮板4.8助攻；约基奇场均上场31.3分钟，得到20.1分10.8篮板7.2助攻1.35抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

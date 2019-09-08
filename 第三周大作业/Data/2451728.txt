@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  继承遗志！库克晒旧照致敬湖蜜父亲：天堂的你会高兴疯的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/qcook323/2083587423136262126?utm_source=ig_story_item_share&amp;igshid=11j6z2xn7xs4x" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 00:40:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="继承遗志！库克晒旧照致敬湖蜜父亲：天堂的你会高兴疯的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/de49d9dfbb5db7cc159066c165214fa015ac08db.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 湖人后卫奎因-库克今日通过Instagram Story晒出两张旧照展示自己和已故父亲的湖人情结。
+   </p>
+   <p>
+    库克首先展示了自己身穿湖人名宿科比-布莱恩特球衣以及所收藏的大量湖人球衣的旧照，随后又分享了他儿时与父亲生前的合照。照片中库克的父亲身穿一件湖人夹克。
+   </p>
+   <p>
+    “天堂中的老爸一定会高兴疯的。湖人秀。”库克配文道。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190709/00/72d997ec4267dd34c29214fd396b7ce7.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190709/00/2c41d28e3d0c9b0cda1be5772bc0878d.jpeg"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

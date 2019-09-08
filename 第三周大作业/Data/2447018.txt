@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比尔：管理层最近透露不会交易我，还未详细考虑是否续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.washingtonpost.com/sports/2019/06/25/wizards-bradley-beal-with-service-award-hand-definitely-open-extension-talks/" target="_blank">
+     华盛顿邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 00:48:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比尔：管理层最近透露不会交易我，还未详细考虑是否续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/44121af236f00df4b1cb3ed261e1ad951535d7c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 奇才后卫布拉德利-比尔在参加NBA年度颁奖典礼后接受采访时谈到了关于续约和交易的话题。
+   </p>
+   <p>
+    比尔有资格在7月就以3年1.11亿美元的新合同与奇才完成提前续约。比尔表示他“肯定”愿意讨论提前续约问题。
+   </p>
+   <p>
+    “我考虑过这个问题，但还没有深思熟虑过，”比尔说道，“我还有两年合同。我们刚选中八村垒，我需要观察我们在自由球员市场的收获再做出最终决定。我还没有被正式提供过这份合同。在那发生前，我会等待并思考这个问题。我将拥有大把时间考量所有事情，在时机成熟时做决定。说自己没兴趣（商讨续约）肯定会显得天真，华盛顿是我过去7年所效力的地方，即将进入第8年。能永远为一支球队打球当然很棒。但与此同时，你也渴望赢球，也要确保自己处于能够赢球的环境之中。我肯定会考虑我们将来聘任的总经理人选以及引援情况。以上所有事情都会扮演一定的因素。”
+   </p>
+   <p>
+    自从4月解雇球队长期总裁厄尼-格伦费尔德后，奇才老板泰德-莱昂西斯至今仍未聘用全职的球队篮球运营部门主管官员。临时总经理Tommy Sheppard主导了上周的选秀工作。比尔表示：“在泰德确定人选之前，我相信Tommy对球队的领导。”
+   </p>
+   <p>
+    关于围绕他的交易流言，比尔透露球队老板泰德-莱昂西斯、临时总经理Tommy Sheppard和主帅斯科特-布鲁克斯在最近几周内分别都像他告知他不会被交易。“他们的表态都很明确，那很好，”比尔说，“他们没有在任何事上瞒着我，即便关于交易流言的。能够安心下来感觉很棒。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

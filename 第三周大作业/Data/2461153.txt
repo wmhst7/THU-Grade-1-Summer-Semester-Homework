@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  爵士11月15日客场战灰熊，康利回孟菲斯对阵老东家
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1157425368384454656" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 07:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="爵士11月15日客场战灰熊，康利回孟菲斯对阵老东家" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/1851b33ef40a51ad96d7e23cd31c4f94f971b1e6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 根据The Athletic记者Shams Charania的报道，多位消息人士透露，新赛季常规赛，爵士将在当地时间11月15日客场对阵灰熊，爵士的迈克-康利将回到孟菲斯对阵老东家。
+   </p>
+   <p>
+    灰熊今夏将康利交易到了爵士，得到杰-克劳德、凯尔-科沃尔、格雷森-阿伦、2019年选秀大会首轮23号签以及一个2020年的受保护首轮签。
+   </p>
+   <p>
+    康利NBA职业生涯前12个赛季都在灰熊效力，出战788场常规赛，场均出战32.6分钟可以拿到14.9分3篮板5.7助攻1.5抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，康利场均出场33.5分钟，可以贡献21.1分3.4篮板6.4助攻1.3抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

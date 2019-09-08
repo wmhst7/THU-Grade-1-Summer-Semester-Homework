@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德里克-威廉姆斯将与费内巴切篮球俱乐部签约一年
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/906804/fenerbahce-signing-derrick-williams-with-one-year-deal/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 09:21:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德里克-威廉姆斯将与费内巴切篮球俱乐部签约一年" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/7e3cc75fde91e09baf41ef92cf0f50a69af58262.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据Eurohoops记者Nikos Varlas的报道，多位美国的消息人士透露，德里克-威廉姆斯已经与土耳其劲旅费内巴切篮球俱乐部就一份一年合同基本上达成了协议。
+   </p>
+   <p>
+    28岁的威廉姆斯是2011年选秀大会的榜眼秀，2018-19赛季是威廉姆斯在欧洲打球的第一个赛季，他在拜仁慕尼黑篮球俱乐部场均出战23.4分钟可以拿到12.3分3.7篮板。
+   </p>
+   <p>
+    威廉姆斯也探索了多个在NBA打球的选项，但是没有找到觉得合适的机会，并且他也享受在欧洲打球，所以签约费内巴切篮球俱乐部对他来说不是一个艰难的决定。
+   </p>
+   <p>
+    NBA职业生涯至今，威廉姆斯打过428场常规赛，场均出战20.7分钟可以拿到8.9分4篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

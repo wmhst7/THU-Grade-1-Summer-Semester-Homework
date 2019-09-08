@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯佩尔曼谈加盟勇士：我很期待为球队的赢球文化做出贡献
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/957thegame/status/1148478599915118592" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 14:45:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯佩尔曼谈加盟勇士：我很期待为球队的赢球文化做出贡献" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/c29e4f25797d37baa85193329ef815cafe1a5179.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 今日前锋奥马里-斯佩尔曼在接受采访时谈到了被交易至勇士。
+   </p>
+   <p>
+    “我来自极具赢球文化的维拉诺瓦大学，我很期待为另一支球队的赢球文化做出贡献。”斯佩尔曼说道。
+   </p>
+   <p>
+    在谈到自己的职业生涯发展时，斯佩尔曼说道：“我在变得刚好，我还有很大的进步空间，随着我学到和吸收更多东西，我会变得更好。这就是我期待去做的事情，在场上竞争并变得更好。”
+   </p>
+   <p>
+    此前勇士官方宣布，球队将达米安-琼斯和一个2026年的次轮签交易至老鹰，得到斯佩尔曼。
+   </p>
+   <p>
+    斯佩尔曼是2018年选秀大会的首轮30号秀，来自维拉诺瓦大学，2018-19赛季常规赛共代表老鹰上场46次，场均上场17.5分钟，得到5.9分4.2篮板1.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

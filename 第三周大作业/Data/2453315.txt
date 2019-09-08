@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰森-钱德勒一年合同加盟火箭
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1149743614567821314" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 02:14:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰森-钱德勒一年合同加盟火箭" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/b330c0496d62673691351e8d6e294eaa364a0651.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据NBA记者Marc Stein报道，消息人士透露，中锋泰森-钱德勒将以一年合同加盟火箭。
+   </p>
+   <p>
+    此前根据NBA记者Tim MacMahon报道，多位消息人士透露，泰森-钱德勒很有可能是火箭的替补中锋目标人选。Woj随后透露，火箭招募钱德勒已有数周时间，威少的加盟也对签下钱德勒有所推动。
+   </p>
+   <p>
+    据火箭跟队记者Jonathan Feigen报道，钱德勒签下的是一份底薪合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，钱德勒为湖人出场48次，场均上场15.9分钟，得到3.2分5.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

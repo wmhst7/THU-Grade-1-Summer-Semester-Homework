@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  步行者一直对丹尼-格林非常感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/sports/nba/pacers/2019/06/27/2019-nba-free-agency-10-targets-indiana-pacers-danny-green-terrence-ross-ricky-rubio-tobias-harris/1545789001/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 10:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="步行者一直对丹尼-格林非常感兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/67f2e3690bc5813a3f3f616c26b479f5f6ac910c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《印第安纳波利斯星报》记者J. Michael的报道，多位联盟消息人士透露，步行者一直对丹尼-格林非常感兴趣。
+   </p>
+   <p>
+    步行者也可能会对贾斯廷-霍勒迪感兴趣，他是阿龙-霍勒迪的哥哥，步行者之前就曾向灰熊询价过贾斯廷-霍勒迪。
+   </p>
+   <p>
+    根据之前的报道，步行者会对托马什-萨托兰斯基感兴趣。
+   </p>
+   <p>
+    多位联盟消息人士透露，在自由球员市场第一波高潮过后，如果奇才还没有与萨托兰斯基谈妥的话，那他的身价会上涨，但是萨托兰斯基是奇才今夏续约球员的重点之一。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  名记：在将23号让给浓眉后，詹姆斯最有可能选择6号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/yahoosports/status/1144336845884575744?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 08:23:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="名记：在将23号让给浓眉后，詹姆斯最有可能选择6号" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/63df2c20db00beebb89b82c5a5a1897fff4b53d6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 首先报道湖人前锋勒布朗-詹姆斯将把23号球衣号码让给未来队友安东尼-戴维斯的雅虎体育记者Chris Haynes今天接受了采访。
+   </p>
+   <p>
+    “随着勒布朗-詹姆斯将他的23号球衣号码让给安东尼-戴维斯，我认为合理的想法是他将穿回6号球衣，他在热火效力四年夺得两连冠期间就穿着这一号码。因此这方面有些渊源。不过，我被告知，情况目前还不确定，他们还在考虑。6号并不是板上钉钉的，不过如果你现在问我，我会说他可能接下来选择6号球衣，这是他下赛季最有可能的球衣号码。”Haynes说道。
+   </p>
+   <p>
+    而NBA记者Rachel Nichols在其最新电视节目上表示：“Dave McMenamin（湖人跟队记者）报道称既然勒布朗将他的23号球衣让给安东尼-戴维斯，勒布朗将会穿回6号。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

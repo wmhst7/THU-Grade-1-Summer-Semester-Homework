@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔因家庭原因退出美国队训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WindhorstESPN/status/1157658252097859590" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 22:25:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔因家庭原因退出美国队训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/8fe986a1f1fb9f531cfd1e8dd906a02113714a40.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 据NBA记者Brian Windhorst报道，尼克斯前锋朱利叶斯-兰德尔因为家庭原因退出美国男篮训练营。
+   </p>
+   <p>
+    同时，掘金后卫托里-克雷格将替代快船后卫兰德里-沙梅特，入选陪练队。
+   </p>
+   <p>
+    球员将于明日前往拉斯维加斯进行报道。
+   </p>
+   <p>
+    美国男篮训练营还有：哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、保罗-米尔萨普、多诺万-米切尔、杰森-塔特姆、PJ-塔克、赛迪斯-杨、马库斯-斯马特、杰伦-布朗、巴姆-阿德巴约和梅森-普拉姆利。
+   </p>
+   <p>
+    本赛季休赛期，兰德尔与尼克斯签下了一份3年6300万美元的合同。2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

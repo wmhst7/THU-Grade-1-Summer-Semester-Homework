@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网的CEO Yormark因球队所有权变动而离职
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChereAurora/status/1162188283650068480" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 10:25:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网的CEO Yormark因球队所有权变动而离职" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190816/2505e247d8ac6a055ceb4939c900600a93615f63.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 根据记者Tim Bontemps的报道，联盟多位消息人士已证实，担任篮网CEO（首席执行官）十余年的Brett Yormark将退出职位。
+   </p>
+   <p>
+    Yormark自2005年从全美运动汽车竞技协会跳槽到篮网之后一直担任CEO职务，帮助球队从新泽西搬至布鲁克林。在过去九年球队老板变更为俄罗斯富豪米哈伊尔-普罗霍罗夫的时间段里，Yormark也一直在这个职位上为球队效力。但随着阿里巴巴联合创始人蔡崇信从米哈伊尔-普罗霍罗夫手中买下剩余篮网的51%股权和球队主场巴克莱中心之后，Yormark与篮网之间的合作也随之走到了尽头。
+   </p>
+   <p>
+    据记者透露，Yormark在管理球队期间风格强硬，他在2013年与凯尔特人谈成的保罗-皮尔斯和凯文-加内特相关的交易是篮网接下来缴纳高额奢侈税、造成巨大资金漏洞的原因之一。
+   </p>
+   <p>
+    2018-19赛季常规赛，篮网以42胜40负的成绩排在东部第6。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

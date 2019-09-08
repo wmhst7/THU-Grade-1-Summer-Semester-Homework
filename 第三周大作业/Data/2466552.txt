@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿里纳斯：安东尼加盟火箭前，我就觉得那会是一场灾难
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/RocketsNationCP/status/1162841626013622272" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 08:04:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿里纳斯：安东尼加盟火箭前，我就觉得那会是一场灾难" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/aa8e52ef782d444a203e6ed2efc3a4592ba9fcbd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 今日，前NBA球员吉尔伯特-阿里纳斯接受了记者的采访。
+   </p>
+   <p>
+    在谈及之前卡梅罗-安东尼底薪加盟火箭时，阿里纳斯对记者说道：“我记得当时有报道称卡梅罗-安东尼可能会加盟休斯顿。我当时的反应就是，‘见鬼，千万不要啊，别去那里，去那里那将会是一场灾难，他在火箭不会起作用的’。”
+   </p>
+   <p>
+    “安东尼他职业生涯中第一次和两名持球手一起打球(雷霆时期的拉塞尔-威斯布鲁克和保罗-乔治)，这让安东尼成为了球队排在第三的选择。所以，去一个让他再次成为第三选择的球队是一场灾难。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利：勇士下赛季的前景取决于汤普森何时能够回归
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/video/charles-barkley-says-warriors-will-struggle-make-nba-playoffs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 11:03:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利：勇士下赛季的前景取决于汤普森何时能够回归" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/700d5a5fdfd27fef6ae02c17c5aaed2e24861145.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 NBA名宿查尔斯-巴克利在近日接受媒体采访时谈到下赛季的西部形势，巴克利表示西部实力强劲，勇士想要在克莱-汤普森缺阵的情况下打进季后赛会非常艰难。
+   </p>
+   <p>
+    “我认为勇士在克莱缺阵的情况下打进季后赛会非常艰难，因为西部无弱旅，每支球队都很强。我知道每个人都在谈论湖人和快船，我还没提丹佛和马刺，达拉斯和新奥尔良也取得了很大的进步，西部的竞争形势实在是太严峻了。”巴克利说道。
+   </p>
+   <p>
+    “如果没有克莱，我是一名克莱-汤普森的超级粉丝，我认为相较于KD（凯文-杜兰特），勇士会更想念克莱。斯蒂芬（库里）依旧会是斯蒂芬，他是联盟最出色的球员之一，我只是认为在克莱缺席的情况下，勇士的形势不容乐观。说实话，我不确定丹吉洛-拉塞尔是否能够融入球队体系，就像我刚才所说的那样，斯蒂芬会做他该做的事情，勇士下赛季的前景取决于克莱何时能够回归。对于西部球队而言，每一场比赛都不轻松，每一场比赛的竞争都会非常激烈。”巴克利补充道。
+   </p>
+   <p>
+    汤普森在今年总决赛中遭遇了左膝十字韧带撕裂，预计将于明年2月-3月复出。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

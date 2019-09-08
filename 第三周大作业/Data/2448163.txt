@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔治-希尔预计会与雄鹿续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Vincent_Ellis56/status/1144782869748944903" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 09:50:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔治-希尔预计会与雄鹿续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/ecc3fb87ba66983db80ea75d2b398b9fb825303f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《底特律自由报》记者Vincent Ellis的报道，一位联盟消息人士透露，预计乔治-希尔会与雄鹿续约。
+   </p>
+   <p>
+    根据今日The Athletic记者Shams Charania的报道，雄鹿将裁掉希尔，不过双方都有意协商出一个让希尔在新赛季回到雄鹿的方案。
+   </p>
+   <p>
+    希尔原合同的2019-20赛季薪水为1800万美元，其中只有100万美元为保障金额。
+   </p>
+   <p>
+    2018-19赛季常规赛，希尔场均上场21.7分钟，得到7.6分2.5篮板2.2助攻0.87抢断，季后赛场均上场26.3分钟，得到11.5分3.5篮板2.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

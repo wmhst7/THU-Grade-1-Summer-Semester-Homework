@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥多姆更新社媒：我有时想远离聚光灯、摄像机和那些关注
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1Z6rlyoxKO/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 11:37:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥多姆更新社媒：我有时想远离聚光灯、摄像机和那些关注" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/1775c352dff746dd2edc34147bd8c68672c9ae5a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 今日，前NBA球员拉马尔-奥多姆更新了个人社交媒体Instagram分享了一段心灵感悟。
+   </p>
+   <p>
+    奥多姆：“我曾得到了一个展现自己的平台。在我的生活中，有时我想逃离这一切——聚光灯，摄像机和持续的关注。后来我决定，我要用我的声音和上帝给我的平台来做出改变。”
+   </p>
+   <p>
+    根据此前消息报道，拉马尔-奥多姆因为没有做好打球的准备之前已经离开了BIG3联盟。随后，奥多姆表示自己可能会前往菲律宾打球。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

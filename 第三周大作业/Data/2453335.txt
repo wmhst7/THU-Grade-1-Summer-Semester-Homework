@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登谈威少交易：我离开雷霆时很悲伤，如今咱又聚一起了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rockets_Insider/status/1149760925123207171" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 05:44:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登谈威少交易：我离开雷霆时很悲伤，如今咱又聚一起了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/937b37263db729e3eedf7f20b10e4a1ddea4f8fe.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据火箭记者Alykhan Bijani报道，火箭后卫詹姆斯-哈登今日在接受采访时谈到了拉塞尔-威斯布鲁克的交易。
+   </p>
+   <p>
+    “我在10岁的时候就认识了拉塞尔，我们就好像一起长大一样。因此，老实说当我离开俄克拉荷马城的时候，我很悲伤。然后，休斯顿给了我一个家。火箭就是我的家。如今，由于拉塞尔之前过得不开心，一个机遇终于来了。现在我们又聚一起了。我向你们保证，这将会是一个充满乐趣的赛季。”哈登说道。
+   </p>
+   <p>
+    昨天，据NBA记者Adrian Wojnarowski报道，消息人士透露，雷霆与火箭达成交易，火箭送出克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到威斯布鲁克。
+   </p>
+   <p>
+    哈登和威斯布鲁克曾在2009-12期间一起效力于雷霆，不过前者于2012年休赛期被雷霆交易至火箭。
+   </p>
+   <p>
+    哈登在2009年NBA选秀大会被雷霆用探花签选中。他在其NBA生涯至今曾效力于雷霆和火箭，共出战了765场常规赛比赛，场均上场34.1分钟得到24.3分5.2个篮板6.2次助攻。
+   </p>
+   <p>
+    威斯布鲁克在2008年NBA选秀大会第4顺位被雷霆选中，职业生涯此前一直效力于雷霆。他为雷霆出战了821场常规赛比赛，场均上场34.5分钟得到23分7个篮板8.4次助攻，并在2016-17、2017-18、2018-19连续三个赛季完成常规赛场均三双。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

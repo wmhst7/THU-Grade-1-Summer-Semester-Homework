@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凌晨四点的洛杉矶！詹姆斯吐槽早起出门训练却遭遇堵车
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2100930432676813325?utm_source=ig_story_item_share&amp;igshid=t4lyeef8d3rc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 19:55:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凌晨四点的洛杉矶！詹姆斯吐槽早起出门训练却遭遇堵车" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/7c802aa582e3574706a66b19b5451a5e410ccf9d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新他在当地时间凌晨四时许出门准备训练的动态。
+   </p>
+   <p>
+    詹姆斯首先对车内自拍视频配文道：“谁想去训练？！让我们加油干吧。早上4点11分。#我就是王”
+   </p>
+   <p>
+    随后当前方道路出现大量亮红的汽车尾灯，詹姆斯的座驾也不得不减速直至完全停止。
+   </p>
+   <p>
+    被堵在洛杉矶街头的詹姆斯只能发文吐槽道：“只有在洛杉矶你能在早上4点15分遇到堵车！这到底是***怎么回事。”
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/19/d803e8641c4a43f03e8ea910c4cc9084.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/19/81cae58664870dd025838ce4a3084e12.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/19/303ca75faab6ec6797fe2722489d835a.jpeg"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/19/18731070d26168420a3f54339d68140f.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/86baec8521ee4922465193e668bbfccd.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/19/d92ee157b3c34cec0047ff2a042936b7.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

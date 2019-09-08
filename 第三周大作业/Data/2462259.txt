@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安热伊斯-帕塞奇尼克斯：在与多支NBA球队谈判
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/nba-news/916097/anzejs-pasecniks-im-negotiating-mostly-with-nba-clubs/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 16:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安热伊斯-帕塞奇尼克斯：在与多支NBA球队谈判" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190806/c46770c0485929d4335b41bc0767bce36ea26861.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 拉脱维亚中锋安热伊斯-帕塞奇尼克斯称目前在与他谈判的球队大部分都是NBA球队。
+   </p>
+   <p>
+    “对话正在进行中，我还不能说什么，我现在没有合同，我还是一名自由球员，但是让我们这么说吧，与我谈判的大部分都是NBA球队，当然了，情况总是可以发生改变，但是我不能再具体说了。”帕塞奇尼克斯说道。
+   </p>
+   <p>
+    23岁的帕塞奇尼克斯身高2.16米，体重104公斤，他是2017年选秀大会的25号秀，76人在今夏放弃了他的NBA签约权，目前他是一名完全自由球员。
+   </p>
+   <p>
+    上赛季在西班牙的Herbalife Gran Canaria俱乐部，帕塞奇尼克斯场均出战15.5分钟可以拿到6.2分3.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

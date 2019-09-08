@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金裁掉中锋托马斯-韦尔什
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickKosmider/status/1156312782926561280" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 06:26:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金裁掉中锋托马斯-韦尔什" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/2552cbbc9ec86482a76099aaa0f253cad893f418.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 据记者Nick Kosmider报道，消息人士透露，掘金已经裁掉了中锋托马斯-韦尔什。
+   </p>
+   <p>
+    在裁掉韦尔什（双向合同）后，掘金还有一个常规赛大名单名额和两个双向合同的名额，可以用于签下今年的二轮秀波尔-波尔。
+   </p>
+   <p>
+    2018-2019赛季，韦尔什为掘金出战了11场比赛，场均出场3.3分钟，得到1.6分0.4篮板0.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  汗水湿透卫衣！乔丹-贝尔发布训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz_U09qBdyt/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 12:30:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="汗水湿透卫衣！乔丹-贝尔发布训练照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/857b75a5093ae92a2177c0a84b66bb2e917f6008.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 根据之前的报道，森林狼与乔丹-贝尔达成了一份1年160万美元的协议，勇士没有匹配报价。
+   </p>
+   <p>
+    今天贝尔在Instagram上晒出了自己的训练照，他写道：“早晨出汗开启美好一天！！”
+   </p>
+   <p>
+    2018-19赛季常规赛，贝尔场均出战11.6分钟，能得到3.3分2.7篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

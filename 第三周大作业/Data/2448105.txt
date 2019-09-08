@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林是火箭中产特例引援的首要目标
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/texas-sports-nation/rockets/article/Summer-blockbuster-Sizing-up-NBA-s-free-agent-14058727.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 07:01:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林是火箭中产特例引援的首要目标" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/98e0f9c7064b9e7888e3168fa36dc1a4ebcc4770.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《休斯顿纪事报》记者Jonathan Feigen的报道，火箭希望用他们的中产特例引进一名重要的角色球员，消息人士透露，丹尼-格林是他们的首要目标。
+   </p>
+   <p>
+    Feigen在文中写道，如果火箭在吉米-巴特勒的交易里送出克林特-卡佩拉的话，那么火箭会尝试得到德安德烈-乔丹，不过他的要价可能会超过中产，或者火箭会尝试得到凯文-卢尼。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出战27.7分钟，可以拿到10.3分4篮板1.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

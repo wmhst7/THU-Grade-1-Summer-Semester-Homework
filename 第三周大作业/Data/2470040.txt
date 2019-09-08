@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  谁的表情最棒？韦德更新社媒晒出众人张嘴表情趣照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1sWtoqn1Rs/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 13:52:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="谁的表情最棒？韦德更新社媒晒出众人张嘴表情趣照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/6f544a9e5e38e4248915f3088fd01f7d6bf6c84c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，前NBA球员德维恩-韦德在个人Instagram上晒出了一组众人张大嘴表情的趣图（见新闻配图）图中包括韦德的女儿、勒布朗-詹姆斯、科比-布莱恩特、拉塞尔-威斯布鲁克、妻子尤尼恩以及韦德自己。
+   </p>
+   <p>
+    “谁做的最好？（摊手）”韦德写道。
+   </p>
+   <p>
+    韦德在2003年第1轮第5顺位被热火选中，生涯场均出场33.9分钟，得到22.0分4.7篮板5.4助攻1.54抢断0.84盖帽，13次入选全明星，2次入选最佳阵容一阵，获得过1次得分王，3夺总冠军，并在2005-06赛季荣膺总决赛MVP。韦德在上赛季结束后正式退役。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/511377a235643e7feb0c8ca5d8160967.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/2166a8825d434392189b44503879e0cd.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/5c6f0aa570f3a9dabbfa503feae95a82.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/cc4b8b3a1a34af168e70badf6553723c.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/8fe84940cbaecf72593e6907dd5e8420.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/30f1fb6606657f44f70091c3ef8b4d43.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  时尚达人！库兹马晒图回顾自己出席高端时尚活动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2HV_WkJPQd/?igshid=3dptt6gnj2y0" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 08:55:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="时尚达人！库兹马晒图回顾自己出席高端时尚活动" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/f15bcbd282ba2fbe583c00357a5b46ebfe87dfa9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 湖人前锋凯尔-库兹马今日通过Instagram发布一组自己出席时尚活动的图集。
+   </p>
+   <p>
+    “Kuz世界里的又一天。”库兹马写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，库兹马场均出场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/101b8deff0dfb8f68dd909a01aa739f4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/05e15627bdebdda1ca8877f1ef16ed8d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/cb0c502a63e7e8f36ca5c2df051c1feb.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/2e3a4f8d8943a89820142ddf1f8176d4.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/dce3566d3cdf4fad479c3d0e523ac3c3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/fabfa608f008e258772f529f89436484.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/409ea81e93c43dea878ed776d77f6fad.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/36ab9806a81f34b1bee7b021e914fd3e.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/64d0c37e7ea2f59de6027ce484ed7d5f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

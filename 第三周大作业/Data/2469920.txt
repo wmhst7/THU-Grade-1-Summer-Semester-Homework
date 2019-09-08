@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡特：十余支球队今夏联系我，曾努力替猛龙招募奥尼尔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/tech-media/2019/08/27/vince-carter-retirement-final-season-media-career-music-interview?utm_campaign=thecrossover&amp;utm_medium=social&amp;utm_source=twitter.com&amp;xid=socialflow_twitter_si" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 07:49:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡特：十余支球队今夏联系我，曾努力替猛龙招募奥尼尔" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/90e7ca41cbcec9208884c054a3343c2afb734e70.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近日，老鹰球员文斯-卡特接受了《体育画报》专访。
+   </p>
+   <p>
+    卡特今夏作为自由球员与老鹰完成一年续约，被问及是否曾有过回猛龙或者篮网的想法，卡特回答道：“我的决定只关乎于谁对我感兴趣，我试着去远离媒体所渲染的方式。我想要加盟一支想要与我签约的球队，我在42岁的年纪，还能得到10-12支球队的青睐，他们都给我打了电话，这让我心怀感激。”
+   </p>
+   <p>
+    当今NBA中，球员招募现象愈发普遍，谈及自己在职业生涯中是否也曾进行过球员招募，卡特回答：“我只有过一次类似经历，我想把沙奎尔-奥尼尔带到猛龙来，我曾感觉我们很接近达成这一目标。但那时情况很艰难，只是因为很多人会认为去加拿大干什么呢？除非他们真的在多伦多了，否则很难说服球员们那儿真的是个很棒的地方。甚至是我自己，直到我来到多伦多后，我才知道他们能为我提供些什么。”
+   </p>
+   <p>
+    卡特出生于1977年，今夏与老鹰完成一年续约，这将是42岁的卡特第22个赛季，他也将超过德克-诺维茨基、凯文-加内特以及罗伯特-帕里什，成为在NBA效力时间最长的球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡特代表老鹰场均出场17.5分钟，得到7.4分2.5篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

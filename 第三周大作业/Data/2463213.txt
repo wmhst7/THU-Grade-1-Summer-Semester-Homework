@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙预计将在与鹈鹕的揭幕战前进行总冠军戒指颁发仪式
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1159512065028964352/photo/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 01:12:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙预计将在与鹈鹕的揭幕战前进行总冠军戒指颁发仪式" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190809/d1cd0156fa07df236f6ad0dc871220c58912a3f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，猛龙预计将在与鹈鹕的揭幕战前进行总冠军戒指颁发仪式。
+   </p>
+   <p>
+    多位消息人士透露，NBA揭幕战将分别为湖人对阵快船以及猛龙对阵鹈鹕。
+   </p>
+   <p>
+    此外，一些离队球员对阵老东家的比赛的日程也已经确定，具体日程如下：
+   </p>
+   <p>
+    北京时间12月12日科怀-伦纳德回到多伦多，客场挑战猛龙
+   </p>
+   <p>
+    北京时间11月28日安东尼-戴维斯回到新奥尔良，客场挑战鹈鹕
+   </p>
+   <p>
+    北京时间11月28日凯里-欧文回到波士顿，客场挑战凯尔特人
+   </p>
+   <p>
+    北京时间1月10日拉塞尔-威斯布鲁克回到俄克拉荷马城，客场挑战雷霆
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

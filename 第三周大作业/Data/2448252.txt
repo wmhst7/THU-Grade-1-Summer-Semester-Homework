@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戈塔特今日更新社媒祝福比尔：生日快乐，上帝永远保佑你
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzSMdmTo242/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 15:09:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戈塔特今日更新社媒祝福比尔：生日快乐，上帝永远保佑你" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/4c7111a8b7b946e3739ac42f132777c7e9e3b0af.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 今日，NBA球员马尔钦-戈塔特更新了个人社交媒体Instagram，晒出了自己在奇才效力时，与曾经的队友，奇才后卫布拉德利-比尔同框的照片（见新闻配图）。
+   </p>
+   <p>
+    “生日快乐，孩子！希望你继续保持健康的身体和谦逊的心。上帝永远保佑你。”戈塔特写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，戈塔特场均出场16.0分钟，可以贡献5.0分5.6篮板1.4助攻0.13抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔场均出场36.9分钟，可以贡献25.6分5.0篮板5.5助攻1.48抢断。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

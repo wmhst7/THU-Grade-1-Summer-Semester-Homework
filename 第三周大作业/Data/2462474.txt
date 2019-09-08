@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔克社媒发鸡汤：抓住眼前的机会，一切皆有可能
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B010GAPHyiq/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 09:59:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔克社媒发鸡汤：抓住眼前的机会，一切皆有可能" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190807/e4dc095636a87cf753d614c69f7b9e059bef9c04.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 休斯顿火箭队球员PJ-塔克今天在个人Instagram上传了三张自己在美国男篮训练营的照片（见新闻配图）。
+   </p>
+   <p>
+    “我不清楚是否有人曾有过和我一样的经历、看过我所看过的一切，处在今天我已经处在的位置并且我不会去改变任何事情。永远不要将你的人生轨迹与他人比较，你所经历的一切能够让你为那些你从未敢想象的那些事情变为可能而做好准备。只要你对自己保持真实并且抓住你眼前的每个机会，一切皆有可能。”塔克写道。
+   </p>
+   <p>
+    塔克入选了2019年男篮世界杯美国男篮训练营名单，目前正在拉斯维加斯随队训练。2018-19赛季常规赛。塔克场均出场34.2分钟，得到7.3分5.8篮板1.61抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/09/47f53c4ba8d473d1b58c7c4a825480d0.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/09/294ec592c35088c8bbccc9b5ede5c51b.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

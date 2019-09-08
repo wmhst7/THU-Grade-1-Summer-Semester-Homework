@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯和布洛克正重新商讨原先达成的2年2100万的合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1148683002836221952" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 04:08:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯和布洛克正重新商讨原先达成的2年2100万的合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/1a0ee69c1eefcf807c14cd472259c216879e1c35.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，尼克斯和自由球员雷吉-布洛克正就之前达成的2年2100万协议进行重新商讨，双方都致力于就新的协议达成一致。
+   </p>
+   <p>
+    雷吉-布洛克的经纪人戴维-鲍曼和尼克斯正在重新评估，布洛克的身体状况在2019-20赛季是否能出战一个完整的赛季。
+   </p>
+   <p>
+    鲍曼在接受采访时，称赞了尼克斯对此事的处理方式，在提及管理层、工作人员及医疗组在签约后出现新问题时的处置方法时，鲍曼表示：“各方各面都是一流的。”
+   </p>
+   <p>
+    在2018-19赛季最后阶段，布洛克因为足底筋膜炎缺席了湖人最后10场比赛中的8场。
+   </p>
+   <p>
+    2018-19赛季常规赛，布洛克场均出场29.8分钟，可以得到11.3分2.8篮板2.0助攻0.63抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

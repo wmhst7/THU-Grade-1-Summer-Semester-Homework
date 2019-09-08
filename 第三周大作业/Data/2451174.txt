@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：开拓者正式宣布与罗德尼-胡德续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/blazers/news/2019/7/6/blazers-resign-rodney-hood?__twitter_impression=true" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 14:35:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：开拓者正式宣布与罗德尼-胡德续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/2af630ec06ccfd21b26afffd6f36e6339e1fe94f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今日，开拓者官方宣布与罗德尼-胡德续约。开拓者篮球运营总裁Neil Olshey今天宣布了这一消息。
+   </p>
+   <p>
+    “当胡德加入我们时，就是对我们很有影响的球员，并且在常规赛和季后赛都起到很关键的作用，”Neil Olshey说道“我们很幸运，他能选择重返波特兰。”
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski此前报道，消息人士透露报道，罗德尼-胡德将以2年1600万的合同续约开拓者。但根据开拓者跟队记者Jason Quick报道，这份合同没有Woj报的那么大，第一年为570万美元，第二年为600万美元，有球员选项。
+   </p>
+   <p>
+    2018-19赛季季后赛胡德场均出战23.3分钟，可以拿到9.9分2.2篮板。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://m.hupu.com/nba/news/2448842.html">
+     Woj：罗德尼-胡德2年1600万续约开拓者
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

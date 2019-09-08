@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  字母哥高效全面表现，苏州八国赛希腊92-65轻取约旦
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/923125/greece-overpowers-jordan-in-atlas-tournament/?utm_medium=Social&amp;utm_source=Twitter" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 00:58:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="字母哥高效全面表现，苏州八国赛希腊92-65轻取约旦" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/77f6e25f95e9d410e712d98d84be2a454bfe4208.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 2019年苏州八国赛今晚继续进行。经过四节激战，希腊以92-65战胜约旦，晋级下一轮。
+   </p>
+   <p>
+    希腊方面，5名球员得分上双，Giorgos Printezis得到17分，扬尼斯-阿德托昆博出场20分钟，得到13分4篮板4助攻3抢断2盖帽的全面数据。
+   </p>
+   <p>
+    约旦方面，Darquavis Tucker得到23分。
+   </p>
+   <p>
+    本届世界杯，希腊与黑山、巴西、新西兰同处F组；约旦与多米尼加、法国、德国同处G组。
+   </p>
+   <p>
+    借男篮世界杯即将举办的东风，本届苏州八国赛强队云集，除中国国奥队外，其他7支球队均为世界杯参赛球队，分别是希腊队、塞内加尔队、委内瑞拉队、多米尼加队、波多黎各队、约旦队和土耳其队。
+   </p>
+   <p>
+    根据赛制，8支球队将捉对厮杀展开淘汰赛，获胜的球队晋级半决赛，失利的进入排位赛，决赛将于27日晚进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

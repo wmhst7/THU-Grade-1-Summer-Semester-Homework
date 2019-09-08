@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  帅气逼人！小里弗斯更新社媒晒出自己个人帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzSIAiBJrIe/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:52:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="帅气逼人！小里弗斯更新社媒晒出自己个人帅照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/233af663f6d0525999f7090b0d2fccb8ae59ea68.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 昨日，火箭后卫奥斯汀-里弗斯更新了个人社交媒体Instagram晒出自己帅气个人照（见新闻配图）。
+   </p>
+   <p>
+    北京时间2018年12月18日，奇才将乌布雷和小里弗斯交易至太阳，换来阿里扎。随后，太阳将小里弗斯裁掉，火箭与其签约。
+   </p>
+   <p>
+    2018-19赛季常规赛，奥斯汀-里弗斯场均出场26.7分钟，可以得到8.1分2.1篮板2.2助攻0.62抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

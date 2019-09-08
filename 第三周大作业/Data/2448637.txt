@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网无意通过拉塞尔的签换交易得到森林狼的杰夫-蒂格
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/zachlowe_nba/status/1145072260962820096?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 16:33:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网无意通过拉塞尔的签换交易得到森林狼的杰夫-蒂格" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/6a5ba15be4afa7fed986f5511ba46c92cad09ae2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA记者Zach Lowe报道，森林狼一直希望得到丹吉洛-拉塞尔，但是消息人士透露，篮网对于通过拉塞尔的签换交易得到杰夫-蒂格不感兴趣。
+   </p>
+   <p>
+    蒂格此前决定执行自己下赛季价值1900万美元的合同选项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

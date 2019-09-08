@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼古拉斯-巴图姆ins晒身穿法国队服的定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0oPVo9gVbS/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 10:16:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼古拉斯-巴图姆ins晒身穿法国队服的定妆照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/b21eba2d1a902ef61c75ada729d841e7e9107965.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日黄蜂球员尼古拉斯-巴图姆更新了自己的个人Instagram动态，晒出了自己身穿法国男篮队服的定妆照。
+   </p>
+   <p>
+    在今年的中国男篮世界杯上，法国被分在G组，与约旦、多米尼加和德国共处一组。
+   </p>
+   <p>
+    2018-19赛季常规赛，巴图姆场均上场31.4分钟，得到9.3分5.2篮板3.3助攻0.95抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

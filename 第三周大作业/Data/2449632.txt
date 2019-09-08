@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：恩尼斯2年410万重回76人，第二年球员选项
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1146169286421110785?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 05:32:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：恩尼斯2年410万重回76人，第二年球员选项" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/f19ed5170be36cd3b3615d65a2afffb29f2afa65.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，詹姆斯-恩尼斯将以2年410万的合同重回76人，其中第二年为球员选项。
+   </p>
+   <p>
+    据Shams报道，恩尼斯拒绝了多支球队的更高报价，以重返76人。
+   </p>
+   <p>
+    2018-19赛季中期阶段，恩尼斯被火箭交易到了76人。
+   </p>
+   <p>
+    本周，尼克斯、湖人、快船均对恩尼斯表达出了兴趣。据Hoops Rumors记者JD Shaw报道，消息人士透露，公牛、马刺和独行侠也有意恩尼斯。
+   </p>
+   <p>
+    目前还不清楚恩尼斯的合同是否是老将底薪。
+   </p>
+   <p>
+    2018-19赛季常规赛，恩尼斯场均上场21.2分钟，得到6.7分3.1篮板0.7助攻；季后赛场均上场21.1分钟，得到7.5分3.8篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

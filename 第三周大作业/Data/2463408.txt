@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  菲律宾男篮主帅：希望国际篮联能让克拉克森出战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/cavaliers/news/press/daily-news-august-8-2019" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 12:55:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="菲律宾男篮主帅：希望国际篮联能让克拉克森出战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/702cb7fc1347f31738c74e049c29ce730dcaf9c1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 菲律宾男篮主教练Yeng Guiao表示，他仍然希望国际篮联能让乔丹-克拉克森代表菲律宾出战。
+   </p>
+   <p>
+    “随着日子一天一天过去，希望也越来越小了，但是我仍然不会放弃希望。”Guiao说道。
+   </p>
+   <p>
+    去年夏天克拉克森曾代表菲律宾征战亚运会（特批），根据国际篮联规定，每个国家可以拥有一名归化球员（年满16岁后才获得该国国籍的球员），菲律宾的安德雷-布拉奇则属于归化球员。
+   </p>
+   <p>
+    菲律宾方面希望能让克拉克森以本国人的身份参赛，但是克拉克森是在16岁后才获得的菲律宾护照，目前菲律宾希望能解决这个问题。
+   </p>
+   <p>
+    2019年男篮世界杯上，菲律宾与安哥拉、意大利、塞尔维亚同分在D组。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

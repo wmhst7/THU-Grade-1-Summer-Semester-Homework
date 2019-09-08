@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雄鹿总经理霍斯特当选2018-19赛季最佳总经理
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 10:56:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雄鹿总经理霍斯特当选2018-19赛季最佳总经理" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/01f7e235624db9b712e416408f1ba54519670b2d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，官方在颁奖礼上宣布，雄鹿总经理乔恩-霍斯特当选2018-19赛季最佳总经理奖，这是他职业生涯第1次当选最佳总经理。
+   </p>
+   <p>
+    霍斯特的NBA管理层生涯开始于2005年，效力于活塞队，2008年夏天，霍斯特加入了雄鹿，在当时的总经理约翰-哈蒙德手下工作，2018年6月17日，霍斯特成为雄鹿新的总经理。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

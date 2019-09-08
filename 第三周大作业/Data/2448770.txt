@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  瓦兰丘纳斯与灰熊达成3年4500万美元的续约协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145389006802366464" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 01:53:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="瓦兰丘纳斯与灰熊达成3年4500万美元的续约协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/b4ef404dc64ce7420a325eb0fd4c23804b346d0a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据ESPN著名记者Adrian Wojnarowski的报道，消息源透露，在自由市场开启后，约纳斯-瓦兰丘纳斯将与灰熊达成3年4500万美元的续约协议。
+   </p>
+   <p>
+    根据此前的报道，瓦兰丘纳斯不执行下赛季1760万美元的球员选项，以成为一名完全自由的球员，而瓦兰丘纳斯此举的首要目的是想跟灰熊协商一份新的合约。
+   </p>
+   <p>
+    在成功续约瓦兰丘纳斯后，目前灰熊下赛季的薪资空间为1.2亿美元（包含760万美元德朗-赖特的资质报价合同），其中有1970万美元是无保障合同（凯尔-科沃尔和埃弗里-布拉德利）。
+   </p>
+   <p>
+    瓦兰丘纳斯本赛季在2月份被猛龙交易至灰熊后场均得到19.9分10.7个篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

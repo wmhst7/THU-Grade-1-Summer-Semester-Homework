@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多支球队有意在今夏让伦纳德和巴特勒联手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/sources-multiple-nba-teams-have-interest-in-pairing-free-agents-kawhi-leonard-and-jimmy-butler/308494174" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 01:44:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多支球队有意在今夏让伦纳德和巴特勒联手" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/2c9e7f0467a9571df933474b54541d957da8af93.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据SNY尼克斯记者Ian Begley报道，多位联盟知情人士透露，多支球队有意在今夏让科怀-伦纳德和吉米-巴特勒联手。
+   </p>
+   <p>
+    显然，那些球队将需要创造足够的薪金空间来同时签下这两名球员。多位联盟消息人士透露，那些对巴特勒和伦纳德有意的球队相信他们俩将会有意效力于同一支球队。
+   </p>
+   <p>
+    这并不是说伦纳德在寻求跟其他球员联手，这看起来不符合他的性格。不过，那些有意让伦纳德和巴特勒联手的球队相信他们俩将会有兴趣一起打球。
+   </p>
+   <p>
+    此前，据NBA记者Adrian Wojnarowski的报道，多位联盟消息人士透露，在自由球员市场开启后，火箭计划招募巴特勒，迫使76人与火箭完成关于巴特勒的先签后换的交易。
+   </p>
+   <p>
+    猛龙、快船、湖人被认为是最有可能签下伦纳德的球队。另外，尼克斯和篮网同样对伦纳德有意。
+   </p>
+   <p>
+    此外，76人有意续签巴特勒。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  旧金山一条路被更名为勇士路，新球馆地址将是勇士路1号
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sanfrancisco.cbslocal.com/2019/08/01/warriors-way-street-sign-unveiled-near-san-francisco-chase-center/" target="_blank">
+     CBS体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 16:13:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="旧金山一条路被更名为勇士路，新球馆地址将是勇士路1号" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/3ed76e4b23793a93a144ee682e502e9865302af2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 勇士的新球馆大通中心将在下赛季投入使用。近日，旧金山的一条路被更名为勇士路(Warriors Way)。而球馆的新地址将是勇士路1号。勇士为新路标举行了揭牌仪式，勇士总裁兼首席执行官Rick Welts、旧金山市交通局及旧金山港口执行董事和旧金山公共事业总监均出席了仪式。
+   </p>
+   <p>
+    Welt提到了这对于大通中心球馆以及周边商铺和餐厅的意义，称这一天为“旧金山和大通中心历史上具有里程碑意义的一天”。
+   </p>
+   <p>
+    Welt还感谢了旧金山市前市长李孟贤和现市长伦登-布里德：“众所周知，李市长强烈支持勇士回到旧金山，而布里德市长也对我们试图在大通中心所做的一切给予了不可思议的帮助。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

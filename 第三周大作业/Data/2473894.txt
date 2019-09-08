@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯晒子女在I Promise学校的合影：我的成就
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2HyQKYgUqO/?igshid=ajuov25bcz3x" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 08:30:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯晒子女在I Promise学校的合影：我的成就" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/d6377c3b6d758c08ae4d95f891c56c1ccf4442ac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram晒出自己的两个儿子和一个女儿在家乡阿克伦市I Promise学校内的合影。
+   </p>
+   <p>
+    “我的成就！！#詹姆斯帮”詹姆斯写道。
+   </p>
+   <p>
+    I Promise学校是由勒布朗-詹姆斯家庭基金会投资并创立于阿克伦的一所慈善公立学校。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/6a3950dc284f403adc3ddc9a1ba47ec4.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/d6addeb8972b50d093b1f58bce07a104.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/08/26bae2b201f6bba522b771c7edec41b9.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

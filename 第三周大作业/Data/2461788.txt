@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米尔斯谈世界杯：我们的首要目标是赢下一枚奖牌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.smh.com.au/sport/basketball/boomers-have-unfinished-business-medal-window-is-open-says-mills-20190803-p52dlf.html" target="_blank">
+     悉尼先驱晨报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 08:57:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米尔斯谈世界杯：我们的首要目标是赢下一枚奖牌" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/108392d7eda62cdad9d78c14f2f7c56da479fec7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 近日，马刺后卫、澳大利亚男篮成员帕蒂-米尔斯接受了记者的采访，谈到了今夏将在中国举行的男篮世界杯比赛。
+   </p>
+   <p>
+    “我们的动力来源于我们从未赢过一枚奖牌，来源于我们相信彼此，相信我们的实力和潜力。现在是时候发挥我们的实力，享受比赛，然后全力以赴了。”
+   </p>
+   <p>
+    “在里约奥运会的时候，我们有些目标没能完成。现在两年过去了，我们目标远大，有望达成。”
+   </p>
+   <p>
+    “随着我们年龄变大，每个人都有了家庭、有了孩子或是结婚了。所以国家队也是我们再次组成小团体的一次机会。”
+   </p>
+   <p>
+    “我们的领袖团队有责任向球员们展示成为国家队的一员意味着什么，并且要确保这个项目处在巅峰，要了解球队的天赋。”
+   </p>
+   <p>
+    “我们知道我们前进的方向，也想实现我们的首要目标——赢下一枚奖牌甚至是金牌。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

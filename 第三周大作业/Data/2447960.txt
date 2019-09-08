@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  如果错失首要目标，尼克斯会对波蒂斯等球员非常感兴趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/sources-knicks-will-have-strong-interest-in-bobby-portis-julius-randle-if-they-whiff-on-top-free-agents/308540076" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 18:24:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="如果错失首要目标，尼克斯会对波蒂斯等球员非常感兴趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190628/28f8ad13d916898eb11a9e07c0efaede426e4a07.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据SNY记者Ian Begley的报道，多位消息人士透露，如果尼克斯在自由球员市场错失他们的首要目标的话，那么他们会对朱利叶斯-兰德尔和博比-波蒂斯非常感兴趣。
+   </p>
+   <p>
+    一些联盟消息人士确认，尼克斯也在考虑为德马库斯-考辛斯开出一份大额的短期合同。
+   </p>
+   <p>
+    尼克斯内部一些人透露，追求像兰德尔和波蒂斯这样年轻球员的优先级要排在追求考辛斯前面。
+   </p>
+   <p>
+    如果错失凯文-杜兰特、科怀-伦纳德和凯里-欧文的话，尼克斯会对特里-罗齐尔非常感兴趣，消息人士透露，尼克斯内部一些人透露，他们更愿意为罗齐尔开出一份短期合同。
+   </p>
+   <p>
+    之前有报道称杜兰特会强烈考虑篮网，多位消息人士确认了这一点。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

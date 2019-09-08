@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  纳斯：感谢伦纳德所做的一切，你不能责备一个想回家的人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NickFriedell/status/1147733777512198144" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 13:27:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="纳斯：感谢伦纳德所做的一切，你不能责备一个想回家的人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190707/229b3456baa510e038489d049f20d6eb6dbbdb51.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 据NBA记者Nick Friedell报道，猛龙主教练尼克-纳斯接受了采访，谈到了前锋科怀-伦纳德离队一事。
+   </p>
+   <p>
+    “你不能责备一个想回家的人。他昨天给我发短信，上面写的：‘我要回家了’，我给他回了：‘你在多伦多所达成的成就，改变了很多人的人生，尤其是我的。’我也很感谢他曾经所做的一切。”
+   </p>
+   <p>
+    纳斯在2018年夏天开始执教猛龙，同样在去年夏天，伦纳德加盟猛龙，两人帮助猛龙取得了队史首座总冠军奖杯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

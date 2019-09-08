@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  邓肯主动提出加入教练组，马刺曾接洽吉诺比利
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/manu-ginobili-spurs-gregg-popovich-coaching-staff-013335387.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 10:28:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="邓肯主动提出加入教练组，马刺曾接洽吉诺比利" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190724/2ed5c797ff4b7fff2bfe97fa465766042c3aa6af.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 根据此前的报道，马刺宣布球队名宿蒂姆-邓肯和威尔-哈迪将作为助教加入格雷格-波波维奇的教练组。
+   </p>
+   <p>
+    《纽约时报》记者Marc Stein的文章中谈到，他在自己与相关人士的对话中，不止一次地听到，加入马刺教练组更多是邓肯自己的意愿。邓肯知道波波维奇正纠结于助理教练的人选，所以他主动表态自己可以胜任，他感觉到波波维奇需要他。
+   </p>
+   <p>
+    Marc Stein听闻，马刺曾就助理教练的职位与马努-吉诺比利接洽，但后者刚刚退役一个赛季，显然没有做好回归的准备。但邓肯自告奋勇，且非常开心地接受了职位。
+   </p>
+   <p>
+    邓肯自1997年首轮第1顺位被马刺选中后，生涯共19个赛季全部为马刺效力，常规赛生涯场均上场34分钟，得到19分10.8篮板3.04助攻2.17封盖。
+   </p>
+   <p>
+    吉诺比利在2017-18赛季结束后正式宣布退役，生涯共16个赛季全部为马刺效力，常规赛生涯场均上场25.4分钟，得到13.3分3.5篮板3.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

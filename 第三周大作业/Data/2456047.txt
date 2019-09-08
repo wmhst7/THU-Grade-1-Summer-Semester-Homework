@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  蒙蒂-威廉姆斯：卢比奥能提升场上所有球员的效率
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.azcentral.com/story/sports/nba/suns/2019/07/19/state-phoenix-suns-ricky-rubio-factor/1777609001/" target="_blank">
+     亚利桑那共和报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 10:22:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="蒙蒂-威廉姆斯：卢比奥能提升场上所有球员的效率" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/1e4fe84aacc6e054312de087860c7b4e62c0a865.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 近日，太阳主教练蒙蒂-威廉姆斯接受采访，谈到了球队新援里基-卢比奥。
+   </p>
+   <p>
+    蒙蒂-威廉姆斯说：“我们有里基这样的球员，他会让每个人都打得比以前效率更高。作为一名主教练，你希望场上有一名可以在控卫位置上掌控比赛的球员，卢比奥当然为我们做到了这一点。”
+   </p>
+   <p>
+    此前，根据The Athletic记者Shams Charania报道，多位消息人士透露，里基-卢比奥与太阳达成3年5100万美元协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢比奥场均上场27.9分钟，得到12.7分3.6篮板6.1助攻1.34抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

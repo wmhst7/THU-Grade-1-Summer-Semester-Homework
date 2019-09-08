@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗齐尔经纪人：罗齐尔和洛瑞康利一档，并不比欧文差
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonglobe.com/sports/celtics/2019/07/11/amid-surprise-about-massive-contract-terry-rozier-plans-prove-his-worth-hornets/YRYfq37HqCdZq0qvm8AbzK/story.html" target="_blank">
+     波士顿环球报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 15:06:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗齐尔经纪人：罗齐尔和洛瑞康利一档，并不比欧文差" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/8881708eea320712a3a75530329e7ff67cfc4fbc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 今日，据记者Adam Himmelsbach报道，特里-罗齐尔的经纪人在谈到罗齐尔加盟黄蜂时说道：“幸运的是，人们对他去年担任首发时所做的表现出了足够的尊重。人们说‘哦，罗齐尔现在怎么只有这点投篮命中率’，黄蜂还会让他担任首发。但是你看看他作为首发时的数据，他和迈克-康利还有凯尔-洛瑞一样都是精英，他并不比凯里-欧文差。他是个优秀的首发并且黄蜂会让他打首发。”
+   </p>
+   <p>
+    根据此前报道，
+    <a href="http://lite.hupu.com/s?u=nba/news/2451088&amp;type=1&amp;entrance=26">
+     黄蜂通过先签后换得到特里-罗齐尔。
+    </a>
+   </p>
+   <p>
+    2018-19赛季常规赛，罗齐尔场均上场22.7分钟，得到9分3.9篮板2.9助攻。其中首发出场14场，场均出场30.1分钟，得到13.1分5.2篮板5.0助攻，投篮命中率42.9%，三分命中率40.5%。2017-18赛季常规赛，首发出场16场，场均出场33.6分钟，得到15.6分6.4助攻5.1篮板，投篮命中率38.1%，三分命中率38.9%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

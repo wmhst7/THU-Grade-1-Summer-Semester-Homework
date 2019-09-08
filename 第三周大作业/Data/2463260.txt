@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿龙-戈登社媒发问：哪一个是你们最喜欢的扣篮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B06thE0hSr2/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 07:05:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿龙-戈登社媒发问：哪一个是你们最喜欢的扣篮" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/c931c0248e173aae82744da32ee47124131375a3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 奥兰多魔术队前锋阿龙-戈登今天在个人Instagram上传了一张自己扣篮的照片（见新闻配图）。
+   </p>
+   <p>
+    “你们最喜欢的扣篮是哪一个？告诉我！”戈登写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，戈登场均上场33.8分钟，得到16.0分7.4篮板3.7助攻；季后赛他场均32.8分钟，得到15.2分7.2篮板3.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

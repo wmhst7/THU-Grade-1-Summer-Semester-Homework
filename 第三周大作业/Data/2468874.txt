@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  汤普森秀恩爱：和甜心在法国，格林打趣：小男孩长大了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1ib_BLAc0t/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 04:15:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="汤普森秀恩爱：和甜心在法国，格林打趣：小男孩长大了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/ac512377a9153a0944201d0d2bdcc4616c125775.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 今日，勇士后卫克莱-汤普森在个人Instagram上晒出了自己与女友Laura Harrier在法国度假的照片（见新闻配图）。
+   </p>
+   <p>
+    “和我的甜心在法国。”汤普森写道。
+   </p>
+   <p>
+    他的勇士队友德雷蒙德-格林则留言道：“那个小男孩长大了。”
+   </p>
+   <p>
+    Laura Harrier出生于1990年，是美国演员及模特，曾出演《蜘蛛侠：英雄归来》，在片中饰演蜘蛛侠的爱慕对象丽兹-艾伦。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/04/284e685c255df6245bf376745e2e76a7.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/04/e6133f7f5126b1a61ae79ad8ab25f165.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190825/04/147fca7481e5ec5cf4d9289c6a3dccb8.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

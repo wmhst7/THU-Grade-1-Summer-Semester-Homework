@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  骑士5名球员2K20能力值公布：乐福83，加兰77
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162637750954287105?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 16:20:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="骑士5名球员2K20能力值公布：乐福83，加兰77" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/64d46eb2e09bf6e2b1ab96f3bcf5c0d74ee753d5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2KRatings网站近日公布了一批球员的NBA 2K20游戏初始能力值，5名预计首发的骑士球员能力值得到确认。
+   </p>
+   <p>
+    骑士球员2K20初始能力值的具体公布情况如下：凯文-乐福83，特里斯坦-汤普森79，科林-塞克斯顿77，达里厄斯-加兰77，切迪-奥斯曼75。
+   </p>
+   <p>
+    值得一提的是，乐福在前作2K19游戏中的初始能力值为86。
+   </p>
+   <p>
+    加兰是本届选秀的5号新秀。2018-19赛季常规赛，乐福场均出战27.2分钟，得到17分10.9篮板2.2助攻；汤普森场均出战27.9分钟，得到10.9分10.2篮板2.0助攻；塞克斯顿场均出战31.8分钟，得到16.7分2.9篮板3.0助攻；奥斯曼场均出战32.2分钟，得到13.0分4.7篮板2.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

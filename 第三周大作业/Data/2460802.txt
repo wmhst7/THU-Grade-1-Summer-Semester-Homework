@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大卫-格里芬已联系詹姆斯阵营，解释他的言论被断章取义
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://streamable.com/udo13" target="_blank">
+     Streamable
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 08:59:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大卫-格里芬已联系詹姆斯阵营，解释他的言论被断章取义" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/6028ce04c7a7453c7744248f1101066e35d32a0b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 NBA记者Dave McMenamin今日在电视节目中报道了关于湖人前锋勒布朗-詹姆斯和前骑士总经理、现鹈鹕篮球运营副总裁大卫-格里芬就格里芬关于双方骑士合作时期的言论的最新动态。
+   </p>
+   <p>
+    “我联系了勒布朗阵营的人，他们对于这番言论很震惊，”McMenamin说道，“因为另一方面，大卫-格里芬在与骑士分道扬镳后也一直和勒布朗保持着非常积极的关系。事实上，就在一两周前，勒布朗还在他的推特上宣传格里芬妻子的生意，向他4300余万名推特粉丝进行免费的宣传。这是他表达善意的方式，因为他们就是拥有这般好的关系。据我所知，大卫-格里芬已经主动联系勒布朗的阵营，表示他的言论在那篇文章中被断章取义了。勒布朗的阵营表示，‘如果还有更多的上下文，请公开解释清楚。因为目前我们不明白这番言论的缘由。’”
+   </p>
+   <p>
+    Dave McMenamin曾于2014至2018年期间跟队报道骑士，并于去年起担任ESPN湖人跟队记者。
+   </p>
+   <p>
+    著名记者Adrian Wojnarowski今日也通过推特转发他此前与格里芬完成的播客访谈链接并写道：“在我最近与大卫-格里芬所做的播客访谈中，我们聊到许多关于在克利夫兰围绕勒布朗-詹姆斯建队的话题，他一贯坚持的语境和立场如下：外界审视以及充满无情压力的环境造就了骑士夺冠历程的无趣，而非詹姆斯本人。”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2460783.html">
+     大卫-格里芬：在骑士时太执着于结果，完全失去了乐趣
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  众球员感慨疯狂自由市场，库兹马：尼克斯承包不到大新闻
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kylekuzma/status/1145435629972410368" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 05:53:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="众球员感慨疯狂自由市场，库兹马：尼克斯承包不到大新闻" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/9678262ce682731476abec7d777b12563b104526.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 今日自由市场的大门正式开启，联盟内发生多桩劲爆签约，众NBA球星更新了个人推特，感慨疯狂的自由市场。
+   </p>
+   <p>
+    骑士后卫乔丹-克拉克森：“恭喜所有的球员去往自己理想的目的地！早就告诉过你们了，凯里-欧文会去篮网的。”
+   </p>
+   <p>
+    灰熊内线小贾伦-杰克逊：“自由市场太疯狂了，太疯狂了。#cry”
+   </p>
+   <p>
+    爵士后卫多诺万-米切尔：“所以，这就开始了......”
+   </p>
+   <p>
+    湖人前锋凯尔-库兹马：“尼克斯一个劲爆新闻都承包不到，lol”
+   </p>
+   <p>
+    魔术后卫埃文-富尼耶：“Woj，你快停下吧！！！”
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

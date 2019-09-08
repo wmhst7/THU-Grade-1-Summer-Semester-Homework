@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波尔接受采访时向记者展示腿上的《海绵宝宝》章鱼哥文身
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheNBACentral/status/1146137139299651587" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 03:33:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波尔接受采访时向记者展示腿上的《海绵宝宝》章鱼哥文身" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/d0e8f6f870ffe16da90c68d2533d84156c01a23a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 掘金新秀波尔-波尔在今日接受记者采访时，向记者展示了自己腿上的章鱼哥（动画片《海绵宝宝》里的角色）文身。
+   </p>
+   <p>
+    波尔称《海绵宝宝》是他非常喜欢的动画片，章鱼哥并不是他最喜欢的角色，但这个经典动作是他最喜欢的，因此将他文在了腿上。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/03/2b00160b9e5fb7b165e8f80631b7caac.png"/>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/03/93b5fb19e8cbe16e60f566d63a278b71.png"/>
+   </p>
+   <p>
+    波尔-波尔在今年选秀大会的第44顺位被热火选中，随即被交易到掘金。波尔是前NBA球员马努特-波尔的儿子，他一度被认为会在前十顺位被选中，但最终掉落至次轮。根据此前的报道，波尔将不会出战夏季联赛。
+   </p>
+   <p>
+    波尔今年19岁，身高2.2米，体重94公斤，司职中锋，但因为应力性骨折本赛季仅在NCAA出场9次，场均出战29.8分钟，能够贡献21.0分9.6篮板1.0助攻0.8抢断2.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

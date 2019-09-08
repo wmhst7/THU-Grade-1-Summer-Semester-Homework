@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  有爱！太阳官方更新社交媒体，晒出布克与小球迷合影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0w3b6nHdY0/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 10:00:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="有爱！太阳官方更新社交媒体，晒出布克与小球迷合影" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190805/96761a8dd4309b5dd74d68ca9565430ce107122d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 今日，太阳官方更新社交媒体Instagram，晒出德文-布克与球迷合影（见新闻配图）。
+   </p>
+   <p>
+    “#国际友谊日#这是我们最爱的友谊。”配文写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，德文-布克场均出场35.0分钟，得到26.6分4.1篮板6.8助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/09/327bd5c39040660617b92c9b73d8d66f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

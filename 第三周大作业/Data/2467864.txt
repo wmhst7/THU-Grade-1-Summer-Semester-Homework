@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比尔身边人士透露：比尔尚未决定是否与奇才提前续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article234048337.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 06:42:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比尔身边人士透露：比尔尚未决定是否与奇才提前续约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190822/e750d4ff4826f0033e21f0ed62354d3c378556ac.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 根据《迈阿密先驱报》记者Barry Jackson今天报道，比尔身边的一位相关人士透露，比尔尚未决定是否接受奇才提供的3年提前续约合同。
+   </p>
+   <p>
+    此外，比尔的经纪人Mark Bartelstein也表示比尔目前在是否接受提前续约方面没有新的进展。
+   </p>
+   <p>
+    根据此前的报道，奇才在北京时间7月26日曾正式向比尔提供了一份3年1.11亿美元的顶薪续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，比尔场均上场36.9分钟，得到25.6分5.0篮板5.5助攻1.48抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

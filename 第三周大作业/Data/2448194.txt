@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  后卫卡梅伦-佩恩将代表独行侠出战夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1144698642885959680" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 10:54:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="后卫卡梅伦-佩恩将代表独行侠出战夏季联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/feb861ac22a80f357cce043362fd2ab5c09cbb16.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据NBA记者Tim MacMahon报道，后卫卡梅伦-佩恩将代表独行侠出战夏季联赛。
+   </p>
+   <p>
+    本赛季常规赛，佩恩场均出场17.8分钟，能够得到6.2分1.8篮板2.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

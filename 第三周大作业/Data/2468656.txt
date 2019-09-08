@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  米尔斯：球迷们的支持不可思议了，击败对手感觉很棒
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1165152252501168128" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 15:06:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="米尔斯：球迷们的支持不可思议了，击败对手感觉很棒" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/7745f04c7867120a69929f0268be0cb71bdfc1ea.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 在刚刚结束的一场热身赛中，澳大利亚男篮以98-94力克美国男篮。赛后，澳大利亚男篮后卫帕蒂-米尔斯在场边接受了媒体采访。
+   </p>
+   <p>
+    谈到击败美国男篮的感受，米尔斯说：“感觉很棒，球迷们的支持太不可思议了，作为一支球队，我们的表现很有侵略性，我们非常自豪能够代表国家队出战，并且用正确的方式打出表现。我们打得像一个整体，很高兴能够在这些球迷们面前拿下胜利。”
+   </p>
+   <p>
+    “希望我们能够在本场胜利的基础上继续前进，我们很清楚这需要一个循序渐进的过程。我们只是会踏上赛场打出表现，这场胜利只是热身赛的一部分，我们的终极目标是创造澳大利亚篮球的历史，我们会为了目标继续努力。”米尔斯补充道。
+   </p>
+   <p>
+    谈到在五万名观众面前打球的感受，米尔斯说：“我感觉棒极了，我在此之前根本不知道这会是怎样的感受，我非常珍惜这样的机会，希望我们能够在本场比赛的基础上继续前进。”
+   </p>
+   <p>
+    本场比赛，米尔斯得到30分3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

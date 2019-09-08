@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  鲍尔今日晒出自己怀抱女儿以及与训练营孩子们互动照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1C3dfZJwiP/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 12:26:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="鲍尔今日晒出自己怀抱女儿以及与训练营孩子们互动照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/15e98bddff3dd20993732eb09874191442fdfbba.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    虎扑8月12日讯 今日，鹈鹕后卫朗佐-鲍尔更新了个人社交媒体Instagram晒出自己怀抱女儿以及举办训练营与孩子们互动的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“愉快充实的周末。”
+   </p>
+   <p>
+    2018-19赛季常规赛，朗佐-鲍尔场均出场30.3分钟，可以得到9.9分5.3篮板5.4助攻1.47抢断。
+   </p>
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/12/8af06bc9403c408c1ebb135d2f91561e.jpg"/>
+   </p>
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/12/2ee97bfebd8d76b6a9a41f1405f9adec.jpg"/>
+   </p>
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/12/bf46b1eec9c14d892e2330363a296b43.jpg"/>
+   </p>
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/12/61ed2fd695c5c3ac05ca5c3cc0943c31.jpg"/>
+   </p>
+   <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190812/12/5216701d3afb9042ab939444249e6081.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

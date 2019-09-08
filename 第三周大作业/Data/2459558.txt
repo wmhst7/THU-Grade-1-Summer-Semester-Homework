@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：小时候看了太多疯狂电影，睡觉时必须有灯亮着
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/mcten/status/1155953657671606272?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 07:20:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：小时候看了太多疯狂电影，睡觉时必须有灯亮着" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/cedf8b19927bb5d12ad1e9deaac41ba09897c6ed.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 湖人前锋安东尼-戴维斯近日接受采访谈到了争冠的话题。
+   </p>
+   <p>
+    “我不认为自己有过什么失败之处，”戴维斯说，“当然，如果到了生涯结尾我没能赢得总冠军，我会觉得那是我最大的败笔之一。但目前而言，我仍然自认为在球场内外有许多要做的事。因此我不觉得我已经在任何事上失败了。我会继续努力尝试，直到我取得成功。”
+   </p>
+   <p>
+    戴维斯还透露他有怕黑的小习惯。
+   </p>
+   <p>
+    “电视开着，洗手间的灯要开着，总之（当我上床睡觉时）必须有些灯是亮着的，”戴维斯说，“我也希望自己不要害怕黑暗。小时候我看了太多疯狂的电影，这让我一生都受到困扰。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

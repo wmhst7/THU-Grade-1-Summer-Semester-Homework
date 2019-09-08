@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：拥有近年来2位MVP球员的球队都取得了成功
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/rockets/live/media-day" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 02:22:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：拥有近年来2位MVP球员的球队都取得了成功" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/d3c3d9f76a964a3895d081b17d32fabaa3992868.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今日火箭为拉塞尔-威斯布鲁克举行了新闻发布会，总经理达雷尔-莫雷进行了演讲。
+   </p>
+   <p>
+    “我很早便喜欢威斯布鲁克的一点是，他通过自己的努力和自己的基金会成为社区的一部分。但我们在这里只有一个原因，那就是继续完成我们过去几年的目标，向下一步进发。我们认为威斯布鲁克可以做到。每当一支球队拥有过去几年里的2位MVP球员时，他们都取得了成功，例如勇士。我们很激动威斯布鲁克加入球队。”莫雷说道。
+   </p>
+   <p>
+    在谈到威斯布鲁克会为火箭带来怎样的影响时，莫雷说道：“他的比赛带有激情，以及对胜利的渴望，联盟里很少人能与他匹敌。这对我们很重要，例如在防守端和转换进攻。哈登曾和我们说过，威少在比赛中从不疲惫，并抱有极大的比赛激情。”
+   </p>
+   <p>
+    在谈到如何达成这笔交易时，莫雷说道：“在保罗-乔治的交易之前，我们没有想过达成这笔交易。威斯布鲁克是球队基石，我们没有想过可以得到他。但在乔治交易发生后，过程就迅速开始发展。”
+   </p>
+   <p>
+    此前火箭将保罗交易至雷霆，得到威斯布鲁克。
+   </p>
+   <p>
+    2018-19赛季常规赛，威斯布鲁克场均上场36.0分钟，得到22.9分11.1篮板10.7助攻1.95抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

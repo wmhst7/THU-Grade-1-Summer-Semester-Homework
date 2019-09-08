@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [视频]篮下暴扣！状元威廉森首个运动战得分霸气十足
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 10:21:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 带有视频全文 start -->
+ <div class="artical-content-video">
+  <div class="artical-video-play">
+   <a href="https://weibo.com/1883881851/HCbkccMj0" onclick="openVideo('https://weibo.com/1883881851/HCbkccMj0');return false;" target="_blank">
+    <img alt="[视频]篮下暴扣！状元威廉森首个运动战得分霸气十足" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/be8811e67eef1e9bd601a62b019c9bcbdad4deda.png"/>
+    <i class="video-blackMack">
+    </i>
+    <i class="btn-video-play">
+    </i>
+   </a>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯
+    <a href="https://weibo.com/1883881851/HCbkccMj0" target="_blank">
+     视频: [视频]篮下暴扣！状元威廉森首个运动战得分霸气十足»
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 带有视频全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

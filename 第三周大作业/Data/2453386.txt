@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：德万-埃尔南德斯与猛龙达成三年协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1149852694099701760" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 09:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：德万-埃尔南德斯与猛龙达成三年协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/255a9df8b1688f875cb8f068976487cfa7945f0a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 据The Athletic记者Shams Charania报道，多位消息人士透露，今年选秀大会的59号秀德万-埃尔南德斯已经与猛龙达成了一份三年部分受保障的新秀协议。
+   </p>
+   <p>
+    22岁的埃尔南德斯身高2.11米，体重107公斤，来自佛罗里达迈阿密大学。
+   </p>
+   <p>
+    2018-19赛季，埃尔南德斯没有代表佛罗里达迈阿密大学出战过，2017-18赛季，他在佛罗里达迈阿密大学场均出战25.8分钟，可以拿到11.4分6.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

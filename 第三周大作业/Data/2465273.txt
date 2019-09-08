@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波：我会带米尔斯出去吃喝，好让他赛场上慢下来
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JeffGSpursZone/status/1161513383579062274" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 14:18:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波：我会带米尔斯出去吃喝，好让他赛场上慢下来" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/f4940981802e806aa90b89bc3f9be2f24b71ce6c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 美国男篮主教练波波维奇今天接受了记者采访，谈到了他如何让澳大利亚后卫帕蒂-米尔斯在赛场上慢下来的计划。
+   </p>
+   <p>
+    波波维奇表示：“我会带他出去，喝一些以前没喝过的，吃一些以前没吃过的，好把他吃撑来。”
+   </p>
+   <p>
+    美国男篮接下来将和澳大利亚男篮进行两场热身赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

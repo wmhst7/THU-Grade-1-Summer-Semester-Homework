@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：独行侠裁掉达里尔-梅肯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/calliecaplan/status/1154874102345322497?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 07:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：独行侠裁掉达里尔-梅肯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/c81d65fad36ed76d667228d8b2e0bd74c467f470.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 独行侠官方今日宣布，他们已经裁掉了双向合同球员达里尔-梅肯。
+   </p>
+   <p>
+    梅肯去年夏天与独行侠签下了一份双向合同，他是去年的落选秀。
+   </p>
+   <p>
+    2018-19赛季常规赛，梅肯为独行侠出战8场，场均出战11.2分钟可以拿到3.6分1.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

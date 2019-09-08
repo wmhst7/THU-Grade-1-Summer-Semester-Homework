@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙铁杆球迷：不觉得球队该退役伦纳德球衣，夺冠是靠大家的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/raptors-news-superfan-nav-bhatia-doesnt-think-toronto-should-retire-kawhi-leonard-jersey/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 19:39:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙铁杆球迷：不觉得球队该退役伦纳德球衣，夺冠是靠大家的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/77cc81b9c95015bfff3412caac831375395f79a4.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 猛龙铁杆球迷纳夫-巴蒂亚今天在采访中谈到了今夏离队的科怀-伦纳德，他表示并不觉得猛龙应该退役伦纳德的球衣，因为夺冠每个球员都做出了贡献。
+   </p>
+   <p>
+    他说道：“夺冠不仅仅是因为他，范弗利特也做出了贡献；马克（加索尔）也做出了贡献，他防住了恩比德；还有洛瑞，他拼尽了全力。这不仅仅是因为科怀。”
+   </p>
+   <p>
+    “相比于其他人，大家给了伦纳德更多的赞美。对我而言，夺冠是每个人的功劳，伦纳德、伊巴卡、洛瑞，以及范弗利特在总决赛G6的重要表现，他命中了那些关键的三分。还有上帝的保佑，G7对费城的那个进球，是我看球24年来（上帝）最棒的助攻。”
+   </p>
+   <p>
+    巴蒂亚是猛龙著名的球迷，自24年前猛龙进入联盟以来，他从来没有缺席球队任何一场主场比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

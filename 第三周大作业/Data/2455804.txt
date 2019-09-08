@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰伦-罗斯：如果杜兰特健康，他和欧文本可能加盟尼克斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1152116597290438656" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 15:23:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰伦-罗斯：如果杜兰特健康，他和欧文本可能加盟尼克斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190719/62c34e4f6f8609d055253c2b7aff0ea8b5494e41.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 近日，杰伦-罗斯参加了一档节目，他表示，如果凯文-杜兰特没有遭遇严重的伤病，他将成为那个决定自己和凯里-欧文去向的人，这意味着他们可能加盟尼克斯。
+   </p>
+   <p>
+    杰伦-罗斯在节目中说道：“一开始凯文-杜兰特是那个主要因素，他试图说服凯里-欧文去他认为他们应该效力的球队，但后来他受伤了，不得不缺阵一年。之后凯里-欧文就劝说他去自己认为他们应该效力的球队。”
+   </p>
+   <p>
+    “因为有一名球员下个赛季能上场打球，而另一名球员需要从伤病中回归。当你缺阵时，你需要有人维持球队。他们是最好的朋友，所以他们的组队是有意义的。这就是他们最终决定去篮网而非尼克斯的原因。”杰伦-罗斯继续说道。
+   </p>
+   <p>
+    杜兰特因跟腱伤势预计缺席下赛季所有比赛。2018-19赛季，凯文-杜兰特常规赛场均出场34.6分钟，得到26.0分6.4篮板5.9助攻。凯里-欧文场均出场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  深情告白！莫兰特发布女儿照片，示爱女儿和女友
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2HvKQrHKBZ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 09:52:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="深情告白！莫兰特发布女儿照片，示爱女儿和女友" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190908/a16c7cce6f482adf4c069ca30c0f2489342d5986.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 今日，灰熊新秀贾-莫兰特更新了个人Instagram，晒出一张自己女儿的照片，@自己的女友，并配文：“时光飞逝……我的宝贝女儿已经一个月大了……爸爸我等不及看到你回家了。@女友 我对你感激不尽。生命中拥有你们是我的福分（保佑表情），你们推动我更加努力（努力表情）。我爱你们（爱心表情）。#我的宝贝”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190908/09/ebacae3a0a51370e469d1a03cfc821f0.jpg"/>
+   </p>
+   <p>
+    贾-莫兰特于2019年首轮第2顺位被灰熊选中，现年19岁，身高1.91米，体重79公斤，司职控球后卫，2018-19赛季在NCAA代表莫瑞州立大学出场33次，场均出场36.6分钟，得到24.5分5.7篮板10.0助攻1.8抢断0.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

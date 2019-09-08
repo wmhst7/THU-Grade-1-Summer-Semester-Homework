@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯尔特人高管：法尔有良好的性格和球商，值得我们的投入
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/celtics-exec-lauds-tacko-falls-iq-says-he-still-has-long-way-go?cid=Yahoo&amp;partner=ya4nbcs" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 03:09:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯尔特人高管：法尔有良好的性格和球商，值得我们的投入" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/dbb14ef469ce5514ae5dc79263445dc65484da72.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 根据此前的报道，凯尔特人签下了中锋塔科-法尔。
+   </p>
+   <p>
+    一名匿名的凯尔特人高管称，塔科-法尔还有很多尚待提高之处：“在他的第一场比赛中，有一个回合， 他在防守挡拆时被吹罚了犯规，他对自己感到沮丧，大部分球员会拍打一下篮柱，这时有发生。而塔科-法尔会拍打篮板后面的篮球架，他的手臂能一直从篮柱伸到篮板附近，这提醒了人们他有多高大。而对于他的场上表现，他还有很长的路要走，目前他所拥有的只有他的体型。好消息是随着一周的时间过去，他的表现越来越好。他当然是值得我们为他的发展付出更多时间的。”
+   </p>
+   <p>
+    尽管一些人质疑塔科-法尔是否能在NBA的层面上稳定地作出贡献。这名凯尔特人高管赞赏了塔科-法尔的性格和球商。
+   </p>
+   <p>
+    “首先，他是一名高素质的人，这是最重要的。他极其聪明，他可能是这个训练馆里最聪明的人。（笑） 我们希望能在训练营以及之后的时间里一直同他训练，你知道，天生的体型是你教不来的。而他比我们见过的任何人都吸收了更多的知识，他值得我们进行投入。”
+   </p>
+   <p>
+    在夏季联赛中，塔科-法尔场均能得到7.2分4篮板1.4盖帽。
+   </p>
+   <p>
+    <span style="font-size:12px;color:#c0c0c0;">
+     勘误内容小编误将塔科-法尔会拍打篮板后面的篮球架（arm）翻译成拍打了他的手臂，特此致歉
+    </span>
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卢尼更新个人社媒，晒自己与两名前综合格斗冠军的合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0Z8KK1hpbD/" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 13:08:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卢尼更新个人社媒，晒自己与两名前综合格斗冠军的合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/e89b924760583105d9fddca2feb6c891308e42c2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 今日，勇士球员凯文-卢尼更新了自己的个人Ins，晒出与自己与前综合格斗冠军丹尼尔-科米尔和哈比卜-努尔马格妙多夫的合照，并配文：
+   </p>
+   <p>
+    “感谢丹尼尔-科米尔和哈比卜-努尔马格妙多夫以及整个美国自由搏击学院让我参观冠军们是如何训练的，我学到了一些东西。（拳头表情）”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190727/13/c09e4ba75333c76bfdadbfbeedaed16d.jpg"/>
+   </p>
+   <p>
+    根据此前的报道，勇士官方宣布与球队与前锋凯文-卢尼正式签订了续约合同，双方达成的合同为3年1500万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，卢尼场均上场18.5分钟，得到6.3分5.2篮板1.5助攻；季后赛场均上场20.6分钟，得到7.1分4.5篮板1.0助攻。他曾在总决赛中锁骨骨折，但仅缺席一场后就带伤复出。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

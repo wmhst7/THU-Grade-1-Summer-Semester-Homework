@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波：我用合同威胁米尔斯，他把澳大利亚比赛计划给我了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/olgunuluc/status/1164023124775407616?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 12:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波：我用合同威胁米尔斯，他把澳大利亚比赛计划给我了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/56cd4313615a1f7a9576368c2f9847601b1bac0d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 美国男篮将在当地时间本周四对阵澳大利亚男篮，今日美国男篮主帅格雷格-波波维奇接受了采访。
+   </p>
+   <p>
+    “帕蒂（帕蒂-米尔斯）昨日把他们的比赛计划给我拿来了，因为如果我拿不到的话，我用他的合同威胁了他，他很棒，他把所有的都拿来了，Lemanis教练（澳大利亚男篮主帅Andrej Lemanis）对此不满，但是我把他们的比赛计划都复印了，然后发给了我们所有的球员们。”波波维奇说道。
+   </p>
+   <p>
+    澳大利亚男篮的大名单如下：阿隆-贝恩斯、安德鲁-博古特、大卫-巴洛、米奇-克里克、马修-戴拉维多瓦、Cameron Gliddon、Chris Goulding、乔-英格尔斯、尼古拉斯-凯、乔克-兰代尔、米尔斯和内森-索比。
+   </p>
+   <p>
+    Lemanis透露，除了巴洛（背部扭伤）之外，所有球员都可以出战对阵美国男篮的比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

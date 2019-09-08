@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  格林、库里、克莱三人组常规赛胜率76.4%，NBA历史最高
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ESPNStatsInfo/status/1157798336646320129" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 09:53:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="格林、库里、克莱三人组常规赛胜率76.4%，NBA历史最高" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/ca965c9990a04f6e0201165ab6b25f96adf60926.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 金州勇士队官方今天宣布，球队已经正式与前锋德雷蒙德-格林完成提前续约。
+   </p>
+   <p>
+    根据ESPN Stats &amp; Info的数据统计，格林、克莱-汤普森以及斯蒂芬-库里三人组的常规赛战绩为365胜113负，胜率为76.4%，这也是NBA历史共同出战至少400场常规赛的三人组最高胜率。
+   </p>
+   <p>
+    根据此前的报道，格林与勇士达成的是一份4年1亿美元的续约合同。格林的四年续约合同中年薪分别为2220万美元、2400万美元、2580万美元和2760万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，德雷蒙德-格林场均出场31.3分钟，得到7.4分7.3篮板6.9助攻1.44抢断1.06盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

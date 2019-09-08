@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹吉洛-拉塞尔：未来无法预测，迫不及待开启新征程
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usatoday.com/story/sports/nba/warriors/2019/07/09/nba-free-agency-dangelo-russell-unfazed-one-year-warriors-stint/1681053001/" target="_blank">
+     今日美国
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 13:57:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹吉洛-拉塞尔：未来无法预测，迫不及待开启新征程" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/cc4d740cf53688c48ea9f76dfefbcad905de0bae.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今日，全明星后卫丹吉洛-拉塞尔在接受采访时表示并不担心自己会成为商业考量下，只在勇士效力一年的球员。他还表示能在斯蒂芬-库里和德雷蒙德-格林身边打球，令他非常兴奋。
+   </p>
+   <p>
+    “事情就是这样，”当谈及勇士仅仅是为了备战下个赛季，寻找克莱-汤普森的替代者而交易得到他的时，拉塞尔这样说道。
+   </p>
+   <p>
+    此前有传言称一旦克莱健康归来，勇士队就会将拉塞尔作为交易的筹码将其交易。
+   </p>
+   <p>
+    对此拉塞尔表示：“即使你已经处在某个位置很长时间，一年之后的情形可能也会有所不同。这就是生意，我已经意识到这一点，并且非常理解。所以无论我处于什么情况，我都能理解它商业的一面。我们且行且看吧，对于未来我也是无法预测的。”
+   </p>
+   <p>
+    此前，
+    <a href="http://lite.hupu.com/s?u=nba/news/2448971&amp;type=1&amp;entrance=26&amp;from=singlemessage&amp;isappinstalled=0">
+     拉塞尔通过先签后换加盟勇士
+    </a>
+    。对于加盟勇士，拉塞尔表示这将开启他职业生涯的新篇章。
+   </p>
+   <p>
+    “说实话，我很兴奋。我真的很开心。我认为这对我来说是一个巨大的机会，我可以再向前迈出一步，并向一群优秀的球员学习。他们已经在这个联盟取得了巨大的成就，所以我非常兴奋。”
+   </p>
+   <p>
+    “你将与一群擅长投篮、运球和为队友制造机会的球员成为队友。像库里这样的球员在整场比赛中都可以保持攻击力。这将在比赛中为我们带来不小的优势。”拉塞尔说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

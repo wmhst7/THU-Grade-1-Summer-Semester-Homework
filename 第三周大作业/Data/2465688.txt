@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  超级迷弟！16岁的戴维斯参加训练营时畅谈偶像詹姆斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lebronfactory/status/1161135298446688256?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 16:46:34
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="超级迷弟！16岁的戴维斯参加训练营时畅谈偶像詹姆斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/5eb2533814ff3dda6150a6953fd89df674384080.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 媒体账号The LeBron Factory今日剪辑回顾了湖人前锋安东尼-戴维斯年少时参加勒布朗-詹姆斯举办的训练营期间的采访视频。当时戴维斯年仅16岁，而他的偶像詹姆斯仍效力于骑士。
+   </p>
+   <p>
+    少年戴维斯表示他已经在训练营和詹姆斯打过球，当记者问到他是否期待在未来与詹姆斯交手或成为队友时，戴维斯答道：“是的，当然了。”随后戴维斯向记者展示了他上脚的詹姆斯签名战靴并透露自己从詹姆斯的训练营收获礼物：“是的，许多双勒布朗战靴。几乎每一代都有。”此外，戴维斯还表示他会努力保持这些球鞋的干净整洁。
+   </p>
+   <p>
+    当记者让他对当年的季后赛形势（2009年）进行预测时，戴维斯表示他看好骑士。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4405578564316446">
+     视频：16岁的浓眉参加勒布朗训练营分享迷弟情结
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190815/16/70d787ae52e740320313987719d57f53.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190815/16/d317497196e9198e72319c7cb6f4706b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190815/16/f26e2e3d7e9dc56643995a49d89e4d24.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190815/16/1a09f61b17de54c4384a6c8af2784882.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

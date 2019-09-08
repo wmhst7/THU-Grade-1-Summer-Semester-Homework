@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：快船提前执行路易斯-威廉姆斯2020-21球队选项
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1146056257654181888" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 22:06:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：快船提前执行路易斯-威廉姆斯2020-21球队选项" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/7cec0c05388c8a51bf35d5b3b6b77e02efe06bcd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据The Athletic记者Shams Charania报道，消息人士透露，快船将提前执行威廉姆斯2020-21赛季的球队选项。
+   </p>
+   <p>
+    一般情况下，球队不会提前一个赛季就执行球员合同的球队选项。路易斯-威廉姆斯在2018年夏天与快船签下3年2400万美元的合同，其中2020-21赛季为球队选项。快船执行球队选项后，威廉姆斯原先在2020-21赛季仅有200万美元受保障的合同转变为800万美元全额保障。这使得威廉姆斯明确了未来，对于威廉姆斯和快船而言，这是一个双赢的选择。
+   </p>
+   <p>
+    2018-19赛季常规赛，路易斯-威廉姆斯场均出场26.6分钟，得到20.0分3.0篮板5.4助攻0.76抢断，并获得个人生涯第三座最佳第六人奖杯。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

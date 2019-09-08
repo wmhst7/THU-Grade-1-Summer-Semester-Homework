@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  这谁顶得住？奥尼尔今日更新社媒晒新老湖人球员合成照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0zN2IJlYB1/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 14:55:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="这谁顶得住？奥尼尔今日更新社媒晒新老湖人球员合成照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/1a297ce7c8384763335aeda7d80394f182606c4a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 今日，NBA名宿沙奎尔-奥尼尔在个人社交媒体Instagram上发布了一张合成照片（见新闻配图），图中的球员均曾经或现在效力于湖人。
+   </p>
+   <p>
+    奥尼尔配文道：“谁能击败这支球队？没错我的位置是大前锋。”
+   </p>
+   <p>
+    图中前排为卡里姆-阿卜杜尔-贾巴尔（1975-1989效力于湖人），后排自左向右依次为魔术师约翰逊（1979-1996效力于湖人），沙奎尔-奥尼尔（1996-2004效力于湖人），科比-布莱恩特（1996-2016效力于湖人），勒布朗-詹姆斯（2018至今效力于湖人）。
+   </p>
+   <span id="editor_baidu">
+    (编辑：王芮)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

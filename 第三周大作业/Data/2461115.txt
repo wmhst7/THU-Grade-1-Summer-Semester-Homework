@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼：曾和哈登保罗沟通，他们表示对裁掉我这事不知情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SportsCenter/status/1157298363689308160" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 02:50:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼：曾和哈登保罗沟通，他们表示对裁掉我这事不知情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/678722ee9078cbe7f925192a0473c419650a6a24.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，自由球员卡梅罗-安东尼参加《First Take》节目，谈到了有关自己近日处境的相关话题。
+   </p>
+   <p>
+    被问及事后与詹姆斯-哈登、克里斯-保罗是否有过交流时，安东尼表示：“我当时立马给保罗打了电话，也给哈登打了，我说：‘你跟我说实话，你们之前知道这件事吗？如果你们早就知道了，但一点都不跟我说，那我们的友谊可能要走到尽头了，你们跟我实话实说。’保罗说他毫不知情，詹姆斯也是这么说的。”
+   </p>
+   <p>
+    主持人提到如果哈登在队内的话语权，称至少人们普遍认为如果哈登希望某个球员留队的话球队就会留下他，并询问安东尼是否这样认为。对此，安东尼表示：“我从没和哈登聊过这件事，我不会主动去做（跟别的球员讨论这种事）。我和保罗进行了一次一对一的敞开心扉的交谈，凌晨一点钟的时候在我的房间。我看着他的眼睛，他也看着我的眼睛。他跟我说：‘兄弟，我永远不会对你做这样的事。’我相信他，我们之间有比篮球更深层次的东西。他就坐在我面前，仿佛能体会到我当时的难过，我觉得他是真的不知道这件事。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

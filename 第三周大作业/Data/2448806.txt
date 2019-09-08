@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  欣喜若狂！丁威迪：让我看看是谁当初认为我不该续约篮网
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SDinwiddie_25/status/1145438797544546306" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 05:28:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="欣喜若狂！丁威迪：让我看看是谁当初认为我不该续约篮网" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/0e04df409173c542928ff91a61b03d96545d0a3d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 今日自由市场的大门正式开启，据报道，篮网将同时签下凯文-杜兰特、凯里-欧文、德安德烈-乔丹及加莱特-坦普尔。
+   </p>
+   <p>
+    杜兰特和篮网达成4年1.64亿美元的口头协议，欧文将与篮网达成4年1.41亿美元口头协议，坦普尔预计与篮网签下2年1000万美元的合同。
+   </p>
+   <p>
+    篮网后卫斯潘塞-丁威迪更新了个人推特：“让我来看一下是谁认为当初我不应该和篮网续约的。噢，尼克斯的粉丝们，我也不会忘了你们的。”
+   </p>
+   <p>
+    丁威迪在2018年12月以3年3435万美元提前续约，2019夏天正式生效。据消息人士透露，丁威迪参加今日球队与欧文的正式会面，在篮网成功招募欧文中起到重要作用。
+   </p>
+   <p>
+    2018-19赛季常规赛，丁威迪场均出场28.1分钟，得到16.8分2.4篮板4.6助攻0.59抢断.
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

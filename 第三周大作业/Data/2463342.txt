@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  塔特姆谈适应国际篮球比赛规则：这是个学习过程
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.masslive.com/celtics/2019/08/boston-celtics-jayson-tatum-hits-buzzer-beater-says-playing-with-kemba-walker-on-team-usa-is-a-lot-of-fun.html" target="_blank">
+     MassLive
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 10:27:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="塔特姆谈适应国际篮球比赛规则：这是个学习过程" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/6b6815e331dcf9a1de7e63af64aa5a5267e55b18.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 在昨天美国男篮国家队的训练中，球员们被分为两组进行对抗赛，最终凯尔特人前锋杰森-塔特姆比赛最后时刻在左侧跳投打板命中，用一记压哨绝杀结束了比赛。在之后的采访中，塔特姆谈起了NBA比赛规则与国际篮球比赛规则的不同。
+   </p>
+   <p>
+    “是的，那是不同的篮球世界，”塔特姆说道，“但我在高中时期的国家队待过，所以我已经习惯了。”
+   </p>
+   <p>
+    “我们整个星期都在训练学习适应新规则，这仍然是一个学习过程，但我们会找到答案的。”塔特姆接着说道。
+   </p>
+   <p>
+    此外，采访中塔特姆还谈起了与在绿衫军的新队友肯巴-沃克一起打球的感受。
+   </p>
+   <p>
+    “这很有趣，尤其是与肯巴（沃克）一起打球，建立一些化学反应，和他一起打球真的很有趣。”塔特姆如此说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

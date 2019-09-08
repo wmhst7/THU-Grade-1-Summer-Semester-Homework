@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈尔斯-特纳更新社媒晒出个人场边照：与队友保持沟通
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1KnuN9gwPM/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 12:33:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈尔斯-特纳更新社媒晒出个人场边照：与队友保持沟通" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/4fb90dc9d69d524d94f99a9b6e0aa3e540c30f9d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日，美国队成员、步行者迈尔斯-特纳更新了个人社交媒体Instagram晒出一张自己身披国家队战袍坐在场边的个人帅照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“与队友保持沟通。”
+   </p>
+   <p>
+    2018-19赛季常规赛，迈尔斯-特纳场均出场28.6分钟，可以得到13.3分7.2篮板1.6助攻2.69封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

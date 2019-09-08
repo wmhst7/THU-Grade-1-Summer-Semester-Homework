@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伦纳德：乔治向步行者申请交易时，我曾努力让马刺换来他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/rachel__nichols/status/1154272167019913216?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 09:47:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伦纳德：乔治向步行者申请交易时，我曾努力让马刺换来他" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/0c4a2f2e666a1bc2c049af664b741491a7d9559b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 快船新援保罗-乔治与科怀-伦纳德今日一同接受了NBA记者Rachel Nichols的专访，谈及加盟快船的一些话题。
+   </p>
+   <p>
+    当被问到他是何时初次萌生和乔治搭档的想法时，伦纳德说：“最早的想法可能出现在我为马刺效力，他在步行者打球时，我曾经努力让马刺把他换到我们这边。你们也知道交易的过程，他最终去了雷霆，可能他们对他的交易报价更好吧。不过，大概就是那时这个想法首次出现，就是他想要离开步行者的时候。”
+   </p>
+   <p>
+    当被问到他有多么接近选择加盟湖人或猛龙而非快船时，伦纳德说：“我非常接近，很接近的。但当他们提出了与保罗打球的机会，选择就很容易了，我答应了。我说，让我们开工吧。”
+   </p>
+   <p>
+    乔治于2017年夏休期向步行者提出交易申请，随后被交易至雷霆；并于今年休赛期向雷霆提出交易申请，随后被送至快船。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  尼克斯经理：我们签下了一群兼具天赋和经验的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/IanBegley/status/1148689311363149827" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 15:30:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="尼克斯经理：我们签下了一群兼具天赋和经验的球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/3810537ffb548c929bd5b9b97674788d2a780411.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 纽约尼克斯队官方今日宣布，球队已经正式签下后卫韦恩-艾灵顿、前锋泰-吉布森、后卫埃尔弗里德-佩顿、前锋博比-波蒂斯以及前锋朱利叶斯-兰德尔。根据球队政策，合同细节并未被公布。
+   </p>
+   <p>
+    对此尼克斯总经理斯科特-佩里说道：“总的来说，我们签下了一群极具天赋又经验丰富的多维球员，他们会给我们队伍带来很大的提升，与此同时我们还会继续补强以打造一支兼具深度和多方面能力的队伍。这些球员都是坚定、充满活力、准备就绪的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻；波蒂斯场均出场26.0分钟，得到14.2分8.1篮板；佩顿场均出场29.8分钟，得到10.6分5.2篮板7.6助攻；吉布森场均出场24.1分钟，得到10.8分6.5篮板；艾灵顿场均出场24.5分钟，得到10.3分2.0篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  跟队记者：科林斯遭遇了右脚踝二级扭伤，无需接受手术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/northwest/portland-trail-blazers/breaking-news-zach-collins-sustains-ankle-injury" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 09:28:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="跟队记者：科林斯遭遇了右脚踝二级扭伤，无需接受手术" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190801/231081a35c1c019f96967cf5065a6dd5635e11ef.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 据开拓者跟队记者Dwight Jaynes报道，经过开拓者方面的确认，扎克-科林斯在几周前的一次训练中遭遇了右脚踝二级扭伤和韧带撕裂。
+   </p>
+   <p>
+    Dwight Jaynes透露，科林斯无需接受手术，但需要拄拐，并且穿着步行靴。科林斯目前正在拉斯维加斯的家中恢复，他将于下周返回波特兰，预计能够为新赛季训练营做好准备。
+   </p>
+   <p>
+    2018-19赛季常规赛，科林斯场均出场17.6分钟，能够得到6.6分4.2篮板0.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿隆佐-莫宁的儿子特雷-莫宁与俄罗斯球队签约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article233945502.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 07:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿隆佐-莫宁的儿子特雷-莫宁与俄罗斯球队签约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/ddf428f0abf0a04b0327fc99a93b404d0a2d07f6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 根据《迈阿密先驱报》记者Barry Jackson和Anthony Chiang的联合报道，阿隆佐-莫宁的儿子特雷-莫宁已经与俄罗斯球队签约。
+   </p>
+   <p>
+    阿隆佐-莫宁是热火球员部副总裁，特雷-莫宁在今年的选秀大会上落选。
+   </p>
+   <p>
+    特雷-莫宁2018-19赛季在乔治城大学霍亚队场均得到6.3分3.8篮板，他身高2.06米，是一名前锋。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

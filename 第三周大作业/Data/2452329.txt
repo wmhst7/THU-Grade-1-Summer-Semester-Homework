@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网总经理：杜兰特将接受队医评估，目前没有康复时间表
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/07/09/sudden-chance-kevin-durant-could-return-this-season/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 12:15:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网总经理：杜兰特将接受队医评估，目前没有康复时间表" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190710/0da6fca943ca84c16b745f432df4fabe810d2eb1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 篮网总经理肖恩-马克斯今日在新闻发布会上谈到了球队新援凯文-杜兰特的跟腱断裂伤情。马克斯并不保证杜兰特将在下赛季复出，但也不排除赛季报销的前景。
+   </p>
+   <p>
+    “他将接受运动表现团队的评估等等，”马克斯说道，“在合适的时间会给出他的康复时间表，但目前为止，我们肯定不会评论他是否或者何时能复出，也不会做任何假设。目前还太早。”
+   </p>
+   <p>
+    篮网主帅肯尼-阿特金森也谈到了他在得知杜兰特遭遇跟腱断裂时的反应：“我们立即开始互发短信，‘天啊，这可能改变情况。’然后我们做了几个深呼吸，了解到更多信息，这让做决定变得更容易些。”
+   </p>
+   <p>
+    “在那个时刻发生那件事，无关自由球员市场，如果我说那完全没有困扰到我们，或者我们一点儿也不震惊，那肯定是在撒谎。然后我们需要分析形势，好吧，情况怎么样？影响我们球队吗？适合我们的形势吗？”马克斯说道。
+   </p>
+   <p>
+    曾有报道称尼克斯因担忧杜兰特的伤病恢复程度犹豫为他开出顶薪合同，对此马克斯笑着表示：“如果我们也是那种情况，现在就不会召开这个发布会了。那些球员处于另一个级别，他们很清楚，我不会对他们说，‘让我们坐下来商讨一份合同吧。’我们知道自己面临的情况。”
+   </p>
+   <p>
+    马克斯透露他们昨日与主刀杜兰特的医生Martin O’Malley共同在洛杉矶见到了杜兰特。
+   </p>
+   <p>
+    “说实话，我们各方首次一同见面是在周一，”马克斯说，“包括我们的医生和运动表现团队，我们见到了凯文，对他做了一次全面评估。他们密切观察他，对他解释，‘康复计划是这样的。’我不能代替凯文发声，但我猜想知道O'Malley医生就在纽约能为他带来一些安慰。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

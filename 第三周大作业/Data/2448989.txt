@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：贾马尔-默里与掘金达成5年1.7亿提前续约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1145548508801449984" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 12:24:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：贾马尔-默里与掘金达成5年1.7亿提前续约" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/361b876bab40c4a341e74fa29b88227b1477267b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据The Athletic记者Shams Charania报道，消息人士透露，贾马尔-默里与掘金达成提前续约，金额为5年1.7亿。
+   </p>
+   <p>
+    默里本赛季将进入他的新秀合同第四年，根据劳资协议他可以与掘金提前开始续约谈判。从续约金额来看，掘金使用了指定新秀条款，与默里续约。
+   </p>
+   <p>
+    2018-19赛季常规赛，默里场均出战32.6分钟，可以拿到18.2分4.2篮板4.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

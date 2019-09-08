@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克与黄蜂谈判出现分歧，绿军尼克斯独行侠有意追求
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1144225721356890112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 20:48:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克与黄蜂谈判出现分歧，绿军尼克斯独行侠有意追求" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/b9fb33d921f85d718aed38db30775b2ac4b82f42.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，肯巴-沃克与黄蜂谈判出现较大的分歧，目前双方陷入僵局。
+   </p>
+   <p>
+    根据Shams报道，凯尔特人、尼克斯和独行侠将因此有意参加沃克的追求战。
+   </p>
+   <p>
+    根据此前的报道，沃克很重视黄蜂能够提供的五年全额保障合同。沃克可以在今夏与黄蜂签下一份5年价值2.21亿美元的超级顶薪，其他球队只能提供4年1.41亿美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿德托昆博：月薪曾只有200美元，后来努力进入NBA
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dwayne52299885/status/1163972734428372994" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 08:35:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿德托昆博：月薪曾只有200美元，后来努力进入NBA" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/de901c57af661db756ded84fe5af1fde59b51531.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 近日，希腊男篮成员、雄鹿球员扬尼斯-阿德托昆博博接受了记者的采访。
+   </p>
+   <p>
+    在本届希腊国家队里，尽管科斯塔斯-阿德托昆博没能入选最终名单，但扬尼斯-阿德托昆博和萨纳西斯-阿德托昆博都成功入选，这让他们组成了兄弟组合。
+   </p>
+   <p>
+    回忆被NBA选中之前的日子，扬尼斯-阿德托昆博说：“我之前就一直想过，我的脑海里一直有进入NBA的梦，我为此倾尽全力。但是这一切真的实现还是非常疯狂。”
+   </p>
+   <p>
+    “那时候我一个月大概才挣200美元，我努力地帮助养家。然后萨纳西斯告诉我：‘让我们做出些名堂，这样我们就不用再做这些事了。’”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

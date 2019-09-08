@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保罗凌晨飞抵洛杉矶，5小时后就与亚历山大一起训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1142031/2019/08/16/meet-shai-gilgeous-alexanders-trainer-the-guard-whisperer-and-find-out-how-the-new-thunder-guard-spent-his-summer/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 14:10:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保罗凌晨飞抵洛杉矶，5小时后就与亚历山大一起训练" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/308ef0b910d0b1ec8c2972a589f1ccd32ab885a6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 近日，雷霆后卫谢伊-吉尔杰斯-亚历山大的训练师Olin Simplis接受了媒体采访，谈及雷霆后卫克里斯-保罗和亚历山大一起训练的近况。
+   </p>
+   <p>
+    克里斯保罗在当地周四凌晨三点飞抵洛杉矶，打算和亚历山大一起训练。仅仅五个小时后，早上八点他就和亚历山大一起出现在了训练场上。
+   </p>
+   <p>
+    Simplis说：“我们一起的训练成果太棒了，我不用去督促他们，他们自己就有动力来激励自己。我们练习了很多投篮，我们练习到精疲力竭为止。他们相互督促，相互挑战，相互提高，很高兴看见这个场景。”
+   </p>
+   <p>
+    “如果亚历山大做不到保罗要求的地步的话，保罗可能会吃了他。”Simplis打趣道，“保罗是一个十足的竞争者，亚历山大和他一起训练是件很棒的事情。”
+   </p>
+   <p>
+    “保罗称赞了亚历山大的投射，他说‘哥们，你投篮不错，罚球命中率达到80%了，你是个不错的射手’。我当时心想，哇，这对于亚历山大而言，真的是不错的称赞，他从未像现在这样精于投射，他也还在额外加练。”
+   </p>
+   <p>
+    亚历山大在2018年第1轮第11顺位被黄蜂选中，在快船与雷霆关于保罗-乔治的交易中来到雷霆。新秀赛季场均出场28.8分钟，得到13.7分2.7篮板3.2助攻1.0抢断0.83盖帽，投篮命中率为47.6%，排名联盟第49，罚球命中率为80%，排名联盟第56。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杜德利：我和安东尼没有竞争湖人名额，我们希望他打上球
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JaredDudley619/status/1163825809292873728" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 00:33:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杜德利：我和安东尼没有竞争湖人名额，我们希望他打上球" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190821/02768ddf65228e6069ae2cd16348b98d5a944a4e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 近日，前NBA球员罗伊斯-怀特在采访中表示对湖人并没有签下安东尼，而是选择杜德利表示了不解。
+   </p>
+   <p>
+    今日，湖人球员贾利德-杜德利在个人推特上回应了罗伊斯-怀特的质疑。
+   </p>
+   <p>
+    杜德利表示：“我和安东尼并没有在签约湖人方面竞争。安东尼是一位准名人堂球员，我们都很想看到他回归联盟。罗伊斯在他说出这些时看上去特别的认真，他也在采访中说出了我的名字。但是这个联盟并不是比拼哪个球员比哪个球员强，而是在于利用那些球员可以组成更好的球队。”
+   </p>
+   <p>
+    今年夏天，湖人签下了贾利德-杜德利，达成了一份1年260万美元的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，杜德利场均出场20.7分钟，得到4.9分2.6篮板。
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

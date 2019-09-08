@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  代班记者坎特提问沃克：你打算给我传多少球？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/apphttps://www.nbcsports.com/boston/celtics/enes-kanter-played-reporter-ask-kemba-walker-important-question" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 07:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="代班记者坎特提问沃克：你打算给我传多少球？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/884da9fd566366de239cf179b892c80adbf00d36.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人为新援肯巴-沃克和埃内斯-坎特举行加盟记者发布会。
+   </p>
+   <p>
+    在发布会上，坎特客串了记者角色，并向沃克提问：“肯巴，我有一个问题，下赛季你打算给我传多少球？”
+   </p>
+   <p>
+    沃克笑着回答说：“零。开玩笑的啦，我懂你意思。”
+   </p>
+   <p>
+    2018-19赛季常规赛，沃克场均上场34.9分钟，得到25.6分4.4篮板5.9助攻1.24抢断；坎特场均上场24.5分钟，得到13.7分9.8篮板1.7助攻。
+   </p>
+   <p>
+   </p>
+   <p>
+    视频：
+    <a href="https://weibo.com/2642983047/HE0IkFmSH">
+     <span style='font-family: Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; font-size: 14px;'>
+      坎特发布会冒充记者认真提问沃克，你会传多少球给我？！
+     </span>
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

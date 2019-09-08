@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫斯科中央陆军官宣签迈克-詹姆斯：欧洲联赛最好的得分手
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/cskabasket/status/1160808149584175104" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 16:05:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫斯科中央陆军官宣签迈克-詹姆斯：欧洲联赛最好的得分手" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/92727090c790edfc250da3c5eccdd116660ca7c9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 今日，莫斯科中央陆军官方推特宣布球队与前NBA球员迈克-詹姆斯签订1年合约。
+   </p>
+   <p>
+    官推配文：“欧洲联赛最好的得分手加入了莫斯科中央陆军。上赛季他以19.8的场均得分赢下了欧洲联赛得分王奖杯（Alphonso Ford Trophy）。”
+   </p>
+   <p>
+    迈克-詹姆斯通过莫斯科中央陆军球队官方推特发声，谈到了自己对加盟的相关看法：“我很高兴加入一支有对胜利有期待的球队。我很荣幸教练选择了我并且让我有机会加入上赛季欧洲联赛的冠军球队，我已经准备好以任何可能的方式帮助球队获胜。”
+   </p>
+   <p>
+    迈克-詹姆斯职业生涯共在NBA出战36场常规赛，场均出场19.1分钟，得到9.3分2.5篮板3.5助攻。2018-19赛季，他共为米兰奥林匹亚出战30场比赛，场均出场33.9分钟，得到19.8分6.4助攻3.8篮板1.3抢断。
+   </p>
+   <p>
+    相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2460687&amp;type=1">
+     迈克-詹姆斯将加盟莫斯科中央陆军队
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

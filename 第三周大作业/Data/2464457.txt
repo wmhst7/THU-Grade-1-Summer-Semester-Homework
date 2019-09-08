@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德：希罗有特别的体型且愿意付出努力，喜欢我所看到的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/nba/miami-heat/article233766432.html#storylink=sectionheadlines" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 12:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德：希罗有特别的体型且愿意付出努力，喜欢我所看到的" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190812/0cedc006f29cb6ae8ea87607b671f2ff5fadcef3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 近日，热火名宿德维恩-韦德出席了在奥兰多举办的Jr. NBA全球冠军赛，期间接受了《迈阿密先驱报》的采访。
+   </p>
+   <p>
+    谈到热火新秀泰勒-希罗时，韦德说：“我关注了夏季联赛，看到了热火方面的投入。我还没有去接触过那些球员，但是我喜欢我所看到的。当热火选中了一名球员，你得知道他们的体型。所以，我已经知道了他拥有特别的体型，现在问题仅仅在于他愿意付出多少来成为他想要成为的球员。看上去他愿意付出努力。我等不及看他在新秀年的表现了。”
+   </p>
+   <p>
+    希罗在今年选秀大会上首轮第13顺位被热火选中，身高1.98米，体重87公斤，来自肯塔基大学。2018-19赛季NCAA场均上场32.6分钟，得到14.0分4.5篮板2.5助攻1.1抢断。
+   </p>
+   <p>
+    在今年的夏季联赛，希罗共上场6次，场均得到19.5分4.3篮板3.8助攻。
+   </p>
+   <p>
+    在其职业生涯中，韦德共出场1054次常规赛，场均出场33.9分钟，得到22.0分4.7篮板5.4助攻1.54抢断0.84盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

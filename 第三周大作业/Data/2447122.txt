@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  伊巴卡：我想明天开始训练，但身体告诉我需要休息
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/sergeibaka/status/1143599558594719744" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-26 09:38:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="伊巴卡：我想明天开始训练，但身体告诉我需要休息" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190626/052bd76e1d37fa1312b4798fd80c8357db386d2e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月26日讯 今日猛龙前锋赛尔吉-伊巴卡更新了自己的推特动态，表示自己想要开始训练。
+   </p>
+   <p>
+    “在我的潜意识里，我真的想要明天就开始训练，但我的身体告诉我需要休息。#我想要更多 ”伊巴卡写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，伊巴卡场均上场27.2分钟，得到15.0分8.1篮板1.3助攻1.39盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

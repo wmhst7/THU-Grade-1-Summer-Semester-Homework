@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯回复韦德：既然退役了，我们就让你睡懒觉吧
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2105952987406013466?utm_source=ig_story_item_share&amp;igshid=yvsq88ovcmfy" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 01:48:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯回复韦德：既然退役了，我们就让你睡懒觉吧" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190810/1d65992fd2cdf24479c264f657d30e118c47383f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 湖人前锋勒布朗-詹姆斯今日与好友克里斯-保罗、卡梅罗-安东尼一同在当地时间清晨5时许进行训练，他曾发布动态询问已退役的好友德维恩-韦德身在何处。
+   </p>
+   <p>
+    对此，韦德通过Instagram Story转发詹姆斯发布的训练动态并评论道：“兄弟情聊天群肯定出问题了。”
+   </p>
+   <p>
+    詹姆斯转发韦德动态并回复道：“我们让你睡懒觉的，既然你已经先于我们退役了！”
+   </p>
+   <p>
+    此外，安东尼转发了一条詹姆斯发布的他与保罗的训练动态，并配文道：“#兄弟情 #超出篮球”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2463586.html">
+     四侠缺一！詹姆斯晒出与甜瓜保罗训练视频并呼叫韦德
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2463678.html">
+     锻炼肌肉！保罗晒出与詹姆斯和安东尼一同训练动态
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2463674.html">
+     香蕉船兄弟集结！詹姆斯保罗安东尼晒一起训练合照
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190810/01/6ae33b0468261bffc1253063a0cd6bed.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190810/01/a878195e484495ee1cd76aebcc22f4be.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,49 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老鹰官方晒出亚特兰大棒球队赠予特雷-杨专属球衣现场照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1eOSK1hVjL/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 01:06:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老鹰官方晒出亚特兰大棒球队赠予特雷-杨专属球衣现场照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/32fa36ae9c5d7cac6b31ae7ca92572b23c67e005.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 今日，老鹰官方更新社媒晒出美国职业棒球联赛的亚特兰大勇士队成员赠予球队后卫特雷-杨其棒球队专属球衣的合影（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“展示关爱。”
+   </p>
+   <p>
+    2018-19赛季常规赛，特雷-杨场均出场30.9分钟，可以得到19.1分3.7篮板8.1助攻0.89抢断。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

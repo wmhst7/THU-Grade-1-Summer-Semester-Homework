@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威廉森方面指控其经纪公司大学期间非法招募
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1164310311681298432" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 07:19:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威廉森方面指控其经纪公司大学期间非法招募" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/e60a4edb126b20c11e3a793980a5022b9b3fc010.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 根据NBA记者Adrian Wojnarowski今天报道，鹈鹕新秀蔡恩-威廉森的律师对一项试图强制终止威廉森与佛罗里达州经纪公司（即Ford和Prime体育）之间协议的诉讼提出了附加修正。
+   </p>
+   <p>
+    威廉森的律师于当地时间周三向北卡罗来纳州的地方法院提交了诉讼修正申请，该份修正案中包括一项对Ford和Prime体育的指控，指控他们在威廉森还在杜克大学时就曾对其招募。
+   </p>
+   <p>
+    据报道，早在2019年1月开始，Ford和Prime体育公司就开始招募威廉森，当时的威廉森还处于大一新生赛季。此外，Ford和Prime体育以及他们的主席Ginna Ford没有在北卡州国家篮球运动协会进行注册以及认证，这也是威廉森方面强制终止此份协议的关键。
+   </p>
+   <p>
+    此前，在威廉森方面提起诉讼后，Prime Sports曾向佛罗里达州法院提起诉讼，要求威廉森方面因“违约”向他们赔偿1亿美元。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

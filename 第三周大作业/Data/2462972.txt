@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加里纳利更新社交媒体，晒照祝自己生日快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B04_FcaIDfj/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 13:39:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加里纳利更新社交媒体，晒照祝自己生日快乐" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/79cd5890168615ef55e2ec4b95e967934f3e8b47.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，雷霆球员达尼罗-加里纳利更新社交媒体Instagram，晒照祝自己31岁生日快乐（见新闻配图）。
+   </p>
+   <p>
+    “31。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，加里纳利场均出战30.3分钟可以拿到19.8分6.1篮板2.6助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/13/2997664fa437641e8d1db4e66fc19b35.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

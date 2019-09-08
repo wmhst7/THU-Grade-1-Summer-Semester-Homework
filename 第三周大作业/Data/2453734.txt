@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆目前的报价还不足以让热火认真考虑接手保罗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article232568362.html" target="_blank">
+     迈阿密先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 09:35:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆目前的报价还不足以让热火认真考虑接手保罗" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/8554e27ea7314431fd353a7be0755192c5277465.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 根据《迈阿密先驱报》记者巴里-杰克逊的报道，截止到当地时间周六晚上，雷霆还没有提供一份足够有吸引力的报价让热火认真考虑接手克里斯-保罗，保罗合同还有三年，总价值1.24亿美元。
+   </p>
+   <p>
+    杰克逊在文中写道，当一支球队打来电话的时候，热火总是会倾听报价，如果雷霆开出一份令人难以拒绝的报价的话，热火是不会排除交易得到保罗的可能性的。
+   </p>
+   <p>
+    热火目前没有在积极寻求交易得到保罗，而雷霆方面想尽快找到一支愿意接手保罗的球队。
+   </p>
+   <p>
+    据NBA记者Adrian Wojnarowski之前的报道，消息人士透露，雷霆与火箭达成交易，火箭送出保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，从雷霆得到拉塞尔-威斯布鲁克。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

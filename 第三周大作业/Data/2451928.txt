@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：灰熊交易得到所罗门-希尔和迈尔斯-普拉姆利
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/grizzlies/news/-grizzlies-acquire-solomon-hill-and-miles-plumlee-from-hawks-190707" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 12:27:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：灰熊交易得到所罗门-希尔和迈尔斯-普拉姆利" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/a6d93685eb7bfbee75b9262b0c2946a3babf5c89.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 灰熊官方昨日宣布，他们已经正式从老鹰交易得到所罗门-希尔和迈尔斯-普拉姆利，为此他们将钱德勒-帕森斯送至老鹰。
+   </p>
+   <p>
+    普拉姆利在今年3月份的一次训练中左膝软骨损伤，随后宣布赛季报销，预计将在下赛季前的训练营复出。他的合同还剩下一年1250万美元，将在明年夏天到期。
+   </p>
+   <p>
+    2018-19赛季常规赛，普拉姆利场均上场9.6分钟，得到4.4分2.2篮板0.9助攻，希尔场均上场20.0分钟，得到4.3分3.0篮板1.3助攻，帕森斯场均上场19.8分钟，得到7.5分2.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

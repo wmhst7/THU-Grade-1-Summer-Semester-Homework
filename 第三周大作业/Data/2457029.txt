@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA扣篮周！美媒晒球星扣篮图：你最喜欢哪个？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Ballislife/status/1153401656723136512" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 08:19:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA扣篮周！美媒晒球星扣篮图：你最喜欢哪个？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/e1ee3f5a8af01a95cefbeda23204d10148682dc0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今日，美国媒体BallIsLife在推特上晒出了一组扣篮图片，并配文：“在评论区里留下你最喜欢的扣篮瞬间吧#NBA扣篮周”
+   </p>
+   <p>
+    图上球员分别为1996-97赛季扣篮大赛冠军科比-布莱恩特、2010-11赛季扣篮大赛冠军布雷克-格里芬、骑士前锋小拉里-南斯和前NBA球员汤姆-钱伯斯。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/08/30cb9c2d7016264c38bae3b16a7fcb48.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/08/02711906e9a7d71fa51e546bd512df01.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/08/1f87e6fcf0f2404c8c4bcb6917909a52.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  比斯利目前倾向于接受CBA球队价值约500万美元报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/GoodmanHoops/status/1159579064589606912?ref_src=twsrc%5Etfw" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-09 08:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="比斯利目前倾向于接受CBA球队价值约500万美元报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190809/fa4dbb6b8950dc3a92fd749a029e65d65e2fae1d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月9日讯 根据Stadium记者Jeff Goodman的报道，消息人士透露，迈克尔-比斯利目前倾向于接受CBA球队价值约500万美元的报价。
+   </p>
+   <p>
+    根据此前消息报道，已经有超过2支CBA球队已经给比斯利提供报价。
+   </p>
+   <p>
+    比斯利于2018-19赛季曾短暂效力于湖人。在此期间，比斯利场均出场10.7分钟，可以得到7.0分2.3篮板1.0助攻。
+   </p>
+   <p>
+    在被湖人交易至快船后，快船将其裁掉，随后比斯利加盟中国CBA球队广东队。上赛季，比斯利为广东男篮出战5场比赛，场均出场33分钟，可以得到22.4分9.8篮板4.4助攻1.2抢断2.2封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  考辛斯对重返国王持开放态度，但国王专注于培养年轻球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1054492/2019/06/29/kissin-cousins-could-there-be-a-reunion-with-the-all-star-or-are-the-kings-looking-for-a-different-center/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 14:49:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="考辛斯对重返国王持开放态度，但国王专注于培养年轻球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/e4cc11f0ff80771a98d9a2f0fb92e817e087b75d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据The Athletic记者Jason Jones报道，联盟消息人士透露，自由球员德马库斯-考辛斯对于重返国王持开放态度。
+   </p>
+   <p>
+    Jason Jones表示，国王并没有表现出对于签回考辛斯的兴趣，目前球队专注于年轻核心球员和快速的比赛风格。相较于签回考辛斯，追逐具有三分能力的德维恩-戴德蒙对于国王而言更为现实。
+   </p>
+   <p>
+    2018-19赛季常规赛，考辛斯场均出场25.7分钟，能够得到16.3分8.2篮板3.6助攻1.3抢断1.5封盖；戴德蒙场均出战25.1分钟，能够拿到10.8分7.5篮板1.4助攻1.1抢断1.1封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

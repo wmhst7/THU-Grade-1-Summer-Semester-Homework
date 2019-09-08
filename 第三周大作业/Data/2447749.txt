@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  马特-巴恩斯：若无法签下大牌，湖人应合理地构建阵容
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rachel__Nichols/status/1144357866913927168" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 06:08:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="马特-巴恩斯：若无法签下大牌，湖人应合理地构建阵容" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/fabde4e751fb454cbe99893058f401e7bc1bb992.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 近日，前NBA球员马特-巴恩斯参加了一档电视节目。在节目中，他谈到了对于湖人引援的看法。
+   </p>
+   <p>
+    “在自由市场上，有四个明星我觉得非常适合湖人，他们是克莱-汤普森、KD（凯文-杜兰特）、科怀-伦纳德和凯里-欧文。如果你有机会签下这些人，那你毫无疑问应该这么做。”
+   </p>
+   <p>
+    “但如果你签不到这四个人，那你应该合理地构建阵容，签下那些适合勒布朗-詹姆斯和安东尼-戴维斯的球员。这样一来，你会拥有很好的替补阵容。当你让詹姆斯休息时，你知道球队仍在很好的掌控下。这不是那种爆炸性的引援，但如果你得不到大牌球员，这是你可以做的选择。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

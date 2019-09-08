@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美媒BR官方Ins发布有趣视频调侃KD出走后格林反应
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzWS2BpHSEM/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 13:14:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美媒BR官方Ins发布有趣视频调侃KD出走后格林反应" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190701/00b2743e52a898b93fb516be02947f18884a31b5.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，凯文-杜兰特和篮网达成4年1.64亿美元的口头协议。
+   </p>
+   <p>
+    随后美国媒体Bleacher Report官方Instagram上传了一段非常有趣的视频，并配文说道：“德雷蒙德-格林亲眼目睹凯文-杜兰特离去......”
+   </p>
+   <p>
+    <a href="https://weibo.com/3937716761/HBriyD3Pe">
+     视频：（时长21秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 3.3M" src="https://c1.hoopchina.com.cn/uploads/images/20190701/13/2ab708100eaaba6b122bed597968c247.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3.9m" src="https://c1.hoopchina.com.cn/uploads/images/20190701/13/78c05b73575be18c80762668705055ba.gif"/>
+   </p>
+   <p>
+    随后，自由球员帕特里克-贝弗利在下面评论道：“他们真的很有趣啊哈哈哈（笑哭的表情）。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,79 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  嗨翻全场！詹姆斯在慈善活动现场录制Taco Tuesday视频
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2109946927238913741?utm_source=ig_story_item_share&amp;igshid=r08v2vgm1tlh" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 10:02:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="嗨翻全场！詹姆斯在慈善活动现场录制Taco Tuesday视频" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/e7c074bfcefd9a18fb1afff4d561c1bd2f7454a0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新了一组他在慈善活动中度过“Taco Tuesday”的现场动态。
+   </p>
+   <p>
+    勒布朗-詹姆斯家庭基金会今日在俄亥俄州Cedar Point乐园为成百上千名得到慈善基金会资助的孩子举行年度家庭聚会活动，詹姆斯本人及他的母亲Gloria均出席这次活动。
+   </p>
+   <p>
+    詹姆斯在舞台上手持话筒说道：“嗨，大家好。今天我感觉不太好，我不知道我的生活中发生了什么事，我不知道该对你们说些什么。我就是感觉不行。哇，你们知道今天是什么日子！Taco Tuesday！什么日子啊？Taco Tuesday！”詹姆斯随后将镜头转向台下，而全场观众一同大声喊出了“Taco Tuesday”的口号。
+   </p>
+   <p>
+    随后詹姆斯拍摄了一段著名说唱歌手2chainz受邀前来这次慈善活动为孩子们进行表演的现场视频，并配文道：“谢谢你，我的兄弟！意义重大。@2chainz”
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4405122672740931">
+     视频：詹姆斯在慈善活动现场发动“Taco Tuesday”挑战
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190814/22/6774dbe051ec837142f6b7bd0da10757.jpeg"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/22/3f6b00d450b6228319a3eecdc9e43c4c.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/09/d30cd250bc0635baf9755dd743515300.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/09/f00058e437da05c87eedb6bb84faac15.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/09/3c3c9d065225de8f7fff3c73fb5a7831.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/09/9c9a3d33548e54be54ec75527b6e3607.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/09/d0a780d1ebbb6cc0a5475c3b3f0ca454.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/09/a9f0ff2b97aa4d84aefdc824902e06e7.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

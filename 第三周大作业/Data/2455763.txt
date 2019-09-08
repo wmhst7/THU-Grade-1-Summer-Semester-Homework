@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯-恩尼斯更新社媒晒出跑车：速度与激情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0EzRY3ADHs/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 12:06:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯-恩尼斯更新社媒晒出跑车：速度与激情" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/a721b0afd431efc553d589552d6c2026cfc2dbc9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 今天76人球员詹姆斯-恩尼斯在个人社交媒体Instagram上晒出了自己与一辆阿斯顿马丁跑车的合影。
+   </p>
+   <p>
+    他写道：“这辆DBS Superleggera让我感受到了速度与激情！”
+   </p>
+   <p>
+    根据此前的报道，恩尼斯以2年410万美元的合同重回76人，其中第二年为球员选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，恩尼斯场均上场21.2分钟得到6.7分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

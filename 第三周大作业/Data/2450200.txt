@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德更新Ins晒女儿：没什么能够比回家更棒了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/dwyanewade/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 15:16:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德更新Ins晒女儿：没什么能够比回家更棒了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/f88b8db82eaf565049ebaa0985136a5d2515a2cd.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 今日，NBA名宿德维恩-韦德更新Instagram，晒出小女儿的两张照片，并以此来表达自己回家的喜悦之情。
+   </p>
+   <p>
+    “图一（见新闻配图）~我和犹多尼斯-哈斯勒姆的10天中国行，对比图二（见新闻配图）~当问我们回到美国的时候！！！#韦德2019中国行很美妙，但是没有什么能够比回家更棒了！”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/e35ad710f25c2bf2d1fa395acf1fd94b.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190704/15/b9002e332a65e3e3ed56ef13dc6f90d7.jpg"/>
+   </p>
+   <p>
+    韦德的小女儿名叫卡维亚-詹姆斯-尤尼恩-韦德，是韦德的第四个孩子（通过代孕）。
+   </p>
+   <p>
+    韦德在上赛季场均出战26.2分钟，拿到15分4篮板4.2助攻。2019年4月1日，热火以94-113不敌篮网，韦德在本场比赛中砍下25分11篮板10助攻，比赛结束后韦德的职业生涯拉下帷幕、正式退役。之后于6月23日开启2019中国行，目前已回到美国。
+   </p>
+   <span id="editor_baidu">
+    (编辑：vccheng)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

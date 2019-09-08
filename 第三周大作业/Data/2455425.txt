@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  夏天一起挥洒汗水！丁威迪更新Ins晒和小乔丹训练照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0Bpe6AJvfs/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 13:56:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="夏天一起挥洒汗水！丁威迪更新Ins晒和小乔丹训练照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/a6a223c2acadde23ccda9fd58e0c8f23c7415a2a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，布鲁克林篮网队球员斯潘塞-丁威迪更新了社交媒体Instagram晒出自己与篮网球员德安德烈-乔丹一同训练的照片（见新闻配图）。
+   </p>
+   <p>
+    据之前报道，德安德烈-乔丹和布鲁克林篮网队达成一份4年4000万美元的合同。
+   </p>
+   <p>
+    2018-19赛季，他在独行侠和尼克斯共出战69场比赛，场均能够得到11分13.1篮板1.1盖帽。
+   </p>
+   <p>
+    2018-19赛季常规赛，丁威迪场均出场28.1分钟，得到16.8分2.4篮板4.6助攻0.59抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/13/bf8c860c92b5454a9c4305d0ec4698a1.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  热火裁掉亚特-马滕，空出一个阵容名额
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sun-sentinel.com/sports/miami-heat/fl-sp-miami-heat-yante-maten-20190729-wzekhowq2nfhdd57aptbewqyti-story.html" target="_blank">
+     太阳哨兵报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 06:33:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="热火裁掉亚特-马滕，空出一个阵容名额" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/0f87f67575e8b1d7dff042f8a613d08220a361b7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 据热火随队记者Ira Winderman报道，热火已经在合同转为保障截止日前裁掉了前锋亚特-马滕。
+   </p>
+   <p>
+    这样一来，马滕2019-20赛季接受的10万美元的受保障合同没能转为15万美元，热火的大名单也空出了一个名额。此外，周五将是热火选择是否要留下小德里克-琼斯和后卫肯德里克-纳恩的截止日。从目前的情况来看，热火很可能会留下他们。
+   </p>
+   <p>
+    上赛季，马滕为热火出场了两场比赛，合计上场13分钟，得到2分3篮板1抢断；在热火发展联盟球队，他场均上场32.7分钟，得到23.5分9.7篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

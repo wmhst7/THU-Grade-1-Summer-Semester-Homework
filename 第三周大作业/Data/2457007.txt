@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  克莱-汤普森与劳拉-海瑞尔一起观看棒球比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/22/klay-thompson-laura-harrier-dodger-stadium/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 07:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="克莱-汤普森与劳拉-海瑞尔一起观看棒球比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190723/653f1121ed6b79bbfddf3647f905e252317b6a0a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 根据TMZ体育的报道，勇士的克莱-汤普森与女星劳拉-海瑞尔在当地时间周日一起现场观看了职棒大联盟球队洛杉矶道奇队的比赛。
+   </p>
+   <p>
+    海瑞尔是《蜘蛛侠：英雄归来》的女主角，与汤普森同龄，4月份有报道称他们两人已经分手。
+   </p>
+   <p>
+    目前汤普森还在从左膝十字韧带撕裂中恢复，预计恢复时间为5-7个月。此前勇士官方宣布，球队已经与汤普森签下了一份5年1.9亿美元的续约合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，汤普森场均上场34.0分钟，得到21.5分3.8篮板2.4助攻1.08抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里将赞助霍华德大学未来6年的男子和女子高尔夫球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CandaceDBuckner/status/1163454837729714177" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 00:11:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里将赞助霍华德大学未来6年的男子和女子高尔夫球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/851a6cedda8d4367dd38788c483719506ccf5fa0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 据记者Candace Buckner报道，当地时间19日，勇士球员斯蒂芬-库里在位于华盛顿哥伦比亚特区的朗斯顿高尔夫球场参加活动。
+   </p>
+   <p>
+    在现场他宣布，他将赞助霍华德大学未来6年的男子和女子高尔夫项目。这是几十年来学校第一次拥有竞争激烈的高尔夫球队。
+   </p>
+   <p>
+    霍华德大学的运动总监称这是学校历史上“最慷慨的礼物之一”。
+   </p>
+   <p>
+    朗斯顿高尔夫球场以John Mercer Langston的名字命名，他是霍华德大学法学院的第一任院长。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

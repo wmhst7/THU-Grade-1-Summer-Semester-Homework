@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  专注带娃！尼克-杨社交媒体晒照：蜘蛛侠时间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzcIBQEFWuq/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 17:20:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="专注带娃！尼克-杨社交媒体晒照：蜘蛛侠时间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/392b81fa27f9cab622b4f15e5fc6b43bcb88ee4d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 NBA球员尼克-杨更新社交媒体Instagram，晒出自己和孩子们观看电影的照片（见新闻配图）。
+   </p>
+   <p>
+    “蜘蛛侠时间，”他写道。
+   </p>
+   <p>
+    尼克-杨随勇士夺得2017-18赛季冠军，上赛季中期与掘金签约，但很快就被裁掉，至今没有NBA球队与其签约 。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190703/17/a95e3b0fcb64730fb9b4cbdf769f472d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

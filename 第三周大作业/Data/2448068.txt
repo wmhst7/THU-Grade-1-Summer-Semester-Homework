@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：雄鹿将裁掉希尔，后者成为自由球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1144697805522526209" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 04:03:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：雄鹿将裁掉希尔，后者成为自由球员" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/6276c6968cc01fa656a4308ad6a747c5268e4250.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据The Athletic记者Shams Charania报道，多位消息人士透露，雄鹿将裁掉后卫乔治-希尔，后者成为完全自由球员。
+   </p>
+   <p>
+    根据Shams报道，雄鹿也在努力创造空间与希尔达成一份新合同。
+   </p>
+   <p>
+    希尔原合同的2019-20赛季薪水为1800万美元，其中只有100万美元为保障金额。
+   </p>
+   <p>
+    2018-19赛季常规赛，希尔场均上场21.7分钟，得到7.6分2.5篮板2.2助攻0.87抢断，季后赛场均上场26.3分钟，得到11.5分3.5篮板2.8助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

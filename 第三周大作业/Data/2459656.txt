@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈克-詹姆斯与米兰奥林匹亚俱乐部提前结束合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/913277/mike-james-i-havent-talked-to-teams/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:20:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈克-詹姆斯与米兰奥林匹亚俱乐部提前结束合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/13e980f3ea3a50507fe577ea743d896ba820545d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 意大利联赛球队米兰奥林匹亚俱乐部今天与球队后卫迈克-詹姆斯达成协议，双方提前结束合同，迈克-詹姆斯成为了一名完全自由球员。
+   </p>
+   <p>
+    在与米兰奥林匹亚分道扬镳之后，迈克-詹姆斯更新了个人推特写道：“感谢球迷们所有的爱与付出，在这个时间点，我也不知道我要去哪里，我也没有和任何球队有过交流。我会和我的家人度过这段时光并找到一个对我的将来最好的去处，感谢你们每一个人。”
+   </p>
+   <p>
+    此外，在谈到球队提前与迈克-詹姆斯结束合同时，米兰奥林匹亚俱乐部主教练埃托雷-梅西纳表示迈克-詹姆斯并不在球队2019-20赛季的计划当中。
+   </p>
+   <p>
+    根据此前的报道，米兰奥林匹亚此前刚刚签下了前NBA球员谢尔文-麦克。
+   </p>
+   <p>
+    迈克-詹姆斯职业生涯共在NBA出战36场常规赛，场均出场19.1分钟，得到9.3分2.5篮板3.5助攻。2018-19赛季，他共为米兰奥林匹亚出战30场比赛，场均出场33.9分钟，得到19.8分6.4助攻3.8篮板1.3抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

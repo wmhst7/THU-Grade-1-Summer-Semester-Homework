@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈尔斯-特纳：练习瑜伽有助于我覆盖更大的防守面积
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/pacers-news-myles-turner-credits-yoga-for-his-defense-will-continue-to-use-it-as-offseason-routine/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-26 13:59:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈尔斯-特纳：练习瑜伽有助于我覆盖更大的防守面积" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190726/49fd7af8af2d64543704b2bcb52542b247ddd327.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月26日讯 步行者球员迈尔斯-特纳在近日接受媒体采访时谈到了练习瑜伽对于自己的帮助。
+   </p>
+   <p>
+    特纳上赛季以场均2.7个盖帽成为盖帽王，步行者的防守效率也排名联盟第三。
+   </p>
+   <p>
+    “在防守方面，这（练习瑜伽）有助于我更轻松地进行横向移动，”特纳说道，“我可以更容易地做出横移滑步，去到我想去的位置，做我想做的事情。在防守对手挡拆时，我也能够及时回缩，覆盖更大的防守面积，总而言之，就是使我的动作更有效率。”
+   </p>
+   <p>
+    练习瑜伽不仅有助于特纳成为更出色的防守者，在漫长的NBA赛季中，也有助于预防伤病以及身体的恢复。鉴于长达8个月的NBA赛季之后，特纳还要参加美国男篮训练营，这一点就显得尤为重要。
+   </p>
+   <p>
+    “就肌肉的保护而言，绝对是这样，”特纳说道，“我不会经常出现痉挛，臀部肌肉也不会那么紧，这有助于我身体的恢复。能够从更快的训练过程中恢复是一种更容易的锻炼方式，不会给身体带来过大的压力。”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2456062&amp;type=1&amp;entrance=26">
+     迈尔斯-特纳晒瑜伽训练照：找到了自由的感觉
+    </a>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

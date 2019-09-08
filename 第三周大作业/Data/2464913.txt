@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  康利：休赛期的工作主要是提高身体状态，退役后乐于执教
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/08/12/nba-utah-jazz-rumor-trade-mike-conley-donovan-mitchell-gobert-interview-memphis-grizzlies/?utm_source=smg&amp;utm_medium=wasabi&amp;utm_content=home-latest-news" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 18:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="康利：休赛期的工作主要是提高身体状态，退役后乐于执教" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/e82f661f9f180a292c8aa3826b42d0bae503a801.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 近日，爵士球员迈克-康利出席了在奥兰多举办的NBA青少年全球冠军赛。期间接受了采访。
+   </p>
+   <p>
+    谈到自己对盐湖城的印象时，康利说：“在夏天，我没有意识到这里很热！（笑声）但是，说实话，这里很美。这里的人们、球迷们都很欢迎我。我和我的家人都很享受我们呆在这里的两到三周时间。每个人都很激动！爵士在每一方面都是顶尖水准。主教练奎因-斯奈德是最好的教练之一，我们的阵容也很优秀。我们已经具备了一切条件，所以未来会发生很多事，会很令人兴奋。”
+   </p>
+   <p>
+    谈到自己在休赛期所做的工作时，康利说：“实际上，随着我年岁渐长，我的工作主要在身体方面。我不断提升我的身体状态，确保到了九月我能有最好的体型。在篮球方面，我只是在努力提升我整体表现的每一方面。我想要在防守、定点投射、运球后投篮、一对一单打、在篮筐附近和转换进攻中的终结等方面做得更好。今年可能是不同的，因为我在一支新球队，我可能不会那么多球权，所以当我不持球的时候，有哪些方面是我可以表现得更高效的呢？我正在进行无球方面的训练。这会是有趣的一年，我对未知的未来以及将要发生的新情况感到兴奋。”
+   </p>
+   <p>
+    谈到自己在退役后是否有意执教时，康利说：“是的，我认为执教对我来说是一个自然的进程。我认为这是我肯定会喜欢做的事，无论是给任何水平的孩子当教练，还是一路升任NBA教练。我对比赛有这样的热情，而且这又是我很了解的一件事。比赛的某一方面是你永远琢磨不透的，我认为那就是我热爱它的原因之一，希望（退役之后）我能够继续尽可能地回馈比赛。”
+   </p>
+   <p>
+    2018-19赛季常规赛，康利场均出场33.5分钟，可以贡献21.1分3.4篮板6.4助攻1.3抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,76 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  化学反应！詹姆斯发布自己使用2K游戏模拟湖人比赛画面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 11:50:51
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="化学反应！詹姆斯发布自己使用2K游戏模拟湖人比赛画面" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/23e73be152e18f096c5de9825be50e740a112aa7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 湖人前锋勒布朗-詹姆斯今日通过Instagram Story更新一组个人使用新赛季湖人阵容打NBA 2K游戏的动态。
+   </p>
+   <p>
+    “做一些功课@安东尼-戴维斯 ”詹姆斯写道。詹姆斯在游戏画面中分别展示了自己与戴维斯、德马库斯-考辛斯、凯尔-库兹马、埃弗里-布拉德利互相配合的场面。此外，詹姆斯还操作拉简-隆多为贾维尔-麦基、肯塔维厄斯-考德威尔-波普送出助攻，操作奎因-库克投进中投。
+   </p>
+   <p>
+    “我看到你了@奎因-库克”詹姆斯写道。库克转发并评论道：“是的，先生。”
+   </p>
+   <p>
+    库兹马转发詹姆斯有关于他的游戏画面并写道：“不要给他们透露一段前瞻画面，兄弟！@勒布朗-詹姆斯”
+   </p>
+   <p>
+    麦基转发了有关于自己和隆多配合空接的游戏画面并写道：“听上去刚刚好。”戴维斯也转发了他与詹姆斯在游戏中的空接配合画面。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/12/c5ea91cbc04a7eeb114908e669b24a0e.png"/>
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4395356009302647">
+     视频：詹姆斯使用2K游戏操作湖人画面集锦（2分32秒）
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190718/12/76be553df156cc473ba3068e7a191355.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190718/11/0b502cfb5e576de8a4510ea2208805b2.gif"/>
+    ​
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190718/11/bf06623d3d239936fcc5d5fbc8e48426.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190718/11/13431edc4a329bfce333c63b0a64045a.gif"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

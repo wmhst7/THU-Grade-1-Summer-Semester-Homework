@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔：布朗和塔特姆是很出色的球员，他们很年轻还在成长
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/boston/celtics/celtics-team-usa-get-taste-gregg-popovich-experience" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 08:08:20
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔：布朗和塔特姆是很出色的球员，他们很年轻还在成长" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/a3181ba5160c80bdc014034b04f0974e2b686877.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 近期，美国男篮助教、勇士主教练史蒂夫-科尔科尔接受了凯尔特人随队记者Chris Forsberg的采访。
+   </p>
+   <p>
+    在谈及美国男篮众将时，科尔对记者说道：“他们一直表现得很棒。马库斯-斯马特，前段时间是场上表现最好的球员之一（斯马特此前因小腿紧张暂时离开了美国队训练营）。杰伦-布朗运动能力很强，他很坚韧的并且很强壮。肯巴-沃克和杰森-塔特姆的篮球技术对我们球队来说是非常重要的。这四个人在训练营都表现得很好。”
+   </p>
+   <p>
+    在采访中，科尔着重说道了杰伦-布朗和塔特姆，科尔表示：“我只知道这两个人是极其出色的球员。他们目前正处于进入联盟的第三和第四年，所以他们还很年轻，他们还在成长。同时，他们还有一位很棒的教练（史蒂文斯）指导着他们，凯尔特人也是一支优秀的球队。”
+   </p>
+   <p>
+    “他们一路走来都很艰难，但他们能战胜困难越变越好。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

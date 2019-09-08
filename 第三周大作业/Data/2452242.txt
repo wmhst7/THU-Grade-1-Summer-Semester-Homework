@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  史蒂文斯：我爱欧文，祝福他健康并取得成功
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.masslive.com/celtics/2019/07/kyrie-irvings-departure-from-boston-celtics-leaves-brad-stevens-with-no-hard-feelings-i-enjoyed-kyrie-i-like-kyrie.html" target="_blank">
+     MassLive
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-10 09:23:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="史蒂文斯：我爱欧文，祝福他健康并取得成功" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190710/4fd660f18b3d1999868421779c87fe806bb00132.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月10日讯 今夏自由球员市场开启后，凯里-欧文选择离开凯尔特人加盟篮网，近日凯尔特人主帅布拉德-史蒂文斯接受采访谈起了相关话题。
+   </p>
+   <p>
+    “我不知道有什么事情是每个人都觉得自己应该做或本可以去做的，”史蒂文斯说道，“这是自由球员市场的一部分，你可以选择去任何地方。我享受与凯里（欧文）一起相处，我喜欢凯里，我祝福他健康并能成功。我认为，任何时候你经历了像我们过去那样一个赛季的话，最终却没能达到预期，我觉得之后就会有一些变化。我一点儿都不怪他选择他想做的事，这是他的权力。”
+   </p>
+   <p>
+    尼克斯前锋博比-波蒂斯在前段时间采访时表示，很多人都早已知道欧文会与凯文-杜兰特一同加盟篮网，对此史蒂文斯也给出了自己的看法。
+   </p>
+   <p>
+    “我真的没有从我们在哪里输掉比赛时的角度来看待这个问题，也没有从赛季进行中的哪个阶段来看。我们在一起待了两个赛季，现在你要祝福他，然后继续我们的生活。”史蒂文斯说道。
+   </p>
+   <p>
+    今年夏天，凯尔特人还同样失去了艾尔-霍弗德。
+   </p>
+   <p>
+    “很明显，艾尔（霍弗德）在这里的时间非常棒，我们都爱他，也都希望他能回来。再说一次吧，这是他的选择，也是他的权力。他可以做他想做的事情，也有很多因素最终帮助这些人做出最终决定。但他是一个了不起的球员，在这里的三年他做得非常棒。”史蒂文斯如此说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

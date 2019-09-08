@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  霍弗德谈在祖国多米尼加举办篮球训练营：我感到非常荣幸
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/horford-help-launch-first-jr-nba-camp-dominican-republic" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 11:27:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="霍弗德谈在祖国多米尼加举办篮球训练营：我感到非常荣幸" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/713b4209120ec0cbde66975f09b1b0442e118543.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 76人球员艾尔-霍弗德今天宣布将在祖国多米尼加的圣多明戈举办青少年训练营，这个为期三天的训练营将为108位来自当地的男孩和女孩提供专业的篮球训练机会，这些14岁至16岁的孩子们由霍弗德在当地的非营利组织选出。
+   </p>
+   <p>
+    “能够与NBA的青少年训练营合作，帮助我的祖国多米尼加培养篮球人才，我感到非常荣幸，”霍弗德说道，“我非常期待为这些年轻人提供一个充满乐趣和竞争性的三天训练营。”
+   </p>
+   <p>
+    承办这次活动的Carol Morgan国际学校校长Nicolaas Mostert表示：“我们很荣幸能够为多米尼加的NBA青少年训练营敞开大门，我们坚信体育能够促进青少年的发展。”
+   </p>
+   <p>
+    NBA青少年训练营拉丁美洲高级副总裁兼常务董事Arnon de Mello表示：“首次在多米尼加举行的NBA青少年训练营是我们努力在拉丁美洲推广篮球运动的一部分，能够与艾尔-霍弗德以及我们的合作伙伴一同将此活动带到圣多明戈地区，我们感到非常自豪，我们很期待为青少年们提供一个令人兴奋且充满乐趣的的学习环境。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

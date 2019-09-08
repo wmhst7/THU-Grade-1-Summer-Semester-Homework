@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  秀出身材！詹姆斯健身房赤膊自拍展示壮硕肌肉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kingjames/2100930432676813325?utm_source=ig_story_item_share&amp;igshid=t4lyeef8d3rc" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 20:18:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="秀出身材！詹姆斯健身房赤膊自拍展示壮硕肌肉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/36ae4d83ad3d8311093e0814c8c423797f266d99.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 湖人前锋勒布朗-詹姆斯今日更新Instagram Story展示他于当地时间一大早来到健身房训练的动态。
+   </p>
+   <p>
+    赤裸上身训练的詹姆斯对着健身房的镜子自拍展示其壮硕肌肉。
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯场均出场35.2分钟，得到27.4分8.5篮板8.3助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/c0ce12b5157806ebf1af3c6a7a5d4561.png"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/8e21e823eaa602259c23e81d48fd84ce.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190807/20/f7fc7d7f38647070daa3a2df799f4fe9.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里谈新秀时期被老将捉弄：那真让人头疼
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/steph-curry-reveals-wild-prank-205102617.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 13:00:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里谈新秀时期被老将捉弄：那真让人头疼" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/fc2ad8b1945052bca62ba7932d694afedfed3acb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 上周，斯蒂芬-库里参加了在太浩湖举办的美国世纪冠军名人高尔夫锦标赛。库里在NBC Sports记者Chris Simms的播客Chris Simms Unbuttoned上分享了自己新秀时期被队内老将捉弄的趣事。
+   </p>
+   <p>
+    “我的新秀时期，一名老将曾捉弄过我。我有我的手机——注意当时我正在和我现在的妻子约会，我们将去客场打比赛，所以显然我需要我的手机——训练结束后我们前往机场，他知道我的手机在哪里。”
+   </p>
+   <p>
+    “他知道我总是把手机放在我背包的一个小口袋里。所以训练后，我去洗澡了，把我的手机放在那里。我有点晚了，所以我在赶时间。他知道我洗完澡出来之后大概不会（立刻）去拿我的手机。”
+   </p>
+   <p>
+    “他拿了我的手机，锁在他的衣柜里。我一路到了机场才意识到我没找到我的手机。我在俄克拉荷马下了飞机。他不仅让我以为我把手机忘在家里了，所以我不得不去商店再买一个。而且他还让我跑了两个小时去买一些电子游戏和零食。”
+   </p>
+   <p>
+    “那时候还没有优步和来福车，所以我是坐黄色出租车去的，而且承担了所有费用。那真让人头疼。”
+   </p>
+   <p>
+    库里并未透露那是哪一名老将，也没有说那是勇士在雷霆客场的第一场还是第二场比赛。
+   </p>
+   <p>
+    2018-19赛季，斯蒂芬-库里场均上场33.8分钟，得到27.3分5.3篮板5.2助攻1.33抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

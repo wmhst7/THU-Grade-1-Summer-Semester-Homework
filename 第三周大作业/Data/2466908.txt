@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：霍华德想要加入湖人，他想完成自我救赎
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/stadium/status/1163187439848054784?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 10:48:01
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：霍华德想要加入湖人，他想完成自我救赎" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190819/c74b960029d82e05d5c9902ff02c49450ab6a452.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 The Athletic记者Shams Charania今日在电视节目中详细报道了湖人和灰熊中锋德怀特-霍华德之间互相有意签约一事。
+   </p>
+   <p>
+    “围绕德怀特-霍华德的两个问题在于他的动力和健康程度，”Shams说道，“据悉，德怀特-霍华德现在充满动力，他想要成为湖人的一员。我被告知，他对加入勒布朗-詹姆斯和安东尼-戴维斯的前景感到兴奋，也愿意去做球队要求他做的任何事——抢篮板，盖帽，防守，接受任何他需要在一支争冠球队所承担的角色，为他的生涯带来一座总冠军，为他此前在湖人的那个赛季完成自我救赎。”
+   </p>
+   <p>
+    “关于他的健康状况，上个月的NBA夏季联赛期间，霍华德和我进行过一对一专访，期间他明确表示他相信自己处于生涯中最好的体型之一，他降低了体重，改变了饮食，以确保自己能够处于生涯中的最佳体型。一些看过他在夏天训练情况的人也有着同样的看法，他们相信他可以加盟一支争冠球队并至少扮演一个角色。如果你观察一下当前的中锋自由球员市场，对于像湖人这样的争冠球队而言，似乎只有德怀特-霍华德和乔金-诺阿是符合逻辑的两个头号目标人选。”Shams说道。
+   </p>
+   <p>
+    根据The Athletic记者Shams Charania的报道，联盟消息源透露，灰熊已经给予湖人许可与德怀特-霍华德沟通。
+   </p>
+   <p>
+    根据湖人记者Ramona Shelburne的报道，球队消息源透露，德马库斯-考辛斯受伤后，湖人对霍华德的兴趣更多是一种“尽职调查（due diligence）”。湖人记者Ohm Youngmisuk转发这条报道并写道：“湖人在研究自由球员市场中的内线人选，包括乔金-诺阿。”
+   </p>
+   <p>
+    灰熊已经给予霍华德和他的团队许可与其他球队沟通，其中包括湖人。
+   </p>
+   <p>
+    今年夏天，霍华德被奇才交易至灰熊，但据The Athletic记者Shams Charania报道，多位联盟消息人士透露，灰熊计划将他裁掉。霍华德之前选择执行了下赛季560万美元的球员选项，他的合同只剩下最后一年。  2018-19赛季，霍华德受困于背部伤势，且接受了腰椎手术，只出场了9场比赛，场均出场25.6分钟，得到12.8分9.2篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

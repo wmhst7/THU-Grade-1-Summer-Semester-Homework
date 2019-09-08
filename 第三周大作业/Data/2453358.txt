@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在火箭交易得到威少后，钱德勒决定加盟火箭继续征战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.houstonchronicle.com/sports/rockets/article/Rockets-1-year-deal-center-Tyson-Chandler-14091649.php" target="_blank">
+     休斯顿纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 07:25:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在火箭交易得到威少后，钱德勒决定加盟火箭继续征战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/e5b1d44f484da47a832be9bce8fb11a09c75709f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据《休斯顿纪事报》记者Jonathan Feigen的报道，一位了解情况的消息人士透露，火箭已经与泰森-钱德勒达成了一份一年的底薪协议。
+   </p>
+   <p>
+    一位消息人士透露，钱德勒一直在考虑火箭的报价，考虑是否还继续征战，在火箭完成拉塞尔-威斯布鲁克的交易后，钱德勒选择加盟火箭继续征战。
+   </p>
+   <p>
+    多位消息人士透露，火箭一直觉得他们很有机会签下钱德勒，但是钱德勒之前想要多一点时间考虑是否继续征战。
+   </p>
+   <p>
+    2018-19赛季常规赛，钱德勒出场55次，场均上场15.9分钟得到3.1分5.6篮板0.4盖帽，新赛季是钱德勒在NBA的第19个赛季。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

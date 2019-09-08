@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  罗伯特-威廉姆斯：我喜欢传球，我能提前判断比赛动向
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/RedsArmy_John/status/1150153371191533569" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 08:03:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="罗伯特-威廉姆斯：我喜欢传球，我能提前判断比赛动向" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/5b198455f760d94626fbfa537d212aae47a00350.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 今天，凯尔特人球员罗伯特-威廉姆斯接受了记者的采访。
+   </p>
+   <p>
+    谈到本周在夏季联赛中的表现，威廉姆斯表示，自己最满意的是传球。
+   </p>
+   <p>
+    “我爱传球，所以不论何时我有机会，我就会传球。”
+   </p>
+   <p>
+    “我觉得我能提前看到比赛动向。我把球传给队友是因为我知道防守球员会协防，而队友能够摆脱防守和得到大空位机会。我喜欢在低位拿球并且在另一侧击溃防守。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

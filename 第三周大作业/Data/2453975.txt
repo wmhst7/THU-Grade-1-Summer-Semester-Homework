@@ -1,0 +1,73 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  嬉戏打闹！湖人官方发布詹姆斯昨日被浓眉“偷拍”片段
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakers/status/1150466327892508673?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 05:28:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="嬉戏打闹！湖人官方发布詹姆斯昨日被浓眉“偷拍”片段" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/3c536595c1bfb1d85a2f461850d6d18978742383.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 湖人官方推特今日连续更新了前锋安东尼-戴维斯昨日出席加盟发布会的动态。
+   </p>
+   <p>
+    勒布朗-詹姆斯昨日
+    <a href="https://m.weibo.cn/1765767682/4393994639292255">
+     面对戴维斯的拍摄躲避镜头
+    </a>
+    ，今日湖人官方完整更新了戴维斯“偷拍”到的画面内容。
+   </p>
+   <p>
+    “‘他以为他不会出现在这里面！’@安东尼-戴维斯 和@勒布朗-詹姆斯 在湖人自拍环节嬉戏打闹。”湖人官方写道。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4394181889491773">
+     视频：戴维斯执意“偷拍”詹姆斯（26秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    戴维斯在视频中说道：“我是AD，正式成为一名湖人了。（镜头转向詹姆斯）这个家伙，他以为他不会出现在这里面！官方了，那边是湖人标志，官方了。让我们加油吧！AD3，LJ23，AD3，哈哈！”
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190715/05/c0b0eef1b28e13491d0d170b7862a9ea.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190715/05/097d694252eae4dd75ced163d56d986a.gif"/>
+   </p>
+   <p>
+    此外，湖人官方还更新了一段昨日戴维斯发布会活动的回顾视频。“未来许多天的第一天。开启AD时代。”湖人官方写道。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4394183525466389">
+     视频：湖人官方回顾昨日浓眉发布会（42秒）&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

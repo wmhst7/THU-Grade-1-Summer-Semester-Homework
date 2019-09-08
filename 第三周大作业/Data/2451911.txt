@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔：我加盟勇士只是球员市场众多令人惊讶的事情之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/anthonyVslater/status/1148430527105400834" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:55:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔：我加盟勇士只是球员市场众多令人惊讶的事情之一" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/98646ee9b01d5b3661611de8dbc1ce785754fa8b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 勇士球员丹吉洛-拉塞尔在今日接受媒体采访时谈到了加盟勇士。
+   </p>
+   <p>
+    据此前的相关报道，勇士送出凯文-杜兰特和一个2020年的受保护首轮签，得到丹吉洛-拉塞尔、沙巴兹-内皮尔和特雷韦恩-格雷厄姆，这是一笔先签后换的交易。
+   </p>
+   <p>
+    当被问及对于先签后换加盟勇士是否感到惊讶时，拉塞尔表示：“自由球员市场上发生了很多令人感到惊讶的事情，说实话，我认为这（加盟勇士）只是其中之一而已。”
+   </p>
+   <p>
+    “我知道这令人感到惊讶，但同时这也是一个机会，我知道这一切都可能成为现实。我们必须等待他们商讨交易中的其他部分，最终这笔交易达成了。”拉塞尔补充道。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

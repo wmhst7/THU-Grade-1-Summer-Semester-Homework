@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  老友重逢！穆托姆博晒与姚明共进早午餐合照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzYkQAVlGXc/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 17:03:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="老友重逢！穆托姆博晒与姚明共进早午餐合照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/d7bb69007f5757d406b10a89af147ad10eb8b46c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 NBA名人堂球员球员迪肯贝－穆托姆博更新社交媒体Instagram，晒出自己和火箭名宿姚明共进早午餐的合照（见新闻配图）。
+   </p>
+   <p>
+    并配文道：”和我们的好朋友姚明，在休斯顿参加完Kennedy Brown的婚礼后，共享美好的早午餐。“
+   </p>
+   <p>
+    两人曾在2004-05赛季至2008-09赛季在火箭做队友。
+   </p>
+   <p>
+    迪肯贝－穆托姆博生涯场均出场30.8分钟，得到9.8分10.3篮板2.75盖帽；姚明场均出场32.5分钟，得到19.0分9.2篮板1.89盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/17/ba86acb411eb587cfaef5da82a246c7e.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190702/17/ed855d8a5d7e081de8a459b0d3a86dc7.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

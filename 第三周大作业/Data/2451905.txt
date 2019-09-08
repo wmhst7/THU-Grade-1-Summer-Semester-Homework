@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：老鹰交易得到钱德勒-帕森斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/hawks/news/hawks-acquire-chandler-parsons-memphis-grizzlies" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 11:49:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：老鹰交易得到钱德勒-帕森斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/0ab6813f75df33ab7ab3c49e9a07fa69539a699e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 老鹰官方昨日宣布，他们已经正式从灰熊交易得到钱德勒-帕森斯，为此将所罗门-希尔和迈尔斯-普拉姆利送至灰熊。
+   </p>
+   <p>
+    2018-19赛季，帕森斯共出场25次，场均上场19.8分钟，得到7.5分2.8篮板1.7助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

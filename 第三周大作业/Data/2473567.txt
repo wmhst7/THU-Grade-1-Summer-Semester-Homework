@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波什谈詹姆斯：和他打球并不难，你需要去适应他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/LakeShowWorld/status/1170018979374497792?s=20" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 10:27:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波什谈詹姆斯：和他打球并不难，你需要去适应他" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/fce83f2cf1701782ffb7d6b336521f9469417e5f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，前NBA球员克里斯-波什在接受采访时谈到了勒布朗詹姆斯（见新闻配图)。
+   </p>
+   <p>
+    波什谈到湖人队是一个非常强大的队伍，然后表示：“和勒布朗-詹姆斯打球并不难，你仅仅需要改变自己的比赛就好了。”
+   </p>
+   <p>
+    他接着说：“这会有很多的压力促使你去适应勒布朗的打球方式，但是同时和他一起打球要比不和他一块打球要好得多。如果你想要成为一名伟大的球员，你必须要有伟大的队友，然后你需要去适应这种环境。”
+   </p>
+   <p>
+    波什在2003年选秀大会首轮第四顺位被猛龙选中，职业生涯曾效力于猛龙和热火，总共上场893次常规赛，场均上场35.8分钟，得到19.2分8.5篮板2.0助攻0.82抢断1.04盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：二轮秀文科生)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

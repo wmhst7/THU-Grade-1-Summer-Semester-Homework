@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：选择3号是因为这是我篮球生涯的第一个号码
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/7/13/20693232/lakers-news-anthony-davis-traded-instagram-rich-paul-jersey-number-2k-millennial-superstar-trad" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 04:08:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：选择3号是因为这是我篮球生涯的第一个号码" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190714/f290677663ddcd0584e54198a6001909f7b6b783.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 今日，湖人在球队总部为球队新援安东尼-戴维斯举行加盟新闻发布会，在发布会上戴维斯回答了有关球队的相关问题。
+   </p>
+   <p>
+    在谈及队友凯尔-库兹马时，戴维斯说：“库兹马是不可思议的球员，他一直在成长并且不断磨练他的篮球技巧。每次我跟他遭遇，都会是一场激战，他可以投篮、能够拉开空间、也可以突破或者用低位脚步完成终结，我非常期待能与他一起打球。”
+   </p>
+   <p>
+    在谈到对于上赛季湖人管理层出现一定程度的混乱的看法时，戴维斯说：“我还没有跟管理层聊过这方面的事，这也不是我关心的事，上赛季我还不在阵容中。当我来到湖人后，我还没有遇到过你们说的这些事。我只想专注于新赛季，专注于比赛，努力争夺总冠军。”
+   </p>
+   <p>
+    当被问及未能如愿得到23号的想法以及最后为何选择3号时，戴维斯说：“说实话，那挺让我受伤的。他们给我发了一个号码清单，我不知道该选哪个，看上去都不对劲。所以我打开2K游戏，在自己身上模拟了好多号码。联盟有相应的规定，需要在3月15日之前提出申请，因此过去的就已经过去了。我选择3号是因为这是我篮球生涯的第一个号码，那天我也在Instagram上发了一张我穿3号的旧照，那时我还只有7年级。当我发现3号还可以选择时，我立马就选了这个带我回到起点的号码，穿回这个号码。”
+   </p>
+   <p>
+    根据此前的报道，詹姆斯将23号球衣让给戴维斯的计划将推迟至下赛季，原因是申请更换号码的截止期为3月15日。若湖人与球衣赞助商协商，联盟本可能同意更换号码。但由于生产问题以及球衣制造商堆积了大量印有詹姆斯名字的23号球衣，换号将让他们承担大量经济损失，制造商不同意配合这一请求。
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼-戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻1.6抢断2.4盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

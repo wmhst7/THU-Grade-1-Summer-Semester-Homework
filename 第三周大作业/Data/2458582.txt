@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科尔克马兹：下赛季将会是我职业生涯最关键的一个赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/korkmaz-back-motivated-and-ready" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 12:50:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科尔克马兹：下赛季将会是我职业生涯最关键的一个赛季" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190727/24411da55b4491611c45f1f940612c2189a0c200.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 据此前的相关报道，76人官方宣布已经与富尔坎-科尔克马兹完成了续约。他在近日接受媒体采访时谈到了对于下赛季的展望。
+   </p>
+   <p>
+    “我认为下赛季将会是我职业生涯最关键的一个赛季，这关乎于我的职业生涯走势。”科尔克马兹说道。
+   </p>
+   <p>
+    回顾过去的这个赛季，科尔克马兹说：“我在这里学会了如何成为一名职业球员，像托拜厄斯（哈里斯）这样的队友们为我树立了职业球员的榜样。”
+   </p>
+   <p>
+    谈到费城的球迷，科尔克马兹说：“他们热爱篮球，每一场比赛都全情投入，每一场比赛都非常疯狂。”
+   </p>
+   <p>
+    根据薪资专家Bobby Marks的报道，科尔克马兹的合同为老将底薪合同，第一年年薪为162万美元，第二年年薪为176万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，科尔克马兹场均出战14.1分钟，能够得到5.8分2.2篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

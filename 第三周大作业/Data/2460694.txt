@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：雷霆正式买断帕特里克-帕特森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/thunder/news/patterson-190801" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 02:23:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：雷霆正式买断帕特里克-帕特森" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/8de7441d13443eca0fb52fcbf8c6ec6d91323001.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 俄克拉荷马雷霆队官方今日宣布，球队已经正式买断前锋帕特里克-帕特森。
+   </p>
+   <p>
+    帕特森于2017年夏天签下了一份3年1653万美元的合同，下赛季他的合同金额为571万美元。
+   </p>
+   <p>
+    根据此前的报道，帕特森在度过澄清期后倾向于加盟快船。帕特森职业生涯至今效力雷霆2个赛季，共为雷霆出战145场常规赛，场均出场14.7分钟，得到3.8分2.3篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  弗雷戴特不再为勇士出战剩余的夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkG_Medina/status/1146511658480615424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 05:29:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="弗雷戴特不再为勇士出战剩余的夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/bf5ef8f5f6fc2efaed7a2bae48c46c0baa25a033.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据勇士跟队记者Mark Medina报道，后卫吉默-弗雷戴特离开了勇士的夏季联赛队伍，并不会出战之后拉斯维加斯的夏季联赛。
+   </p>
+   <p>
+    据Medina透露，弗雷戴特正在考虑多份海外联赛的报价，不参加剩下的夏季联赛是不想承担受伤的风险。
+   </p>
+   <p>
+    弗雷戴特共为勇士出战了两场夏季联赛，分别得到14分和5分。
+   </p>
+   <p>
+    上赛季弗雷戴特在结束了CBA为上海队效力的赛季后加盟了太阳并效力至赛季结束，共出场6次，场均能够得到3.7分1.2篮板1.3助攻，目前他是完全自由球员。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

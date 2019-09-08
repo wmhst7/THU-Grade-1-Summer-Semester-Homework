@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K游戏主管分享与浓眉合影：首次身穿紫金战袍
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0BzKgRhKnl/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 14:58:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K游戏主管分享与浓眉合影：首次身穿紫金战袍" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190718/d0d0407ca83131b61c12162cb430e7a0b69bd2b2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 NBA 2K游戏数字营销主管Ronnie Singh今日通过Instagram分享了他与湖人球员安东尼-戴维斯的合影。
+   </p>
+   <p>
+    “首次身穿紫金战袍，为你骄傲，我的哥们@安东尼-戴维斯。”Ronnie写道。戴维斯是NBA 2K 20游戏封面球员。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/14/5cfe90e890cbb2bcaab9145cb1dc35a8.jpeg"/>
+   </p>
+   <p>
+    此外，Ronnie还通过Instagram Story分享了一张戴维斯身穿湖人队服坐在沙发上的照片。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190718/14/6a62e221a1b6a3ab4d079c4032964365.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

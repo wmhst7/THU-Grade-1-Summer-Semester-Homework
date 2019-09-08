@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：马基夫-莫里斯一年合同加盟活塞
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1146486516555878400" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 02:32:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：马基夫-莫里斯一年合同加盟活塞" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/a208fab242953efad1572d7162645e1d826cd1a9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据The Athletic记者Shams Charania报道，消息人士透露，前锋马基夫-莫里斯将以一年合同加盟活塞。
+   </p>
+   <p>
+    据活塞记者Rod Beard报道，消息人士透露，活塞使用的是双年特例签下的莫里斯，莫里斯的年薪大约为360万美元。（
+    <a href="https://nba.hupu.com/wiki/%E5%8F%8C%E5%B9%B4%E7%89%B9%E4%BE%8B" target="_blank">
+     相关科普：什么是双年特例&gt;&gt;
+    </a>
+    ）
+   </p>
+   <p>
+    马基夫-莫里斯上赛季交易截止日被奇才裁掉，随后加盟了雷霆，今夏成为自由球员。2015-16、2016-17赛季，马基夫-莫里斯的双胞胎兄弟马库斯-莫里斯曾效力过活塞。
+   </p>
+   <p>
+    马基夫-莫里斯2018-19赛季常规赛场均上场21.9分钟，得到9.4分4.5篮板1.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

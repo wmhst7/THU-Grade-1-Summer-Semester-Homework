@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  外卖小哥上线！詹姆斯社媒宣传自己送披萨的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B19b4HEA825/?igshid=1f28fw24h99ck" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-04 12:35:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="外卖小哥上线！詹姆斯社媒宣传自己送披萨的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190904/9e54c7fb44aeadd2d32d2bf5e22778dc9d0091d1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月4日讯 湖人前锋勒布朗-詹姆斯今日在Instagram Story上发布自己走上街头担任外卖小哥运送披萨的照片，为个人参股投资的Blaze Pizza做宣传。
+   </p>
+   <p>
+    “他回来了！穿梭于大街小巷，罗恩不会接受任何对@Blaze Pizza 的不敬。”詹姆斯配文道。在Blaze Pizza此前发布的一款广告片中，詹姆斯化名“罗恩（Ron）”在Blaze Pizza店内服务顾客，但一位女顾客却将他误认成前NBA球员德维恩-韦德。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/12/05988440871f48a1816ae0f774c0931c.jpg"/>
+   </p>
+   <p>
+    詹姆斯开创的Uninterrupted传媒平台也在其官方Instagram上发布一张詹姆斯运送披萨的照片，并写道：“罗恩要回来了......！！”
+   </p>
+   <p>
+    <a href="https://weibo.com/1650111241/I10k7CiT7">
+     视频：詹姆斯投资披萨店全美最受欢迎
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190904/12/14e56e5ddcd77ef1a105f7273b0114c2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

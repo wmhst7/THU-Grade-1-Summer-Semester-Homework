@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  抵达中国！海沃德录制视频中文问好，在机场与球迷热情互动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 02:23:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="抵达中国！海沃德录制视频中文问好，在机场与球迷热情互动" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190803/e6046e9c71dcb7b753a9204e6a599eb11072dcb6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 昨日，凯尔特人球员戈登-海沃德抵达中国，参加中国“型”活动。
+   </p>
+   <p>
+    <a href="https://weibo.com/tv/v/I0qCGAN1I" target="_blank">
+     视频：海沃德与妻子在飞机上录制了问候视频，并用中文向中国球迷问好&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <a href="https://weibo.com/tv/v/I0qEgnGKe" target="_blank">
+     视频：海沃德抵达机场，身着“安排”T恤与接机球迷热情互动&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5lwl2mnn7j21900u0qtu.jpg"/>
+   </p>
+   <p>
+    本次海沃德中国行活动将于北京时间8月3日正式开始，共持续八天，分别在北京、郑州、东莞、厦门、泉州、上海、南京与球迷进行互动。（详见新闻配图）
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5lw3zn2i4j20jq0ak75p.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

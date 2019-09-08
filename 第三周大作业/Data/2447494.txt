@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  康利晒出手持两座常规赛个人奖项奖杯照片：好人才能得到
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzLs3gFpkoM/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 10:08:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="康利晒出手持两座常规赛个人奖项奖杯照片：好人才能得到" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/2685af55c3f13af786755c607efc9e26058d84ee.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯  NBA常规赛各大奖项颁奖典礼在前日举办，官方在颁奖礼上宣布，爵士控卫迈克-康利当选2018-19赛季最佳队友奖和体育道德风尚奖。
+   </p>
+   <p>
+    今日，爵士后卫迈克-康利更新了个人社交媒体Instagram晒出自己手持最佳队友奖和体育道德风尚奖两座奖杯的照片（见新闻配图）。
+   </p>
+   <p>
+    并配文道：“你们知道吗？好人才能赢得奖杯。”
+   </p>
+   <p>
+    2018-19赛季常规赛，康利场均出场33.5分钟，可以得到21.1分3.4篮板6.4助攻1.34抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

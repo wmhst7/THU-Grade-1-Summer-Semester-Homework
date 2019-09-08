@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  灰熊不打算在赛季开始前买断伊格达拉，正探索其交易可能性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon/status/1146644368645742592" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 13:08:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="灰熊不打算在赛季开始前买断伊格达拉，正探索其交易可能性" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190704/f25807b2c2c87fae531d08d21ab1506ba31ce701.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据NBA记者Tim MacMahon报道，灰熊不打算在赛季开始前买断此前交易得到的安德烈-伊格达拉，而正探索其交易可能性。
+   </p>
+   <p>
+    据MacMahon报道，火箭、独行侠等队对伊格达拉有意。
+   </p>
+   <p>
+    根据之前的报道，
+    <a href="https://voice.hupu.com/nba/2448977.html">
+     勇士将伊格达拉交易到了灰熊。
+    </a>
+   </p>
+   <p>
+    伊格达拉2004年首轮第9顺位被76人选中，职业生涯共效力过76人、掘金、勇士三支球队，2018-19赛季常规赛伊格达拉出场68次，场均23.2分钟，能得到5.7分3.7篮板3.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

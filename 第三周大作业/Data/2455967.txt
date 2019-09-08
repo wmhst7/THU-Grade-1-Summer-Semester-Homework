@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：独行侠已经裁掉科斯塔斯-阿德托昆博
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1152322209920225287" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 05:12:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：独行侠已经裁掉科斯塔斯-阿德托昆博" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190720/48c275235cc6b7c4c7949a3752ddcf6b35625e71.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 根据The Athletic记者Shams Charania的报道，多位消息人士透露，前锋科斯塔斯-阿德托昆博被独行侠裁掉。
+   </p>
+   <p>
+    科斯塔斯此前曾与独行侠签定了一份双向合同，今年代表独行侠出战了本次拉斯维加斯夏季联赛，场均可以得到5.8分2.8篮板，并且根据此前消息报道，科斯塔斯与其两位哥哥均入选此次希腊男篮公布的世界杯初选名单。
+   </p>
+   <p>
+    科斯塔斯于2018年被76人以次轮第30顺位选中，2018-19赛季常规赛，科斯塔斯场均出场5.5分钟，可以得到1.0分0.5篮板1.0抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

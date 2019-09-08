@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭与巴莫特非常喜欢彼此，并且今夏已有过交流
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1187703/2019/09/05/live-qa-rockets-beat-writer-kelly-iko-answers-your-questions-on-friday-at-1230-p-m-ct/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-08 08:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭与巴莫特非常喜欢彼此，并且今夏已有过交流" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190908/d4558981572933b91ca1f432f111d9c4f827b48f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月8日讯 根据The Athletic记者Alykhan Bijani之前的报道，会有一位老熟人回归火箭，并且称这位球员不是特伦斯-琼斯。
+   </p>
+   <p>
+    根据The Athletic记者Kelly Iko的报道，他称自己不知道这位球员是谁，但是火箭与卢克-理查德-巴莫特非常喜欢彼此，并且今夏已经有过交流，但是必须要确保巴莫特的肩膀不再持续困扰他才行，并且巴莫特最近还进行了膝盖手术。
+   </p>
+   <p>
+    32岁的巴莫特上赛季因伤只为快船打了4场比赛，场均出战15.2分钟可以拿到5分1.8篮板。
+   </p>
+   <p>
+    2017-18赛季常规赛，巴莫特在火箭场均出战25.6分钟可以拿到7.5分3.1篮板0.9助攻1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

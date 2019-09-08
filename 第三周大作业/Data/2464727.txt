@@ -1,0 +1,68 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭新赛季赛程：揭幕战迎战雄鹿，圣诞大战对阵勇士
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/rockets/rockets-announce-2019-20-regular-season-schedule" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-13 04:22:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭新赛季赛程：揭幕战迎战雄鹿，圣诞大战对阵勇士" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190813/411bb60c4c0fcd028e465621d7f5531d92362604.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月13日讯 根据NBA官网的报道，休斯顿火箭队2019-20赛季完整赛程出炉。火箭将在北京时间10月25日揭幕战主场对阵雄鹿，而常规赛收官战则是北京时间4月16日主场对阵灰熊。整个赛季火箭将有38场比赛为全美直播，其中ABC5场、ESPN11场、TNT10场、NBA TV12场。此外，新赛季火箭共有11个背靠背，其中8个是在全明星赛之前，2个是在4月份，火箭在赛季最后11天将要打7场比赛。
+   </p>
+   <p>
+    重点比赛（均为北京时间）：
+   </p>
+   <p>
+    10月25日主场对阵雄鹿
+   </p>
+   <p>
+    11月7日主场对阵勇士
+   </p>
+   <p>
+    11月14日主场对阵快船
+   </p>
+   <p>
+    圣诞大战客场对阵勇士
+   </p>
+   <p>
+    1月10日客场对阵雷霆
+   </p>
+   <p>
+    1月19日主场对阵湖人
+   </p>
+   <p>
+    以下为火箭2019-20赛季完整赛程：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190813/04/05214b7a71495727ec22934cc288e0b7.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

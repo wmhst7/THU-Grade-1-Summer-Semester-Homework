@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：热火签约凯尔-亚历山大
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/heat/news/heat-signs-kyle-alexander-190715" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 07:12:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：热火签约凯尔-亚历山大" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/0733f8f9e8940993d4f760e7535e54de768f09af.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 热火官方今日宣布，他们已经签下了凯尔-亚历山大，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    根据《太阳哨兵报》记者Ira Winderman的报道，亚历山大的合同是一份Exhibit 10合同。
+   </p>
+   <p>
+    22岁的亚历山大身高2.11米，体重100公斤，他是今年的落选秀，来自田纳西大学。
+   </p>
+   <p>
+    2018-19赛季，亚历山大场均出战23.8分钟，可以拿到7.4分6.7篮板1.7盖帽。
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/%E5%8F%8C%E5%90%91%E5%90%88%E5%90%8C?night=0&amp;night=0">
+     相关阅读：篮球百科之什么是“Exhibit 10”合同？
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

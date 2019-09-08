@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  保持竞争性！祖巴茨社媒晒出个人训练帅照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2FUMu3niO3/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 10:43:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="保持竞争性！祖巴茨社媒晒出个人训练帅照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/c67450d0c272ecaf47646e769e22f3a2a1fbe737.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，快船球员伊维察-祖巴茨更新个人社交媒体Instagram晒出个人训练帅照（见新闻配图）。
+   </p>
+   <p>
+    “差不多是那个时候。”他写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，祖巴茨场均上场17.6分钟，得到8.9分6.1篮板1.1助攻。在赛季中由湖人被交易至快船，休赛期与快船达成4年2800万美元的续约合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：二轮秀文科生)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

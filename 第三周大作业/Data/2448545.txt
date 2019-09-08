@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人与拉塞尔互相有意，双方预计将于下周会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/lakers/la-sp-lakers-free-agency-20190629-story.html?outputType=amp&amp;__twitter_impression=true" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:38:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人与拉塞尔互相有意，双方预计将于下周会面" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/6dd95eaabb27754e4b625cedce759c7910b00a87.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据《洛杉矶时报》记者Brad Turner和Tania Ganguli联合报道，消息人士透露，湖人今日先后联系了丹吉洛-拉塞尔、帕特里克-贝弗利以及塞思-库里的经纪人。
+   </p>
+   <p>
+    湖人与拉塞尔就再次合作的前景互相有意，双方预计将于下周会面。随着多方报道凯里-欧文即将以顶薪合同签约篮网，篮网据报道将会撤回对拉塞尔的资质报价，使之成为完全自由球员。消息人士透露，拉塞尔预计将在当地时间明天晚些时候或后天会面森林狼。
+   </p>
+   <p>
+    湖人不太可能为拉塞尔提供起薪2728.5万美元的顶薪合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

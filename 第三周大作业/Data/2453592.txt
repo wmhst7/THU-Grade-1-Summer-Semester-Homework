@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  理查德森：我会努力提升自己，队友之间相互促进很有趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/sixers/news/quotebook-offseason-introductory-press-conference" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 21:56:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="理查德森：我会努力提升自己，队友之间相互促进很有趣" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/07a157ef1ea8fd7b637be19817c4bfd98454811a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 76人今日为新签约的球员举行了新闻发布会，球队新援约什-理查德森接受了媒体采访。
+   </p>
+   <p>
+    “在我进入联盟的四个赛季中，我会将自己取得的进步和成长归功于我在大学期间奠定的基础。我在大学时没有热门新秀的光环，我在此之前只是一个小有名气的高中生，所以当我进入大学之后，我必须努力争取每一个机会。现如今来到这支球队，和这样一群天赋异禀的球员并肩作战，这对于我而言会非常轻松。我会继续努力取得进步，因为你的身边有托拜厄斯（哈里斯）这样的家伙，球队中有很多家伙都在自己的职业生涯中取得了巨大的进步。我认为和他们竞争会非常有趣，看一看谁在训练馆里花费的时间更多，谁能够在训练中击败对方，看一下我们还能够取得怎样的进步。”
+   </p>
+   <p>
+    2018-19赛季常规赛，理查德森场均上场34.8分钟，得到16.6分3.6篮板4.1助攻1.1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库普切克：相比较钱，沃克更看重赢球的机会
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.bostonherald.com/2019/07/07/charlotte-gm-money-not-only-reason-kemba-walker-joined-celtics/" target="_blank">
+     波士顿先驱报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 13:20:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库普切克：相比较钱，沃克更看重赢球的机会" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/2fceb0ff11cf7ae27b64359d648a778737d9f95e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 波士顿凯尔特人队官方今日宣布，球队正式与夏洛特黄蜂队达成先签后换的交易，送出特里-罗齐尔以及一个受保护的未来次轮签，得到肯巴-沃克和一个2020年的次轮签（篮网和尼克斯之间顺位较后的选秀权）。
+   </p>
+   <p>
+    黄蜂总经理米奇-库普切克近日在接受采访时说道：“很多因素促成了这个决定，（他）作为一个自由球员有很多东西我们都无法控制。肯巴成为了一名完全自由球员并做出了他自己的决定，我们现在得向前看了并且要做出对这支球队最好的决定。”
+   </p>
+   <p>
+    “作为一支球队，波士顿显然是处在一个和我们不同的位置上，”库普切克说道，“肯巴已经为这支球队效力8个赛季了，今年可能是他职业生涯至今最棒的一个赛季，但我们没有打进季后赛。所以当你对一个很适合你的球队的人做一些计划时，你应该要注意到这些事情。”
+   </p>
+   <p>
+    黄蜂此前曾为沃克提供了一份5年1.9亿美元的合同，远比其他球队提供的多（凯尔特人与沃克的合同金额为4年1.41亿美元）。
+   </p>
+   <p>
+    “相比其他球队，我们提供的合同在年限与总额上都更多，”库普切克说道，“显然，钱并非总是唯一的影响因素。我觉得在这种情况下，虽然你不得不和肯巴谈谈，但是他也看到了在波士顿赢球的机会。作为一名管理球队的总经理，我的工作就是为球队寻找未来。”
+   </p>
+   <p>
+    尽管特里-罗齐尔并不是一位像沃克一样出色的球员，但库普切克觉得罗齐尔的年轻以及能量会更加适合现在的这支黄蜂。
+   </p>
+   <p>
+    “我所知道的一件事就是，没有人会比他更努力，他喜欢防守。他是一位出色的球员，我相信在这个联盟里他能够得分，他有着出色的身体素质。”库普切克写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：佩林卡每过30或45分钟就给我打电话询问意见
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rachel__Nichols/status/1150643495025201152" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 13:35:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：佩林卡每过30或45分钟就给我打电话询问意见" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/dfe35393020d3bb08d90995cf02cfb9bed9892c5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 湖人前锋安东尼-戴维斯近日接受专访时谈到了球队总经理罗勃-佩林卡。
+   </p>
+   <p>
+    关于佩林卡在自由市场开启后和他以及勒布朗-詹姆斯电话沟通的程度，戴维斯说：“一直在通话。感觉每过30或45分钟，罗勃都会打电话过来。”
+   </p>
+   <p>
+    “我没说笑，”戴维斯补充说：“罗勃会打来电话问，‘AD，这个人你怎么看？’‘还行，不错的。’马上又打过来，‘AD，这是关于他的最新进展。’‘好吧，酷，好的。’有时我不得不告诉他，‘罗勃，我正在看电影。’他会说，‘行，那你一出影院就给我回电。’我们就是努力围绕我俩组建最好的阵容，这方面的工作他做得很棒。”
+   </p>
+   <p>
+    谈到掌控自我生涯的满足感，戴维斯说：“因为以前我允许别人告诉我该怎么做，提出各种建议。现在，随着我掌控了自己的生涯，做我想做的决定，我能在夜里安然入睡了。我很好。这是我认为最重要的一点。曾经的我充满懊悔，想着我本应按自己的方式行事，本来应该采取另一种做法。不过现在当我以自己的想法做事，我就能安然入睡，不必在意其他人的观点。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

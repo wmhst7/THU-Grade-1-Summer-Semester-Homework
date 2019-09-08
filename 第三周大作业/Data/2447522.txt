@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术经理：不清楚富尔茨何时能够回归，我们会保持耐心
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/magic-news-gm-john-hammond-has-no-idea-when-markelle-fultz-will-be-ready-to-play/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 11:20:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术经理：不清楚富尔茨何时能够回归，我们会保持耐心" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/acf302af042845c0a9368be0b9739d4821e97423.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 魔术总经理约翰-哈蒙德在今日参加播客节目时谈到了球队后卫马克尔-富尔茨。
+   </p>
+   <p>
+    “对于他而言，最重要的是能够变得更加自如，继续取得进展，为踏上赛场为球队提供帮助做好准备，”哈蒙德说道，“我们并不清楚他何时能够回归，我们当然希望他能够尽快回归，但我要重申一遍，我们会竭尽全力，我们会保持耐心。”
+   </p>
+   <p>
+    “他现在非常努力，他的体型保持得很好，他的体重也不错，他的体脂率很出色。当你看到他时，你会说，‘哇哦，他看起来很棒。’”哈蒙德说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

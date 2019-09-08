@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼尔-加福德谈带着激情打球：我热爱比赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/chicagobulls/status/1147330520164065280" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 11:02:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼尔-加福德谈带着激情打球：我热爱比赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190706/d6abfa4fed4cf9fc27b8d04ce98c08100fb6426b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 今日，公牛球员丹尼尔-加福德在采访中谈到带着激情去打球。
+   </p>
+   <p>
+    “我热爱比赛，所以我一直充满激情。”丹尼尔-加福德说道。
+   </p>
+   <p>
+    丹尼尔-加福德毕业于阿肯色大学，身高2.11米，体重106公斤。今年第2轮第8顺位被公牛选中，大学生涯场均出战25.5分钟。得到14.3分7.3篮板2.1盖帽。
+   </p>
+   <p>
+    值得一提的是，丹尼尔-加福德高中三年级代表El Dorado高中场均得到17.4分16篮板7.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

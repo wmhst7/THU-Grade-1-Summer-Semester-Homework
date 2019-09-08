@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波尔-波尔：已完全康复，接下来的重点是增重和保持健康
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/nuggets/status/1146184226351403008" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 07:56:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波尔-波尔：已完全康复，接下来的重点是增重和保持健康" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190703/e0b09f222f584e6880d7fb3c025349288ef7cd5d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 今天，掘金新秀波尔-波尔接受了记者的采访。
+   </p>
+   <p>
+    谈到自己现阶段在做什么，波尔说：“我们很谨慎地对待伤病，想慢慢来。我现在在做个人的训练，等待能复出上场。”
+   </p>
+   <p>
+    谈到是否有饮食和增重计划，波尔说：“我才刚刚到球队，这会是我们之后的计划。”
+   </p>
+   <p>
+    谈到怎么看待伤病后的自己，波尔说：“我已经恢复到了百分百的状态，我的脚没有问题。但我才刚开始恢复，所以会慢慢进步。”
+   </p>
+   <p>
+    谈到球队是否对自己提出了首要的目标，波尔说：“肯定是增重，然后是预防伤病。”
+   </p>
+   <p>
+    波尔今年19岁，身高2.2米，体重94公斤，司职中锋，但因为应力性骨折本赛季仅在NCAA出场9次，场均出战29.8分钟，能够贡献21.0分9.6篮板1.0助攻0.8抢断2.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

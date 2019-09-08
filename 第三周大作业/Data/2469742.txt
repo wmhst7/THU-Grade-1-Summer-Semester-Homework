@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迪奥古：非常兴奋能代表尼日利亚而战，我们做了充分准备
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/FIBAWC/status/1166295689351110656" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 18:43:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迪奥古：非常兴奋能代表尼日利亚而战，我们做了充分准备" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190827/f0a2b7c4d0e479b6c34dd8109bf611b41aae5336.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 尼日利亚男篮队长埃克-迪奥古在近日接受媒体采访时谈到了尼日利亚男篮在本届世界杯的前景。
+   </p>
+   <p>
+    尼日利亚男篮阵容名单中的12位球员均是第一次参加世界杯，迪奥古表示这会为球队带来额外的动力。
+   </p>
+   <p>
+    “这意义重大，因为我们都没有参加过世界杯，我们曾有机会在2013年资格赛中晋级，但最终输掉了非洲杯四分之一决赛。球队中的每一位球员都是首次参加世界杯，我们想要确保能够做到一些特别的事情。”迪奥古说道。
+   </p>
+   <p>
+    谈到球队的阵容，迪奥古说：“我们有很多优秀的年轻球员，我们都非常兴奋能够用正确的方式代表尼日利亚而战。我们做了充分的准备，期待着能够拥有成功的世界杯之旅。就个人而言，我们知道我们是多么出色，我们拥有一批优秀的来自NBA和高水准欧洲联赛的天赋异禀的球员，我们必须团结一致。如果我们能够打得像一个整体，我想我们应该能够与任何对手抗衡。”
+   </p>
+   <p>
+    具体名单如下：Vincent Nnamdi，奇梅齐耶-梅图，埃克-迪奥古，Ike Iroegbu，迈克尔-埃里克，本-尤佐，艾尔-法鲁克-阿米奴，塔利布-赞纳，Stanley Okoye，乔丹-沃拉，艾派-尤度，约什-奥科吉。
+   </p>
+   <p>
+    本届世界杯，尼日利亚与俄罗斯、阿根廷、韩国同处B组，小组赛在武汉举行。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

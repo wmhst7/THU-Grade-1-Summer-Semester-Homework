@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士看重考利-斯坦的挡拆能力，下赛季会打更多挡拆
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/anthonyVslater/status/1146170546704404480" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-03 06:50:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士看重考利-斯坦的挡拆能力，下赛季会打更多挡拆" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190703/a3b5f122d2addde2d9c2d74bf448527fa7fed81c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月3日讯 据勇士随队记者Anthony Slater报道，他被告知，威利-考利-斯坦吸引勇士的一个特点是他参与挡拆的能力。勇士下赛季计划打更多的挡拆，而斯坦能和斯蒂芬-库里和丹吉洛-拉塞尔搭档。
+   </p>
+   <p>
+    据NBA记者Chria Haynes报道，自由球员威利-考利-斯坦与勇士达成一份协议。而据Zach Lowe报道，考利-斯坦将与勇士签下一份略高于底薪的合同。
+   </p>
+   <p>
+    2018-19赛季常规赛，考利-斯坦场均上场27.3分钟，得到11.9分8.4篮板2.4助攻1.19抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

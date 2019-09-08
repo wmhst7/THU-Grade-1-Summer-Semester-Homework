@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  内内谈拒绝执行球员选项：这是一个艰难的决定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1145081895174041600" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 07:52:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="内内谈拒绝执行球员选项：这是一个艰难的决定" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190630/6c3384cef1b2c8863cfb9a59ad905496c0674cea.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据著名NBA记者Adrian Wojnarowski报道，火箭中锋内内将拒绝执行自己下赛季383万美元的球员选项，成为完全自由球员。
+   </p>
+   <p>
+    拒绝球员选项对内内来说是一个艰难的决定么？内内说：“当你拒绝钱的时候，是的，当然了，这是一个艰难的决定，来自我小时候成长的那个地方，一无所有，是的，这很难。”
+   </p>
+   <p>
+    2018-19赛季常规赛，内内场均出场13分钟可以得到3.6分2.9篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

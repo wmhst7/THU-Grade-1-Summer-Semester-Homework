@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戈登、艾萨克参与NBA迪士尼体验店开业典礼，感慨万千
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/magic/gordon-and-isaac-have-fun-during-disneys-nba-experience-grand-opening-20100812" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 02:46:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戈登、艾萨克参与NBA迪士尼体验店开业典礼，感慨万千" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/f572bbd8d1001e83373ee3690f845a2b992844f7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 近日，魔术球员阿龙-戈登、乔纳森-艾萨克出席了NBA在迪士尼乐园中所开设的球迷体验店的开业典礼。
+   </p>
+   <p>
+    对于此次NBA和迪士尼的强强联手，戈登表示：“从很多方面来看，这次合作都太棒了。你可以看见双方的创造力和影响力，二者强强联手的力量十分巨大。”
+   </p>
+   <p>
+    “并没有很多人能够获得完整的NBA体验，比如从球员通道中出场、看见自己出现在现场巨大屏幕上、听见现场观众的山呼海啸。迪士尼和NBA的此次合作，可以帮助球迷感受更衣室氛围，并体验当你的名字被叫到时，从球员通道中出场的情景。”戈登补充道。
+   </p>
+   <p>
+    艾萨克也对此次合作给予高度评价：“这太不可思议了，我从未想到过能为NBA球迷们提供如此棒的互动平台。这里的每一样东西都很酷，灯光设置让你感觉你就在NBA赛场上，身临其境。我确信球迷们已经迫不及待来到这里并进行一番体验了。这里还有一个亚当-萧华的蜡像，太逼真了，令人难以置信。”
+   </p>
+   <p>
+    2018-19赛季常规赛，戈登场均出场32.8分钟，得到16.0分7.4篮板3.7助攻0.73抢断0.72盖帽；艾萨克场均出场26.6分钟，得到9.6分5.5篮板1.1助攻0.79抢断1.31盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

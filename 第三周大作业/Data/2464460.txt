@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西雅图以兰尼-威尔肯斯的名字命名一条道路
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.seattletimes.com/sports/nba/nba-legend-lenny-wilkens-to-have-street-named-after-him-alongside-keyarena/" target="_blank">
+     西雅图时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 07:49:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西雅图以兰尼-威尔肯斯的名字命名一条道路" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/e6b6842297975acbb24e052b1345647d2a8233dc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 根据《西雅图时报》记者Geoff Baker的报道，在兰尼-威尔肯斯基金会的拍卖会上，西雅图市长Jenny Durkan宣布将用兰尼-威尔肯斯的名字命名一条道路。
+   </p>
+   <p>
+    这条道路在西雅图中心球馆（钥匙球馆）旁边，这座球馆目前正在翻新，将在2021年10月开始承办NHL的比赛，并且希望很快可以承办NBA的比赛。
+   </p>
+   <p>
+    威尔肯斯球员时代9次入选全明星，退役后在1979年作为球队主帅带领西雅图超音速拿到NBA总冠军，他随后入选名人堂。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

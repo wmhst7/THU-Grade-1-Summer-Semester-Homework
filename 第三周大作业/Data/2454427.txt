@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  麦克多诺：普雷斯蒂选中三个MVP，他最适合带领雷霆重建
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1150131294610833408" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 09:20:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="麦克多诺：普雷斯蒂选中三个MVP，他最适合带领雷霆重建" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/b28b5bc9b6a15e7838a4f6f7b80bf1ea9b6a2003.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 前太阳总经理莱恩-麦克多诺接受采访时表示，萨姆-普雷斯蒂是带领雷霆重建的最佳人选。
+   </p>
+   <p>
+    “自从拉塞尔-威斯布鲁克11年前被选中后，只有马刺（613胜）和火箭（541胜）比雷霆（538胜）的胜场数更多，在NBA的历史上，没有其他的球队在选秀大会上选中过3个MVP，萨姆-普雷斯蒂做到了，他选中了凯文-杜兰特、威斯布鲁克和詹姆斯-哈登，我认为数据说明了一切。”麦克多诺说道。
+   </p>
+   <p>
+    麦克多诺接着说：“雷霆已经连续4个赛季打进了季后赛，最近10个赛季9次打进季后赛，唯一没进季后赛的赛季是2014-15赛季，在那个赛季常规赛，他们仍然赢了45场，当时杜兰特和威斯布鲁克都严重受伤了，我认为这样的历史说明了一切，我告诉你，如果我拥有一支球队的话，特别是在小球市或者中型球市，并且我们有着很多的选秀权和薪资空间灵活性，并且球队还有谢伊-吉尔杰斯-亚历山大等青年才俊，萨姆-普雷斯蒂是我最想拥有的重建球队的年轻经理。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,66 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  快船前解说员：04年时科比与快船曾基本达成协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.latimes.com/sports/clippers/story/2019-07-23/clippers-kawhi-leonard-paul-george-kobe-bryant#__NO_LINK_PROXY__" target="_blank">
+     洛杉矶时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 16:37:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="快船前解说员：04年时科比与快船曾基本达成协议" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/456cf1c9dc6c7c21379c8b8ec10183de172c3165.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 近日，
+    <a href="http://lite.hupu.com/s?u=nba/news/2423985&amp;type=1&amp;entrance=0">
+     在4月27日快船18-19赛季最后一场比赛结束后宣布退休的解说员Ralph Lawler
+    </a>
+    接受洛杉矶时报记者Andrew Greif采访，谈到2004年夏天自由球员科比-布莱恩特曾经非常接近与快船签约的往事。
+   </p>
+   <p>
+    Ralph Lawler表示：“这笔交易基本完成了。当时球队内部人人都在感叹：‘天呐，我们得到了科比！’”
+   </p>
+   <p>
+    快船的时任总经理埃尔金-贝勒曾在采访时表示他已经“做好准备做一切能让他（科比）觉得做出（加入快船）决定很容易的事”，“我们认为我们代表着他最好的选择”。
+   </p>
+   <p>
+    Lawler表示，“他们向科比表达了自己的看法，这是非常有力的，因为在那个时候，每个人似乎都明白科比和沙奎尔（奥尼尔）已经不能再共存了，那么现在到了科比应该准许自己离开的时候了。Donald Sterling（快船老板）带着他走到门口，并向他表达了自己的担忧：‘这（指科比加入快船）真的会发生吗？’
+   </p>
+   <p>
+    “科比转向他——这是球队内部多次向我重复的一个确切的引用——他说，‘别担心，我现在是一名快船球员了。’所以他走出去的时候，（快船）所有人都在互相击掌，想着：‘天呐，我们已经做到了。’
+   </p>
+   <p>
+    “如果有人否认这一点，”Lawler补充说，“那就是他们的记忆力出了问题，或者他们只是不想承认这一点，因为这就是酒店房间会议中发生的事情。”
+   </p>
+   <p>
+    另一位不愿意透露姓名的前快船员工还告诉记者，贝勒直接告诉他科比已经口头承诺会加入快船。 团队内部有足够的信心，初步讨论如何在斯台普斯中心举行的仪式上最好地欢迎布莱恩特。
+   </p>
+   <p>
+    2004年7月16日，湖人将沙奎尔-奥尼尔交易到热火。次日，湖人和科比续约，签下7年1.36亿美元的合同，这份当时的历史最大合同直到2015年才被利拉德的5年1.4亿美元合同所打破。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

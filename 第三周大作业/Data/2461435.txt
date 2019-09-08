@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季10月23日开始，揭幕战湖人对快船，鹈鹕对猛龙
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1157690998874443781?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 00:38:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季10月23日开始，揭幕战湖人对快船，鹈鹕对猛龙" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190804/1565a55676f55f9fea4e19d86d7d4db25c1c17f2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 根据NBA记者Shams Charania的报道，联盟消息源透露，2019-20赛季预期将在北京时间10月23日开始。揭幕战为湖人对阵快船和鹈鹕对阵卫冕冠军猛龙。
+   </p>
+   <p>
+    今夏，湖人任命弗兰克-沃格尔为球队主教练，任命杰森-基德为球队助教。球队通过交易得到了安东尼-戴维斯，在自由市场签下了德马库斯-考辛斯、奎因-库克、丹尼-格林、特洛伊-丹尼尔斯和贾里德-杜德利，并续约了贾维尔-麦基、肯塔维厄斯-考德威尔-波普、拉简-隆多和亚历克斯-卡鲁索。
+   </p>
+   <p>
+    快船通过交易得到了保罗-乔治，在自由市场签下了科怀-伦纳德，续约了帕特里克-贝弗利。
+   </p>
+   <p>
+    鹈鹕通过交易得到了朗佐-鲍尔、布兰登-英格拉姆、约什-哈特和德里克-费沃斯，并在今年选秀大会上选中蔡恩-威廉森，续约了达里厄斯-米勒，签下了JJ-雷迪克。
+   </p>
+   <p>
+    猛龙签下了德万-埃尔南德斯、卡梅伦-佩恩、霍利斯-杰弗森、德文-罗宾逊、奥谢-布里赛特和萨加巴-科纳特。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

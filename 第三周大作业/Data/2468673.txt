@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  致敬50周年！开拓者新赛季主场地板设计出炉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://imgur.com/a/tWlbdMB" target="_blank">
+     imgur
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 16:21:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="致敬50周年！开拓者新赛季主场地板设计出炉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/d12a4bdbbeddc17a242a928a7e7c2360882fcec4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 一位Reddit网友今日在imgur上分享了NBA全部30支球队将在2019-20赛季推出的主场地板设计效果图。
+   </p>
+   <p>
+    以下为开拓者将在新赛季（建队50周年赛季）主场比赛中推出的主要版本球场设计效果图：
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190824/16/50d48c4c16195005e0af55f0cf6b2e81.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

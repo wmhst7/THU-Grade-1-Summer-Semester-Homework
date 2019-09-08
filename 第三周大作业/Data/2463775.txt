@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德章泰-默里：感谢马刺团队，我已完全康复
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DejounteMurray/status/1159978053814169600" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-10 08:54:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德章泰-默里：感谢马刺团队，我已完全康复" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190810/09b24ce0bdcba0fc8a65d20fce8d2450963bd2ce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月10日讯 马刺后卫德章泰-默里在个人社交媒体上宣布，自己已经从十字韧带撕裂的伤势中完全康复。
+   </p>
+   <p>
+    “感谢上帝，感谢我的训练团队，队医，教练，队友，家人，以及一直陪伴在我身边的朋友！今天队医表示我已经完全康复了，感谢我的医生和马刺的工作人员让我在这个夏天可以没有限制地训练变强！德章泰-默里回来了！”
+   </p>
+   <p>
+    默里在上赛季的季前赛中受伤，因为右膝十字韧带撕裂缺席了整个赛季。
+   </p>
+   <p>
+    在2017-18赛季，默里入选了最佳防守阵容二阵，出场81次，场均21.5分钟得到8.1分5.7篮板2.9助攻1.2抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

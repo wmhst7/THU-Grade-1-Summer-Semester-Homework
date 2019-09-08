@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马奇特装扮晒照耍帅，浓眉吐槽：你穿的到底是啥？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1R8ZtqJCe2/?igshid=13xtnn1h8fis0" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 08:10:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马奇特装扮晒照耍帅，浓眉吐槽：你穿的到底是啥？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/a7f2722a1055f3ee89afab8652b1d07be9f99364.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 湖人前锋凯尔-库兹马今日通过Instagram晒出一组个人自拍，展现奇特装扮。
+   </p>
+   <p>
+    库兹马的形象也引发了诸多球员的惊叹。队友安东尼-戴维斯评论道：“哥们，你穿的到底是啥？”
+   </p>
+   <p>
+    爵士球员多诺万-米切尔留言道：“@杰森-塔特姆 他不是认真的吧……” 塔特姆则回复道：“这将引发群聊内的一次干预。”
+   </p>
+   <p>
+    奇才球员以赛亚-托马斯评论道：“不是那回事！得了吧兄弟，我记得你出身于弗林特的。”
+   </p>
+   <p>
+    黄蜂球员迈尔斯-布里奇斯则评论了一串笑哭表情。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/08/de693b8d49b2171a2a79d0369a7023f5.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/08/652623fed1e9dafa78261182bb291e59.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/08/0be7d7b68fd5bd6be6ad204b6434f317.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/08/f2375dad96b374d03cb1b5f9b0f88366.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/08/7b8144dafba60eede1430806d728c93f.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/08/0fbeffad22ace3781d3883357249c888.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

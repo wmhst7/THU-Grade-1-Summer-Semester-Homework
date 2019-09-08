@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮执行主管：想专注于在训练营中的人，而非不在的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nytimes.com/2019/08/02/sports/basketball/usa-basketball-world-cup.html" target="_blank">
+     纽约时报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 03:13:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮执行主管：想专注于在训练营中的人，而非不在的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/aaf40935e488ad1dd4e77dd0f1fd058d489b6875.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 根据NBA记者Marc Stein的报道，近日，美国男篮执行主管杰里-科兰杰洛接受了电话采访。
+   </p>
+   <p>
+    谈到美国队训练营频繁的人员流动时，科兰杰洛说：“我想专注于谁在训练营中，而不是谁不在训练营中。”
+   </p>
+   <p>
+    科兰杰洛坚称，美国队的阵容将会是有能力夺得FIBA冠军的：“我认为我们会好的。”
+   </p>
+   <p>
+    “我理解有些人认为我们的阵容是薄弱的。但是评价事物不能只看表面。在这种情况下——我不想称之为逆境——在这些情况下年轻球员们也得到了机会，我认为有一些年轻人已经准备好迎来爆发了。”
+   </p>
+   <p>
+    目前，美国男篮训练营还有：哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、保罗-米尔萨普、多诺万-米切尔、杰森-塔特姆、PJ-塔克、赛迪斯-杨、马库斯-斯马特、杰伦-布朗、巴姆-阿德巴约和梅森-普拉姆利。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

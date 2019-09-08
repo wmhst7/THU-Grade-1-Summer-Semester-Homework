@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  扎根密尔沃基？布登霍尔泽挂牌自己在亚特兰大的三层豪宅
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.realtor.com/news/celebrity-real-estate/mike-budenholzer-selling-atlanta-home/" target="_blank">
+     Realtor
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 14:32:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="扎根密尔沃基？布登霍尔泽挂牌自己在亚特兰大的三层豪宅" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/a4f35ead3b925423050e6c5219933dee5b8e56f6.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据美国房产网站realtor的报道，雄鹿主教练迈克-布登霍尔泽近日将自己在亚特兰大Morningside街区的豪住宅以240万美元的价格挂牌。
+   </p>
+   <p>
+    据报道，这座三层住宅共有6间卧室、6.5间卫生间，花园内还配备了一座私人泳池（见新闻配图）。
+   </p>
+   <p>
+    布登霍尔泽荣膺本年度最佳教练奖，这是他第二次当选最佳教练。2018-19赛季常规赛，布登霍尔泽带领雄鹿拿到60胜22负的成绩，排名东部第一。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/14/7b3caa353f23dc2add2d882147457404.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190627/14/c8f391157ec1a071c12ca80b6b7c1765.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

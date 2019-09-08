@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  步行者在与埃德蒙-萨姆纳商讨一份长期合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/sports/nba/pacers/2019/06/28/indiana-pacers-working-new-longer-term-contract-edmond-sumner/3653550002/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 10:15:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="步行者在与埃德蒙-萨姆纳商讨一份长期合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/73286c948185a4fc57f2ebed704c46ba0c778bf4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《印第安纳波利斯星报》记者J. Michael的报道，步行者还没有执行埃德蒙-萨姆纳2019-20赛季的球队选项，多位联盟消息人士透露，这是因为双方正在商讨一份长期合同。
+   </p>
+   <p>
+    萨姆纳之前与步行者签下了一份双向合同，随后他的合同被转为常规合同，新赛季合同价值150万美元，带有球队选项。
+   </p>
+   <p>
+    2018-19赛季常规赛，萨姆纳场均出战9.1分钟，可以拿到2.9分1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

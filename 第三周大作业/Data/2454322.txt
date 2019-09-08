@@ -1,0 +1,54 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马转发鲍尔专访文章：变得更加疯狂吧！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kylekuzma/status/1150856974160076800" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 04:51:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马转发鲍尔专访文章：变得更加疯狂吧！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/665f323fae84166f402b66181e14288d36685bbb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 此前朗佐-鲍尔在接受采访时表示，
+    <a href="https://voice.hupu.com/nba/2454008.html">
+     他很期待在鹈鹕的新征程
+    </a>
+    。
+   </p>
+   <p>
+    今日他的前队友、湖人球员凯尔-库兹马在推特上转发了他的专访文章，并评论道：“变得更加疯狂吧，@朗佐-鲍尔。”
+   </p>
+   <p>
+    此前鲍尔在关于安东尼-戴维斯的交易中与约什-哈特和布兰登-英格拉姆等筹码被交易至鹈鹕。
+   </p>
+   <p>
+    2018-19赛季常规赛，鲍尔场均上场30.3分钟，得到9.9分5.3篮板5.4助攻1.47抢断，库兹马场均上场33.1分钟，得到18.7分5.5篮板2.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

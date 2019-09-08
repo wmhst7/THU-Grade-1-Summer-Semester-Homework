@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威少新赛季在8月1日和10月1日领取薪水数减半
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1161365849439162368" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 07:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威少新赛季在8月1日和10月1日领取薪水数减半" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190814/d356a0dd79b8353f728a5ebae66f17f4db781469.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 拉塞尔-威斯布鲁克合同还有4年1.711亿美元，根据上周的报道，为了确保交易成功，威斯布鲁克同意更改其薪水的发放形式。
+   </p>
+   <p>
+    在修改薪水的发放形式之前，威斯布鲁克的薪水有很大一部分是提前支付的，根据《纽约时报》记者Marc Stein的报道，威斯布鲁克新赛季3850万美元的薪水有25%在当地时间8月1日发放，有25%在当地时间10月1日发放，在改动后，这两个数值变为了12.5%，因此在当地时间8月1日和10月1日，威斯布鲁克领到的薪水从原本的962万美元降到了481万美元，剩余的薪水则会在赛季里一笔一笔发放。
+   </p>
+   <p>
+    2018-19赛季常规赛，威斯布鲁克场均上场36.0分钟得到22.9分11.1篮板10.7助攻1.9抢断；季后赛场均出场39.4分钟得到22.8分8.8篮板10.6助攻1抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

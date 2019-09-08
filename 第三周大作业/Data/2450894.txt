@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  在决定加盟快船前，伦纳德阵营要求湖人推迟戴维斯的交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ramonashelburne/status/1147472689654665216" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 19:53:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="在决定加盟快船前，伦纳德阵营要求湖人推迟戴维斯的交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/647e1f595cf891283af80a1ef1da52526c6cd6df.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 根据NBA记者Ramona Shelburne报道，多位消息人士透露，在当地时间周五晚上科怀-伦纳德选择加盟快船的2个小时前，他的阵营要求湖人推迟安东尼-戴维斯的交易直到当地时间周六或周日。
+   </p>
+   <p>
+    根据Ramona报道，伦纳德的阵营对此没有给出任何理由。
+   </p>
+   <p>
+    根据此前的报道，伦纳德将与快船签下4年1.42亿美元的顶薪合同，并成功招募保罗-乔治一同加盟快船。
+   </p>
+   <p>
+    伦纳德在北京时间7月1日在洛杉矶与湖人和快船完成会面，并在7月3日飞到多伦多与猛龙完成会面。根据Cris Carter报道，伦纳德阵营对于保密非常看重，外界很难得到关于会面的具体信息。
+   </p>
+   <p>
+    根据此前的报道，假如伦纳德在当地时间周六0点（冻结期结束后）仍未做出决定，鹈鹕、老鹰和奇才打算配合湖人，延迟达成戴维斯的交易。因为湖人腾出顶薪空间的前提是先与伦纳德达成合同，再完成交易；反之，则不会拥有顶薪空间，无法签下伦纳德。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断，季后赛场均上场39.1分钟，得到30.5分9.1篮板3.9助攻1.67抢断0.71盖帽，帮助猛龙夺得队史首个总冠军，并荣膺总决赛最有价值球员奖项。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

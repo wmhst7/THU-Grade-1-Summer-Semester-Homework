@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：欧文正专注于与篮网达成一份协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1053928/2019/06/29/charanias-inside-pass-nba-free-agents-waiting-for-durant-leonard-dominoes-to-fall-plus-more-league-notes/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 22:58:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：欧文正专注于与篮网达成一份协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/0bbe94018fdc49a8efc7ffa0ae8ab769c4173bd1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 据the Athletic记者Shams Charania报道，消息人士透露，自由球员凯里-欧文正专注于与篮网达成一份协议。
+   </p>
+   <p>
+    消息人士称，篮网的目标是组成以欧文、凯文-杜兰特以及德安德烈-乔丹为核心的球队。得到欧文是篮网计划的一部分，在得到欧文的签约承诺后，篮网有能力追求全部三人。
+   </p>
+   <p>
+    欧文小时候成长于新泽西，他将在今夏成为一名完全自由球员。
+   </p>
+   <p>
+    2018-19赛季，欧文常规赛场均上场33.0分钟，得到23.8分5.0篮板6.9助攻；季后赛场均上场36.7分钟，得到21.3分4.3篮板7.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

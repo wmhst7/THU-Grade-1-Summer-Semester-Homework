@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：鹈鹕签约状元秀蔡恩-威廉森
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/pelicans/pelicans-sign-zion-williamson" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 07:53:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：鹈鹕签约状元秀蔡恩-威廉森" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190702/43e129b48c9362eca9c34a5acf95dcd180466c09.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 鹈鹕官方今日宣布，他们已经签下了今年的状元秀蔡恩-威廉森，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    威廉森首年薪水最多可以达到975.7万美元，之后三年分别为1024.5万美元、1073.3万美元和1353.5万美元。
+   </p>
+   <p>
+    威廉森今年18岁，身高2.01米，体重129公斤，司职前锋，2018-19赛季在NCAA作为杜克大学球员出场33次，场均出战30.0分钟，能够贡献22.6分8.9篮板2.1助攻2.1抢断1.8盖帽。
+   </p>
+   <p>
+    相关资料：
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/27407818.html" target="_blank">
+     蔡恩-威廉森球探报告&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <a href="https://m.365yg.com/i6691645163053253127/?utm_source=hupu&amp;app=video_article" target="_blank">
+     视频：状元来了！蔡恩-威廉森NCAA生涯精彩集锦&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <a href="https://m.365yg.com/i6694039576878514696/?utm_source=hupu&amp;app=video_article" target="_blank">
+     视频：毫无悬念！状元蔡恩高中生涯残暴瞬间集锦&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  多米尼加男篮将球队阵容名单缩减至14人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/922502/dominican-republic-travels-to-china-with-14-players/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 15:16:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="多米尼加男篮将球队阵容名单缩减至14人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/a2bb697b15959e9f42bea5d08a49249b2ed18748.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 在今日结束的一场热身赛中，多米尼加男篮以70-102不敌西班牙男篮。赛后，多米尼加男篮主教练Nestor Garcia宣布，球队阵容名单将缩减至14人，接下来会前往中国进行最后的准备阶段。
+   </p>
+   <p>
+    具体名单如下：Adris De Leon, 里戈韦托-门多萨, Jean Montero, 达戈贝托-佩尼亚, 维克托-利兹, 路易斯-蒙特罗, 埃洛伊-巴尔加斯, Gelvis Solano, Juan Migel Suero, Sadiel Rojas, Juan Jose Garcia, Eulis Baez, 罗纳德-拉蒙, Ronald Roberts Jr。
+   </p>
+   <p>
+    本届世界杯，多米尼加与法国、德国、约旦同处G组，小组赛在深圳举行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

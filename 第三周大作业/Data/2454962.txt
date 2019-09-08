@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德与妻子自拍合影：旅行必需品，她！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/Bz-pHdYHDW_/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 13:30:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德与妻子自拍合影：旅行必需品，她！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/c4e157ecc1099dfcd87d24589a3c21e69d9925e1.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 今天德维恩-韦德在Instagram上发布了自己与妻子的自拍合影，照片定位是意大利阿马尔菲海岸。
+   </p>
+   <p>
+    韦德写道：“旅行必需品：她！！我们的眼镜，我们的故事。”
+   </p>
+   <p>
+    德维恩-韦德于2018-19赛季宣布退役，职业生涯场均出场33.9分钟，能得到22.0分4.7篮板5.41助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

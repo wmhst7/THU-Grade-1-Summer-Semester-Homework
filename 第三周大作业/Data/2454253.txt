@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹米奇目前情况稳定，但仍然处于昏迷之中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/907325/ognjen-kuzmic-update-condition-stable-still-very-serious/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 21:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹米奇目前情况稳定，但仍然处于昏迷之中" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/37c29972d9390bcabc235661563213c9aeef4787.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 贝尔格莱德红星篮球俱乐部更新了奥格年-库兹米奇的最新情况，库兹米奇目前情况稳定，但是仍然非常严重，一直处于昏迷之中。
+   </p>
+   <p>
+    目前库兹米奇情况已经有了好转，X光扫描结果显示库兹米奇受伤的头部没有其他的并发症，肺功能也在逐渐恢复。
+   </p>
+   <p>
+    库兹米奇在当地时间7月14日早上遭遇一起严重车祸，随后被送往当地医院，库兹米奇头部多处受伤，面骨和下巴多处骨折，胸部和肺部受伤，随后库兹米奇被直升飞机送往贝尔格莱德的医院接受进一步治疗。
+   </p>
+   <p>
+    库兹米奇曾在勇士效力2个赛季，并且在2015年跟随勇士拿到NBA总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

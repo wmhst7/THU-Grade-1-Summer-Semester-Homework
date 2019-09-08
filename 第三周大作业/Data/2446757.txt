@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  魔术师约翰逊和拉里-伯德获得终生成就奖
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:01:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="魔术师约翰逊和拉里-伯德获得终生成就奖" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190625/c3634d0857523e2b3d9f2b4919fb931c97358ff7.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯 NBA常规赛各大奖项颁奖典礼在今日举办，魔术师约翰逊和拉里-伯德获得终生成就奖。
+   </p>
+   <p>
+    NBA官方于2017年首次设立终身成就奖，比尔-拉塞尔是该奖项的首位获得者，奥斯卡-罗伯特森则是2018年该奖项的获得者。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

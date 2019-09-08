@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥尼尔：我在退役之后通过投资赚的钱比打篮球时赚的更多
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/nba-news-shaquille-oneal-says-he-made-more-money-through-investments-than-he-did-playing-basketball/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 09:45:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥尼尔：我在退役之后通过投资赚的钱比打篮球时赚的更多" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/0813cc79273879a38e9d1dce2026ee77e140a472.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 NBA名宿沙奎尔-奥尼尔在近日接受雅虎财经采访时谈到了自己退役之后的商业投资。
+   </p>
+   <p>
+    奥尼尔表示亚马逊首席执行官Jeff Bezos为他的商业投资提供了很多宝贵的建议，他在接受采访时称后者“拥有卓越的思考能力”。
+   </p>
+   <p>
+    在谈到自己的投资理念时，奥尼尔表示：“我有着老派的作风，你当然会投资很多钱，但作为一个在军人家庭长大的孩子，你做生意必须要诚信。”
+   </p>
+   <p>
+    “如果我没有亲自使用过你的产品，我就不会拿你的钱，”奥尼尔在谈到自己的商业原则时说道，“无论你为我提供了怎样的报酬，我就是不会接受，因为这样做不对。”
+   </p>
+   <p>
+    奥尼尔已经建立了庞大的商业帝国，先后投资了锐步，嘉年华邮轮，Papa John’披萨等品牌。最近，奥尼尔和爱普生（数码影像领域的全球领先企业）建立了合作关系，“就算我不投资爱普生，我也会使用他们的打印机。”奥尼尔说道。
+   </p>
+   <p>
+    奥尼尔还透露，他在退役之后通过投资赚的钱比打篮球时赚的更多，据统计，奥尼尔职业生涯薪资总额达到了2.92亿美元。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

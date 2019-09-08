@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波蒂斯：我想要成为一名全明星球员，这就是我的目标
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.slamonline.com/nba/bobby-portis-story/" target="_blank">
+     SLAM
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 15:06:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波蒂斯：我想要成为一名全明星球员，这就是我的目标" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/89518a3c931de5ffb86780754d99c126ce76713c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据NBA记者Adrian Wojnarowski报道，消息人士透露，前锋博比-波蒂斯以2年3100万的合同加盟尼克斯。
+   </p>
+   <p>
+    波蒂斯在近日接受《SLAM》采访时谈到了加盟尼克斯以及对于未来的展望。
+   </p>
+   <p>
+    “我的计划就是踏上赛场，每场比赛都拼尽全力，”波蒂斯说道，“你不能保证每场比赛都能够表现出色，但无论我的表现是好是坏，我都会继续为我的球队付出110%的努力，我认为是我在场上所需要做到的最重要的事情之一。无论我的表现多么出色，或许我打得有多么糟糕，我都会和队友团结一致继续战斗，我会在场上为了我的队友付出一切。”
+   </p>
+   <p>
+    谈到对于未来的规划，波蒂斯说：“如果我能够预见未来，我会预想到自己有朝一日能够成为全明星，这就是我的目标，我想要成为一位全明星球员。如果你问一千个人，我敢跟你打赌，他们中的大多数人都会说我疯了，但这就是你所需要有的‘下狗’精神，我知道当我踏上球场，有很多人会质疑我。你知道的，我喜欢被质疑。”
+   </p>
+   <p>
+    当被问及是否享受被低估时，波蒂斯说：“没错。当你爱上自己所从事的运动，当你爱上你正在做的事情，你会接受自己是谁，你会勇敢面对所有挑战。”
+   </p>
+   <p>
+    “显而易见，每个人的经历都不同，有些人天赋异禀，他们的起点很高，也如愿以偿地取得了成功；而有些人不得不经历磨砺才能走到同样的高度。我非常感谢这段旅程，我认为一路走来的经历成就了我现在的心态，”波蒂斯说道，“联盟中有很多人来自洛杉矶，来自亚特兰大，来自纽约，来自德克萨斯州的达拉斯，而我来自阿肯色州的一个小地方，从我的家乡走出来的球员，你可能只能叫出三四个人的名字，我认为我们都是‘下狗’，我的家乡不会每年都出现选秀大热。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

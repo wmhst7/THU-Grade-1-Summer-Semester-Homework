@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  怀特塞德分享马丁-路德-金的名言：我最喜欢的名言
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0oIBwphlQd/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 10:12:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="怀特塞德分享马丁-路德-金的名言：我最喜欢的名言" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/75e34d5810192b5f1d403c31332ef24fc7b17459.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日开拓者球员哈桑-怀特塞德更新了自己的个人Instagram动态，分享了一句马丁-路德-金的名言（见新闻配图）。
+   </p>
+   <p>
+    “我最喜欢的名言。”怀特塞德写道。
+   </p>
+   <p>
+    这句名言是：“对一个人的最终评价，不在于他在顺境中如何自处，而在于遭遇挑战与艰难时，他如何面对。”
+   </p>
+   <p>
+    2018-19赛季常规赛，怀特塞德场均上场23.2分钟，得到12.3分11.3篮板1.89盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

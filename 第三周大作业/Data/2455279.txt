@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安吉：塔科-法尔打球很有趣，他可能进入球队大名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/apphttps://www.nbcsports.com/boston/celtics/tacko-fall-high-priority-celtics-has-chance-make-team" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-18 06:39:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安吉：塔科-法尔打球很有趣，他可能进入球队大名单" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190718/916c4f3cb29e5b572b544ba5ab2962ff157a7aa6.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月18日讯 今日，凯尔特人召开记者发布会，会上总经理丹尼-安吉谈到了球队用Exhibit 10合同签下的落选秀塔科-法尔。
+   </p>
+   <p>
+    “我们认为塔科有机会进入球队大名单，我们后期会公布的。”安吉说。“我们看到了他身上的一些潜力，他很令我们激动。”
+   </p>
+   <p>
+    “看塔科的比赛让我觉得很有趣，他有的时候让比赛很好笑。小个子后卫如果进攻端遇到麻烦，只要把球向他高高扔过去就行了。塔科会一把把球抓过来，然后踮着脚尖完成扣篮。看他打球很像看高中生和小学生一起打球。”
+   </p>
+   <p>
+    “他是一个好孩子，他非常努力。我们非常非常认真地对待他的发展。非常重视他能否发展成为一名球员。”
+   </p>
+   <p>
+    安吉称法尔现在在波士顿训练，但会回到他的家乡塞内加尔看他的家人，所以他的命运可能要到夏末才能确定。
+   </p>
+   <p>
+    塔科-法尔为凯尔特人出战5场夏季联赛，场均上场12.6分钟，投篮命中率77%，得到7.2分4.0篮板1.4封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：活塞签约德里克-罗斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/DetroitPistons/status/1147934517635768322" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 08:10:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：活塞签约德里克-罗斯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/e338a19b1f898b5cea25cea6422b22ad73908cf5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 活塞官方今日宣布，他们已经签下了完全自由球员德里克-罗斯。
+   </p>
+   <p>
+    根据之前NBA记者Adrian Wojnarowski的报道，活塞与罗斯以2年1500万美元达成协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，罗斯场均出场27.3分钟，得到18.0分2.7篮板4.3助攻0.6抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

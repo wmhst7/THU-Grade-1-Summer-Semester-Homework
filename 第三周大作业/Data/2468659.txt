@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波波维奇打趣：就像我上一场比赛所说的，米尔斯很讨厌
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/OlgunUluc/status/1165154449863524352" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 15:30:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波波维奇打趣：就像我上一场比赛所说的，米尔斯很讨厌" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190824/9b67397b92c93a7fb85740d62317838ac93e4b87.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 在刚刚结束的一场热身赛中，美国男篮以94-98不敌澳大利亚男篮。赛后，美国男篮主教练格雷格-波波维奇接受了媒体采访。
+   </p>
+   <p>
+    波波维奇认为澳大利亚男篮的表现很出色，并向对手表示祝贺。
+   </p>
+   <p>
+    本场比赛，澳大利亚男篮后卫、马刺球员帕蒂-米尔斯表现出色，得到30分3助攻，谈到米尔斯的表现，波波维奇打趣道：“就像我上一场比赛所说的那样，帕蒂很讨厌。”
+   </p>
+   <p>
+    北京时间8月26日下午五点半，美国男篮将迎战加拿大男篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

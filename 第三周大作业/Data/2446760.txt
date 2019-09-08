@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西亚卡姆：人生没有界限，期待未来变得越好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WolstatSun/status/1143347455595089920" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-25 11:10:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西亚卡姆：人生没有界限，期待未来变得越好" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190625/013a8ee60cde2d94e7a9bc161a0d8797647705bc.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月25日讯
+    <span style="line-height: 1.6em;">
+     猛龙前锋帕斯卡尔-西亚卡姆今天当选本赛季的最快进步球员，之后他接受了记者的采访。
+    </span>
+   </p>
+   <p>
+    谈到获奖，西亚卡姆表示：“人生没有天花板，我感觉自己我没有界限，这对我只是个开始，还会经历越来越多。我对未来感到十分期待，期望变得越来越好。”
+   </p>
+   <p>
+    记者提问是否有足够的时间去享受这个奖，西亚卡姆表示：“我觉得我已经很享受了，上个星期我们拿下了总冠军，进行了疯狂的庆祝。赢下总冠军就是你之后为之奋斗的目标。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

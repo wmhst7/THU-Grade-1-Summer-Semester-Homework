@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  杰里-韦斯特：没有伦纳德，球队可能无法与雷霆达成交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/clippers-news-jerry-west-isnt-sure-clippers-could-have-traded-for-paul-george-had-kawhi-leonard-not-recruited-him/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 10:25:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="杰里-韦斯特：没有伦纳德，球队可能无法与雷霆达成交易" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/98b8d65aec19f493224e149c47ccefabce705f9a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 根据此前消息报道，前锋科怀-伦纳德已经与快船正式签下一份3年1.03亿美元的合同，其中第3年为球员选项。同时，快船也正式宣布，球队已经与雷霆达成交易，快船将谢伊-吉尔杰斯-亚历山大、达尼罗-加里纳利、4个无保护的首轮签、1个受保护的首轮签和2个选秀权互换的权利交易至雷霆从而得到前锋保罗-乔治。根据报道，伦纳德一直在招募乔治携手加盟快船，后者也因此联系了雷霆并申请了交易。
+   </p>
+   <p>
+    近期，快船球队顾问、名人堂成员杰里-韦斯特接受了记者的采访。
+   </p>
+   <p>
+    在谈及伦纳德招募乔治携手加盟快船时，杰里-韦斯特对记者说道：“这其实都是球员间的交流与谈话。不过，如果没有科怀-伦纳德对保罗-乔治的影响，我不确定我们能否与雷霆达成有关乔治的交易。”
+   </p>
+   <p>
+    在谈及自己对于球队能够顺利签下伦纳德所带来的积极影响时，韦斯特表示：“我所扮演的角色其实影响力并不大，我只是有一定的话语权能够表达自己的想法罢了，我们的管理层非常了不起，他们在这件事上一直都处于领先的位置。”
+   </p>
+   <p>
+    杰里-韦斯特其职业生涯常规赛场均出场39.2分钟，可以砍下27.0分5.8篮板6.69助攻，并且10次入选最佳阵容一阵，2次二阵，于1971-72赛季率队夺得总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

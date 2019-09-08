@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  满是能量！莫兰特社交媒体晒出自己怒吼照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JaMorant/status/1150561559887826944" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 11:49:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="满是能量！莫兰特社交媒体晒出自己怒吼照" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190715/735a325f29ae8e244c252ff64920f6e0d8187759.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日，灰熊新秀贾-莫兰特更新社交媒体Twitter，晒出自己怒吼照片（见新闻配图）。
+   </p>
+   <p>
+    “能量。”他写道。
+   </p>
+   <p>
+    在今天已经结束的两场夏季联赛中，孟菲斯灰熊队以88-86的比分战胜新奥尔良鹈鹕队，
+    <a href="https://voice.hupu.com/nba/2454062.html">
+     灰熊与森林狼成功会师2019年拉斯维加斯夏季联赛总决赛。
+    </a>
+   </p>
+   <p>
+    莫兰特在今年首轮第二顺位被灰熊选中，19岁，身高1.91米，体重79公斤，司职控球后卫，2018-19赛季在NCAA代表莫瑞州立大学出场33次，场均出场36.6分钟，得到24.5分5.7篮板10.0助攻1.8抢断0.8盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

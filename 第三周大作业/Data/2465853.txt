@@ -1,0 +1,52 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小托马斯发推：为我的兄弟德马库斯-考辛斯祈福
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/isaiahthomas/status/1162047504063447041" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 01:46:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小托马斯发推：为我的兄弟德马库斯-考辛斯祈福" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/5139cddc579e4d939b2958a4f5e15bd93309381e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 今日奇才后卫以赛亚-托马斯更新了自己的个人Instagram动态，为湖人中锋德马库斯-考辛斯发去了祝福。
+   </p>
+   <p>
+    “为我的兄弟@德马库斯-考辛斯 祈福”小托马斯写道。
+   </p>
+   <p>
+    根据Shams报道，考辛斯遭遇膝盖前交叉韧带撕裂。小托马斯与考辛斯曾在2011-2014年在国王队有过合作。
+   </p>
+   <p>
+    2018-19赛季常规赛，小托马斯共上场12次，场均上场15.1分钟，得到8.1分1.1篮板1.9助攻。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

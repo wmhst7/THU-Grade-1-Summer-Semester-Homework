@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小迈克尔-波特左膝盖扭伤，不太可能出战夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.denverpost.com/2019/07/04/nuggets-michael-porter-jr-injury-summer-league/" target="_blank">
+     丹佛邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 01:35:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小迈克尔-波特左膝盖扭伤，不太可能出战夏季联赛" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190705/f0a95d8db33761a67fe358382f60cb12cfa094ad.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 据《丹佛邮报》掘金记者Mike Singer报道，消息人士透露，掘金新秀前锋小迈克尔-波特当地时间周三晚上在参加队内对抗赛中扭伤了左膝盖，不太可能出战拉斯维加斯夏季联赛。
+   </p>
+   <p>
+    这预计不会是一个长期的问题，掘金方面觉得没有必要急于让波特返回赛场。
+   </p>
+   <p>
+    此前，据报道，波特已经恢复健康，夏季联赛没有出场时间限制。他在2018年NBA选秀大会第14顺位被掘金选中，由于伤病还未代表球队出场。掘金将于7月6日迎战太阳，届时波特将迎来夏季联赛首秀。
+   </p>
+   <p>
+    如今，波特的夏季联赛首秀将被推迟。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

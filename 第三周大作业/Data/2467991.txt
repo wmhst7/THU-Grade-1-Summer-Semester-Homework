@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝恩斯：当你代表国家队出战时，你会想起篮球是多么有趣
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/suns/features/2019-fiba-world-cup-phoenix-suns-update" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 12:22:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝恩斯：当你代表国家队出战时，你会想起篮球是多么有趣" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/ceefcd90f2ce98ad13c589e88e00a760062bd756.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 澳大利亚男篮球员阿隆-贝恩斯目前正在备战热身赛，他在此期间接受了媒体采访。
+   </p>
+   <p>
+    谈到澳大利亚男篮的阵容，贝恩斯说：“这太棒了，现在我们能够继续前进，球队补充了一些具有天赋的年轻人，这将会帮助到我们，帮助球队在世界杯中走得更远。所以我们都感到非常兴奋，我们已经迫不及待比赛的到来。”
+   </p>
+   <p>
+    谈到接下来与美国男篮的热身赛，贝恩斯说：“我们必须在9月1日之前做好准备，之前的热身赛进展很不错，现在我们获得了对阵美国男篮的机会，我们必须充分利用这次机会，这将会很有趣。当你代表着自己的祖国与队友并肩作战时，你会想起篮球这项运动是多么有趣，这是一种非常棒的感受。”
+   </p>
+   <p>
+    北京时间今天下午五点半，澳大利亚男篮将迎战美国男篮。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔晒生活照：当你妈妈让你坐下写作业时
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1VORzQA_GJ/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 13:31:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔晒生活照：当你妈妈让你坐下写作业时" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/4f2c6d4dce3b96150051e51e5852d2fd9dc09778.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 华盛顿奇才队后卫约翰-沃尔今天在个人Instagram上传了一张自己与母亲的照片（见新闻配图）。
+   </p>
+   <p>
+    “当你的妈妈还让你坐在桌子旁写作业的时候，哈哈！”沃尔写道。
+   </p>
+   <p>
+    2018-19赛季常规赛，沃尔因伤只出场32场比赛，场均出场34.5分钟，得到20.7分3.6篮板8.7助攻1.53抢断0.91盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

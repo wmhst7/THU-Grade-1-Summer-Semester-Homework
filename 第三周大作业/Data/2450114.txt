@@ -1,0 +1,64 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：骑士签约首轮秀小凯文-波特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/cavaliers-sign-kevin-porter-jr.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 10:24:15
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：骑士签约首轮秀小凯文-波特" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/c7e4534bbd4594414f0491ddb80d15af57bca114.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 骑士官方今日宣布，他们已经签下了小凯文-波特。骑士在昨天的新闻发布会宣布和新秀达里厄斯-加兰，迪伦-温德勒签约后，今天签下小凯文-波特。
+   </p>
+   <p>
+    根据此前消息，骑士活塞完成交易，正式得到今年30号新秀后卫凯文-波特的签约权。根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    小凯文-波特首年薪水最多可以达到193.6万美元，之后两年分别为203.3万美元、213.02万美元。
+   </p>
+   <p>
+    小凯文-波特今年19岁，身高1.98米，体重98公斤司职后卫，2018-19赛季在NCAA作为南加州大学球员场均出战22分钟，得到9.5分4.0篮板1.4助攻。三分球命中率排名第六，达到41.2%。
+   </p>
+   <p>
+    相关阅读：
+    <a href="https://voice.hupu.com/nba/2447493.html">
+     官方：骑士与活塞完成交易，得到新秀凯文-波特
+    </a>
+    <br/>
+    <a href="https://voice.hupu.com/nba/2449408.html">
+     达里厄斯-加兰社媒公布签约：感谢骑士，我准备好了
+    </a>
+    <br/>
+    <a href="https://voice.hupu.com/nba/2445901.html">
+     骑士官方发布两位新秀加兰和温德勒定妆照
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,77 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库里纪录片制片人谈库里：他很享受目前不被看好的处境
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nbcsports.com/bayarea/warriors/warriors-steph-curry-relishing-new-underdog-role-gotham-chopra-says?cid=Yahoo&amp;partner=ya4nbcs&amp;tdsourcetag=s_pcqq_aiomsg" target="_blank">
+     NBC
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 15:29:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库里纪录片制片人谈库里：他很享受目前不被看好的处境" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/918ddd8b308e6b1e6113cf737462c4880ff54d3f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 近日，Versus on Watch媒体发布了勇士球员斯蒂芬-库里的纪录片Stephen vs. The Game的最后一集。纪录片的联合制片人Gotham Chopra接受了NBC Sports Bay Area的独家专访，谈到了自己对库里的看法。
+   </p>
+   <p>
+    “我认为，我发现的在某种程度上揭露了事实的一点是，他很享受他的球队目前不被看好的处境。这是一种库里很能适应的处境。他说，过去五年里他们被捧上神坛，所有人看待他们的方式都有点像是他们有超能力那样，这对他来说是非常奇怪的。”
+   </p>
+   <p>
+    “他更能适应那种不被看好的处境。”
+   </p>
+   <p>
+    “我认为现在人们在说王朝已经结束了，而且认为由于勇士伤病太多了、太脆弱了等种种原因，他们已经没有竞争力了。这种轻视才是他真正享受的，你能感觉到这一点，他不会坐在那里，对实力忧心忡忡很久。”
+   </p>
+   <p>
+    “他是一名竞争者，我认为他对下赛季感到期待。”
+   </p>
+   <p>
+    Chopra透露，纪录片表现了库里的身体在赛季结束时受到了怎样的耗损。
+   </p>
+   <p>
+    “身体上的状况，你在系列赛的最后已经看到了，一路走来，他自己也有伤病。显然，谈到季后赛时，凯文-杜兰特、克莱-汤普森、安德烈-伊格达拉都受伤了，这些都是他们所应对的一些非常艰难的伤病。我认为，对于他们得以推动自己继续前进到了何种地步，他们感到非常自豪。他们当然不是轻易就被击败的。”
+   </p>
+   <p>
+    Chopra说，在过去一年里与库里合作的经历是不可思议的。他赞赏了库里屏蔽负面评价，专注于手头工作的能力。Chopra说：“我认为如果有什么令我惊讶的事的话，那就是他是一个真正的好人，他有很大的名气，但是他能够保持一种平衡，不因外界的种种议论而分心，这种能力是极其卓越非凡的。”
+   </p>
+   <p>
+    Chopra还谈到了斯蒂芬-库里对于西决时和弟弟塞思-库里对位时的感受。“我了解斯蒂芬-库里——他太为他的弟弟感到骄傲了。我认为那种情况令他有点紧张。作为一名竞争者，他当然想要赢球，可他也希望他弟弟能有很好的表现，因为这是他弟弟走到的最远的一步了，斯蒂芬为塞思感到非常高兴。”
+   </p>
+   <p>
+    在拍摄过程中，自始至终，他都用一个词来形容库里。
+   </p>
+   <p>
+    “快乐，”Chopra不假思索地说，“他带着极大的快乐去比赛。他是一个好人，我认为他在场上场下的表现几乎是一样的，谦逊，并且令人愉悦。”
+   </p>
+   <p>
+    “他当然是一位竞争者，但他也意识到了自己所拥有的东西，并想要将之分享给全世界。”
+   </p>
+   <p>
+    2018-19赛季常规赛，库里场均出场33.8分钟，得到27.3分5.3篮板5.2助攻。塞思-库里场均上场18.9分钟，得到7.9分1.6篮板0.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

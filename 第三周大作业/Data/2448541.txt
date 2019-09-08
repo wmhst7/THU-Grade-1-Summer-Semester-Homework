@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  情谊深厚！米德尔顿晒出与多年好友合影并祝其新婚快乐
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzUG9G0HZUn/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:29:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="情谊深厚！米德尔顿晒出与多年好友合影并祝其新婚快乐" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/d8c3fba463260a01e3054de12b49beed7a5295e5.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，雄鹿前锋克里斯-米德尔顿更新了个人社交媒体晒出自己与好友合影（见新闻配图）。
+   </p>
+   <p>
+    并发文说道：“20多年的友谊，这才是兄弟真正的定义！祝贺弗斯先生和其夫人新婚快乐。”
+   </p>
+   <p>
+    根据此前消息报道，米德尔顿不执行下赛季球员选项，预计要求5年顶薪留在雄鹿。
+   </p>
+   <p>
+    2018-19赛季常规赛，米德尔顿场均出场31.1分钟，可以得到18.3分6.0篮板4.3助攻1.04抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

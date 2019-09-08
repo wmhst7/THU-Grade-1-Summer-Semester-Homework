@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  湖人球员2K20能力值公布：丹尼-格林77，隆多76
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162634702370549760?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 16:04:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="湖人球员2K20能力值公布：丹尼-格林77，隆多76" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/3980c03a5777b7967b7c4b1d09912c0d12a6d20e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2KRatings网站近日公布了一批球员的NBA 2K20游戏初始能力值，两名湖人球员丹尼-格林和拉简-隆多的能力值得到确认。
+   </p>
+   <p>
+    在2K20游戏中，格林的初始能力值为77，隆多为76。此前得到确认的湖人球员初始能力值为：勒布朗-詹姆斯97，安东尼-戴维斯94，凯尔-库兹马84。
+   </p>
+   <p>
+    2018-19赛季常规赛，格林场均出场27.7分钟，得到10.3分4.0篮板1.6助攻；隆多场均出场29.8分钟，得到9.2分5.3篮板8.0助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

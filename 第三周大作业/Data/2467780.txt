@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯发布大儿子比赛片段：他和队友在中国进行季前备战
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1bWr4SnH9s/?igshid=abips5d8cl2y" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-21 21:43:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯发布大儿子比赛片段：他和队友在中国进行季前备战" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190821/cd2b7aaaedea67c8a0d01329d40030c16d85c7b0.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月21日讯 湖人前锋勒布朗-詹姆斯今日在Instagram上发布其大儿子Bronny在中国参加中美篮球友谊赛时完成拉杆上篮的精彩片段。
+   </p>
+   <p>
+    “高难度，@Bronny！！！他和他的队友远赴中国进行一些季前备战，与来自全中国各地的高中球队交手。#Blazers加油 #追逐伟大 #詹姆斯帮 @塞拉峡谷中学男篮 ”詹姆斯写道。
+   </p>
+   <p>
+    詹姆斯在Instagram Story上也转发了这段短片并配文道：“高难度！@Bronny，继续努力”
+   </p>
+   <p>
+    此外，詹姆斯的一位挚友留言道：“哇，Bron，那对他而言是一次很棒的经历！我们年轻时未曾拥有这种机会。”詹姆斯回复道：“确实啊！兄弟，不可思议啊。我真希望我们也曾拥有（这种经历）。”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/21/cd8096e34431ce371ea85d3cbc13ae35.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/21/39ec2e24c34323ed2e2337958b4ffa4a.jpeg"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190821/21/408fdc63c892677ca09ace84ad0e1426.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190821/21/befe16742ad51e68e226c688b997c6f9.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

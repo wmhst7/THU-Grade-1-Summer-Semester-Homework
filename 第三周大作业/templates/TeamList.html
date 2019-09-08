@@ -1,0 +1,124 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style>
+        h1 {
+            color: white;
+        }
+
+        body {
+            background-color: tomato;
+        }
+
+        a {
+            color: tomato;
+            text-align: center;
+            font-size: 28px;
+        }
+
+        a {
+            color: tomato;
+            font-weight: 800;
+        }
+        
+        a:link { text-decoration: none;color: tomato}
+        a:active { text-decoration:blink}
+        a:hover { text-decoration:none;color: black}
+        a:visited { text-decoration: none;color: tomato}
+        
+        input {
+            outline-style: none;
+            border: 0px;
+            border-color: white;
+            border-radius: 5px;
+            padding: 23px, 24px;
+            width: 620px;
+            font-size: 20px;
+            font-family: "Microsoft soft";
+        }
+
+        div {
+            text-align: center;
+            font-size: 10px;
+            color: lightgray
+        }
+
+        ul {
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            list-style: none;
+            vertical-align: "center";
+            font-size:14px;
+            color: gray;
+        }
+
+        div[class="teamlist"] {
+            text-align: center;
+            font-size: 14px;
+            background-color: ghostwhite;
+            border: 2px solid whitesmoke;
+            border-radius: 25px;
+            padding: 35px;
+            position: absolute;
+            width: 50%;
+            left: 20%;
+            right: 30%;
+        }
+        a[class='brand']
+        {
+            color:white;
+            text-align: center;
+            font-size: 12px;
+            font-weight: 200;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a.brand:link { text-decoration: none;color: white}
+        a.brand:active { text-decoration:blink}
+        a.brand:hover { text-decoration:none;color: gray}
+        a.brand:visited { text-decoration: none;color: white}
+    </style>
+    
+    <div class="navbar" align='center'>
+        <div class="navbar-inner">
+            <a class="brand" href="../">搜索</a>
+            <a class="brand" href="/teamlist/">球队热度榜</a>
+            <a class="brand" href="/spy/">爬虫管理</a>
+           
+        </div>
+    </div>
+    <br>
+    <form action="/find/" align="center" method="get">
+        <table align="center" style="width:34em">
+            <tr>
+                <td>
+                    <input placeholder="搜一搜" type="search" name='q'>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <title>搜索：虎扑</title>
+
+<body>
+    <h1 align="center">虎扑球队热度榜</h1>
+    </head>
+    <br>
+    <br>
+    <br>
+    <div class="teamlist">
+        <ul>
+            {% for each in teamlist %}
+            <li><a href="/team/{{each.0}}">{{ each.0 }}</a>   热度：{{each.1}}</li>
+            <br>
+            {% endfor %}
+        </ul>
+    </div>
+    <br><br><br><br><br><br><br><br>
+</body>
+<br><br><br><br><br><br><br><br>
+
+</html>

@@ -1,0 +1,69 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  詹姆斯谈创办学校：因为我希望曾经有人为我这么做
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=yQBs0bys76s" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 09:42:33
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="詹姆斯谈创办学校：因为我希望曾经有人为我这么做" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/2ea3a3699450dc09cb1f9c658caeea5602b91e4e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 湖人前锋勒布朗-詹姆斯昨日回到家乡阿克伦，在其投资建设的I Promise学校内接受当地媒体专访。
+   </p>
+   <p>
+    一位该校的10岁女学生向詹姆斯提问：“勒布朗先生，你为何要创办I Promise学校？”
+   </p>
+   <p>
+    詹姆斯答道：“我是为了你和你的同学而创办I Promise学校的，也是为了这个社区内所有的孩子。我记得自己10岁时的样子，我熟悉你们走过的街道，你们所经历的艰辛，所有那些我希望实现的梦想，我清楚作为一个孩子的压力。人们会说，‘小孩还能感到压力和紧张？’是的，小孩也会面临压力和紧张。因此我知道你们正在经历的一切，无论好坏。我创办这所学校是因为我希望我曾拥有这种机会，我希望曾经有人能为我和我的伙伴建立这种环境。现在我有了相应的平台和资源，这样就有能力回馈你们，让你们的身边充满优秀的老师和人员，这是一个容易的决定。说起来容易是因为这就是我一直想做的事。说它不容易是由于我们携手实现它的过程以及做到的所有事情，那是肯定不容易的，我们每一天都会继续努力做得更好。不过这种想法是很容易的。因此，我这么做就是为了你们。”
+   </p>
+   <p>
+    身处I Promise学校内新开设的媒体实验室接受采访的詹姆斯在谈到培养该校学生的传媒兴趣时说道：“我希望看到一些作品出炉。我希望看到能有孩子在那座演播台后面真的创作出一些成果，那会很酷的。在工作期间我总能看到这种景象，媒体人士坐在演播台后谈论体育，播报体育，发表意见。如果我的一些孩子观看了我的某场比赛，然后对我那晚的表现是好是坏给出报道，想想就很酷呢。”
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2465781.html">
+     詹姆斯谈教育子女：作为父母要以身作则，日积月累
+    </a>
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2465742.html">
+     詹姆斯：失败不会阻挡我，失败让我知道自己必须变得更好
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/09/6134c1665f8756c1c12db388f3e2c832.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190816/09/be0c60ef37de45cf8108eab79f42d5a9.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

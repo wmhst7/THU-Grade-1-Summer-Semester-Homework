@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：湖人已完成与诺阿和霍华德的试训及会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1164922835946627073" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 23:31:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：湖人已完成与诺阿和霍华德的试训及会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190823/4373642773f1e64c8fe0ff62c82f2736de4ab76f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，当地时间周四，湖人已完成与乔金-诺阿和德怀特-霍华德的试训及会面。
+   </p>
+   <p>
+    此外，湖人将在今日与马利斯-斯贝茨进行试训和会面。
+   </p>
+   <p>
+    根据Woj报道，诺阿和霍华德的表现让湖人管理层认为他们都可以为球队做出贡献。
+   </p>
+   <p>
+    相关链接：
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2467473.html">
+     Woj：湖人计划与诺阿、霍华德和斯贝茨进行试训
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

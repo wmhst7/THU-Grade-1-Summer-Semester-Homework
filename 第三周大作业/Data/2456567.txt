@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹米奇恢复情况良好，已经可以下床站立
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/910223/kuzmic-to-move-from-er-to-icu/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 21:25:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹米奇恢复情况良好，已经可以下床站立" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/2cc2f4fab765a96d73fdea27f5de41663f038c01.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 贝尔格莱德红星篮球俱乐部更新了奥格年-库兹米奇的最新情况，库兹米奇目前感觉更好了，并且计划在周一从急诊室转到加护病房。
+   </p>
+   <p>
+    库兹米奇在当地时间7月14日早上遭遇一起严重车祸，随后被送往当地医院，库兹米奇头部多处受伤，面骨和下巴多处骨折，胸部和肺部受伤，随后库兹米奇被直升飞机送往贝尔格莱德的医院接受进一步治疗。
+   </p>
+   <p>
+    目前库兹米奇情况稳定，每天都在变好，他已经完全恢复了意识，没有生命危险。
+   </p>
+   <p>
+    另外，库兹米奇现在可以完全离开自己的床位站立，他的恢复很不错。
+   </p>
+   <p>
+    库兹米奇曾在勇士效力2个赛季，并且在2015年跟随勇士拿到NBA总冠军。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：没想到能交易得到威少，与雷霆谈了6天交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dpshow/status/1155930995855699968" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 07:50:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：没想到能交易得到威少，与雷霆谈了6天交易" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/47f497d2192f6611a56df319b6b308c74b236e7a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 火箭总经理达雷尔-莫雷作客丹-帕特里克秀时谈到了拉塞尔-威斯布鲁克的交易。
+   </p>
+   <p>
+    “这笔交易完成地很快，很明显的是，保罗-乔治的交易为这笔交易带来了机会，在那之前，我都没有想到能得到威斯布鲁克，然后交易谈了差不多6天。”莫雷说道。
+   </p>
+   <p>
+    所以莫雷在乔治交易后就联系了雷霆总经理萨姆-普雷斯蒂是否会交易威斯布鲁克？莫雷说：“不太对，我当时差不多就是在问他们球队的前进方向，因为像乔治那样的交易发生后，球队总是会朝着一个不同的方向前进。”
+   </p>
+   <p>
+    “在询问了他们的前进方向后，我们聊了聊他们交易走队中其他重要球员的可能性，然后我跟老板和德安东尼教练聊了，还有哈登，问问关于威斯布鲁克的交易，然后就是搞定交易细节的问题了。”莫雷说道。
+   </p>
+   <p>
+    哈登当时什么反应？莫雷说：“非常感兴趣，他知道他们俩一起打球时候的表现不错，他们之前在雷霆打过球，还有在美国男篮打过球，小时候一起长大，他非常感兴趣。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

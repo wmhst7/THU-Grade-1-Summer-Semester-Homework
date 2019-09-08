@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：奇才正式任命汤米-谢波德为球队总经理
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.hoopsrumors.com/2019/07/wizards-officially-announce-front-office-changes.html" target="_blank">
+     HoopsRumors
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 23:01:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：奇才正式任命汤米-谢波德为球队总经理" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/7271fb112b0dfe9568219fcdf3e800733c5f2831.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 奇才官方今日正式任命汤米-谢波德为球队总经理。谢泼德此前担任奇才篮球运营副总裁，在今年4月初，奇才解雇了厄尼-格伦费尔德，谢泼德成为球队临时总经理。
+   </p>
+   <p>
+    此外，奇才官方还宣布了其他人事变更。
+   </p>
+   <p>
+    前NFL联盟高管Sashi Brown将担任篮球规划及运营主管，他在2016年至2017年曾就职于克利夫兰布朗队。
+   </p>
+   <p>
+    前费城76人队球员关怀副总裁Daniel Medina将担任奇才球员运动表现主管。
+   </p>
+   <p>
+    前乔治城大学和普林斯顿大学主教练John Thompson III将领导球队的球员发展部门。
+   </p>
+   <p>
+    “我们已经组建了一支具有前瞻思维的全新领导团队，以适应全新的NBA趋势。在当今联盟之中，你需要充分利用一切策略优势去努力竞争，”球队老板Ted Leonsis在官方声明中说道，“我们打造的管理团队坚信奇才的篮球文化，并且具有丰富的来自NBA内外的专业经验，能够思考并应对激烈程度与日俱增的竞争环境。”
+   </p>
+   <p>
+    Sashi Brown和Daniel Medina的工作重心将集中于WNBA华盛顿神秘人队以及奇才下属的发展联盟球队首都Go-Go队；谢泼德将全面掌管奇才的篮球运营部门，包括领导策略，分析，球员，球探和教练等诸多方面。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

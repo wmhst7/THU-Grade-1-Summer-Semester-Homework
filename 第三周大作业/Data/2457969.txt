@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：人生不会总是一帆风顺，过往经历帮助我成长
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/nba/2019/07/24/lakers-frank-vogel-lebron-james-magic-johnson-clippers-warriors?utm_campaign=sinow&amp;utm_medium=social&amp;xid=socialflow_twitter_si&amp;utm_source=twitter.com&amp;__twitter_impres" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 20:52:46
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：人生不会总是一帆风顺，过往经历帮助我成长" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/fcd4dc42cefa65572294123bef95fac956482c84.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 湖人主帅弗兰克-沃格尔近日接受《体育画报》专访谈到了关于执教湖人的一些话题。
+   </p>
+   <p>
+    谈到在经历两个不如意的赛季后被魔术解雇并赋闲一个赛季，沃格尔说：“没能取得像我执教印第安纳那般的成功，所以确实感觉联盟范围内对我的兴趣不是那么强烈。我不确定我是否会说出现了自我怀疑，但它确实对你造成了伤害。归根结底，我们都是人，当你没能取得理想中的成功，也就是作为教练你希望自己可以引领任何球队，让他们努力打球，团结起来，提升防守然后赢球，你懂我的意思吧？但人生并不总是一帆风顺的，谁也不会永远成功。”
+   </p>
+   <p>
+    “不过世界上最好的一些教练也曾经历球星不和，诸事不顺，对此你必须保留看待问题的角度，汲取许多自信，相信你过往的成功和经验有助于你的下一次机会。这就是我对当前湖人机遇的感受。我觉得每一次机会都是我的一段学习经历，塑造我的成长，帮助我在湖人成为一名更好的教练。”沃格尔说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,63 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勇士在努力说服达米恩-李接受双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1073433/2019/07/12/thompson-the-warriors-defensive-void-a-possible-iguodala-return-adams-new-role-and-much-more/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 18:44:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勇士在努力说服达米恩-李接受双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190713/9654db7ef11acfa15189dc2ff87ce92ba585c55e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 根据The Athletic记者Marcus Thompson II的报道，多位消息人士透露，勇士在努力说服达米恩-李接受他们的双向合同。
+   </p>
+   <p>
+    勇士之前为李开出了资质报价，现在他是一名受限制自由球员，勇士可以匹配其他球队为李开出的邀请报价。
+   </p>
+   <p>
+    根据《旧金山纪事报》记者Connor Letourneau的报道，勇士已经为李开出了一份双向合同，但是他还没有接受。
+   </p>
+   <p>
+    2018-19赛季常规赛，李作为勇士的双向合同球员场均出战11.7分钟得到4.9分2篮板0.4助攻，他是勇士球员斯蒂芬-库里的妹夫。
+   </p>
+   <p>
+    双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得更多的工资，此举的目的是希望他们不要前往海外打球。
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/index.php?title=%E5%8F%97%E9%99%90%E5%88%B6%E8%87%AA%E7%94%B1%E7%90%83%E5%91%98&amp;redirect=no#.E8.B5.84.E8.B4.A8.E6.8A.A5.E4.BB.B7">
+     相关科普：什么是资质报价？
+    </a>
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/%E5%8F%97%E9%99%90%E5%88%B6%E8%87%AA%E7%94%B1%E7%90%83%E5%91%98#.E9.82.80.E8.AF.B7.E6.8A.A5.E4.BB.B7">
+     相关科普：什么是邀请报价？
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

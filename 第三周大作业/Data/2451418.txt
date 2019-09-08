@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：热火正式签下新秀KZ-奥克帕拉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/heat/news/heat-signs-kz-okpala-190707?utm_medium=social&amp;utm_source=twitter_heat&amp;utm_campaign=heatdotcom_pressrelease" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 08:59:59
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：热火正式签下新秀KZ-奥克帕拉" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190708/74d1e83f935c9d75455ab6543059091d1b2f0413.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 今日，热火正式签下今年选秀大会的次轮第2顺位新秀KZ-奥克帕拉。
+   </p>
+   <p>
+    据记者Anthony Chiang报道，热火与奥克帕拉的合同具体为三年420万美元的新秀底薪合同，其中第一年的薪水为约90万美元。
+   </p>
+   <p>
+    奥克帕拉今年20岁，身高2.07米，体重95公斤，司职小前锋，2018-19赛季NCAA为斯坦福大学出场29次（均为首发），场均32.7分钟，能贡献16.9分5.7篮板2.0助攻1.0抢断0.5盖帽，投篮命中率46.3%，其中三分球命中率36.8%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

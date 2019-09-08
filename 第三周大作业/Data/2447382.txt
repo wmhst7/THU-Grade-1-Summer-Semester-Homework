@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA正式探讨增设赛季中期锦标赛以及缩短常规赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kevinarnovitz/status/1143907377562783744" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 00:19:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA正式探讨增设赛季中期锦标赛以及缩短常规赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/7a7dde78c17c67723f48efc257066ee032145610.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据NBA记者Kevin Arnovitz报道，NBA在正式探讨增设赛季中期锦标赛、季后赛先行赛（play-in tournament），同时考虑缩短82场常规赛赛制。
+   </p>
+   <p>
+    在当地时间6月17日的电话会议上，由多支顶尖球队高管组成的委员会和联盟办公室商讨了在2021-22赛季对传统NBA赛程改革一事。
+   </p>
+   <p>
+    消息人士透露，上述提及的改革提议会作为试点计划运行。NBA会观察试验情况，评估该计划的长期可行性。
+   </p>
+   <p>
+    提倡改革之众相信，先行赛和中期锦标赛带来的场馆收入可以在未来弥补常规赛缩短所带来的经济损失。
+   </p>
+   <p>
+    在电话会议上，关于将常规赛缩短至多少场一事，各方讨论下来的范围在58场——58场能保证每支球队在一个赛季期间于自家主场和其他29支球队打1场比赛——至仅减少少量比赛之间。
+   </p>
+   <p>
+    若想实现改革，NBA需要征得无数利益相关群体、球员工会、管理层、全美和当地广播合作伙伴、赞助商以及其他人的配合。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

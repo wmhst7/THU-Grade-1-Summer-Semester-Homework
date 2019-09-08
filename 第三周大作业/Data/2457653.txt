@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦斯特：没怎么参与到伦纳德的事宜，你们别总夸我
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/24/jerry-west-kawhi-leonard-clippers/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-24 22:34:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦斯特：没怎么参与到伦纳德的事宜，你们别总夸我" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190724/a8a3a8bdadbe0b84a1298f2920a8e58efe4ad473.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月24日讯 快船顾问杰里-韦斯特今天接受了记者的采访，谈到了关于快船在休赛期得到科怀-伦纳德的话题。
+   </p>
+   <p>
+    他表示自己一直在躲避大家因为快船得到伦纳德而对他的赞美，他说道：“我都没怎么参与其中，好吗？这都是我们管理层的功劳，劳伦斯-弗兰克（篮球运营总裁）、迈克尔-温格（总经理），所有与此相关的人，这是他们的功劳。”
+   </p>
+   <p>
+    同时他也对下个赛季十分期待，他说：“随着AD（安东尼-戴维斯）联手勒布朗-詹姆斯，对于洛杉矶的球迷而言，会非常有趣。”
+   </p>
+   <p>
+    他还表示：“我不觉得我们现在是担心冠军的时候，我们更多是担心如何度过这个赛季，以及我们能打成什么样。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

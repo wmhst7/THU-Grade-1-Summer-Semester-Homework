@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  灰熊将拉布新赛季合同转为全额受保障的日期推迟到10月
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/mymikecheck/status/1150582539070910464?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 14:23:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="灰熊将拉布新赛季合同转为全额受保障的日期推迟到10月" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/5fd243c53344a69d1605e8e06842d881ef688e87.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 根据灰熊官网记者Michael Wallace的报道，他听说灰熊和伊万-拉布方面都已经同意将拉布新赛季合同转为全额受保障的日期推迟到10月中旬。
+   </p>
+   <p>
+    拉布2019-20赛季的合同为162万美元，但是只有37万美元受保障，如果在当地时间7月15日拉布还没有被裁掉的话，那么他新赛季的合同将转为全额受保障。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉布共上场49次，场均上场14.7分钟得到5.8分4.2篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

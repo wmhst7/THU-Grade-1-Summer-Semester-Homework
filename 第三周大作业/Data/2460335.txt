@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  安东尼团队曾与美国队讨论回归事宜，最终双方决定不合作
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1106151/2019/07/31/charania-examining-carmelo-anthonys-uncertain-basketball-future-which-wont-include-team-usa/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-01 03:56:08
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="安东尼团队曾与美国队讨论回归事宜，最终双方决定不合作" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190801/30504bc6ab13177e663ad94d56e5cf403e14859a.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月1日讯 The Athletic记者Shams Charania今天发布长文，讨论自由球员卡梅罗-安东尼上赛季的情况和可能的未来。
+   </p>
+   <p>
+    据文章报道，安东尼的团队曾与美国男篮国家队讨论过今夏回归出战世界杯的事宜。35岁的老兵安东尼能使美国队受益，同时出战世界杯也给安东尼证明自己仍能保持高水平的机会。
+   </p>
+   <p>
+    但双方最终决定，安东尼不会代表美国队出战今夏的世界杯，同时美国队方面非常感谢安东尼多年来为国家队的付出。
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼代表火箭上场10次，场均上场29.4分钟，得到13.4分5.4篮板。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2458426&amp;type=1&amp;entrance=26">
+     Shams：美国男篮不会为卡梅罗-安东尼发出训练营邀请
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

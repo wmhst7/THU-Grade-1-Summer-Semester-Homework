@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：国王签约新秀贾斯廷-詹姆斯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/kings/news/kings-sign-justin-james" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 07:30:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：国王签约新秀贾斯廷-詹姆斯" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/3dba5386928f1e84518345ba67c0807c69c6cc23.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 国王官方今日宣布，他们已经与贾斯廷-詹姆斯签约，根据球队的政策，合同的细节没有被公布。
+   </p>
+   <p>
+    詹姆斯是今年选秀大会的40号秀，22岁的詹姆斯身高2.01米，体重83公斤，来自怀俄明大学。今年，国王并没有首轮新秀，另外选中的两名二轮秀分别是55号秀凯尔-盖伊和60号秀瓦尼亚-马林科维奇。
+   </p>
+   <p>
+    2018-19赛季，贾斯廷-詹姆斯在怀俄明大学场均出战38.2分钟，可以拿到22.1分4.4助攻8.5篮板1.5抢断。
+   </p>
+   <p>
+    根据NBC体育记者James Ham的报道，一位联盟消息人士透露，国王与詹姆斯签下了一份3年底薪合同。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

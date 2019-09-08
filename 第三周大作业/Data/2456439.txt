@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拜仁官方致谢库兹马，卡鲁索留言吐槽：说出5个球员名字
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0KXfOHpRWo/?igshid=5g78inqrzq4a" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 14:39:48
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拜仁官方致谢库兹马，卡鲁索留言吐槽：说出5个球员名字" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190721/100b67d10773be8e0c676b60d029645e0a2c4a02.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 湖人前锋凯尔-库兹马此前
+    <a href="https://voice.hupu.com/nba/2456377.html">
+     通过Instagram晒出他与拜仁前锋莱万多夫斯基的合影
+    </a>
+    ，拜仁官方和队友亚历克斯-卡鲁索、凯尔特人前锋杰伦-布朗均留言与库兹马展开互动。
+   </p>
+   <p>
+    拜仁官方写道：“谢谢支持，Kuz！”
+   </p>
+   <p>
+    布朗写道：“这很让人难受。”
+   </p>
+   <p>
+    卡鲁索写道：“不过，请说出5个球员的名字……”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190721/14/12bc079d191a878d9905df7c61a56ad9.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

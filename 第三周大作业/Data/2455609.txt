@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：哈登成为休斯顿迪纳摩队和达斯队的股东之一
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JHarden13/status/1149653052082671625" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-19 02:32:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：哈登成为休斯顿迪纳摩队和达斯队的股东之一" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190719/d63e44ab5733028f1f1e45fd2c0671eb546c91f4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月19日讯 今日美国职业足球大联盟球队休斯顿迪纳摩队，以及美国女子职业足球联盟球队休斯顿达斯队官方宣布，火箭球员詹姆斯-哈登正式成为两支球队的股东之一。
+   </p>
+   <p>
+    哈登在声明中写道：“我很激动有机会成为休斯顿迪纳摩队和休斯顿达斯队的股东之一，这是一支拥有辉煌历史和光明未来的俱乐部，我对于成为其中的一部分感到自豪。休斯顿现在是我的家，我将此次机遇看作是投资我城市的发展以及扩张我个人的商业版图。在我的这一生中，足球在我们国家的发展十分迅速，尤其是美国职业足球大联盟。多年来，我一直是足球比赛的粉丝，我也知道休斯顿有很棒的足球球迷基础，所以当这个机会出现时，对我来说这是一个轻松的决定。”
+   </p>
+   <p>
+    休斯顿迪纳摩队和休斯顿达斯队的大股东加布里尔-勃兰诺在声明中写道：“我们很激动地欢迎哈登加入我们的俱乐部。他是休斯顿社区的名人，他不仅仅是一名出色的篮球运动员，也有极其聪明和商业头脑和洞察力。他将会为我们的股东大会提供十分独特的看法，我很期待听到他对于球队未来发展的想法和意见。”
+   </p>
+   <p>
+    2018-19赛季常规赛，哈登场均上场36.8分钟，得到36.1分6.6篮板7.5助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

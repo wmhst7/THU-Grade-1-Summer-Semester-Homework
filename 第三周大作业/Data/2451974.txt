@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库克：能够为湖人效力对于我和我的家人而言像是梦想成真
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBATV/status/1148471121794064384" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 14:50:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库克：能够为湖人效力对于我和我的家人而言像是梦想成真" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190709/e877c92d248b9378ece2d6deab17d202ee1b8b3d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 湖人新援奎因-库克在今日现场观战夏季联赛时接受了媒体采访。
+   </p>
+   <p>
+    谈到加盟湖人，库克说：“我的父亲是一名忠实的湖人球迷，他的狂热程度可能会超出你的想象，我从小就受到了他的熏陶。除此之外，在湖人效力能够离我的家人更近一些，自从我进入NBA，他们就从支持湖人转变为支持我所效力的球队。现在我获得了为湖人效力的机会，这对于我和我的家人而言就像是梦想成真。”
+   </p>
+   <p>
+    谈到在湖人的前景，库克说：“我在今天和沃格尔教练、基德教练进行了一些交流，我们有一个全队都在的聊天群，我们就像是家人一样。但当我穿上那件湖人球衣，和我的队友们一起训练，那种感觉肯定会非常特别，总而言之，我对这样的机会心怀感激。”
+   </p>
+   <p>
+    据此前雅虎记者Chris Haynes报道，库克以2年600万美元的合同加盟湖人。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

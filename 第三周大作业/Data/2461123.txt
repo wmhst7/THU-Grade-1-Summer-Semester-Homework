@@ -1,0 +1,80 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  部分转会球员战前东家日程：伦纳德12/12威少1/10乔治3/3
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1157376397603684352?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 03:51:13
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="部分转会球员战前东家日程：伦纳德12/12威少1/10乔治3/3" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/08be075b3a54b7e34f2ee8463c1d66ac48a12aa2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 据The Athletic记者Shams Charania报道，随着新赛季赛程逐渐公布，部分今年夏天转会球员对阵前东家的日程也随之曝光（按时间先后排序）：
+   </p>
+   <p>
+    独行侠球员克里斯塔普斯-波尔津吉斯将在11月15日将回到纽约挑战尼克斯，波尔津吉斯今夏休赛期与独行侠签下了一份5年1.58亿美元的续约合同；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5lzjyyvf1j20nm0fkjsy.jpg"/>
+   </p>
+   <p>
+    湖人球员安东尼-戴维斯将在11月28日回到新奥尔良挑战鹈鹕，戴维斯今夏休赛期交易至湖人，目前的合同2021年到期，2020-21赛季为球员选项；
+   </p>
+   <p>
+    <img alt="" src="http://ww1.sinaimg.cn/large/9c07a299gy1g5lzk8szbzj218g0p0ao0.jpg"/>
+   </p>
+   <p>
+    篮网球员凯里-欧文将在11月28日回到波士顿挑战凯尔特人，欧文今夏休赛期以自由球员身份4年1.42亿美元签约篮网；
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/04/2cb32f81745af166864c445d8fb8a6f2.jpg"/>
+   </p>
+   <p>
+    快船球员科怀-伦纳德将在12月12日回到多伦多挑战猛龙，伦纳德今夏休赛期以自由球员身份3年1.03亿签约快船；
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/04/757352f4b919e3dab40a5958b026706d.jpg"/>
+   </p>
+   <p>
+    火箭球员拉塞尔-威斯布鲁克将在1月10日回到俄克拉荷马挑战雷霆，威斯布鲁克今夏休赛期被交易至火箭，目前的合同2023年到期，2022-23年为球员选项；
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/04/939e6c0125741ce4611cc82962da25ce.jpg"/>
+   </p>
+   <p>
+    快船球员保罗-乔治将在3月3日回到俄克拉荷马挑战雷霆，保罗-乔治今夏休赛期交易至快船，目前的合同2022年到期，2021-22赛季为球员选项。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/04/b301a8a61a726fa7ff6349f7e6b2d838.jpg"/>
+   </p>
+   <p>
+    以上时间皆为北京时间。虎扑将在本条新闻实时更新转会球员战前东家赛程。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

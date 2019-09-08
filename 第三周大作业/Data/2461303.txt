@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  豪斯：很开心威少加盟球队，已经等不及去训练了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kellyikonba/status/1157373698002886657?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 18:43:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="豪斯：很开心威少加盟球队，已经等不及去训练了" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/08da19139ca9b9e30a1a65346d7120d5c77422bd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 火箭的丹纽尔-豪斯接受了The Athletic记者Kelly Iko的采访，他谈到了新队友拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    在之前的一笔交易里，火箭交易得到了威斯布鲁克，他们为此送出了克里斯-保罗和选秀权。
+   </p>
+   <p>
+    “我很开心他来到了我们球队，已经等不及去训练了，对我们来说，这会是一个有趣的赛季，就是需要保持专注和继续进步。”豪斯说道。
+   </p>
+   <p>
+    豪斯今夏以3年1110万美元的合同续约火箭，2018-19赛季常规赛，豪斯场均出战25.1分钟得到9.4分3.6篮板1助攻，季后赛豪斯场均出战20.1分钟得到4.9分3.1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

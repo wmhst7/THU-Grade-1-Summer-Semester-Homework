@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Begley：篮网并不是最有希望签下杜兰特的球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/sources-nets-not-the-favorites-to-sign-knicks-free-agent-target-kevin-durant/308563782" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 21:39:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Begley：篮网并不是最有希望签下杜兰特的球队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/2f1011bb062e836991099c2daf49ef34ad51b359.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 据SNY记者Ian Begley报道，篮网并不是凯文-杜兰特争夺战的领跑者。
+   </p>
+   <p>
+    Ian Begley表示外界关于篮网是杜兰特下家最大热门的报道并不准确，据了解此事的消息人士透露，篮网并不是最有希望签下杜兰特的球队。
+   </p>
+   <p>
+    消息人士透露，杜兰特与其经纪人Rich Kleiman目前都在纽约，他们一度讨论了前往洛杉矶展开自由球员会面的可能性，但杜兰特团队预计将留在纽约进行会面。
+   </p>
+   <p>
+    Ian Begley表示，尽管杜兰特遭遇了严重的跟腱伤病，但依旧没有任何理由相信追逐他的球队不会为他提供顶薪。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

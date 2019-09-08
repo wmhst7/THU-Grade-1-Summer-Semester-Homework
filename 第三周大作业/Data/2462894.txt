@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  为国出征！卡佩拉社交媒体晒出自己身披国家队战袍照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B03e__MH0NE/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 09:35:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="为国出征！卡佩拉社交媒体晒出自己身披国家队战袍照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/a62dfc8745954c52132850a908ee29f0c638d25c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 今日，火箭中锋克林特-卡佩拉更新社交媒体Instagram，晒出自己身披国家队战袍照片（见新闻配图）。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡佩拉场均出场33.6分钟，可以得到16.6分12.7篮板1.4助攻1.52封盖。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190808/09/1e320442f9b5e2a02d8a10de8a6c31b2.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

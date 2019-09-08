@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭计划在新赛季训练营开始前进行合练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Rockets_Insider/status/1154834754736463873" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-27 22:02:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭计划在新赛季训练营开始前进行合练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190727/bb6f3e519ee81a942f51df59742d4c46eed0dd2d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月27日讯 根据The Athletic记者Alykhan Bijani的报道，火箭的消息人士透露，火箭正在制定计划，他们打算在新赛季训练营开始前进行合练。
+   </p>
+   <p>
+    火箭最近几个赛季都在官方训练营开始前进行了合练，他们之前2年都在巴哈马举行了训练营。
+   </p>
+   <p>
+    训练营的目的是为了增进队友之间的了解和默契，培养化学反应。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

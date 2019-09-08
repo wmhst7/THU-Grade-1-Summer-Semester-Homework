@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷更新社媒晒出哈登与火箭众将训练视频：四分线的投篮
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1HYT2aB_0H/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 11:52:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷更新社媒晒出哈登与火箭众将训练视频：四分线的投篮" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/1805f4e67a064fe46f6ed1190815616060c3117f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 今日，火箭总经理达雷尔-莫雷更新了个人社交媒体Instagram晒出火箭后卫詹姆斯-哈登与火箭众将在UCLA一起训练的视频（见GIF）。其中哈登命中了一记长远三分。
+   </p>
+   <p>
+    莫雷发文说道：“只要是你想做的事情你都会做好。来自四分线的投篮命中。”
+   </p>
+   <p>
+    <img alt="GIF 4.1M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/11/a7743cbea17f15c1eb57dd2630f89bb6.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3.8M" src="https://c1.hoopchina.com.cn/uploads/images/20190814/11/012131c864e225a00aa1bc7530287816.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,69 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加拿大篮协公布29人训练营名单：默里、巴雷特领衔
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://basketball.ca/en/news-article/30-athletes-invited-to-attend-senior-mens-national-team-training" target="_blank">
+     加拿大篮协官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 08:00:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加拿大篮协公布29人训练营名单：默里、巴雷特领衔" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190717/5daa1219af34f4452ef6a3ac454c6f991cb4172c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 加拿大篮协公布了2019年男篮世界杯前，参与训练营的29人名单：
+   </p>
+   <p>
+    后卫：尼基尔-亚历山大-沃克（鹈鹕）、RJ-巴雷特（尼克斯）、阿龙-贝斯特（德国联赛）、吕冈茨-多尔特（雷霆）、谢伊-吉尔杰斯-亚历山大（雷霆）、布雷迪-赫斯利普（土耳其联赛）、科里-约瑟夫（国王）、纳兹-米特鲁-朗（发展联盟）、贾马尔-默里（掘金）、安德鲁-南布哈德（弗罗里达大学）、凯文-潘戈斯（西班牙巴塞罗那队）、菲尔-斯克鲁布（俄罗斯泽尼特队）、安迪-劳丁斯（土耳其联赛）、尼克-斯陶斯卡斯（骑士）
+   </p>
+   <p>
+    前锋：奥谢-布里塞特（锡拉丘兹大学）、狄龙-布鲁克斯（灰熊）、阿龙-多内坎普（西班牙巴伦西亚队）、梅尔文-埃希姆（俄罗斯联赛）、菲翁杜-卡本盖莱（快船）、特雷-莱尔斯（马刺）、凯利-奥利尼克（热火）、德怀特-鲍威尔（独行侠）、托马斯-斯克鲁布（意大利联赛）、马里亚尔-沙约克（76人）、凯尔-威尔哲​（西班牙联赛）
+   </p>
+   <p>
+    中锋：肯-伯奇（魔术）、克里斯-布歇（猛龙）、布兰登-克拉克（灰熊）、特里斯坦-汤普森（骑士）
+   </p>
+   <p>
+    猛龙主教练尼克-纳斯将出任主教练一职。
+   </p>
+   <p>
+    此前承诺参加世界杯的森林狼前锋-安德鲁-威金斯没有进入训练营名单。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="https://bbs.hupu.com/28013822.html">
+     威金斯已经承诺今夏代表加拿大出战男篮世界杯
+    </a>
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2446585&amp;type=1">
+     官宣：尼克-纳斯正式成为加拿大男篮主教练
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

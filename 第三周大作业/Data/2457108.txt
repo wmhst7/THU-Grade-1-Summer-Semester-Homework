@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  泰厄斯-琼斯祝女友生日快乐：感谢天使般的你
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0Piby3gTlU/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-23 11:46:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="泰厄斯-琼斯祝女友生日快乐：感谢天使般的你" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190723/ef46d11d3088041c66b99fb8e90d4cfdfe857aeb.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月23日讯 今天灰熊球员泰厄斯-琼斯在Instagram上晒出了女友Carrie的照片，以及两人的合影。
+   </p>
+   <p>
+    琼斯写道：“生日快乐！！我最好的朋友，我的搭档，我的右手，我的全世界……上帝创造了天使般的你，很幸运能和你一起分享这个美好的词‘生活’。你的信念和对我的支持是无与伦比的，感谢你！我爱你！”
+   </p>
+   <p>
+    根据此前的报道，泰厄斯-琼斯与灰熊达成了一份3年2400万美元的邀请报价协议，而森林狼则放弃匹配灰熊的报价。琼斯新赛季将身披21号球衣为灰熊出战。
+   </p>
+   <p>
+    2018-19赛季常规赛，琼斯为森林狼共出战68场比赛，场均出场22.9分钟，得到6.9分2.0篮板4.8助攻1.2抢断。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/11/12b1d6d363e6918aad74dcd1c250f7aa.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/11/e409c29af651bc8ae73732f9b1be50bc.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/11/82a9581cd8bc2a7ec43459e67efa438d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190723/11/af7adc78dec445e7ad7417e59ac70564.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

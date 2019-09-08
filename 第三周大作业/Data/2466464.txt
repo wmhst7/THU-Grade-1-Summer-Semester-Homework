@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  悠闲惬意！乐福晒与好友一起在海边度假的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1RVOc4AfhT/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-18 00:35:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="悠闲惬意！乐福晒与好友一起在海边度假的照片" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190818/6c95e347dfd91a419c669e4c8ebd09a298e87978.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月18日讯 今日，骑士球员凯文-乐福更新个人Instagram，晒出一张自己与好友一起在海边度假的照片，并配文：“偶尔。（摊手表情）（摊手表情）（摊手表情）”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190818/00/8b26448abb8290b3052625a36627e115.jpg"/>
+   </p>
+   <p>
+    2018-19赛季常规赛，乐福因接受足部手术仅出战22场比赛，场均出场27.2分钟，得到17分10.9篮板2.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

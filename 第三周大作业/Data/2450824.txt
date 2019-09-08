@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  雷霆在与快船的交易中得到5个首轮签及两个首轮互换权
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheSteinLine/status/1147398587116118017" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 14:58:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="雷霆在与快船的交易中得到5个首轮签及两个首轮互换权" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/3d974cb233d5df6d6d0e2f59cb3a8244d176dd74.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据NBA记者Marc Stein报道，雷霆在与快船的交易中得到了5个首轮签及两个首轮互换权。
+   </p>
+   <p>
+    雷霆得到的是快船2022、2024、2026的首轮签，以及两个来自热火的首轮签（2021不受保护的首轮及2023年1-14顺位保护的首轮）。
+   </p>
+   <p>
+    此外，雷霆还有权与快船互换2023和2025年的首轮签。
+   </p>
+   <p>
+    根据NBA规定，球队禁止做出让其在未来连续两年内没有首轮选秀权的交易（Stepien Rule）。由于骑士老板Ted Stepien送走了骑士1982-1985的首轮签，导致球队成绩无法复苏，NBA在劳资协议里设定了此项规定。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

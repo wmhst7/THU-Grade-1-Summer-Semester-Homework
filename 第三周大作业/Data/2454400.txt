@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达米安-利拉德2K20能力值公布：92
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:32:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达米安-利拉德2K20能力值公布：92" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/e8de55209dcb2ec061bf61fea8bd780729d12749.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 2K官方的首次NBA 2K20能力值公布视频直播正在进行中，2K官方刚刚公布了开拓者球员达米安-利拉德的NBA 2K20初始能力值。利拉德的初始能力值为92。
+   </p>
+   <p>
+    在前作NBA 2K19中，利拉德的初始能力值为90。
+   </p>
+   <p>
+    2018-19赛季常规赛，利拉德共出场80次，场均35.5分钟可以得到25.8分4.6篮板6.9助攻；季后赛利拉德出场16次，场均出场40.6分钟26.9分4.8篮板6.6助攻。
+   </p>
+   <p>
+    这是2K官方首次将球员能力值以视频直播的形式集中公布。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

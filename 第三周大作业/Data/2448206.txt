@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  疯狂摇摆！詹姆斯自拍展示今日车内自嗨动态
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://Instagram.com/stories/kingjames" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 11:27:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="疯狂摇摆！詹姆斯自拍展示今日车内自嗨动态" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/44c6c79250a7775d3fe2d7fcd9aee0549f7409f4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 湖人前锋勒布朗-詹姆斯今天通过Instagram Story更新多条个人动态。
+   </p>
+   <p>
+    詹姆斯在车内连续自拍展示嗨歌状态，随后晒照分享了他的午餐。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4388474956228196">
+     视频：詹姆斯今日车内自嗨集锦（57秒）&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190629/11/b990984c672b5dc912ef0c096bacdccd.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190629/11/76f7dda205f4b155b94c533125ea4e0a.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190629/11/774fc50f40782501bbc509ac497ea88e.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190629/11/c2d18e7914c74ec64fce17303cc22605.gif"/>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

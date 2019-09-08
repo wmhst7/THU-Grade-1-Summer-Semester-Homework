@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达龙-福克斯：西部变得更强大了，但我们也值得期待
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1095340/2019/07/24/deaaron-fox-isnt-playing-games-when-it-comes-to-preparing-for-next-season/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 09:39:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达龙-福克斯：西部变得更强大了，但我们也值得期待" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/8a8ffe07bebf9801fc64f16e5b386a6549391a9e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 国王球员达龙-福克斯在近日接受媒体采访时谈到了休赛期的训练以及球队下赛季的前景。
+   </p>
+   <p>
+    国王上赛季的战绩为39胜43负，争夺季后赛席位的希望一直持续到三月底。福克斯表示球队下赛季会更加出色。
+   </p>
+   <p>
+    “我认为这有些不同，因为上赛季球队并没有获得太多期望，我们赢了一些比赛，这令人感到惊讶，”福克斯说道，“现在，随着球队阵容的进一步补强，如果我们再次打出上赛季的表现，我不认为外界应该感到惊讶。西部当然变得更强大了，但我们也值得期待。”
+   </p>
+   <p>
+    谈到球队新任主教练卢克-沃顿，福克斯说：“他很出色，我和他一同进行了几次训练，他是一个很棒的家伙，他经常给我打电话。能够与他保持交流，更加深入地去了解他，不仅是作为一名球员，更是作为一个普通人。毫无疑问，我们之间的对话很棒。”
+   </p>
+   <p>
+    “我告诉他，我会早早地回到萨克拉门托，我只是希望能够建立与他的关系和化学反应，因此在训练营开始的时候，我们就能够蓄势待发。”福克斯说道。
+   </p>
+   <p>
+    谈到休赛期的训练计划，福克斯说：“在我所打的这个位置上，你不能只擅长一件事情，你必须更加全面，我从来都不会将自己局限于某个方面。”
+   </p>
+   <p>
+    福克斯受邀入选了美国男篮梦之队陪练队，谈到是否有机会入选最终大名单，福克斯说：“有一些电话沟通，我非常期待踏上赛场和一些联盟顶级的球员竞争。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

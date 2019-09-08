@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  奥斯丁-安吉：兰福德还未全部恢复，但他十分努力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nesn.com/2019/07/austin-ainge-shares-latest-update-on-romeo-langfords-thumb-rehab/" target="_blank">
+     新英格兰体育网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 11:03:30
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="奥斯丁-安吉：兰福德还未全部恢复，但他十分努力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/719b05ea3434482f68c2f0f0eb89abd118bb376f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 凯尔特人人事主管奥斯丁-安吉最近接受了Boston Sports Journal记者Brian Robb的采访，期间他谈起了球队今夏首轮第14顺位选中的新秀罗密欧-兰福德。
+   </p>
+   <p>
+    由于接受拇指韧带撕裂修复手术，兰福德并未参加夏季联赛，奥斯丁-安吉表示，兰福德目前在十分努力的训练恢复。
+   </p>
+   <p>
+    “罗密欧（兰福德）与球队教练组在波士顿有一段时间了，他的手部也越来越好，”奥斯丁-安吉说道，“他一直在持续做着一些场上技术训练。但仍然，他还未100%恢复，但他进行了大量训练，他十分努力的让自己准备好。”
+   </p>
+   <p>
+    奥斯丁-安吉表示，尽管兰福德还未有很多比赛来展现自己，但球队仍然相信这位新秀的潜力。
+   </p>
+   <p>
+    “罗密欧（兰福德）有很好的天赋，而且他训练非常努力。对于所有年轻球员来说，我们永远都不知道他们什么时候会爆发。无论是在训练营，还是赛季初期、中期或者下个赛季，也许他们都是一样的。这不仅仅是说罗密欧，其他年轻人也是。你永远都不知道他们会何时迎来自己发展的机会，但我相信罗密欧的未来，他会成功的，而且他也会非常努力的去实现它。”奥斯丁-安吉如此说道。
+   </p>
+   <p>
+    出生于1999年的兰福德身高1.98米，体重95公斤，他在今夏首轮第14顺位被凯尔特人选中，在上赛季NCAA比赛里，兰福德为印第安纳大学共出战32场，场均34.1分钟内可以得到16.5分5.4篮板2.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

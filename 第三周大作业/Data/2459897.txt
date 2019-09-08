@@ -1,0 +1,46 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：奇才雇佣快船管理层乔尼-罗杰斯担任球员人事副总
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1156267296404451328" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 02:24:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：奇才雇佣快船管理层乔尼-罗杰斯担任球员人事副总" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/f493cd4c9e60702d6e6db6a393bcdf602957a8da.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 据NBA记者Adrian Wojnarowski报道，联盟消息人士透露，奇才总经理汤米-谢泼德雇佣快船管理层乔尼-罗杰斯担任球员人事副总（Pro Personnel）。
+   </p>
+   <p>
+    罗杰斯在任职快船和雷霆期间，以出色的球探技能建立起了强大的口碑。
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

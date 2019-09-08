@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  德安德烈-亨特NBA2K20能力值公布：77
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1M13j1hgi6/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 06:30:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="德安德烈-亨特NBA2K20能力值公布：77" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/80439fe6462822939a0d50faba836a2dab545b29.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 今日老鹰新秀德安德烈-亨特公布了自己的NBA2K20游戏能力值，能力值为77。
+   </p>
+   <p>
+    “梦想成真。”亨特写道。
+   </p>
+   <p>
+    亨特在2019年选秀大会上被湖人在首轮第四顺位被选中，随后被交易至老鹰。
+   </p>
+   <p>
+    2018-19赛季NCAA，亨特场均上场32.5分钟，得到18.5分6.4篮板3.7助攻1.4抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

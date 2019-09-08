@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  坎特：肩伤已经恢复，很期待在凯尔特人的新赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1164405/2019/08/28/that-3-point-line-aint-just-for-decoration-behind-the-scenes-of-enes-kanters-mission-to-make-danny-ainges-dreams-come-true/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-30 12:41:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="坎特：肩伤已经恢复，很期待在凯尔特人的新赛季" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190830/28d3be4d5e27571f9250479a86a5907b624bc5cc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月30日讯 凯尔特人内线埃内斯-坎特前不久接受了The Athletic记者Jared Weiss的采访，期间他谈到了自己肩部伤势和在夏天的训练。
+   </p>
+   <p>
+    坎特表示，夏天开始他一直在波士顿训练，目前已经返回纽约，但他仍然在坚持训练，尤其是在3分球方面。
+   </p>
+   <p>
+    “在介绍我们加盟的发布会上，丹尼-安吉俯身对我和肯巴（沃克）说，‘你知道吗？那个三分线不是用来装饰的。’”坎特笑着回忆道。
+   </p>
+   <p>
+    于是今年夏天坎特一直在练习3分球，而且他还在波士顿遇到了之前在爵士的老队友戈登-海沃德。
+   </p>
+   <p>
+    “当我在波士顿的时候，我和海沃德打过2对2比赛，我感觉他获得了更多自信，”坎特说道，“当他打球时，他无所畏惧。当时是我，戈登（海沃德），杰伦-布朗和塔科（法尔），我还防守了塔科-法尔。他也是个很好的家伙，我爱他，他性格超级好，而且非常努力。能和他在一起，我特别开心。”
+   </p>
+   <p>
+    “之前在波特兰和纽约时，他们更多想让我去做掩护和挡拆，而来到波士顿，我会更多去出手投篮。”坎特接着说道。
+   </p>
+   <p>
+    “投篮最重要的是自信，”坎特说道，“我记得离开纽约加盟开拓者后，那里教练告诉我投篮要带有自信，尤其是当达米安（利拉德）和CJ（麦克勒莫）也一直说，‘伙计，别担心，我们想让你投篮的。’”
+   </p>
+   <p>
+    坎特表示，除了投篮外，这个夏天他还特别训练了身体的敏捷性和平衡性。
+   </p>
+   <p>
+    “无论任何时候，你接到球，就必须要处于有利位置，”坎特说道，“如果你站得太高，如果你不愿去弯腰接球，那么你就要把球从地上捡起来，这就会多花2秒钟的时间。”
+   </p>
+   <p>
+    上赛季季后赛期间，坎特肩部受伤提前退出了比赛，不过现在他表示，自己的肩膀已经恢复健康。
+   </p>
+   <p>
+    “最重要的是我的肩膀已经感觉良好，”坎特说道，“最近是我自上赛季季后赛以来第一次打全场5对5比赛，现在我的肩膀感觉已经完全准备好了。”
+   </p>
+   <p>
+    “新赛季在凯尔特人，我不会想太多。只要带着自信出手就够了，如果思考太多，那就会错过机会。而一旦错过了，那就不要后悔，做好下一次，就是这样。”坎特最后如此说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：刘旭)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

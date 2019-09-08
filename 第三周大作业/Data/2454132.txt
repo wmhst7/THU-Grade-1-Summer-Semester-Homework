@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯：如果球队有需要，我愿意打中锋
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ocregister.com/2019/07/14/lakers-coach-frank-vogel-is-eager-to-show-his-evolution/" target="_blank">
+     橘郡纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 14:08:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯：如果球队有需要，我愿意打中锋" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/77d1b1402ca74eee00cb91bbdb159c8dd1425237.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 昨日，湖人为安东尼-戴维斯的加盟举行了新闻发布会。戴维斯在接受采访时谈到了新赛季在场上的位置等相关话题。
+   </p>
+   <p>
+    尽管之前安东尼-戴维斯明确表示他的理想位置是大前锋而非中锋，他在发布会上对湖人新任主教练弗兰克-沃格尔说：“如果真的到了需要我打中锋的时候，我会打中锋的。”
+   </p>
+   <p>
+    虽然戴维斯不愿考虑训练和上场时间管理的问题，沃格尔称他会在某一时间点进行轮休。轮休决定将由球队医疗组作出。医疗组可能还会与詹姆斯和戴维斯商量训练安排。“我会同意这种讨论的进行。”沃格尔说。
+   </p>
+   <p>
+    沃格尔对德马库斯-考辛斯的加盟表示乐观：“我认为今年他有望真正找回他的状态，如果他做到了，我们将拥有比赛中最有力量，最具统治力的球员之一。”
+   </p>
+   <p>
+    2018-19赛季常规赛，安东尼-戴维斯场均出场33分钟，得到25.9分12篮板3.9助攻；德马库斯-考辛斯场均出场25.7分钟，得到16.3分8.2篮板3.6助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

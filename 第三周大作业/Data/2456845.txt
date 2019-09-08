@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  恩比德波什等人将参加今年NBA非洲篮球无国界活动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/NBA_Africa/status/1153236315267375105" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 18:14:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="恩比德波什等人将参加今年NBA非洲篮球无国界活动" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/04fcbf5d7066e782b622cf754d491fb04919b9ae.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 今日NBA官方公布了2019年非洲篮球无国界活动的参加球员名单，本次训练营将在当地时间7月28日-31日在塞内加尔进行。
+   </p>
+   <p>
+    参加本次训练营的现役及退役NBA球员包括乔尔-恩比德、克里斯-波什、马尔科姆-布罗格登、洛尔-邓、戈尔吉-吉昂、卢克-巴莫特、塔科-法尔、马马杜-恩迪亚耶、波尼菲斯-东和迪肯贝-穆托姆博。
+   </p>
+   <p>
+    此外，篮网主帅肯尼-阿特金森、快船主帅道格-里弗斯和尼克斯主帅大卫-菲兹代尔也将参加本次训练营活动。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  喜结良缘！施罗德在个人社交媒体宣布婚讯
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0MAnOCgEod/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 07:03:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="喜结良缘！施罗德在个人社交媒体宣布婚讯" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190722/8be9863dc820ccf6921ae45572e21db0b4b88976.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 今天雷霆后卫丹尼斯-施罗德更新社交媒体Instagram，发布自己婚礼的照片。
+   </p>
+   <p>
+    施罗德在评论中写下妻子的名字：“艾伦-施罗德。”
+   </p>
+   <p>
+    2018-2019赛季常规赛，施罗德场均出场29.3分钟，得到15.5分3.6篮板4.1助攻；季后赛场均出场30.2分钟，得到13.8分3.2篮板3.4助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/07/71602270365682a295bce29d6823ff76.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/07/56a10bfa1c810b923947baca22496af3.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190722/07/8cfa5fd57a028c0723e2b6b891a465e3.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  凯西：八村垒体格出色且勤奋，他会成为一个很出色的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://sports.yahoo.com/1st-round-nba-pick-hachimura-scores-35-points-235638951--nba.html" target="_blank">
+     雅虎体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 07:28:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="凯西：八村垒体格出色且勤奋，他会成为一个很出色的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/84dfa9cb05b902b4e335b4226f44bf4cf410a66f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 近日，活塞主帅德韦恩-凯西前往日本参加活动，并接受了记者的采访，谈到了日本籍奇才球员八村垒在世界杯热身赛上的表现。
+   </p>
+   <p>
+    “我认为他会成为一个很出色的球员。NBA是一个充满身体对抗的联盟，他的身体条件很适合NBA。”
+   </p>
+   <p>
+    “我发现八村垒正在拓展他的射程到三分线，这就是现在的NBA所需要的。他是个很棒的小伙子，很刻苦。”
+   </p>
+   <p>
+    在日本男篮与新西兰男篮的热身赛中，日本男篮的八村垒出战27分钟，17投13中，其中三分球2投2中，罚球14罚7中砍下35分5篮板3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：流浪的光)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

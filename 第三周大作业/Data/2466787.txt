@@ -1,0 +1,57 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  遗憾落败！雄鹿官方更新社媒晒出字母哥兄弟赛场表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1UVW8ehXMZ/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-19 04:35:14
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="遗憾落败！雄鹿官方更新社媒晒出字母哥兄弟赛场表现" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190819/47d8f1f0eee0221a9bfba8697ed24e651edce37b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月19日讯 在刚刚结束的一场男篮世界杯热身赛中，塞尔维亚加时战胜了希腊男篮。
+   </p>
+   <p>
+    雄鹿官方在赛后更新社交媒体Instagram，晒出球员扬尼斯-阿德托昆博和萨纳西斯-阿德托昆博在这场比赛中的数据和表现瞬间。（见新闻配图）
+   </p>
+   <p>
+    雄鹿队晒出扬尼斯-阿德托昆博数据：20分4抢断4盖帽2助攻1篮板
+   </p>
+   <p>
+    雄鹿队晒出萨纳西斯-阿德托昆博数据：17分5篮板3抢断2助攻
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/04/7370964ce23b4af0af3b46cffe9b9578.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190819/04/c38bc12e428ebd7a24e333c14778e4e3.jpg"/>
+    <br/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼-格林：非常期待新赛季，防守是我最关注的事情
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/7/20/20701710/lakers-news-danny-green-interview-frank-vogel-defense-stats-lineups" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-21 12:49:18
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼-格林：非常期待新赛季，防守是我最关注的事情" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190721/b4e71c19197a00094de1e558b024d34b75220ebf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月21日讯 湖人新援丹尼-格林在近日接受了电话采访，他表示自己已经向主教练弗兰克-沃格尔明确表示，下赛季他的首要任务是在防守端。
+   </p>
+   <p>
+    “我能够想到他们在过去对于我的看法，就是在场上拉开空间，”格林在谈到沃格尔教练对于他的期望时说道，“我们非常期待即将到来的新赛季，我告诉他可以期望我做到哪些事情，但我们并没有就具体的策略和对我的使用计划进行讨论。进攻端并不是我关注重点，对于我而言，防守始终是我最关注的事情。我向他表明了这一点，他对此感到兴奋。”
+   </p>
+   <p>
+    据此前的相关报道，格林以2年3000万美元合同加盟湖人。2018-19赛季常规赛，格林场均出战27.7分钟，得到10.3分4篮板1.6助攻；季后赛场均出战28.5分钟，得到6.9分3.6篮板1.1助攻1.3抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯科特：巴特勒依旧是我的兄弟，但当他来费城时我会嘘他
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ZachGelb/status/1164942553898192896" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 12:43:02
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯科特：巴特勒依旧是我的兄弟，但当他来费城时我会嘘他" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190825/862200a59eedf04ba1c97f724f0b582d673376f3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 76人球员迈克-斯科特在今日接受电话采访时谈到了今年夏天离队的吉米-巴特勒。
+   </p>
+   <p>
+    谈到巴特勒选择加盟热火，斯科特说：“情况就是这样，这只是一桩生意。他依旧是我的哥们儿，依旧是我的兄弟，但当我们碰面的时候，我会凶狠地对他犯规。当他来费城的时候，你们最好要大声地嘘他，相信我，你必须这样做，我也会跟着你们嘘他。”
+   </p>
+   <p>
+    “吉米是一个很棒的家伙，我认为很多时候他都被误解了。他和我有些相似，他很有声望，他不希望看到有人被欺凌，这也是我们的关系如此亲近的原因。”斯科特补充道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

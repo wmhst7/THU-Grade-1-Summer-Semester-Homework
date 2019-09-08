@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  猛龙与欧洲联赛后卫马特-托马斯达成3年420万协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/shamscharania/status/1145812203993534465?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-02 06:05:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="猛龙与欧洲联赛后卫马特-托马斯达成3年420万协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190702/6a73aaba275caac1bf4ccbb68d79e375056e0091.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月2日讯 据The Athletic记者Shams Charania报道，联盟消息人士透露，猛龙已经与欧洲联赛西班牙瓦伦西亚俱乐部后卫马特-托马斯达成一份3年420万的口头协议。
+   </p>
+   <p>
+    24岁的托马斯身高1.96米，毕业于爱荷华州立大学。他是2017年的落选秀，曾代表湖人出战夏季联赛，随后前往西班牙联赛效力。在上赛季代表瓦伦西亚出战的29场比赛中，托马斯场均出战20.3分钟得到11.4分。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

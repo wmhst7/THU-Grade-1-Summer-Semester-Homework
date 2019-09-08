@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃克：我是球队领导者之一，需要为球队奠定赢球基调
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/article/2019/08/22/usa-defeats-australia-exhibition-game-melbourne" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-24 06:47:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃克：我是球队领导者之一，需要为球队奠定赢球基调" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190824/48dc403dbb1d919f2cddf10a98ab575193863a38.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月24日讯 前日，美国男篮热身赛以102-86大胜澳大利亚，赢得了本场热身赛的胜利。
+   </p>
+   <p>
+    随后，马刺后卫、澳大利亚男篮国家队成员帕蒂-米尔斯以及美国男篮后卫肯巴-沃克接受了记者的采访。
+   </p>
+   <p>
+    在谈及这次在澳大利亚举办的热身赛时，米尔斯表示：“我认为这是一个非常好的机会，我们国家一直在等待这样的时刻。”
+   </p>
+   <p>
+    凯尔特人后卫、美国男篮国家队成员肯巴-沃克在谈及自己下半场的出色表现，最后带领球队赢下比赛时，他对记者说道：“我是这支球队的领导者之一，所以对我来说为球队树立这样的赢球基调很重要。”
+   </p>
+   <p>
+    美国男篮对阵澳大利亚男篮第二场热身赛将于北京时间今天中午12:00在墨尔本再次打响。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

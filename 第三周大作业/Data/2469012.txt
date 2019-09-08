@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  兰德尔：罗宾逊很棒，我要努力提高三分投射但也不忘本行
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.sny.tv/knicks/news/knicks-qa-julius-randle-looks-ahead-to-2019-season/310263478" target="_blank">
+     SNY
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-25 17:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="兰德尔：罗宾逊很棒，我要努力提高三分投射但也不忘本行" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190825/92c580439ef44f732395a188fbdb5ae1842a449c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月25日讯 近日，尼克斯球员朱利叶斯-兰德尔接受了SNY的采访。
+   </p>
+   <p>
+    谈到与队友米切尔-罗宾逊的合作时，兰德尔说：“我感到很兴奋，他会是令人惊叹的。”
+   </p>
+   <p>
+    兰德尔回忆，自己曾在与尼克斯就自由市场问题加盟问题进行会面时告诉主教练大卫-菲兹代尔：“当我以前对阵尼克斯时，我的反应是：‘这个孩子是谁？’因为每次我冲击篮下的时候，他都会毫无征兆地冒出来，我心想：‘发生了什么？’”
+   </p>
+   <p>
+    兰德尔咧开嘴笑着说：“我当时对他是谁完全没有头绪。罗宾逊很有潜力，现在他展露出的实力只是冰山一角，我对和他一起打球感到兴奋。”
+   </p>
+   <p>
+    上赛季，兰德尔在鹈鹕场均出手2.7个三分，三分命中率34.4%，为生涯新高。兰德尔将自己的三分投射归功于鹈鹕主教练阿尔文-金特里的放权。兰德尔说：“从高中起我就一直能投三分，只是有没有机会出手的问题，有时候球员不得不做出一些牺牲。之后我去了鹈鹕，拥有很好的机会去投三分，我正努力提高我的三分投射。”
+   </p>
+   <p>
+    “所以显然，这个休赛期我在这方面下了很多功夫，努力提高三分投射，成为一名更好的三分射手。但同时我也知道我的看家本领，我不会丢掉这些的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，兰德尔场均出场30.6分钟，得到21.4分8.7篮板3.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

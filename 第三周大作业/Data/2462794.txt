@@ -1,0 +1,58 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  艾弗森赠特雷-伯克签名球鞋，后者发推感谢
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TreyBurke/status/1159176850628927488" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 03:22:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="艾弗森赠特雷-伯克签名球鞋，后者发推感谢" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/f0a61c6dd867d10f3d23db528af3305daffbbda0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 根据76人记者Keith Pompey报道，后卫特雷-伯克与76人签下一份为期一年价值184万美元的加盟合同。伯克在此前的采访中向76人名宿阿伦-艾弗森表达了自己的敬意。
+   </p>
+   <p>
+    今天伯克收到了艾弗森送来的签名球鞋，伯克在推特上写道：“感谢大哥@阿伦-艾弗森给我送来能量，疯狂！”
+   </p>
+   <p>
+    艾弗森身高1.83米，1996年第1轮第1顺位被76人选中，生涯场均出场41.1分钟，得到26.7分3.7篮板6.15助攻2.17抢断。
+   </p>
+   <p>
+    伯克身高1.85米，2013年第1轮第9顺位被森林狼选中，并在爵士开始自己的职业生涯，因其与艾弗森相似的身高、标志性的垄沟头，而勾起了球迷对于艾弗森的回忆。
+   </p>
+   <p>
+    相关阅读：
+   </p>
+   <p>
+    <a href="http://lite.hupu.com/s?u=nba/news/2462357&amp;type=1&amp;entrance=26">
+     伯克谈艾弗森：小身材爆发着大能量，偶像激励我前进
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Ubuntu)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

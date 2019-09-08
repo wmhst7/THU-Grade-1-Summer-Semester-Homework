@@ -1,0 +1,154 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  [汇总]自由市场第十三日签约裁员及流言一览
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-13 16:02:03
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="[汇总]自由市场第十三日签约裁员及流言一览" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190713/451581a531dd6cc6b5038244ef1b77ef682f81ce.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月13日讯 今天是自由市场正式开启的第十三天，一起来看看今天有哪些达成的签约或者交易，又有哪些新的流言。
+   </p>
+   <p>
+    <strong>
+     今日要闻：
+    </strong>
+   </p>
+   <p>
+    1、泰森-钱德勒一年合同加盟火箭
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190713/14/7ab84b81d0faaae2ff72ed6d16eb1957.jpg"/>
+   </p>
+   <p>
+    2、由于规则限制，詹姆斯将推迟把23号让给戴维斯
+   </p>
+   <p>
+    3、安东尼-戴维斯社媒发图宣布新赛季选择3号球衣
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190713/14/64ac9878b583413fdec659f91b49d86d.jpg"/>
+   </p>
+   <p>
+    4、已逝雷霆股东奥布里-麦克莱登22%的股份将被出售
+   </p>
+   <p>
+    <strong>
+     今日达成签约及协议：
+    </strong>
+   </p>
+   <p>
+    1、Shams：安东尼-本内特与火箭达成一份非保障协议
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190713/14/286b2bac252e41ab61ab91a8f980c987.jpg"/>
+   </p>
+   <p>
+    2、凯尔特人与卡森-爱德华兹达成一份4年协议
+   </p>
+   <p>
+    3、Shams：德万-埃尔南德斯与猛龙达成三年协议
+   </p>
+   <p>
+    4、Shams：斯科菲尔德与奇才达成一份三年协议
+   </p>
+   <p>
+    5、Shams：波尔津吉斯与独行侠的合同第五年为球员选项
+   </p>
+   <p>
+    6、莫兹戈夫与俄罗斯球队莫斯科希姆基达成口头协议
+   </p>
+   <p>
+    <strong>
+     裁员及流言：
+    </strong>
+   </p>
+   <p>
+    1、火箭仍然在努力寻求得到伊格达拉
+   </p>
+   <p>
+    2、火箭与雷霆商讨过不送出保罗得到威少的交易方案
+   </p>
+   <p>
+    3、除非收到包含未来首轮签的报价，否则灰熊不会交易伊格达拉
+   </p>
+   <p>
+    4、热火对得到保罗进行评估，不像追求威少那样积极
+   </p>
+   <p>
+    5、活塞有意签下老将保罗-加索尔
+   </p>
+   <p>
+    6、多支球队有意大卫-努瓦巴，马刺是其中之一
+   </p>
+   <p>
+    7、Woj节目中透露，雷霆打算尽快交易走保罗
+   </p>
+   <p>
+    <strong>
+     今日官宣：
+    </strong>
+   </p>
+   <p>
+    1、官方：马刺正式签下特雷-莱尔斯，后者将身穿41号球衣
+   </p>
+   <p>
+    2、官方：勇士跟新秀阿伦-斯马伊拉吉奇签订的合同为4年613万
+   </p>
+   <p>
+    3、官方：快船正式与后卫贝弗利完成续约
+   </p>
+   <p>
+    4、官方：森林狼签约乔丹-贝尔
+   </p>
+   <p>
+    5、官方：雄鹿签约韦斯利-马修斯和罗宾-洛佩斯
+   </p>
+   <p>
+    6、官方：波尔津吉斯与独行侠正式签下5年1.58亿续约合同
+   </p>
+   <p>
+    7、官方：76人签约劳尔-内托
+   </p>
+   <p>
+    8、官方：76人续约詹姆斯-恩尼斯
+   </p>
+   <p>
+    9、官方：巴塞罗那篮球俱乐部签约阿夫里内斯
+   </p>
+   <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'PingFang SC'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px}
+span.s1 {font: 11.0px 'Helvetica Neue'; font-kerning: none}
+span.s2 {font-kerning: none}
+   </style>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹马自拍总结美国男篮训练营首日：训练充满竞争性
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-06 10:26:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹马自拍总结美国男篮训练营首日：训练充满竞争性" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190806/30352b511ce9d87371f327b4e3a7986e9a41de8e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月6日讯 湖人前锋凯尔-库兹马今日通过Instagram Story转发了多条他在美国男篮训练营的个人动态。
+   </p>
+   <p>
+    库兹马转发了美国男篮官方、NBA官方等账号发布的个人训练照片和视频短片。
+   </p>
+   <p>
+    在一段由NBA官方发布的自拍视频中，库兹马对国家队训练营第一天的情况总结道：“刚刚回到酒店，第一天的训练进展不错。全队训练积极，充满竞争性，完成了许多训练环节以及对抗赛。我们回到了酒店，明天是第二天。”
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/24ff01049fac78c9dd1cb85e6292734b.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/9e18c8441057afdb794e6c55195152af.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 5M" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/57ec862b02d6e00e58955ab44857a6de.gif"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/4b1ceb1ea69e56c0ef4edcc4cb01a8d6.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190806/10/99bfd3d7e92fa847d75b7ee244e834c3.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

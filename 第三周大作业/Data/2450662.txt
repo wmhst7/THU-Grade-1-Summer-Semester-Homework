@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  夏联揭幕战！鹈鹕今日计划让威廉森出战24至28分钟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/malika_andrews/status/1147207983618617344" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 03:47:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="夏联揭幕战！鹈鹕今日计划让威廉森出战24至28分钟" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/a63a87031a800c89cf7da407636fb7dff58fea92.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 据NBA记者Malika Andrews报道，鹈鹕主帅阿尔文-金特里表示，鹈鹕方面计划让蔡恩-威廉森在今日夏季联赛揭幕战中上场24至28分钟。
+   </p>
+   <p>
+    鹈鹕将于北京时间今天上午9:30对阵尼克斯，迎来他们的夏季联赛揭幕战。
+   </p>
+   <p>
+    威廉森是今年的状元秀，来自杜克大学，身高201公分，体重129公斤。他上赛季在NCAA场均上场30分钟得到22.6分8.9个篮板2.1次助攻2.1次抢断1.8个盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：石磊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

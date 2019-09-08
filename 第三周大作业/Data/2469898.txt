@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库班：大个子东契奇视野预判均出色，随时为队友输送炮弹
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cbssports.com/nba/news/mavericks-mark-cuban-opens-up-on-where-nfl-falls-short-to-nba-jordan-vs-harden-debate-why-aau-needs-to-go/" target="_blank">
+     CBS体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 06:35:19
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库班：大个子东契奇视野预判均出色，随时为队友输送炮弹" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/186c239b49a25baeef615e09fc7c8b8cc88996d0.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近日，独行侠老板马克-库班做客电视节目，谈及队内球员卢卡-东契奇。
+   </p>
+   <p>
+    “他有着很高的篮球智商，很棒的球场视野，由于他很强壮，所以他能够应对身体对抗，而他2.03米的身高也能够让他完成各种传球。每一个队友都知道当他们需要球的时候，东契奇就能找到他们，这就是东契奇的独特之处。”库班说道。
+   </p>
+   <p>
+    “不仅仅是因为他有视野和预判，而是因为他作为传球手却具备那么大的个子，这能够保证他看到你并将球传到你手中。他上赛季初只花了一会儿功夫就适应了NBA比赛的节奏。”库班补充道。
+   </p>
+   <p>
+    东契奇出生于1999年2月28日，2018年第1轮第3顺位被老鹰选中，后与后卫特雷-杨互换东家，加盟独行侠。2018-19赛季常规赛，东契奇场均出场32.2分钟，得到21.2分7.8篮板6.0助攻1.07抢断0.35盖帽，获得年度最佳新秀。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

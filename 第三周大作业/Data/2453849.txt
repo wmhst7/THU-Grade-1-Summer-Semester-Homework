@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金经理：给自己休赛期操作评分A+，非常期待球队未来
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/HarrisonWind/status/1149446101843361793/photo/1" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-14 17:46:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金经理：给自己休赛期操作评分A+，非常期待球队未来" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190714/16015263dd807df26f30d58ad05c6e0fec01cacd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月14日讯 掘金总经理蒂姆-康奈利在近日接受媒体采访时谈到球队在休赛期操作，他表示会给自己评分A+。
+   </p>
+   <p>
+    “我会给自己评分A+。”康奈利说道。
+   </p>
+   <p>
+    主教练迈克尔-马龙表示：“我也会给他打A+。”
+   </p>
+   <p>
+    康奈利接着说：“鉴于我们取得的成功，球队老板不仅对我们的球员有耐心，也非常信任我和马龙教练的工作。他们看到了围绕有趣的尼古拉（约基奇）建队的光明前景，看到了我们这支球队正在蓬勃发展，从去年到今年的季后赛，我们遭遇的每一个问题都能够转危为安。我们认为如果我们能够处理好球队内部的事务，并且努力让杰拉米-格兰特这样的家伙融入，我们这支球队会不断取得进步。他是一位我们希望围绕他建队的家伙，他能够在每一年都取得进步，他是一位团队至上的球员。我们无法控制NBA中其他球队每年发生的变动，无法改变球队坐落的城市，无法改变球队对于自由球员的吸引力，但我们可以控制球队的文化和球队取得的成功。我们度过了一个很棒的赛季，现在又补进了像杰拉米这样的家伙，我对于这支球队的前景感到非常兴奋。”
+   </p>
+   <p>
+    掘金在今年夏天执行了保罗-米尔萨普下赛季3000万美元的球队选项；与贾马尔-默里达成5年1.7亿美元的提前续约合同；在选秀大会上在次轮第44顺位选中潜力中锋波尔-波尔；通过交易得到了格兰特。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

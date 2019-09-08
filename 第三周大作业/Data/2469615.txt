@@ -1,0 +1,71 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  科比推特发问：你们认为美国队这阵容准备好三连冠了吗？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/kobebryant/status/1166167361910534144" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-27 10:13:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="科比推特发问：你们认为美国队这阵容准备好三连冠了吗？" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190827/ab04c18573aa8721a402dc496f8624174327bb8c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月27日讯 前美国男篮后卫科比-布莱恩特今日在个人推特上更新了本届男篮世界杯美国队的宣传视频。
+   </p>
+   <p>
+    “告诉我你们的想法，这阵容已经做好准备争夺三连冠了吗？”科比写道。
+   </p>
+   <p>
+    美国此前在2010年土耳其男篮世锦赛与2014年西班牙男篮世界杯中获得两连冠。
+   </p>
+   <p>
+    美国队男篮世界杯12人大名单已正式确定：
+   </p>
+   <p>
+    后卫：乔-哈里斯、多诺万-米切尔、马库斯-斯马特、肯巴-沃克、德里克-怀特
+   </p>
+   <p>
+    前锋：哈里森-巴恩斯、杰伦-布朗、克里斯-米德尔顿、杰森-塔特姆
+   </p>
+   <p>
+    中锋：布鲁克-洛佩斯、梅森-普拉姆利、迈尔斯-特纳
+   </p>
+   <p>
+    主教练：格雷格-波波维奇
+   </p>
+   <p>
+    助理教练：史蒂夫-科尔、洛伊德-皮尔斯、杰-赖特
+   </p>
+   <p>
+    美国男篮被分在E组，小组赛将在上海进行，美国队将在9月1日对阵捷克，9月3日对阵土耳其，9月5日对阵日本。
+   </p>
+   <p>
+    由于伤病与家庭因素，尽管早在2000年科比就有机会代表国家队出战悉尼奥运会，但科比的美国男篮国家队生涯直至2007年才正式启航，他代表国家队夺得2007年美锦赛冠军并获得2008年北京奥运会入场券。2008年北京奥运会上，科比场均得到15.0分2.8篮板2.1助攻，帮助美国继2000年悉尼奥运会夺冠后第一次获得全球赛事冠军。在2012年伦敦奥运会再夺一金后，科比宣布从国家队退役。科比在代表国家队参加的三项国际大赛中均问鼎冠军，这也意味着他国家队生涯未尝败绩。科比国家队生涯场均得到14.1分2.2篮板2.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

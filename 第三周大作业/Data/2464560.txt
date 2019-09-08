@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美媒盘点联盟历史上同级前二顺位并效力过同队的选秀组合
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ESPNNBA/status/1160749454183546880" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-12 13:03:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美媒盘点联盟历史上同级前二顺位并效力过同队的选秀组合" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190812/9e5901eac9ba44af6826258ca61a0031ba03efa4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月12日讯 根据此前消息报道，08级榜眼秀迈克尔-比斯利一年合同加盟活塞。届时，将与08级状元秀德里克-罗斯进行联手。
+   </p>
+   <p>
+    值得一提的是，德里克-罗斯与迈克尔-比斯利并不是NBA历史上第一对同年前二顺位在同一支球队效力的组合。
+   </p>
+   <p>
+    他们分别是埃尔文-海耶斯与韦斯-昂塞尔德（1968年选秀）曾共同效力于华盛顿子弹队；比尔-沃顿与马文-巴恩斯（1974年选秀）曾共同效力于快船；伊赛亚-托马斯与马克-阿吉雷（1981年选秀）曾共同效力于活塞；拉里-约翰逊与肯尼-安德森（1991年选秀）曾共同效力于黄蜂；阿伦-艾弗森与马库斯-坎比（1996年选秀）曾共同效力于掘金；凯里-欧文与德里克-威廉姆斯（2011年选秀）曾共同效力于骑士。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

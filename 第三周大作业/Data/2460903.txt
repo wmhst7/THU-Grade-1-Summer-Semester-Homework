@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勒韦尔：欧文是很棒的队友，期待与他在场上场下建立联系
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.netsdaily.com/2019/8/2/20751219/with-kyrie-irving-and-caris-levert-leading-the-way-nets-bonding-in-l-a" target="_blank">
+     NetsDaily
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 15:07:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勒韦尔：欧文是很棒的队友，期待与他在场上场下建立联系" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/fb08323e6bf11655cd5b5cba61721382ae4ba138.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 近日，篮网众球员聚集在洛杉矶进行了训练和联谊，期间篮网球员卡里斯-勒韦尔接受了记者采访。
+   </p>
+   <p>
+    勒韦尔说：“这次训练一直是欧文组织的。基本上全队都呆在洛杉矶这里，我们有七八个人在这里训练。训练很有趣，很有竞争性。”
+   </p>
+   <p>
+    谈到对凯里-欧文的看法时，勒韦尔说：“过去几天里我跟他聊了很多。说实话，他是个很棒的队友，和他呆在一起很棒，他很有竞争精神，对比赛也很了解。所以，我迫不及待地想要和他在场上场下建立联系了。”
+   </p>
+   <p>
+    2018-19赛季常规赛，欧文场均上场33.0分钟，得到23.8分5.0篮板6.9助攻1.54抢断；勒韦尔场均上场26.6分钟，得到13.7分3.8篮板3.9助攻1.05抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

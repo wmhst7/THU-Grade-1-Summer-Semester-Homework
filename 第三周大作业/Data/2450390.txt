@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠打算为德朗-赖特开出邀请报价，灰熊会匹配合理报价
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/townbrad/status/1146924214785589248" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-05 07:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠打算为德朗-赖特开出邀请报价，灰熊会匹配合理报价" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190705/761609432ab76d9f2d0f0cec0c0a831d524ad3d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月5日讯 根据Sports Day记者Brad Townsend的报道，多位联盟消息人士透露，独行侠对灰熊受限制自由球员德朗-赖特的兴趣提升了，打算为他开出邀请报价，独行侠这么做不会影响到他们对丹尼-格林的追求。
+   </p>
+   <p>
+    此前，据The Athletic著名记者Shams Charania报道，联盟消息人士透露，灰熊已经给赖特提供资质报价，后者是一名受限制性自由球员，灰熊有权利匹配其他球队为赖特开出的邀请报价。
+   </p>
+   <p>
+    根据NBA记者Tim MacMahon的报道，一些消息人士透露，如果其他球队为赖特开出的邀请报价能让灰熊接受，那么灰熊会匹配这样的报价。
+   </p>
+   <p>
+    2018-19赛季常规赛，赖特为灰熊出战了26场比赛，场均上场30.8分钟得到12.2分5.4个篮板5.3次助攻1.62次抢断。
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/index.php?title=%E5%8F%97%E9%99%90%E5%88%B6%E8%87%AA%E7%94%B1%E7%90%83%E5%91%98&amp;redirect=no#.E8.B5.84.E8.B4.A8.E6.8A.A5.E4.BB.B7">
+     相关科普：什么是资质报价？&gt;&gt;
+    </a>
+   </p>
+   <p>
+    <a href="https://nba.hupu.com/wiki/%E5%8F%97%E9%99%90%E5%88%B6%E8%87%AA%E7%94%B1%E7%90%83%E5%91%98#.E9.82.80.E8.AF.B7.E6.8A.A5.E4.BB.B7">
+     相关科普：什么是邀请报价？&gt;&gt;
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

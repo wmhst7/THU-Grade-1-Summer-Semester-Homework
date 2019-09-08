@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  埃文-富尼耶ins晒身穿法国队服的定妆照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0n3i-rn6bx/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 09:51:04
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="埃文-富尼耶ins晒身穿法国队服的定妆照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190802/6ac6c1a70f57fd61f2cf9da9de81cfd5038acacf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 今日魔术球员埃文-富尼耶更新了自己的个人Instagram动态，晒出了自己身穿法国男篮队服的定妆照。
+   </p>
+   <p>
+    在今年的中国男篮世界杯上，法国被分在G组，与约旦、多米尼加和德国共处一组。
+   </p>
+   <p>
+    2018-19赛季常规赛，富尼耶场均上场31.5分钟，得到15.1分3.2篮板3.6助攻0.88抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

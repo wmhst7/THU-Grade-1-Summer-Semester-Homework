@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  整装待发！库兹马晒照展示美国男篮全套训练装备
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/kuz/2103327051643017429?utm_source=ig_story_item_share&amp;igshid=14xc6h8gofyjp" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-05 08:53:57
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="整装待发！库兹马晒照展示美国男篮全套训练装备" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190805/67d2a35b8b38d825f6a25baba4f4a0420fec29a2.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月5日讯 湖人前锋凯尔-库兹马今日通过Instagram Story晒出他前往拉斯维加斯美国男篮训练营报到后领取到的国家队训练装备，以及近期的一张个人训练照。
+   </p>
+   <p>
+    美国男篮今日公布了征战今年男篮世界队的初选大名单，其中包括15位球员。具体名单如下：哈里森-巴恩斯、凯尔-洛瑞、克里斯-米德尔顿、迈尔斯-特纳、肯巴-沃克、凯尔-库兹马、布鲁克-洛佩斯、多诺万-米切尔、杰森-塔特姆、PJ-塔克、赛迪斯-杨、马库斯-斯马特、杰伦-布朗、巴姆-阿德巴约和梅森-普拉姆利。
+   </p>
+   <p>
+    美国男篮将在当地时间8月5日在内华达大学拉斯维加斯分校的Mendenhall中心开始为期4天的训练，并且将在当地时间8月9日在拉斯维加斯进行一场队内热身赛。
+   </p>
+   <p>
+    美国男篮将在当地时间8月17日公布参加今年男篮世界杯的最终12人大名单。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/08/08c0963276a99850431ee1ba27771190.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/08/24e34ae9b22b15e3e2f76a52855b8848.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190805/08/866b8f25fa2f3134f3a21a3a25fca4ac.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  大洛：库兹马还是新秀时就非常积极，经常向我请教
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.ocregister.com/2019/08/13/back-at-the-lakers-facility-with-team-usa-brook-lopez-shakes-off-the-past/" target="_blank">
+     橘郡纪事报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 13:36:11
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="大洛：库兹马还是新秀时就非常积极，经常向我请教" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/087ba3125dbc09dffaf4379fdbabba1e68a1f147.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 美国男篮近期在位于洛杉矶的湖人训练馆进行训练，雄鹿球员布鲁克-洛佩斯今天接受了记者采访。
+   </p>
+   <p>
+    谈到再次回到湖人球馆打球的心情，大洛表示：“老实说，并没有什么不同，这就像回来工作一样。我们在这里训练得非常好，充满热情。我在这里也有很美好的回忆，我享受在这里训练。”
+   </p>
+   <p>
+    另外，湖人前锋凯尔-库兹马在采访中也谈到了这位前队友，“大洛是我的兄弟，在我还是新秀的时候，我就觉得他是联盟最好的大个子之一，他非常出色，现在有机会再次和他打球非常棒！”
+   </p>
+   <p>
+    洛佩斯也谈到了新秀时期的库兹马，“记得我们第一次交谈是我们一起做冰疗的时候，他问了我很多好问题。作为一名新秀，他非常积极，只是想尽可能地学习，这在联盟中很重要。”
+   </p>
+   <p>
+    大洛佩斯曾在17-18赛季期间效力湖人，场均上场23.4分钟，得到13.0分4.0篮板1.3盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

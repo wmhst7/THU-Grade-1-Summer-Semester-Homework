@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  西班牙媒体：卡尔德隆在认真考虑退役
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/nba-news/924869/jose-calderon-contemplating-retirement/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 20:00:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="西班牙媒体：卡尔德隆在认真考虑退役" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/b4c34356c994ff17e411f9b31267f416c117e4a8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 根据西班牙《加泰罗尼亚报》的报道，何塞-卡尔德隆已经在认真考虑退役的事情。
+   </p>
+   <p>
+    今年9月就将38岁的卡尔德隆只想在NBA继续打球，无意前往其他联赛征战。
+   </p>
+   <p>
+    几周前，卡尔德隆专注于训练，希望得到一份NBA球队的合同，他8月初前往黎巴嫩随后决定当他回到纽约后不再恢复训练，因为得到NBA球队合同的可能性越来越小。
+   </p>
+   <p>
+    NBA职业生涯至今，卡尔德隆打过895场常规赛，场均出战26.4分钟可以拿到8.9分5.8助攻2.4篮板0.8抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

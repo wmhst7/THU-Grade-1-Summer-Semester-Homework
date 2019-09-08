@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  享受人生！卡尔弗分享训练及休闲照：生活很美好
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1rsNC0gngM/?igshid=ui0x9mexkarf" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 12:52:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="享受人生！卡尔弗分享训练及休闲照：生活很美好" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/5872908ebb3d8c05159b5c994e73360c9b0c8a9d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 森林狼新秀后卫贾勒特-卡尔弗今日在Instagram上发布一组他在巴哈马群岛地区进行放松和度假的照片。
+   </p>
+   <p>
+    “生活很美好，生活本应如此！#巴哈马群狼”卡尔弗写道。
+   </p>
+   <p>
+    值得一提的是，森林狼前锋安德鲁-威金斯也出现在其中一张训练照中。卡尔弗是本届选秀首轮第6顺位的新秀，森林狼通过交易得到了他。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/34a58f7e1e459e514d339ebeabc1a127.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/a633f85bdbea7021038b03eb31161869.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/c8a90b779e67f2fe12b4b9ba2afa3a71.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/12/a9f99e52745f71450fa6ddfd1b4dc90f.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

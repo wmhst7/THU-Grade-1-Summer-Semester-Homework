@@ -1,0 +1,89 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  美国男篮训练营众将采访：你代表着国家，在为国家效力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.usab.com/news-events/news/2019/08/mnt-blue-white-quotes-aug-9.aspx" target="_blank">
+     美国篮球官方
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 07:32:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="美国男篮训练营众将采访：你代表着国家，在为国家效力" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/3e6e3225ac6f128aa27ac5d61cd43db6a6b602bd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 昨日美国男篮队内对抗赛中，美国蓝队以97-78战胜美国白队。赛后，美国男篮训练营众将接受了记者的采访。
+   </p>
+   <p>
+    <strong>
+     记者：帕特，你一直在练习和这些家伙比赛。今晚有什么不同吗?
+    </strong>
+   </p>
+   <p>
+    帕特-康诺顿(密尔沃基雄鹿队)：当你在他们的队伍（蓝队）里会更有趣，你知道我的意思。和他们一起打球更简单，更有趣。在另一个队伍（白队）里没有那么有趣，但这本就是模拟对抗训练。队友们很出色，米德尔顿和洛佩斯打得也很棒。
+   </p>
+   <p>
+    <strong>
+     记者：和贾勒特-阿伦这样的年轻队友一起打球感觉怎么样?
+    </strong>
+   </p>
+   <p>
+    乔-哈里斯(布鲁克林篮网队)：感觉太棒了，这是我的荣幸。你可以看到我们和这些年轻人在上赛季走了多远（打进季后赛），他们是篮网的核心成员之一。
+   </p>
+   <p>
+    <strong>
+     记者：在这周的训练，你得到了什么?
+    </strong>
+   </p>
+   <p>
+    小贾伦-杰克逊(孟菲斯灰熊队)：我从前辈那里学到了很多。整个周末在学习以及学以致用方面都很成功。
+   </p>
+   <p>
+    <strong>
+     记者：穿上国家队球衣对你个人来说意味着什么?
+    </strong>
+   </p>
+   <p>
+    小贾伦-杰克逊(孟菲斯灰熊队)：太棒了，你代表的比你自己更重要，你代表着大局，你在为国家效力。
+   </p>
+   <p>
+    <strong>
+     记者：你觉得这支球队怎么样?
+    </strong>
+   </p>
+   <p>
+    克里斯-米德尔顿(密尔沃基雄鹿队)：我认为肯巴-沃克前几天说得很好。现在我们有机会展示我们能做什么。一些名人堂级别的球员，他们不在这里。这对我们来说很不错，因为我们现在有机会去做这件伟大的事情。
+   </p>
+   <p>
+    <strong>
+     记者：作为一个射手，要适应球为什么这么难?
+    </strong>
+   </p>
+   <p>
+    克里斯-米德尔顿(密尔沃基雄鹿队)：首先，这是射手和控球者都要考虑的共同点。你必须忘掉这件事，因为到外面去打球，会打任何类型的篮球。这些篮球之间绝对是不同的。有的篮球更小，更轻，具有不同的抓地力等等。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：灰熊与落选秀后卫约翰-康查尔签订双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/grizzlies/news/memphis-grizzlies-sign-john-konchar-to-two-way-contract-190708" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-09 13:56:24
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：灰熊与落选秀后卫约翰-康查尔签订双向合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190709/9001db12c22a01e40d64ce8388e64c167cbb0865.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月9日讯 灰熊官方今日宣布，他们已经与今年的落选秀后卫约翰-康查尔签订一份双向合同。
+   </p>
+   <p>
+    来自普渡大学韦恩堡分校的康查尔身高1.96米体重95公斤，司职后卫。23岁的康查尔上赛季NCAA场均上场34.3分钟，得到19.5分8.5篮板5.4助攻1.97抢断；场均投篮命中率54.6%，三分命中率38.1%，罚球命中率71.3%。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Cesc老法)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  库兹米奇的情况有了好转，但是仍然非常严重
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/euroleague/907142/kuzmics-health-status-encouraging-but-still-very-serious/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 08:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="库兹米奇的情况有了好转，但是仍然非常严重" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/b1133846578eab0753c999d812413277043707f5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 前勇士中锋奥格年-库兹米奇在当地时间7月14日早上遭遇一起严重车祸，随后被送往当地医院。
+   </p>
+   <p>
+    库兹米奇头部多处受伤，面骨和下巴多处骨折，胸部和肺部受伤，但是脑部没有流血情况，并且脑部头骨也没有骨折。
+   </p>
+   <p>
+    随后库兹米奇被直升飞机送往贝尔格莱德的医院接受进一步治疗，贝尔格莱德红星篮球俱乐部随后发表了一份声明。
+   </p>
+   <p>
+    “我们的球员情况很严重，根据治疗奥格年-库兹米奇医生的建议，我们俱乐部不会公布他健康情况的细节，他现在的情况有了好转，但是仍然非常严重。”贝尔格莱德红星篮球俱乐部在声明里写道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

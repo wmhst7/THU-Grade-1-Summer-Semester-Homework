@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  BIG3联赛创始人：奥多姆下赛季还可以再来试训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.tmz.com/2019/07/15/ice-cube-lamar-odom-big-3/" target="_blank">
+     TMZ体育
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:21:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="BIG3联赛创始人：奥多姆下赛季还可以再来试训" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/3e157e3a34b71655b3fdb255bf98b17b4298d054.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 拉马尔-奥多姆因为没有做好打球的准备之前已经离开了BIG3联盟，BIG3联赛创始人Ice Cube在接受TMZ采访时表示，奥多姆下赛季可以再次来试训。
+   </p>
+   <p>
+    还能再次在BIG3联赛的赛场上见到奥多姆么？Ice Cube说：“是的，他下赛季可以再次来试训，肯定的。”
+   </p>
+   <p>
+    那么奥多姆需要做什么呢？Ice Cube说：“找回状态。”
+   </p>
+   <p>
+    奥多姆NBA职业生涯一共出战961场常规赛比赛，场均上场33.4分钟，得到13.3分8.4篮板3.7助攻0.9抢断0.9盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

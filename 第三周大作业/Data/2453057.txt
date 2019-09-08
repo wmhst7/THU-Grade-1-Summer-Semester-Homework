@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡佩拉发推欢迎威少：伙计，准备好干一番大事吗！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/CapelaClint/status/1149515264217628676" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 11:11:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡佩拉发推欢迎威少：伙计，准备好干一番大事吗！" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/8a574e41eb11fe7b04d40735607c2e22a44f62a4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 今日火箭中锋克林特-卡佩拉更新了自己的个人推特动态，欢迎拉塞尔-威斯布鲁克的加盟。
+   </p>
+   <p>
+    “伙计，准备好干一番大事吗！@拉塞尔-威斯布鲁克” 卡佩拉写道。
+   </p>
+   <p>
+    此外，卡佩拉还在个人Instagram上传了一张照片（见下图）并写道：“为什么不呢！”
+   </p>
+   <p>
+    根据此前的报道，雷霆与火箭达成交易，雷霆送出拉塞尔-威斯布鲁克，火箭送出克里斯-保罗、2024年和2026年首轮签、以及2021年和2025年首轮互换权。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡佩拉场均上场33.6分钟，得到16.6分12.7篮板1.4助攻1.52盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190712/11/56e49dc12c68d752f1238f71c5fc60d5.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

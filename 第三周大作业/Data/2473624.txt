@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  励志答案！艾弗森晒帅气投篮照
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2FWLjGg7gk/?igshid=1rf7cxl8cdi4l" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 13:22:32
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="励志答案！艾弗森晒帅气投篮照" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/b4219aeb3ddec0e6637dfde7a8a94c81ac0013be.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，费城76人名宿阿伦-艾弗森更新个人Instagram，晒出一张自己投篮的照片。
+   </p>
+   <p>
+    “大胆追求自己热爱的东西把，年轻的铁子们！”
+   </p>
+   <p>
+    艾弗森职业生涯常规赛中，场均出场41.1分钟，可以看下26.7分3.7篮板6.2助攻，2016年艾弗森入选名人堂。
+   </p>
+   <span id="editor_baidu">
+    (编辑：陈晞)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

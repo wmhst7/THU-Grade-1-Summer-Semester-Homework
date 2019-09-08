@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：掘金与波尔-波尔签下双向合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nuggets/news/nuggets-sign-bol-bol-20190906" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 07:31:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：掘金与波尔-波尔签下双向合同" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/8dfbfd7ea9efe6249849c3bc43096c96657958c5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 掘金官方今日宣布，他们已经与波尔-波尔签下了双向合同。
+   </p>
+   <p>
+    根据NBA记者Jeff Siegel之前的报道，消息人士透露，波尔-波尔与掘金的合同是一份两年的双向合同，两年是联盟规定的双向合同最长年限。
+   </p>
+   <p>
+    双向合同将根据球员在NBA球队打球还是NBA发展联盟打球支付其工资，为了容纳身背双向合同的球员，NBA球队将增加额外的球员名额。身背双向合同的球员在前往NBA发展联盟打球时将获得比普通发展联盟球员更多的工资，此举的目的是希望他们不要前往海外打球，一支NBA球队最多可以拥有2名双向合同球员。
+   </p>
+   <p>
+    波尔-波尔是前NBA球员马努特-波尔的儿子，在今年选秀大会上被热火在总第44顺位选中，随后被交易至掘金。
+   </p>
+   <p>
+    2018-19赛季，波尔-波尔在NCAA作为俄勒冈大学球员出场9次，场均出战29.8分钟能够贡献21分9.6篮板1助攻0.8抢断2.7盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

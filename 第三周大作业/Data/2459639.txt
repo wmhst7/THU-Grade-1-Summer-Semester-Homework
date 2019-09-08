@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿朗佐-特里尔谈休赛期训练规划：不断打磨自己的技术
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1085008/2019/07/29/what-kevin-knox-allonzo-trier-mitchell-robinson-and-the-knicks-young-players-are-working-on-for-next-season/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 10:43:26
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿朗佐-特里尔谈休赛期训练规划：不断打磨自己的技术" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/b52f0bc28c1ddb21a055b48aa564fd4b98753a6e.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 尼克斯球员阿朗佐-特里尔在近日接受The Athletic记者Mike Vorkunov采访时谈到了休赛期的训练规划。
+   </p>
+   <p>
+    特里尔上赛季常规赛三分球命中率高达39.4%，为球队最高，在所有出场超过35场并且场均出手三分球超过2个的新秀中，特里尔的命中率排名第四。尽管他的三分命中率很高，但是场均出手次数却不多，球队教练组告诉他需要在休赛期更多地进行投篮训练。
+   </p>
+   <p>
+    “这就是教练组跟我谈过的事情，”特里尔说道，“球队管理层也告诉我需要更多地在三分线外投篮，他们说，你的投篮姿势很标准，命中率也很出色，你必须要更多地出手，一旦获得机会就不要犹豫。根据数据分析，我在保证命中率的基础上出手次数越多，球队表现也会越出色。这不仅是关于我个人，更是关于我们这支球队，所以，这就是我现在正在专注做的事情。”
+   </p>
+   <p>
+    特里尔上赛季证明了自己不仅是一名投手，更是一名出色的单打球员，65%的投篮得分都是来源于非助攻情况。在这个休赛期，特里尔正在努力成为一名更加全面的得分手。
+   </p>
+   <p>
+    “我已经能够更好地观察场上形势，比赛对于我而言也慢了下来，我能够阅读比赛，投篮，无球跑位，接球投篮等等类似的事情，”特里尔说道，“显而易见，你依旧需要继续打磨自己擅长的技术，努力将它们提升到精英级别。我认为我在这些方面已经做了很棒的工作，我会在接下来的休赛期中继续努力。”
+   </p>
+   <p>
+    2018-19赛季常规赛，特里尔场均出场22.8分钟，能够10.9分3.1篮板1.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

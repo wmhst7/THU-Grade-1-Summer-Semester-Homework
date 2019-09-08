@@ -1,0 +1,61 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  名训练师晒迪昂-韦特斯训练照：他要回归了
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1152472789846093824" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-20 14:59:54
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="名训练师晒迪昂-韦特斯训练照：他要回归了" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190720/46cdf6d99d199e535f590606ec3ef6bd93dd07cd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月20日讯 2018年1月，迪昂-韦特斯接受了左脚脚踝手术，恢复近一年后复出。这个休赛期，迪昂-韦特斯跟随著名训练师亚历山大进行训练，努力恢复体型。亚历山大之前曾是许多精英球员的训练师，其中包括勒布朗-詹姆斯和德维恩-韦德。
+   </p>
+   <p>
+    训练师亚历山大在instagram上发布了一张韦特斯的训练图，并配文：“相信我……他要来了，所以当他凌驾于你之上时，不要惊讶#整装待发”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190720/14/9a16f80c7e3c22e8d23a5b6184913b8a.png"/>
+   </p>
+   <p>
+    此前，热火主教练埃里克-斯波尔斯特拉曾在采访中提到：“这对于迪昂-韦特斯来说是一个非常重要的夏天。他现在恢复健康了。他感觉良好。他需要努力。接下来五个月里，他需要全身心投入到训练中，改变它的体型，将体重和体脂率降到赛季结束时他没能达到的最理想水平。”
+   </p>
+   <p>
+    “如果他在训练营第一天达到了这一要求，他就会获得他所寻求的角色和影响力。帕特和我对此持有相同的观点，如果他没能做到，那他就不会获得他所寻求的角色和影响力。就是这样。因为当他的身体状况良好，拥有世界级别的体型时，他能在比赛中产生影响力。恢复体型将是他这个夏天的重点。我还没有忘记两年前他是一名怎样的球员，他是时候回归那种状态了。"
+   </p>
+   <p>
+    两年前，韦特斯场均能够得到15.8分，3.3篮板和4.3助攻，三分命中率达39.5%。但是脚踝伤势阻碍了他的成长。上赛季他因伤只出战44场比赛，场均25.9分钟能得到12.0分2.6篮板2.8助攻。
+   </p>
+   <p>
+    <a href="https://voice.hupu.com/nba/2454486.html">
+     相关链接：迪昂-韦特斯Ins发布自己身材对比图
+    </a>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  新赛季四大组合2K20能力值平均数公布，詹眉95.5居首
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 08:08:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="新赛季四大组合2K20能力值平均数公布，詹眉95.5居首" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/ce81f9e57b696102f7c3aa22d54366c8aa09f21d.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 2K官方的首次NBA 2K20能力值公布视频直播正在进行中，2K官方刚刚公布了四组双人组的能力值平均数，湖人的组合勒布朗-詹姆斯和安东尼-戴维斯的能力值平均为95.5，在四队组合中排名第一。
+   </p>
+   <p>
+    快船的锋线组合科怀-伦纳德和保罗-乔治的能力值平均为95，排名第二；篮网的组合凯里-欧文和凯文-杜兰特的能力值平均数为93.5，排名第三；火箭的后场组合拉塞尔-威斯布鲁克和詹姆斯-哈登的能力值平均为93，排名第四。
+   </p>
+   <p>
+    这是2K官方首次将球员能力值以视频直播的形式集中公布。
+   </p>
+   <span id="editor_baidu">
+    (编辑：马夏尔)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

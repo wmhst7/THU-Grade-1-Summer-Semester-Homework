@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小凯文-波特因臀屈肌伤势预计不会出战赌城夏季联赛
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.cleveland.com/cavs/2019/07/kevin-porter-jr-not-expected-to-play-in-las-vegas-summer-league.html?outputType=amp&amp;__twitter_impression=true" target="_blank">
+     克利夫兰老实人报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 20:57:39
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小凯文-波特因臀屈肌伤势预计不会出战赌城夏季联赛" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/2e504fb37c918f84c651de2f1b5d718118942a94.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 据《克利夫兰老实人报》记者Chris Fedor报道，一位消息人士透露，骑士新秀小凯文-波特“不太可能”出战接下来的拉斯维加斯夏季联赛。
+   </p>
+   <p>
+    小凯文-波特随队出征，但没有出战骑士在盐湖城的三场夏季联赛，球队主帅约翰-贝莱因也表示自己预计波特不会出战赌城夏季联赛。
+   </p>
+   <p>
+    “我还伤着。”波特今天说道。波特在选秀前为老鹰试训时遭遇轻微的臀屈肌伤势，并自此受到困扰。
+   </p>
+   <p>
+    骑士5号秀达里厄斯-加兰也因半月板撕裂手术的复健考虑预计不会出战任何夏季联赛比赛。波特、加兰、科林-塞克斯顿、安特-日日奇等骑士球员随队观看了夏季联赛，今年26号新秀迪伦-温德勒出战了比赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

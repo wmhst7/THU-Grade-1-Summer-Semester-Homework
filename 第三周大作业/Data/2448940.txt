@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Woj：穆斯卡拉和雷霆达成一份口头协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/wojespn/status/1145519648722575360" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 10:29:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Woj：穆斯卡拉和雷霆达成一份口头协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/52a340740adf28c16cb19ca4b6ccefa53f97f696.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 据NBA记者Adrian Wojnarowski报道，自由球员迈克-穆斯卡拉和雷霆达成一份口头协议。
+   </p>
+   <p>
+    2018-19赛季，穆斯卡拉为湖人和76人出战64场比赛，场均出战20.4分钟，能够得到7.0分3.8篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

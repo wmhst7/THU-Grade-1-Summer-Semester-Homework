@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  贝里内利：我希望能够继续留在马刺，想在这里再赢一次
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/JeffGSpursZone/status/1166418137450893313" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 13:48:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="贝里内利：我希望能够继续留在马刺，想在这里再赢一次" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/69f5eacac3db9fcfe065ec115cd81ba791848268.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 马刺球员马科-贝里内利在近日接受《米兰体育报》采访时表示，他希望在下赛季结束后继续留在马刺。
+   </p>
+   <p>
+    “我与圣安东尼奥的合同还剩下一年，我希望能够再次留在那里，因为我想要在马刺再赢一次，就像2014年那样。”贝里内利说道。
+   </p>
+   <p>
+    贝里内利目前的合同还剩下一年585万美元，2018-19赛季常规赛，他场均出场23分钟，能够得到10.5分2.5篮板1.7助攻。
+   </p>
+   <p>
+    “在过去的这个积极的赛季中，我在球队中承担了重要的角色，虽然我们最终在季后赛首轮出局，这看起来有些奇怪。”贝里内利说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

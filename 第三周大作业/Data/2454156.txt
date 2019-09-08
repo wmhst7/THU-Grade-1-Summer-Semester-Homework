@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  英格尔斯发推祝费沃斯生日快乐，后者回复：谢谢兄弟！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dfavors14/status/1150659875791179776" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-15 15:03:27
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="英格尔斯发推祝费沃斯生日快乐，后者回复：谢谢兄弟！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190715/1dad65930a8233485442058a82a968aac6a498d3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月15日讯 今日爵士球员乔-英格尔斯更新了自己的个人推特动态，向前队友、现鹈鹕球员德里克-费沃斯发去生日祝福。
+   </p>
+   <p>
+    “生日快乐@德里克-费沃斯” 英格尔斯写道。
+   </p>
+   <p>
+    随后费沃斯转发了该推特，并回复道：“谢谢兄弟！！！”
+   </p>
+   <p>
+    此前鹈鹕官方宣布，球队从爵士交易得到费沃斯，送出2021年和2023年的二轮选秀权（原本属于勇士）。
+   </p>
+   <p>
+    2018-19赛季常规赛，英格尔斯场均上场31.3分钟，得到12.1分4.0篮板5.7助攻1.20抢断，费沃斯场均上场23.2分钟，得到11.8分7.4篮板1.2助攻0.74抢断1.39盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷-杨回顾个人五年前推特：梦想成真
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/TheTraeYoung/status/1157773870549651462" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-04 08:32:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷-杨回顾个人五年前推特：梦想成真" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190804/4621aee9c91e269c18560201f8d0d092888ca348.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月4日讯 近日有网友在推特晒出了一张老鹰后卫特雷-杨在2014年6月26日发布的一则推特截图。
+   </p>
+   <p>
+    特雷-杨在那则推特上写道：“从现在开始的几年后，我会出现在纽约的NBA选秀大会上。感谢上帝赐予我的天赋，感谢我的父亲一直督促我努力才使得我成为今天的自己，感谢我的兄弟姐妹们，感谢他们让我的童年是如此的幸福。还要感谢我的母亲，感谢我们所一起经历的一切，无论是好的还是不好的时光，无论是欢笑还是争吵与哭泣......我会想念这些的。”
+   </p>
+   <p>
+    随后，特雷-杨转发了这条推特并回复道：“梦想成真。”
+   </p>
+   <p>
+    特雷-杨于2018年选秀大会被独行侠在首轮第5顺位选中，随后被交易至老鹰。2018-19赛季常规赛，他场均出场30.9分钟，得到19.1分3.7篮板8.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

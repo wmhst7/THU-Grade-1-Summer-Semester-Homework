@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：哈登得分效率只有张伯伦能比，他也许在练双后撤步
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/dpshow/status/1155976605061095424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 08:05:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：哈登得分效率只有张伯伦能比，他也许在练双后撤步" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/d6b676f2198c99e3ecedc8a5983712fc3be73354.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 火箭总经理达雷尔-莫雷作客丹-帕特里克秀时谈到了詹姆斯-哈登。
+   </p>
+   <p>
+    在高效得分方面，谁比哈登更强？莫雷说：“没人，甚至都没人接近。”
+   </p>
+   <p>
+    随后主持人帕特里克谈到了迈克尔-乔丹，莫雷说：“噢，你的意思是历史上，我还以为是我们队里，我猜也是，事实上，天呐，就高效得分这方面，我还是选哈登，他是第一。”
+   </p>
+   <p>
+    那么乔丹现在打球的话，场均可以拿到多少分？莫雷说：“他是一名真的真的很出色的球员，所以……纵观历史，考虑到哈登的持球时间，还有他的效率，我认为只有威尔特-张伯伦在得分效率这方面与哈登接近，考虑到你的持球次数和得分数，真的只有哈登和张伯伦。”
+   </p>
+   <p>
+    之前哈登称他在练习一个看起来像是走步但不是走步的新动作，谈到哈登的新动作，莫雷说：“我还没有见过，我从没有见过哈登走步，也许他在练习双后撤步投篮，也许是吧。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  斯马特：参加世界杯的球员应该优先入选奥运会名单
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.youtube.com/watch?v=6BO5WlxooAk" target="_blank">
+     YouTube
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 11:25:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="斯马特：参加世界杯的球员应该优先入选奥运会名单" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190730/d5fc672c96d988761ffb05c35d3d82174c62b466.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 今日，凯尔特人球员马库斯-斯马特参加《The Jump》节目时接受记者采访，谈到了入选世界杯美国队训练营的相关事宜。
+   </p>
+   <p>
+    谈到自己入选训练营的感受时，斯马特说：“能被提名成为这些优秀球员之一这件事本身就是我的荣幸了。当我还是个孩子的时候，一直到现在我成为职业运动员，我一直在期待有这样一个机会能代表国家出战。因此能够入选对我来说真的是喜从天降，我的家人和朋友也替我很开心。”
+   </p>
+   <p>
+    对于球员纷纷退出训练营一事，斯马特表示：“在我看来，这个夏天在世界杯赛场上付出努力的我们这些人应该优先入选2020年的奥运会名单，我们值得。我们的努力让球队有进入奥运会的机会，因此我们应该被优先考虑。”
+   </p>
+   <p>
+    被问及国际化赛事平台对NBA球员的重要程度时，斯马特表示：“毫无疑问是很重要的，能有机会在大型比赛上崭露头角被观众看到，尤其是对于一些并非NBA中为人所熟知的顶尖运动员来说。他们并不差，但可能没有那些大众广泛认知的优秀球员那么好而已。能有机会被看到是很有用的。”
+   </p>
+   <p>
+    2018-19赛季常规赛，斯马特场均上场27.5分钟，得到8.9分2.9篮板4.0助攻1.79抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

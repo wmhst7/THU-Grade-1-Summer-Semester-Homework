@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  弗雷戴特：我相信自己依旧是NBA级别的球员
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Con_Chron/status/1144686983337267200" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 11:39:58
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="弗雷戴特：我相信自己依旧是NBA级别的球员" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190629/ac7663cf0b301ff28f89c57e2dad7a12a8f8108f.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 后卫吉默-弗雷戴特将为勇士出战夏季联赛，他在今日接受采访时谈到了为何选择为勇士出战。
+   </p>
+   <p>
+    “我想要把握住每一个机会，我和勇士进行了一些沟通，他们对我非常感兴趣，希望我能够代表球队出战夏季联赛。我会借此机会熟悉这支球队的体系，看一下我是否能够融入这支球队，是否能够适应这里的人们以及其余所有事物。这是一个相互了解的过程，他们能够更加了解我，我也能够更加了解这支球队。至于未来将会发生什么，谁知道呢？这是一个很棒的机会，我会为此做好准备。”弗雷戴特说道。
+   </p>
+   <p>
+    “我希望能够向他们展现我的能力，展现我能够为球队带来哪些帮助。你永远不知道有谁会在关注你的比赛，所以我会努力抓住机会打出表现。”弗雷戴特补充道。
+   </p>
+   <p>
+    谈到在中国效力的经历，弗雷戴特说：“我在中国效力了三年，我的家人在美国，远离他们对于我而言非常艰难。我现在有两个孩子，一个男孩一个女孩，他们希望我能够陪伴他们更多时间。所以我希望能够回归联盟，我相信自己依旧是NBA级别的球员，我能够在联盟中为球队提供帮助。我想要抓住机会，陪伴在我的家人身边，所以我们看看将会发生什么吧。”
+   </p>
+   <p>
+    弗雷戴特上赛季曾短暂效力于太阳，共出场6次，场均能够得到3.7分1.2篮板1.3助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

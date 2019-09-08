@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃格尔：还没决定首发阵容，没有迫切计划让詹姆斯打控卫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/lakeshowworld/status/1149144939919364096?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 10:55:23
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃格尔：还没决定首发阵容，没有迫切计划让詹姆斯打控卫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/cbe75bb376e8ee19386695fb636e708503d33f7b.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 湖人主帅弗兰克-沃格尔今日在夏季联赛现场接受采访时谈到了湖人的排兵布阵问题。
+   </p>
+   <p>
+    沃格尔否认了所谓“勒布朗-詹姆斯新赛季将出任首发控卫”的报道：“每个人似乎都想为我们组一套首发阵容。关于首发阵容我们还没有做决定。目前没有迫切的计划安排勒布朗担任首发控卫。我们已经讨论过多套阵容和组合，但现在就决定采用其中任何一种都为时尚早。”
+   </p>
+   <p>
+    沃格尔谈到他对詹姆斯的使用时说：“他将成为我们体系中的主要控球手，和他整个生涯的打法一致，但我们肯定不会要求他去做生涯至今没做过的事情。我们要把每个球员放在最合适的位置上发挥水平，期待场上进展一切顺利。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

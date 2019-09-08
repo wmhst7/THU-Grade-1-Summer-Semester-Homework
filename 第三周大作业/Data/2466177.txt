@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  NBA 2K联赛官方宣布将举办首个女性玩家训练营
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarcJSpearsESPN/status/1162487181916561409" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 06:56:37
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="NBA 2K联赛官方宣布将举办首个女性玩家训练营" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190817/00aa704a9ed518981adc3c0bd11d75ce01ef019a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 NBA 2K联赛官方今天宣布将举办首个为NBA 2K精英女性玩家举办的发展训练营。该训练营：“游戏中的女性”将于当地时间今年8月20日至23日在纽约的NBA 2K工作室进行。
+   </p>
+   <p>
+    为期四天的训练营将汇集15名顶级的NBA 2K女性玩家，与NBA 2K游戏联赛的选手和教练、前WNBA球员塔杰-迈克威廉姆斯-富兰克林等一起比赛对抗并学习。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

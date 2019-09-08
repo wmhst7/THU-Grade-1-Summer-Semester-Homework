@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Haynes：约瑟夫与国王达成3年3700万协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1145591210276352000" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-01 15:14:47
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Haynes：约瑟夫与国王达成3年3700万协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190701/eeb57b90cf5549bf84600ce0cf48779aa8dd6cde.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月1日讯 根据雅虎记者Chris Haynes报道，多位消息人士透露，科里-约瑟夫与国王达成3年3700万美元的协议。据The Athletic记者Sam Amick报道，第三年为部分保障。
+   </p>
+   <p>
+    约瑟夫即将年满28岁，上赛季作为达伦-科里森的替补，常规赛场均上场25.2分钟，得到6.5分3.4篮板3.9助攻1.15抢断，季后赛场均上场21.3分钟，得到7.5分1.8篮板1.0助攻。
+   </p>
+   <p>
+    此外，国王为了完成今天达成的口头协议，国王不得不撤回对威利-考利-斯坦的资质报价，使其成为自由球员。据ESPN记者Bobby Marks报道，如果国王工资单中去除考利-斯坦的工资，球队还有1300万美元的薪资空间，约瑟夫的这笔合同正好利用这个薪资空间。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

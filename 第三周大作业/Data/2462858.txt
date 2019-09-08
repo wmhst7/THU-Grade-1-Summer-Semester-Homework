@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  小萨博尼斯：我搭档特纳可以成功，我们需要更多时间
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/urbodo/status/1159097992567300096?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-08 08:07:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="小萨博尼斯：我搭档特纳可以成功，我们需要更多时间" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190808/74424ba068bc7400228aa04c985d0de71295dab3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月8日讯 步行者的多曼塔斯-萨博尼斯接受采访时谈到了多个方面。
+   </p>
+   <p>
+    谈到步行者在选秀大会上选走戈加-比塔泽时自己的反应，小萨博尼斯说：“另一个中锋？我当时一开始感到震惊，但是我懂，我和特纳需要一个替补，比塔泽是一名很棒的球员，在选秀大会后，我跟他聊过，他很努力，步行者会让他变得更好，我们需要一个像他那样的球员。”
+   </p>
+   <p>
+    谈到自己搭档特纳，小萨博尼斯说：“我们知道这能成功，我认为我们在上赛季的时候很适合彼此，我们需要更多的时间，不仅仅是每场只在一起打几分钟，需要整个赛季，或者至少要半个赛季，会有表现好的比赛和表现不好的比赛，但是我们需要信任，一切都会没事的。”
+   </p>
+   <p>
+    小萨博尼斯预计自己今夏会与步行者提前续约，但是他会保持耐心，他说：“就像我爸爸说的那样，你做你的工作，尽力做好，现在你必须要等待，我现在什么也做不了，我需要保持耐心，继续等待。”
+   </p>
+   <p>
+    谈到步行者今夏阵容的改变，小萨博尼斯说：“让人难过的是，我的很多好友都离开了，但是NBA就是这样，我们新赛季会打出一个很棒的赛季，我们签下了一些不错的球员，现在一切都要靠我们自己，我们需要在赛季初期打好，为维克托-奥拉迪波归来做好准备。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

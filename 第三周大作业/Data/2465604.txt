@@ -1,0 +1,74 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  火箭预计首发2K能力值公布：哈登96，威斯布鲁克90
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Sc30Venus/status/1161834151550439424" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-15 10:57:44
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="火箭预计首发2K能力值公布：哈登96，威斯布鲁克90" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190815/811fc290cb0012a4280098198187687abfc65304.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月15日讯 今日2K Ratings网站更新了一批球员的2K20初始能力值，火箭预计首发5人的能力值已经确定。
+   </p>
+   <p>
+    火箭预计首发的2K20初始能力值为：
+   </p>
+   <p>
+    詹姆斯-哈登 96
+   </p>
+   <p>
+    拉塞尔-威斯布鲁克 90
+   </p>
+   <p>
+    克林特-卡佩拉 85
+   </p>
+   <p>
+    PJ-塔克 79
+   </p>
+   <p>
+    埃里克-戈登 78
+   </p>
+   <p>
+    2018-19赛季常规赛，詹姆斯-哈登场均出场36.8分钟，得到36.1分6.6篮板7.5助攻2.03抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔-威斯布鲁克场均出场36.0分钟，得到22.9分11.1篮板10.7助攻1.95抢断。今夏，火箭将克里斯-保罗交易至雷霆，得到威斯布鲁克。
+   </p>
+   <p>
+    2018-19赛季常规赛，克林特-卡佩拉场均出场33.6分钟，得到16.6分12.7篮板1.4助攻1.52封盖。
+   </p>
+   <p>
+    2018-19赛季常规赛。PJ-塔克场均出场34.2分钟，得到7.3分5.8篮板1.61抢断。
+   </p>
+   <p>
+    2018-19赛季常规赛，埃里克-戈登场均出场31.7分钟，得到16.2分2.2篮板1.9助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

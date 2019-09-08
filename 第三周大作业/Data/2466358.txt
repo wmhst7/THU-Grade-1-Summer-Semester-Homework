@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  掘金7名球员2K能力值公布：约基奇90，默里84
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/msc7sevens777/status/1162674412149182464?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-17 19:14:56
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="掘金7名球员2K能力值公布：约基奇90，默里84" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190817/6f85293b3c92768216f7078479079b4b9dcc58d8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月17日讯 2K Ratings网站近日更新了一批球员的NBA 2K20游戏初始能力值，7名掘金球员的能力值得以确定。
+   </p>
+   <p>
+    掘金7名球员的初始能力值为：尼古拉-约基奇90，贾马尔-默里84，保罗-米尔萨普82，加里-哈里斯79，蒙特-莫里斯77，胡安-埃尔南戈麦斯74，托里-克雷格74。
+   </p>
+   <p>
+    2018-19赛季常规赛，约基奇场均上场31.3分钟，得到20.1分10.8篮板7.3助攻；默里场均上场32.6分钟，场均得到18.2分4.2篮板4.8助攻；米尔萨普场均上场27.1分钟，得到12.6分7.2篮板2助攻；哈里斯场均上场28.8分钟，得到12.9分2.8篮板2.2助攻；莫里斯场均上场24分钟，得到10.4分2.4篮板3.6助攻；埃尔南戈麦斯场均上场19.4分钟，得到5.8分3.8篮板；克雷格场均上场20分钟，得到5.7分3.5篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

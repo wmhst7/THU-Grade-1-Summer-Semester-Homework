@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  勒布朗点赞湖人球迷为伦纳德画的身披湖人战袍肖像画Ins
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzTkhTHABKz/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:13:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="勒布朗点赞湖人球迷为伦纳德画的身披湖人战袍肖像画Ins" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/a05f32329ee0077538b2da6e1eea4f5f80bda322.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 今日，美国媒体Uninterrupted更新社媒在Instagram晒出一段湖人球迷为招募科怀-伦纳德在墙上画出伦纳德身披湖人战袍的肖像画（见新闻配图）。
+   </p>
+   <p>
+    随后，湖人前锋勒布朗-詹姆斯点赞了该条Ins。
+   </p>
+   <p>
+    视频：
+    <a href="https://weibo.com/2642983047/HBgEOd5M5">
+     湖人球迷为招募伦纳德，在墙上画出其身披湖人战袍肖像画
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190630/10/dd393ca7cea31a68a0707588b366a1a0.png"/>
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

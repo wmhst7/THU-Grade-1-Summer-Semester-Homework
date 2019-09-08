@@ -1,0 +1,87 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦伯：我喜欢国王现在的前进方向，他们正在稳步打造球队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://theathletic.com/1060950/2019/07/03/theyre-building-on-the-year-they-had-five-quick-questions-with-kings-legend-chris-webber/" target="_blank">
+     The Athletic
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-04 14:01:05
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦伯：我喜欢国王现在的前进方向，他们正在稳步打造球队" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190704/aabf38424639c84fe09ea47f0a318562c052c936.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月4日讯 前NBA球员克里斯-韦伯在近日接受The Athletic记者Jason Jones采访时谈到了萨克拉门托国王队。以下为采访详情：
+   </p>
+   <p>
+    <strong>
+     你如何看待国王在自由球员市场的举动？这支球队看起来正在过去几年建立起来的基础上逐渐打造球队。
+    </strong>
+   </p>
+   <p>
+    我认为正如你所言，他们正在逐渐打造球队。很多人会选择追逐大牌自由球员，或者一些有名气的球员，但我认为稳步建队也是一种很棒的策略，他们正在按照自己的思路去打造这支球队，你知道我说的意思吗？我喜欢他们所做的事情。
+   </p>
+   <p>
+    无论何时，当你有机会得到特雷沃-阿里扎时，你就应该努力去争取。如果他有机会在这里效力三年，他能够帮助球队中的年轻人迅速成长，当他离开球队时，那些受他所影响的球员依旧能够为球队做出贡献。如果他能够在这里效力五年，向球员们传递分享精神，这将在未来十年影响着这支球队。
+   </p>
+   <p>
+    还有哈里森-巴恩斯，你知道的，他是一位非常出色的职业球员，他正是球队所需要的那种家伙。我认为他将会打得很出色，他能够帮助球队前进，最重要的是，他能够帮助年轻人成长。这关于达龙-福克斯，关于哈里-贾尔斯，关于球队中的每一个年轻人。我认为球队为他们打造了很棒的成长环境，他们能够借此打出名堂，所以我非常喜欢国王在自由球员市场的操作。
+   </p>
+   <p>
+    <strong>
+     你曾在之前发表过一些批评国王的言论，关于教练组的失职，缺乏球员发展规划和稳定性。当弗拉德（迪瓦茨）上任之后，你认为现在这些问题是否得到了改观？
+    </strong>
+   </p>
+   <p>
+    当然。当球队的老板和管理层稳定下来，球队高层保持一致性，你知道的，当球队目标一致时，一切事情都会迎刃而解，毫无疑问，我看到了球队面貌的改变。
+   </p>
+   <p>
+    <strong>
+     你如何评价国王上赛季的表现？
+    </strong>
+   </p>
+   <p>
+    他们打得很努力，这是我最喜欢的地方。他们享受比赛的乐趣，他们想要赢球，我很喜欢他们的表现。
+   </p>
+   <p>
+    <strong>
+     迪瓦茨将于今年入选奈史密斯篮球名人堂，而你还在等那个电话，你对于自己何时能够入选是否非常关注？
+    </strong>
+   </p>
+   <p>
+    起初的几年，我的确非常关注，但现在我知道我有资格入选，这就是我对待这件事情的心态。如果我最终能够入选，我会心怀感激。
+   </p>
+   <p>
+    <strong>
+     你如何看到昔日大学队友朱万-霍华德成为密歇根大学主帅？
+    </strong>
+   </p>
+   <p>
+    这是世界上最棒的感觉，他是我的好兄弟，一路走来我们都相互支持，我为他感到非常自豪。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

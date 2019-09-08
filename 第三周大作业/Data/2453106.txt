@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登与保罗的紧张关系并没有促使后者被交易
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/espn_macmahon" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 13:48:10
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登与保罗的紧张关系并没有促使后者被交易" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190712/6590d1f0111f9ddfb4a4d5dd364300684c829e37.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 在今天早些时候，火箭送出后卫克里斯-保罗，2024年和2026年的首轮签，2021年和2025年首轮签互换权，得到雷霆后卫拉塞尔-威斯布鲁克。
+   </p>
+   <p>
+    据ESPN记者Tim Macmahon报道，此前曾传出哈登和保罗之间关系紧张，但火箭认为这在可控制范围内，并且对于NBA顶级球员而言，这种情况非常正常。根据消息源透露，哈登与保罗的关系并没有促使火箭做出交易的决定（“这不会促使我们做一些我们本来不会做的事情”）。
+   </p>
+   <p>
+    此前，雅虎体育记者Vincent Goodwill曾报道称，消息人士透露，保罗想被交易离队，他与哈登的关系无法挽回，但随后Goodwill删除了这条推文。
+   </p>
+   <p>
+    保罗在2017年夏天被快船交易至火箭，为火箭效力的两年间，保罗共为火箭打了116场常规赛，场均出场31.9分钟可以得到17.1分8.0助攻1.8抢断，并在2017-18赛季帮助火箭进入了西部决赛。
+   </p>
+   <span id="editor_baidu">
+    (编辑：银时)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

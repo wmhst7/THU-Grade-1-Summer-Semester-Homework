@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  拉塞尔：确信我能很好融入球队，期待在进攻端的自由发挥
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://uproxx.com/dimemag/dangelo-russell-warriors-free-agency-interview/" target="_blank">
+     UPROXX
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-11 00:21:06
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="拉塞尔：确信我能很好融入球队，期待在进攻端的自由发挥" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190811/4741a7ccc135bf13aa09a9b090fd3882bb514130.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月11日讯 近日，勇士后卫丹吉洛-拉塞尔参加了We Live Sneakers活动，期间接受了采访。
+   </p>
+   <p>
+    谈到过去一个月的休赛期时，拉塞尔说：“对我和整个NBA来说，这确实是一个疯狂的休赛期，但我认为联盟就是这样的。一切的兴奋、新面孔和新机会。”
+   </p>
+   <p>
+    谈到自己在自由市场中决定加盟勇士的过程时，拉塞尔说：“第一次经历这种过程是有趣的。在当时的机会和情况下勇士出现在了我的视野中。我只希望能拥有最好的处境，我认为归根结底事情就是这样。”
+   </p>
+   <p>
+    谈到自己的融入问题，以及勇士教练组成员对他队内角色的看法时，拉塞尔说：“我确定我能很好地融入球队。很多优秀的篮球球员都在努力弄清楚如何融入球队，我认为这就是与一群新球员重新开始的魅力所在。但是我还没有真正持续地与勇士方面人员沟通过我的融入和队内角色会是怎样，但我确信我会好的。我认为，以他们的执教和球员水平，要让事情运转良好绰绰有余。我对此感到兴奋。”
+   </p>
+   <p>
+    谈到勇士在进攻端给予球员们很大空间来自由发挥的风格，拉塞尔说：“这是有趣的。就像你所说的，你知道勇士将使球员们处于取得成功的最好处境下。我期待在进攻端的自由发挥，尽可能地在球场上做我自己。”
+   </p>
+   <p>
+    谈到上赛季的季后赛经历给自己带来的收获，以及这种收获在自己来到以夺冠为目标的勇士之后对自己有何帮助时，拉塞尔说：“尝到了季后赛的滋味，那就是你所能要求的一切。联盟中有很多球员没有体验过季后赛是怎样的，所以我认为仅仅是打进季后赛就是一种真正的恩赐了。正如你所说，勇士唯一的期望就是在季后赛中有好的表现。来到这种级别的球队，我认为天空才是我们的极限，我对下赛季感到期待。”
+   </p>
+   <p>
+    2018-19赛季常规赛，拉塞尔场均上场30.2分钟，得到21.1分3.9篮板7.0助攻1.23抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

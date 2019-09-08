@@ -1,0 +1,55 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  握手致意！麦基晒出与鲍尔合照：一生的兄弟
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1cApZCnHcM/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-22 09:26:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="握手致意！麦基晒出与鲍尔合照：一生的兄弟" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190822/4809685d9e99ead501cc97521021f02c611db524.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月22日讯 湖人中锋贾维尔-麦基今日在Instagram上晒出一张他与鹈鹕后卫朗佐-鲍尔的近期合照。
+   </p>
+   <p>
+    “一生的兄弟！”麦基写道。鲍尔则评论了一个双指交叉的表情。2018-19赛季，麦基与鲍尔共同效力于湖人。
+   </p>
+   <p>
+    此外，麦基同时发布了自己近日的力量训练集锦。
+   </p>
+   <p>
+    <a href="https://m.weibo.cn/1765767682/4408012896353979">
+     视频：贾维尔-麦基发布力量训练集锦
+    </a>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190822/09/4715563519c948c16028a7619922f72d.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

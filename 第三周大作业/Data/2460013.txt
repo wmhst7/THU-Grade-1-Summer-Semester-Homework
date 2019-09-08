@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  穆迪埃更新社媒Instagram：现实总比期望曲折些
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0jxJEagJju/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 10:18:41
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="穆迪埃更新社媒Instagram：现实总比期望曲折些" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190731/ab9b79d90ad82c594395ad36714b5e05980372fa.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 今日，犹他爵士队球员伊曼纽尔-穆迪埃更新个人社交媒体Instagram，晒出照片。（见新闻配图）
+   </p>
+   <p>
+    穆迪埃配文道：“思想胜于物质，这适用于每个人。”
+   </p>
+   <p>
+    此前据NBA记者Adrian Wojnarowski报道，穆迪埃与爵士达成一份一年底薪合同的加盟协议。
+   </p>
+   <p>
+    2018-19赛季常规赛，穆迪埃场均出场27.2分钟，得到14.8分3.3篮板3.9助攻0.73抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

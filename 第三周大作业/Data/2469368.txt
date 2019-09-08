@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  利拉德回忆0.9秒绝杀火箭：原本战术并不是为我制定的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/HoHighlights/status/1165662379394437120" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 13:59:28
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="利拉德回忆0.9秒绝杀火箭：原本战术并不是为我制定的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190826/9b00da1c84d2bed294a200e379fd6748548b1811.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 开拓者球员达米安-利拉德在近日参加一档访谈节目时回忆起2013-14赛季季后赛首轮第六场0.9秒绝杀火箭。
+   </p>
+   <p>
+    利拉德透露那个回合的战术安排本来是高吊传球给队友拉马库斯-阿尔德里奇。
+   </p>
+   <p>
+    “对手当时正在讨论防守安排，帕特里克-贝弗利告诉钱德勒-帕森斯，‘你想要换防还是不换？’他们正在交流。那个回合的战术甚至都不是为我制定的，那球原本是要吊球给拉马库斯，我们应该做的是将防守人吸引到另一侧，为LA（阿尔德里奇）空接攻击篮筐创造空间。莫-威廉姆斯告诉我，‘Dame，你有机会就去要球。’对手一直在交流，安排防守站位，而我一直在观察裁判的动作，观察他什么时候把球交给发球人。一旦他把球交给发球人，我就立刻启动，这也是我边跑边拍手要球的原因，我的意思是，‘赶紧的！’”利拉德说道。
+   </p>
+   <p>
+    “我知道我可以在0.9秒的时间内完成投篮，接球转身出手，我获得了不错的投篮视野，那是一个完整的投篮，我不需要仓促出手，我需要做的就是果断。”利拉德接着说道。
+   </p>
+   <p>
+    谈到这个绝杀球对于自己的影响，利拉德说：“在这个球之后，很多事情发生了改变，那是我的第二个赛季，当我们打进季后赛，人们都在说，‘好吧，让我们看一下他在季后赛的表现如何，看一下他如何面对帕特里克-贝弗利。’那是我职业生涯首次季后赛之旅，我证明了自己。在那之后，越来越多的人开始认识我，我也更频繁地出现在电视上，接了更多广告代言，也获得了自己的签名球鞋。我在之后的一个赛季参与了全明星赛的所有项目，赢下了很多比赛，一切都开始步入正轨。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

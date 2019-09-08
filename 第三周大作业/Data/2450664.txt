@@ -1,0 +1,60 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Carter：伦纳德今日仍不会做决定，他无意签一份短约
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/criscarter80/status/1147231393111584768" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-06 03:56:53
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Carter：伦纳德今日仍不会做决定，他无意签一份短约" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190706/46ce0c57ad02a808bef15607c5446bd3cffe1ef2.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月6日讯 NBA记者Cris Carter今日发布了推特，更新了他对科怀-伦纳德签约情况的认知。
+   </p>
+   <p>
+    据Carter表示，伦纳德仍然没有决定，也不打算在今天（当地时间7月5日）完成他的决定。
+   </p>
+   <p>
+    另外，Carter表示，伦纳德对签下一份1或2年的短约没有兴趣，当他签约时，他会签下一份长约。
+   </p>
+   <p>
+    根据Carter之前的报道，
+    <a href="https://voice.hupu.com/nba/2450564.html">
+     他相信伦纳德会在今日宣布自己的决定
+    </a>
+    。而现在他表示，伦纳德今日仍不会做出决定。
+   </p>
+   <p>
+    Cris Carter被认为是最了解伦纳德情况的记者，并与伦纳德的家庭最熟悉的记者。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均出战34.0分钟，可以拿到26.6分7.3篮板3.3助攻1.8抢断。伦纳德带领猛龙拿到了2018-19赛季NBA总冠军并获得FMVP。
+   </p>
+   <span id="editor_baidu">
+    (编辑：里奥)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

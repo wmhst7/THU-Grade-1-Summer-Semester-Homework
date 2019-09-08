@@ -1,0 +1,73 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  篮网众球员：期待与杜兰特并肩作战，希望能够向他学习
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.nba.com/nets/news/summer/2019/07/10/kevin-durant-has-fans-among-new-brooklyn-nets-teammates" target="_blank">
+     NBA官网
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 15:11:12
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="篮网众球员：期待与杜兰特并肩作战，希望能够向他学习" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190716/2ff6dab89d749866e8ed8a629a814bf3eb8e9afc.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 篮网众球员在近日接受媒体采访时谈到了即将与凯文-杜兰特成为队友。
+   </p>
+   <p>
+    21岁的前锋罗季翁斯-库鲁茨表示，在拉脱维亚成长的过程中，杜兰特是他最喜欢的球星。
+   </p>
+   <p>
+    “这（和杜兰特成为队友）并不奇怪，这令人感到兴奋，”库鲁茨说道，“我很开心，就像我之前所说过的那样，我有大量的东西需要向他学习，希望他能够教我。”
+   </p>
+   <p>
+    2018年选秀首轮第29号秀扎南-穆萨即将开启自己第二个NBA赛季，他表示自己也是杜兰特的球迷，曾在遥远的波黑支持着KD。
+   </p>
+   <p>
+    “我记得当年去斯洛文尼亚参加欧锦赛，”穆萨说道，“我忘了带鞋，于是就打电话给我母亲，让她帮我带一些球鞋来，我告诉她我想要穿KD的球鞋。七八年之前，我将他视为我的导师，现如今他成为了我的队友，这太难以置信了。”
+   </p>
+   <p>
+    20岁的前锋尼古拉斯-克拉克斯顿在今年选秀大会次轮第一顺位被篮网选中，10天之后这个年轻人发现，自己将与杜兰特、凯里-欧文和德安德烈-乔丹并肩作战。
+   </p>
+   <p>
+    “这太疯狂了，”克拉克斯顿说道，“我没有想到凯里和KD今年会以这样的方式加盟布鲁克林，与这样的家伙并肩作战，并且获得他们的一些经验，这真的是一件幸事，还有德安德烈-乔丹这样的大个子，下赛季将充满乐趣，我会做好准备的。”
+   </p>
+   <p>
+    卡里斯-勒韦尔和托里恩-普林斯都即将开启自己职业生涯的第四个赛季，他们在进入联盟之后一直与杜兰特保持着友好的关系。
+   </p>
+   <p>
+    勒韦尔在接受采访时将杜兰特描述为“大哥”，在他之前从足部手术恢复的过程中，杜兰特与他取得了联系。
+   </p>
+   <p>
+    普林斯在几年前与杜兰特建立了友谊，二人一直保持着交流。
+   </p>
+   <p>
+    “我们从来没有真正谈论过篮球，”普林斯说道，“他一直是我生活中的导师，他影响了我对比赛的态度和准备，我一直在学习效仿他所做的事情。”
+   </p>
+   <p>
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

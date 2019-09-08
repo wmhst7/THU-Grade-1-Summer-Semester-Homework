@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  Shams：斯坦利-约翰逊与猛龙达成2年750万协议
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ShamsCharania/status/1147559914228912130" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 01:37:42
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="Shams：斯坦利-约翰逊与猛龙达成2年750万协议" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/83c9cb056bb37dc61ee00ccb6d6134d3d91b30a3.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 根据The Athletic记者Shams Charania报道，经纪人透露，斯坦利-约翰逊与猛龙达成2年750万美元的协议，其中第二年为球员选项。
+   </p>
+   <p>
+    现年23岁的约翰逊曾效力于活塞和鹈鹕，他将在猛龙体系中得到不错的发展机会，NBA生涯至今已成为一名不错的防守者。
+   </p>
+   <p>
+    2018-19赛季常规赛，约翰逊场均上场18.3分钟，得到6.9分3.3篮板1.3助攻0.91抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

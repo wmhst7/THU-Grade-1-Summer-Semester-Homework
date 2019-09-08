@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  都是英雄！波波维奇谈论NBA球员国际赛场表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="http://lite.hupu.com/app" target="_blank">
+     虎扑
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 15:56:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="都是英雄！波波维奇谈论NBA球员国际赛场表现" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190907/5036cdc5c6e799076c16fcb7ead98d083dc37f57.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日NBA官方社交媒体晒出一张有意思的图，并配有美国队主帅格雷格-波波维奇的言论。
+   </p>
+   <p>
+    波波维奇说到：“当他们为他们的国家队效力时，我们得说球员们都变成了超级英雄。”
+   </p>
+   <p>
+    今年夏天，波波维奇作为美国队主教练带领一众球员参加篮球世界杯，美国队也将于北京时间今晚20:30分迎接希腊男篮的挑战。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Marcus兴)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

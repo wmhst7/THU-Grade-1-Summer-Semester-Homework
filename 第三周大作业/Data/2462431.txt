@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿德巴约：很开心UD回到球队，期待着新赛季
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ByTimReynolds/status/1158865382771286016" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 07:40:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿德巴约：很开心UD回到球队，期待着新赛季" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/7516eb6c55f519e60cfc0c8c45d8e78c71380bc4.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 根据The Athletic记者Shams Charania报道，犹多尼斯-哈斯勒姆与热火签下一年合同，完成续约。
+   </p>
+   <p>
+    “噢，天呐，我很开心我兄弟UD（哈斯勒姆）回来了，我的前辈回来了，他跟我关系很近，就像是我的大哥，我很开心他回来了，期待着新赛季。”巴姆-阿德巴约说道。
+   </p>
+   <p>
+    哈斯勒姆职业生涯至今16个赛季均在热火度过，下赛季将为哈斯勒姆为热火效力的第17个赛季。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

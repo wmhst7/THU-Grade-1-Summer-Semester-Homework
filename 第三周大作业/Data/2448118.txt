@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  纽约邮报：伦纳德会在洛杉矶与各支球队进行会面
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://nypost.com/2019/06/28/knicks-place-in-kawhi-leonards-crystallizing-free-agency-plan/" target="_blank">
+     纽约邮报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-29 08:14:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="纽约邮报：伦纳德会在洛杉矶与各支球队进行会面" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190629/c9fde6c5aac1b5d9f061dff8bcf7c2a567da7977.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月29日讯 根据《纽约邮报》记者Marc Berman的报道，一位消息人士确认，科怀-伦纳德会在洛杉矶举行他与其他球队的会面。
+   </p>
+   <p>
+    根据此前的报道，伦纳德倾向于在自由市场开始后与湖人和快船会面，尼克斯预计之后也会得到会面机会。
+   </p>
+   <p>
+    2018-19赛季常规赛，伦纳德场均上场34.0分钟，得到26.6分7.3篮板3.3助攻1.77抢断，季后赛场均上场39.1分钟，得到30.5分9.1篮板3.9助攻1.67抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

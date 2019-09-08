@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡特回忆效力猛龙时与幼年库里一对一：他问我准备好了吗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.si.com/tech-media/2019/08/27/vince-carter-retirement-final-season-media-career-music-interview?utm_campaign=thecrossover&amp;utm_medium=social&amp;utm_source=twitter.com&amp;xid=socialflow_twitter_si" target="_blank">
+     体育画报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 07:08:45
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡特回忆效力猛龙时与幼年库里一对一：他问我准备好了吗" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/865f2c1baeb67771f90b21a2636794c5700432b8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 近日，老鹰球员文斯-卡特接受了《体育画报》专访，回忆起了自己在猛龙效力期间与队友戴尔-库里的儿子，即现勇士后卫斯蒂芬-库里热身时打球的情形。
+   </p>
+   <p>
+    “当我在观赛人群中找到戴尔-库里和他的妻子时，我有一些恍惚，我还记得我们过去常常一起出去玩。我在猛龙效力的每场主场比赛前，我都和斯蒂芬-库里一对一斗牛。他总是坐在球场一边，拍着球，问我准备好了没？我在结束赛前准备后，就会和他玩。”卡特说道。
+   </p>
+   <p>
+    “我也是这样和小蒂姆-哈达威（蒂姆-哈达威之子）、特雷-莫宁（阿隆佐-莫宁之子）相处的，这可真是令人印象深刻啊。”卡特补充道。
+   </p>
+   <p>
+    卡特说：“我现在看着布鲁克-洛佩斯，人们觉得他也是个老将了，可当年他也是我的菜鸟新秀啊，每当我想到这儿，我就发觉我老了。”洛佩斯2008年第1轮第10顺位被篮网选中，当时卡特正效力于篮网。
+   </p>
+   <p>
+    卡特出生于1977年，今夏与老鹰完成一年续约，这将是42岁的卡特第22个赛季，他也将超过德克-诺维茨基、凯文-加内特以及罗伯特-帕里什，成为在NBA效力时间最长的球员。
+   </p>
+   <p>
+    2018-19赛季常规赛，卡特代表老鹰场均出场17.5分钟，得到7.4分2.5篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

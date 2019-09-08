@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  卡鲁索：我被保证将得到出场时间，自认为非常适合湖人
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.silverscreenandroll.com/2019/8/1/20750735/lakers-news-alex-caruso-interview-point-guard-minutes-frank-vogel-rotation" target="_blank">
+     SSR
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 17:41:22
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="卡鲁索：我被保证将得到出场时间，自认为非常适合湖人" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/29b2901e8c0bd048e5d701e6bcbfa80d9df7850d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 湖人后卫亚历克斯-卡鲁索近日接受采访展望自己在湖人的新赛季前景。
+   </p>
+   <p>
+    “我已经被保证有机会得到出场时间，而且我认为自己非常适合这支球队，不过显而易见，没有什么是被给予的。对我而言，这是一次有趣的测试，检验我在82场的赛程密度下将会如何调整。我认为自己仍将冷静打球。”卡鲁索表示。
+   </p>
+   <p>
+    卡鲁索在湖人上赛季最后19场比赛中得到了大量出场时间并发挥出色。“是的，百分之百，如果朗佐（鲍尔）和英格拉姆没有受伤，有些事可能不会顺着有利于我的方向发展，”卡鲁索说，“如果卢克-沃顿不是我的教练等等。但我非常相信每件事的发生皆有原因。”
+   </p>
+   <p>
+    “阵中拥有勒布朗-詹姆斯和安东尼-戴维斯，你将会有很好的机会赢球。如果球队不在重建期，目标就是赢得总冠军。”卡鲁索说道。
+   </p>
+   <p>
+    2018-19赛季，卡鲁索共代表湖人出战25场，场均出场21.2分钟，得到9.2分2.7篮板3.1助攻。今夏卡鲁索以2年550万美元的合同与湖人续约。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

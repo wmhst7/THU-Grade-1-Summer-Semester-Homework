@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  肯尼-安德森：保罗还能打出2-3年的高效表现
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SiriusXMNBA/status/1152974240028745729" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-22 07:44:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="肯尼-安德森：保罗还能打出2-3年的高效表现" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190722/33825a1a89a25460e71bb9d40cb1ae32db872a5a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月22日讯 前NBA球员肯尼-安德森作客节目时表示，克里斯-保罗油箱里还有很多油。
+   </p>
+   <p>
+    “对保罗来说，与哈登一起打球有些难，现在他去了雷霆，这很容易，但是他还能打出2-3年的高效表现。”安德森说道。
+   </p>
+   <p>
+    安德森接着说：“我不知道，以他的年纪来说，这很难，你懂我的意思么？但是我知道他仍然有这样的技术，可以让他打出好的表现，以他这样的年纪，打NBA真的很难。”
+   </p>
+   <p>
+    安德森是1991年选秀大会的榜眼秀，身高1.83米，体重76公斤的他是一名左撇子后卫。
+   </p>
+   <p>
+    安德森NBA生涯先后效力过篮网、夏洛特黄蜂（现在的黄蜂）、开拓者、凯尔特人、超音速（现在的雷霆）、新奥尔良黄蜂（现在的鹈鹕）、步行者、老鹰和快船，安德森常规赛场均出战30.1分钟可以贡献12.6分3.1篮板6.1助攻1.5抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

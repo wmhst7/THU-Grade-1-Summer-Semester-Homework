@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  达龙-福克斯受邀加入美国陪练队
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ChrisBHaynes/status/1144399196226592768" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-28 08:19:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="达龙-福克斯受邀加入美国陪练队" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190628/1596545b6dd84677727447283e00b778803789dd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月28日讯 根据雅虎体育记者Chris Haynes的报道，消息人士透露，国王后卫达龙-福克斯受邀参加美国男篮梦之队训练营，他将加入陪练队。
+   </p>
+   <p>
+    根据之前的报道，老鹰的约翰-科林斯和国王的马文-巴格利也会加入陪练队。
+   </p>
+   <p>
+    美国男篮梦之队训练营今年8月将在拉斯维加斯进行，为今夏的世界杯做准备。
+   </p>
+   <p>
+    本次训练营大名单为18人。据此前报道，迈尔斯-特纳、安德烈-德拉蒙德、拉马库斯-阿尔德里奇、克里斯-米德尔顿、安东尼-戴维斯、肯巴-沃克、多诺万-米切尔、詹姆斯-哈登、布拉德利-比尔、达米安-利拉德、凯文-乐福、CJ-麦科勒姆、杰森-塔特姆、凯尔-库兹马、布鲁克-洛佩斯和埃里克-戈登预计将参加美国男篮梦之队训练营。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

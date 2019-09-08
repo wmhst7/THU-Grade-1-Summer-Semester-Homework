@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴克利建议恩比德：赶紧练好你的屁股
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/sixers-news-charles-barkley-says-joel-embiid-must-get-his-fat-butt-in-shape/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-17 00:10:09
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴克利建议恩比德：赶紧练好你的屁股" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190717/da41eaa855eca8626ec9e2c9ae7dd247e813ebc1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月17日讯 TNT评论员查尔斯-巴克利今天在节目中表示费城76人是自己最看好的东部球队。
+   </p>
+   <p>
+    巴克利说道：“显然我看好费城76人，他们得到了艾尔-霍福德，虽然托拜厄斯-哈里斯还算不上顶级球员，但他们有两位年轻的顶级球员，乔尔-恩比德和本-西蒙斯，他们潜力非常大。但是恩比德得赶紧练好他的屁股，还有西蒙斯得好好打磨他的比赛。”
+   </p>
+   <p>
+    “在我1984年到76人的时候，摩西-马龙就对我说你太胖了，而且太懒了。所以我希望今年夏天有人能告诉恩比德，你得让你的屁股保持成型。还有西蒙斯，我们可是跟你续约了1.7亿的大合同，你得在跳投上多花点功夫。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

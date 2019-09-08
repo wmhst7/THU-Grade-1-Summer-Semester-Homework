@@ -1,0 +1,62 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  波尔津吉斯晒训练照：和一个坚实的团队一起投入到训练中
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/stories/kporzee/?hl=zh-cn" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 02:39:35
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="波尔津吉斯晒训练照：和一个坚实的团队一起投入到训练中" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/f9c006d34d4e13ba4e20beda8afb24747301673c.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 达拉斯独行侠队中锋克里斯塔普斯-波尔津吉斯今天在个人Instagram Story上传了了一组个人训练照（见新闻配图）。
+   </p>
+   <p>
+    “和我的兄弟一起训练得不错，和一个坚实的团队一起投入到训练当中。”波尔津吉斯写道。
+   </p>
+   <p>
+    根据此前的报道，波尔津吉斯在今夏休赛期与独行侠签下了一份5年1.58亿美元的续约合同。
+   </p>
+   <p>
+    波尔津吉斯在2018年2月7日对阵雄鹿的比赛中左膝前交叉韧带撕裂，他因此缺席了整个2018-19赛季的比赛，至今还未代表独行侠出战过。
+   </p>
+   <p>
+    2017-18赛季常规赛，波尔津吉斯场均出场32.4分钟，得到22.7分6.6篮板1.2助攻2.4盖帽。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/02/fbda96104dbef64c90fd693801ba8cc4.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/02/1c8983aedcad802fbc8e8a30b98b0ac3.png"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190729/02/f62bf0beaeb9f9b478e34f861a44d348.png"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

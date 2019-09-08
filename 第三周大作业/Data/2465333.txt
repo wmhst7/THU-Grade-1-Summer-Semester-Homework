@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  加里纳利和达托梅正在进行单独训练，训练内容仍受到限制
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/919089/datome-gallinari-progress-ahead-of-world-cup/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-14 17:59:49
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="加里纳利和达托梅正在进行单独训练，训练内容仍受到限制" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190814/377cdfb77b907685091a8322a70d30a61c760735.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月14日讯 根据意大利媒体La Gazzetta dello Sport的报道，此前接受阑尾切除手术的前锋达尼罗-加里纳利目前正在进行单独训练，队友路易吉-达托梅也参加其中，但二人目前的训练内容仍受到限制。
+   </p>
+   <p>
+    两位球员都将缺席今日与委内瑞拉男篮的热身赛，以及当地时间8月16日至8月18日在雅典举行了热身赛。达托梅预计将会参加在中国举行了友谊赛，加里纳利将会在世界杯开幕前做好准备。
+   </p>
+   <p>
+    据此前的相关报道，加里纳利在8月3日接受了阑尾切除手术，预计将缺席整个热身赛阶段。达托梅由于膝盖伤病也将缺席部分热身赛，预计将在8月23日之前加入意大利男篮训练营，参加与塞尔维亚、法国和新西兰的热身赛。
+   </p>
+   <p>
+    本届男篮世界杯，意大利与安哥拉、菲律宾、塞尔维亚同处D组，小组赛将在佛山进行。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,59 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  萨姆纳：续约步行者对于我而言是很棒的机会，我渴望竞争
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.indystar.com/story/sports/nba/pacers/2019/07/29/indiana-pacers-t-j-mcconnells-primary-job-pushing-aaron-holiday/1849620001/" target="_blank">
+     印第安纳波利斯星报
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-30 16:33:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="萨姆纳：续约步行者对于我而言是很棒的机会，我渴望竞争" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190730/24b328e5ec391d885b07f871af5461646c660f47.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月30日讯 步行者官方今日宣布球队正式续约后卫埃德蒙-萨姆纳，随后萨姆纳接受了媒体采访。
+   </p>
+   <p>
+    谈到续约步行者，萨姆纳说：“我认为这对于我而言是很棒的机会，作为一名年轻球员，能够和我的队友们并肩作战，携手去努力竞争，我会为了球队全力以赴。”
+   </p>
+   <p>
+    谈到自己的风格，萨姆纳说：“我更像是一名双能卫，一号位和二号位都能打，无论球队赋予我怎样的角色，我都义不容辞。”
+   </p>
+   <p>
+    谈到在球队中的定位，萨姆纳说：“我是一个充满竞争性的家伙，我渴望去竞争，这会不断激励我前进。无论球队需要我承担怎样的角色，我都会牢牢把握住机会，我会专注于提升自己。”
+   </p>
+   <p>
+    谈到休赛期的训练计划，萨姆纳说：“继续变得更强壮，打磨自己的投篮和传球技术，和球队的训练团队紧密合作，确保自己的身体能够做好准备。”
+   </p>
+   <p>
+    据之前的相关报道，萨姆纳的合同金额为3年650万美元。
+   </p>
+   <p>
+    2018-19赛季常规赛，萨姆纳场均出场9.1分钟，能够得到2.9分1篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

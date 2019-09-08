@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  迈卡威晒与妻子女儿同游洛杉矶动物园的照片
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1mr6wxHdFo/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 14:46:36
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="迈卡威晒与妻子女儿同游洛杉矶动物园的照片" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/1f7964c4f00bae794a67fe5931be2b2b5c56ac80.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今天魔术球员迈克尔-卡特-威廉姆斯在Instagram上晒出了自己和女儿同游洛杉矶动物园和植物公园的照片，并写道：“我和女儿@charleighcw及妻子@tiashah在动物园的一天。”
+   </p>
+   <p>
+    2018-19赛季常规赛，迈克尔-卡特-威廉姆斯场均上场13.3分钟，得到4.8分2.5篮板2.5助攻。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/14/d12f3ab84f29a727804d24f095a9bcd8.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/14/2b85b04b3ffc8837d9ba2ebcca4c3548.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/14/4c257dcd151992a652e9f25039144449.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190826/14/14b96f742774561b120d3f86e6d715b6.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：骑驴的泽北)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

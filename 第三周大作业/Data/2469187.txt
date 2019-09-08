@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  洛佩斯谈字母哥：他还有很多潜力可以兑现，这很疯狂
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://hoopshype.com/2019/08/24/nba-rumors-bucks-brook-lopez-free-agency-disney-experience-interview-milwaukee-giannis-robin/" target="_blank">
+     HoopsHype
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-26 03:32:31
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="洛佩斯谈字母哥：他还有很多潜力可以兑现，这很疯狂" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190826/224786c4c75eef29396d890f23b5745741b1eb1b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月26日讯 今日，NBA球员布鲁克-洛佩斯接受了采访，谈到了队友扬尼斯-阿德托昆博。之前阿德托昆博曾在采访中表示只兑现自己天赋的60%，洛佩斯对此发表了自己的看法。
+   </p>
+   <p>
+    洛佩斯说道：“事实上他达到他现在这个等级已经十分的疯狂了，但是他甚至还可以在比赛中再上一个或者两个等级。它可以变成比现在还要好的球员，对于整个联盟而言，想想就可怕。”
+   </p>
+   <p>
+    2018-19赛季常规赛，布鲁克-洛佩斯场均出场28.7分钟，得到12.5分4.9篮板2.21盖帽，并入选本届男篮世界杯美国男篮最终12人大名单；2018-19赛季常规赛，阿德托昆博场均上场32.8分钟，得到27.7分12.5篮板5.9助攻1.28抢断1.53盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：骚包禾斗匕匕)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

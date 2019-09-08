@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  沃尔晒与儿子的生活照：世界是你们的
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1XerMSA6ZH/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 10:13:16
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="沃尔晒与儿子的生活照：世界是你们的" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190820/66e0a562c0db5f414ab91cc5cb40ec07d99f581d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 华盛顿奇才队后卫约翰-沃尔今天在个人Instagram上传了一张自己与儿子的照片（见新闻配图）。
+   </p>
+   <p>
+    “我的教练以及我的动力源泉......世界是你们的！”沃尔写道。
+   </p>
+   <p>
+    根据此前的报道，沃尔今年2月因在浴室滑倒而接受了跟腱断裂修复手术，并可能会错过2019-20赛季。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

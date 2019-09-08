@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  威斯布鲁克点赞乔治社媒并评论：爱你，伙计！
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzmT5fplODS/?igshid=1rwf8yhullsg9" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-07 10:48:50
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="威斯布鲁克点赞乔治社媒并评论：爱你，伙计！" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190707/29ef57a1a55711713308ec4930b181e2dae94d1f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月7日讯 今日保罗-乔治更新了自己的个人Instagram账号，表达了
+    <a href="https://voice.hupu.com/nba/2451096.html" target="_blank">
+     对雷霆的感谢
+    </a>
+    。
+   </p>
+   <p>
+    随后，拉塞尔-威斯布鲁克点赞了该条动态，并评论道：“爱你，伙计！你知道我想表达的意思！”
+   </p>
+   <p>
+    根据此前的报道，乔治与威斯布鲁克的关系始终很好，他的交易申请与二人的私交关联不大，乔治也曾在交易后第一时间发推斥责针对威斯布鲁克的诋毁。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

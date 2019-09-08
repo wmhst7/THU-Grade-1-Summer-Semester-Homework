@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  秀腹肌！伊巴卡今日更新社媒晒出个人帅照大秀身材
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/BzLZ2JSBGqL/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 09:38:21
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="秀腹肌！伊巴卡今日更新社媒晒出个人帅照大秀身材" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190627/7caa4b26c6215158a0ffde0f98c698ebb4eff965.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 今日，猛龙前锋赛尔吉-伊巴卡更新了个人社交媒体Instagram晒出一张自己大秀身材的个人帅照（见新闻配图）。
+   </p>
+   <p>
+    2018-19赛季常规赛，伊巴卡场均出场27.2分钟，可以得到15.0分8.1篮板1.3助攻1.39封盖。
+   </p>
+   <span id="editor_baidu">
+    (编辑：我就改个名字)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

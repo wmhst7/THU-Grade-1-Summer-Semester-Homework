@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  丹尼尔斯谈杜德利：他真的很出色，期待再次合作
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/lakers-news-troy-daniels-calls-jared-dudley-the-ultimate-vet/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-16 13:18:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="丹尼尔斯谈杜德利：他真的很出色，期待再次合作" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190716/35c693c0243c1410ecefbbb82e16b0d760f6ccdf.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月16日讯 洛杉矶湖人队在今夏的休赛期签下了老将贾里德-杜德利以及后卫特洛伊-丹尼尔斯。
+   </p>
+   <p>
+    近日，丹尼尔斯在接受采访谈到杜德利时说道：“当我知道他会来（湖人）时，我真的难以置信地欣喜若狂，因为他是一位真正的老将......他总是会在你的耳边絮叨，他会确保你投入到训练当中，他还会向你灌输信心......他真的是一个很出色的家伙。”
+   </p>
+   <p>
+    “我很高兴能够和他在同一支球队共事，期待再一次和他合作，我们曾在菲尼克斯有过一段不错的时光（2017-18赛季，丹尼尔斯与杜德利曾在太阳做过队友）。这对我们来说有点坎坷，但重要的是我认为我们现在来到了一支真正能够让我们享受自己的球队了，赢球并争夺总冠军。”丹尼尔斯补充道。
+   </p>
+   <p>
+    2018-19赛季常规赛，丹尼尔斯场均出场14.9分钟，得到6.2分1.4篮板；杜德利场均出场20.7分钟，得到4.9分2.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

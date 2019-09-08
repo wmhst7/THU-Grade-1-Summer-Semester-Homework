@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官方：森林狼正式签约新秀贾勒特-卡尔弗
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/timberwolves/status/1148082612507779077?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-08 12:44:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官方：森林狼正式签约新秀贾勒特-卡尔弗" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190708/7b4b830edf59535abe85f10446072066b881d282.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月8日讯 森林狼官方推特今日发布新秀贾勒特-卡尔弗与球队完成签约的照片。
+   </p>
+   <p>
+    “执笔签字。”森林狼官方写道。
+   </p>
+   <p>
+    卡尔弗是本届选秀的6号秀，此前森林狼通过与太阳的交易得到他的签约权。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/12/c42bd8483880f202ca472516d5381fc4.jpeg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190708/12/0128569ef8bc47ab11709246af41336c.jpeg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  阿龙-戈登：富尔茨是沉睡的野兽，他对我们来说非常关键
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/siriusxmnba/status/1156237693107539968?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-31 08:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="阿龙-戈登：富尔茨是沉睡的野兽，他对我们来说非常关键" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190731/5e46d024e85b0f3884084d77d8b3e886c390f1e1.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月31日讯 阿龙-戈登作客节目时谈到了多个方面。
+   </p>
+   <p>
+    “马克尔-富尔茨是一个沉睡者，如果他醒来，他就是一头野兽，人们忽略了他，这就是我说他是一个沉睡者的原因，他会对我们球队非常关键，他在控卫的位置上，与DJ-奥古斯丁和迈卡威一起。”戈登说道。
+   </p>
+   <p>
+    戈登接着说：“是的，除了获得艾尔-法鲁克-阿米奴之外，我们没有做其他的运作，他是一名很有拼劲的球员，是一名3D（三分和防守）球员，他身高臂长，从上赛季到新赛季，一切都没改变，这就是最美丽的地方。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

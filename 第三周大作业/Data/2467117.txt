@@ -1,0 +1,51 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  2K总监晒与詹姆斯合照：感谢带来最好的2K生涯模式电影
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Ronnie2K/status/1163557693795123200" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-20 05:15:38
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="2K总监晒与詹姆斯合照：感谢带来最好的2K生涯模式电影" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190820/7fcaf9a6188716462efeaa50051b78b8e4daa13b.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月20日讯 今日，2K全球社区营销总监Ronnie Singh更新社交媒体推特，晒出与湖人球员勒布朗-詹姆斯和他的商务合作伙伴马弗里克-卡特的合影。
+   </p>
+   <p>
+    Ronnie配文：“感谢@勒布朗-詹姆斯和@马弗里克-卡特，以及整个SpringHill制作团队，帮助我们带来迄今为止最好的2K生涯模式电影（相关阅读：
+    <a href="http://lite.hupu.com/s?u=nba/news/2467084&amp;type=1">
+     NBA 2K20辉煌生涯模式电影公布，名为《光芒万丈时》
+    </a>
+    ）。 篮球界的一些最优秀的思想家和讲述者。 这就是我们能把＃NBA2K20带到全新的高度的原因！”
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190820/05/81795f731d379194a1fedd54d021c93b.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：包包)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

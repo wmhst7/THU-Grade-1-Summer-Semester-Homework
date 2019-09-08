@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  独行侠与45号秀以赛亚-罗比签下4年670万美元合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/BobbyMarks42/status/1158842533771972610" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-07 04:56:55
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="独行侠与45号秀以赛亚-罗比签下4年670万美元合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190807/52249cd7cab7e5c33731cf0f97d87ab08e9af824.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月7日讯 据记者Bobby Marks报道，经纪人透露，独行侠已与45号秀以赛亚-罗比签下一份4年670万美元的合同。
+   </p>
+   <p>
+    此前，独行侠送出37号秀代维达斯-西尔维迪斯的签约权，从活塞得到45号秀以赛亚-罗比的签约权和两个未来二轮签。
+   </p>
+   <p>
+    罗比今年21岁，司职前锋，身高2.04米，体重97公斤，2018-19赛季代表内布拉斯加大学出场35次，场均出场31.2分钟，得到11.8分6.9篮板1.9助攻1.3抢断1.9盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：10EdenHazard10)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

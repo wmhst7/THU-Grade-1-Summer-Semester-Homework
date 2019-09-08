@@ -1,0 +1,65 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  韦德发布女儿及詹姆斯科比威少等人怒吼照：谁吼得最好？
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B1sWtoqn1Rs/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 14:00:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="韦德发布女儿及詹姆斯科比威少等人怒吼照：谁吼得最好？" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190828/2590f3758577d15b665fed77956b913b3916894a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 前NBA球员德维恩-韦德今日通过Instagram发布其女儿的怒吼照，并将之与自己、妻子及其他几位球员的类似照片进行对比。
+   </p>
+   <p>
+    “谁吼得最好？（请左滑观看）”韦德写道。
+   </p>
+   <p>
+    除韦德夫妇外，湖人前锋勒布朗-詹姆斯、火箭后卫拉塞尔-威斯布鲁克以及湖人名宿科比-布莱恩特的赛场怒吼图也出现在韦德的发布内容中。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/a4a74263d1b29429186acea873ca3fdf.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/e57b860ebccbe1d7f2d2557975799f1d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/1dad8c39e09f427168f6e5f8f122f831.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/257d03034c79aca7360d2b85bec5460d.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/13/7cc9eb6f1334be36dd57616b715cc3de.jpg"/>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190828/14/f21d493fa2277da0353fb82fa19c1fd3.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

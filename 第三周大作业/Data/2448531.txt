@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴德蒙与国王之间彼此有意，合作意向强烈
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/carmichaeldave/status/1145126248781189121?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-30 10:02:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴德蒙与国王之间彼此有意，合作意向强烈" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190630/abf1071e7cdf605d899ea6c41e6a98615964032f.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月30日讯 据NBA记者Carmichael Dave报道，自由球员德维恩-戴德蒙与国王互相有意，而且合作意向强烈。目前戴德蒙加盟国王还未板上钉钉，但双方都有信心达成一致，预计明天会达成合同。
+   </p>
+   <p>
+    根据NBC体育记者James Ham的报道，联盟消息人士确认，国王对自由球员中锋德维恩-戴德蒙感兴趣。
+   </p>
+   <p>
+    2018-19赛季常规赛，戴德蒙场均出战25.1分钟，可以拿到10.8分7.5篮板1.4助攻1.1抢断1.1盖帽。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

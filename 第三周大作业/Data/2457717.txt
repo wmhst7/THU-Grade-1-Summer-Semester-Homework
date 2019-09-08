@@ -1,0 +1,53 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  乔治谈离开雷霆：这是我和球队双方共同作出的决定
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/ErikHorneOK/status/1154118414035836929" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-25 05:48:52
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="乔治谈离开雷霆：这是我和球队双方共同作出的决定" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190725/4376d36823d922735fd47997beeff8a54056bcf7.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月25日讯 今日快船为保罗-乔治和科怀-伦纳德举办了介绍新援的新闻发布会。
+   </p>
+   <p>
+    在谈到回到洛杉矶时，乔治说道：“家人们和朋友们能够全程陪伴我，我可以和我长大相识的人们叙叙旧。我能够一直呆在这里，和我的侄女和侄子以及亲戚们的孩子们呆在一起。”
+   </p>
+   <p>
+    在谈到球员们有权力决定自己的下家时，乔治说道：“我与雷霆管理层面对面交谈。我们有不错的关系。我在那里有不错的两年。对于我们双方而言，是时候分开了，我们都有以不同的方式处理这件事情的想法，这是我们双方共同作出的决定。我不认为这有什么不妥，如果双方想法一致，我认为这个决定应该是由双方共同和平等做出的。最终，球队和球员都能得到不错的职业生涯发展。只要双方都对彼此尊重，这就不会显得不妥。”
+   </p>
+   <p>
+    在谈到自己的肩部手术时，乔治说道：“目前日期还没有确定，但我的恢复一直很不错。目前恢复的进程很顺利。我们会慢慢来，并期待在合适的时间回归。”
+   </p>
+   <p line="VWFL">
+    2018-19赛季常规赛，乔治场均上场36.9分钟，得到28.0分8.2篮板4.1助攻2.21抢断。
+   </p>
+   <span id="editor_baidu">
+    (编辑：JQQ)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

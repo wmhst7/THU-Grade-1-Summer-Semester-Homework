@@ -1,0 +1,92 @@
+<html>
+
+<head>
+    <!-- <style type="text/css">
+        body {
+            background-image: url(https://git.thusaac.org/trinkle/wallpaper/raw/master/mbuntu-2.jpg);
+            background-size: 1600px 900px;
+        }
+    </style> -->
+    <title>
+        搜索界面
+    </title>
+    <style>
+        body {
+            background-color: tomato;
+        }
+
+        h1 {
+            color: whitesmoke;
+            text-align: center;
+        }
+
+        p {
+            font-family: "Times New Roman";
+            font-size: 20px;
+        }
+        input
+        {
+        outline-style:none;
+        border: 0px;
+        border-color:white;
+        border-radius:5px;
+        padding: 23px, 24px;
+        width: 620px;
+        font-size:20px;
+        font-family: "Microsoft soft";
+        }
+        /* 未访问链接*/
+        a:visited {
+        color: white;
+        }
+
+        /* 鼠标移动到链接上 */
+        a:active {
+        color: darkgray;
+        }
+
+        /* 鼠标点击时 */
+        a {
+        text-decoration: none;
+        }
+        div {
+        text-align: center;
+        font-size: 10px;
+        color: white
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar" align='center'>
+        <div class="navbar-inner" >
+            <a class="brand" href="">搜索</a>
+            <a class="brand" href="/teamlist/">球队热度榜</a>
+            <a class="brand" href="/spy/">爬虫管理</a>           
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <h1 align="center">
+        虎扑新闻搜索
+    </h1>
+    <br />
+    <br />
+    <form action="/find/" align="center" method="get">
+        <table align="center" style="width:34em">
+            <tr>
+                <td>
+                    <input placeholder=" 搜🐴？" type="search" name='q'>
+                </td>
+            </tr>
+
+        </table>
+    </form>
+</body>
+
+</html>

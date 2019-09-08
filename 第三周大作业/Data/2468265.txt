@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  特雷沃-布克最近为掘金试训，还会为雄鹿和快船试训
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/AlexKennedyNBA/status/1164698169407680513" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-23 08:47:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="特雷沃-布克最近为掘金试训，还会为雄鹿和快船试训" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190823/b565d858a2c9d0793f44ddecfb83dadb2f43aff5.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月23日讯 根据HoopsHype记者Alex Kennedy的报道，多位消息人士透露，特雷沃-布克最近为掘金试训，接下来还会为雄鹿和快船试训。
+   </p>
+   <p>
+    31岁的布克NBA生涯至今出战532场常规赛，场均出战20.4分钟可以拿到6.9分5.5篮板1.1助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

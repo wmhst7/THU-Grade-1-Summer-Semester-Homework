@@ -1,0 +1,48 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  身材什么水平，特雷-杨海边半裸秀肌肉
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0rSLrCps9H/?utm_source=ig_web_copy_link" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-03 10:35:43
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="身材什么水平，特雷-杨海边半裸秀肌肉" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190803/84a0429524cf0b159939114411d9b97ba559dd11.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月3日讯 今日，亚特兰大老鹰队球员特雷-杨更新社交媒体Instagram晒出个人半裸照。（见新闻配图）
+   </p>
+   <p>
+    特雷-杨写到：“做的不同（雪花emoji）”
+   </p>
+   <p>
+    2018-19赛季常规赛，特雷-杨场均出场30.9分钟，能够得到19.1分3.7篮板8.1助攻。
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190803/10/c521714fc1b9a350d073f50c0f34edf6.jpg"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：隔壁老王)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

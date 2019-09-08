@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  芬尼-史密斯：能和球队完成续约非常幸运
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://clutchpoints.com/mavs-news-dorian-finney-smith-blessed-from-being-15th-man-on-bench-to-re-signing-long-term/" target="_blank">
+     ClutchPoints
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-29 20:10:40
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="芬尼-史密斯：能和球队完成续约非常幸运" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190729/489a3c57817b166a71aeef03f136b9ee7db85975.png"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月29日讯 独行侠前锋多里安-芬尼-史密斯近日在家乡举办篮球训练营期间接受了采访。
+   </p>
+   <p>
+    谈到举办训练营，他表示：“这意味着很多，其实并没有许多来自弗吉尼亚的朴茨茅斯的人做这些事，这关乎社区，我一直都有社区在背后支持我，我是把社区当作家的。”
+   </p>
+   <p>
+    今夏，史密斯和球队达成3年1200万美元的续约合同，从球队的第15人到签下长约，对此他表示：“我是付出了很大的牺牲来到如今的，从球队名单的第15人，到如今获得合同，这是一种幸运，这种幸运我希望别人也能拥有。”
+   </p>
+   <p>
+    多里安-芬尼-史密斯在2016年进入联盟，生涯前三个赛季均效力于独行侠。2018-19赛季常规赛，多里安-芬尼-史密斯场均出场24.5分钟，得到7.5分4.8篮板1.2助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：武当松柏)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  官宣：勇士与当地体育电台达成多年续约合同
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/WarriorsPR/status/1166402894024720384" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-28 02:56:07
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="官宣：勇士与当地体育电台达成多年续约合同" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190828/523b17004d6ee41f47a272b4003014fb760c4dc8.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月28日讯 今日，勇士官方宣布与体育广播电台95.7 The Game签下一份多年续约合同。下赛季会是双方合作的第四个赛季。
+   </p>
+   <p>
+    “我们很享受之前三个赛季于95.7 The Game合作的关系，并且期待在大通中心继续加深我们的合作。”勇士总裁兼首席运营官Rick Welts说道，“更重要的是，我们的球迷能继续全面、精确的365天受益。”
+   </p>
+   <p>
+    95.7 The Game是一家为旧金山服务的体育电台，是勇士队的旗舰站。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李佳俊)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

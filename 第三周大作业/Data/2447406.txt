@@ -1,0 +1,44 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  开拓者、湖人和凯尔特人预计将有意追逐坎特
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/chrisbhaynes/status/1144000294394552320?s=21" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 05:57:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="开拓者、湖人和凯尔特人预计将有意追逐坎特" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/3c1d70fb1267116ea93c78d6790e665fd1407b7c.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 据雅虎体育记者Chris Haynes报道，联盟消息人士透露，当自由球员市场开启时，开拓者、湖人和凯尔特人预计将有意追逐自由球员中锋埃内斯-坎特。
+   </p>
+   <p>
+    2018-19赛季常规赛，坎特场均上场24.5分钟，得到13.7分9.8篮板；季后赛场均上场28.8分钟，得到11.4分9.6篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

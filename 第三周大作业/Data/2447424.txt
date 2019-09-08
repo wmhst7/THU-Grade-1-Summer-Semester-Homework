@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈登：保持健康，继续进步，不断努力
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/MarkBermanFox26/status/1143954663818924032" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-06-27 07:03:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈登：保持健康，继续进步，不断努力" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190627/2b3b21bde62adda6229153fdeee8d5b70f34612d.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑6月27日讯 火箭的詹姆斯-哈登在菲律宾的马尼拉参加活动时接受了采访，他谈到了火箭。
+   </p>
+   <p>
+    “我不知道，我们必须要保持健康，这是上赛季让我们退步的原因之一，健康，这是我们控制不了的事情，这就是篮球的一部分，会有伤病情况。”哈登说道。
+   </p>
+   <p>
+    哈登接着说：“我们必须要继续进步，包括我自己，还有保罗，还有球队里的所有人，回到球队，变得更好。”
+   </p>
+   <p>
+    “保持同样的自信，我们在上赛季给了我们一个机会，我们差了一点，我们会继续进步，下赛季回来变得更好，不能老想着过去，继续努力，继续前进，这才让一切变得特别。”哈登说道。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  巴图姆谈击败黑山：下半场提升比赛强度，让对手陷入疲惫
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.eurohoops.net/en/fibawc/919598/batum-fournier-lead-france-to-comeback-win-vs-montenegro/" target="_blank">
+     Eurohoops
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-16 13:55:29
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="巴图姆谈击败黑山：下半场提升比赛强度，让对手陷入疲惫" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190816/ccab88a24e7f984e2d2bbc8c6a9b594f4cf97e30.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月16日讯 在今日结束的一场热身赛中，法国男篮凭借第四节的出色表现，最终以80-72逆转黑山男篮。赛后，法国前锋尼古拉斯-巴图姆接受了媒体采访。
+   </p>
+   <p>
+    “我们在场上不停地跑动，寻找解决问题的方法。在下半场比赛，我们提升了比赛强度，努力让对手陷入疲惫，不得不派上小个阵容。阿克塞尔-唐佩恩的表现令人印象深刻，弗朗克-尼利基纳从未停止向对手施压。但我们对于本场比赛并不完全满意，有些时候你急于在防守端做到一些事情，赌博式的抢断，却因此顾此失彼，这会导致比分被拉开，而且我们的失误太多了。”巴图姆说道。
+   </p>
+   <p>
+    谈到对手的表现，巴图姆说：“我必须要说他们的表现很好，对手是一支训练有素的队伍，我们能够通过攻守转换打成回合，但在打半场进攻时，我们必须做好转移球。”
+   </p>
+   <p>
+    本场比赛，巴图姆9投7中，三分球4投全中，得到18分，埃文-富尼耶得到了17分。黑山男篮中锋尼古拉-武切维奇得到10分12篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：拖鞋)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

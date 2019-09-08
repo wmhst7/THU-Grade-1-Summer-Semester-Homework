@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  莫雷：没想到雷霆会交易他们的MVP，我们必须努力争冠
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/SalmanAliNBA/status/1157008052392026118" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-08-02 06:55:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="莫雷：没想到雷霆会交易他们的MVP，我们必须努力争冠" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190802/561fdb6152a8af4ecbfdbf44f930b560facfea8a.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑8月2日讯 火箭总经理达雷尔-莫雷作客节目时谈到了克里斯-保罗与拉塞尔-威斯布鲁克的交易。
+   </p>
+   <p>
+    之前莫雷称保罗新赛季100%会在火箭，对此，莫雷说：“我理应得到这样的批评，我必须承认，我之前没有预料到威斯布鲁克可以被交易，保罗是一名很棒的球员，如果我们想得到一名出色的球员，我们必须要送出一名出色的球员。”莫雷说道。
+   </p>
+   <p>
+    莫雷接着说：“我没有预料到会发生这样的事情，之前有流言称保罗-乔治一年前会去洛杉矶，但是他续约了雷霆，我当时想他一定是爱那里，我没有想到乔治交易会发生，我也没有想到雷霆会交易他们的MVP（威少），所以，是的，我本该说保罗99.9%不会被交易的。”
+   </p>
+   <p>
+    为何联系雷霆？莫雷说：“首先，他们球队里有很多不错的球员，所以我的工作是去查看下情况，是的，如果雷霆可以交易威斯布鲁克，这是我必须要调查一下的事情，如果他以低于我们愿意给出的报价被交易到了其他球队，这就是一个问题了，得到一个最近当选MVP的球员，我认为在NBA的历史上，只有4次同一支球队里有最近3年当选MVP中的2人，他们最终都夺冠了，很明显的是，我们必须要去努力夺冠，但是这是一个非常不错的夺冠公式。”
+   </p>
+   <p>
+    “是的，我第二天就联系了哈登，因为那笔交易发生在晚上很晚的时候，在我与雷霆聊过之后，我第二天就与哈登聊了，当时看起来我们有机会得到威少，他们从小就一起打球，他们非常了解彼此。”莫雷说道。
+   </p>
+   <p>
+    莫雷接着说：“我一直赞成球员得到更多的权利，就像你们知道的那样，我们在做重大决定的时候，我们队中的球星都会参与进来，最终，是这些顶级球员们驱动着联盟，人们是来看他们打球的，他们参与到各种事情中，这是非常合适的，我的工作是确保他们永远不想离队。”
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

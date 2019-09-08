@@ -1,0 +1,56 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  单脚站立！戴维斯身穿湖人训练服进行平衡训练
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://instagram.com/stories/mrdoitmoving/2085170311902139926?utm_source=ig_story_item_share&amp;igshid=t2ifrwrpv3ve" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-11 06:54:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="单脚站立！戴维斯身穿湖人训练服进行平衡训练" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190711/c7778be1e4d72cf6e7d521959fee7bfd37f771dd.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月11日讯 健身教练Mike G今日通过Instagram Story分分享了湖人前锋安东尼-戴维斯的训练动态。
+   </p>
+   <p>
+    戴维斯身穿一件湖人训练服单脚站立进行平衡训练，这也是外界首次看到他身着湖人装备公开亮相。
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190711/06/73f4e77af363b40cb633237fa9927723.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 3M" src="https://c1.hoopchina.com.cn/uploads/images/20190711/06/7110316e06b4c7e52f78788eb9d4fd34.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190711/06/d5b56f8f4e563a7784f55ff76e9e4539.gif"/>
+   </p>
+   <p>
+    <img alt="GIF 4M" src="https://c1.hoopchina.com.cn/uploads/images/20190711/06/2107454695898dd4d34c1ea8c1680afb.gif"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：Oceans)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  诺维茨基参加篮球活动：梦想在被实现之前都很疯狂
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B0b4hYRhsTs/" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-28 10:04:17
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="诺维茨基参加篮球活动：梦想在被实现之前都很疯狂" src="https://c2.hoopchina.com.cn/uploads/star/event/images/190728/8bc90698745967536b7251d4e1d7f55d62a603d9.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月28日讯 前NBA球员德克-诺维茨基今天在个人Instagram上传了一张自己与年轻球员的合影（见新闻配图）。
+   </p>
+   <p>
+    “在你将它们实现之前，所有的梦想都很疯狂。”诺维茨基写道。
+   </p>
+   <p>
+    诺维茨基于2018-19赛季常规赛结束后宣布退役，职业生涯他一直效力于独行侠，共出战1522场常规赛，场均出场33.8分钟，得到20.7分7.4篮板2.4助攻。
+   </p>
+   <span id="editor_baidu">
+    (编辑：skrr)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

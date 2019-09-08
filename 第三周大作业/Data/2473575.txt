@@ -1,0 +1,84 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  戴维斯杜兰特西蒙斯韦德等球员出席2K20游戏发售活动
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://www.instagram.com/p/B2F0EUJFKQQ/?igshid=12pk231imw5hs" target="_blank">
+     Instagram
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-09-07 10:40:25
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="戴维斯杜兰特西蒙斯韦德等球员出席2K20游戏发售活动" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190907/ee5ec3f30a636f7646a163d5493ef854e2d93489.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑9月7日讯 今日，NBA 2K20游戏公司举办了NBA 2K20游戏发售活动，湖人球员安东尼-戴维斯、肯塔维厄斯-考德威尔-波普和塔伦-霍顿-塔克、篮网球员凯文-杜兰特、热火名宿德维恩-韦德、76人球员本-西蒙斯、自由球员JR-史密斯出席了活动。
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/26063603e6ff3299d939b9ed716622f5.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/c3e957536365515173adafd01a56b14a.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/0b2a83de7d2fc31e25441893af094def.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/390e61467256772887a34eee8ceb9401.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/ef7db7e122316196076fbaa670346250.jpg"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/d4f11b3686b215c5c6f8896ca8177040.JPG"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/3a764398b991a938ff04c8fbfb3c8cbe.JPG"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/40bb7b9df10504935735b2cb62712e2b.JPG"/>
+   </p>
+   <p>
+   </p>
+   <p>
+    <img alt="" src="https://c1.hoopchina.com.cn/uploads/images/20190907/10/5969ae6d107bbf71c9ce36cc96acf5b3.JPG"/>
+   </p>
+   <span id="editor_baidu">
+    (编辑：AphroditeSC30)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>

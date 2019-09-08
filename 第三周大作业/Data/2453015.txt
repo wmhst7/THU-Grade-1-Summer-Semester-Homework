@@ -1,0 +1,50 @@
+<html><body>
+<div class="artical-title">
+ <h1 class="headline">
+  哈尔滕施泰因：得知伤势没那么糟后让我松了口气
+ </h1>
+ <div class="artical-info">
+  <span class="fn-fl">
+   <span class="comeFrom" id="source_baidu">
+    来源：
+    <a href="https://twitter.com/Jonathan_Feigen/status/1149471312437338112" target="_blank">
+     Twitter
+    </a>
+   </span>
+   <a class="time" href="javascript:;">
+    <span id="pubtime_baidu">
+     2019-07-12 08:46:00
+    </span>
+   </a>
+  </span>
+ </div>
+</div>
+<div class="artical-content">
+ <!-- 一般全文 start -->
+ <div class="artical-content-read">
+  <div class="artical-importantPic">
+   <img alt="哈尔滕施泰因：得知伤势没那么糟后让我松了口气" src="https://c1.hoopchina.com.cn/uploads/star/event/images/190712/c091de6e584aab63a4e6e6b56969d6c912e171ef.jpg"/>
+  </div>
+  <div class="artical-main-content">
+   <p>
+    虎扑7月12日讯 根据The Athletic记者Kelly Iko的报道，消息人士透露，火箭中锋以赛亚-哈尔滕施泰因被诊断为右脚踝一级扭伤，很可能将缺席2-3周的时间。
+   </p>
+   <p>
+    在火箭与国王的拉斯维加斯夏季联赛中，哈尔滕施泰因在一次落地时右脚受伤，倒在火箭板凳席前，随后被队友搀扶下场。
+   </p>
+   <p>
+    根据《休斯顿纪事报》记者Jonathan Feigen的报道，目前哈尔滕施泰因右脚已经穿上了保护靴，他称得知伤势情况没有那么糟后让他松了口气，在夏季联赛结束后，会有伤病防范理疗师在德国帮助哈尔滕施泰因恢复，他会像之前计划的那样回到德国，预计在新赛季训练营前恢复健康。
+   </p>
+   <p>
+    2018-19赛季常规赛，哈尔滕施泰因共上场28次，场均上场7.9分钟，得到1.9分1.7篮板。
+   </p>
+   <span id="editor_baidu">
+    (编辑：李昌隆)
+   </span>
+  </div>
+ </div>
+ <!-- 一般全文 end -->
+ <!-- 赛事直播模块 start-->
+ <!-- 赛事直播模块 end-->
+</div>
+</body></html>
